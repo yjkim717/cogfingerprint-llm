@@ -5,13 +5,13 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 HUMAN_DIR = os.path.join(BASE_DIR, "Dataset", "Human")
 LLM_DIR = os.path.join(BASE_DIR, "Dataset", "LLM")
 
-# OpenAI API Key (replace later)
-OPENAI_API_KEY = "YOUR_API_KEY_HERE"
+# OpenAI API Key
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "YOUR_API_KEY_HERE")
 
-# Only define styles, not lengths
+# Style information (length is dynamic, only tone/style is fixed)
 GENERATION_STYLE = {
-    "news": "news article",
-    "blogs": "reflective blog post",
-    "academic": "academic essay",
-    "literary_works": "literary piece",
+    "News": "news article",
+    "Blogs": "reflective blog post",
+    "Academic": "academic essay",
+    "Literary_works": "literary piece"
 }
