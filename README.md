@@ -104,9 +104,3 @@ This pipeline is designed to support research on:
 - **Cognitive Fingerprinting**: Capturing dynamic stylistic and emotional trajectories.  
 - **Temporal Analysis**: Comparing how writing evolves across years in Human vs. LLM texts.  
 
----
-
-## Next Steps
-- Implement `parse_filename()` to extract metadata.  
-- Integrate OpenAI API calls for text generation.  
-- Conduct experiments on **variability, coherence, and separability** of trajectories.  
