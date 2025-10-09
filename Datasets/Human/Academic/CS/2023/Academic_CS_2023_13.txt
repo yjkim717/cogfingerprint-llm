@@ -1,0 +1,8 @@
+Author: Lichao Wu
+Title: No (good) loss no gain: systematic evaluation of loss functions in deep learning-based side-channel analysis
+Paper ID: 683ccde5d80b49e993ecb4f68774b06d9c5953bb
+Year: 2023
+Author Index: 13
+
+Abstract:
+Deep learning is a powerful direction for profiling side-channel analysis as it can break targets protected with countermeasures even with a relatively small number of attack traces. Still, it is necessary to conduct hyperparameter tuning to reach strong attack performance, which can be far from trivial. Besides many options stemming from the machine learning domain, recent years also brought neural network elements specially designed for side-channel analysis. The loss function, which calculates the error or loss between the actual and desired output, is one of the most important neural network elements. The resulting loss values guide the weights update associated with the connections between the neurons or filters of the deep learning neural network. Unfortunately, despite being a highly relevant hyperparameter, there are no systematic comparisons among different loss functions regarding their effectiveness in side-channel attacks. This work provides a detailed study of the efficiency of different loss functions in the SCA context. We evaluate five loss functions commonly used in machine learning and three loss functions specifically designed for SCA. Our results show that an SCA-specific loss function (called CER) performs very well and outperforms other loss functions in most evaluated settings. Still, categorical cross-entropy represents a good option, especially considering the variety of neural network architectures.

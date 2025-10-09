@@ -1,48 +1,76 @@
+# main.py
+
 import os
-from config import HUMAN_DIR, LLM_DIR
-from utils.file_utils import list_human_files, parse_filename, get_word_count, get_llm_save_path
-from utils.topic_utils import extract_topic_with_llm
-from utils.prompt_utils import generate_prompt
-from utils.llm_utils import generate_text_from_prompt
+from glob import glob
+from utils.file_utils import (
+    parse_metadata_from_path,
+    build_llm_filename,
+    read_text,
+    write_text
+)
+from utils.extract_utils import extract_keywords_summary_count
+from utils.prompt_utils import generate_prompt_from_summary
+from utils.api_utils import chat
+from config import HUMAN_DIR, GENRE_STRUCTURE, get_llm_path
 
-def main():
-    print("Processing Human dataset...\n")
 
-    files = list_human_files(HUMAN_DIR)
+def iter_human_files():
+    """
+    Iterate over all human text files under the defined genre and subfield structure.
+    """
+    for genre, spec in GENRE_STRUCTURE.items():
+        for sub in spec["subfields"]:
+            base = os.path.join(HUMAN_DIR, spec["path"], sub)
+            if not os.path.isdir(base):
+                continue
+            for year in os.listdir(base):
+                folder = os.path.join(base, year)
+                for file in glob(os.path.join(folder, "*.txt")):
+                    yield file
 
-    for file_path in files:
-        filename = os.path.basename(file_path)
 
-        try:
-            # Extract metadata (Genre, Year, Index)
-            metadata = parse_filename(filename)
+def run():
+    """
+    Main pipeline to process new human files and generate corresponding LLM outputs.
+    If the LLM file already exists, it is skipped automatically.
+    """
+    for human_fp in iter_human_files():
+        meta = parse_metadata_from_path(human_fp)
+        llm_dir = get_llm_path(meta["genre"], meta["subfield"], meta["year"])
+        llm_filename = build_llm_filename(meta)
+        llm_fp = os.path.join(llm_dir, llm_filename)
 
-            # Load full text
-            with open(file_path, "r", encoding="utf-8") as f:
-                text = f.read().strip()
+        # Skip files that have already been processed
+        if os.path.exists(llm_fp):
+            print(f"Skipping already processed file: {llm_fp}")
+            continue
 
-            # Count words
-            word_count = get_word_count(file_path)
+        text = read_text(human_fp)
+        print(f"Processing new file: {human_fp}")
 
-            # Extract topic using LLM
-            topic = extract_topic_with_llm(text)
+        # 1. Extract keywords and summary
+        extracted = extract_keywords_summary_count(
+            text, meta["genre"], meta["subfield"], meta["year"]
+        )
 
-            # Generate a prompt for LLM
-            prompt = generate_prompt(metadata, topic, word_count)
+        # 2. Build the generation prompt
+        prompt = generate_prompt_from_summary(
+            meta["genre"],
+            meta["subfield"],
+            meta["year"],
+            extracted["keywords"],
+            extracted["summary"],
+            extracted["word_count"]
+        )
 
-            # Call LLM to generate text
-            llm_output = generate_text_from_prompt(prompt)
+        # 3. Generate new LLM text
+        system = "You are a helpful assistant generating original text for research."
+        llm_text = chat(system, prompt, max_tokens=1500)
 
-            # Save output
-            save_path = get_llm_save_path(file_path, HUMAN_DIR, LLM_DIR)
-            with open(save_path, "w", encoding="utf-8") as f:
-                f.write(llm_output)
+        # 4. Save the generated result
+        write_text(llm_fp, llm_text)
+        print(f"✅Saved new LLM file → {llm_fp}")
 
-            print(f"{filename} → Saved LLM output to {save_path}")
-
-        except ValueError as e:
-            print(f"Skipping file (bad format): {filename}")
-            print(str(e))
 
 if __name__ == "__main__":
-    main()
+    run()

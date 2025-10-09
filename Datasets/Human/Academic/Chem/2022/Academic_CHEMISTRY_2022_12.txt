@@ -1,0 +1,8 @@
+Author: B. Feringa
+Title: Photoresponsive Supramolecular Polymers: From Light‐Controlled Small Molecules to Smart Materials
+Paper ID: 567bf280f12b50c02e30f5b44bab3a57a71a8559
+Year: 2022
+Author Index: 12
+
+Abstract:
+Photoresponsive supramolecular polymers are well‐organized assemblies based on highly oriented and reversible noncovalent interactions containing photosensitive molecules as (co‐)monomers. They have attracted increasing interest in smart materials and dynamic systems with precisely controllable functions, such as light‐driven soft actuators, photoresponsive fluorescent anticounterfeiting and light‐triggered electronic devices. The present review discusses light‐activated molecules used in photoresponsive supramolecular polymers with their main photo‐induced changes, e.g., geometry, dipole moment, and chirality. Based on these distinct changes, supramolecular polymers formed by light‐activated molecules exhibit photoresponsive disassembly and reassembly. As a consequence, photo‐induced supramolecular polymerization, “depolymerization,” and regulation of the lengths and topologies are observed. Moreover, the light‐controlled functions of supramolecular polymers, such as actuation, emission, and chirality transfer along length scales, are highlighted. Furthermore, a perspective on challenges and future opportunities is presented. Besides the challenge of moving from harmful UV light to visible/near IR light avoiding fatigue, and enabling biomedical applications, future opportunities include light‐controlled supramolecular actuators with helical motion, light‐modulated information transmission, optically recyclable materials, and multi‐stimuli‐responsive supramolecular systems.

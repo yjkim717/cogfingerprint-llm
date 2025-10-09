@@ -1,0 +1,8 @@
+Author: Jian-Wen Sun
+Title: Asymptotic profiles for positive solutions of diffusive logistic equations
+Paper ID: 80e19751815e2f1d3edb9cd44ea3a00a9d1e106c
+Year: 2023
+Author Index: 2
+
+Abstract:
+In this paper, we study the asymptotic profiles of positive solutions for diffusive logistic equations. The aim is to study the sharp effect of linear growth and nonlinear function. Both the classical reaction-diffusion equation and nonlocal dispersal equation are investigated. Our main results reveal that the linear and nonlinear parts of reaction term play quite different roles in the study of positive solutions.

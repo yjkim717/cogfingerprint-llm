@@ -1,0 +1,8 @@
+Author: Sudripet Sharma
+Title: Sustainable and Bench‐Stable Photoactive Aqueous Nanoaggregates of Cu(II) for ppm Level Cu(I) Catalysis in Water
+Paper ID: 5aa03eef6970038f22ddde6b378b88207cb54fca
+Year: 2022
+Author Index: 13
+
+Abstract:
+The nanomaterial containing amphiphile‐stabilized mononuclear Cu(II) is developed. The material is characterized by various spectroscopic techniques, such as X‐ray absorption spectrscopy (XAS), high‐resolution transmission electron microscopy, nuclear magnetic resonance (NMR), UV‐vis, and infrared spectroscopies. Since the structural data for the amphiphile‐bound Cu(II) center is not available, a theoretical model based on DFT calculations is employed. The analyses based on NMR spectroscopic data, including the isotope labeling, support that the tertiary amide group of the amphiphile binds to the Cu surface. Likewise, the bond distances found by XAS spectroscopy agree with the theoretical model. Time‐dependent DFT studies predict that the low‐lying excited state has a dominant ligand‐to‐metal charge transfer (LMCT) character. Cu(II) changes to Cu(I) assisted by the LMCT excitation upon visible light irradiation, generating robust catalytically active species. The catalytic activity for domino azidation‐[3+2] cycloaddition reactions in water is investigated. The catalytic protocol is applicable on various substrates, and the catalytic material is stable under ambient conditions for up to three months.

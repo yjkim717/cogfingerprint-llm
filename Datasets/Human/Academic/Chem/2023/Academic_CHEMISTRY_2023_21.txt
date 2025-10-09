@@ -1,0 +1,8 @@
+Author: M. Siebert
+Title: Clues to PPN Chemical Evolution: The Unique Molecular Environment of V510 Pup
+Paper ID: c6696ae52e59a22ff06a09243bc78da37e7b9df0
+Year: 2023
+Author Index: 21
+
+Abstract:
+V510 Pup (IRAS 08005-2356) is a binary post-AGB system with a fast molecular outflow that has been noted for its puzzling mixture of carbon- and oxygen-rich features in the optical and infrared. To explore this chemical dichotomy and relate it to the kinematics of the source, we present an ACA spectral line survey detailing fourteen newly detected molecules in this pre-planetary nebula. The simultaneous presence of CN/C2H/HC3N and SO/SO2 support the previous conclusion of mixed chemistry, and their line profiles indicate that the C- and O-rich material trace distinct velocity structures in the outflow. This evidence suggests that V510 Pup could harbor a dense O-rich central waist from an earlier stage of evolution, which persisted after a fast C-rich molecular outflow formed. By studying the gas phase composition of this unique source, we aim to reveal new insights into the interplay between dynamics and chemistry in rapidly evolving post-AGB systems.

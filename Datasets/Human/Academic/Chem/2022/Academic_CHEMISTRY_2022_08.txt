@@ -1,0 +1,8 @@
+Author: Minghao Liu
+Title: Construction of Catalytic Covalent Organic Frameworks with Redox-Active Sites for the Oxygen Reduction and the Oxygen Evolution Reaction.
+Paper ID: 87663672696c4968a52b383959c1091df22cf589
+Year: 2022
+Author Index: 8
+
+Abstract:
+Construction of catalytic covalent organic frameworks (COFs) for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) is significant but rarely demonstrated. In this work, we have first constructed bifunctional COFs towards ORR and OER by integrating diarylamine derivatives into the Co-porphyrin based frameworks. Both of the new COFs (CoTAPP-PATA-COF and CoTAPP-BDTA-COF) have good ordered structures, high surface areas, and robust chemical stability. The diarylamine units, as a typical electron donor and redox-active cores, promote intramolecular electron transport along the frameworks and improve the electrochemically active surface areas. Thus, the COFs showed higher catalytic activities than that of the COF without redox-active units. CoTAPP-PATA-COF had a halfwave potential of 0.80 V towards ORR, and delieved an overpotential of 420 mV for OER in 0.1 M KOH. The theoretical calculation revealed introducing diarylamine unites improved the oxygen electrocatalysis.

@@ -1,0 +1,8 @@
+Author: Syafiq Fauzi Bin Kamarulzaman
+Title: Multiple vehicle cooperation and collision avoidance in automated vehicles: survey and an AI-enabled conceptual framework
+Paper ID: bc9692988934e5864e7b9453a4e441f9a6867472
+Year: 2023
+Author Index: 18
+
+Abstract:
+Prospective customers are becoming more concerned about safety and comfort as the automobile industry swings toward automated vehicles (AVs). A comprehensive evaluation of recent AVs collision data indicates that modern automated driving systems are prone to rear-end collisions, usually leading to multiple-vehicle collisions. Moreover, most investigations into severe traffic conditions are confined to single-vehicle collisions. This work reviewed diverse techniques of existing literature to provide planning procedures for multiple vehicle cooperation and collision avoidance (MVCCA) strategies in AVs while also considering their performance and social impact viewpoints. Firstly, we investigate and tabulate the existing MVCCA techniques associated with single-vehicle collision avoidance perspectives. Then, current achievements are extensively evaluated, challenges and flows are identified, and remedies are intelligently formed to exploit a taxonomy. This paper also aims to give readers an AI-enabled conceptual framework and a decision-making model with a concrete structure of the training network settings to bridge the gaps between current investigations. These findings are intended to shed insight into the benefits of the greater efficiency of AVs set-up for academics and policymakers. Lastly, the open research issues discussed in this survey will pave the way for the actual implementation of driverless automated traffic systems.

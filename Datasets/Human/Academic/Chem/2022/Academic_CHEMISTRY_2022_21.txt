@@ -1,0 +1,8 @@
+Author: M. Siebert
+Title: A Search for Heterocycles in GOTHAM Observations of TMC-1.
+Paper ID: 158afe1ad6cbb7044f542e0c968c47cae729651d
+Year: 2022
+Author Index: 21
+
+Abstract:
+We have conducted an extensive search for nitrogen-, oxygen-, and sulfur-bearing heterocycles toward Taurus Molecular Cloud 1 (TMC-1) using the deep, broadband centimeter-wavelength spectral line survey of the region from the GOTHAM large project on the Green Bank Telescope. Despite their ubiquity in terrestrial chemistry, and the confirmed presence of a number of cyclic and polycyclic hydrocarbon species in the source, we find no evidence for the presence of any heterocyclic species. Here, we report the derived upper limits on the column densities of these molecules obtained by Markov Chain Monte Carlo (MCMC) analysis and compare this approach to traditional single-line upper limit measurements. We further hypothesize why these molecules are absent in our data, how they might form in interstellar space, and the nature of observations that would be needed to secure their detection.

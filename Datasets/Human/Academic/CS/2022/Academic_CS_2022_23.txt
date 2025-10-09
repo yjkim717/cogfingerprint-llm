@@ -1,0 +1,8 @@
+Author: A. Iorliam
+Title: Machine Learning Techniques for the Classification of IoT-Enabled Smart Irrigation Data for Agricultural Purposes
+Paper ID: 6ce475a8734863c50284ca69e85b859f5a846122
+Year: 2022
+Author Index: 23
+
+Abstract:
+To support farming year-round, a variety of smart IoT irrigation devices have recently been developed. It is crucial to forecast the soil moisture of agricultural farms so as to produce high yields since the high yields depends on the efficiency of water supply on farmlands. In smart irrigation, anytime water is needed on the farms, the smart pumps switch on to pump the required water so as to prevent the crops from drying up. The smart pumps also shut down if the farms have the ideal level of soil moisture, preventing over-flooding of the fields. Data is generated when the smart pumps are ON or OFF at any given time. Therefore, it is crucial to classify the data produced by smart IoT-enabled irrigation devices when these devices are ON or OFF. In this paper, the soil moisture, temperature, humidity, and time are used as inputs into machine learning techniques for classification. These machine learning techniques include logistic regression, random forest, support vector machine, and convolutional neural network. According to experimental findings, the accuracy of the logistic regression was 71.76%, that of the random forest was 99.98%, that of the support vector machine was 90.21%, and that of the convolutional neural network was 98.23. Based on the high accuracy that the random forest attained, it has more potential to help in assessing smart irrigation conditions (wet or dry) in an optimized manner.

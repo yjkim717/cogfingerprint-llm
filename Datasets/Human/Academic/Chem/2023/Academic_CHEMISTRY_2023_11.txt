@@ -1,0 +1,8 @@
+Author: J. Gurian
+Title: Erratum: “A Lower Bound on the Mass of Compact Objects from Dissipative Dark Matter” (2022, ApJL, 939, L12)
+Paper ID: 0d2bf833f4706df91e535fc1fcdc19fb66616e52
+Year: 2023
+Author Index: 11
+
+Abstract:
+The high-temperature ( T a > 4.5 × 10 4 K ) behavior of the reaction H 2,D + H D → 3H D was incorrectly implemented in DarkKROME. The results of Ryan et al. ( 2022 ) are unaffected, and the bug has been corrected in the public code. We have regenerated all ﬁ gures from the published paper, Figures 1 – 3 below, using the updated version. The molecular cooling region of the parameter space is reduced where DarkKROME was used, which is for the case of adiabatic collapse. The discussion and conclusions are otherwise unaffected.

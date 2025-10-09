@@ -1,0 +1,8 @@
+Author: Ruihu Lu
+Title: Density Functional Theory for Electrocatalysis
+Paper ID: 62693c6a088d1f54466923a92b7e8b3a79f466bb
+Year: 2021
+Author Index: 9
+
+Abstract:
+It is a considerably promising strategy to produce fuels and high‐value chemicals through an electrochemical conversion process in the green and sustainable energy systems. Catalysts for electrocatalytic reactions, including hydrogen evolution reaction (HER), oxygen evolution reaction (OER), oxygen reduction reaction (ORR), nitrogen reduction reaction (NRR), carbon dioxide reduction reaction (CO2RR), play a significant role in the advanced energy conversion technologies, such as water splitting devices, fuel cells, and rechargeable metal‐air batteries. Developing low‐cost and highly efficient electrocatalysts is closely related to establishing the composition–structure–activity relationships and fundamental understanding of catalytic mechanisms. Density functional theory (DFT) is emerging as an important computational tool that can provide insights into the relationship between the electrochemical performances and physical/chemical properties of catalysts. This article presents a review on the progress of the DFT, and the computational simulations, within the framework of DFT, for the electrocatalytic processes, as well as the computational designs and virtual screenings of new electrocatalysts. Some useful descriptors and analysis tools for evaluating the electrocatalytic performances are highlighted, including formation energies, d‐band model, scaling relation, eg orbital occupation, and free energies of adsorption. Furthermore, the remaining questions and perspectives for the development of DFT for electrocatalysis are also proposed.

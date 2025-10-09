@@ -1,0 +1,8 @@
+Author: J. Z. Kolter
+Title: AcceleratedLiNGAM: Learning Causal DAGs at the speed of GPUs
+Paper ID: ef4ae67bdd047ec3ded4ddcec4b779ede2b99312
+Year: 2024
+Author Index: 14
+
+Abstract:
+Existing causal discovery methods based on combinatorial optimization or search are slow, prohibiting their application on large-scale datasets. In response, more recent methods attempt to address this limitation by formulating causal discovery as structure learning with continuous optimization but such approaches thus far provide no statistical guarantees. In this paper, we show that by efficiently parallelizing existing causal discovery methods, we can in fact scale them to thousands of dimensions, making them practical for substantially larger-scale problems. In particular, we parallelize the LiNGAM method, which is quadratic in the number of variables, obtaining up to a 32-fold speed-up on benchmark datasets when compared with existing sequential implementations. Specifically, we focus on the causal ordering subprocedure in DirectLiNGAM and implement GPU kernels to accelerate it. This allows us to apply DirectLiNGAM to causal inference on large-scale gene expression data with genetic interventions yielding competitive results compared with specialized continuous optimization methods, and Var-LiNGAM for causal discovery on U.S. stock data.

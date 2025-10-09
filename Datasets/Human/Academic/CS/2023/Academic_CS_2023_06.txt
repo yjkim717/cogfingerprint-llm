@@ -1,0 +1,8 @@
+Author: A. Gupta
+Title: Impact of Size and Market Competition on Risk-taking and Profitability of GCC Bank. - An Empirical Study through GMM Estimator
+Paper ID: b1e424e82c59cb83f70e28438cdcbc7d8004b21f
+Year: 2023
+Author Index: 6
+
+Abstract:
+Investigation of size and competition on risk-taking and profitability in growing markets draws the attention of researchers like the GCC region, which is primarily a banks-based economic system. This study investigates the impact of size and market competition addressed through assets and deposit concentration on the risk and profitability of GCC banks over 2010-2017. The empirical findings of the Two-Step System Generalized Method of Moments (2GMM) estimators of dynamic panel data point out some important insights. A significant asset base actively manages risk and enhances the profitability and stability of GCC banks. Market competition is positively associated with the profitability and risk-taking of banks. The risk and profitability of GCC banks are negatively related in both directional relationships. The nonlinear relationship between risk and size in the competitive market is valid and follows an inverted U-shaped curve. However, there is little evidence of the nonlinear relationship between profitability and size in the competitive market situation of GCC banks. Finally, there is a homogeneous effect of size on risk-taking and a heterogeneous effect on profitability. The capital of banks acts positively in the risk-taking and profitability of GCC banks.

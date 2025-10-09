@@ -1,0 +1,8 @@
+Author: Ruihu Lu
+Title: Work-function-induced Interfacial Built-in Electric Fields in Os-OsSe2 Heterostructures for Active Acidic and Alkaline Hydrogen Evolution.
+Paper ID: 17914461808503049ae50362add894abcbb2e391
+Year: 2022
+Author Index: 9
+
+Abstract:
+Theoretical calculations unveil that the formation of Os-OsSe2 heterostructures with neutralized work function (WF) perfectly balances the electronic state between strong (Os) and weak (OsSe2) adsorbents and bidirectionally optimizes the hydrogen evolution reaction (HER) activity of Os sites, significantly reducing thermodynamic energy barrier and accelerating kinetics process. Then, heterostructural Os-OsSe2 is constructed for the first time by a molten salt method and confirmed by in-depth structural characterization. Impressively, due to highly active sites endowed by the charge balance effect, Os-OsSe2 exhibits ultra-low overpotentials for HER in both acidic (26 mV @ 10 mA cm-2) and alkaline (23 mV @ 10 mA cm-2) media, surpassing commercial Pt catalysts. Moreover, the solar-to-hydrogen device assembled with Os-OsSe2 further highlights its potential application prospects. Profoundly, this special heterostructure provides a new model for rational selection of heterocomponents.

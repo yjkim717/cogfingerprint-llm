@@ -1,0 +1,8 @@
+Author: Minghao Liu
+Title: Atomic Co-N4 and Co nanoparticles confined in COF@ZIF-67 derived core-shell carbon frameworks: Bifunctional non-precious metal catalysts toward ORR and HER
+Paper ID: e6b8e1e318c7a4c5beded9ba9f953be961518d1d
+Year: 2021
+Author Index: 8
+
+Abstract:
+Constructing heterostructures of covalent organic frameworks (COFs) and metal organic frameworks (MOFs) have gained great attention for various applications due to their well-defined skeletons, ordered porosity and designable functions. Herein,...

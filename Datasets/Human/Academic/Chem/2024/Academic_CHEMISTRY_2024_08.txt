@@ -1,0 +1,8 @@
+Author: Minghao Liu
+Title: Ionic Covalent Organic Frameworks in Adsorption and Catalysis.
+Paper ID: 84ed131ddd8884be7d8394838bcc55599942548e
+Year: 2024
+Author Index: 8
+
+Abstract:
+The ion extraction and electro/photo catalysis are promising methods to address environmental and energy issues. Covalent organic frameworks (COFs) are a class of promising template to construct absorbents and catalysts because of their stable frameworks, high surface areas, controllable pore environments, and well-defined catalytic sites. Among them, ionic COFs as unique class of crystalline porous materials, with charges in the frameworks or along the pore walls, have shown different properties and resulting performance in these applications with those from charge-neutral COFs. In this review, current research progress based on the ionic COFs for ion extraction and energy conversion, including cationic/anionic materials and electro/photo catalysis is reviewed in terms of the synthesis strategy, modification methods, mechanisms of adsorption and catalysis, as well as applications. Finally, we demonstrated the current challenges and future development of ionic COFs in design strategies and applications.

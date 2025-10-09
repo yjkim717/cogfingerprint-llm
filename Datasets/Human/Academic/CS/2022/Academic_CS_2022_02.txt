@@ -1,0 +1,8 @@
+Author: Jian-Wen Sun
+Title: Nonlocal dispersal equations in domains becoming unbounded
+Paper ID: 74627d7bc54f880e24e789e8f2b132cd1e37608b
+Year: 2022
+Author Index: 2
+
+Abstract:
+This paper is concerned with a class of nonlocal dispersal equation in asymptotically cylindrical domain. Our aim is to investigate the asymptotic behavior of positive solutions in domain becoming infinite in some direction. We prove that the limiting behavior of positive solutions is only determined by the bounded part of whole domain.

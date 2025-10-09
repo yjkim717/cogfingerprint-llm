@@ -1,0 +1,8 @@
+Author: Wen Song
+Title: Dual-Aspect Self-Attention Based on Transformer for Remaining Useful Life Prediction
+Paper ID: 5bcb50523a8ea315f4c16c8fb05f26a8220d70d6
+Year: 2021
+Author Index: 16
+
+Abstract:
+Remaining useful life (RUL) prediction is one of the key technologies of condition-based maintenance (CBM), which is important to maintain the reliability and safety of industrial equipment. Massive industrial measurement data has effectively improved the performance of the data-driven-based RUL prediction method. While deep learning has achieved great success in RUL prediction, existing methods have difficulties in processing long sequences and extracting information from the sensor and time step aspects. In this article, we propose dual-aspect self-attention based on transformer (DAST), a novel deep RUL prediction method, which is an encoder–decoder structure purely based on self-attention without any recurrent neural network (RNN)/convolution neural network (CNN) module. DAST consists of two encoders, which work in parallel to simultaneously extract features of different sensors and time steps. Solely based on self-attention, the DAST encoders are more effective in processing long data sequences and are capable of adaptively learning to focus on more important parts of the input. Moreover, the parallel feature extraction design avoids the mutual influence of information from two aspects. Experiments on two widely used turbofan engines datasets show that our method significantly outperforms the state-of-the-art RUL prediction methods.

@@ -1,0 +1,14 @@
+Author: A. Gupta
+Title: EFFECT OF RISK AND MARKET COMPETITION ON EFFICIENCY OF COMMERCIAL BANKS: DOES OWNERSHIP MATTER
+Paper ID: 1766094b1e2937780bdba7a8c3c2b7d61b147358
+Year: 2022
+Author Index: 6
+
+Abstract:
+Purpose– This study aims to investigates the impact of risk and market competition on the efficiency of Bangladeshi commercial banks, having an special effect of ownership.
+Methodology– We select 43 commercial banks out of 61, adjusting outliers and missing data from 2000-2019. The two-step Generalize Methods of Momemts (GMM) opt for to investigate unbalanced dynamic panel data of 666 obsevations. Unit root, multicolinerity, and other prediagnostic tests support our selected method of investigation. 
+Findings– The two-step Generalize Methods of Moments (GMM) reveals that the impact of risk, stability, and market competition has a homogeneous effect on cost and human capital efficiency in Aggregate industry, Conventional, and Private banks’ data. With the increase of risk (stability), the efficiency of banks increases (decreases); having an exception, the human capital efficiency of private banks decreases with risk-taking. However, market competition depicts the inverse association with the efficiency of Commercial banks, Conventional banks, and Private banks. 
+Conclusion– The nonlinear and quadratic effect of risk and market competition on different ownership of banks is also found valid in the Bangladeshi banking industry. Finally, the reaction of Islamic and Public banks asserts the opposite response to Conventional and Private banks, respectively.
+
+Keywords: Efficiency, ownership, market competition, GMM estimators. 
+JEL Codes: D61, G21, C20

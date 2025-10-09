@@ -1,28 +1,24 @@
-from config import GENERATION_STYLE
+# utils/prompt_utils.py
+def generate_prompt_from_summary(genre, subfield, year, keywords, summary, word_count):
+    keywords_line = ", ".join(keywords)
 
-def generate_prompt(metadata: dict, topic: str, word_count: int) -> str:
-    """
-    Generate a prompt for the LLM based on metadata, topic, and target length.
+    base = f"""Here is a summary of a human-written {genre.lower()} text:
 
-    Args:
-        metadata (dict): Dictionary containing genre, year, index.
-        topic (str): The extracted topic of the text.
-        word_count (int): The approximate length of the original human text.
+Keywords: {keywords_line}
+Summary: {summary}
+"""
 
-    Returns:
-        str: A formatted prompt for the LLM.
-    """
-    genre = metadata["genre"]
-    year = metadata["year"]
+    if genre == "Academic":
+        instruction = f"""Now, write a new academic-style abstract inspired by these ideas.
+Do not copy or paraphrase the original text — write an original, conceptually similar discussion in {subfield}.
+Use a formal academic tone (~{word_count} words). Year context: {year}."""
+    elif genre == "Blogs":
+        instruction = f"""Now, write a new blog post inspired by these ideas for {subfield}.
+Use a conversational tone (~{word_count} words). Year context: {year}."""
+    elif genre == "News":
+        instruction = f"""Now, write a new news article inspired by these ideas for {subfield}.
+Keep journalistic neutrality (~{word_count} words). Year context: {year}."""
+    else:
+        raise ValueError(f"Unsupported genre: {genre}")
 
-    # Select the style from config
-    style = GENERATION_STYLE.get(genre, "text")
-
-    # Build the prompt
-    prompt = (
-        f"Write a {style} on the topic '{topic}' as if it were written in {year}. "
-        f"The length should be around {word_count} words, "
-        f"and the style should resemble a human-written {style}."
-    )
-
-    return prompt
+    return (base + "\n" + instruction).strip()

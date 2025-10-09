@@ -1,0 +1,8 @@
+Author: B. Feringa
+Title: Coupled Rotary Motion in Molecular Motors
+Paper ID: 69e1a72d07eb751b7c8dc5d4ce2b4dc612cbb1f4
+Year: 2024
+Author Index: 1
+
+Abstract:
+Biological molecular machines play a pivotal role in sustaining life by producing a controlled and directional motion. Artificial molecular machines aim to mimic this motion, to exploit and tune the nanoscale produced motion to power dynamic molecular systems. The precise control, transfer, and amplification of the molecular-level motion is crucial to harness the potential of synthetic molecular motors. It is intriguing to establish how directional motor rotation can be utilized to drive secondary motions in other subunits of a multicomponent molecular machine. The challenge to design sophisticated synthetic machines involving multiple motorized elements presents fascinating opportunities for achieving unprecedented functions, but these remain almost unexplored due to their extremely intricate behavior. Here we show intrinsic coupled rotary motion in light-driven overcrowded-alkene based molecular motors. Thus far, molecular motors with two rotors have been understood to undergo independent rotation of each subunit. The new bridged-isoindigo motor design revealed an additional dimension to the motor’s unidirectional operation mechanism where communication between the rotors occurs. An unprecedented double metastable state intermediate bridges the rotation cycles of the two rotor subunits. Our findings demonstrate how neighboring motorized subunits can affect each other and thereby drastically change the motor’s functioning. Controlling the embedded entanglement of active intramolecular components sets the stage for more advanced artificial molecular machines.

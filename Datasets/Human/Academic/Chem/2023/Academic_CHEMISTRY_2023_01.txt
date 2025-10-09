@@ -1,0 +1,8 @@
+Author: B. Feringa
+Title: Organogelation enables fast organolithium cross-coupling reactions in air
+Paper ID: 39253e06ae55132053ee49190e83c18eb6bb7b23
+Year: 2023
+Author Index: 1
+
+Abstract:
+C–C bond formation based on palladium-catalysed cross-coupling reactions using organolithium reagents has seen major breakthroughs in the past decade. However, the use of inert conditions, as well as slow addition of the organolithium species, is generally required. Here we describe the Pd-catalysed cross-coupling of C36H74-gelated organolithium reagents with aryl bromides. The reaction proceeds in 5 min at room temperature, while eliminating the previously required slow addition, and strict use of inert atmosphere. Crucially, the use of organolithium gels facilitates handling, and offers a tremendously increased process safety, which is illustrated by a gram-scale transformation that does not require any extraordinary safety precautions.

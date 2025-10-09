@@ -1,0 +1,8 @@
+Author: George S. Maraslidis
+Title: Power Supply Technologies for Drones and Machine Vision Applications: A Comparative Analysis and Future Trends
+Paper ID: 5698f9de6c65b491182eef38e0e36255ed665709
+Year: 2023
+Author Index: 10
+
+Abstract:
+The field of Unmanned Aerial Vehicles (UAVs), or drones, is encountering quick development in the areas of air transportation and computerization. Progress in innovation has prompted more noteworthy capacities and highlights in UAVs, which are currently broadly involved by the military and flying industry for an assortment of high-end generally safe errands. Highly advanced UAVs that can be controlled remotely via a controller, mobile phone, or ground station cockpit have been developed through the integration of automation technology and machine vision, which includes thermal imaging, cameras, sensors, and other sensors. The three primary characteristics of UAVs will be investigated in this study, namely power-source technology, deep-learning neural networks for computer vision, and some of the applications that are used the most. The goal is to thoroughly examine these characteristics and offer suggestions for addressing some of the difficulties of optimizing UAV performance and also exploring potential future trends.

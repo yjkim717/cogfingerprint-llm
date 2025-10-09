@@ -10,7 +10,7 @@ def extract_topic_with_llm(text: str) -> str:
     """
     prompt = f"""
     You are given the full text of an article. 
-    Extract the main topic or title of this article in one short phrase.
+    Extract the main topic or title of this article in one sentence summary and take ##first few words.
 
     Text:
     {text[:1500]} 

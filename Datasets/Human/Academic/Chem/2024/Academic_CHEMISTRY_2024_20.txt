@@ -1,0 +1,8 @@
+Author: Ruihu Lu
+Title: Glycine modified copper promotes CO2 electroreduction to multi-carbon products: a computational study.
+Paper ID: 3616f2376ce543e022541dbffa7c32ff45ba9e09
+Year: 2024
+Author Index: 20
+
+Abstract:
+Molecular modification strategy exhibits great potential for electrocatalytic CO2 reduction. Here, DFT calculations were applied to study the mechanism of CO2 electroreduction on glycine modified copper. The results indicate that the interaction between the modified molecule and the intermediate could change the reaction energy of CO2 electroreduction.

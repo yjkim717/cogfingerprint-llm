@@ -1,0 +1,8 @@
+Author: J. Evans
+Title: The rise of data repositories in materials chemistry
+Paper ID: a6b1967b24fa32ddfdd040cb10e4f4f255352148
+Year: 2024
+Author Index: 18
+
+Abstract:
+FAIR (findable, accessible, interoperable and reusable) data practices are necessary to expedite knowledge discovery, encourage collaboration, and optimise resource use, fostering a robust foundation for future scientific progress. Here, the authors explore the use of FAIR practices to advance materials chemistry research, examining key repositories, highlighting their role in sharing scientific data, and examining the accessibility of these approaches. FAIR (findable, accessible, interoperable and reusable) data practices are necessary to expedite knowledge discovery, encourage collaboration, and optimise resource use, fostering a robust foundation for future scientific progress. Here, the authors explore the use of FAIR practices to advance materials chemistry research, examining key repositories, highlighting their role in sharing scientific data, and examining the accessibility of these approaches.

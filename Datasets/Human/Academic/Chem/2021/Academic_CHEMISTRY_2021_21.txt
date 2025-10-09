@@ -1,0 +1,8 @@
+Author: M. Siebert
+Title: CH3-Terminated Carbon Chains in the GOTHAM Survey of TMC-1: Evidence of Interstellar CH3C7N
+Paper ID: 950159ee83c204d810856b68f012e0f51330b117
+Year: 2021
+Author Index: 21
+
+Abstract:
+We report a systematic study of all known methyl carbon chains toward TMC-1 using the second data release of the GOTHAM survey, as well as a search for larger species. Using Markov Chain Monte Carlo simulations and spectral line stacking of over 30 rotational transitions, we report statistically significant emission from methylcyanotriacetylene (CH3C7N) at a confidence level of 4.6σ, and use it to derive a column density of ∼1011 cm−2. We also searched for the related species, methyltetraacetylene (CH3C8H), and place upper limits on the column density of this molecule. By carrying out the above statistical analyses for all other previously detected methyl-terminated carbon chains that have emission lines in our survey, we assess the abundances, excitation conditions, and formation chemistry of methylpolyynes (CH3C2n H) and methylcyanopolyynes (CH3C2n-1N) in TMC-1, and compare those with predictions from a chemical model. Based on our observed trends in column density and relative populations of the A and E nuclear spin isomers, we find that the methylpolyyne and methylcyanopolyyne families exhibit stark differences from one another, pointing to separate interstellar formation pathways, which is confirmed through gas–grain chemical modeling with nautilus.

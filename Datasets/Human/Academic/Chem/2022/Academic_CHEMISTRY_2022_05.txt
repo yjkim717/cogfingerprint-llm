@@ -1,0 +1,8 @@
+Author: Andrea Madabeni
+Title: In the Chalcogenoxide Elimination Panorama: Systematic Insight into a Key Reaction
+Paper ID: 939fd299b06cbb6c59f53915465b403bf4f74b62
+Year: 2022
+Author Index: 5
+
+Abstract:
+The selenoxide elimination is a well-known reaction in organochalcogen chemistry, with wide synthetic, biological, and toxicological implications. In this work, we apply benchmarked density functional theory (DFT) calculations to investigate different aspects of the title reaction in three (bio)chemically relevant models, spanning minimal systems of theoretical interests as well as biological or synthetic organochalcogenides. The activation strain analysis (ASA) methodology is employed along a suitable reaction coordinate to obtain insight into the role of the chalcogen and of the oxidation state, to pinpoint the factors that tune the elimination reactivity of the investigated systems. Lastly, we computationally validate the hypothesis that telluroxides eliminate more slowly than selenoxides because of a detrimental hydration process that leads to unreactive hydrates.

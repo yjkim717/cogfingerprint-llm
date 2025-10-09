@@ -1,0 +1,8 @@
+Author: Weizhe Yuan
+Title: System-Level Natural Language Feedback
+Paper ID: d1fb9013ed41c67b18755f01f0b7c7c5ef0a047f
+Year: 2023
+Author Index: 19
+
+Abstract:
+Natural language (NL) feedback offers rich insights into user experience. While existing studies focus on an instance-level approach, where feedback is used to refine specific examples, we introduce a framework for system-level use of NL feedback. We show how to use feedback to formalize system-level design decisions in a human-in-the-loop-process – in order to produce better models. In particular this is done through: (i) metric design for tasks; and (ii) language model prompt design for refining model responses. We conduct two case studies of this approach for improving search query and dialog response generation, demonstrating the effectiveness of system-level feedback. We show the combination of system-level and instance-level feedback brings further gains, and that human written instance-level feedback results in more grounded refinements than GPT-3.5 written ones, underlying the importance of human feedback for building systems.

@@ -1,0 +1,8 @@
+Author: Wen Song
+Title: Flexible Job-Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning
+Paper ID: 3dd5145f96cc39ae8ed8350f829dd942e4ee45d1
+Year: 2023
+Author Index: 16
+
+Abstract:
+Recently, deep reinforcement learning (DRL) has been applied to learn priority dispatching rules (PDRs) for solving complex scheduling problems. However, the existing works face challenges in dealing with flexibility, which allows an operation to be scheduled on one out of multiple machines and is often required in practice. Such one-to-many relationship brings additional complexity in both decision making and state representation. This article considers the well-known flexible job-shop scheduling problem and addresses these issues by proposing a novel DRL method to learn high-quality PDRs end to end. The operation selection and the machine assignment are combined as a composite decision. Moreover, based on a novel heterogeneous graph representation of scheduling states, a heterogeneous-graph-neural-network-based architecture is proposed to capture complex relationships among operations and machines. Experiments show that the proposed method outperforms traditional PDRs and is computationally efficient, even on instances of larger scales and different properties unseen in training.

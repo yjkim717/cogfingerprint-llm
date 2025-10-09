@@ -1,0 +1,8 @@
+Author: Mark Bun
+Title: Private and Online Learnability Are Equivalent
+Paper ID: 8e452719d65eeabd2d30e6c497bb0e1fd628fa46
+Year: 2022
+Author Index: 7
+
+Abstract:
+Let H be a binary-labeled concept class. We prove that H can be PAC learned by an (approximate) differentially private algorithm if and only if it has a finite Littlestone dimension. This implies a qualitative equivalence between online learnability and private PAC learnability.

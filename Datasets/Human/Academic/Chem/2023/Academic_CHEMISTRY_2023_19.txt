@@ -1,0 +1,8 @@
+Author: Minghao Liu
+Title: Post-synthetic modification of covalent organic frameworks for CO2 electroreduction
+Paper ID: 73938d8d5feb369993d6c8a03fc6981be62d3f35
+Year: 2023
+Author Index: 19
+
+Abstract:
+To achieve high-efficiency catalysts for CO2 reduction reaction, various catalytic metal centres and linker molecules have been assembled into covalent organic frameworks. The amine-linkages enhance the binding ability of CO2 molecules, and the ionic frameworks enable to improve the electronic conductivity and the charge transfer along the frameworks. However, directly synthesis of covalent organic frameworks with amine-linkages and ionic frameworks is hardly achieved due to the electrostatic repulsion and predicament for the strength of the linkage. Herein, we demonstrate covalent organic frameworks for CO2 reduction reaction by modulating the linkers and linkages of the template covalent organic framework to build the correlation between the catalytic performance and the structures of covalent organic frameworks. Through the double modifications, the CO2 binding ability and the electronic states are well tuned, resulting in controllable activity and selectivity for CO2 reduction reaction. Notably, the dual-functional covalent organic framework achieves high selectivity with a maximum CO Faradaic efficiency of 97.32% and the turnover frequencies value of 9922.68 h−1, which are higher than those of the base covalent organic framework and the single-modified covalent organic frameworks. Moreover, the theoretical calculations further reveal that the higher activity is attributed to the easier formation of immediate *CO from COOH*. This study provides insights into developing covalent organic frameworks for CO2 reduction reaction.

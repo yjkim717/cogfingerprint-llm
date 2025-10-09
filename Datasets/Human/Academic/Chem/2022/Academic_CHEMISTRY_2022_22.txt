@@ -1,0 +1,8 @@
+Author: J. Gurian
+Title: A Lower Bound on the Mass of Compact Objects from Dissipative Dark Matter
+Paper ID: 7e0f88fce66bea048cc5e6461678b51a39eed031
+Year: 2022
+Author Index: 22
+
+Abstract:
+We study the fragmentation scale of dark gas formed in dissipative dark-matter halos and show that the simple atomic-dark-matter model consistent with all current observations can create low-mass fragments that can evolve into compact objects forbidden by stellar astrophysics. We model the collapse of the dark halo’s dense core by tracing the thermochemical evolution of a uniform-density volume element under two extreme assumptions for density evolution: hydrostatic equilibrium and pressure-free collapse. We then compute the opacity-limited minimum fragment mass from the minimum temperature achieved in these calculations. The results indicate that much of the parameter space is highly unstable to small-scale fragmentation.

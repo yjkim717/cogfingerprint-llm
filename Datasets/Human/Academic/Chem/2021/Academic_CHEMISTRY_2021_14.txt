@@ -1,0 +1,8 @@
+Author: Denys Biriukov
+Title: Second Harmonic Scattering Reveals Ion-Specific Effects at the SiO2 and TiO2 Nanoparticle/Aqueous Interface
+Paper ID: 3d52aa0c6a1d2bd3dde6606258d81719bc4af2f4
+Year: 2021
+Author Index: 14
+
+Abstract:
+Ion-specific effects play a crucial role in controlling the stability of colloidal systems and regulating interfacial processes. Although mechanistic pictures have been developed to explain the electrostatic structure of solid/water colloidal interfaces, ion-specific effects remain poorly understood. Here we quantify the average interfacial water orientation and the electrostatic surface potential around 100 nm SiO2 and TiO2 colloidal particles in the presence of NaCl, RbCl, and CaCl2 using polarimetric angle-resolved second harmonic scattering. We show that these two parameters can be used to establish the ion adsorption mechanism in a low ionic strength regime (<1 mM added salt). The relative differences between salts as a function of the ionic strength demonstrate cation- and surface-specific preferences for inner- vs outer-sphere adsorption. Compared to monovalent Rb+ and Na+, Ca2+ is found to be preferentially adsorbed as outer-sphere on SiO2 surfaces, while a dominant inner-sphere adsorption is observed for Ca2+ on TiO2. Molecular dynamics simulations performed on crystalline SiO2 and TiO2 surfaces support the experimental conclusions. This work contributes to the understanding of the electrostatic environment around colloidal nanoparticles on a molecular level by providing insight into ion-specific effects with micromolar sensitivity.

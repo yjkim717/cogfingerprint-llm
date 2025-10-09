@@ -1,0 +1,8 @@
+Author: Shuang Song
+Title: Remote Sensing Object Detection in the Deep Learning Era - A Review
+Paper ID: ad55e35d8d2b2250fab4099b0d622aa42ddcde04
+Year: 2024
+Author Index: 12
+
+Abstract:
+Given the large volume of remote sensing images collected daily, automatic object detection and segmentation have been a consistent need in Earth observation (EO). However, objects of interest vary in shape, size, appearance, and reflecting properties. This is not only reflected by the fact that these objects exhibit differences due to their geographical diversity but also by the fact that these objects appear differently in images collected from different sensors (optical and radar) and platforms (satellite, aerial, and unmanned aerial vehicles (UAV)). Although there exists a plethora of object detection methods in the area of remote sensing, given the very fast development of prevalent deep learning methods, there is still a lack of recent updates for object detection methods. In this paper, we aim to provide an update that informs researchers about the recent development of object detection methods and their close sibling in the deep learning era, instance segmentation. The integration of these methods will cover approaches to data at different scales and modalities, such as optical, synthetic aperture radar (SAR) images, and digital surface models (DSM). Specific emphasis will be placed on approaches addressing data and label limitations in this deep learning era. Further, we survey examples of remote sensing applications that benefited from automatic object detection and discuss future trends of the automatic object detection in EO.

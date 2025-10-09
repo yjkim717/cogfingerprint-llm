@@ -1,17 +1,38 @@
+# config.py
 import os
 
-# Base directories
+# === LLM SETTINGS ===
+LLM_PROVIDER = "deepseek"
+LLM_MODEL = "deepseek-chat"      # ✅ 가장 저렴하고 빠른 버전
+LLM_TEMPERATURE = 0.7
+MAX_TOKENS = 1500
+
+# === API SETTINGS ===
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
+
+# === PATH SETTINGS ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-HUMAN_DIR = os.path.join(BASE_DIR, "Dataset", "Human")
-LLM_DIR = os.path.join(BASE_DIR, "Dataset", "LLM")
+DATASET_DIR = os.path.join(BASE_DIR, "Datasets")
+HUMAN_DIR = os.path.join(DATASET_DIR, "Human")
+LLM_DIR = os.path.join(DATASET_DIR, "LLM")
 
-# OpenAI API Key
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "YOUR_API_KEY_HERE")
-
-# Style information (length is dynamic, only tone/style is fixed)
-GENERATION_STYLE = {
-    "News": "news article",
-    "Blogs": "reflective blog post",
-    "Academic": "academic essay",
-    "Literary_works": "literary piece"
+GENRE_STRUCTURE = {
+    "Academic": {
+        "path": "Academic",
+        "subfields": ["bio", "Chem", "CS", "med", "phy"]
+    },
+    "Blogs": {
+        "path": "Blogs",
+        "subfields": ["Twitter", "BlueSkys", "TruthSocialMedia"]
+    },
+    "News": {
+        "path": "News",
+        "subfields": ["CNN", "FOX"]
+    }
 }
+
+def get_llm_path(genre, subfield, year):
+    path = os.path.join(LLM_DIR, GENRE_STRUCTURE[genre]["path"], subfield, str(year))
+    os.makedirs(path, exist_ok=True)
+    return path

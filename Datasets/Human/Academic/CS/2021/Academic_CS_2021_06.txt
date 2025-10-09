@@ -1,0 +1,8 @@
+Author: A. Gupta
+Title: Do Competition, Size, and Development Indicators Matter for the Efficiency of BRICS Banks?
+Paper ID: b7d3467dba7bd8f573def1db4db71985f5731311
+Year: 2021
+Author Index: 6
+
+Abstract:
+This study investigates the effect of competition, size, and development indicators on efficiency using the panel data of 1137 BRICS (Brazil, Russia, India, China, South Africa) banks over sixteen years 2000-2015. The core finding of the two-step system generalized methods of moments (2GMM) are: (i) Both competition and size have a significant positive association with the efficiency of BRICS banks. (ii) No significant association between inflation and efficiency is observed; whereas, economic progression (gross domestic products) has a positive effect on the efficiency of revenue and inverse effect on cost efficiency. (iii) The interim term size and competition have a homogeneous effect on each type of efficiency; however, the outcomes are heterogeneous when efficiency measures change. Finally, the study evidences the nonlinear relationship of competition, size, and development indicators of BRICS banks.

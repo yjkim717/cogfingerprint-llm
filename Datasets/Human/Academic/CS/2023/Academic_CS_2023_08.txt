@@ -1,0 +1,8 @@
+Author: Derar Eleyan
+Title: Social Engineering Attack concepts, frameworks, and Awareness: A Systematic Literature Review
+Paper ID: 77ae87969610c517c6d43521d179cfde35c4078d
+Year: 2023
+Author Index: 8
+
+Abstract:
+: The growth of data exchange and the dependency on the digital world through cyberspace raise security risks. Social engineering attacks occupy high percentage of total cybercrimes. It is also classified as the major cause of financial losses in cyberspace. This shows the need to clarify social engineering definition and clarify the proposed frameworks solutions by di ff erent researchers. This paper explores the previous researches that try to extract di ff erent concepts and perspectives which are called lifecycles, phases, frameworks, models

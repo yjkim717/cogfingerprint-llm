@@ -1,0 +1,8 @@
+Author: Sudripet Sharma
+Title: Ligand-Free Ultrasmall Recyclable Iridium(0) Nanoparticles for Regioselective Aromatic Hydrogenation of Phosphine Oxide Scaffolds: An Easy Access to New Phosphine Ligands.
+Paper ID: ef2ee080c95419cfc477e57d6806f7cb7a24c157
+Year: 2023
+Author Index: 13
+
+Abstract:
+Herein, we developed the recyclable ligand-free Ir-H based Ir(0) nanoparticles (NPs) for the first regioselective partial hydrogenation of P(V)-substituted naphthalenes. Both the isolated and in-situ generated NPs are catalytically active. Control NMR study revealed the presence of metal's surface-bound hydrides, most likely formed from Ir(0) species. A control NMR study confirmed that HFIP as a solvent was accountable for substrate activation via hydrogen bonding. HRTEM analysis of the catalyst supports the formation of ultrasmall NPs, while XPS analysis confirmed the dominance of Ir(0) in the NPs. The catalytic activity of NPs is broad as showcased by highly regioselective aromatic ring reduction in various phosphine oxides or phosphonates. The study also showcased a novel pathway toward preparing H8-BINAP and its derivatives without losing enantioselectivity during catalytic events.

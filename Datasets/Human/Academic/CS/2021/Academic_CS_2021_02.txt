@@ -1,0 +1,8 @@
+Author: Jian-Wen Sun
+Title: Effects of dispersal and spatial heterogeneity on nonlocal logistic equations
+Paper ID: b088a1de4220ec40180ae23ecfc6056577115114
+Year: 2021
+Author Index: 2
+
+Abstract:
+In the present paper, we are interested in the nonlocal dispersal logistic equations in heterogeneous environment. This leads to study the spectrum theory and asymptotic behavior of nonlocal dispersal problems. We establish the existence and uniqueness of positive stationary solutions. By employing continuous lemma and nonlocal estimates, we obtain the limiting behavior of positive solutions when the dispersal rate is small or large. We also analyze the effect of spatial heterogeneity on the long time behavior of evolution equations.

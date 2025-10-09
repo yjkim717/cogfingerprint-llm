@@ -1,0 +1,8 @@
+Author: O. Rainio
+Title: Carimas: An Extensive Medical Imaging Data Processing Tool for Research
+Paper ID: 0108d08637d760913cc57dbb733d1e9374ae28d4
+Year: 2023
+Author Index: 9
+
+Abstract:
+Carimas is a multi-purpose medical imaging data processing tool, which can be used to visualize, analyze, and model different medical images in research. Originally, it was developed only for positron emission tomography data in 2009, but the use of this software has extended to many other tomography imaging modalities, such as computed tomography and magnetic resonance imaging. Carimas is especially well-suited for analysis of three- and four-dimensional image data and creating polar maps in modeling of cardiac perfusion. This article explores various parts of Carimas, including its key features, program structure, and application possibilities.

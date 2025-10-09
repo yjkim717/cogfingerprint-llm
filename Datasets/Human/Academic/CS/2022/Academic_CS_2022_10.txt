@@ -1,0 +1,8 @@
+Author: George S. Maraslidis
+Title: Design of a Fuzzy Logic Controller for the Double Pendulum Inverted on a Cart
+Paper ID: a9bae874909833856030ea8135917d5ee049573c
+Year: 2022
+Author Index: 10
+
+Abstract:
+The double-inverted pendulum (DIP) constitutes a classical problem in mechanics, whereas the control methods for stabilizing around the equilibrium positions represent the classic standards of control system theory and various control methods in robotics. For instance, it functions as a typical model for the calculation and stability of walking robots. The present study depicts the controlling of a double-inverted pendulum (DIP) on a cart using a fuzzy logic controller (FLC). A linear-quadratic controller (LQR) was used as a benchmark to assess the effectiveness of our method, and the results showed that the proposed FLC can perform significantly better than the LQR under a variety of initial system conditions. This performance is considered very important when the reduction of the peak system output is concerned. The proposed controller equilibration and velocity tracking performance were explored through simulation, and the results obtained point to the validity of the control method.

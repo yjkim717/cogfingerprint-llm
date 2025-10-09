@@ -1,0 +1,8 @@
+Author: Andrea Madabeni
+Title: Effect of Methylmercury Binding on the Peroxide-Reducing Potential of Cysteine and Selenocysteine
+Paper ID: 0c5383fbaab3998e67f68ef7d689a5094bce6433
+Year: 2021
+Author Index: 16
+
+Abstract:
+Methylmercury (CH3Hg+) binding to catalytically fundamental cysteine and selenocysteine of peroxide-reducing enzymes has long been postulated as the origin of its toxicological activity. Only very recently, CH3Hg+ binding to the selenocysteine of thioredoxin reductase has been directly observed [PickeringI. J.Inorg. Chem., 2020, 59, 2711−271832049511], but the precise influence of the toxicant on the peroxide-reducing potential of such a residue has never been investigated. In this work, we employ state-of-the-art density functional theory calculations to study the reactivity of molecular models of the free and toxified enzymes. Trends in activation energies are discussed with attention to the biological consequences and are rationalized within the chemically intuitive framework provided by the activation strain model. With respect to the free, protonated amino acids, CH3Hg+ binding promotes oxidation of the S or Se nucleus, suggesting that chalcogenoxide formation might occur in the toxified enzyme, even if the actual rate of peroxide reduction is almost certainly lowered as suggested by comparison with fully deprotonated amino acids models.

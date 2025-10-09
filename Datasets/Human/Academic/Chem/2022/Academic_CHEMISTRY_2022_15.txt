@@ -1,0 +1,8 @@
+Author: C. Rani
+Title: Chronoamperometric deposition of transparent WO3 film for application as power efficient electrochromic auxiliary electrode
+Paper ID: 885ba9e47420fd556699411ee083b9a1a2477d40
+Year: 2022
+Author Index: 15
+
+Abstract:
+Inorganic oxide electrochromic electrodes can be made more robust by adopting suitable deposition techniques. Electrochemically deposited tungsten oxide (WO3) film through chronoamperometry has been studied here for application as electrochromic auxiliary electrode. Thoroughly characterized film using electron microscopy, x-ray diffraction and Raman spectroscopy has been used for electrochromic measurements. The electrode shows reversible transparent to blue color switching when biased with a very small bias of 1 V. Bias dependent in-situ spectroelectrochemistry measurements have been performed which shows excellent results in terms of reversibility, cyclability, color contrast, appreciable switching time and good current stability at low working potential. The results thus pave the way to an excellent deposition technique designed particularly for electrochromic applications.

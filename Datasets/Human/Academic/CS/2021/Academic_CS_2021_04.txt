@@ -1,0 +1,8 @@
+Author: Shuchi Chawla
+Title: Approximating Pandora's Box with Correlations
+Paper ID: 1d9041a60345ae8f774904ebe5d40d7b44dc1d81
+Year: 2021
+Author Index: 4
+
+Abstract:
+We revisit the classic Pandora's Box (PB) problem under correlated distributions on the box values. Recent work of arXiv:1911.01632 obtained constant approximate algorithms for a restricted class of policies for the problem that visit boxes in a fixed order. In this work, we study the complexity of approximating the optimal policy which may adaptively choose which box to visit next based on the values seen so far. Our main result establishes an approximation-preserving equivalence of PB to the well studied Uniform Decision Tree (UDT) problem from stochastic optimization and a variant of the Min-Sum Set Cover ($\text{MSSC}_f$) problem. For distributions of support $m$, UDT admits a $\log m$ approximation, and while a constant factor approximation in polynomial time is a long-standing open problem, constant factor approximations are achievable in subexponential time (arXiv:1906.11385). Our main result implies that the same properties hold for PB and $\text{MSSC}_f$. We also study the case where the distribution over values is given more succinctly as a mixture of $m$ product distributions. This problem is again related to a noisy variant of the Optimal Decision Tree which is significantly more challenging. We give a constant-factor approximation that runs in time $n^{ \tilde O( m^2/\varepsilon^2 ) }$ when the mixture components on every box are either identical or separated in TV distance by $\varepsilon$.

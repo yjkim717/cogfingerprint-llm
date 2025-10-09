@@ -1,0 +1,8 @@
+Author: Denys Biriukov
+Title: Evolution of the electrical double layer with electrolyte concentration probed by second harmonic scattering
+Paper ID: bdd0974662ce467d3bae135bbd896b55a8a6cdeb
+Year: 2023
+Author Index: 3
+
+Abstract:
+Investigating the electrical double layer (EDL) structure has been a long-standing challenge and has seen the emergence of several sophisticated techniques able to probe selectively the few molecular layers of a solid/water interface. While a qualitative estimation of the thickness of the EDL can be obtained using simple theoretical models, following experimentally its evolution is not straightforward and can be even more complicated in nano- or microscale systems, particularly when changing the ionic concentration by several orders of magnitude. Here, we bring insight into the structure of the EDL of SiO2 nanoparticle suspensions and its evolution with increasing ionic concentration using angle-resolved second harmonic scattering (AR-SHS). Below millimolar salt concentrations, we can successively characterize inner-sphere adsorption, diffuse layer formation, and outer-sphere adsorption. Moreover, we show for the first time that, by appropriately selecting the nanoparticle size, it is possible to retrieve information also in the millimolar range. There, we observe a decrease in the magnitude of the surface potential corresponding to a compression in the EDL thickness, which agrees with the results of several other electroanalytical and optical techniques. Molecular dynamics simulations suggest that the EDL compression mainly results from the diffuse layer compression rather than outer-sphere ions (Stern plane) moving closer to the surface.

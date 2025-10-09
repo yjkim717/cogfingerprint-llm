@@ -1,0 +1,8 @@
+Author: C. Rani
+Title: Fano-type discrete-continuum interaction in perovskites and its manifestation in Raman spectral line shapes.
+Paper ID: 10c08e94cd555bc2509469ae6cde5c6353bdbab9
+Year: 2024
+Author Index: 4
+
+Abstract:
+Fano resonance is one of the most significant physical phenomena that correlates microscopic processes with macroscopic manifestations for experimental observations using different spectroscopic techniques. Owing to its importance, a focused study is required to clearly understand the origin of certain modifications in spectral behaviour, the nature of which is different for different materials. This means that a careful understanding of Fano interactions can enhance the understanding of several technologically important materials, including perovskites, which are also important in the area of energy storage and conversion. In semiconductors and nano materials (including 2-D materials), Fano interactions occur due to the intervalence or interconduction band transitions. However, in perovskites, Fano interactions are dominated by the interaction between polar phonons or excitons with electronic continuum. Raman spectroscopy, being a sensitive and non-destructive tool, detects subtle scale phenomena, such as Fano interactions, by analysing the Raman line shape. Herein, different dimensions associated with the identification and thereafter the origin of the Fano resonance in perovskites, which are used in energy related areas, have been highlighted using Raman scattering.

@@ -1,0 +1,8 @@
+Author: Sudripet Sharma
+Title: Shielding Effect of Nanomicelles: Stable and Catalytically Active Oxidizable Pd(0) Nanoparticle Catalyst Compatible for Cross-Couplings of Water-Sensitive Acid Chlorides in Water
+Paper ID: 476c807c65f7af0ee659db30e154346bb33d3f7b
+Year: 2021
+Author Index: 13
+
+Abstract:
+Under the shielding effect of nanomicelles, a sustainable micellar technology for the design and convenient synthesis of ligand-free oxidizable ultrasmall Pd(0) nanoparticles (NPs) and their subsequent catalytic exploration for couplings of water-sensitive acid chlorides in water is reported. A proline-derived amphiphile, PS-750-M, plays a crucial role in stabilizing these NPs, preventing their aggregation and oxidation state changes. These NPs were characterized using 13C nuclear magnetic resonance (NMR), infrared (IR), and surface-enhanced Raman scattering (SERS) spectroscopy to evaluate the carbonyl interactions of PS-750-M with Pd. High-resolution transmission electron microscopy (HRTEM) and energy-dispersive X-ray spectroscopy (EDX) studies were performed to reveal the morphology, particle size distribution, and chemical composition, whereas X-ray photoelectron spectroscopy (XPS) measurements unveiled the oxidation state of the metal. In the cross-couplings of water-sensitive acid chlorides with boronic acids, the micelle’s shielding effect and boronic acids plays a vital role in preventing unwanted side reactions, including the hydrolysis of acid chlorides under basic pH. This approach is scalable and the applications are showcased in multigram scale reactions.
