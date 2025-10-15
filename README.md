@@ -167,15 +167,6 @@ This dataset supports work in:
 
 ---
 
-## Model and Cost
-- **Model:** DeepSeek-Chat (V3.2, Non-Thinking Mode)
-- **Input tokens (cache miss):** $0.28 / 1M  
-- **Output tokens:** $0.42 / 1M  
-- **Average sample cost:** ≈ $0.0004  
-- **Estimated total:** ≈ $4 per 10,000 texts
-
----
-
 ## Example Result
 
 | Type | File | Excerpt |
