@@ -1,0 +1,5 @@
+Title: Enhancing Adoptive T-Cell Therapy with CRISPR/Cas9 for Cancer Immunotherapy
+
+Abstract:
+
+Adoptive T-cell therapy has emerged as a promising cancer treatment modality, leveraging the potency of T-cells to recognize and eliminate tumor cells. However, its efficacy is often hampered by limitations in T-cell specificity and potential off-target effects. The CRISPR/Cas9 system has revolutionized genome editing, enabling precise modifications to T-cells. By integrating CRISPR/Cas9 with adoptive T-cell therapy, we can create genetically engineered T-cells expressing chimeric antigen receptors (CARs) or modified T-cell receptors (TCRs) with enhanced specificity for tumor antigens. This synergy enables the generation of T-cells with improved tumor recognition, reduced alloreactivity, and minimal off-target toxicity. As of 2021, preclinical and clinical trials have demonstrated the safety and efficacy of CRISPR/Cas9-edited T-cells in cancer immunotherapy. This review highlights the current state of CRISPR/Cas9-enhanced adoptive T-cell therapy, discussing its potential to transform cancer treatment paradigms and future directions for clinical translation.

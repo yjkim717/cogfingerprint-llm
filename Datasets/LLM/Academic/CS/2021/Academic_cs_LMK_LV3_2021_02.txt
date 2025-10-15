@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"In the agnostic learning framework, we establish the optimality of polynomial regression under Gaussian marginals. Leveraging SQ lower bounds, we demonstrate the hardness of learning concept classes comprising ReLUs. Our results show that polynomial regression achieves optimal excess risk, resolving a longstanding open problem. This work advances our understanding of the interplay between Gaussian distributions and agnostic learning, with implications for the design of robust machine learning algorithms." (2021)

@@ -1,0 +1,10 @@
+>## Reaching for the Stars (and Coding Along the Way)
+
+Okay, so 2020 has been… a lot. But amidst the sourdough and endless Zoom calls, I’ve been doing a lot of thinking about where I want to be in five years. I’m a Computer Engineering student, and while the coursework is fascinating, I really want to apply it somewhere *big*. Like, really big. I'm talking space.
+
+It sounds crazy, I know. But the idea of contributing to advancements in space exploration, whether through analyzing data from distant probes, developing AI for autonomous spacecraft, or even building robots for planetary exploration, genuinely excites me. 
+
+The problem? My resume needs some serious bolstering. So, I’ve been wrestling with what side projects to tackle. Should I dive into machine learning for image recognition, seeing if I can apply it to satellite imagery? Or maybe focus on robotics, building a small, automated rover? It’s overwhelming, but also incredibly motivating. It’s all about aiming high, right? And maybe, just maybe, contributing to humanity's reach beyond Earth.
+
+
+

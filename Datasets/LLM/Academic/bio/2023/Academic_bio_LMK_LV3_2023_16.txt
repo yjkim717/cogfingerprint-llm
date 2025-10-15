@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Elucidating the Role of Lignin-Modifying Enzymes in Pleurotus ostreatus using CRISPR/Cas9 Gene Editing
+
+Abstract:
+Lignin degradation is a crucial step in the carbon cycle, and white-rot fungi, such as Pleurotus ostreatus, play a key role in this process. However, the molecular mechanisms underlying lignin degradation remain poorly understood. This study employed CRISPR/Cas9 gene editing to investigate the role of lignin-modifying enzymes (LMEs) in P. ostreatus. By generating LME-deficient mutants, we demonstrate that LMEs are essential for the degradation of plant cell wall lignin. Our results show that the disruption of LME genes significantly impairs lignin degradation, highlighting the critical role of these enzymes in the lignolytic process. This study provides novel insights into the molecular mechanisms of lignin degradation and has implications for the development of biotechnological applications utilizing white-rot fungi. The findings underscore the potential of CRISPR/Cas9 gene editing for elucidating the complex interactions between fungi and plant biomass. (2023)

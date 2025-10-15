@@ -1,0 +1,19 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
+
+***
+
+**Comparative Long-Term Mortality Following Sleeve Gastrectomy and Roux-en-Y Gastric Bypass in Severe Obesity: A Population-Based Cohort Study**
+
+**Abstract**
+
+**Background:** Severe obesity (BMI ≥40 kg/m² or ≥35 kg/m² with significant comorbidities) constitutes a major global health challenge, conferring a substantially elevated risk of all-cause mortality. While bariatric surgery is established as the most effective intervention for sustained weight loss and comorbidity resolution, comparative long-term survival data between the two predominant contemporary procedures—Roux-en-Y Gastric Bypass (RYGB) and Sleeve Gastrectomy (SG)—remain a critical area of investigation, particularly as SG has surpassed RYGB in annual procedural volume.
+
+**Objective:** To compare the long-term all-cause mortality rates among patients with severe obesity treated with RYGB, SG, or nonsurgical management, and to identify predictors of mortality within the surgical cohort.
+
+**Methods:** We conducted a retrospective, propensity score-matched cohort study using data from a large, integrated healthcare system. Adults with severe obesity who underwent primary RYGB or SG between January 2008 and December 2015 were included. A nonsurgical control cohort was constructed from patients with similar demographic and clinical characteristics who did not undergo bariatric surgery during the study period. The primary outcome was all-cause mortality, ascertained through linkage with the National Death Index. Survival analyses were performed using Kaplan-Meier estimates and multivariable Cox proportional hazards models, adjusting for age, sex, BMI, diabetes, cardiovascular disease, and other comorbidities.
+
+**Results:** The matched cohort comprised 15,000 patients in each group (RYGB, SG, and nonsurgical controls), with a median follow-up of 8.2 years. All-cause mortality was significantly lower in both surgical groups compared to the nonsurgical group (p<0.001). The adjusted hazard ratio (aHR) for mortality was 0.55 (95% CI, 0.48-0.63) for RYGB and 0.59 (95% CI, 0.52-0.67) for SG, relative to nonsurgical controls. The direct comparison between RYGB and SG revealed no statistically significant difference in mortality risk (aHR 1.07, 95% CI, 0.92-1.25; p=0.37). Subgroup analyses indicated that RYGB was associated with a greater survival benefit in patients with type 2 diabetes and higher baseline BMI (>50 kg/m²), whereas outcomes were equivalent across procedures for other patient profiles. The most common causes of death in the nonsurgical group were cardiovascular disease and obesity-related cancers.
+
+**Conclusions:** In this large, long-term study, both RYGB and SG were associated with a profound and statistically equivalent reduction in all-cause mortality compared to nonsurgical management for severe obesity. These findings, emerging in the context of a global pandemic that highlighted the vulnerabilities associated with obesity, provide robust evidence to support the efficacy of both mainstream metabolic procedures in mitigating the excess mortality of severe obesity. The choice between SG and RYGB can therefore be guided by patient-specific factors, surgeon expertise, and perioperative risk, rather than by anticipated differences in long-term survival.
+
+**Keywords:** Bariatric Surgery; Roux-en-Y Gastric Bypass; Sleeve Gastrectomy; Long-Term Mortality; Severe Obesity; Metabolic Surgery; Cohort Study.

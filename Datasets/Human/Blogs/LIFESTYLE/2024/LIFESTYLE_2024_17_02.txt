@@ -1,0 +1,5 @@
+Year: 2024
+Author: dominicho12
+URL: https://www.reddit.com/r/nvidia/comments/19c1xzh/4060ti_16gb_or_4070_super/
+
+I'm looking to play games at 4k (dlss) video editing and AI workload but I'm wondering which to go for. I know in pure performance the 4070 super is faster especially in 4k gaming (I'll be playing a lot of jrpgs and only some AAA games like Avowed and Hellblade senua 2 but mostly jrpgs). I know the 4070ti super is coming out but that price is just way too much for me. So I'm debating between pure performance of 12gb but fear of spilling into vram or getting more vram now but not much performance.

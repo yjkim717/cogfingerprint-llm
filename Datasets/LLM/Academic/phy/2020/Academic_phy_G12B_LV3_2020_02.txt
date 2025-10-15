@@ -1,0 +1,9 @@
+Here's an abstract inspired by the provided summary and keywords, written in a formal, academic style suitable for a physics publication, and reflecting a 2020 context:
+
+**Abstract:**
+
+Recent investigations into the low-energy expansion of scattering amplitudes within effective field theory (EFT) frameworks have revealed unexpected geometric constraints. This work explores the interplay between causality and unitarity in shaping the structure of four-particle scattering amplitudes, demonstrating a surprising connection to positive geometry. Specifically, we identify a 'totally positive' structure reminiscent of Grassmannians and amplituhedra, suggesting a deeper underlying geometric organization. This observation motivates the definition of a novel geometric object, termed the ‘EFT-hedron,’ which encodes the allowed EFT expansion based on fundamental physical principles. The EFT-hedron provides a new perspective on the consistency and structure of EFT, potentially offering insights into the emergence of unitarity and causality from underlying quantum field theories.
+
+
+
+I aimed for the requested word count, appropriate terminology (amplituhedra, EFT, unitarity, causality, etc.), and a logical flow of reasoning.

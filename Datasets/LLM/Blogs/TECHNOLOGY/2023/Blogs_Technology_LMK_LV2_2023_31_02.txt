@@ -1,0 +1,1 @@
+"As we navigate the ever-changing tech landscape in 2023, I've come to realize that planning for the future is key. Building a monolithic architecture with microservice architecture (MSA) migration in mind can be a game-changer. By doing so, we can ensure a seamless transition and stay ahead of the curve."

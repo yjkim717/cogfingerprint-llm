@@ -1,0 +1,5 @@
+Year: 2023
+Author: skwyckl
+URL: https://www.reddit.com/r/elixir/comments/170euo1/what_do_you_think_of_using_the_notation_of/
+
+So, I found out about this method while exploring multi-parametric pipes. Basically, the author has an arithmetic function that is not "commutative" (abusing terminology) and wants to pipe a value into it, but the following happens: minus = fn x, y -> x - y end minus.(20,10) = 10 10 |> minus.(20) = -10 because `|>` targets the first argument of `minus`. In order to solve this, he wraps an &-function around it to specify argument position: 10 |> (&minus.(20, &1)).() And while this does in fact work, is it idiomatic Elixir? Can we do better?

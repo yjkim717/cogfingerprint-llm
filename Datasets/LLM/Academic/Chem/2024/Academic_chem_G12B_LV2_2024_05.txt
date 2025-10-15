@@ -1,0 +1,8 @@
+Here's a formal academic-style abstract, suitable for a chemistry-related publication, based on the provided information and adhering to the requested specifications:
+
+**Abstract**
+
+The chemical complexity of interstellar ices, formed through sequential freeze-out and surface reactions in cold molecular clouds, represents a crucial step in the synthesis of prebiotic molecules. This study investigates the mechanism of carbon atom incorporation into ammonia (NH₃) within interstellar ice analogs, a process considered vital for the production of simple amines. Utilizing high-level quantum chemical calculations, specifically employing density functional theory (DFT) with dispersion corrections, we explored a comprehensive hydrogenation network involving the addition of carbon atoms to NH₃ and subsequent hydrogen atom transfer reactions. Our findings demonstrate that the direct addition of a carbon atom to ammonia preferentially leads to the formation of methylamine (CH₃NH₂) over other potential products like imine or formamide intermediates. This selectivity is attributed to a combination of favorable energetics for C-atom addition and subsequent hydrogenation steps leading to CH₃NH₂. These results refine current astrochemical models by highlighting the importance of direct carbon atom condensation pathways in amine synthesis within interstellar ices, potentially influencing the abundance of methylamine observed in star-forming regions and impacting the subsequent formation of more complex nitrogen-containing organic molecules.
+
+
+

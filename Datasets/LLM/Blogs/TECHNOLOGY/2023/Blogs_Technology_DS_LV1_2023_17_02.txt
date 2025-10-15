@@ -1,0 +1,5 @@
+It’s funny how a simple question can send you spiraling down a rabbit hole. Last week, I was setting up a Proxmox server on my home lab hardware, planning to use ZFS with a RAIDZ1 pool for my data. I’d always heard the "1GB of RAM per 1TB of storage" rule of thumb, but suddenly I was stuck. Was that for the *total* raw capacity of my drives, or just the *usable* space after the RAIDZ1 parity?
+
+And then I remembered reading about ZFS deduplication—a magical-sounding feature that saves space by eliminating duplicate data blocks. My inner efficiency demon perked up. But a deeper dive revealed a harsh truth: enabling deduplication doesn't just tweak that memory rule; it obliterates it, demanding a massive RAM commitment I couldn't meet.
+
+In 2023, with data needs ever-growing, it was a sobering reminder that in tech, the most alluring features often come with hidden, real-world costs. Sometimes, the simplest, most stable configuration is the true power-user's choice.

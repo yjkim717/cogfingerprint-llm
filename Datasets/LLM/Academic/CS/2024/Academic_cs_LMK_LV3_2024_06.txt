@@ -1,0 +1,6 @@
+Title: Assessing the Pandemic's Impact on Banking Stability: A Bangladesh Case Study
+
+
+#### Abstract
+
+This study investigates the repercussions of the COVID-19 pandemic on the financial stability and operational performance of commercial banks in Bangladesh. Utilizing a comprehensive dataset encompassing pre-pandemic and pandemic periods, our analysis reveals a significant deterioration in risk profiles and profitability metrics among Bangladeshi commercial banks during the pandemic. Conversely, efficiency metrics indicate a notable improvement, suggesting adaptive resilience within the banking sector. Employing a panel data regression framework, we examine the nuanced effects of COVID-19 on banking performance, controlling for bank-specific characteristics and macroeconomic variables. Our findings underscore the complex interplay between pandemic-induced stressors and banking stability, offering insights for policymakers and stakeholders. As the global economy navigates the post-pandemic landscape in 2024, understanding these dynamics is crucial for fostering resilience within the financial sector.

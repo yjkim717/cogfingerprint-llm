@@ -1,0 +1,11 @@
+import datetime
+def get_current_year():
+    return datetime.datetime.now().year
+
+def write_reflective_blog_post(year):
+    if year == 2020:
+        return f"""As we navigated the challenges of {year}, many of us found ourselves reevaluating our daily routines and work habits. For me, it was a year of discovering new productivity techniques that helped me stay motivated and focused. One technique that made a significant impact was the 'Work Cycles' method. By breaking down my work into manageable cycles, I was able to stay engaged and avoid burnout. It's amazing how a simple change in approach can make such a big difference. As we continue to navigate the ups and downs of life, I'm reminded that it's the small, incremental changes that can lead to lasting lifestyle improvements."""
+    else:
+        return "Year not supported"
+
+print(write_reflective_blog_post(get_current_year()))

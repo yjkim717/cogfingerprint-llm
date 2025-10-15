@@ -1,0 +1,4 @@
+Title: Quantum Dynamical Modulation of Chemical Reactivity via Vibrational Strong Coupling in Infrared Cavities
+
+Abstract:
+Recent advances in vibrational polariton chemistry have underscored the potential of vibrational strong coupling (VSC) to modulate ground state chemical reactivity within infrared cavities. Employing a quantum dynamics framework, our 2022 study elucidates the mechanistic underpinnings of this phenomenon, revealing that VSC-induced quantum mechanical state splittings and resonances significantly alter reaction pathways. These findings suggest a novel paradigm for controlling chemical reactivity, leveraging the tunable light-matter interactions afforded by VSC to manipulate reaction kinetics and thermodynamics, thereby opening new avenues for the rational design of cavity-mediated chemical transformations.

@@ -1,0 +1,5 @@
+Year: 2022
+Author: SmexxyMoose
+URL: https://www.reddit.com/r/ObsidianMD/comments/yjj11n/pdf_management/
+
+As a university student, lots of my notes are based (either copying from or adding additional comments) off the PDF presentations my profs lecture off of. To any others in this situation, do you store these PDFs inside your vault in an attachment folder or do they live somewhere else?

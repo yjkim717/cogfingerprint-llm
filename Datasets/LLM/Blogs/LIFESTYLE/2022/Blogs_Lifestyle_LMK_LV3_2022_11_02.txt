@@ -1,0 +1,1 @@
+As I set up my Debian NAS in 2022, I realized securing my data was crucial. Moving the /root directory to an encrypted disk wasn't just about protecting files - it was about safeguarding my digital peace of mind. By prioritizing data security through disk encryption, I ensured my home server was a safe haven for my digital life, allowing me to focus on what truly matters.

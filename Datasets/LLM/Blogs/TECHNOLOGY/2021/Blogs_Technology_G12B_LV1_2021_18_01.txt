@@ -1,0 +1,7 @@
+## The Ghosts of Configurations Past
+
+It’s funny the things that linger in tech. Last week, I was wrestling with an old Cisco 2811 router – a trusty workhorse, really. We had a spare, a backup, running an older version of IOS 15. The plan was simple: copy the configuration from our production router (running IOS 12.4) and bring the backup online. 
+
+Simple in theory, at least! Turns out, migrating configurations across major IOS versions isn't always a smooth process. There were quirks, unexpected behaviors, and a few frantic Google searches later. It felt like chasing ghosts of configurations past, wrestling with commands that had subtly shifted meaning. 
+
+It was a good reminder that technology, even seemingly stable networking hardware, is constantly evolving. And sometimes, the best lessons are learned when you're troubleshooting a decades-old router. 2021, and I’m still learning from the classics!

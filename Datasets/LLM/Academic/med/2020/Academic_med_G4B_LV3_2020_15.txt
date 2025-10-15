@@ -1,0 +1,5 @@
+Here’s an abstract based on the provided summary and keywords, aiming for a formal academic style and approximately 96 words:
+
+**Abstract**
+
+Stead’s (2020) investigation critically examines the nuanced differences between risk ratios, odds ratios, and hazard ratios – essential statistical measures frequently encountered in clinical research.  Misinterpretation of these ratios can significantly impact study conclusions. The paper clarifies their respective applications, emphasizing that risk ratios reflect incidence rates, odds ratios relate to dichotomous outcomes, and hazard ratios quantify the instantaneous risk of an event. Utilizing illustrative examples from recent medical literature, Stead’s work advocates for rigorous statistical reporting to ensure accurate interpretation and informed clinical decision-making.

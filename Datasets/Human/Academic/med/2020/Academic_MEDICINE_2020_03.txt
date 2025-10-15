@@ -1,0 +1,8 @@
+Author: W. Brum
+Title: Application of two‐graph receiver operating characteristics for defining intermediate amyloid‐beta CSF cutoffs
+Paper ID: 2556827fbfaa2de461b6368c0d79018018f84ac0
+Year: 2020
+Author Index: 3
+
+Abstract:
+The NIA‐AA 2018 Research Framework envisioned Alzheimer's disease (AD) as a biological construct, dichotomizing individuals into normal and abnormal for each biomarker category. Furthermore, it suggests that developing intermediate‐range cutoffs would aid in advancing AD research. However, few statistical methodologies have been proposed to define what would constitute an intermediate range for an AD biomarker. Here, we apply a three‐range method for defining cutoff in amyloid‐β (Aβ) cerebrospinal fluid (CSF) measurements to assess intermediate range's predictive value over clinical progression. Considering it is expected that a biomarker loses its predictive value in the perithreshold zone, we hypothesized that Aβ‐intermediate (AbInt) status of cognitively unimpaired (CU) would not be able to predict progression to symptomatic stages of AD.

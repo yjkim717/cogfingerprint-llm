@@ -1,0 +1,5 @@
+Title: A Novel Swampland Condition for Quantum Gravity: The Black Hole Scale $\Lambda_{\text{mBH}}$
+
+Abstract:
+
+We propose a new scale, $\Lambda_{\text{mBH}}$, characterizing a phase transition in black hole physics, and argue that it constitutes a Swampland condition for quantum gravity. The $\Lambda_{\text{mBH}}$ scale is distinct from, yet related to, the Planck scale, species scale, and black hole scale, which collectively govern the ultraviolet (UV) behavior of gravitational theories. By examining the interplay between these scales, we demonstrate that $\Lambda_{\text{mBH}}$ marks a critical threshold beyond which black hole entropy exhibits a qualitative shift, indicating a transition in the underlying quantum gravitational dynamics. We show that this transition is tied to a fundamental inconsistency in effective field theories that fail to satisfy the proposed Swampland condition. Our findings constrain the parameter space of viable quantum gravity theories, shedding new light on the Swampland program and its implications for our understanding of the gravitational sector.

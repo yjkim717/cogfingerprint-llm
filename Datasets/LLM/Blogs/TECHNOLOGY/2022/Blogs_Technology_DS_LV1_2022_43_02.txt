@@ -1,0 +1,5 @@
+It’s 2022, and I’ve just spent the last month refactoring a sprawling codebase where tests and mocks were tangled right in with the source. At first, it felt convenient—direct access to internals, easy code coverage boosts. But as the project grew, I saw the cracks. Every tiny change broke multiple tests, not because the behavior changed, but because we were peeking under the hood instead of knocking at the front door.
+
+That’s when I shifted our tests and mocks into separate `_test` packages. It forced us to design around interfaces, not internal states. Suddenly, our tests became resilient. They validated what the code *does*, not how it does it. White-box testing still has its place, but decoupling tests from implementation felt like trading short-term convenience for long-term clarity.
+
+Looking back, I realize we weren’t just organizing code—we were building a culture of thoughtful design. When tests focus on contracts rather than internals, they guide you toward cleaner, more modular architecture. And isn’t that what we’re all chasing?

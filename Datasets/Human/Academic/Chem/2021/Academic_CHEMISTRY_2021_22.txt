@@ -1,8 +1,0 @@
-Author: J. Gurian
-Title: Molecular Chemistry for Dark Matter
-Paper ID: dbdfdf4eda84eafda1de3646f43a41df98b55cc2
-Year: 2021
-Author Index: 22
-
-Abstract:
-Molecular cooling is essential for studying the formation of substructure of dissipative dark-matter halos that may host compact objects such as black holes. Here, we analyze the reaction rates relevant for the formation, dissociation, and transition of hydrogenic molecules while allowing for different values of the physical parameters: the coupling constant, the proton mass, and the electron mass. For all cases, we rescale the reaction rates for the standard molecular hydrogen, so our results are valid as long as the dark matter is weakly coupled and one of the fermions is much heavier than the other. These results will allow a robust numerical treatment of cosmic structure, in particular for minihalos for which molecular cooling is important, in a dissipative dark-matter scenario.

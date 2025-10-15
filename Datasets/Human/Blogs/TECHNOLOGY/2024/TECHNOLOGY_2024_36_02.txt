@@ -1,0 +1,5 @@
+Year: 2024
+Author: theodiousolivetree
+URL: https://www.reddit.com/r/informatiqueFr/comments/1fdml7b/la_carte_graphique_estelle_utilisée_avec_des/
+
+Au boulot, il y a un utilisateur qui veut un ordinateur avec une carte graphique performante au prétexte qu'il utilise Gimp. Il est sous Linux (c'est son choix). Les collègues et moi sommes persuadés que Gimp n'exploite pas la carte graphique mais qu'au contraire il lui faudrait plus de Ram. Nous avons tort ou l'utilisateur à tort ?

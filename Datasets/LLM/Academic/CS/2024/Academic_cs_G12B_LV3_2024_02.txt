@@ -1,0 +1,5 @@
+ Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a CS publication in 2024:
+
+**Abstract**
+
+This work investigates fundamental limits in the estimation of non-Gaussian components within high-dimensional data, specifically focusing on Non-Gaussian Component Analysis (NGCA). We establish novel statistical query (SQ) lower bounds for NGCA, demonstrating near-optimality under a relaxed moment-matching assumption. Prior approaches typically relied on restrictive chi-squared norm conditions; our results circumvent this limitation, offering broader applicability. Furthermore, we extend the analysis to scenarios involving hidden subspace structures, significantly generalizing existing theoretical frameworks. This advancement provides tighter guarantees for NGCA-based estimation tasks across diverse applications, including dimensionality reduction and feature extraction. The implications of these SQ lower bounds contribute to a deeper understanding of the inherent complexity of non-Gaussian component separation and inform the design of more efficient and robust algorithms.

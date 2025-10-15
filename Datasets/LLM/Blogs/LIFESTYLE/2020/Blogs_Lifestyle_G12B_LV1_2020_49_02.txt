@@ -1,0 +1,3 @@
+## The Spreadsheet Stared Back
+
+2020 felt like a budget in itself – unpredictable and constantly shifting. I was meticulously tracking every penny in my spreadsheet, a comforting ritual amidst the chaos. Then, a bizarre error popped up: a negative "available to budget" amount. My account balances were correct, so what was going on? It felt like the spreadsheet was mocking me, mirroring the feeling of being perpetually behind. Ultimately, it was a simple formula oversight, but the frustration lingered. It reminded me that even the most organized systems can’t fully control life’s curveballs.

@@ -1,0 +1,13 @@
+Of course, here is a reflective blog post based on your request.
+
+***
+
+### The Unlikely IT Apprentice
+
+It’s funny where life leads you. Last year, my ex-wife called me. Not about our kids or logistics, but to ask, “How do I get into IT?”
+
+She was living hours from a major city, with little more than a laptop and a fierce desire for a fresh start. My old sysadmin brain immediately started listing certifications, expensive courses, and complex lab setups. Then I stopped. The traditional path wasn't an option.
+
+So, we started from scratch. I pointed her toward free resources for her first Microsoft Fundamentals cert. We used old hardware I had lying around to practice basic Windows Server tasks over video chat. Her "remote office" was her kitchen table.
+
+Watching her journey has been a powerful reminder. You don't need a fancy degree or a corporate sponsor to begin. In 2022, the core of IT—curiosity, resilience, and the ability to Google effectively—is more accessible than ever. She’s proof that with a Wi-Fi connection and sheer will, you can build a new future from anywhere, one command line at a time.

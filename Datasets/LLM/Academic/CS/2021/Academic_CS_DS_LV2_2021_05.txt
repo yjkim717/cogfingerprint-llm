@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract reflecting the provided summary and the 2021 context.
+
+***
+
+**Abstract**
+
+The prevailing paradigm in algorithmic fairness, focused narrowly on statistical parity and equality of outcomes, is increasingly recognized as insufficient. This paper argues that such approaches often fail to address the root causes of disparity by neglecting underlying social structures and power dynamics. We critique the limitations of correlation-based fairness metrics and propose a conceptual shift towards frameworks centered on inequality and power distribution. By integrating principles from causal inference, we develop a methodology to audit algorithmic decision-making systems for their role in reifying or challenging existing social hierarchies. Our contribution is a structured, power-aware auditing framework that moves beyond technical fixes to interrogate the substantive justice implications of automated systems, offering a more robust foundation for equitable computational design.
+
+(149 words)

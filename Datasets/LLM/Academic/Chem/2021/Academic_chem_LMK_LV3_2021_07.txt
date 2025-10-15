@@ -1,0 +1,5 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Advancements in Metal-Organic Frameworks: Integrating Fluorescent Functionality for Enhanced Pressure Amplification"
+
+The design of flexible metal-organic frameworks (MOFs) with tailored properties has garnered significant attention in recent years. In 2021, our research group successfully synthesized a novel series of MOFs, denoted as DUT-140(M), which integrate fluorescent functionality with pressure-amplifying capabilities. These porous crystals exhibit high porosity and flexibility, accompanied by negative gas adsorption (NGA) behavior. The incorporation of fluorescent moieties enables the visualization of structural transformations under external stimuli, providing valuable insights into the mechanisms underlying pressure amplification. Our findings demonstrate that the DUT-140(M) series exhibits enhanced sensitivity to pressure changes, making them promising candidates for applications in sensing and gas storage. This work highlights the potential of combining optical functionality with MOF flexibility to create advanced materials with tailored properties.

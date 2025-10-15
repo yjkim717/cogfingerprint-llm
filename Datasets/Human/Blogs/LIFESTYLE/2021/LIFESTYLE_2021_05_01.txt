@@ -1,0 +1,5 @@
+Year: 2021
+Author: GordonRammstein
+URL: https://www.reddit.com/r/techsupport/comments/m0m4ib/pc_wakes_itself_from_sleep_mode_but_peripherals/
+
+Lately I've gotten in the habit of using sleep mode instead of full shutdowns at night. Most of the time, it's just fine. But sometimes, totally randomly, my PC lights back up, fans start spinning, etc. But my monitor, mouse, keyboard are all still asleep. So, I can't even click anything to put it back to sleep. No amount of input will wake the peripherals. I have to hold the power button and fully reboot it. &#x200B; My hunch is a program in the background, but I don't know what it could be. My main programs are Chrome, Battle.net, Steam, Curseforge(wow addons), Razer Synapse, Discord, nvidia experience, and ESET antivirus. I close out of everything except curseforge, nvidia, ESET, and Razer. Those programs havent woken the computer in the past, so idk why they would be the cause. &#x200B; Either a) I need some help getting it to sleep for real, or b) Some help waking my peripherals so I can at least put it back to sleep without having to hard reset it

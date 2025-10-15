@@ -1,0 +1,9 @@
+It’s 2021, and I’m sitting here, staring at yet another REST service that feels like it’s held together with duct tape and good intentions. You know the feeling—your backend is humming along nicely, but the moment you start shuttling data between your Scala domain models and the DTOs your API exposes, things get messy. For years, I’d resigned myself to writing tedious, repetitive mapping code, convinced it was just part of the developer’s burden.
+
+Then Scala 3 arrived, and with it, a glimmer of hope. I remember the day I first experimented with Record classes. They weren’t just another feature; they felt like a quiet revolution. Suddenly, defining data structures became cleaner, more intentional. But the real magic happened when I started thinking about how Records could simplify one of the most common pain points in service development: mapping between entities and DTOs.
+
+I’d dabbled with libraries like MapStruct in the Java world, appreciating their ability to automate object mapping. But in Scala, I wanted something that felt native—something that embraced the language’s elegance rather than fighting it. With Scala 3’s expressive type system and the clarity of Record classes, I began crafting mappers that weren’t just functional, but readable and maintainable.
+
+It wasn’t about eliminating complexity; it was about embracing it gracefully. Instead of drowning in boilerplate, I found myself writing minimal, intention-revealing code. Records made my DTOs transparent and easy to reason about, while Scala 3’s features allowed me to build mapping logic that felt like a natural extension of my domain.
+
+Looking back, it’s funny how the smallest shifts in tooling can reshape your entire approach. This journey wasn’t just about cleaner code—it was about reclaiming joy in the details, transforming a chore into a craft. And in the world of REST services, that’s a victory worth celebrating.

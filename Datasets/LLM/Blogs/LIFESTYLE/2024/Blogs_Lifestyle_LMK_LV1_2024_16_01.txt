@@ -1,0 +1,5 @@
+"As I sit here, staring at my computer screen with a sea of code staring back, I'm hit with a wave of uncertainty. I'm about to graduate with a degree in computer engineering, but I'm not sure if I'm ready for the job market. Everywhere I look, I see job postings for data scientists and web developers, but I'm not sure how my skills will translate.
+
+I've spent the past four years learning about circuits, microcontrollers, and computer architecture, but I've barely touched on machine learning or JavaScript. Will my university degree be enough to land me a job, or will I be left behind? I've tried to take online courses to fill the gaps, but it's hard to know what to focus on.
+
+As I navigate this uncertain time, I'm realizing that it's not just about the technical skills – it's about being adaptable and willing to learn. I'm trying to stay positive and focus on the fact that my degree has given me a solid foundation. I just hope that it's enough to get me started in this ever-changing tech landscape."

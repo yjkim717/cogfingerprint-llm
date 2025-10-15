@@ -1,0 +1,5 @@
+**Abstract**
+
+We introduce a novel combinatorial framework for computing scattering amplitudes in the colored \( \phi^3 \) scalar field theory, transcending the traditional reliance on Feynman diagrams. By establishing a precise mapping between kinematic data and combinatorial structures, we demonstrate that tree-level and planar loop amplitudes are enumerated by weighted counts of constrained trees on kinematic space. This approach recasts the perturbative expansion as a topological generating function, where the genus of the underlying worldsheet dictates the complexity of the associated counting problem. Our results reveal a profound combinatorial underpinning of the amplitude's analytic structure, suggesting new avenues for computation in non-planar sectors and connections to the amplituhedron program. This work posits that fundamental physics may be inherently computational in nature.
+
+*(Word Count: 119)*

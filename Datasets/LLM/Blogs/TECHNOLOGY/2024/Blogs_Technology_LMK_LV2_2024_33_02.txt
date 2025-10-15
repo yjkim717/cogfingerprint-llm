@@ -1,0 +1,9 @@
+"Wildcard Woes: My Certbot and DuckDNS Adventure"
+
+As I sat in front of my Ubuntu VPS in early 2024, I was on a mission to secure my domain with a wildcard Let's Encrypt certificate. Sounds simple, right? I had used Certbot before, but this time I was determined to tackle the wildcard cert challenge. I had chosen DuckDNS as my DNS provider, and I was confident that their API would make the process a breeze.
+
+But, as is often the case, confidence was met with frustration. The Certbot documentation seemed straightforward, but the reality was far from it. I spent hours wrestling with configuration files, DNS records, and Certbot's sometimes-cryptic error messages. DuckDNS's documentation wasn't much help either - I struggled to understand how to correctly format my API requests.
+
+As I poured over online forums and tutorials, I began to feel like I was in a never-ending loop. Every solution I tried led to another roadblock. It wasn't until I took a step back and re-read the Certbot logs that I spotted the issue: a simple misconfiguration that had been staring me in the face all along.
+
+With a sigh of relief, I finally obtained my wildcard certificate. As I looked back on the ordeal, I realized that the struggle had taught me a valuable lesson: patience and persistence are just as important as technical know-how when it comes to troubleshooting. If you're facing similar challenges, don't be discouraged - with a little determination, you'll be serving up secure, wildcard-certified content in no time.

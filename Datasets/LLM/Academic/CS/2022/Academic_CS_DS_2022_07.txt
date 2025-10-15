@@ -1,1 +1,0 @@
-This paper establishes that for any concept class, the sample complexity of differentially private PAC learning is characterized by its Littlestone dimension. This result unifies private learnability with online learnability, resolving a central open problem in algorithmic stability theory.

@@ -1,0 +1,11 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The 1GB Per TB ZFS Nightmare**
+
+Okay, confession time: my home lab is currently a glorious, chaotic mess of blinking lights and half-finished projects. And right now, I’m staring down a very real problem – ZFS. Specifically, its memory hunger. 
+
+I’m aiming for a decent setup with ZFS and RAIDZ1, running on Proxmox, and the recommended 1GB per TB of storage is… terrifying. Seriously, my budget is already stretched thin! It feels like I’m constantly battling the system, begging it for more RAM. 
+
+It’s a humbling reminder that tech, even in our own homes, isn’t always as simple as hitting “install.”  Anyone else wrestling with these kinds of resource constraints? Let’s commiserate (and maybe brainstorm solutions!).

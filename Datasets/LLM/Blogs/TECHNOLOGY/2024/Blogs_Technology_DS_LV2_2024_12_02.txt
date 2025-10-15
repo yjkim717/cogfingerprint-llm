@@ -1,0 +1,13 @@
+Of course. Here is a reflective blog post based on the provided summary.
+
+***
+
+### My Brief, Bizarre Romance with AI Pair Programming
+
+So, I finally caved. The hype around using LLMs as a coding partner was too loud to ignore. My project? A sleek new dashboard built with Vue 3. I pictured myself sipping coffee, issuing simple commands, and watching the code write itself. Reality, as it often does, had other plans.
+
+The first red flag was the styling. I’d ask for a centered, responsive card with a subtle shadow, and the AI would hand me a Frankenstein’s monster of CSS—a `flex` container here, an absolute-positioned `div` there. It was like an eager intern who’d read all the manuals but had never actually built anything. I’d spend more time untangling its "solutions" than if I’d just written the styles myself from scratch.
+
+But the real comedy came with framework comparisons. When I probed its logic on a component structure, it would occasionally slip in a React hook or confuse Vue's Composition API with something entirely different. It was a stark reminder: these models are brilliant pattern-matchers, not framework philosophers. They don’t *understand* why Vue’s reactivity feels so intuitive or why I might choose it over React; they just regurgitate what they’ve seen most often.
+
+The promise was a tireless, all-knowing collaborator. The reality was a partner who confidently gave me directions to a restaurant that closed three years ago. It’s a powerful tool, absolutely, but one that still needs a very human hand on the wheel. My takeaway? AI can generate code, but it can’t replace the intuition, the frustration, and the eventual triumph of truly building something yourself. And for now, I think I prefer it that way.

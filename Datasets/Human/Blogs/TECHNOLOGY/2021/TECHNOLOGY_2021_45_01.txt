@@ -1,0 +1,5 @@
+Year: 2021
+Author: mikaball
+URL: https://www.reddit.com/r/scala/comments/n2jonn/self_or_this_scala_3_type/
+
+Is there anyway of doing this in Scala 3? class A(): def joinT <: B: Self & T = ??? Tried with This and Self. Return "**Not found: type Self** " Edited: So the intention was this: class Record(elems: Map[String, Any]) extends Selectable: val fields = elems def this(elems: (String, Any)*) = this(elems.toMap) def selectDynamic(name: String): Any = fields(name) def joinT <: Record: this.type & T = Record(fields ++ more.fields).asInstanceOf[this.type & T] So, one more question. Is it possible to extend this: def joinL <: Record, R <: Record: L & R = Record(left.fields ++ right.fields).asInstanceOf[L & R] with something like: def joinM <: Record: <what to put as type?> = ??? &#x200B;

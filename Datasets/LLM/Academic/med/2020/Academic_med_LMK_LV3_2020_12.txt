@@ -1,0 +1,17 @@
+Title: Comparative Efficacy of Bariatric Surgery and Lifestyle Intervention in Achieving Type 2 Diabetes Remission: A 5-Year Randomized Controlled Trial Analysis
+
+Abstract:
+
+Background: Type 2 diabetes mellitus (T2DM) is a pervasive metabolic disorder, often associated with obesity. The efficacy of bariatric surgery compared to lifestyle intervention alone in achieving T2DM remission remains a topic of considerable clinical interest.
+
+Objective: This study aimed to investigate the comparative effectiveness of bariatric surgery versus lifestyle intervention in inducing T2DM remission at 5-year follow-up in a cohort of obese individuals with T2DM.
+
+Methods: A randomized controlled trial (RCT) was conducted involving 200 participants with T2DM and obesity, randomly assigned to either undergo bariatric surgery or receive lifestyle intervention alone. The primary outcome measured was T2DM remission, defined as glycated hemoglobin (HbA1c) < 6.5% without glucose-lowering medication, at 5-year follow-up. Secondary outcomes included changes in body mass index (BMI), fasting glucose, and lipid profiles.
+
+Results: At 5-year follow-up, the bariatric surgery group demonstrated a significantly higher rate of T2DM remission compared to the lifestyle intervention group (45% vs. 12%, p < 0.001). Participants undergoing bariatric surgery also exhibited greater reductions in BMI (-15.6 ± 4.2 kg/m² vs. -4.8 ± 3.5 kg/m², p < 0.001), fasting glucose (-3.4 ± 1.2 mmol/L vs. -1.1 ± 1.5 mmol/L, p < 0.001), and improvements in lipid profiles. Multivariate logistic regression analysis identified bariatric surgery as a significant predictor of T2DM remission (odds ratio = 4.23, 95% CI: 2.15-8.34, p < 0.001).
+
+Conclusion: This RCT provides robust evidence that bariatric surgery is more effective than lifestyle intervention alone in achieving T2DM remission at 5-year follow-up. The findings support the consideration of bariatric surgery as a viable treatment option for obese individuals with T2DM, potentially reshaping clinical management strategies for this patient population. Further research is warranted to elucidate the long-term benefits and risks associated with bariatric surgery in the context of T2DM management.
+
+Keywords: Bariatric surgery, type 2 diabetes mellitus, lifestyle intervention, randomized controlled trial, diabetes remission.
+
+This study underscores the importance of a multidisciplinary approach to T2DM management, integrating surgical, medical, and lifestyle interventions to optimize patient outcomes. As the prevalence of obesity and T2DM continues to rise globally, the findings of this trial have significant implications for healthcare policy and clinical practice, highlighting the need for personalized treatment strategies that address the complex interplay between obesity, metabolic dysfunction, and T2DM.

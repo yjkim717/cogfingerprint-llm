@@ -1,0 +1,5 @@
+ here:
+
+## The Creepy-Cool World of AI Voices
+
+Okay, I’ve been down a rabbit hole lately. Specifically, a rabbit hole filled with incredibly realistic AI-generated voices. I stumbled across some videos demonstrating Tacotron 2, and honestly, it’s a little unsettling how natural they sound. It makes you wonder – what’s possible now, and what will be possible in just a few years? I'm digging around GitHub for tutorials, trying to wrap my head around how this works. It’s fascinating and a bit spooky all at once. Anyone else exploring this space? Let me know your thoughts!

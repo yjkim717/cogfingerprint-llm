@@ -1,0 +1,5 @@
+Year: 2022
+Author: megamanxzero35
+URL: https://www.reddit.com/r/PcBuild/comments/rume2j/built_in_2013_dont_play_games_but_run_plex_and/
+
+Like the title says, built a pretty low budget desktop in 2013. Was using PC Part picker and it appears there are shortages on just about everything. My mobo is a ASROCK A75MHVS with an AMD A4-3400. I didn’t fully realize it at the time but having the FM1 socket was already pretty outdated. So since finding a new motherboard seems pretty hard for my budget/purchase, I can find some better CPUs that will work with my motherboard. Is it worth it to just upgrade my CPU to the best FM1 socket I can find and to get me by for another couple years before I do a motherboard/CPU upgrade?

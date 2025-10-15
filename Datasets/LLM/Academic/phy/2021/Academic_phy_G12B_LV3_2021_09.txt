@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a physics/astronomy context and reflecting a 2021 timeframe:
+
+**Abstract**
+
+The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) promises an unprecedented influx of transient event data, necessitating robust photometric classification techniques for supernovae. This work investigates the influence of LSST’s observing cadence and season length on the accuracy of such classifications. Our analysis demonstrates that prolonged observing seasons and irregular sampling introduce challenges for traditional classification methods. However, we find that employing Gaussian process interpolation effectively mitigates the detrimental effects of substantial observational gaps, enabling improved photometric redshift estimations and robust supernova type assignments. These findings are crucial for maximizing the scientific return of the LSST supernova sample and informing optimal data processing strategies for large-scale photometric surveys.

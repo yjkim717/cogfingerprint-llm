@@ -1,0 +1,8 @@
+ here:
+
+**Abstract**
+
+Recent advancements in computer vision have been significantly shaped by the emergence of Vision Transformers (ViTs), demonstrating superior performance on various benchmarks. However, the computational complexity and architectural intricacies of ViTs have motivated exploration into alternative approaches. This paper presents ConvMixer, a novel neural network architecture designed to achieve comparable performance to ViTs while maintaining a significantly simplified structure. ConvMixer eschews the reliance on attention mechanisms entirely, instead leveraging a sequence of spatially separable convolutional layers interspersed with pointwise (1x1) convolutional layers operating on patch embeddings. This design permits direct processing of image patches, mirroring the patch-based input strategy of ViTs, but utilizing the efficiency and inductive biases inherent in convolutional networks. We demonstrate that ConvMixer achieves state-of-the-art results on image classification tasks, rivaling ViTs in accuracy while exhibiting improved training efficiency and reduced parameter counts. Empirical evaluation on ImageNet-1K and CIFAR-10 datasets reveals that ConvMixer’s performance scales gracefully with model size and exhibits robustness to hyperparameter settings. The findings suggest a compelling alternative to transformer-based architectures, positioning ConvMixer as a strong contender within the landscape of modern image classification models and highlighting the continued relevance of convolutional networks in the era of self-attention.
+
+
+

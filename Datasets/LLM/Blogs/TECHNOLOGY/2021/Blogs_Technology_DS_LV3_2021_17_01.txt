@@ -1,0 +1,5 @@
+It was one of those classic “it worked on my machine” moments, only this time, the machine was the same—it was the Java version that had changed. I was migrating our application from Java 8 to Java 11 in late 2021, feeling pretty confident. After all, how much could regex possibly break?
+
+Turns out, quite a bit. My trusty pattern for matching simple numbers suddenly failed. No warnings, no errors—just silent, stubborn refusal to match digits that had passed through a thousand times before. I stared at the identical code, running in a slightly newer JVM, and felt that familiar developer dread.
+
+Digging deeper, I realized how version compatibility isn’t just about big, flashy features. Sometimes, it’s subtle VM changes under the hood, tweaking something as fundamental as pattern matching. It was a humbling reminder: in tech, even the smallest assumptions can unravel. But there’s a lesson in every glitch—it forces us to look closer, learn more, and appreciate the intricate dance of progress and stability.

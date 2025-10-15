@@ -1,0 +1,9 @@
+## The ZFS Rabbit Hole & My Home Lab Headaches (and Maybe Yours Too?)
+
+Okay, confession time. I’ve been staring at my Proxmox server with a slightly panicked expression for the better part of a week. It all started with wanting to finally implement RAIDZ1 with ZFS – a move I *thought* would be a straightforward upgrade for my home lab storage. 
+
+Turns out, ZFS is…complicated. Specifically, the memory requirements. Everyone throws around that “1GB RAM per TB” rule, and it’s been rattling around in my head. Is it gospel? Is it a suggestion? Will my poor 32GB server actually choke on a relatively modest 8TB pool?
+
+I’ve spent hours reading forums, poring over documentation (which, let’s be honest, can be dense), and generally feeling like I’ve fallen down a very deep, very technical rabbit hole.  It’s a stark reminder that even seemingly simple upgrades can be unexpectedly complex when you’re venturing into the world of data integrity and advanced storage solutions. 
+
+Anyone else wrestling with ZFS and feeling a little overwhelmed?  Let's commiserate (and share tips!) in the comments.

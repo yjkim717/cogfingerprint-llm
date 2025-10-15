@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"High-resolution microclimatic data are crucial for understanding ecological processes in European forests. This study presents novel open-access bioclimatic variables, capturing microclimatic temperatures at a 25 × 25 m2 resolution. These data enhance the granularity of microclimate research, facilitating investigations into the complex interactions between forest ecosystems and climate. By providing detailed temperature profiles, this dataset advances our understanding of microclimate-ecosystem dynamics, supporting future research in forest ecology and conservation (2023)."

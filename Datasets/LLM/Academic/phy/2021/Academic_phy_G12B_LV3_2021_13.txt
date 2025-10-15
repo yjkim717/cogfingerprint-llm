@@ -1,0 +1,5 @@
+Here's an abstract inspired by the provided summary and keywords, written in a formal academic style suitable for a physics publication, and contextualized to 2021:
+
+**Abstract**
+
+In 2021, exploring the foundations of thermodynamics at the quantum scale remains a central challenge. This work experimentally demonstrates an autonomous feedback protocol that emulates the functionality of Maxwell's demon. Utilizing a nitrogen-vacancy (NV) center in diamond as a controllable open spin qutrit, we achieve tunable dissipative dynamics coupled with stochastic measurement events. This configuration allows for the manipulation of energy exchange between the quantum system and its environment, effectively realizing a thermodynamically active process. Our findings offer a novel platform for investigating quantum thermodynamics and autonomous feedback control, paving the way for deeper insights into non-equilibrium statistical mechanics and potentially enabling energy harvesting strategies at the nanoscale.

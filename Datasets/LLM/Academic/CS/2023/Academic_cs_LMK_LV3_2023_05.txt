@@ -1,0 +1,4 @@
+Title: Enhancing Hate Speech Detection with Annotator Disagreement and Model Uncertainty
+
+Abstract:
+In the realm of natural language processing (NLP), hate speech detection remains a challenging task due to its subjective nature. This study (2023) addresses the issue of annotator disagreement by proposing a novel model that predicts individual annotator ratings for potentially offensive text. By integrating these predictions with the identified target group, our model captures the nuances of subjective judgments. Furthermore, we incorporate model uncertainty to enhance the robustness of our approach. Experimental results demonstrate that this framework improves hate speech detection performance, providing a more accurate and reliable solution for this complex NLP task.

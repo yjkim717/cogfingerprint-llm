@@ -1,0 +1,1 @@
+generate_blog_post(summary="The real problem with GQ is its attempt to be both a reboot and a new show, causing disjointed storytelling.", keywords="gq, reboot, new characters, original series, viewership")

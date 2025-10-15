@@ -1,0 +1,8 @@
+Author: Shao-Wen Wei
+Title: Universal topological classifications of black hole thermodynamics
+Paper ID: 848c443d6089251610a0fddce14fc98526fcb898
+Year: 2024
+Author Index: 14
+
+Abstract:
+In this Letter, we investigate the universal classifications of black hole states by considering them as topological defects within the thermodynamic parameter space. Through the asymptotic behaviors of the constructed vector, our results indicate the existence of four distinct topological classifications, denoted as $W^{1-}$, $W^{0+}$, $W^{0-}$, and $W^{1+}$. Within these classifications, the innermost small black hole states are characterized as unstable, stable, unstable, and stable, respectively, while the outermost large ones exhibit an unstable, unstable, stable, and stable behavior. These classifications also display contrasting thermodynamic properties in both low and high Hawking temperature limits. Furthermore, we establish a systematic ordering of the local thermodynamically stable and unstable black hole states as the horizon radius increases for a specific topological classification. These results reveal the universal topological classifications governing black hole thermodynamics, providing valuable insights into the fundamental nature of quantum gravity.

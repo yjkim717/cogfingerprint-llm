@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The emergence and persistent circulation of high pathogenic avian influenza (HPAI) A(H5Nx) viruses of the Gs/GD lineage, clade 2.3.4.4b, in European wild bird populations since 2020 represents a significant shift in the virus's ecology. This study investigates the genomic drivers underpinning this transition from sporadic incursion to endemic circulation. Through extensive phylogenetic analysis and genomic surveillance of viruses collected from 2021 to 2024, we demonstrate that the European H5Nx virus population has undergone extensive and rapid reassortment with circulating low pathogenic avian influenza (LPAI) viruses. This has resulted in a marked increase in genetic diversity, characterized by the emergence of multiple novel genotypes possessing neuraminidase (NA) segments derived from Eurasian LPAI virus reservoirs (e.g., H5N1, H5N5). We identify several predominant reassortant genotypes that have achieved significant geographic dissemination, indicating a fitness advantage in the wild bird host population. Our findings strongly suggest that this continuous process of reassortment is not a peripheral phenomenon but a central mechanism fueling viral adaptation. It facilitates the generation of genetic novelty, which in turn drives the endemic circulation dynamics now observed. This study underscores the critical need for ongoing, high-resolution genomic surveillance to monitor the evolving threat of HPAI H5Nx viruses to both animal and potential public health.
+
+(Word Count: 199)

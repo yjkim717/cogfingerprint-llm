@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract:
+
+Title: Quantum-Classical Dynamics of Molecular Rotors: Unveiling the Role of Vibrational Synchronization in Photoisomerization Efficiency
+
+Abstract:
+The photoisomerization dynamics of natural and synthetic molecular rotors are investigated using a quantum-classical approach, with a focus on the interplay between vibrational synchronization and quantum efficiency. Our simulations reveal that vibrational synchronization plays a crucial role in modulating the photoisomerization quantum efficiency, with synchronized vibrational modes facilitating efficient energy transfer and isomerization. Comparative analysis of natural and synthetic rotors indicates that the former exhibit enhanced vibrational synchronization, resulting in higher quantum efficiencies. In contrast, synthetic rotors display reduced synchronization, leading to decreased efficiencies. Our findings provide insight into the underlying mechanisms governing photoisomerization dynamics and highlight the importance of vibrational synchronization in optimizing molecular rotor performance. The results have implications for the design of efficient synthetic molecular machines and optoelectronic devices (2024).

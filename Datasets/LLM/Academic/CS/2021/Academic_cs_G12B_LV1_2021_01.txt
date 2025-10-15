@@ -1,0 +1,10 @@
+
+## Pose-Driven Scene Hallucination via StyleGAN2-Conditioned Generative Adversarial Networks
+
+Recent advances in generative adversarial networks (GANs) have demonstrated remarkable capabilities in synthesizing realistic images. However, controllable scene generation, particularly when conditioned on specific human poses, remains a challenging problem. This paper presents a novel approach to pose-conditioned scene generation, leveraging the architecture of StyleGAN2 to hallucinate complete, coherent scenes that are consistent with a provided human pose input. Our method, termed Pose-StyleGAN, integrates human pose information directly into the StyleGAN2 generator through adaptive instance normalization (AdaIN) layers, enabling fine-grained control over scene structure and content.
+
+We construct a large-scale dataset of images paired with corresponding human pose estimations, facilitating effective training and ensuring the generated scenes exhibit realistic human-environment interactions.  The discriminator is augmented to evaluate both the realism of the generated image and the consistency between the generated scene and the input pose.  Experimental results, evaluated using both quantitative metrics (Fréchet Inception Distance, Structural Similarity Index) and qualitative assessments, demonstrate that Pose-StyleGAN significantly outperforms existing scene generation methods in terms of both realism and pose adherence.  Furthermore, we showcase the system’s ability to generate diverse and plausible scenes, including variations in lighting, background details, and object arrangements, all while maintaining accurate human pose integration. This work contributes a robust framework for controllable scene generation, with potential applications in virtual reality, robotics, and computer graphics.
+
+
+
+**Keywords:** Generative Adversarial Networks, StyleGAN2, Human Pose Estimation, Scene Generation, Scene Hallucination, Conditional Generation.

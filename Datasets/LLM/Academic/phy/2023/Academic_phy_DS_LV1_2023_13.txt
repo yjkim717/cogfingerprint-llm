@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The Kibble-Zurek mechanism (KZM) provides a universal framework for defect formation in systems traversing a classical phase transition. However, its applicability to quantum phase transitions with long-range interactions (LRIs) remains a subject of intense investigation. In this work, we demonstrate that the presence of algebraic LRIs fundamentally alters the defect generation dynamics near a quantum critical point. The conventional KZM scaling, governed by the critical exponents of the underlying universality class, breaks down as the dynamical critical exponent \( z \) becomes non-universal. We show that in this regime, the production of topological defects transitions from a thermally-assisted process to one dominated by purely quantum fluctuations. Crucially, our analysis reveals that the resulting defect statistics are universal, not only in the mean density but across all higher-order moments of the distribution. This finding establishes a new universality class for non-equilibrium quantum dynamics, with significant implications for quantum simulations in trapped ion and ultracold atomic platforms.
+
+**(Word Count: 152)**

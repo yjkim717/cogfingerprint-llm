@@ -1,0 +1,9 @@
+ Here's a formal academic-style abstract, suitable for a chemistry-related publication, based on the provided keywords and summary.
+
+**Abstract**
+
+The chemical evolution of interstellar ices, crucial for understanding the formation of complex organic molecules and ultimately, planetary systems, is profoundly influenced by the physical properties of ice grains. This study, conducted in 2021, investigates the morphology of interstellar ices using high-resolution transmission electron microscopy (TEM). We demonstrate a clear dependence of ice structure on both elemental composition and the nature of the underlying substrate, providing critical insights into ice nucleation and growth processes within molecular clouds and protoplanetary disks.
+
+Our TEM analysis reveals distinct morphological features in ices composed of varying mixtures of water, methane, and ammonia. Specifically, we observe that the presence of even small quantities of volatile components significantly alters the crystalline structure and overall morphology compared to pure water ice. Furthermore, the substrate material – simulating grain surfaces within astrophysical environments – exerts a substantial influence, promoting preferential crystal growth orientations and affecting the degree of amorphization. These observations highlight the role of surface energy and interfacial interactions in determining ice structure.
+
+The findings suggest that ice morphology is not a passive consequence of temperature and density, but rather an active factor in driving chemical reactions and molecular diffusion within ices. This has implications for the formation of complex organic molecules through non-thermal pathways, and potentially for subsequent planet formation processes. We conclude that detailed characterization of ice morphology, as provided by TEM, is essential for refining astrophysical models of ice chemistry and the origin of volatiles in planetary systems.

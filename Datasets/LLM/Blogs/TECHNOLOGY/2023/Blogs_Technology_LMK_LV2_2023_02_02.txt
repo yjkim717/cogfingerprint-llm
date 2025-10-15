@@ -1,0 +1,9 @@
+**The Frustrating World of Account Lockouts: A Sysadmin's Nightmare**
+
+As a sysadmin, I've seen my fair share of technical issues, but one problem that continues to plague me is the dreaded account lockout. In our hybrid Active Directory (AD) and Azure AD (AAD) environment, it's become a recurring nightmare. Users are constantly getting locked out of their accounts, and I'm left scrambling to resolve the issue.
+
+It's 2023, and you'd think that with all the advancements in technology, account lockouts would be a thing of the past. But nope, they're still a persistent problem. The worst part is that it's not just a simple password reset that fixes the issue. Oh no, it's often a complex web of cached credentials, misconfigured applications, and forgotten passwords.
+
+I've spent countless hours investigating these lockouts, poring over logs, and trying to identify the root cause. Is it a rogue application that's causing the issue? Or is it a user's Microsoft credentials that are out of sync? The possibilities are endless, and it's like trying to find a needle in a haystack.
+
+As I navigate this frustrating world, I'm reminded that technology is a double-edged sword. While it's made our lives easier in many ways, it's also introduced new complexities and challenges. I'm determined to get to the bottom of these account lockouts, and I'm hoping that by sharing my experiences, I might just find a solution – or at least some commiseration from fellow sysadmins who've been down this same road.

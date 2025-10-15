@@ -1,0 +1,15 @@
+ Absolutely! Here's a formal, academic-style abstract based on the provided summary, targeting a medical audience and reflecting a 2022 context:
+
+**Abstract**
+
+**Prevalence of Dental Extractions and Associated Risk Factors Among Syrian Refugee Children in Jordan: An Observational Study**
+
+**Background:** The ongoing Syrian refugee crisis has resulted in significant population displacement, with substantial numbers resettled in neighboring countries like Jordan. Refugee populations, particularly children, often experience disparities in access to healthcare, potentially impacting oral health outcomes. This study aimed to investigate the prevalence of dental extractions and identify associated risk factors among Syrian refugee children residing in Jordan.
+
+**Methods:** This observational, cross-sectional study was conducted in [Specify location/clinics if possible – e.g., primary healthcare clinics in Amman, Jordan] during [Specify timeframe – e.g., 2021-2022]. A sample of [Specify sample size - e.g., 300] Syrian refugee children aged [Specify age range – e.g., 6-12 years] underwent oral health assessments, including recording of dental caries (using the modified DMFT index), pulpal diseases, and extraction history. Data on parental education level (categorized as primary, secondary, or higher) and child's toothbrushing frequency (assessed via parental report) were also collected. Statistical analyses, including chi-square tests and logistic regression, were performed to determine associations between variables.
+
+**Results:** The prevalence of dental extractions was [State prevalence – e.g., 45.3%]. Dental caries and pulpal diseases were the predominant reasons for extraction ( [State percentages – e.g., 78% and 15% respectively]). A significant association was observed between parental education level and the need for dental extraction (p < 0.001), with children of parents with lower education levels exhibiting a higher risk.  Furthermore, less frequent toothbrushing (less than once daily) was significantly associated with increased extraction rates (p < 0.05).
+
+**Conclusion:** This study highlights a concerning burden of dental extractions among Syrian refugee children in Jordan, largely driven by caries and pulpal disease. Socioeconomic factors, specifically parental education and oral hygiene practices, appear to be key determinants. Targeted public health interventions, including dental education programs and improved access to affordable dental care, are warranted to mitigate these disparities and improve the oral health of this vulnerable population.
+
+**Keywords:** Syrian refugees, dental extraction, oral hygiene, dental caries, socioeconomic position.

@@ -1,0 +1,8 @@
+Author: Jihua Zhang
+Title: Single-shot integrated multi-photon split state tomography
+Paper ID: 92aa8ff1ecff0cfdb525c53807df01ba7534cd9e
+Year: 2021
+Author Index: 19
+
+Abstract:
+We propose a segmented coupled waveguide array as a new form of compact optical quantum circuit and apply it for the on-chip multi-photon split state tomography with optimized performance and no need of reconfigurability.

@@ -1,0 +1,1 @@
+Remember that weekend I spent wrestling with TSV files from my PVR, trying to make Plex recognize my shows? It felt like a digital archaeology project—piecing together scattered data just to watch TV. Sometimes, the tech we build to simplify life demands its own complex rituals.

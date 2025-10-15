@@ -1,0 +1,3 @@
+It was one of those late-night coding sessions in 2022, fueled by coffee and stubbornness. I’d been wrestling with numpy’s eig function, convinced it was betraying me. Why were these eigenvectors staring back at me, seemingly for the raw, untransformed matrix? It felt like getting answers without understanding the question.
+
+Then it hit me—I was the one missing the point. Linear algebra isn’t just about crunching numbers; it’s about seeing the hidden structures, the invisible transformations already embedded in the data. That "aha" moment reminded me why I love coding: it’s not just solving puzzles, but learning to ask better questions. Sometimes, the confusion is where the real insight begins.

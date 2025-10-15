@@ -1,0 +1,4 @@
+Title: Universal Defect Generation in Long-Range Quantum Systems
+
+Abstract:
+In 2023, our understanding of quantum phase transitions is advanced by analytically examining the Kibble-Zurek mechanism in systems with strong long-range interactions. By deriving the full counting statistics of defects generated during slow annealing across a quantum critical point, we uncover a universal process governed by purely quantum fluctuations. Our results demonstrate that the defect generation is a robust feature of quantum criticality, insensitive to specific system details, and provide a fundamental insight into the non-equilibrium dynamics of long-range quantum systems.

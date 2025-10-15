@@ -1,0 +1,5 @@
+It’s 2020, and I’m staring at a SCOM console flooded with alerts for our Exchange 2016 servers. Red warnings everywhere—it felt like digital noise, drowning out the actual problems. I remember thinking, "There has to be a smarter way."
+
+That’s when I dove into health sets and alert overrides. Instead of treating every minor hiccup as a five-alarm fire, we started grouping related issues. By setting up rollup alerts, we consolidated those frantic pings into meaningful notifications. Suddenly, a single, clear message told us what was truly wrong, not just that *something* was wrong.
+
+It wasn’t just about silencing noise; it was about listening better. We went from reactive chaos to proactive clarity, focusing on what mattered. In a year full of uncertainty, simplifying our monitoring felt like one small, sure step forward—proof that sometimes, the smartest solutions are about seeing the forest, not just the trees.

@@ -1,0 +1,23 @@
+Of course. Here is an original text inspired by the technical summary you provided.
+
+***
+
+### Technical Text: A Network Engineer's Log
+
+**Title: Taming the C9300: A Quick Guide to Stable Trunks**
+
+We've all been there. You're deploying a new service, add a VLAN to your core C9300 trunk, and suddenly, the link starts flapping like a bird in a cage. This common headache often stems from a speed/duplex mismatch or a pesky spanning-tree reconvergence.
+
+The other classic error is trying to apply the `portfast` command to a trunk interface. Portfast is designed for end-user access ports to bypass the listening/learning states. On a trunk, it's not just ineffective; the switch will explicitly reject it.
+
+My solution? First, hardcode speed and duplex on both ends of critical trunks. Second, for rapid convergence on trunks, use `spanning-tree portfast trunk`—yes, it's a different, specific command—and always pair it with `spanning-tree bpduguard enable` for safety. Finally, leverage interface templates (`interface template`) to push these configurations uniformly across your stack, ensuring consistency and saving you from future late-night troubleshooting sessions.
+
+***
+
+### Reflective Lifestyle Blog Post
+
+**Title: The Unplanned Upgrade**
+
+It hit me in 2024, during a system-wide power cycle—also known as a week-long vacation with no Wi-Fi. My own "portfast" mentality, rushing from one notification to the next, had created a bouncing trunk link in my brain. The constant connection was causing my focus to flap uncontrollably.
+
+So, I implemented a new configuration. I built a simple template for my mornings: no phone for the first hour, just coffee and a book on the balcony. It felt strange at first, like a protocol the world didn't recognize. But soon, the errors cleared. My mind stabilized, finding a slower, more reliable connection to myself. It was the most productive upgrade I’ve ever made, and it had nothing to do with productivity.

@@ -1,0 +1,11 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**A Dynamical Postulate for Intersubjective Agreement in Relational Quantum Mechanics**
+
+**Abstract**
+
+Relational Quantum Mechanics (RQM) posits that quantum states are relative to a given observer, a framework that elegantly resolves foundational puzzles but faces a significant challenge: the emergence of a classically objective reality from a multitude of subjective perspectives. We propose a novel dynamical postulate to address this issue, stipulating that all information an observer acquires about a quantum system must be encoded in a physical, localized degree of freedom within the observer's own past light cone. This "physical information postulate" mandates that an observer's quantum state relative to another system is contingent upon the presence of a corresponding physical record. We demonstrate that this constraint naturally enforces intersubjective agreement about the occurrence of definite quantum events. When multiple observers interact with a common system and subsequently exchange their physical records, their descriptions must become consistent regarding the past event, thereby bridging the gap between relational description and shared classical reality. This work provides a concrete mechanism within RQM for recovering objective facts without resorting to a privileged, absolute quantum state.
+
+(Word Count: 178)

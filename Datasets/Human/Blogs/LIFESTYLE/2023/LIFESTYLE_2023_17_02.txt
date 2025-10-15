@@ -1,0 +1,5 @@
+Year: 2023
+Author: dominicho12
+URL: https://www.reddit.com/r/buildapc/comments/129tnfs/can_i_get_feedback_on_this_partlist_please/
+
+The pc itself will be used for unreal engine development, graphics programming and some hobbyist offline machine learning model building. I also make emulators for fun and looking to help out oss emulator projects. Budget is shy of £1000. Here is the build i have right now;

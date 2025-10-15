@@ -1,0 +1,1 @@
+generate_text(summary="A student seeks advice after a significant GPA drop, wondering about their college prospects and how to recover.", keywords="gpa drop, college admissions, academic recovery, cs major, sat retake")

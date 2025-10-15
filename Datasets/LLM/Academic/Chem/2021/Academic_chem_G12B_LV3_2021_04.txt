@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry publication:
+
+**Abstract**
+
+Recent investigations into polariton chemistry have revealed unexpected alterations in ground-state reactivity within vibrational strong coupling (VSC) systems. This study, conducted in the context of cavity quantum electrodynamics, provides a theoretical framework elucidating these modifications. Our analysis attributes the observed reactivity changes to the intrinsically non-Markovian dynamics of the coupled cavity radiation mode. Specifically, we demonstrate that this non-Markovian behavior induces a dynamical caging effect on the reaction coordinate, effectively suppressing reaction progress. These findings highlight the critical role of system dynamics beyond standard Markovian approximations in accurately predicting and interpreting reaction dynamics within VSC regimes, presenting a significant advance in understanding polariton chemistry.

@@ -1,0 +1,5 @@
+Year: 2020
+Author: Wobblycogs
+URL: https://www.reddit.com/r/GalaxyTab/comments/k7j1lb/file_formats_for_note_taking_apps/
+
+I'm tempted with a Tab S7+ as I want to read PDF's and take notes. I think even my aging eyes will be able to read PDF's fine on that huge and lovely looking screen but I'm not sure about the note taking. I can see that there are several note taking applications I could use but I've not seen anywhere that mentions what file format they save notes in or where else I can view / use the notes I create. The last thing I want it to create a load of notes and then for them to be effectively trapped on the tablet unless I shell out each month for an account with X (where X is Microsoft, Evernote, Samsung, etc). Could I, for example, copy the notes to my Windows machine and open them in anything?

@@ -1,0 +1,9 @@
+## Unraveling Metabolic Heterogeneity and Spatial Organization in Tissue Systems Through Joint Single-Cell Spatial Metabolomics and Proteomics
+
+Understanding the complex interplay between cellular metabolism and protein expression within the native tissue microenvironment remains a significant challenge in biological research. Traditional approaches often analyze these parameters independently, obscuring crucial cell-type specific and spatially-organized relationships. Here, we introduce a novel framework, termed scSpaMet, for the simultaneous, high-resolution profiling of both protein and metabolite abundances at the single-cell level within human tissues. This integrated approach leverages advances in spatial transcriptomics and mass spectrometry-based metabolomics to provide a comprehensive molecular snapshot of individual cells and their immediate surroundings.
+
+Preliminary data demonstrate that scSpaMet enables the identification of distinct metabolic signatures associated with specific cell types, revealing instances of metabolic reprogramming in response to localized tissue cues. Furthermore, we observe spatial correlations between protein abundance and metabolite distribution, suggesting direct or indirect functional interactions between neighboring cells. This capability offers unprecedented opportunities to dissect complex tissue systems biology, elucidating how metabolic dependencies and protein networks contribute to tissue homeostasis, disease progression, and therapeutic response. We anticipate that scSpaMet will serve as a powerful tool for researchers seeking to integrate metabolic and proteomic information to gain deeper insights into the intricate organization and function of human tissues.
+
+
+
+**Keywords:** Single-cell spatial metabolomics, spatial proteomics, metabolic reprogramming, cell-type specific analyses, tissue systems biology, scSpaMet, 2023.

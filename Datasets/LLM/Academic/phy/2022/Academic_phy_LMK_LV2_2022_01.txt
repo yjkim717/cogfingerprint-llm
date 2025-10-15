@@ -1,0 +1,5 @@
+Title: Unitarity and Quantum Clones in Black Hole Evolution
+
+Abstract:
+
+The long-standing black hole information paradox has sparked intense debate regarding the interplay between quantum mechanics and general relativity. This study proposes a novel procedure to elucidate the evolution laws governing black holes utilizing pure quantum states and the concept of quantum clones. By employing a Penrose diagram framework, we analyze the unitary evolution of black holes, demonstrating that the information paradox can be reconciled through the consideration of quantum clones. Our approach posits that the black hole's quantum state can be represented as a superposition of pure states, which, when subjected to cloning, enables the retrieval of information encoded within the black hole. This framework provides a coherent understanding of black hole evolution, preserving unitarity and resolving the information paradox. The proposed methodology offers a promising avenue for further investigation into the intricate relationships between quantum mechanics, general relativity, and black hole physics, as of 2022.

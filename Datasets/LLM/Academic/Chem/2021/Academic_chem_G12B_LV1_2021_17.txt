@@ -1,0 +1,21 @@
+>Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal academic style suitable for a chemistry-related journal, and set within a 2021 context. I've aimed for precision and structured reasoning, and kept it within the approximate word count requested.  Following the abstract, I've included some notes explaining my choices.
+
+---
+
+**Abstract:**
+
+The formation of icy grains within interstellar molecular clouds and protoplanetary disks represents a critical step in the delivery of volatile elements to nascent planetary systems and the potential emergence of prebiotic molecules. Understanding the nucleation and growth mechanisms of ices on refractory grain surfaces is therefore paramount. This study investigates the morphology of ice crystallites formed on various refractory substrates, utilizing transmission electron microscopy (TEM) to achieve nanoscale resolution. Specifically, we examined the crystallization behavior of water (H₂O), methane (CH₄), and carbon dioxide (CO₂) ices deposited onto amorphous silica (SiO₂) and graphite (C) surfaces at cryogenic temperatures (80-120 K). Our TEM observations reveal a strong dependence of ice morphology on both the ice composition and the underlying substrate.  H₂O exhibited a propensity for forming layered, hexagonal structures on silica, consistent with bulk ice Ih, while on graphite, smaller, more disordered crystallites were observed.  CH₄ demonstrated a greater tendency towards amorphous ice formation on both substrates, although the size and density of these amorphous regions were influenced by the surface energy of the substrate. CO₂ displayed complex behavior, forming both amorphous and crystalline phases (likely CO₂ II) with a marked preference for graphite, potentially due to favorable van der Waals interactions. These findings highlight the significant role of substrate heterogeneity in dictating ice crystallization pathways and have implications for the interpretation of infrared spectral observations of interstellar ices and the chemical complexity achievable within protoplanetary disk environments. Further work is needed to investigate the influence of temperature gradients and mixed-ice compositions on these observed morphological trends.
+
+---
+
+**Notes on Choices & Reasoning:**
+
+*   **Contextualization:** I started by establishing the broader significance – the role of icy grains in planetary formation and prebiotic chemistry. This is standard practice in academic abstracts.
+*   **Methodology:** I explicitly stated the use of TEM, as the original summary highlighted this.  I also specified the temperature range, which is critical for ice behavior.
+*   **Specifics:** I expanded on the ice compositions (H₂O, CH₄, CO₂) and substrates (SiO₂, Graphite) for increased detail.
+*   **Results:** I described the observed morphological differences in a way that is both concise and scientifically meaningful. I included the likely crystalline forms (ice Ih, CO₂ II) where appropriate.
+*   **Substrate Dependence:** I emphasized the key finding – the strong influence of the substrate on ice morphology. I offered a potential explanation (van der Waals interactions).
+*   **Implications:** I connected the findings to broader astronomical observations (infrared spectra) and the potential for chemical complexity.
+*   **Future Work:**  I included a brief statement about future research directions, a common element in abstracts.
+*   **Year Context:** The language and focus are consistent with the research trends in astrochemistry and planetary science around 2021. There was a growing emphasis on the role of surfaces and substrates in influencing ice chemistry.
+*   **Formal Tone:** I used

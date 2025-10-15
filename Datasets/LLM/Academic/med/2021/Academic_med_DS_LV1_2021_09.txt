@@ -1,0 +1,15 @@
+Of course. Here is an original academic abstract inspired by the provided summary, written in the style of a 2021 medical research paper.
+
+***
+
+**Title:** A Bidirectional Two-Sample Mendelian Randomization Study Investigating the Causal Relationship Between Diurnal Preference and Major Depressive Disorder
+
+**Abstract**
+
+**Background:** Observational epidemiology has consistently demonstrated a robust association between an evening chronotype (diurnal preference) and an increased risk for Major Depressive Disorder (MDD). However, the direction of causality and the potential for reverse causation and residual confounding in these studies remain unresolved. This study employs a bidirectional, two-sample Mendelian randomization (MR) framework to investigate the potential causal links between genetically instrumented diurnal preference and MDD risk.
+
+**Methods:** We utilized summary-level data from the largest available genome-wide association studies (GWAS). Genetic instruments for diurnal preference (categorized as morning vs. evening preference) were derived from a GWAS of 449,734 individuals from the UK Biobank, identifying 351 independent genetic loci significantly associated with the trait. Genetic associations for MDD were obtained from a GWAS meta-analysis comprising 170,756 cases and 329,443 controls. The primary analysis was conducted using the inverse-variance weighted (IVW) method. To assess robustness and pleiotropy, we performed sensitivity analyses, including MR-Egger regression, weighted median estimator, and MR-PRESSO. Reverse MR analysis was performed to evaluate the causal effect of MDD on diurnal preference.
+
+**Results:** Genetically proxied morning diurnal preference was causally associated with a reduced risk of MDD. The IVW estimate indicated an odds ratio (OR) of 0.77 (95% CI: 0.73 to 0.82; p = 4.2 × 10⁻¹⁴) for MDD per standard deviation increase in the genetic predisposition for morning preference, equating to a 23% relative risk reduction. Sensitivity analyses yielded consistent results, with no significant evidence of horizontal pleiotropy (MR-Egger intercept p = 0.41). In the reverse direction, we found no statistically significant causal effect of genetic liability for MDD on diurnal preference (IVW OR: 1.01; 95% CI: 0.99 to 1.03; p = 0.28).
+
+**Conclusion:** Our findings provide robust genetic evidence supporting a unidirectional, causal, protective relationship between a morning diurnal preference and a lower risk of developing Major Depressive Disorder. These results suggest that sleep-wake cycle regulation may be a modifiable target for primary prevention and public health intervention strategies aimed at mitigating the burden of MDD. Further research is warranted to elucidate the biological mechanisms, potentially involving circadian misalignment and its downstream neuroendocrine effects, underlying this causal pathway.

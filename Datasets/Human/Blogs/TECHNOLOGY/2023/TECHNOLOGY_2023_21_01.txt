@@ -1,0 +1,5 @@
+Year: 2023
+Author: pnwstarlight
+URL: https://www.reddit.com/r/webdev/comments/18hattx/easiest_way_to_add_text_with_shadow_to_an_image/
+
+I am looking to automatically generate thumbnails for videos. Basically I am taking a frame from a video and I want to add white text with shadow to the image file. The whole thing is a laravel project but language doesn't matter too much. I'll happily implement a python or nodejs library if it works well. Any suggestions?

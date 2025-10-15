@@ -1,0 +1,3 @@
+"Cutting the Cord: Simplifying Linux Remote Control"
+
+As I settled into my living room with my Intel NUC running Arch Linux, I realized I'd lost my mouse... again. I was trying to stream a show to my TV, but navigating without a full keyboard was a hassle. I started exploring alternatives for controlling my Linux box from across the room. With Wayland as my display server, I discovered some promising solutions for remote control. I'm now on the hunt for the perfect setup. Have you tamed the remote control beast? What are your go-to tools for managing your Linux media center from a distance?

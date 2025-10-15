@@ -1,0 +1,10 @@
+>## The Algorithm of Anxiety (and How I'm Trying to Debug It)
+
+Okay, so here's the thing. I’m a freshman Computer Science major, which, in 2020, feels like everyone and their dog is. But I’m doing something a little different – a 2+3 program, meaning two years at my university followed by three directly with a company. Exciting, right? Absolutely! Terrifying? Also absolutely.
+
+The sheer volume of information thrown at you in CS is… a lot. Everyone seems to be building apps, contributing to open-source projects, and acing interviews. Meanwhile, I’m still wrapping my head around pointers. It’s easy to fall into the comparison trap, scrolling through LinkedIn and feeling like I’m miles behind.
+
+I’ve started realizing that comparing my Chapter 1 to someone else’s Chapter 10 isn't helpful. I'm actively working on my resume, prepping for potential internship interviews (even though they feel lightyears away!), and trying to focus on the fundamentals.  It’s a process. A debugging process, really. And I’m hoping that with enough effort, the algorithm of anxiety will eventually optimize itself. Wish me luck!
+
+
+

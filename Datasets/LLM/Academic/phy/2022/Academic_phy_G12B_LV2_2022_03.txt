@@ -1,0 +1,7 @@
+)
+## Abstract: Time-Independent Correlation Functions and Supergravity Parameters in Extremal Supersymmetric Black Holes
+
+We investigate the asymptotic behavior of correlation functions associated with extremal black holes possessing $n=2$ supercharges, within the framework of supersymmetric quantum gravity. Utilizing the holographic dictionary and exploiting the extended supersymmetry, we demonstrate that these correlation functions, evaluated in the long-time limit, yield time-independent constants. These constants are directly linked to parameters characterizing the bulk supergravity theory describing the black hole geometry. Our analysis reveals a precise mapping between boundary correlation function values and specific geometric quantities, such as horizon area and Euler characteristic, providing a novel probe of the bulk gravitational dynamics.  This work establishes a concrete connection between quantum field theory observables and the underlying spacetime structure, furthering our understanding of the AdS/CFT correspondence in the context of extremal black holes. The results highlight the power of supersymmetry in constraining the behavior of quantum gravity and offer potential avenues for exploring black hole microstates through the lens of correlation functions.
+
+
+

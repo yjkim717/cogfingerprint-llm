@@ -1,0 +1,5 @@
+## That Weird Syntax in My Window Manager... and Why I Love It
+
+Okay, so I’ve been deep diving into bspwm configuration lately – it’s seriously the best tiling window manager I’ve found. But I stumbled across something… peculiar. The syntax used to define window selection rules in the man pages? It's like EBNF, but… *not*. It has these custom symbols, a strangely elegant way of describing how to match windows. 
+
+I spent a good hour trying to figure out what to call it, if anything. It's not quite regular expressions, not standard EBNF… just this unique, concise system. It got me thinking about how often we expect tech to be uniform. But sometimes, these little quirks, these homegrown solutions, are the most charming. They reflect the passion of the developer, a deliberate choice to solve a specific problem in a specific way. It's a reminder that innovation isn’t always about following the rules, but about crafting your own.

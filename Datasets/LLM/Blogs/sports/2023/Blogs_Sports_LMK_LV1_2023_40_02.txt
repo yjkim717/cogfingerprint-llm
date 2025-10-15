@@ -1,0 +1,11 @@
+**The Cog Conundrum: A Zwift Hub Frustration**
+
+As I clipped into my Bianchi C-Sport bike, hooked up to my trusty trainer, and fired up Zwift Hub, I was excited to tackle the day's virtual ride. But as I began to pedal, I felt an unusual resistance. It was as if my legs were pushing through molasses. I stopped, puzzled, and started to investigate.
+
+My mind began to wander to the components of my bike. Was it the cassette? I'd recently swapped it out, opting for a mix of cog sizes to tackle those grueling climbs. But had I done it correctly? I recalled the instructions, but a nagging doubt lingered. Was the issue a mismatch between my rear derailleur and the cog sizes on my new cassette?
+
+After some digging, I discovered that my suspicions weren't unfounded. The Zwift Hub community forums were filled with tales of woe from riders experiencing similar issues. It turned out that certain cog size combinations can cause the trainer to behave erratically. I realized that my setup might be the culprit.
+
+I decided to tweak my cassette, adjusting the cog sizes to better match my rear derailleur's capabilities. After making the changes, I hopped back on the bike and relaunched Zwift Hub. The difference was night and day. The resistance disappeared, and I was able to pedal smoothly once again.
+
+For fellow Zwift enthusiasts, I'd recommend double-checking your bike's setup if you're experiencing similar issues. It may just be a matter of fine-tuning your cog sizes to get back to enjoying those virtual rides. As for me, I'm back to conquering virtual climbs with ease.

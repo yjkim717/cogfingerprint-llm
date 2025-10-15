@@ -1,0 +1,4 @@
+Title: Constraining Field Space Regions with Positive Potentials via Species Scale and Emergent String Conjecture
+
+Abstract: 
+In the quest to unify quantum mechanics and general relativity, we derive novel bounds on regions in field space characterized by slowly varying positive potentials. Leveraging the species scale, which governs the cutoff of effective field theories, and the emergent string conjecture, we establish constraints on the moduli space of string theory compactifications. Our analysis reveals that these bounds impose stringent restrictions on the landscape of viable vacua, shedding light on the intricate structure of quantum gravity in 2023.

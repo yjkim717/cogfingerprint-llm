@@ -1,0 +1,9 @@
+Here's a formal academic-style abstract based on your provided summary, suitable for a chemistry-related publication in 2024:
+
+**Abstract**
+
+The formation of complex organic molecules in interstellar environments remains a fundamental question in astrochemistry. A critical step in this process involves the accretion of atoms onto pre-existing molecular ices, particularly ammonia (NH₃), a ubiquitous constituent of these ices. This study investigates the reaction pathway of carbon atom addition to ammonia, a key precursor to methylamine (CH₃NH₂), a molecule detected in various astronomical sources. Employing high-level quantum chemical calculations, including density functional theory (DFT) and explicitly correlated methods, we have systematically explored the potential energy surface of this reaction. Our findings demonstrate that direct carbon accretion to ammonia predominantly yields methylamine as the lowest-energy product, with minor contributions from alternative hydrogenation pathways. The calculated reaction energetics, including activation barriers and product enthalpies, provide valuable data for refining astrochemical models simulating ice chemistry at cryogenic temperatures. This work contributes to a more comprehensive understanding of the chemical network leading to the formation of nitrogen-containing organic molecules in interstellar ices and informs observational interpretations of spectral features associated with methylamine.
+
+
+
+Hopefully, this fulfills your request!

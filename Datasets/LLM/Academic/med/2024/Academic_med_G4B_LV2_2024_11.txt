@@ -1,0 +1,9 @@
+Okay, here's an academic-style abstract based on the provided summary, incorporating precise terminology, structured reasoning, and adhering to a 2024 publication context:
+
+**Abstract**
+
+Accurate and reliable segmentation of pediatric brain tumors is paramount for effective treatment planning, monitoring, and prognostic assessment.  Manual segmentation methods are time-consuming and prone to inter-observer variability, necessitating the exploration of automated techniques. This study investigates the comparative performance of two deep learning architectures – nnU-Net and DeepMedic – for the segmentation of pediatric brain tumor lesions within medical imaging datasets.  Utilizing a retrospective analysis of [Specify dataset details – e.g., a multi-institutional pediatric MRI cohort], we evaluated the segmentation accuracy and concordance of both models.
+
+Results demonstrated a statistically significant advantage for nnU-Net, exhibiting superior performance across key metrics including Dice coefficient, Hausdorff distance, and average symmetric surface distance (ASD). Specifically, nnU-Net achieved a [Quantify improvement – e.g., 12.5%] increase in Dice coefficient compared to DeepMedic (p < 0.01). Furthermore, concordance analysis revealed a markedly improved agreement between the two models, indicating enhanced consistency in tumor delineation. 
+
+These findings highlight the potential of nnU-Net as a robust and accurate tool for pediatric brain tumor segmentation. While DeepMedic represents a viable alternative, nnU-Net’s adaptability to diverse imaging protocols and superior segmentation quality suggest it warrants consideration as a primary method in clinical workflows. Future research will focus on optimizing nnU-Net’s parameters for pediatric datasets and exploring its integration into clinical decision support systems.

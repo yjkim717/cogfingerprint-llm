@@ -1,0 +1,3 @@
+Here's a formal academic-style abstract based on your provided summary, suitable for a 2023 publication:
+
+This study, conducted in 2023, employed *in situ* spectroscopic techniques to elucidate the catalytic mechanisms governing the oxygen evolution reaction (OER) utilizing Ni–Fe catalysts. Characterization revealed dynamic surface reconstruction during OER, critically influencing catalytic activity. Observed spectral changes correlate with proposed intermediates, providing insights into the intricate interplay between catalyst structure and electrochemical performance. These findings advance understanding of Ni–Fe OER catalysts and inform future design strategies.

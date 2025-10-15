@@ -1,0 +1,5 @@
+ Here's an academic-style abstract inspired by the provided summary and keywords, aiming for a formal, precise tone suitable for a physics publication (dated 2022):
+
+**Abstract:**
+
+Recent advancements in nanophotonics have facilitated unprecedented control over light-matter interactions. This work presents a novel approach to generating and manipulating ultrafast optical pulses by leveraging the capabilities of metasurfaces within a Fourier transform framework. Our technique allows for the precise synthesis of structured wave packets, enabling independent control over both the temporal and spatial profiles of the generated pulse. By judiciously designing metasurface elements, we demonstrate the ability to shape the pulse’s spatiotemporal evolution, opening avenues for advanced applications in areas such as coherent microscopy, optical communications, and nonlinear optics. This methodology offers a versatile platform for exploring complex photonic states and represents a significant step towards integrated ultrafast photonics.

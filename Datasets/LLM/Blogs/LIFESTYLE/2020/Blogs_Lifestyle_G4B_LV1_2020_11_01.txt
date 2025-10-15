@@ -1,0 +1,7 @@
+Okay, here’s a blog post draft inspired by the provided summary, aiming for a conversational tone and approximately 107 words, set in 2020:
+
+---
+
+**The Ghost in the Headphones**
+
+It’s funny how little things can throw you off. Last year, I was really enjoying my System76 Lemur Pro – loving Fedora 32 and just generally feeling productive. Then, I started getting this weird static when I plugged in my headphones. It was faint, almost like a ghost in the audio, and the volume was noticeably lower than it should have been.  Troubleshooting felt endless, and it was a frustrating reminder that even the most reliable tech can have its quirks. It’s a small thing, but it highlighted how easily a little disruption can steal your focus.

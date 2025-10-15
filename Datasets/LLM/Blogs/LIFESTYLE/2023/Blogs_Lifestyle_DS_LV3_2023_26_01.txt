@@ -1,0 +1,3 @@
+It was supposed to be simple: a little web scraping project to organize my favorite manga images. But there it was—Cloudflare’s stubborn 1020 error, a digital “Access Denied” that felt personal. My code, written with Puppeteer, was being blocked at every turn.
+
+Frustrated, I did the one thing the algorithm didn’t expect: I manually scrolled. And just like that, the images loaded. A temporary fix, but a powerful reminder in our automated 2023 world. Sometimes, the most direct path isn’t through more complex code, but through a simple, human action. It made me wonder—how often in life do we over-engineer solutions, overlooking the quiet power of patience and a hands-on approach? The answer, it seems, isn’t always in the cloud, but in our own two hands.

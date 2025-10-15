@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract written in the style of a physics research paper, contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+The study of black hole shadows provides a powerful, observationally relevant probe for testing the framework of general relativity against potential modifications in the strong-field regime. In this work, we investigate the shadow properties of a novel class of rotating black hole solutions within four-dimensional Gauss-Bonnet gravity, a promising candidate theory that introduces quadratic curvature corrections. The solution is constructed via the Newman-Janis algorithm, yielding a metric characterized by its mass, angular momentum, and the Gauss-Bonnet coupling constant, α. We perform a comprehensive numerical analysis to compute the characteristic shadow silhouettes cast by these black holes for varying values of the metric parameter α and spin. Our results demonstrate a significant and systematic deviation from the Kerr paradigm. Specifically, we find that a positive value of α leads to a perceptible enlargement of the shadow's overall size, while simultaneously reducing the degree of distortion induced by frame-dragging effects at high rotational velocities. Conversely, for certain allowed negative values of α, the shadow contracts and exhibits increased deformation. These distinctive features establish the black hole shadow as a key discriminant for constraining the Gauss-Bonnet coupling parameter with future very-long-baseline interferometric observations, such as those anticipated from the Event Horizon Telescope. Our analysis underscores the critical role of higher-curvature gravitational terms in altering the fundamental geometry and observable signatures of astrophysical black holes.
+
+(Word Count: 248)

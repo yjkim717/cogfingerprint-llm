@@ -1,0 +1,5 @@
+Year: 2022
+Author: Spontaneous323
+URL: https://www.reddit.com/r/HomeNetworking/comments/tn7weg/i_just_got_att_fiber_and_the_bgw320505_how_do_the/
+
+I just got AT&T Fiber and they gave me the BGW320-505 Modem/Router. I have an AC1750 Router already. How are the speed differences between the two? Anything I would notice? I can't find much online about the BGW320-505. I'm thinking I might just stick with the BGW320-505 and put my AC1750 out in the garage as an access point.

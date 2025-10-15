@@ -1,0 +1,5 @@
+Here is a formal academic abstract based on the provided summary:
+
+**Abstract**
+
+The scalable generation of entangled photon states with tailored polarization properties remains a pivotal challenge for advancing quantum photonic technologies. This work demonstrates a novel approach to polarization engineering by designing and fabricating a nonlinear lithium niobate (LN) metasurface. The platform incorporates multiplexed metagratings that enable precise control over the phase-matching conditions for spontaneous parametric down-conversion (SPDC). This design facilitates the generation of polarization-entangled photon pairs directly at the source, circumventing the need for complex bulk optics or post-selection. Experimental characterization confirms the emission of high-purity, tunable Bell states, with the metagrating geometry allowing for dynamic manipulation of the output quantum state via adjustments to the pump beam's properties. This integrated LN metasurface establishes a compact and versatile source for on-chip quantum information processing, offering a significant step towards the development of robust and reconfigurable quantum photonic circuits.

@@ -1,0 +1,5 @@
+Here's an abstract inspired by the provided summary, aiming for a formal academic style and adhering to the specified constraints:
+
+**Abstract**
+
+This work establishes a novel connection between private Probabilistic Association Calculus (PAC) learning and online learnability, predicated on a critical limitation: the finite Littlestone dimension of the underlying concept class. We demonstrate that achieving private PAC learnability within a given concept class necessitates equivalent online learnability capabilities.  Specifically, we formalize this equivalence, arguing that the inherent dimensionality of the concept space directly impacts the achievable privacy-utility trade-off.  This result offers a theoretical framework for understanding and bounding the practical implications of differential privacy in online learning scenarios, particularly concerning the sensitivity to concept complexity.

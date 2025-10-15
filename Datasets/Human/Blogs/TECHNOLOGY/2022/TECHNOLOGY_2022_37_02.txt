@@ -1,0 +1,5 @@
+Year: 2022
+Author: Purple___Flame
+URL: https://www.reddit.com/r/StrangerofParadiseFFO/comments/x4wkn9/weird_control_settings/
+
+Hi, just started the game on a controller(xbone knockoff from aliexpress) - control type A(type B wasn't behaving any better though), and some buttons seem to do more than 1 thing: LB - dodge and guard, LT - open ability guide and also activates ability, RT - ability and attack. Controller works fine in other games.

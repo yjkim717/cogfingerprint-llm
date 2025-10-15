@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In 2023, the escalating threat of social engineering attacks continues to compromise digital security, perpetuating cybercrimes and substantial financial losses. This systematic review synthesizes existing threat frameworks and awareness strategies, underscoring the pressing need for enhanced cybersecurity measures. By examining the complex interplay between social engineering tactics and vulnerability, this study informs the development of more effective countermeasures to mitigate the evolving cyber threat landscape."

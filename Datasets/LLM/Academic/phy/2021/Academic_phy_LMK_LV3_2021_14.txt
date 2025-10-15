@@ -1,0 +1,3 @@
+Here's a formal academic-style abstract inspired by the given summary and keywords:
+
+"Employing topological methods, we investigate the thermodynamic properties of anti-de Sitter black holes. By classifying critical points into conventional and novel categories based on their topological charges, we reveal a nuanced understanding of black hole phase transitions. Our analysis, grounded in the framework of black hole thermodynamics, demonstrates that the topological classification of critical points provides a robust characterization of the phase structure. This study, conducted in the context of recent advances in gravitational physics (2021), sheds new light on the intricate relationships between topology, thermodynamics, and gravity."

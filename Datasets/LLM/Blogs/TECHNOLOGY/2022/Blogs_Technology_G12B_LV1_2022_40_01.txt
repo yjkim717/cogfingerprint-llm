@@ -1,0 +1,11 @@
+## The Quiet Power of Minimal Input
+
+It's funny how tech obsessions shift. For years, I chased the biggest, fastest, most feature-packed everything. Now, I find myself obsessed with *less*. Specifically, less physical input. 
+
+I've got a little Intel NUC tucked away, a silent server humming away in the corner, mostly running various home automation scripts. Initially, I’d wrestle with it using a full-sized keyboard and mouse – absurd, really. Then I dove into the world of i3wm on Arch Linux, and *whoa*. Suddenly, a few keystrokes could control everything. 
+
+The move to Wayland just smoothed things out further. Now, I mostly manage it through SSH and a few custom scripts. It's a subtle shift, but there’s a real satisfaction in knowing I can control a powerful machine with minimal hardware. It's a tiny rebellion against the constant push for more, and a quiet appreciation for elegant efficiency. It’s 2022, and sometimes, less *is* more.
+
+
+
+Hope this is what you were looking for!

@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract based on the provided summary and keywords.
+
+***
+
+**Abstract**
+
+The dynamic evolution of highly pathogenic avian influenza (HPAI) H5Nx viruses poses a significant and ongoing threat to both animal and human health. This study investigates the genetic trajectory and ecological drivers of H5Nx viruses that have become enzootic in European wild bird populations. Through comprehensive phylogenetic analysis and genomic surveillance of viruses circulating between 2020 and 2024, we demonstrate that these H5Nx subtypes are undergoing frequent and complex genetic reassortment. This process is not limited to the hemagglutinin (HA) gene but involves the continual exchange of multiple internal gene segments (e.g., PB2, PA, NP, M) with other circulating avian influenza viruses, leading to a remarkable diversity of genotypes. Our findings indicate that this sustained reassortment, coupled with positive selection in key viral proteins, has facilitated enhanced adaptation to a broad range of wild avian hosts. This adaptation is a critical factor underpinning the transition from sporadic, poultry-driven outbreaks to persistent, endemic circulation within wild bird reservoirs. Consequently, the established endemicity in wild birds has fundamentally altered the epidemiology of HPAI in Europe, resulting in unprecedented and spatially unpredictable patterns of viral spread across the continent. These findings underscore the necessity of moving beyond outbreak-responsive surveillance towards integrated, pan-European genomic monitoring programs. A proactive approach is essential for forecasting emergent strains with heightened zoonotic potential or altered pathogenicity and for informing timely and effective control strategies.
+
+**(Word Count: 254)**

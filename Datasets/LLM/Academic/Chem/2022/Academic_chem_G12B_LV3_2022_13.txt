@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, written in the context of 2022:
+
+**Abstract**
+
+Understanding the surface chemistry of interstellar ices is crucial for modeling astrochemistry. This study, conducted in 2022, presents experimental measurements of the activation energy (E<sub>a</sub>) for OH radical diffusion on water ice analogs, relevant to conditions within molecular clouds. Employing photostimulated desorption coupled with resonance-enhanced multiphoton ionization, we determined E<sub>a</sub> to be 0.14 ± 0.01 eV, corresponding to an activation temperature of approximately 36 K. This value notably surpasses prior theoretical predictions, suggesting a more complex diffusion mechanism than previously considered and highlighting the need for refined models of radical mobility within interstellar ice mantles.

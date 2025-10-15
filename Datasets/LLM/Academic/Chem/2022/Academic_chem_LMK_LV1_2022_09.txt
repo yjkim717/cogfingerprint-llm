@@ -1,0 +1,4 @@
+Title: Investigating the Mobility of OH Radicals on Interstellar Ice Surfaces: A Study of Surface Diffusion and Activation Energy
+
+Abstract:
+The mobility of OH radicals on water ice surfaces is a crucial factor in understanding the chemistry of interstellar media. In this study, we employed photostimulated desorption (PSD) coupled with resonance-enhanced multiphoton ionization (REMPI) to investigate the surface diffusion of OH radicals on water ice. Our results yield an activation energy of 0.14 ± 0.01 eV for OH radical diffusion, indicating a relatively low energy barrier for surface migration. This finding has significant implications for understanding the formation of complex molecules in interstellar ice mantles. The determined activation energy provides a valuable constraint for astrochemical models, enabling more accurate predictions of OH radical-mediated chemistry in cold, dense interstellar environments. (2022)

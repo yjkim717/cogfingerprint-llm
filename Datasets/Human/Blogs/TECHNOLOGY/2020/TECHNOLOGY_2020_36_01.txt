@@ -1,0 +1,5 @@
+Year: 2020
+Author: theodiousolivetree
+URL: https://www.reddit.com/r/sysadmin/comments/ewoiys/microsoft_account/
+
+Hi. Today I had a surprise. Eventhough computers and users are on Active Directory. I noticed one student logged with his microsoft account and not with the account we made for him. I don't know how he did this. When I asked he said he's a genius. I was willing to kick his... It's my mistake. I've never thought someone would use microsoft account. From now, I don't want anyone uses microsoft account on our computers anymore. So I'm looking for a way to prevent microsoft account logging. I found a GPO can do this but I am asking myself. Is it enough for?

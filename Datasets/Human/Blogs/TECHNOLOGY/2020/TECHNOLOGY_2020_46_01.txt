@@ -1,0 +1,5 @@
+Year: 2020
+Author: WaldoOU812
+URL: https://www.reddit.com/r/scom/comments/gsx5ia/child_domain_best_practice_for_scom_management/
+
+Hi all; I'm pretty new to SCOM and am trying to figure out what to do with our child domain. I've built the SCOM environment in domain.com (here in the US), which seems to working relatively okay, but I'm not at all certain how I should approach setting up SCOM monitoring in child.domain.com (located in APAC, as well as China). We have a two-way transitive trust in place between the domains, but I'm wondering if I should set up a second management group there, along with separate web, reporting, and management servers, or whether a couple gateway servers would be okay? We don't have a terrible large environment (only a couple hundred servers in APAC), but I'm waffling between having a 2nd management group which might perform better vs a single management group that might have latency issues. Can you tie both management groups together into a single operations console? Has anyone done this before, and if so, what advice would you offer?

@@ -1,0 +1,5 @@
+Year: 2023
+Author: kbbtech
+URL: https://www.reddit.com/r/sysadmin/comments/11zi3hm/how_to_remove_deleted_printer_showing_in_drop/
+
+Hi We've deleted a printer from a win10 pc. It is no longer visible in Control Panel - devices and printers or from Printers & scanners in system settings. When printing from word, excel, outlook, etc., the printer is still showing with Delete 5 documents waiting message. I'm not sure how to remove the printer from this list. Any help pointing me in the right direction is appreciated. Thanks in advance. &#x200B; SOLVED: I was able to find the printer in the Print Management app and once I cancelled all jobs, it was no longer listed when printing from other apps.

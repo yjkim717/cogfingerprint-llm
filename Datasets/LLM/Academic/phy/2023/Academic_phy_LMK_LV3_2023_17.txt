@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Meta-Optics Enhanced Optical Encryption via Vector Visual Cryptography
+
+Abstract:
+In 2023, we propose a meta-optics-empowered vector visual cryptography strategy, significantly enhancing optical encryption security. By leveraging the unique properties of metasurfaces, our approach enables the encryption of complex vectorial information, thereby augmenting data protection. The integration of meta-optics with vector visual cryptography facilitates rapid decryption, ensuring efficient information retrieval. This innovative methodology bolsters information security, providing a robust solution for secure data transmission. Our findings underscore the potential of meta-optics in advancing optical encryption techniques, paving the way for novel applications in secure communication.

@@ -1,0 +1,5 @@
+>## The Unexpected Comfort of Shared Struggle (and Linear Algebra!)
+
+Okay, so confession time: I'm staring down an open-book exam covering matrices, ODEs, and… stochastics. Seriously, my brain feels like a scrambled equation. I posted a frantic plea for help on a student forum, fully expecting to be met with smug geniuses. Instead, I found… solidarity. 
+
+So many people were in the same boat! We started sharing notes, practice problems, even just commiserating about the sheer *weirdness* of stochastic processes. It’s surprisingly comforting to realize you're not alone in feeling overwhelmed. Turns out, even complex math can build community. Who knew linear algebra could be so… social? Now, back to those eigenvalues! Wish me luck!

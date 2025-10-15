@@ -1,0 +1,5 @@
+Okay, here’s a reflective blog post inspired by the provided information and aiming for a conversational tone and ~79 words, set in 2024:
+
+---
+
+It’s funny, isn’t it? I’ve been spending a lot of time lately tinkering with AI, specifically trying to build custom interfaces. The official Claude SDKs are great, of course, but I’m really drawn to the DIY spirit – hunting down community-supported tools, like those TypeScript and Python options. It feels like building something *real*, not just plugging into a pre-packaged solution.  A little messy, a lot rewarding. 2024 is all about crafting your own path, right?

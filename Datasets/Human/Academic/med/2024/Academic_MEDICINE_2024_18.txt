@@ -1,0 +1,8 @@
+Author: W. Gradishar
+Title: Breast Cancer, Version 3.2024, NCCN Clinical Practice Guidelines in Oncology.
+Paper ID: c30de1b45fd58cffff539552eee64de82e68b64e
+Year: 2024
+Author Index: 18
+
+Abstract:
+Breast cancer is treated with a multidisciplinary approach involving surgical oncology, radiation oncology, and medical oncology. The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Breast Cancer include recommendations for clinical management of patients with carcinoma in situ, invasive breast cancer, Paget's disease, Phyllodes tumor, inflammatory breast cancer, and management of breast cancer during pregnancy. The content featured in this issue focuses on the recommendations for overall management of systemic therapy (preoperative and adjuvant) options for nonmetastatic breast cancer. For the full version of the NCCN Guidelines for Breast Cancer, visit NCCN.org.

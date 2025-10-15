@@ -1,0 +1,5 @@
+Year: 2022
+Author: FrankieB86
+URL: https://www.reddit.com/r/TeraOnline/comments/vpdc0k/how_to_hide_the_ui_during_server_selectcharacter/
+
+Is there a way to disable the UI during server select? I'm hoping to nab a video loop of the server login screen on the Starscape server and use it in wallpaper engine. I know it's possible on character select, as seen here but I dunno how to do it and ctrl+z doesn't work on either screen for me.

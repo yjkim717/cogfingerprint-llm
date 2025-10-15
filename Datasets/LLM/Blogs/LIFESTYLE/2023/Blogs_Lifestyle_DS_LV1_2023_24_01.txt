@@ -1,0 +1,9 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Unmarked Path: From Sysadmin to DBA
+
+It’s 2023, and my desk is still a familiar landscape of server racks and blinking network switches. For years, I’ve been the go-to sysadmin, the one who keeps the digital lights on. But lately, a different pull has been growing—a quiet fascination with the world inside our SQL Server databases. It started with helping the DBAs with a performance issue, and now, I find myself drawn to the elegant logic of a well-written query over the brute force of a server reboot.
+
+This isn't just a technical itch; it feels like a lifestyle shift. It’s about trading the reactive chaos of system alerts for the proactive, puzzle-solving calm of database tuning. I’ve been studying, getting my hands dirty in Microsoft Azure labs, and building my skills in the quiet hours. But the big question lingers over my morning coffee: when do you know you’re ready? When does the safety of the path you know become a cage, and the uncertainty of a new career the very freedom you need? I’m standing at that threshold, passport in hand, just deciding when to step through.

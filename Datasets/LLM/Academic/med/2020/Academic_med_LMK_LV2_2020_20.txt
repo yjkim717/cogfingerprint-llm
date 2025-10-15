@@ -1,0 +1,5 @@
+Title: Management of Male Breast Cancer: Endocrine Therapy and Genetic Considerations
+
+Abstract:
+
+Male breast cancer, a rare and understudied malignancy, necessitates evidence-based management strategies. In 2020, the American Society of Clinical Oncology (ASCO) issued guidelines to standardize care for male breast cancer patients. This abstract summarizes the ASCO recommendations, focusing on endocrine therapy and genetic counseling. For hormone receptor-positive disease, tamoxifen is the preferred endocrine therapy, given its established efficacy in improving survival outcomes. Aromatase inhibitors, although used in postmenopausal women, are not recommended as monotherapy due to the lack of testicular suppression. Genetic counseling is also emphasized, as male breast cancer is often associated with BRCA1 and BRCA2 mutations. The ASCO guideline advocates for genetic testing in men diagnosed with breast cancer, to facilitate risk assessment and inform management decisions. By integrating endocrine therapy and genetic considerations, clinicians can provide comprehensive care for male breast cancer patients, ultimately improving treatment outcomes.

@@ -1,0 +1,5 @@
+Year: 2020
+Author: aviatorbassist
+URL: https://www.reddit.com/r/learnpython/comments/g1yqij/file_search_questions/
+
+So I have a .txt file that has 365, randomly generated numbers in it. Each number represents how many steps I took each day, the program is supposed to calculate the average number of steps each month. How would I write the code where I bring lines 1-31 into my program from the txt file then, lines 32-60, etc......? I can do the math part but I’m a bit confused on how I would summon the numbers.

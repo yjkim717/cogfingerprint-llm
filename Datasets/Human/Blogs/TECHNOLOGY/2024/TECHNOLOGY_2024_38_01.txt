@@ -1,0 +1,5 @@
+Year: 2024
+Author: statius9
+URL: https://www.reddit.com/r/MLQuestions/comments/1exx9le/for_topic_modeling_are_there_more_useful_packages/
+
+I trying to get into topic modeling. I’m having a lot of trouble with the kind packages made in Python. For instance, when using an LDA for topic modeling I’m having a lot of trouble modifying the function to output metrics as the model is fit iteratively to my dataset. I have tired both Gensim and Sklearn for this and in either case I have to do a lot of potentially problematic workarounds to keep track of these values. In short, what I want in a topic modeling package is the ability to measure convergence and other metrics over iterations, similar to what can easily be done with keras.

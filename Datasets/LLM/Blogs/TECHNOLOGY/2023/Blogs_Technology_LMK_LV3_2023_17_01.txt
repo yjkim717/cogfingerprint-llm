@@ -1,0 +1,9 @@
+"Simplifying Backup for My Homelab: A Mounting Problem"
+
+As I dive into setting up a robust backup system for my home lab in 2023, I've been excited to leverage Restic, an open-source backup tool that's gained popularity for its efficiency and flexibility. My plan involves using removable USB drives as the backup destination, ensuring my data is safe and easily retrievable in case of a disaster. However, the more I delve into the setup, the more I'm realizing that the challenge isn't just about configuring Restic – it's about creating a seamless and reliable process for mounting these USB drives.
+
+I've always been drawn to the idea of a homelab, where I can experiment with various technologies and configurations without the constraints of a production environment. But with great flexibility comes the responsibility of safeguarding the data within. Using USB drives for backups seems straightforward, yet the simplicity ends when you consider the need for a consistent and automated mounting process.
+
+I've tried a few approaches, from manually mounting the drives to scripting automount rules, but each method has its drawbacks. The manual approach is error-prone and inconvenient, while scripting requires a level of automation that's hard to get right, especially when dealing with removable devices.
+
+As I continue to refine my backup strategy, I'm reminded that sometimes the hardest part of implementing a new technology is not the tech itself, but the ancillary processes that make it work smoothly. I'm on a mission to find that perfect balance between simplicity and reliability for my homelab backup system. Wish me luck!

@@ -1,0 +1,7 @@
+)
+## Recent Advances and Future Directions in the Molecular Genetics of *Pleurotus ostreatus*
+
+**Abstract:** The oyster mushroom, *Pleurotus ostreatus*, is gaining recognition as a valuable model organism within fungal biology, owing to its rapid growth, ease of cultivation, and significant ecological and economic importance. This review synthesizes recent advancements in the molecular genetics of *P. ostreatus*, focusing on developments since the completion of its initial genome sequencing. We examine progress in utilizing genetic techniques, including CRISPR-Cas9-mediated gene editing, RNA sequencing, and comparative genomics, to elucidate the mechanisms underlying key traits such as lignin degradation, secondary metabolite production (particularly pleurotin and coniolide), and developmental processes. While the initial genome provided a foundational resource, ongoing research is refining gene annotation and functional characterization. Furthermore, we discuss the emerging applications of *P. ostreatus* in areas like bioremediation, enzyme discovery, and the development of novel bioactive compounds. This review underscores the potential of *P. ostreatus* to serve as a powerful platform for both fundamental research and applied biotechnology, highlighting areas requiring further investigation, particularly concerning the regulation of complex metabolic pathways and the interplay between genetics and environmental factors.
+
+
+

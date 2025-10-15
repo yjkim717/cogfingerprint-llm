@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, suitable for a physics publication in 2024:
+
+**Abstract**
+
+This work presents a refined approach to calculating multi-soft limits within particle and string amplitudes, leveraging a novel framework predicated on split factorizations and binary geometry. Utilizing this methodology, we systematically determine all-order limits for scattering amplitudes, specifically addressing pion and gluon amplitudes, crucial for high-energy scattering studies. The core innovation resides in the application of binary geometry to decompose complex amplitudes into a series of manageable ‘splits,’ facilitating a concise and rigorous computation of multi-soft behavior.  We demonstrate that this tr$(\phi^3)$ theory-informed technique provides a consistent and predictive means of accessing these limits, offering a valuable alternative to traditional perturbative methods.  Further investigation into the geometric constraints embedded within these splits promises to deepen our understanding of soft dynamics and their implications for hadron structure.

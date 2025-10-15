@@ -1,0 +1,1 @@
+"As I navigated the complexities of VMware Horizon in 2022, I stumbled upon a challenge: disabling ParentVMs in VCenter via PowerCLI for seamless ESXi hosts maintenance. I'll share my journey of leveraging PowerCLI to automate this task, simplifying the process and reducing downtime - a game-changer for IT admins."

@@ -1,0 +1,9 @@
+Here is a formal academic-style abstract in the field of physics:
+
+Title: Assessing the Impact of LSST Observing Strategy on Supernovae Classification with Photometric Transient Classification
+
+Abstract:
+
+The forthcoming Legacy Survey of Space and Time (LSST) by the Rubin Observatory will provide an unprecedented volume of astronomical data, enabling the discovery of numerous supernovae (SNe). However, the classification of these SNe remains a significant challenge due to the limited spectroscopic resources. In this study, we investigate the impact of LSST observing strategy on the classification of SNe using simulated light curves and the Photometric Transient Classification library (Pytorch). By employing a Gaussian Process (GP) to model the light curves, we analyze the performance of photometric classification under various LSST observing strategies. Our results demonstrate that the accuracy of SN classification is significantly influenced by the observing cadence and filter selection. Specifically, we find that a rolling cadence strategy with a 3-day revisit time in the same field results in a higher classification accuracy compared to a random cadence. Furthermore, our analysis indicates that the inclusion of u-band observations significantly enhances the classification performance, particularly for SNe Ia. Our findings have important implications for optimizing the LSST observing strategy to maximize the scientific returns from SNe observations. By informing the survey design, our work contributes to the development of a more effective SNe classification framework, ultimately enhancing our understanding of the SN population and its cosmological implications. 
+
+Keywords: supernovae classification; Rubin Observatory; LSST observing strategy; photometric classification; Gaussian Process.

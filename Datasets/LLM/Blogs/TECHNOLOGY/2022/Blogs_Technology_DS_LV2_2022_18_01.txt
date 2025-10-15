@@ -1,0 +1,1 @@
+Back in 2022, I remember wrestling with Office365 device rules, trying to quarantine Outlook mobile for security while keeping my own phone accessible. It felt like building a digital moat but leaving a drawbridge just for me.

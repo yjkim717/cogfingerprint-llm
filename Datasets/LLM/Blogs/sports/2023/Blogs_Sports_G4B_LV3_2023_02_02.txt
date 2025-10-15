@@ -1,0 +1,2 @@
+Input: The post describes a homeowner's attempt to determine the appropriate size of lumber needed to span an 18-foot outdoor roofed area for joists, referencing a previous calculation for a 14.2-foot span with a single 2x10.
+Output: There’s something deeply satisfying about tackling a challenging project, right? Like figuring out if you need a bigger bat to clear that fence, or a stronger grip to hold a winning shot. Just like that homeowner, I was wrestling with a similar calculation – how much effort to push for that extra yardage.

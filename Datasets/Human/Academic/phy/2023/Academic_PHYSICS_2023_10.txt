@@ -1,0 +1,8 @@
+Author: Soonho Kwon
+Title: Improving Oxygen Reduction Performance of Surface-Layer-Controlled Pt-Ni Nano-Octahedra via Gaseous Etching.
+Paper ID: 4a0af489b17bcba89b88451ef603d906ba4819ae
+Year: 2023
+Author Index: 10
+
+Abstract:
+This study demonstrates an atomic composition manipulation on Pt-Ni nano-octahedra to enhance their electrocatalytic performance. By selectively extracting Ni atoms from the {111} facets of the Pt-Ni nano-octahedra using gaseous carbon monoxide at an elevated temperature, a Pt-rich shell is formed, resulting in an ∼2 atomic layer Pt-skin. The surface-engineered octahedral nanocatalyst exhibits a significant enhancement in both mass activity (∼1.8-fold) and specific activity (∼2.2-fold) toward the oxygen reduction reaction compared with its unmodified counterpart. After 20,000 potential cycles of durability tests, the surface-etched Pt-Ni nano-octahedral sample shows a mass activity of 1.50 A/mgPt, exceeding the initial mass activity of the unetched counterpart (1.40 A/mgPt) and outperforming the benchmark Pt/C (0.18 A/mgPt) by a factor of 8. DFT calculations predict this improvement with the Pt surface layers and support these experimental observations. This surface-engineering protocol provides a promising strategy for developing novel electrocatalysts with improved catalytic features.

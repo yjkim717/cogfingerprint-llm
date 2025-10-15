@@ -1,0 +1,5 @@
+It’s funny how a single line of code can feel like an old friend—until one day, it just doesn’t work anymore. That’s exactly where I found myself earlier this year, staring at my PowerShell script that used Send-MailMessage. For years, it was my go-to for automating email notifications, especially in our medical facility where timely alerts can make all the difference.
+
+But as 2024 rolls on, security isn’t just a buzzword; it’s a necessity. Send-MailMessage is now obsolete, and honestly, that’s a good thing. Relying on basic SMTP felt like leaving the front door unlocked in a world where patient data deserves a vault. So, I dove into finding a secure alternative—something that keeps our script automation running smoothly without cutting corners on email security.
+
+It’s been a journey of trial and error, but upgrading our approach has brought peace of mind. Because in healthcare tech, staying current isn’t just about efficiency—it’s about protecting what matters most.

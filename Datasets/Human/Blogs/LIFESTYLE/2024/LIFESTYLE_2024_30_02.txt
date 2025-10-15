@@ -1,0 +1,5 @@
+Year: 2024
+Author: talbotron22
+URL: https://www.reddit.com/r/drones/comments/1f3s1xn/flying_with_laanc_authorization_without_107/
+
+I've been flying for a couple of years now, have my TRUST certificate and all that jazz. I'm flying <250g, recreational only, etc so never had the need to get a 107 license. I've only flown where LAANC approval is not required. However I'm taking a Labor Day vacation to a place that's close enough to an airport that AutoPylot informs me LAANC approval is needed. I've read "Do you need your Part 107 certificate?" from the sidebar and at seems there's there's nothing preventing me from clicking the LAANC approval request button in the app, prior to launching. I will not be going above the AGL limit (250 feet in this case), again for recreational purposes only. From everything I've read I'm 98% sure this is OK to do, but could someone please confirm/deny that it's legitimate? I just want to get some nice beach pictures on my Labor Day vacation, not to ruffle fethers with the FAA.

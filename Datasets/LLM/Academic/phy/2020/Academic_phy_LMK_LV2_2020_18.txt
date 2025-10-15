@@ -1,0 +1,1 @@
+We demonstrate the manipulation of near-infrared femtosecond pulses using dielectric metasurfaces, enabling precise control over time-domain polarization states. This capability is achieved through the tailored design of metasurface structures, which effectively shape the temporal profiles of ultrafast pulses (2020).

@@ -1,0 +1,5 @@
+Year: 2021
+Author: Darnitol1
+URL: https://www.reddit.com/r/AppleWatch/comments/l3supr/if_youre_experiencing_poor_battery_life_since/
+
+My battery life before 7.2 was always 15-18 hours on my AW4. With 7.2 and handwashing turned on, battery plummeted to 6-7 hours. It took me weeks to figure out what was different. It finally dawned on me that the watch had to be monitoring the microphone and/or the gyroscope to detect handwashing, so I turned it off. My battery life immediately returned to 15-18 hours.

@@ -1,0 +1,5 @@
+It’s 2022, and I’ve been thinking a lot about how we build web apps. For years, I wrestled with tangled frontend state—keeping everything in sync felt like juggling flaming torches. Then, something clicked: what if the backend drove those updates?
+
+By shifting state management to the server and using simple DTOs to pass along just what’s needed, the frontend became lighter, more focused on what it does best—responding to users, not managing complexity. All the important business logic stays centralized, consistent, and under control.
+
+It’s not just cleaner code; it’s peace of mind. The frontend breathes, the backend steers, and suddenly, everything just flows.

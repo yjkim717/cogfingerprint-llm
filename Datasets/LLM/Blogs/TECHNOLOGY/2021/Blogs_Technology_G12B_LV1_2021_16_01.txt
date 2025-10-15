@@ -1,0 +1,18 @@
+>## The Meta Tag Tango: A Next.js Head-Scratcher in 2021
+
+Okay, so let's be honest, wrestling with Next.js can sometimes feel like a bizarre dance. It's elegant, powerful, and incredibly efficient… until it throws you a curveball. Recently, I've been deep in the trenches trying to get my meta tags to play nice with server-side rendering (SSR) in Next.js v12.0.7, and it’s been a *journey*.
+
+For those unfamiliar, Next.js is a fantastic React framework that simplifies building performant web applications. A huge part of its appeal is its ability to handle SSR, which means your initial page load is rendered on the server, boosting SEO and providing a faster user experience.  And a critical element of SEO?  Meta tags! 
+
+I was building a site where the meta description needed to change dynamically based on the specific content being displayed.  The logical approach, I thought, was to use `getInitialProps` within my `_app.tsx` file.  It *seemed* perfect.  This function runs on the server (and client, for good measure), allowing you to fetch data and pass it down to your components. I was confidently crafting my meta tags, pulling in the right information, and… nothing.
+
+The tags were being rendered client-side, meaning they weren’t available for search engine crawlers during the initial server render.  Frustrating, right? I spent a good chunk of a Tuesday chasing this bug, scouring the Next.js documentation and Stack Overflow, feeling increasingly perplexed. 
+
+Turns out, the landscape of Next.js is constantly evolving. While `getInitialProps` still *technically* works, it’s increasingly considered legacy. The recommended approach now leans heavily towards using the `<Head>` component, often in conjunction with `getServerSideProps` or `getStaticProps` within your individual pages.
+
+It’s a reminder that staying current with frameworks like Next.js is a constant effort.  What felt like a solid strategy just a few months ago suddenly needed rethinking.  The good news?  Once I shifted to using the `<Head>` component within a `getServerSideProps` function on my page, the meta tags rendered beautifully on the server. 
+
+This whole experience reinforced the importance of keeping an eye on framework updates and embracing the evolving best practices.  And it also taught me a valuable lesson: sometimes, the most obvious solution isn’t always the best one, especially when dealing with the ever-shifting sands of web development.
+
+
+

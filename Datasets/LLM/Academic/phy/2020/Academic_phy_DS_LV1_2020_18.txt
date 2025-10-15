@@ -1,0 +1,1 @@
+We demonstrate dielectric metasurfaces for time-domain polarization shaping of femtosecond near-infrared pulses. This approach enables dynamic control over the temporal profile of light's polarization state, advancing ultrafast photonic applications.

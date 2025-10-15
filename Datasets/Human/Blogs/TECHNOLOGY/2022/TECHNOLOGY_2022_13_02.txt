@@ -1,0 +1,5 @@
+Year: 2022
+Author: therealscooke
+URL: https://www.reddit.com/r/blockfolioapp/comments/z0bpna/how_to_get_tracking_infohistory_from/
+
+Well, you've heard the news. My app keeps telling, "Looks like something went wrong. Please try again." Does anyone know how I can get the tracking data I've manually entered? Is it in the app somewhere, or some db in the app that I can get at? Otherwise, I've lost the history of my purchases. \*\*I never used the app for purchasing. I've only ever used it for the tracking, and that was always manually entered. Thanks!

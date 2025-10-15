@@ -1,0 +1,5 @@
+Year: 2022
+Author: Durahl
+URL: https://www.reddit.com/r/klippers/comments/tpi0yc/signaling_for_user_input/
+
+Greetings! I was just 3D printing some parts requiring a `Pause` about halfway into the print to embed some M5 Nuts into them obviously requiring some User Intervention. Now... Prusa and **SuperSlicer** both give fairly accurate estimates as to when the Pause is happening thus allowing me to set a timer but I'm still kinda wondering about the possibility of the 3D Printer signalling the user when the actual Pause command is happening. Is there already something like that built into Klipper and how would one ideally... Well... Signal? 🤔 The MCU is a **BTT Octopus V1.1** and obviously a **Raspberry Pi(4)**

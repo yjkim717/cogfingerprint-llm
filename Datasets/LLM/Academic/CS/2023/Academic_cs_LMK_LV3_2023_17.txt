@@ -1,0 +1,6 @@
+Here is a generated abstract inspired by the given summary and keywords:
+
+Title: Enhancing IoT Cybersecurity through Additive Feature Integration with Convolutional Neural Networks
+
+Abstract:
+The proliferation of Internet of Things (IoT) devices has heightened the need for robust cybersecurity measures. This study presents a novel IoT device classification framework leveraging additive IoT features with Convolutional Neural Networks (CNNs). By integrating domain-specific features into the CNN architecture, our system achieves a classification accuracy of 99.67% and enhances source identification. The proposed approach demonstrates significant potential in bolstering IoT security through precise device identification, thereby mitigating potential cyber threats in contemporary IoT ecosystems (2023).

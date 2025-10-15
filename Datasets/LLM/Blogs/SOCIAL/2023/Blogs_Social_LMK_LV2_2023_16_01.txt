@@ -1,0 +1,7 @@
+generate_text( 
+    keywords="game balancing, toxic community, overwatch 2, blizzard, gaming frustration", 
+    summary="The author's frustration with Overwatch 2's balancing issues and toxic community drives them away from the game despite liking its concept.",
+    tone="conversational",
+    length="~146 words",
+    context="2023"
+)

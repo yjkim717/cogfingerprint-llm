@@ -1,0 +1,5 @@
+Year: 2022
+Author: 1PG22n
+URL: https://www.reddit.com/r/whatstheword/comments/w9i53j/wtw_for_when_you_pause_processing_an_order_to_ask/
+
+Hi everyone, I need a (hopefully) single-word label for a button that we press on the orders which can't be processed because something is wrong with them, and we need more information from the customer. E.g., the address is wrong and needs to be corrected. A real-life analogy could be pulling out an item that failed tests from an assembly line to fix it and put it back eventually. My first thought would be to use "Reject", but it implies we won't put the order back - but we will, after it's fixed. The closest I got from researching myself is "Interrogate" but it has this negative connotation. Please let me know. Thank you!

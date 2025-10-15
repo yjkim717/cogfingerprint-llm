@@ -1,0 +1,3 @@
+It’s 2022, and I’m staring at my React Native Web app stretched awkwardly across a widescreen monitor. The drawer navigation works beautifully on mobile, but here, it feels like a tiny boat lost in a vast ocean. I’d chosen Expo for its simplicity, but now I’m wrestling with margins on desktop screens—how do you contain that sprawling canvas without breaking the drawer’s flow?
+
+After some trial and error, I found that a little thoughtful margin styling goes a long way. It’s a reminder that in tech, we often build for one world, only to discover another. Adapting isn’t just about code; it’s about seeing through the user’s eyes, no matter the screen size.

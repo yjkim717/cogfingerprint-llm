@@ -1,0 +1,3 @@
+**Abstract**
+
+We experimentally investigate the thermodynamic fluctuations in a superconducting two-qubit gate. By implementing high-fidelity quantum state tomography, we directly measure the energy and entropy exchange between the qubits and their local environments during gate operation. Our results quantitatively link increased entropy production to reduced gate fidelity, providing a direct experimental validation of Landauer's principle at the quantum level. This work, conducted in 2020, establishes a framework for using thermodynamic metrics to diagnose and benchmark the performance of scalable quantum information processors.

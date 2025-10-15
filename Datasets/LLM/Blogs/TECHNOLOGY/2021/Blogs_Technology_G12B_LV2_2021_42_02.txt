@@ -1,0 +1,5 @@
+## The Ghost in the Machine (and Who Owns It?)
+
+It's 2021, and machine learning feels like magic. We're building on the shoulders of giants – massive, pre-trained networks humming with knowledge. But lately, a nagging question’s been circling my mind: who *owns* that knowledge? 
+
+These networks, often shared with open-source licenses, have weights – essentially, the distilled learning. Can you just grab those weights and build a commercial product? The legal landscape is hazy, a confusing mix of code licenses and intellectual property. It feels like we're building on borrowed foundations, and I'm not sure we’re fully understanding the implications. It's a fascinating, slightly unsettling space to be in.

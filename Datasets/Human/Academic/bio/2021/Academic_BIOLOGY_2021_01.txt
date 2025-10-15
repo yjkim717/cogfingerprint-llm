@@ -1,0 +1,8 @@
+Author: N. Korabel
+Title: Local Analysis of Heterogeneous Intracellular Transport: Slow and Fast Moving Endosomes
+Paper ID: 9c98b73d9058d0799844f064dcfd590e06f731bd
+Year: 2021
+Author Index: 1
+
+Abstract:
+Trajectories of endosomes inside living eukaryotic cells are highly heterogeneous in space and time and diffuse anomalously due to a combination of viscoelasticity, caging, aggregation and active transport. Some of the trajectories display switching between persistent and anti-persistent motion, while others jiggle around in one position for the whole measurement time. By splitting the ensemble of endosome trajectories into slow moving subdiffusive and fast moving superdiffusive endosomes, we analyzed them separately. The mean squared displacements and velocity auto-correlation functions confirm the effectiveness of the splitting methods. Applying the local analysis, we show that both ensembles are characterized by a spectrum of local anomalous exponents and local generalized diffusion coefficients. Slow and fast endosomes have exponential distributions of local anomalous exponents and power law distributions of generalized diffusion coefficients. This suggests that heterogeneous fractional Brownian motion is an appropriate model for both fast and slow moving endosomes. This article is part of a Special Issue entitled: “Recent Advances In Single-Particle Tracking: Experiment and Analysis” edited by Janusz Szwabiński and Aleksander Weron.

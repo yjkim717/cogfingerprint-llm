@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The formation of complex organic molecules (COMs) in the interstellar medium represents a critical stage in prebiotic chemical evolution. While hydrogenation reactions on icy grain surfaces are well-characterized, the pathways to carbon-carbon (C–C) bond formation, the structural backbone of organic chemistry, remain less understood. This study investigates the hypothesis that the surface mobility of atomic carbon on interstellar ice analogues is a primary driver of molecular complexity. Through a series of temperature-programmed desorption (TPD) and reflection-absorption infrared spectroscopy (RAIRS) experiments, we demonstrate that carbon atoms deposited onto a water-dominated ice mantle at 10 K acquire significant diffusivity at temperatures exceeding 22 K. This mobility facilitates reactive encounters with simpler hydrocarbon precursors, such as CH₄ and CH₃OH, leading to the efficient formation of C₂ and C₃ species, including C₂H₂ and C₂H₆. Kinetic Monte Carlo simulations corroborate that this diffusion-mediated mechanism provides a dominant, non-diffusion-limited pathway for chain growth. Our results establish the pivotal role of mobile carbon atoms in cold interstellar environments, proposing a robust, bottom-up mechanism for the genesis of molecular complexity preceding the emergence of planetary systems.

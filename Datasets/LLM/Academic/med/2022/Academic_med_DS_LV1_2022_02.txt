@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2022.
+
+***
+
+**Title:** Comparative Performance of Plasma Phosphorylated Tau231 and Tau217 as Early Biomarkers of Cerebral Amyloid-β Pathology in Preclinical Alzheimer's Disease
+
+**Abstract:**
+
+The identification of accessible and accurate biomarkers for the initial phases of Alzheimer's disease (AD) is a critical objective for enabling timely intervention in preclinical populations. This study directly compared the performance of two novel plasma biomarkers, phosphorylated tau at threonine 231 (p-tau231) and threonine 217 (p-tau217), for detecting cerebral amyloid-β (Aβ) pathology, the seminal neuropathological event in AD. We conducted a cross-sectional analysis of cognitively unimpaired older adults (n=350) from a prospective cohort, who underwent positron emission tomography (PET) for Aβ. Our results demonstrate that both plasma p-tau231 and p-tau217 concentrations were significantly elevated in individuals with Aβ-PET positivity compared to those who were Aβ-negative. Receiver operating characteristic analyses revealed that both biomarkers exhibited high diagnostic accuracy in discriminating Aβ status, with plasma p-tau217 showing a statistically superior area under the curve. These findings, generated in 2022, substantiate the utility of plasma p-tau variants as scalable screening tools for amyloid pathology. The enhanced performance of p-tau217 supports its prioritization for deployment in secondary prevention clinical trials targeting the preclinical stage of AD.

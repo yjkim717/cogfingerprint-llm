@@ -1,0 +1,12 @@
+>## The ZFS Memory Myth and My Home Lab Headache
+
+Okay, so I’ve been diving deep into ZFS for my home lab – a project I’m *really* enjoying, but also occasionally wrestling with. Lately, I've been obsessing over memory. You've probably heard the old chestnut: "1GB of RAM per TB of storage." It's a guideline, sure, but is it gospel?
+
+I started wondering about that rule as I planned a new RAIDZ1 pool. Suddenly, I was calculating RAM needs based on *total* storage, not usable space. That felt...off. It's like budgeting for a car based on its maximum capacity, not how much you actually drive.
+
+Turns out, it's more nuanced. While 1GB/TB is a decent starting point, ZFS's ARC (Adaptive Replacement Cache) is a dynamic beast. It uses RAM aggressively to cache frequently accessed data, boosting performance. So, my actual RAM needs depend heavily on my workload. 
+
+Right now, I'm experimenting, monitoring ARC usage, and honestly, feeling a little less stressed about the 1GB rule. It’s a learning curve, but a fascinating one! Anyone else battling ZFS memory management in their home lab? Let's commiserate (and share tips!) in the comments.
+
+
+

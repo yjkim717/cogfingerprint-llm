@@ -1,0 +1,8 @@
+>## The Scattered Thoughts in My Digital Notebook
+
+It's funny how technology, meant to streamline our lives, often just highlights our inherent limitations. I’ve been tinkering with GPT-4 lately, mesmerized by its capabilities, but also increasingly frustrated. It's brilliant at generating new code snippets, crafting compelling stories, even summarizing dense research papers. But ask it to meaningfully *edit* a sprawling codebase, to weave in a new feature into a complex system? It hits a wall. The context window, they call it – the amount of information it can effectively consider at once – simply isn’t enough.
+
+It got me thinking about my own creative process. I’m notoriously bad at finishing projects. I’ll start a new notebook, brimming with brilliant ideas, only to abandon it halfway through, scattering thoughts across multiple documents. Maybe I'm facing my own kind of context window limitation. Do I need to focus on mastering one "codebase" – one project, one goal – before launching into the next shiny thing? 2023 feels like a year of facing those messy, unfinished drafts, both digital and personal. Perhaps completion, not just creation, is the next level.
+
+
+

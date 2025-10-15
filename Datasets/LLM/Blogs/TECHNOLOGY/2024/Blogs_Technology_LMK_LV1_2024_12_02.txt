@@ -1,0 +1,13 @@
+**The Limits of AI in Coding: My Vue 3 Experience**
+
+As I sit here in 2024, surrounded by the latest advancements in AI, I'm reminded of the excitement and skepticism that came with the rise of Large Language Models (LLMs) like ChatGPT and Mistral. The promise of AI-assisted coding was tantalizing – who wouldn't want a clever sidekick to help with the nitty-gritty of development? I was eager to put this to the test with my latest project, built on Vue 3.
+
+At first, I was optimistic. I fired up ChatGPT and asked for help with a particularly tricky component. To my surprise, it generated some plausible code, but as I dug deeper, I realized it was more like a rough sketch than a working solution. The styling was off, and it didn't quite grasp the nuances of Vue 3's reactivity model. I tried refining my prompts, but the results didn't improve significantly.
+
+I turned to Mistral next, hoping its alternative approach would yield better results. Unfortunately, my experience was similar. While it produced some interesting ideas, the code it generated was often riddled with errors or simply didn't fit my project's specific needs.
+
+As I reflected on these interactions, I began to realize that LLMs, for all their power, struggle with the complex, context-dependent aspects of coding. Styling, in particular, seems to be a weak spot – perhaps because it's so heavily influenced by the subtleties of human design decisions.
+
+My experience has left me with a nuanced view of AI-assisted coding. While LLMs are undoubtedly useful for simple tasks or providing a starting point, they aren't yet a reliable substitute for human judgment and expertise. For now, I'll continue to use them as a supplement to my own skills, rather than relying on them to drive my development work.
+
+As the landscape of AI continues to evolve, I'm eager to see how these tools will improve. For now, I'm content to use them as a helpful, if imperfect, aid in my coding journey – and to appreciate the value of my own experience and creativity in bringing my projects to life.

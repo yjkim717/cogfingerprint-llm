@@ -1,0 +1,5 @@
+Year: 2021
+Author: Goldziher
+URL: https://www.reddit.com/r/learnjavascript/comments/r69bll/an_introduction_to_duck_typing_in_typescript/
+
+Hi All, I wrote an article that discusses Duck Typing as a pattern in JavaScriptS/TypeScript. It's fairly basic and I show a cool feature of TypeScript + link to Monty Python. I hope you find value in it, and if you have comments I'd be happy to discuss! Here is the link:

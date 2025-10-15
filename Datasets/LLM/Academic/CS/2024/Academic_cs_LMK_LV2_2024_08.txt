@@ -1,0 +1,5 @@
+"Enhanced Robot State Estimation via SE2(3) Lie Group and Chebyshev Interpolation"
+
+Abstract:
+
+Accurate robot state estimation is crucial for reliable trajectory analysis and control. This paper presents a novel metric for robot state estimation, leveraging the SE2(3) Lie group and Chebyshev interpolation. By representing robot poses and velocities as elements of the SE2(3) Lie group, we derive a geometrically consistent and singularity-free state representation. Chebyshev interpolation is employed to efficiently approximate the robot's trajectory, enabling accurate estimation of state variables. The proposed metric is formulated as a optimization problem on the Lie group, ensuring that the estimated state trajectory is consistent with the underlying geometry. Experimental results demonstrate the superiority of the proposed approach over existing state estimation algorithms, particularly in scenarios involving complex robot motions. The enhanced accuracy and robustness of the proposed metric have significant implications for robotics applications, including motion planning and control. (2024)

@@ -1,0 +1,11 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**A Topological Classification of Timelike Geodesics in Spherically Symmetric Spacetimes**
+
+**Abstract**
+
+The classification of bound orbits in general relativity has traditionally relied on dynamical systems analysis and linear stability criteria. In this work, we introduce a novel topological framework to characterize the phase-space structure of timelike circular geodesics in generic, static, spherically symmetric spacetimes. By considering the two-dimensional dynamical system on the equatorial plane, we identify the circular orbits as critical points of an effective potential flow. We demonstrate that these critical points possess a non-trivial topological charge, quantized by their respective winding numbers. Our central result establishes a topological distinction: stable circular orbits, corresponding to centers in the phase portrait, are characterized by a winding number of +1, whereas unstable orbits, manifesting as saddle points, carry a winding number of -1. This provides an intrinsic, coordinate-independent classification that transcends specific metric solutions. Crucially, we prove a global topological invariant—the sum of the winding numbers over all circular orbits within a given spacetime remains constant (+1) for a broad class of asymptotically flat black hole and naked singularity geometries, reflecting a fundamental constraint imposed by the boundary conditions at infinity and the event horizon. This invariant persists regardless of the specific matter content or modifications to gravity, provided spherical symmetry is maintained. This topological approach offers a powerful new lens through which to understand orbital dynamics, unifying the behavior of test particles across diverse gravitational backgrounds and potentially informing studies on accretion disk stability and gravitational wave sources.
+
+**(Word Count: 248)**

@@ -1,0 +1,5 @@
+Year: 2022
+Author: cecil721
+URL: https://www.reddit.com/r/PokemonGoSpoofing/comments/ugzz8w/imyfone_causes_auth_error/
+
+I am using iMyFone for the first time today, on an ult account. However, after iMyFone installs its version of POGO and I try to login, I am getting an "Authentication Error". I have tried clearing cache, force stopping, clearing data, etc. Any advice from other iMyFone users out there?

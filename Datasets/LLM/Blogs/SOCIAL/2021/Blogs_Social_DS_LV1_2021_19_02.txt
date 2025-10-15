@@ -1,0 +1,3 @@
+It’s funny how a tiny piece of tech can remind you of the bigger picture. In 2021, I bought a Thunderbolt extender for my Kamvas 13 tablet, hoping for a seamless setup. It worked perfectly on my Windows machine—a smooth, plug-and-play dream. But on my Mac? Nothing. The tablet driver just wouldn’t recognize it, leaving me stuck with a purchase I couldn’t return.
+
+That experience stuck with me. It felt like a metaphor for those moments in life when something works for one person but fails completely for another—whether it’s advice, a relationship, or even a simple solution. We’re all running on different systems, and what clicks for some just doesn’t for others. It’s a humble reminder to extend a little more grace, because everyone’s setup is unique.

@@ -1,0 +1,5 @@
+Year: 2021
+Author: EverydayMustBeFriday
+URL: https://www.reddit.com/r/shopify/comments/qne8cm/can_i_automatically_add_a_customer_tags_based_on/
+
+Hey :) Is it possible to add customer tags based on a language they chose when they subscribed to a newsletter or made a purchase? I would like to have them tagged to send emails based on their language with Klaviyo. Thank you :)

@@ -1,0 +1,5 @@
+Year: 2020
+Author: FrankieB86
+URL: https://www.reddit.com/r/RetroArch/comments/f8wjbh/would_running_retroarch_over_vga_to_a_crt_yield/
+
+I have an Intel NUC with Lakka installed (aka - barebones Linux with a bootable Retroarch). The NUC has VGA + 3.5mm audio out, which can be adapted to RCA. I'm looking to eventually reinstate my old CRT TV for retro gaming once the space becomes available. I'm curious to know - would this type of setup echo the same elements of playing vintage consoles? The dithering, the input delay, etc? If anyone's tried something similar, I'd be interested to know their experience.

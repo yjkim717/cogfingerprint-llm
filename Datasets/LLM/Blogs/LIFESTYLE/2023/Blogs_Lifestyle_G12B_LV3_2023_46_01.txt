@@ -1,0 +1,5 @@
+## The Little Arrow That Stopped My Laser Project (and Taught Me Patience)
+
+Okay, fellow makers, let's talk frustration. I’m deep into building a custom laser cutting fixture – a Cloudray laser, specifically, with a G-Weike controller – and hit a snag. It all came down to a tiny arrow on the beam combiner lens. Seriously! I was staring at it, questioning its purpose, convinced I was about to ruin everything. 
+
+It’s funny, isn't it? How a seemingly insignificant detail can derail a project. It made me pause and remember that making *anything* worthwhile takes patience. A quick search cleared things up (lens orientation is key!), but the whole experience was a good reminder to slow down, observe, and not be afraid to ask questions. Anyone else have a "little arrow" moment lately?

@@ -1,0 +1,7 @@
+The joys of being an IT admin in a hybrid environment! In 2023, it's not uncommon to see a mix of on-premises infrastructure and cloud services like Azure AD. But with great complexity comes great frustration - and I'm not just talking about the occasional password reset request.
+
+Lately, I've been dealing with a persistent issue that's been driving me (and my users) crazy: account lockouts. It seems like every other day, someone's account is locked out, and I'm left to troubleshoot the problem. The thing is, we've got a bunch of different Microsoft services and apps in use, from Outlook to SharePoint to Teams. And with Azure AD syncing our on-premises Active Directory to the cloud, it's a bit of a tangled web.
+
+I've been checking the usual suspects - password mismatches, stale credentials, and the like - but it's not always clear what's causing the lockout. And with multiple authentication protocols in play (Kerberos, anyone?), it's a challenge to track down the root cause. To make matters worse, some of our users are still using cached credentials from last week, which just adds to the confusion.
+
+Despite the headaches, I'm determined to get to the bottom of this. I've been digging into the Azure AD sign-in logs, looking for patterns and clues. And I've been working with our team to implement some new monitoring tools to help us stay on top of these lockouts. It's not the most glamorous task, but someone's gotta do it. After all, a happy user is a logged-in user!

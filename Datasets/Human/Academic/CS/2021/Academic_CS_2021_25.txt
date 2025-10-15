@@ -1,8 +1,0 @@
-Author: Shuroug A. Alowais
-Title: The Feasibility of Conducting Safe Objective Structured Clinical Exams (OSCEs) During the COVID-19 Era
-Paper ID: 3f41c5b59cfb76877e30f2b7127e4634d9556b14
-Year: 2021
-Author Index: 25
-
-Abstract:
-Purpose Objective structured clinical examination (OSCE) is an effective tool for learners’ assessment that require hands-on performance. During the COVID-era, many schools decided to minimize all forms of in-person communication between faculty members and students to mitigate the risk of COVID-19 transmission. We aimed to describe our experience in conducting physical OSCEs during the COVID-19 era. We also reported students’ satisfaction during this time. Materials and Methods Descriptive cohort study by comparing the 2019–2020 cohort to the 2020–2021 cohort. Descriptive framework for the feasibility of conducting physical OSCEs in the college of pharmacy at King Saudi Bin Abdulaziz University for Health Sciences in Riyadh, Saudi Arabia. Results There were no reported cases of COVID-19 transmission among students and faculty members during the OSCE assessments. Overall, the 2020–2021 cohort reported increased satisfaction compared to their peers in the 2019–2020 cohort; p < 0.05. We observed an increased need for coordination to ensure students’ and staff safety while adopting machine learning applications as a public measure when possible. Conclusion Owing to the implementation of clear and strong measures, it was feasible to conduct OSCEs, and there were no reported cases of COVID-19 transmission. Other universities may adopt a similar approach so as to provide an optimal educational experience while ensuring the safety of their staff and faculty.

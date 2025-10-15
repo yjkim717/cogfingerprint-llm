@@ -1,0 +1,11 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Day We Almost Lost the Keys to the Kingdom
+
+It was 2022, and I’ll never forget the pit in my stomach when our two sysadmins looked at each other in panic. A failed update had locked them *both* out of our Active Directory. No administrative privileges. No access to the domain controller. Our small business was frozen.
+
+We’d always operated on trust, but that day revealed a fatal flaw: we had no emergency break-glass procedure. In the frantic hours that followed (thankfully, we had a recent backup), I realized that robust security isn't just about keeping people out; it's about ensuring the right people can get *in* during a crisis.
+
+The lesson was clear. We immediately designed a dual-control system, splitting emergency credentials so no single person holds all the power. It’s a simple, sobering truth: the most critical access is the one you hope you never need.

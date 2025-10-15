@@ -1,0 +1,5 @@
+Year: 2023
+Author: TKInstinct
+URL: https://www.reddit.com/r/HomeNetworking/comments/18ko35k/is_a_nat_network_connection_meant_to_be_able_to/
+
+So I'm doing some course work and one the course mentioned that I was suppose to create a NAT network for a test enviornment. I built my first one in VMWare and I got it connected but the VM is able to ping the host but the host is not able to ping the VM. I did it in VIrtual Box and neither the host or the VM are able to reach each other. I think that the VMWare enviornment has a firewall issue since I've had that in the past. I'm not sure if what I did was proper or not. I see that the Virtual Box VM has not auto configured like the VMWare VM did. The course is using Virtrual Box rather than VMWare but I have always used VMWare over Virtual Box and I'm not sure if anything differs in VMWare over Virtual Box in the settings and configuration. &#x200B; &#x200B; &#x200B; &#x200B;

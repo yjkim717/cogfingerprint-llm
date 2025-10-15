@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The canonical model of interstellar ices posits the formation of homogeneous, amorphous solid water (ASW) layers on refractory grain substrates within molecular clouds and protoplanetary disks. However, the precise influence of local physicochemical conditions on ice microstructure remains inadequately constrained. This investigation employs cryogenic transmission electron microscopy (cryo-TEM) to systematically characterize the nucleation and growth of vapor-deposited water ices on a range of astrophysically relevant substrates, including amorphous silicates and carbonaceous materials, under ultra-high vacuum conditions. We demonstrate that the resultant ice morphology is not universally amorphous but is critically dependent upon the chemical composition of the substrate and the presence of trace condensable species. Notably, certain substrates template the formation of crystalline phases or distinct amorphous structures with varying porosity and density at temperatures where complete amorphization is typically assumed. These findings challenge the prevailing assumption of homogeneous ice mantle structures in astrochemical models. The observed substrate-dependent morphological diversity implies significant implications for surface chemistry, including the availability of catalytic sites and the entrapment of volatile species, thereby necessitating a revision of grain-surface reaction networks used to interpret molecular line observations from facilities such as ALMA and JWST.
+
+**(Word Count: 199)**

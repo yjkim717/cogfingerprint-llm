@@ -1,0 +1,5 @@
+Title: Nonperturbative Generation of Neutrino Masses through Generalized Symmetry Breaking
+
+
+#### Abstract
+In the quest to understand neutrino masses beyond the Standard Model, we explore the role of generalized global symmetries, particularly noninvertible chiral symmetries, in theories featuring non-Abelian horizontal lepton symmetries. Our framework posits that neutrino masses arise from the nonperturbative breaking of a lepton number symmetry, which is inherently noninvertible. By invoking a lepton family difference symmetry, we demonstrate that the interplay between generalized symmetry breaking and non-Abelian horizontal symmetries can dynamically generate neutrino masses. This mechanism, grounded in the principles of quantum field theory, provides a novel pathway for understanding the origin of neutrino masses. Our analysis, conducted within the context of contemporary beyond the Standard Model theories as of 2022, highlights the potential of generalized symmetries in addressing longstanding questions in neutrino physics, offering a fresh perspective on the intricate dynamics governing lepton flavor and mass generation.

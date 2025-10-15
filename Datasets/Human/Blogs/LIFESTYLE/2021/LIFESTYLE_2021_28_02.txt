@@ -1,0 +1,5 @@
+Year: 2021
+Author: van_Vanvan
+URL: https://www.reddit.com/r/3Dprinting/comments/q6eiqp/metal_fdm/
+
+There are a number of metals and alloys that have melting points that are in range of inexpensive FDM printers. Pewter specifically may be suitable. Melting point is 240 C and its even sold in wire gauge close to 1.75 mm. Has anyone tried printing with it? High thermal conductivity might make it challenging. There are also some gold alloys that are in range and they may be suitable for art works.

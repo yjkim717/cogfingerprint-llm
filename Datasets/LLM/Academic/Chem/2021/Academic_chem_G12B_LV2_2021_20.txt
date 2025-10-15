@@ -1,0 +1,9 @@
+ Here's a formal academic-style abstract, drawing on the provided information and adhering to your specifications:
+
+**Abstract**
+
+Vibrational strong coupling (VSC) between molecular vibrational modes and cavity photons has emerged as a paradigm for controlling chemical reactivity. While initial observations suggested enhanced reaction rates under VSC conditions, recent experimental and theoretical work indicates a more nuanced, and sometimes suppressive, role for the cavity field. This work provides a theoretical framework elucidating the impact of cavity frequency on reaction dynamics within a VSC system. Utilizing a non-Markovian master equation approach, we demonstrate that the cavity frequency acts as a critical parameter modulating the energy landscape and coherence lifetimes governing the reaction pathway. Specifically, we find that deviations of the cavity frequency from the vibrational resonance lead to a decreased population transfer to the reactive state, resulting in a suppression of the overall reaction rate. This suppression is directly correlated with a reduction in the effective vibrational coherence, highlighting the importance of maintaining resonant conditions for promoting reactivity. Our findings contribute to a deeper understanding of polariton chemistry and offer a predictive tool for manipulating reaction kinetics through tailored cavity design.
+
+
+
+**Keywords:** polariton chemistry, vibrational strong coupling, cavity frequency, reaction rate, non-Markovian dynamics

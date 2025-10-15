@@ -1,0 +1,7 @@
+
+## Abstract: Carbon Incorporation Pathways in Interstellar Ices: A Quantum Chemical Investigation of Methylamine Formation
+
+The chemical complexity of interstellar ices, formed through the sequential accretion and processing of gas-phase molecules on dust grains, remains a critical area of astrochemistry. Understanding the formation pathways of key prebiotic molecules within these icy environments is crucial for elucidating the origins of life. This work investigates the efficiency of carbon atom addition to ammonia (NH₃) as a route to methylamine (CH₃NH₂) within interstellar ices, utilizing high-level quantum chemical calculations performed in 2024. We explored a comprehensive hydrogenation network initiated by C + NH₃, considering subsequent hydrogenations and isomerization steps. Results indicate a significant kinetic preference for the formation of CH₃NH₂ over simpler species such as imine (NH=CH) and methyleneimine (CH=NH) at astrophysically relevant temperatures. Detailed analysis of potential energy surfaces reveals that the initial carbon addition to ammonia is followed by a rapid and energetically favorable hydrogenation cascade, culminating predominantly in methylamine. These findings suggest that carbon atom condensation plays a pivotal role in the efficient synthesis of methylamine within interstellar ices, bolstering its potential as a precursor to more complex nitrogen-containing organic molecules in star-forming regions and protoplanetary disks.
+
+
+

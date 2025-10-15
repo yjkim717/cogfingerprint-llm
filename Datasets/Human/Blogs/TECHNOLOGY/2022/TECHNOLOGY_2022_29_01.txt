@@ -1,0 +1,5 @@
+Year: 2022
+Author: Nuoji
+URL: https://www.reddit.com/r/ProgrammingLanguages/comments/zjuw7r/using_advent_of_code_to_test_c3/
+
+I've been using AoC to stack up on examples of C3 code. I haven't had time to make them look that great, but it's been interesting so far. Here is the repo: lerno/aoc_2022_c3 While C3 is an evolution on C, I think it does tend to have its own flavour due to having slices.

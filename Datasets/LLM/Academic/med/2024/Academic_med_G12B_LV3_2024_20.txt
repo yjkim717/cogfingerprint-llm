@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a medical research context (circa 2024):
+
+**Abstract**
+
+The evolving landscape of breast cancer management necessitates a nuanced approach to germline mutation testing. Current guidelines, notably those published by the American Society of Clinical Oncology (ASCO) and the Society of Surgical Oncology, advocate for judicious implementation of genetic testing strategies. While BRCA1/2 mutation assessment remains a cornerstone for identifying individuals at increased hereditary cancer risk, the scope of testing is increasingly expanding. This review examines the rationale behind current recommendations, focusing on the prioritization of BRCA1/2 testing for patients meeting specific clinical criteria, including early-onset disease, high-grade tumors, and certain familial histories. Furthermore, we discuss the growing consideration of multigene panel testing and comprehensive genomic profiling, particularly in the context of therapeutic decision-making, such as eligibility for PARP inhibitors. This abstract underscores the need for comprehensive genetic counseling services to facilitate informed patient decision-making and ensure appropriate utilization of increasingly complex genetic testing options within the framework of personalized breast cancer care.
+
+
+

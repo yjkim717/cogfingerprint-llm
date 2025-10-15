@@ -1,0 +1,5 @@
+ Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a physics-related publication in 2020:
+
+**Abstract**
+
+Simulating electrocatalytic CO₂ reduction remains computationally challenging due to the intricate interplay of quantum mechanical effects and complex solvent environments. This work presents RexPoN embedded Quantum Mechanics (ReQM), a novel hybrid methodology integrating reactive force fields and quantum mechanical calculations to address this limitation. ReQM allows for the investigation of electrochemical reactions with unprecedented scale, accurately capturing polarization phenomena and reaction mechanisms involving thousands to millions of atoms within a fully solvated system. The approach aims to bridge the gap between computationally tractable simulations and the high accuracy demanded for understanding catalytic processes, offering new insights into efficient CO₂ reduction strategies.

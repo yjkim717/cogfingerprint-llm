@@ -1,0 +1,5 @@
+Here is a formal academic-style abstract in the field of chemistry inspired by the given summary and keywords:
+
+"Investigating Carbon Atom Condensation on Interstellar Ices: A Novel Pathway to Methylamine Formation"
+
+Recent quantum chemical calculations have elucidated the interaction of carbon atoms with ammonia on interstellar ices, shedding light on a previously unreported mechanism for methylamine formation. Through a comprehensive hydrogenation network, carbon atom condensation on icy grain surfaces is shown to facilitate the synthesis of methylamine. This study provides new insights into the astrochemical processes governing the formation of complex organic molecules in interstellar environments, with implications for our understanding of prebiotic chemistry in the early universe (2024).

@@ -1,0 +1,4 @@
+Title: Contemporary Systemic Therapy Approaches for Metastatic Colorectal Cancer: A Review of Current Paradigms
+
+Abstract:
+The management of metastatic colorectal cancer (mCRC) has evolved significantly, driven by advances in molecular profiling and therapeutic innovation. In accordance with NCCN guidelines, treatment strategies are increasingly personalized based on prior therapy exposure, mutational status, and toxicity profiles. This review examines the current systemic therapy landscape for mCRC, highlighting the integration of novel agents and biomarker-driven approaches to optimize patient outcomes. The evolving therapeutic paradigm underscores the need for ongoing research to refine treatment algorithms and improve survival in this patient population.

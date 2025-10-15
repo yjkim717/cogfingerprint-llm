@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract inspired by the given summary and keywords:
+
+"Investigating Interstellar Methylamine Formation via Carbon Atom Condensation on Ammonia-Rich Ices"
+
+Abstract:
+The interaction between carbon atoms and ammonia on interstellar ices is crucial for understanding the astrochemical kinetics governing the formation of nitrogen-bearing organic compounds. This study (2024) elucidates a novel pathway to methanimine and subsequent hydrogenation to methylamine, leveraging density functional theory and kinetic modeling. Our results demonstrate that carbon atom condensation on ammonia-rich ices initiates a complex hydrogenation network, yielding methylamine as a significant product. These findings have implications for understanding the origins of prebiotic molecules in interstellar environments and their delivery to early Earth.

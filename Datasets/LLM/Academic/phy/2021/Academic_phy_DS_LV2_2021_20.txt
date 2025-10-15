@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract in the field of theoretical high-energy physics, written in the style of a 2021 research paper.
+
+***
+
+**Abstract**
+
+We present a systematic analysis of four-dimensional \(SU(N)\) chiral gauge theories, focusing on the constraints imposed by generalized global symmetries and their associated 't Hooft anomalies. A central result is the identification of previously unrecognized mixed 't Hooft anomalies involving discrete chiral and 1-form center symmetries. These anomalies must be matched along the renormalization group flow to the infrared, providing a powerful tool to discriminate between potential low-energy phases. We demonstrate that for a wide class of models, a trivial, confining vacuum—where all massless fermions are gapped without spontaneous symmetry breaking—is rigorously excluded by these anomaly matching conditions. Instead, the infrared phase is necessarily characterized by a non-trivial topological quantum field theory (TQFT), which saturates the anomalies. This TQFT structure, often coupled to a gapless sector, signifies deconfined gauge dynamics and rules out a featureless confining phase. Our findings establish that such TQFT obstructions are a generic and critical feature of chiral gauge theories, significantly narrowing the landscape of their possible infrared realizations and offering new insights into the non-perturbative dynamics of strongly coupled gauge theories.
+
+**(Word Count: 215)**

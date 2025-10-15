@@ -1,0 +1,9 @@
+Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective, conversational tone and fitting within the 2020 context:
+
+---
+
+**Building Worlds, Bit by Bit**
+
+Remember spending hours building elaborate Lego cities as a kid? That feeling of piecing together something complex and unique – that’s what I’ve been chasing lately, but with code.  I’ve been diving into this fascinating idea of “modular game design,” like the one described in this recent article. It’s about creating games where players aren’t just *playing* a pre-built world, but actively *building* it. 
+
+The thought of letting players customize units with interchangeable components, much like attaching wings to a spaceship, is incredibly compelling. It feels like a digital extension of that childhood joy – a way to craft something truly personal.  It’s a reminder that technology, at its best, can empower creativity.

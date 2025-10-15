@@ -1,0 +1,5 @@
+Title: Generation of Polarization-Entangled Photons via a Lithium Niobate Nonlinear Metasurface
+
+Abstract:
+
+The manipulation of quantum states through tailored nonlinear optical interactions has garnered significant interest in the realm of quantum photonics. In this study, we demonstrate the generation of entangled photons with controllable polarization states utilizing a nonlinear metasurface fabricated on a lithium niobate thin film. By designing a metagrating that leverages the inherent nonlinear optical properties of lithium niobate, we achieve precise control over the polarization entanglement of the generated photon pairs. Our approach enables the manipulation of the quantum states through the structural parameters of the metasurface, paving the way for compact and scalable sources of entangled photons. The results presented herein underscore the potential of nonlinear metasurfaces for advancing quantum optics and photonics, with implications for quantum information processing and quantum communication systems. (2023)

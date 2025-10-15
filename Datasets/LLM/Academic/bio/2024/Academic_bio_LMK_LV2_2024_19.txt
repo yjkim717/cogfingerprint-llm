@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract in the field of bioinorganic chemistry/materials science:
+
+Title: Enhanced Electrocatalytic Activity towards Oxygen Evolution Reaction via Cobalt-Doping in SrIrO3 Perovskite
+
+Abstract:
+The sluggish kinetics of the oxygen evolution reaction (OER) remains a significant bottleneck in electrochemical water splitting. Herein, we report a cobalt-doped SrIrO3 perovskite that exhibits enhanced electrocatalytic activity towards OER. The incorporation of cobalt into the SrIrO3 lattice activates the surface lattice oxygen, facilitating the formation of reactive oxygen species. Concurrently, the doping modulates the binding energy of IrOx adsorbates, optimizing the electrocatalytic activity. The resulting Co-doped SrIrO3 perovskite demonstrates a significant improvement in OER activity, outperforming the pristine SrIrO3. Our findings provide insights into the design of efficient OER electrocatalysts through strategic doping and lattice engineering, offering a promising avenue for the development of sustainable energy conversion technologies (2024).

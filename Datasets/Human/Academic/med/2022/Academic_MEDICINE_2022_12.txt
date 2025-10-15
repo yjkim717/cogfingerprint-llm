@@ -1,0 +1,21 @@
+Author: A. Courcoulas
+Title: Diabetes Remission in the Alliance of Randomized Trials of Medicine Versus Metabolic Surgery in Type 2 Diabetes (ARMMS-T2D).
+Paper ID: 6e6db2b309b26a2c3e035338d04020a09dc1444d
+Year: 2022
+Author Index: 12
+
+Abstract:
+OBJECTIVE
+The overall aim of the Alliance of Randomized Trials of Medicine versus Metabolic Surgery in Type 2 Diabetes (ARMMS-T2D) consortium is to assess the durability and longer-term effectiveness of metabolic surgery compared with medical/lifestyle management in patients with type 2 diabetes (NCT02328599).
+
+
+RESEARCH DESIGN AND METHODS
+A total of 316 patients with type 2 diabetes previously randomly assigned to surgery (N = 195) or medical/lifestyle therapy (N = 121) in the STAMPEDE, TRIABETES, SLIMM-T2D, and CROSSROADS trials were enrolled into this prospective observational cohort. The primary outcome was the rate of diabetes remission (hemoglobin A1c [HbA1c] ≤6.5% for 3 months without usual glucose-lowering therapy) at 3 years. Secondary outcomes included glycemic control, body weight, biomarkers, and comorbidity reduction.
+
+
+RESULTS
+Three-year data were available for 256 patients with mean 50 ± 8.3 years of age, BMI 36.5 ± 3.6 kg/m2, and duration of diabetes 8.8 ± 5.7 years. Diabetes remission was achieved in more participants following surgery than medical/lifestyle intervention (60 of 160 [37.5%] vs. 2 of 76 [2.6%], respectively; P < 0.001). Reductions in HbA1c (Δ = -1.9 ± 2.0 vs. -0.1 ± 2.0%; P < 0.001), fasting plasma glucose (Δ = -52 [-105, -5] vs. -12 [-48, 26] mg/dL; P < 0.001), and BMI (Δ = -8.0 ± 3.6 vs. -1.8 ± 2.9 kg/m2; P < 0.001) were also greater after surgery. The percentages of patients using medications to control diabetes, hypertension, and dyslipidemia were all lower after surgery (P < 0.001).
+
+
+CONCLUSIONS
+Three-year follow-up of the largest cohort of randomized patients followed to date demonstrates that metabolic/bariatric surgery is more effective and durable than medical/lifestyle intervention in remission of type 2 diabetes, including among individuals with class 1 obesity, for whom surgery is not widely used.

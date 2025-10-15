@@ -1,0 +1,11 @@
+Title: Identification of Aromatic L-Amino Acid Decarboxylase as a Novel Biomarker for Parkinson's Disease through Cerebrospinal Fluid Proteomics
+
+Abstract:
+
+Parkinson's disease (PD) is a neurodegenerative disorder characterized by the progressive degeneration of dopaminergic neurons, leading to motor dysfunction. The diagnosis of PD remains challenging due to the lack of specific biomarkers. Recent advances in proteomics have enabled the discovery of novel protein biomarkers for neurodegenerative diseases. In this study, we employed a proteomics-based approach to identify potential biomarkers for PD using cerebrospinal fluid (CSF) and plasma samples. 
+
+Our analysis revealed a significant alteration in the proteomic profile of PD patients compared to healthy controls. Notably, Aromatic L-Amino Acid Decarboxylase (AADC), a crucial enzyme involved in dopamine synthesis, was found to be differentially expressed in the CSF of PD patients. Validation studies confirmed that AADC levels were significantly elevated in the CSF of PD patients, suggesting its potential as a novel biomarker. 
+
+Furthermore, our results demonstrated a correlation between AADC levels and disease severity, indicating its potential utility in monitoring disease progression. The identification of AADC as a biomarker for PD highlights the importance of CSF proteomics in uncovering novel protein biomarkers for neurodegenerative diseases. Our findings provide new insights into the pathophysiology of PD and have significant implications for the development of diagnostic and therapeutic strategies. This study underscores the potential of AADC as a valuable biomarker for PD, warranting further investigation in larger cohorts to validate its clinical utility. 
+
+Overall, our study demonstrates the power of proteomics in identifying novel biomarkers for complex diseases like PD, paving the way for improved diagnosis and treatment.

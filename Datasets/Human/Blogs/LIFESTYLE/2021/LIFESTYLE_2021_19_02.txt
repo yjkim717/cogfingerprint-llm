@@ -1,0 +1,5 @@
+Year: 2021
+Author: Spontaneous323
+URL: https://www.reddit.com/r/Corsair/comments/r6y936/what_parts_do_i_buy_for_the_icue_h100i_elite/
+
+I built a new PC - I have a 12700k, MSI PRO Z690-A, and AIO Corsair iCUE H100i Elite Capellix Cooler. It says, "Compatible with the new Intel LGA1700 with purchase of CW-8960091 or CW-8960093 spare parts." So do I need the CW-8960091 or the CW-8960093... or both? Sorry I'm a bit confused.

@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract, suitable for a physics publication, inspired by the provided summary and keywords, and reflecting a 2020 timeframe:
+
+**Abstract**
+
+The recent Event Horizon Telescope (EHT) observations of the supermassive black hole M87* have provided unprecedented opportunities to test the validity of alternative theories of gravity beyond General Relativity. This work explores the implications of Gauss-Bonnet (GB) gravity for the observable features of black hole shadows, focusing on rotating black hole solutions. We analytically investigate the impact of the GB coupling constant, α, on the shadow size and shape of Kerr-GB black holes. Our calculations reveal a significant dependence of the shadow's observables on α, demonstrating that deviations from the Schwarzschildian predictions are readily apparent even for relatively small values of this parameter.  Specifically, we find that increasing α generally leads to a larger and more distorted shadow. By comparing our theoretical predictions with the EHT data of M87*, we constrain the permissible range of α, suggesting a preference for values consistent with weak GB gravity. This analysis provides a pathway for utilizing future, higher-resolution astronomical observations to further refine these constraints, potentially distinguishing between General Relativity and alternative theories of gravity in the strong-field regime.
+
+
+

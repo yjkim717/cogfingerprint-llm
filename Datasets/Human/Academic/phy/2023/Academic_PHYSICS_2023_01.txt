@@ -1,0 +1,8 @@
+Author: G. Hooft
+Title: How an exact discrete symmetry can preserve black hole information or Turning a black hole inside out
+Paper ID: f00bf82ffc52ac6910df5d799f3ad3ecc5434a5c
+Year: 2023
+Author Index: 1
+
+Abstract:
+To apply the laws of General Relativity to quantum black holes, one first needs to remove the horizon singularity by means of Kruskal-Szekeres coordinates. This however doubles spacetime, which thereby is equipped with an exact binary symmetry. All particles near a black hole share the same symmetry, and conservation of this symmetry may completely remove the information paradox: the quantum black hole has no interior, or equivalently, the black hole interior is a quantum clone of the exterior region. These observations, totally overlooked in most of the literature on quantum black holes, resolve some issues concerning conservation of information. Some other problems do remain.

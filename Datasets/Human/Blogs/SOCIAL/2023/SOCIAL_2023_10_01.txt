@@ -1,0 +1,5 @@
+Year: 2023
+Author: Mescallan
+URL: https://www.reddit.com/r/learnflask/comments/1639wib/module_importing_when_i_run_the_script_but_not/
+
+I had to do a bunch of troubleshooting to get to this point already and GPT4 is basically walking me in circles. I have an app with a directory Root |--folder1 |----folder2 |------\_\_init\_\_.py |------script1.py |------script2.py |------script3.py |--\_\_init\_\_.py |--models.py |--views.py etc the only way I've been able to import classes from models.py into script1.py is with: from root.folder1.models import class1 this will not return an error running manually from within the script or from a terminal but when I run the script from the flask app the modules do not import, giving me the error:ModuleNotFoundError: No module named 'Root' I have also tried:from folder1.models import class1 and it will return:ModuleNotFoundError: No module named 'folder1' I have \_\_init\_\_.py files in the proper position and the script is running in isolation. Please help I have been banging my head against the wall for a few days now trying to solve this.

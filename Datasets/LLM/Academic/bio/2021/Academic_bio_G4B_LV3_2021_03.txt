@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for a 2021 publication:
+
+**Abstract**
+
+Recent advancements in genome editing technologies have spurred investigation into their application beyond traditional genetic modification. This study reports the successful implementation of CRISPR-Cas9 within *Pleurotus ostreatus* (oyster mushroom), achieving targeted mutation via non-genetically modified techniques. Utilizing a precisely designed guide RNA, we induced specific genomic alterations, demonstrating the feasibility of directing evolutionary pathways within fungal strains.  The resultant mutations, assessed through phenotypic analysis, suggest a potential for accelerating desirable trait development – such as enhanced substrate utilization or increased yield – without relying on conventional transgenic approaches. These findings represent a significant step toward harnessing precision genome editing for sustainable fungal biotechnology and underscore the value of exploring non-GMO strategies for crop improvement and industrial applications.

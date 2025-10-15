@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a physics publication in 2024:
+
+**Abstract**
+
+The interplay between quantum decoherence and the gravitational environment of black holes represents a fundamental challenge in theoretical physics. This work explores the surprising equivalence arising from applying an effective theory framework to describe the dynamics of a quantum system interacting with a black hole, particularly within a finite-temperature regime. We posit that, at sufficiently small scales, the decoherence experienced by the quantum system closely mirrors the accretion disk dynamics near the black hole event horizon. Utilizing a novel effective action, we demonstrate that the evolution of the quantum system’s density matrix exhibits qualitative similarities to the linearized Einstein equations governing black hole perturbations.  This suggests a deeper connection between quantum and classical descriptions, potentially offering new avenues for investigating information loss paradoxes and the holographic principle.

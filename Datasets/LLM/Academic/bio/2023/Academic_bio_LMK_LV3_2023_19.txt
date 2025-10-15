@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In 2023, our investigation employing in situ Raman spectroscopy elucidated the surface reconstruction and dynamic catalytic sites of Ni-Fe catalysts during the oxygen evolution reaction, thereby providing crucial insights into the underlying catalytic mechanisms and informing the design of more efficient electrocatalysts."

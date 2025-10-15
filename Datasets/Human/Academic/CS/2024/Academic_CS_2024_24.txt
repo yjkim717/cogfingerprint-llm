@@ -1,8 +1,0 @@
-Author: David Baidoo-Anu
-Title: Exploring student perspectives on generative artificial intelligence in higher education learning
-Paper ID: aa7f8fb793e4286a44059f4f12383789a0f4024d
-Year: 2024
-Author Index: 24
-
-Abstract:
-This study examined the perspectives of Ghanaian higher education students on the use of ChatGPT. The Students’ ChatGPT Experiences Scale (SCES) was developed and validated to evaluate students’ perspectives of ChatGPT as a learning tool. A total of 277 students from universities and colleges participated in the study. Through exploratory factor analysis, a three-factor structure of students' perspectives (ChatGPT academic benefits, ChatGPT academic concerns, and accessibility and attitude towards ChatGPT) was identified. A confirmatory factor analysis was carried out to confirm the identified factors. The majority of students are aware of and recognize the potential of Gen AI tools like ChatGPT in supporting their learning. However, a significant number of students reported using ChatGPT mainly for non-academic purposes, citing concerns such as academic policy violations, excessive reliance on technology, lack of originality in assignments, and potential security risks. Students mainly use ChatGPT for assignments rather than for class or group projects. Students noted that they have not received any training on how to use ChatGPT safely and effectively. The implications for policy and practice are discussed in terms of how well-informed policy guidelines and strategies on the use of Gen AI tools like ChatGPT can support teaching and improve student learning.

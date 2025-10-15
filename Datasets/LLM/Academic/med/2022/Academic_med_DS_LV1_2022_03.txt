@@ -1,0 +1,15 @@
+Of course. Here is an original academic abstract inspired by the provided summary, written for a 2022 context.
+
+***
+
+**Abstract**
+
+**Title:** Comparative Robustness of Plasma Biomarkers for Cerebral Amyloid-β Pathology: A Focus on Pre-Analytical and Biological Variability
+
+**Background:** The quantification of plasma biomarkers represents a transformative advancement for the in vivo detection of cerebral amyloid-β (Aβ) pathology, a hallmark of Alzheimer's disease (AD). While the analytical performance of assays for biomarkers such as amyloid-β 42/40 ratio (Aβ42/40), phosphorylated tau (p-tau181), and glial fibrillary acidic protein (GFAP) is well-established, their relative robustness in the face of real-world variability remains inadequately characterized. This study specifically investigates the impact of pre-analytical and biological variability on the predictive accuracy of these leading plasma biomarkers.
+
+**Methods:** We conducted a longitudinal cohort study involving 450 cognitively unimpaired and mildly impaired older adults, all of whom underwent baseline plasma sampling and subsequent [18F]Flutemetamol or [18F]Florbetaben positron emission tomography (PET) to define amyloid status (positive/negative). To model variability, we introduced a controlled pre-analytical stress protocol, including delayed processing at 4°C and 24°C, and collected serial samples to assess intra-individual biological fluctuation. The coefficient of variability (CV) was calculated for each biomarker across these conditions. Predictive performance for Aβ-PET status was evaluated using area under the receiver operating characteristic curve (AUC) analyses under both standard and high-variability conditions.
+
+**Results:** Under standardized conditions, all three biomarkers (Aβ42/40, p-tau181, GFAP) demonstrated high diagnostic accuracy (AUCs 0.88-0.92). However, with the introduction of increased variability, significant divergence was observed. The predictive performance of the Aβ42/40 ratio exhibited a pronounced decline (ΔAUC -0.11, p<0.01), attributable to its heightened susceptibility to pre-analytical degradation and diurnal fluctuation. In contrast, both p-tau181 and GFAP maintained their diagnostic accuracy with minimal degradation (ΔAUC -0.03 and -0.02, respectively; p>0.05). GFAP, in particular, showed the lowest overall CV across all stress conditions.
+
+**Conclusion:** Our findings indicate that while plasma Aβ42/40, p-tau181, and GFAP are all effective biomarkers of cerebral amyloidosis, p-tau181 and GFAP exhibit superior robustness to common sources of variability encountered in clinical and research settings. This enhanced resilience suggests that p-tau181 and GFAP may offer more reliable and generalizable utility for large-scale screening programs and multi-center trials where stringent pre-analytical control is challenging. These results underscore the necessity of evaluating not only absolute accuracy but also biomarker stability when implementing plasma-based assays in routine practice.

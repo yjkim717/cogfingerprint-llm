@@ -1,0 +1,5 @@
+Year: 2020
+Author: 251Cane
+URL: https://www.reddit.com/r/YoutubeMusic/comments/hyvdvq/sort_artists_in_library_alphabetically/
+
+I imported my GPM into YTM over the weekend and am trying to figure some things out. &#x200B; When I'm on the web and go to my library and click artists, they're listed in some random order. How can I sort alphabetically? I know you can do this on the app. And to the artists have to be in a vertical list? With the size of my Chrome window I can see 8 artists on the page but with GPM I can see 18 at a time.

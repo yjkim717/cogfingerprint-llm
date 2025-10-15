@@ -1,0 +1,5 @@
+It’s 2024, and I’ll admit—I’ve been swept up in the Next.js hype. Server Actions felt like magic at first: write a function, call it from the frontend, and boom—your data updates. No more fussing with fetch calls or dedicated API routes.
+
+But lately, I’ve been pausing mid-code. When my database queries live right there in my server components, things start to feel… tangled. It’s convenient, sure, but is it sustainable? I can’t help but picture this codebase a year from now. How do I cleanly monitor those tucked-away database calls? What happens when the logic gets complex?
+
+It feels like I’m building a quick campsite instead of laying a foundation for a house. The allure of a truly full-stack React app is powerful, but I’m starting to wonder if some separation of concerns is a feature, not a limitation. Maybe some old-school boundaries still have their place.

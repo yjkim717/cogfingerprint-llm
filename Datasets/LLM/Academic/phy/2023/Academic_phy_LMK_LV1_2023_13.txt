@@ -1,0 +1,4 @@
+"Universal Defect Statistics in Quantum Critical Systems with Long-Range Interactions"
+
+Abstract:
+In this study, we investigate the Kibble-Zurek mechanism in many-body quantum systems exhibiting long-range interactions, focusing on the generation of topological defects across quantum critical points. By employing a combination of numerical and analytical techniques, we demonstrate that the defect statistics adhere to universal scaling laws, independent of the interaction range. Our results establish a direct connection between the Kibble-Zurek mechanism and the emergence of universal defect statistics, shedding new light on the nonequilibrium dynamics of quantum critical systems in 2023.

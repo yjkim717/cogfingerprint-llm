@@ -1,0 +1,5 @@
+There’s a strange kind of irony in spending years studying complex algorithms and hardware architecture, only to find the job market in 2024 seems to be shouting one thing: "Can you build a website?"
+
+I graduated with a Computer Engineering degree full of fire, ready to design systems that could change things. I imagined tackling intricate problems, the kind that required every ounce of that hard-won education. The reality? An endless scroll of job postings for web development roles, many feeling like digital assembly lines. It’s not that the work isn’t valuable—it is—but it’s a far cry from the world-changing impact I’d been preparing for.
+
+It makes you question the value of that deep, specialized knowledge. Was it all just to become another cog in the machine? This career disillusionment is a quiet ache, a gap between the future I studied for and the one I’m being offered. The real project now isn't just finding a job; it's finding a role where my education feels like an asset, not an artifact. The search for personal fulfillment, it turns out, is the most complex system I’ve ever had to debug.

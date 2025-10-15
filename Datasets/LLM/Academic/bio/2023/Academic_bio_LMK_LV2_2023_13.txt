@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract based on the provided summary:
+
+Title: Unveiling Cellular Metabolic Heterogeneity with Single-Cell Spatial Metabolomics
+
+Abstract:
+The intricate interplay between cellular metabolism and protein expression underlies tissue homeostasis and disease. However, dissecting this complex relationship at the single-cell level remains a significant challenge. In this study, we present the scSpaMet framework, a cutting-edge approach that integrates single-cell spatial metabolomics and protein-metabolite profiling to elucidate cell-type specific metabolic patterns in human tissues. By enabling the joint analysis of metabolites and proteins in individual cells, scSpaMet reveals spatially resolved metabolic-protein mappings that expose metabolic reprogramming in distinct cellular populations. Our results demonstrate the power of scSpaMet in advancing tissue systems biology by providing a nuanced understanding of cellular metabolic heterogeneity. The application of scSpaMet has far-reaching implications for understanding metabolic dysregulation in various diseases, paving the way for novel therapeutic strategies in 2023 and beyond.

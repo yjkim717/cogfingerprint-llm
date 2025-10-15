@@ -1,0 +1,1 @@
+"Upgrading my home PC in 2023 has been a headache. I'm stuck on AM5 motherboards, which surprisingly lack SATA M.2 SSD support. The mini ITX options are limited, and AMD's offerings are pricey. I'm torn between sticking with AMD or switching to Intel, but compatibility issues are a concern. The tech world has changed - simple upgrades are now a costly, complicated affair."

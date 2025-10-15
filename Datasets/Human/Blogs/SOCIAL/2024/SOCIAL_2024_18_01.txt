@@ -1,0 +1,5 @@
+Year: 2024
+Author: Cantfrickingthink
+URL: https://www.reddit.com/r/sui/comments/1h3kxjw/can_someone_explain_staking_please/
+
+I’ve looked everywhere on the topic, but what I don’t know is this: when I do liquid staking, does it maintain the same liquidity as SUI? For example, if I start staking on Scallop and receive sSUI, will it eventually swap back to roughly the same value as I initially put in? Let’s say I stake 1 SUI when it’s priced at $3.45, and I leave it staked for a year. If SUI is valued at $5 when I withdraw my stake, will it equal the price of SUI at that moment?

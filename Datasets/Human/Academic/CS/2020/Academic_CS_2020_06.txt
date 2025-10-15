@@ -1,0 +1,8 @@
+Author: A. Gupta
+Title: Do competition and revenue diversification have significant effect on risk-taking? Empirical evidence from BRICS banks
+Paper ID: 2f6a3ca589cafdc54f34e0ff527c52f141fc1305
+Year: 2020
+Author Index: 6
+
+Abstract:
+This study of two-step system generalized methods of moments (2GMM) of dynamic panel data addresses some critical insights of competition and revenue diversification of BRICS banks. The key findings are: (i) There is a significant positive association of market competition in risk-taking. (ii) Revenue diversification of banks supports the portfolio investment theory in risk management, which means that diversified sources of income have apparent influence in risk. (iii) Size has found a heterogeneous effect on risk-taking in the competitive market. (iv) Although, country-wise results of each country are in line with BRICS results in most of the cases, however, few exceptions are also observed in the examination of competition, revenue diversification and size in credit risk and stability of banks. Finally, the study evidences the nonlinear relationship of competition, revenue diversification, and risk.

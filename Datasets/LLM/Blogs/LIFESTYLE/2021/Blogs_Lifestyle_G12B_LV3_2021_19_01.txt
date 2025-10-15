@@ -1,0 +1,3 @@
+## The Little Things That Stop You (and a PC Build Revelation)
+
+Okay, so I dove into building my first PC this year – a daunting task! I landed on an Intel 12700k and an MSI Z690-A board, paired with a sweet AIO cooler. But then I hit a snag: those cryptic compatibility notes! Suddenly, I was obsessing over specific mounting hardware (CW-8960091 or 8960093?). It's a reminder that even in pursuing a big goal, the smallest details can feel overwhelming. Anyone else relate?

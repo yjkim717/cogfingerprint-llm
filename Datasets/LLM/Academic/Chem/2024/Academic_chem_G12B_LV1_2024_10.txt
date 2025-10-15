@@ -1,0 +1,7 @@
+## Abstract: Mechanistic Insights into Methylamine Formation via Carbon Atom Condensation in Interstellar Ices
+
+The formation of methylamine (CH₃NH₂) in interstellar ices remains a key challenge for astrochemical models seeking to explain its observed abundance. This study investigates the fundamental reaction pathways leading to methylamine production through carbon atom (C) addition to ammonia (NH₃) within the cold, dense environments of interstellar molecular clouds. Employing high-level quantum chemical calculations, specifically explicitly correlated second-order perturbation theory (ECP2) with a large basis set, we explored a comprehensive hydrogenation network initiated by C + NH₃. Our results demonstrate that direct carbon atom addition to ammonia significantly favors the initial formation of iminohydroxy radicals (NH₂CHOH), which subsequently undergo sequential hydrogenation steps to yield methylamine.  Importantly, we quantify the relative importance of different reaction channels and identify crucial transition states, providing a detailed mechanistic understanding.  These findings highlight the dominance of a specific condensation pathway and offer refined rate constants for inclusion in astrochemical kinetic networks. The improved parameterization presented here has the potential to significantly enhance the accuracy of models predicting methylamine abundance in star-forming regions.
+
+
+
+**(Word Count: 178)**

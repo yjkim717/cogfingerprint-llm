@@ -1,0 +1,5 @@
+Year: 2022
+Author: GordonRammstein
+URL: https://www.reddit.com/r/Eldenring/comments/tx1d4w/ps5_controller_motion_sensor_causing_extreme_lag/
+
+I'm playing on PC, I have a rtx3060 and and R73800x, 16gb ddr4 ram. With the game open, im only seeing 20-45% utilization, my computer is not running that hard. BUT, I'm using a PS5 controller and whenever I set the controller down, pick it up, or shake it, my game freezes for anywhere between 5-30 seconds, which is frustrating. Is the game somehow picking up the motion sensing and spazzing out? Any idea how to disable this? I'm not using ds4windows or any other 3rd party software at the moment. &#x200B; If this post is better suited for a tech support sub, I'll move it. But, this has only ever happened while playing elden ring, so I figured someone might've had a similar issue.

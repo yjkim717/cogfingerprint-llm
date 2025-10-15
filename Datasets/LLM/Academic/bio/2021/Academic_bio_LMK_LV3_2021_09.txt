@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Unveiling Alzheimer's Disease Proteomic Subtypes in Cognitively Intact Individuals: Implications for Early Detection
+
+Abstract:
+Recent advances in cerebrospinal fluid (CSF) proteomics have enabled the identification of distinct Alzheimer's disease (AD) proteomic subtypes associated with disease progression. This study investigates the presence of these subtypes in cognitively intact individuals lacking amyloid pathology, a hallmark of AD. Utilizing a cohort of amyloid-negative participants, our analysis revealed the existence of AD proteomic subtypes, characterized by distinct protein expression profiles. Notably, these subtypes were not associated with cognitive decline or amyloid burden, suggesting that they may represent early, pre-amyloid signatures of AD. The discovery of these subtypes in cognitively intact individuals implies that they may predispose to AD, offering a potential window for early intervention. Our findings underscore the importance of integrating proteomic analysis into AD research, facilitating the development of novel diagnostic and therapeutic strategies. (2021)

@@ -1,0 +1,5 @@
+ Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a 2022 publication:
+
+**Abstract**
+
+Understanding the nanoscale chemical environment is crucial for optimizing electrochemical CO₂ reduction (ECR) processes. This study, conducted in 2022, utilizes quantum mechanics/molecular dynamics and stochastic simulations to investigate the localized pH within confined water pools—a critical parameter impacting ion pair generation and subsequent electrochemical reactions. Our simulations reveal a significant deviation from bulk pH values, influencing the kinetics of CO₂ dissolution and buffering capacity.  Analysis of ion pair diffusion mechanisms highlights their sensitivity to these nanoscale pH gradients. These findings provide fundamental insights into the complex interplay between water chemistry and ECR performance, contributing to the design of more durable and efficient solar CO₂ conversion devices by elucidating the role of microscale pH fluctuations.

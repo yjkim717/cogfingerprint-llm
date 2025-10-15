@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for a 2024 publication:
+
+**Abstract**
+
+Recent advancements in Contrastive Language-Image Pre-training (CLIP) have demonstrated remarkable zero-shot capabilities. However, a deeper investigation into CLIP’s internal representations reveals a complex and often unpredictable behavior. This work introduces a “second-order lens” – a novel analysis technique – to characterize CLIP neurons, exposing their nuanced selectivity and inherent polysemy. We demonstrate that these neurons exhibit second-order effects, where activation patterns are influenced not solely by the input image, but also by the network’s prior knowledge and learned associations.  Critically, this reveals vulnerabilities to adversarial examples and opportunities for strategic model deception. Furthermore, our findings suggest potential for enhancing zero-shot segmentation by exploiting these learned associations, offering a pathway toward more robust and adaptable visual understanding systems. Future research will explore the broader implications of these second-order dynamics within CLIP and related multimodal models.

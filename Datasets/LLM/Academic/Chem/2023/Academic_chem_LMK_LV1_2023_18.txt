@@ -1,0 +1,5 @@
+Title: Unveiling the Role of Carbon Atom Surface Diffusion in Interstellar Ice: A Pathway to Enhanced Chemical Complexity
+
+Abstract:
+
+The formation of complex organic molecules (COMs) in interstellar environments is a topic of significant interest in astrochemistry. Recent experimental investigations have elucidated the activation energy for carbon atom surface diffusion on interstellar ice analogues, providing crucial insights into the chemical processes governing COM synthesis. Our study builds upon these findings, employing computational models to simulate the diffusion of C-atoms on amorphous water ice surfaces. We demonstrate that the determined activation energy enables a previously unexplored chemical regime, facilitating the formation of COMs via barrierless reactions between diffusing C-atoms and adjacent molecules. This surface-mediated mechanism enhances the chemical complexity of interstellar ices, yielding a diverse array of COMs. Our results underscore the significance of C-atom surface diffusion in interstellar ice chemistry, offering a novel perspective on the origins of complex organic matter in the universe (2023).

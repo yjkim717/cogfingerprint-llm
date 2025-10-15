@@ -1,0 +1,5 @@
+**Abstract**
+
+Recent experiments have demonstrated that vibrational strong coupling (VSC) in optical cavities can significantly modify chemical kinetics. However, the precise quantum mechanical origin of these effects, particularly in the collective regime where many molecules couple to a shared cavity mode, remains contested. Herein, we employ a nonequilibrium open quantum system framework to model the polaritonic dynamics of an ensemble of reacting molecules. Our analysis reveals that the formation of collective vibrational polaritons alone is insufficient to alter thermal reaction rates at equilibrium. Instead, we demonstrate that significant kinetic modifications emerge exclusively under specific nonequilibrium conditions, where a coherent excitation of the polaritonic subsystem disrupts the reaction pathway. These findings reconcile disparate experimental observations and establish a fundamental principle for cavity-catalyzed reactions, guiding the design of polaritonic chemistry protocols.
+
+*(Word Count: 119)*

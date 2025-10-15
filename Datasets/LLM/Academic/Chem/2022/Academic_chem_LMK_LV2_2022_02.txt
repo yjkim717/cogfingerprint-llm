@@ -1,0 +1,5 @@
+Here's a formal abstract based on the provided summary:
+
+Title: Unveiling the Formation of Vinyl-Bearing Molecules on Interstellar Dust Grains via Radical-Mediated Reactions
+
+The interstellar medium (ISM) is a complex environment where various chemical processes occur, leading to the formation of diverse molecules. This study investigates the role of interstellar dust grains in facilitating the formation of vinyl and ethyl molecules through radical-mediated reactions. Using a combination of theoretical and experimental approaches, we elucidate the reaction mechanisms involving radical addition and H abstraction on the surface of dust grains. Our results demonstrate that vinyl-bearing molecules can be efficiently formed via the addition of vinyl radicals to unsaturated hydrocarbons, while ethyl molecules are generated through the H abstraction of ethane by reactive radicals. These findings provide new insights into the chemistry of the ISM and shed light on the molecular origins of complex organic molecules in space, as of 2022. The implications of this research contribute to our understanding of interstellar chemistry.

@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a 2023 publication:
+
+**Abstract**
+
+Recent advancements in single-cell genomics, particularly RNA sequencing (scRNA-seq), have revealed substantial biological stochasticity impacting gene expression profiles. However, disentangling intrinsic cellular noise from technical artifacts inherent in scRNA-seq remains a significant challenge. This work introduces a novel mathematical framework for modeling stochastic gene expression within the context of scRNA-seq data. Leveraging generating functions, we develop a comprehensive model that integrates single-molecule biological fluctuations in RNA transcription with the technical variation introduced during library preparation and sequencing. Through extensive simulations and validation against published biological datasets, our approach demonstrates the ability to accurately characterize and quantify both sources of variability. This methodology offers a powerful tool for researchers seeking to deconvolute cellular heterogeneity and gain deeper insights into the dynamics of stochastic systems biology.

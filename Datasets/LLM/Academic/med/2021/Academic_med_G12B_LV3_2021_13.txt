@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the summary and keywords, written with a medical/toxicological focus and adhering to the specified constraints:
+
+**Abstract**
+
+The European Food Safety Authority (EFSA) released revised scientific guidance in 2021 concerning the authorization and expanded utilization of food enzymes within the European Union. This updated framework mandates a rigorous data submission process for applicants, centering on comprehensive characterization of enzyme sources, manufacturing processes, and inherent physicochemical properties. Crucially, the guidance places heightened emphasis on toxicological assessments, encompassing acute and chronic exposure scenarios, alongside evaluations of potential allergenicity and estimated dietary intake. These refinements aim to strengthen the scientific basis for risk assessments, ensuring consumer safety and aligning regulatory decisions with current understanding of enzyme-related health implications. The guidance directly impacts the authorization pathway for novel food enzymes and underscores the importance of robust safety data.

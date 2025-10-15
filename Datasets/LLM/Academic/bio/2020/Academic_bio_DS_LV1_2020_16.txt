@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The white-rot fungus *Pleurotus ostreatus* efficiently degrades lignin, a key process in global carbon cycling and biotechnological applications. To elucidate the transcriptional network governing ligninolysis, we conducted comparative RNA-seq analysis of wild-type *P. ostreatus* and a suite of ligninolysis-deficient mutants cultivated on a lignocellulosic substrate. Our transcriptomic profiling revealed a significant downregulation of core ligninolytic enzymes, including manganese peroxidases and laccases, in the mutant strains, confirming their pivotal role in native lignin depolymerization. Intriguingly, we observed a concurrent and substantial upregulation of cellulolytic and hemicellulolytic gene suites. This inverse regulatory relationship suggests a compensatory metabolic rewiring, whereby the fungus reallocates transcriptional resources to alternative carbohydrate-active enzymes (CAZymes) when the primary lignin-degradation machinery is impaired. These findings, from a 2020 perspective, provide a refined model of the transcriptional interplay governing wood decay in basidiomycetes and highlight potential targets for strain engineering in industrial lignocellulose bioconversion.

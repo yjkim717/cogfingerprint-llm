@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a bio-related publication in 2020:
+
+**Abstract**
+
+The burgeoning demand for sustainable energy necessitates the development of efficient electrocatalysts for the oxygen evolution reaction (OER). This study investigates a novel heterostructure approach for OER enhancement, focusing on the deposition of FeOOH nanoclusters onto a LaNiO3 perovskite scaffold. Our findings reveal a synergistic catalytic effect arising from the interfacial interaction. Specifically, the FeOOH nanoclusters facilitate enhanced hydroxyl group adsorption and induce a weakening of Ni-O bonds within the LaNiO3 lattice. Crucially, this modification promotes the participation of lattice oxygen in the OER pathway, circumventing kinetic limitations often observed in conventional perovskite catalysts. Electrochemical characterization confirms a substantial reduction in overpotential and improved Faradaic efficiency compared to pristine LaNiO3, signifying a promising strategy for advancing OER electrocatalysis and contributing to sustainable energy technologies.

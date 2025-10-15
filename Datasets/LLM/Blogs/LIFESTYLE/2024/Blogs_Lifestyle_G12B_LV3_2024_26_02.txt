@@ -1,0 +1,3 @@
+## The Data Dive & My Solana Rabbit Hole
+
+Okay, so I went *deep* into my Solana transactions the other day. Needed to analyze a bunch – easily over a thousand! Solscan is great, but hitting that export limit was a bit frustrating. It really highlighted how sometimes, even in the exciting world of blockchain, you bump up against these little roadblocks. Anyone have a favorite Solana explorer that handles large CSV exports easily? Asking for a friend… (who’s currently digging through data!)

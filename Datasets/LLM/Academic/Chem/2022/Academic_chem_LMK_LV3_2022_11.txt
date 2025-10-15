@@ -1,0 +1,6 @@
+Here is a generated abstract inspired by the given summary and keywords:
+
+Title: Enhanced Electrochemical Stability of Li-ion Batteries via Sequential Deposition of Inorganic Separators
+
+Abstract:
+The development of advanced separators is crucial for improving the performance and safety of Li-ion batteries. In this study, we report the fabrication of a novel Al2O3-based inorganic separator via sequential deposition, enabling the creation of integrated cathode-separator-anode multilayers. The as-prepared separator exhibits enhanced electrochemical stability, with a decomposition voltage exceeding 4.5 V vs. Li/Li+. When integrated into Li-ion batteries, the Al2O3-based separator demonstrates improved cycling performance, retaining 85% capacity after 500 cycles at 1C. The enhanced stability is attributed to the uniform and dense microstructure of the separator, which suppresses Li dendrite growth and reduces interfacial resistance. Our findings suggest that the proposed sequential deposition method offers a promising approach for developing high-performance Li-ion batteries with improved safety and longevity.

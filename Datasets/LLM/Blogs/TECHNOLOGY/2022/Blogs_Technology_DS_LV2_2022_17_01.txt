@@ -1,0 +1,5 @@
+It’s 2022, and I’m staring at a spreadsheet full of bank transactions, feeling completely lost. I’m a developer, but my personal finances were a chaotic mess of cryptic descriptions. I thought, surely there’s a standard way to classify all this?
+
+Turns out, there isn’t a universal code. So, I started building my own system with some simple SQL queries. It wasn't about complex tech; it was about telling a story with my own data. Categorizing that "SUPERMART" charge as groceries and "STREAMCO" as entertainment suddenly made my spending patterns crystal clear.
+
+It’s funny how a little bit of code can turn financial anxiety into a moment of clarity and control. Sometimes, the simplest tech solutions are the most personal.

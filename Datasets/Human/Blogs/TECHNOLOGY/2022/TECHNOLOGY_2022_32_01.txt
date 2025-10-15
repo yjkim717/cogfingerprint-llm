@@ -1,0 +1,5 @@
+Year: 2022
+Author: tonyboy101
+URL: https://www.reddit.com/r/activedirectory/comments/u1di5e/active_directory_duplicate_login_domain/
+
+Has anyone managed to make this happen and know how to fix it? I have 2 domains to choose from when assigning users a login domain. However, I have 3 options. I don't seem to have issues between using the 1st or 3rd option. But I would like to get one removed, if possible. This appeared after I set up a test Exchange server and had 3 different domains. I used a \*.local domain to start and wanted to change to the \*.net for the local domain. I followed some instructions I found and was successful moving to the \*.net domain. But then I saw \*.net appear twice in AD Users and Computers. I am sure it is an ADSI modification. But I have no clue where I need to look. Any help is appreciated.

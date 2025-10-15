@@ -1,0 +1,5 @@
+It’s funny—sometimes the simplest tech decisions end up reshaping your whole workflow. For years, I ran my MikroTik CRS354 switch on RouterOS, convinced that complexity meant control. But juggling interfaces and VLANs felt like untangling headphone cords in the dark.
+
+Then, in 2021, I made the switch to SwOS. I’ll admit, I was skeptical at first. Was I “dumbing down” my setup? But within an hour, the clutter vanished. Suddenly, managing multiple VLANs wasn’t a chore—it was intuitive, almost effortless. The interface was clean, the steps straightforward.
+
+It reminded me that in tech, as in life, sometimes the most powerful move is to simplify. Now, my network hums along smoothly, and I’m free to focus on what really matters. Sometimes, less really is more.

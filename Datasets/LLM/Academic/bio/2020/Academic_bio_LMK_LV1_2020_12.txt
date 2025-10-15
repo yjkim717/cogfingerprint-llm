@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given ideas:
+
+"In 2020, we present a novel computational framework to infer cell states from single-cell multiomics data. By integrating protein and RNA quantification, our method extends the concept of RNA velocity to protein velocity, enabling the analysis of multimodal experiments. We demonstrate the utility of our approach in identifying cell state transitions and characterizing cellular dynamics, thereby advancing our understanding of cellular behavior at the single-cell level."

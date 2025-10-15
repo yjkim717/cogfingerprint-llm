@@ -1,0 +1,5 @@
+Title: Enhanced Hydrogenation of CO on Amorphous Solid Water: Implications for Molecular Cloud Chemistry
+
+Abstract:
+
+The astrochemical evolution of molecular clouds is significantly influenced by the chemistry occurring on interstellar icy grain mantles. In this study, we investigate the role of amorphous solid water (ASW) in facilitating diffusive hydrogenation reactions of CO at elevated temperatures. Our results demonstrate that CO embedded in ASW undergoes efficient hydrogenation up to temperatures of approximately 70 K, yielding significant amounts of H2CO and CH3OH. The observed enhancement in hydrogenation reactions is attributed to the porous structure of ASW, which enables the diffusion of H atoms at relatively high temperatures. These findings have important implications for understanding the chemical composition of molecular clouds, suggesting that hydrogenation reactions on ASW can occur under a wider range of conditions than previously thought, thereby influencing the formation of complex organic molecules in these astrophysical environments. (2020)

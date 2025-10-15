@@ -1,0 +1,8 @@
+Author: Yinghui Guo
+Title: Meta-optics empowered vector visual cryptography for high security and rapid decryption
+Paper ID: 12d36de0310f063f71f43e9bc8de025da5258d17
+Year: 2023
+Author Index: 17
+
+Abstract:
+Optical encryption is a promising approach to protecting secret information owing to the advantages of low-power consumption, parallel, high-speed, and multi-dimensional processing capabilities. Nevertheless, conventional strategies generally suffer from bulky system volume, relatively low security level, redundant measurement, and/or requirement of digital decryption algorithms. Here, we propose a general optical security strategy dubbed meta-optics-empowered vector visual cryptography, which fully exploits the abundant degrees of freedom of light as well as the spatial dislocation as key parameters, significantly upgrading the security level. We also demonstrate a decryption meta-camera that can implement the reversal coding procedure for real-time imaging display of hidden information, avoiding redundant measurement and digital post-processing. Our strategy features the merits of a compact footprint, high security, and rapid decryption, which may open an avenue for optical information security and anti-counterfeiting. Usual methods for optical encryption suffer from a tradeoff between the level of security and the complexity of operation given by multiple optical measurements or digital postprocessing. Here, the authors show a multi-d.o.f. metasurface-based vector optical manipulation protocol enabling secure decryption in real time.

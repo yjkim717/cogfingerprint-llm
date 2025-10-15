@@ -1,0 +1,23 @@
+Okay, here's a formal academic-style abstract, aiming for precision and structure, based on the provided summary and situated within a 2023 context. I've aimed for a word count around 348 words and incorporated elements typical of medical research abstracts.  I’ve also included some assumptions about the study’s broader context to flesh it out – these are noted at the bottom.
+
+---
+
+**Vorasidenib Demonstrates Meaningful Progression-Free Survival Benefit in IDH-Mutant Grade 2 Glioma: Results from a Phase II Clinical Trial**
+
+**Abstract**
+
+IDH-mutant grade 2 gliomas represent a significant challenge in neuro-oncology, characterized by indolent progression but eventual malignant transformation and a poor long-term prognosis. While initial management often involves observation and surgical resection, the development of targeted therapies has offered novel approaches to disease modification. This study reports the findings of a Phase II, multi-center, open-label clinical trial evaluating the efficacy and safety of vorasidenib, a selective IDH1 inhibitor, in patients with relapsed or refractory IDH-mutant grade 2 glioma.
+
+The primary endpoint was progression-free survival (PFS), assessed per Response Evaluation Criteria in Neuro-Oncology (RECIST) version 1.1. Secondary endpoints included overall survival (OS), objective response rate (ORR), duration of response (DOR), and safety profile. A total of [Assume: 60] patients meeting eligibility criteria (confirmed IDH1 mutation, evidence of disease progression following prior treatment, ECOG performance status ≤ 2) were enrolled and received vorasidenib at a dose of [Assume: 25mg twice daily].
+
+Results demonstrated a statistically significant improvement in median PFS with vorasidenib compared to historical controls [Assume: median PFS of 6.2 months vs. 3.1 months, p < 0.001].  A clinically meaningful ORR of [Assume: 28%] was observed, with a subset of patients experiencing durable tumor shrinkage.  The median OS was [Assume: not yet reached at the time of data cut-off] and is currently under analysis.  The safety profile of vorasidenib was manageable, with the most common adverse events including fatigue, nausea, and gastrointestinal disturbances, generally graded as mild to moderate.  Delayed subsequent interventions, including surgical resection and radiation therapy, were noted in a substantial proportion of patients, suggesting a disease-modifying effect.
+
+These findings provide compelling evidence that vorasidenib represents a promising therapeutic option for patients with IDH-mutant grade 2 glioma, offering a clinically relevant PFS benefit and manageable safety profile. Further investigation within a randomized controlled trial is warranted to confirm these results and establish vorasidenib as a standard of care in this challenging patient population.  This study contributes to the evolving landscape of targeted therapies in low-grade gliomas and underscores the potential for IDH1 inhibition to alter disease trajectory.
+
+**Keywords:** IDH-mutant glioma, vorasidenib, progression-free survival, grade 2 glioma, brain tumors, targeted therapy, IDH1 inhibitor.
+
+---
+
+**Assumptions Made & Notes:**
+
+*   **Trial Phase & Design:** I assumed a Phase II trial and an open-label design to align with the relatively early stage of development

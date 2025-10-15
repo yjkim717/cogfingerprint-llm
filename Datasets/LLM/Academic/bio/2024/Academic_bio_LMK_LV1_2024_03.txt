@@ -1,0 +1,5 @@
+Title: Advancements in Molecular Genetics of Pleurotus ostreatus: A Paradigm Shift in Mushroom Science
+
+Abstract:
+
+Pleurotus ostreatus, a commercially valuable edible mushroom, has emerged as a model organism in fungal research owing to its unique characteristics and biotechnological applications. Recent breakthroughs in molecular genetics have significantly enhanced our understanding of its genomic architecture and functional genomics. The advent of gene knockout techniques and protein engineering has enabled the elucidation of key regulatory pathways and the development of novel strains with improved traits. As of 2024, the integration of cutting-edge technologies, such as CRISPR-Cas9 and RNA interference, has further accelerated the progress in P. ostreatus research. This review aims to summarize the current state of knowledge on the molecular genetics of P. ostreatus, highlighting its potential as a model mushroom for future research and its applications in biotechnology and sustainable development. The insights gained from this research are poised to revolutionize the field of mushroom science and beyond.

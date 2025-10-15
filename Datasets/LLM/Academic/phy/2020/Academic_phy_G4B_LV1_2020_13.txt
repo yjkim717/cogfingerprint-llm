@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a physics publication in 2020:
+
+**Abstract**
+
+Recent theoretical advances have posited a fundamental link between quantum information processing and thermodynamic constraints. This work presents experimental evidence demonstrating the energy dissipation inherent within quantum logic gates, directly correlating with fluctuations in entropy. Utilizing a novel measurement protocol, we quantify the energy cost associated with single- and two-qubit gate operations, revealing a significant dependence on operational temperature. Our findings align with Landauer’s principle, suggesting that information erasure – a core process in quantum computation – inevitably generates heat. Furthermore, we observe a non-equilibrium thermodynamic regime characterized by persistent energy fluctuations, impacting gate fidelity. These results underscore the critical need for robust thermal management strategies within scalable quantum circuits and provide empirical support for the broader theoretical framework connecting quantum mechanics and thermodynamics.

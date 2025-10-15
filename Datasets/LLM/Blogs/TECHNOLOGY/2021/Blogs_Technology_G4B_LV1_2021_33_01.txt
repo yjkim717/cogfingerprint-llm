@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and instructions, aiming for a conversational tone and around 95 words, set in 2021:
+
+---
+
+**The Krunker IO Rollercoaster**
+
+Okay, so I was really digging Krunker IO – a surprisingly fun FPS game – but Brave browser was giving me a headache. I cranked up the hardware acceleration, set frame caps, *everything*, and still got these wild FPS drops. One minute it’d be silky smooth at 120, the next I’d be stuck at a stuttering 60. It felt like my computer was having a mid-game meltdown. Seriously frustrating!  Anyone else experiencing this Brave/Krunker weirdness in 2021?

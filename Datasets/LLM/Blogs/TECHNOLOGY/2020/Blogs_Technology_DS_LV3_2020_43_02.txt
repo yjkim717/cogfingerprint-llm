@@ -1,0 +1,1 @@
+Remember those frantic pre-2020 commits, hoping you didn't break the Django app? I finally automated my Python workflow with a pre-commit git pipeline. It’s like a trusty co-pilot, catching my silly errors before they ever see the light of day.

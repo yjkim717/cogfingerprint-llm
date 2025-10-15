@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Surface Engineered Pt-Ni Nano-Octahedra for Enhanced Oxygen Reduction Reaction via Gaseous Etching
+
+Abstract:
+
+The sluggish kinetics of the oxygen reduction reaction (ORR) remains a significant bottleneck in the widespread adoption of fuel cells. To address this challenge, we herein report a facile gaseous etching strategy to surface engineer Pt-Ni nano-octahedra, resulting in significantly enhanced electrocatalytic performance. The controlled etching process modulates the surface composition and morphology of the nano-octahedra, yielding a substantial improvement in both mass and specific activity toward ORR. The optimized Pt-Ni nano-octahedra exhibit a mass activity of X A mgPt^-1 and a specific activity of Y μA cm^-2, representing a Z-fold enhancement compared to commercial Pt/C catalysts. The enhanced electrocatalytic performance is attributed to the synergistic effects of surface engineering and the optimized Pt-Ni alloy structure. This study provides a promising pathway for designing high-performance electrocatalysts for fuel cell applications. (2023)

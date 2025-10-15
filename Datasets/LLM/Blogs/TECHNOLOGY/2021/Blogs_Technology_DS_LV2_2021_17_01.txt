@@ -1,0 +1,7 @@
+It was one of those late nights in 2021, the kind where your coffee’s gone cold and your regex patterns still won’t behave. I’d just migrated our project from Java 8 to 11—simple enough, right? Or so I thought.
+
+Suddenly, pattern matching that had worked flawlessly for years started throwing curveballs. My first instinct? Blame myself, of course. Had I missed a dependency? Misconfigured something? Hours of debugging later, I was no closer to an answer.
+
+Then it hit me: what if it wasn’t me? What if the JVM itself had shifted under my feet? A quick dive into the release notes revealed subtle changes in regex handling between versions. It wasn’t a bug in my code, but an evolution in the platform.
+
+That moment taught me a humbling lesson about upgrades—they’re not just about new features. Sometimes, they quietly reshape the ground we’ve built on. And as developers, our job is to adapt, even when the rules change mid-game.

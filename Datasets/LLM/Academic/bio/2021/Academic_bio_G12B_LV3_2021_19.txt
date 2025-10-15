@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, written in a formal style and adhering to the specified constraints:
+
+**Abstract**
+
+The oxygen evolution reaction (OER) represents a critical bottleneck in electrochemical water splitting for sustainable hydrogen production. This study, conducted in 2021, investigates the enhanced OER electrocatalysis observed in Metal-Organic Framework (MOF)/NiFe-Layered Double Hydroxide (LDH) composite catalysts. Our findings demonstrate that surface-adsorbed carboxylate ligands play a pivotal role, influencing catalytic activity through a mechanism involving electron redistribution within the NiFe active sites and subsequent optimization of the d-band center. Furthermore, we propose that Lewis base interactions facilitated by these ligands accelerate proton transfer kinetics. These results highlight the importance of ligand engineering in designing highly efficient and robust OER electrocatalysts.

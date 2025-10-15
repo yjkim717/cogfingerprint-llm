@@ -1,0 +1,19 @@
+Here is a formal academic-style abstract inspired by the given summary:
+
+**Title:** Plasma Phosphorylated Tau 231 as a Peripheral Biomarker for Early Alzheimer's Disease Diagnosis
+
+**Abstract:**
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid-β (Aβ) plaques and tau pathology in the brain. Recent advances in biomarker research have focused on identifying peripheral markers that can detect AD pathology in its early stages. This study investigates the diagnostic potential of plasma phosphorylated tau 231 (p-tau231) as a biomarker for AD. We evaluated the performance of plasma p-tau231 in detecting AD pathology, particularly in comparison to other established biomarkers.
+
+Using a cohort of 200 participants, including individuals with mild cognitive impairment (MCI), AD dementia, and cognitively normal controls, we measured plasma p-tau231 levels using a novel immunoassay. Our results show that plasma p-tau231 concentrations were significantly elevated in individuals with AD dementia and MCI compared to controls. Notably, plasma p-tau231 outperformed other biomarkers, including plasma Aβ42/Aβ40 ratio and neurofilament light chain (NfL), in detecting AD pathology, as confirmed by positron emission tomography (PET) imaging.
+
+Receiver operating characteristic (ROC) curve analysis revealed that plasma p-tau231 had an area under the curve (AUC) of 0.92 for distinguishing AD dementia from controls, and 0.85 for identifying MCI individuals with positive Aβ PET scans. Furthermore, plasma p-tau231 levels correlated with tau PET signal in Braak stage I-II regions, suggesting a strong association with early tau pathology.
+
+Our findings indicate that plasma p-tau231 is a promising biomarker for detecting AD pathology, particularly in its early stages. The superior diagnostic performance of plasma p-tau231 compared to other biomarkers highlights its potential for improving AD diagnosis and monitoring disease progression. As a peripheral biomarker, plasma p-tau231 offers a minimally invasive and cost-effective alternative to imaging biomarkers, making it an attractive tool for large-scale screening and clinical trials. Future studies should validate these findings in larger, diverse cohorts and investigate the utility of plasma p-tau231 in monitoring disease progression and treatment response.
+
+**Keywords:** Alzheimer's disease, plasma p-tau231, biomarker, amyloid-β, tau pathology.
+
+Word count: 406. 
+
+Year context: This study was conducted in 2021.

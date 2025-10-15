@@ -1,0 +1,5 @@
+## The Subscription Cliff and the Fear of Losing My Design Toolkit
+
+It's 2020, and the looming renewal date for my Adobe Creative Cloud subscription always brings a familiar wave of anxiety. Lately, I've been wrestling with the feeling of being locked into a system. A recent question in a design forum – someone desperately seeking alternatives for exporting InDesign files before their subscription ended – really resonated. 
+
+It sparked a thought: are we, as creatives, becoming too reliant on these giants? I've started exploring open-source options like Scribus. It's a small shift, but a vital one, a reminder that creative freedom shouldn't be tied to a monthly fee.

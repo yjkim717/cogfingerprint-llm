@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+Anthropogenic climate change is driving significant shifts in species distributions, with mountain ecosystems serving as critical sentinels due to their steep elevation gradients which compress climatic variation over short distances. However, a critical gap in our predictive capacity arises from the lack of standardized, long-term data on how these shifts interact with the concurrent threat of non-native plant invasions. To address this, the Mountain Invasion Research Network (MIREN) has developed and implemented a comprehensive, globally applicable protocol for the systematic monitoring of plant species distributions along elevation transects. This methodology standardizes the recording of native and non-native species richness, abundance, and community composition at fixed sampling points from lowland to alpine zones, enabling robust cross-continental comparisons. Initiated in 2022, this coordinated effort provides an unprecedented baseline against which to quantify the velocity of climate-driven range shifts and the dynamics of biotic homogenization. Preliminary analyses from this global observatory network are already revealing that non-native species are not only ascending in elevation but are doing so at rates exceeding those of native flora, potentially due to broader climatic tolerances and human-aided dispersal. This work underscores the necessity of integrated, standardized monitoring to disentangle the synergistic effects of climate change and biological invasions. The MIREN protocol thus establishes a vital framework for forecasting future biodiversity patterns and informing proactive conservation strategies in these globally vulnerable ecosystems.
+
+(Word Count: 212)

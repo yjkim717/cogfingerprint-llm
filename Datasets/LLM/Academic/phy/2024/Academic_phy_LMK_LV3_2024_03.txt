@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Abstract: We investigate the decoherence dynamics of quantum systems influenced by black holes at finite temperatures. Employing an effective theory framework, our analysis reveals that black hole-induced decoherence aligns with established principles governing quantum black holes. Notably, analogous decoherence effects are observed in ordinary matter at finite temperatures, underscoring a profound connection between quantum gravity and thermodynamic phenomena. (2024)"

@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Abstract: We investigate the radiative effects on the gravitational scattering of two point masses within the framework of General Relativity. Employing a post-Newtonian expansion, we derive explicit expressions for the radiation-reaction contributions to the changes in 4-momentum. Our results demonstrate the significance of radiative losses in the classical scattering process, providing a comprehensive understanding of the interplay between gravitational radiation and the dynamics of binary systems. This work builds upon recent advances in the field, presenting a detailed analysis of radiation-reaction effects as of 2021."

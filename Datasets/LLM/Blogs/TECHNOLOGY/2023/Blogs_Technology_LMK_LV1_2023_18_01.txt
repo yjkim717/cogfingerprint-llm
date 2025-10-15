@@ -1,0 +1,13 @@
+Upgrading to the Latest: A VMware Nightmare
+
+As I sat in front of my computer, sipping my morning coffee, I couldn't help but feel a sense of excitement and trepidation. It was a typical Monday morning in 2023, and I was about to tackle the task of upgrading our company's vCenter and vSphere hosts from version 7 to 8. I had done this before, but I knew it was never a straightforward process.
+
+The upgrade itself went relatively smoothly. I followed the steps, clicked the buttons, and waited for the progress bars to complete. But, as I soon discovered, the real challenge was yet to come. After the upgrade, our vSphere environment was throwing a license issue error. The dreaded "vSphere license is not available" message stared back at me, and I felt my heart sink.
+
+Panic started to set in as I frantically searched online forums and VMware documentation for a solution. I checked the license keys, ensured they were correctly assigned, and verified that the vCenter server was properly configured. Still, the error persisted. I was starting to feel like I was in a never-ending loop of troubleshooting.
+
+As I dug deeper, I realized that the issue was related to the upgrade process itself. It seemed that the new version of vCenter had somehow "lost" the license information during the migration. A quick call to VMware support, and I was on the phone with a helpful engineer who walked me through the process of re-activating the licenses.
+
+The resolution was surprisingly simple: re-register the vCenter server with the VMware license server. Why wasn't this step included in the upgrade documentation, I wondered? Nevertheless, the issue was resolved, and our vSphere environment was back up and running.
+
+As I reflected on the experience, I realized that upgrading to the latest version of vCenter and vSphere was not just about getting the latest features; it's also about ensuring compatibility and avoiding potential pitfalls. While the process was frustrating at times, it was a valuable learning experience. So, to anyone embarking on a similar upgrade journey, be prepared for the unexpected, and don't be afraid to reach out for help when you need it.

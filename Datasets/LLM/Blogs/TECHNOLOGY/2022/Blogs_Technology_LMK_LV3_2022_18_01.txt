@@ -1,0 +1,1 @@
+"As we navigate the digital landscape in 2022, managing email access on mobile devices is crucial. I'm exploring ways to block Outlook syncing on Office365 for unauthorized devices. Can we selectively enable the app for quarantined devices? Let's dive into the world of mobile device management and device access rules."

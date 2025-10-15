@@ -1,0 +1,10 @@
+ Here's a formal academic-style abstract, suitable for a computer science conference or journal, based on the provided summary and adhering to the requested constraints:
+
+**Abstract**
+
+Recent advances in contrastive language-image pre-training (CLIP) have demonstrated remarkable zero-shot capabilities across diverse vision tasks. However, a comprehensive understanding of the internal representations learned by CLIP remains limited. This paper presents a novel approach to interpreting CLIP's neural activity by systematically analyzing second-order effects – the impact of small, localized perturbations on neuron activations. Our investigation reveals a significant degree of polysemy within CLIP neurons, indicating that a single neuron often encodes multiple, semantically related visual concepts. This finding challenges the notion of strictly localized feature representation prevalent in earlier convolutional neural networks.
+
+Crucially, we leverage this understanding of neuron behavior to develop a targeted adversarial example generation technique specifically tailored for CLIP. By exploiting identified polysemies, we can craft subtle image perturbations that reliably induce misclassification without significantly altering perceived visual similarity. Furthermore, we demonstrate the applicability of these insights to zero-shot segmentation, using neuron activations to guide the delineation of objects in novel scenes. Our results underscore the importance of higher-order analysis in understanding large-scale vision-language models and demonstrate the potential for leveraging internal representations for practical applications beyond classification. We release our code and findings to facilitate further research in interpretable AI and robust vision systems.
+
+
+

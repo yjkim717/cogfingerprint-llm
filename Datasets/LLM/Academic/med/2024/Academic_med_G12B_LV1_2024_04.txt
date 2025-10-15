@@ -1,0 +1,9 @@
+## Abstract: Contemporary Adherence to NCCN Guidelines in the Management of Early-Stage Breast Cancer: A Focus on Systemic Therapy and Multidisciplinary Collaboration
+
+**Objective:** This study examines contemporary adherence to National Comprehensive Cancer Network (NCCN) guidelines in the management of non-metastatic breast cancer within a multidisciplinary framework. Recognizing the evolving landscape of systemic therapies and the increasing emphasis on personalized treatment approaches, we aimed to evaluate current practices and identify potential areas for optimization in 2024.
+
+**Methods:** A retrospective chart review of patients diagnosed with stage 0-III breast cancer treated at a tertiary care center between January 2022 and December 2023 was conducted. Data were analyzed to assess concordance with NCCN guideline recommendations regarding surgical management, adjuvant systemic therapies (including endocrine therapy, chemotherapy, and targeted agents), and the integration of multidisciplinary team input (medical oncology, surgery, radiation oncology).
+
+**Results:** Preliminary findings suggest generally high adherence to NCCN guidelines regarding surgical approaches. However, variations were observed in the application of adjuvant systemic therapies, particularly concerning the incorporation of genomic assays and novel targeted therapies. The influence of multidisciplinary tumor boards on treatment decisions appeared robust, yet opportunities exist to further streamline communication and ensure consistent guideline application across specialties.
+
+**Conclusion:** Continued monitoring of guideline adherence and further investigation into the impact of genomic profiling and multidisciplinary collaboration are crucial for optimizing outcomes in early-stage breast cancer.

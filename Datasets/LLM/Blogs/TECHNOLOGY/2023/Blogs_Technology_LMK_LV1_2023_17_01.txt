@@ -1,0 +1,11 @@
+**Designing a Rock-Solid Backup System for My Home Lab**
+
+As I sat in front of my home lab setup in early 2023, I realized that my data was vulnerable to loss due to hardware failure or accidental deletion. I decided to design a robust backup system using restic, a popular open-source backup tool. My plan was to use removable USB drives as the backup storage media, rotating them offsite to ensure data safety.
+
+To automate the backup process, I needed to mount the USB drives at a consistent mount point. I edited my `/etc/fstab` file to achieve this, but soon encountered a snag. When I plugged in multiple USB drives, they would mount at the same point, causing conflicts. I was stumped.
+
+After some trial and error, I discovered that using a udev rule to dynamically create mount points based on the USB drive's UUID was the solution. This allowed me to plug in multiple drives, and they would be mounted at unique locations.
+
+With my USB drives mounting correctly, I configured restic to backup my critical data to the mounted drives. The rotation process is now seamless: I simply plug in a drive, and restic takes care of the rest.
+
+My home lab backup system is now rock-solid, and I've gained peace of mind knowing that my data is safe. The journey was not without its challenges, but the learning experience was invaluable. If you're considering building a similar setup, I hope my experience will save you some trial and error.

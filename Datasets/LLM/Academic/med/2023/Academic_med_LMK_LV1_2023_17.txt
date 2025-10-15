@@ -1,0 +1,15 @@
+Title: Utility of Plasma p-tau217 in Streamlining Amyloid-β Positivity Detection among Mild Cognitive Impairment Patients
+
+Abstract
+
+The diagnosis of Alzheimer's disease (AD) in its early stages remains a significant challenge due to the complexity of its clinical presentation and the need for invasive and costly confirmatory tests. Recent advancements in blood biomarkers have shown promise in simplifying the diagnostic workflow. This study investigates the utility of a two-step workflow utilizing plasma p-tau217 to identify amyloid-β positivity in patients with mild cognitive impairment (MCI), a prodromal stage of AD.
+
+A cohort of 250 MCI patients underwent initial screening using a plasma p-tau217 assay. Those with p-tau217 levels above a predefined threshold were considered at high risk for amyloid-β positivity and proceeded to confirmatory testing using amyloid positron emission tomography (PET) or cerebrospinal fluid (CSF) analysis.
+
+The results demonstrated that the plasma p-tau217 assay effectively stratified the MCI cohort, with 70% of participants having p-tau217 levels below the threshold, thereby potentially avoiding the need for further confirmatory testing. Among those with elevated p-tau217, 85% were confirmed to be amyloid-β positive, indicating a high positive predictive value.
+
+The implementation of a two-step workflow incorporating plasma p-tau217 as a first-line screening tool significantly reduced the necessity for confirmatory testing by 70%, thereby streamlining the diagnostic process. The findings of this study support the integration of plasma p-tau217 into clinical practice as a cost-effective and non-invasive means of identifying MCI patients at high risk for AD, facilitating timely intervention and potentially improving patient outcomes.
+
+The use of plasma p-tau217 in this context aligns with the ongoing shift towards a more biomarker-based diagnosis of AD, as proposed by recent diagnostic frameworks. The high sensitivity and specificity of this assay for detecting amyloid-β positivity underscore its potential as a valuable tool in the diagnostic armamentarium for AD. Furthermore, the reduction in confirmatory testing requirements has significant implications for healthcare resource allocation, mitigating the economic burden associated with AD diagnosis.
+
+In conclusion, this study demonstrates the utility of a plasma p-tau217-based two-step workflow in efficiently identifying amyloid-β positivity among MCI patients. The findings support the adoption of this approach in clinical practice, potentially revolutionizing the diagnostic pathway for AD. Future studies should focus on further validating these findings and exploring the broader applications of plasma p-tau217 in AD diagnosis and management.

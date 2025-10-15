@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Advancing Ecological Forecasts Through High-Resolution Microclimate Data: An Overview of the SoilTemp Initiative**
+
+**Abstract**
+
+A significant limitation in forecasting species' responses to climate change is the resolution mismatch between coarse-gridded macroclimate data and the fine-scale thermal environments (microclimates) that organisms actually experience. These microclimates, particularly near-surface and soil temperatures, are critical drivers of physiological processes, phenology, and species distributions. To bridge this gap, we established the SoilTemp initiative, a global database collating in-situ temperature measurements from a vast network of terrestrial sensors. This database provides an unprecedented spatiotemporal resolution, capturing thermal gradients at scales relevant to most plants and ectotherms. By integrating these high-resolution data with topographic, vegetative, and soil-property covariates, we are developing novel interpolation techniques to generate accurate, gridded microclimate estimates. The primary application of this resource is to refine ecological niche models and population dynamic forecasts, moving beyond the assumption that organisms experience free-air temperatures. Initiated in 2020, SoilTemp represents a foundational step towards a mechanistic understanding of how local thermal heterogeneity mediates the impacts of global climate change on biodiversity.

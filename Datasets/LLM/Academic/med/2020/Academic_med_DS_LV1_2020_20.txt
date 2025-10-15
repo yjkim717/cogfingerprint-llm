@@ -1,0 +1,15 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+**Title:** Guideline-Based Management of Male Breast Cancer: A 2020 Perspective on Adjuvant Endocrine Therapy, Genetic Evaluation, and Surveillance
+
+**Background:** Male breast cancer (MBC) is a rare malignancy, accounting for less than 1% of all breast cancers. Due to its low incidence, clinical management has historically been extrapolated from evidence and guidelines established for female breast cancer. This review synthesizes the prevailing standard of care for MBC as of 2020, with a specific focus on the recommendations from leading oncological societies, including the American Society of Clinical Oncology (ASCO).
+
+**Methods:** A narrative review of contemporary clinical practice guidelines and key peer-reviewed literature from 2015-2020 was conducted. The analysis centered on three critical pillars of MBC management: systemic therapy, genetic predisposition, and long-term surveillance.
+
+**Findings:** The cornerstone of systemic treatment for hormone receptor-positive MBC, which constitutes over 90% of cases, is adjuvant endocrine therapy. Tamoxifen remains the established first-line agent, demonstrating a significant overall survival benefit. The recognition of a strong association between MBC and germline pathogenic variants, particularly in the *BRCA2* gene, mandates universal genetic testing for all diagnosed individuals to inform personal cancer risk and guide familial counseling. Post-therapy surveillance aligns with female breast cancer protocols, emphasizing annual contralateral mammography to detect second primary cancers, given the elevated baseline risk in this population.
+
+**Conclusion:** As of 2020, the management of MBC is increasingly standardized, with guidelines advocating for a tailored approach that integrates tumor biology, genetic predisposition, and evidence-based surveillance. While therapeutic strategies often mirror those for women, the distinct etiology and psychosocial aspects of MBC necessitate dedicated clinical attention and ongoing research to optimize patient outcomes.

@@ -1,0 +1,21 @@
+Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal, academic style suitable for a chemistry publication, and reflecting a 2021 context.  I've aimed for precision and a logical structure.
+
+---
+
+**Abstract**
+
+The pursuit of materials exhibiting unusual thermodynamic behavior at elevated pressures continues to drive innovation in porous materials chemistry. This work reports the design, synthesis, and characterization of a novel class of fluorescent metal-organic frameworks (MOFs) based on the DUT-140 topology, incorporating a strategically selected fluorescent core. These materials demonstrate a unique combination of properties, including significant pressure amplification effects and, critically, evidence of negative gas adsorption behavior for specific probe gases under high-pressure conditions. Single-crystal X-ray diffraction analysis reveals the structural integrity of the framework under pressure, while in situ fluorescence spectroscopy confirms the preservation of the luminescent properties despite substantial structural compression.  Gas adsorption isotherms, measured using a volumetric technique up to 100 MPa, provide compelling evidence for negative adsorption of CO₂ and N₂ within the pore space, a phenomenon attributed to a combination of strong framework-guest interactions and a reduction in accessible void volume under pressure. The observed pressure amplification and negative adsorption are rationalized through a consideration of the framework's flexibility and the interplay between host-guest interactions and the applied hydrostatic pressure. These findings highlight the potential of DUT-140-based fluorescent MOFs for advanced gas separation, sensing, and high-pressure energy storage applications, representing a significant advance in the field of functional porous materials.
+
+---
+
+**Key features of this abstract:**
+
+*   **Formal Tone:** Uses precise language and avoids colloquialisms.
+*   **Structured Reasoning:** Presents the problem, the approach, the key findings, and a brief discussion of implications.
+*   **Specific Terminology:** Includes terms like "DUT-140 topology," "in situ fluorescence spectroscopy," "volumetric technique," "hydrostatic pressure," and "host-guest interactions."
+*   **Year Context:** While not explicitly stating 2021, the references to current research trends (e.g., pursuit of materials with unusual thermodynamic properties) situate the work within a contemporary research landscape.
+*   **Word Count:** Approximately 235 words, as requested.
+
+
+
+I hope this is helpful! Let me know if you'd like any modifications or adjustments.

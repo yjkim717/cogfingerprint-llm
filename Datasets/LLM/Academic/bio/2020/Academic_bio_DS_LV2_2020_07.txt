@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract, written from the perspective of a researcher in 2020.
+
+***
+
+**Abstract**
+
+Accurately quantifying microclimate is critical for forecasting biological responses to climate change, as the conditions experienced by organisms often deviate substantially from standard macroclimate data. A primary limitation in advancing this field has been the scarcity of harmonized, high-resolution temperature data at ecologically relevant scales. To address this, we present the SoilTemp database, a global initiative consolidating fine-scale, near-surface temperature measurements. This database leverages a collaborative network to aggregate data from thousands of sensors, capturing thermal regimes at the soil-air interface and in the topsoil layers—the primary habitats for many plants, invertebrates, and microbial communities. By providing an unprecedented spatiotemporal resolution, SoilTemp enables robust analyses of the drivers of microclimatic variation across complex terrain and vegetation structures. We anticipate this resource will be transformative for refining species distribution models, elucidating the physiological underpinnings of phenological events, and predicting ecosystem process rates under future climate scenarios. The database thus serves as a foundational tool for bridging the gap between macroclimate projections and the actual thermal environments that govern biodiversity and ecosystem function.

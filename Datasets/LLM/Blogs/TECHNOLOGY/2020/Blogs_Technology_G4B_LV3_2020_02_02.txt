@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone, suitable for 2020:
+
+---
+
+**The Ghost in the Machine**
+
+Remember the thrill of finally getting that *Super Mario 64* ROM working? I do. But lately, something’s been…off. I’m battling Android 11 and Citra, and this new “scoped storage” thing is a real pain. It’s like my emulator is hoarding all my precious game files, refusing to let me access them from an SD card. It’s frustrating, this feeling of being blocked from a beloved hobby.  It makes you wonder about the little compromises tech makes in the name of security – are we really gaining anything, or just losing a bit of joy?

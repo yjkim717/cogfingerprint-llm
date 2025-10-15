@@ -1,0 +1,3 @@
+It’s 2022, and I’m staring at my React Native Web app, wondering why my drawer navigation looks so cramped on desktop screens. I’d spent hours tweaking components, but something felt off—like a puzzle missing its final piece. Then it hit me: margins. Not the most glamorous topic, I know, but sometimes the smallest details make the biggest difference.
+
+Adding that bit of breathing room with Expo’s styling tools transformed the entire experience. It’s funny how a little space can turn a cluttered interface into something polished and inviting. In tech, as in life, giving things room to breathe often leads to clarity. Who knew a few pixels could teach me so much?

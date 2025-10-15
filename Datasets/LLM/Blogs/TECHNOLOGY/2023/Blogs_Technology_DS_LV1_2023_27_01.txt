@@ -1,0 +1,13 @@
+Of course, here is an original blog post inspired by your request.
+
+***
+
+### My Digital Battlefield: A Tech Support Story
+
+It’s funny how a hobby can reframe your entire professional life. Lately, my Dungeons & Dragons group has been through the wringer; we’ve lost two beloved characters to failed saving throws and bad positioning. It’s made me paranoid. My new mission? Build a wizard dedicated entirely to battlefield control—someone who protects the party, manipulates the enemy, and prevents disaster before it happens.
+
+And you know what? It hit me that this is exactly what I do in my day job in IT. I’m not slinging fireballs; I’m the support caster for our company’s entire digital ecosystem.
+
+My "concentration saving throws" are the constant, low-grade stress tests of keeping our core systems online against phishing attempts, unexpected updates, and user error. A single critical failure here doesn’t just mean a character sheet gets retired; it can mean lost revenue and massive headaches. My "control spells" are the automated security protocols, the backup routines, and the clear documentation I put in place to shape the "battlefield"—our network—to our advantage.
+
+In 2023, with AI and remote work expanding the attack surface daily, being a paranoid support specialist isn’t a negative. It’s a necessity. My goal isn’t to be the flashy hero, but the one who ensures the party—my team—never has to make that dreaded death-saving throw in the first place. It’s a different kind of power, and honestly, it’s just as rewarding.

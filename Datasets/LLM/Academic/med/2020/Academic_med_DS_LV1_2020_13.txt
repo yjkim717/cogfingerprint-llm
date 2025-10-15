@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**A Novel Risk-Based Prioritization Framework for the Toxicological Assessment of Non-Listed Substances in Food Contact Materials**
+
+**Year: 2020**
+
+The regulatory landscape for Food Contact Materials (FCMs) in the European Union is primarily governed by positive lists of authorized substances with established Specific Migration Limits (SMLs). However, a significant number of non-listed substances, including impurities, reaction intermediates, and non-intentionally added substances (NIAS), are present in final materials, posing a potential challenge to public health. This study aimed to develop and apply a systematic, risk-based prioritization methodology to identify non-listed FCM substances requiring urgent toxicological evaluation. A comprehensive inventory of 451 substances lacking an SML was compiled from regulatory dossiers and scientific literature. A two-tiered procedure was implemented: first, substances were screened for carcinogenic, mutagenic, or reprotoxic (CMR) properties according to CLP regulations; second, a refined hazard assessment was conducted for the remaining substances, deriving a provisional Acceptable Daily Intake (ADI) based on available toxicological data (e.g., NOAEL, TTC). Exposure was estimated using conservative migration models. Substances were subsequently ranked by their margin of exposure (MoE) between the provisional ADI and the estimated daily intake. The application of this framework identified three substances as high-priority for risk management, exhibiting high hazard potential and insufficient MoE. This work establishes a transparent and scientifically robust tool for regulatory bodies, enabling the efficient allocation of resources towards the safety assessment of the most hazardous non-listed FCM substances, thereby strengthening the protection of consumer health.

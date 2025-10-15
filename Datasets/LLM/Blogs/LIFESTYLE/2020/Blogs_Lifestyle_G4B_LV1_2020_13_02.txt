@@ -1,0 +1,12 @@
+Okay, here's a reflective blog post, aiming for a conversational tone and around 97 words, inspired by the Hyper-V/Wake-on-LAN theme and set in 2020:
+
+---
+
+**Disconnected, But Still Connected**
+
+It’s weird, isn’t it? 2020. Everyone glued to screens, yet feeling increasingly…disconnected. I found myself obsessing over network configurations – setting up Hyper-V guests to talk to my local network, even using Wake-on-LAN to gently rouse my laptop. It felt oddly symbolic: wanting to control the connections, to be reliably reachable, even when everything felt chaotic outside. Maybe it’s just a desire for order in a strange new world. 
+
+
+---
+
+Do you want me to tweak this, or perhaps write a post on a different topic?

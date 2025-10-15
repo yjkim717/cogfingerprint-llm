@@ -1,0 +1,13 @@
+Title: Optimizing Alzheimer's Disease Diagnosis: A Cost-Effective Two-Step Workflow Utilizing Plasma P-Tau217-Based Risk Stratification
+
+Abstract:
+
+The escalating prevalence of Alzheimer's disease (AD) necessitates the development of efficient and cost-effective diagnostic strategies. Recent advancements in biomarker research have highlighted the potential of plasma p-tau217 as a reliable indicator of amyloid-β positivity, a hallmark of AD pathology. This study investigates the efficacy of a two-step diagnostic workflow incorporating plasma p-tau217-based risk stratification for patients with mild cognitive impairment (MCI).
+
+Our proposed workflow involves an initial screening using plasma p-tau217 levels to stratify patients into high-risk and low-risk categories. Patients classified as high-risk undergo subsequent confirmatory testing using established amyloid-β imaging or cerebrospinal fluid (CSF) biomarkers. Conversely, those deemed low-risk are exempt from further testing, thereby reducing the economic burden and resource utilization associated with confirmatory diagnostic procedures.
+
+We evaluated the diagnostic performance of this two-step workflow in a cohort of MCI patients. Our results demonstrate that plasma p-tau217-based risk stratification accurately identifies individuals with a high likelihood of amyloid-β positivity, thereby enabling targeted confirmatory testing. Notably, this approach substantially reduced the need for costly and resource-intensive confirmatory tests by approximately 60%, while maintaining a high diagnostic accuracy for AD.
+
+The implementation of this two-step workflow is poised to revolutionize the diagnostic landscape for AD. By leveraging plasma p-tau217 as a frontline biomarker, clinicians can efficiently triage patients, reserving more invasive and expensive diagnostic procedures for those at highest risk. This strategy not only streamlines the diagnostic process but also mitigates healthcare costs, making AD diagnosis more accessible and sustainable for a broader patient population.
+
+In conclusion, our findings support the integration of plasma p-tau217-based risk stratification into the diagnostic workflow for MCI patients, offering a cost-effective and efficient approach to AD diagnosis. As the global healthcare community continues to grapple with the challenges posed by AD, this innovative strategy has the potential to significantly impact clinical practice, facilitating timely interventions and improving patient outcomes.

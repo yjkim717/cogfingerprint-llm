@@ -1,0 +1,3 @@
+**Abstract**
+
+This research investigates the application of dielectric metasurfaces for advanced temporal pulse manipulation. Utilizing femtosecond laser pulses in the near-infrared spectrum, we demonstrate the capability of custom-designed metasurfaces to engineer the temporal polarization state of the transmitted beam. Employing a time-domain analysis, we observed significant control over pulse shape, specifically achieving alterations in leading-edge temporal profiles. These findings highlight the potential of metasurfaces as active components within ultrafast optics, offering a novel route for precise pulse shaping and enabling sophisticated temporal modulation schemes.

@@ -1,0 +1,5 @@
+It was just another Tuesday in early 2022 when I noticed something strange while watching my trading screen. I’d been tracking a particular stock, and suddenly, the bid-ask spread started cycling rapidly—almost like a digital heartbeat gone haywire. Then came the phantom green candle: a brief, artificial spike that vanished as quickly as it appeared, leaving no trace but my confusion.
+
+High-frequency trading algorithms were clearly at play, creating market anomalies that felt more like illusions than investments. These micro-transactions, executed in milliseconds, seemed designed to suppress natural price movement, making me question what’s real in today’s tech-driven markets.
+
+It’s a stark reminder of how technology can both empower and obscure. In our quest for efficiency, are we losing touch with the genuine rhythms of the market? Sometimes, the most advanced tools reveal just how vulnerable we are to manipulation.

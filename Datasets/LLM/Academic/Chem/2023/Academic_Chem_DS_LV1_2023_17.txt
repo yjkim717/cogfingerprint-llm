@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The genesis of complex organic molecules (COMs) in the interstellar medium (ISM) represents a critical stage in prebiotic chemical evolution. While gas-phase reactions and radical-mediated processes in icy mantles have been extensively studied, the role of neutral atomic carbon as a direct precursor remains inadequately constrained. This investigation employs ultra-high vacuum cryogenic experiments and kinetic Monte Carlo simulations to elucidate the non-energetic formation pathways of COMs initiated by carbon atom addition to simple molecular ices. We demonstrate that carbon atoms exhibit significant surface mobility on water-dominated ice analogues at temperatures exceeding 22 K, a regime pertinent to the warm environments of protostellar cores and protoplanetary disks. This thermally activated diffusion is identified as the rate-limiting step, enabling direct insertion and addition reactions with frozen volatile species such as carbon monoxide and methanol. Crucially, our results reveal efficient, barrier-less pathways for the formation of new carbon-carbon (C–C) bonds, leading to the synthesis of fundamental molecular building blocks like ketene (H₂C=C=O) and larger carbon chains. This "carbon-addition" mechanism provides a robust, non-destructive route to molecular complexity, challenging the paradigm that UV photolysis or cosmic-ray irradiation is a prerequisite for COM formation in cold cosmic regions. These findings necessitate a revision of current astrochemical models to incorporate the significant contribution of diffusive carbon atoms in the interstellar carbon cycle.
+
+(Word Count: 215)

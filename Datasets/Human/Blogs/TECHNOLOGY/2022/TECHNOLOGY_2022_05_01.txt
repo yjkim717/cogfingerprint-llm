@@ -1,0 +1,5 @@
+Year: 2022
+Author: tfburns
+URL: https://www.reddit.com/r/MachineLearning/comments/u6zk4g/d_are_workshop_papers_considered_final/
+
+Specifically, I'm talking about workshops of major conferences (NeurIPS, ICLR, ICML, etc.). If I submit a paper and it gets accepted, is that workshop paper a "final publication"? Or would most people expect the project to continue being developed into a slightly larger/longer paper for submission to the main stream of a conference? And if so, does publishing the earlier workshop paper tend to hinder or harm the later conference submission? I recognise there's a variety of workshops, and perhaps each have different expectations or norms. I'm wondering, from my outsider's perspective, how can I tell? For example, I have been thinking about submitting to one of these ICML workshops: or Is there an easy way to tell whether either or both of these are "final publication" venues or not?

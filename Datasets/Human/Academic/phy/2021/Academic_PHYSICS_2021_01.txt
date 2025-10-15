@@ -1,0 +1,8 @@
+Author: G. Hooft
+Title: Explicit construction of Local Hidden Variables for any quantum theory up to any desired accuracy
+Paper ID: 602ecf05f7b7b1a29af57d8272ef3148a6f55f8c
+Year: 2021
+Author Index: 1
+
+Abstract:
+The machinery of quantum mechanics is fully capable of describing a single realistic world. Here we discuss the converse: in spite of appearances, and indeed numerous claims to the contrary, any quantum mechanical model can be mimicked, up to any finite accuracy, by a completely classical system of equations. An implication of this observation is that Bell’s theorem is not applicable in the cases considered. This is explained by scrutinising Bell’s assumptions concerning causality, retrocausality, statistical (in-)dependence, and his fear of ‘conspiracy’ (there is no conspiracy in the language used to describe the deterministic models). The most crucial mechanism for the counter intuitive Bell/CHSH violation is the fact that, regardless the settings chosen by Alice and Bob, the initial state of the system should be a realistic one. The potential importance of our construction in model building is discussed.

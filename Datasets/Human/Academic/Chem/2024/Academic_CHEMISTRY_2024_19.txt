@@ -1,8 +1,8 @@
-Author: Minghao Liu
-Title: Ionic Covalent Organic Frameworks in Adsorption and Catalysis.
-Paper ID: 84ed131ddd8884be7d8394838bcc55599942548e
+Author: J. Evans
+Title: The rise of data repositories in materials chemistry
+Paper ID: a6b1967b24fa32ddfdd040cb10e4f4f255352148
 Year: 2024
 Author Index: 19
 
 Abstract:
-The ion extraction and electro/photo catalysis are promising methods to address environmental and energy issues. Covalent organic frameworks (COFs) are a class of promising template to construct absorbents and catalysts because of their stable frameworks, high surface areas, controllable pore environments, and well-defined catalytic sites. Among them, ionic COFs as unique class of crystalline porous materials, with charges in the frameworks or along the pore walls, have shown different properties and resulting performance in these applications with those from charge-neutral COFs. In this review, current research progress based on the ionic COFs for ion extraction and energy conversion, including cationic/anionic materials and electro/photo catalysis is reviewed in terms of the synthesis strategy, modification methods, mechanisms of adsorption and catalysis, as well as applications. Finally, we demonstrated the current challenges and future development of ionic COFs in design strategies and applications.
+FAIR (findable, accessible, interoperable and reusable) data practices are necessary to expedite knowledge discovery, encourage collaboration, and optimise resource use, fostering a robust foundation for future scientific progress. Here, the authors explore the use of FAIR practices to advance materials chemistry research, examining key repositories, highlighting their role in sharing scientific data, and examining the accessibility of these approaches. FAIR (findable, accessible, interoperable and reusable) data practices are necessary to expedite knowledge discovery, encourage collaboration, and optimise resource use, fostering a robust foundation for future scientific progress. Here, the authors explore the use of FAIR practices to advance materials chemistry research, examining key repositories, highlighting their role in sharing scientific data, and examining the accessibility of these approaches.

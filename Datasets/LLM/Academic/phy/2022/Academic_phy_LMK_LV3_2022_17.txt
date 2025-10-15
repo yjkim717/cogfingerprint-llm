@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Abstract: Recent advances in electromagnetic metasurfaces have leveraged the Pancharatnam-Berry phase to manipulate optical waves with unprecedented control. This review examines the evolution of geometric phase in metadevices, highlighting its applications in optics and potential future directions. By harnessing the geometric phase, researchers have enabled novel functionalities in metasurfaces, paving the way for innovative optical devices and systems in 2022.

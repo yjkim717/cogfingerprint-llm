@@ -1,0 +1,8 @@
+
+## Abstract: Quantum Chemical Investigation of Carbon Atom Insertion into Ammonia Ice Analogues: A Pathway to Methylamine Formation
+
+The formation of complex organic molecules within interstellar ices is a crucial step in the chemical evolution of protoplanetary disks and potentially, the emergence of prebiotic chemistry. This study utilizes high-level quantum chemical calculations, specifically employing density functional theory (DFT) with dispersion corrections and explicitly correlated methods, to investigate the reaction pathways of carbon atom insertion into ammonia (NH₃) and ammonia-water (NH₃-H₂O) ices, relevant analogues to interstellar environments. Our findings demonstrate that the direct addition of a carbon atom to NH₃ proceeds with a significantly favorable energy barrier, leading predominantly to the formation of methylamine (CH₃NH₂).  Furthermore, we explore the influence of water incorporation, finding that while the reaction pathway remains similar, the presence of H₂O ice slightly alters the reaction energetics.  These results suggest that methylamine, a precursor to more complex nitrogen-containing organic molecules, can be efficiently synthesized through this seemingly simple carbon atom insertion process under astrochemical conditions.  The calculated reaction energetics and structural properties provide valuable insights into the viability of this pathway as a significant contributor to observed interstellar molecular abundances, and highlight the importance of considering ice matrix effects in astrochemical models.
+
+
+
+**Keywords:** Astrochemical Ices, Carbon Chemistry, Methylamine, Quantum Chemistry, Interstellar Medium, Ice Mantle Chemistry, DFT Calculations, Hydrogenation

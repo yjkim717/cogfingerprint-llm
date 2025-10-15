@@ -1,0 +1,7 @@
+Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone:
+
+---
+
+**The Unexpected Order of Things**
+
+I was wrestling with some Elixir code last week, and it brought up a surprisingly frustrating little quirk. Trying to chain arithmetic functions – things that *should* work the same way – revealed a hidden problem with argument order. It felt like a tiny, stubborn bug, but digging into it with &-functions forced me to think about how I was structuring my code.  It’s a good reminder that even in functional programming, sometimes the most elegant solution is about explicitly stating *how* things should be done.  Anyone else run into this?

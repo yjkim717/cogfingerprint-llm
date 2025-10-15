@@ -1,0 +1,1 @@
+"As I dived into Plex in 2023, I struggled to integrate my PVR's tsv files. I wanted to unlock a seamless viewing experience, but the file format and metadata puzzle had me stumped. Has anyone else tackled this? I'd love to hear your tips on making Plex and PVR work in harmony!"

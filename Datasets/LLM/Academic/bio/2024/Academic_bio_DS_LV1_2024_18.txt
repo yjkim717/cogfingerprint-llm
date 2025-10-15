@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The emergence and sustained circulation of high pathogenic avian influenza (HPAI) viruses of the A(H5Nx) Gs/GD lineage, particularly clade 2.3.4.4b, represent a paradigm shift in the avian influenza landscape in Europe. Previously characterized by sporadic incursions, these viruses have now transitioned to endemic circulation within wild bird populations, establishing a persistent reservoir that poses a continuous threat to avian health, poultry security, and potential zoonotic spillover. This study investigates the evolutionary dynamics underpinning this endemicity through extensive genomic surveillance conducted across Europe from 2020 to 2024. Our phylogenetic analyses reveal an unprecedented level of genetic diversity among circulating H5Nx viruses, driven by frequent and complex reassortment events. We document the acquisition of novel gene segments from low pathogenic avian influenza (LPAI) viruses co-circulating in wild avian reservoirs, leading to the emergence of multiple novel genotypes with distinct constellations of internal genes. This continuous genetic reshuffling, rather than solely sustained antigenic drift, appears to be a primary mechanism for viral persistence and adaptation. The establishment of this dynamic and resilient reservoir in wild birds complicates predictive modeling of virus evolution and challenges existing surveillance and control strategies. Our findings underscore the necessity for integrated, year-round surveillance programs that track not only HA/NA subtypes but also the full genomic constellation to accurately assess the evolving risk landscape of HPAI in Europe.
+
+(Word Count: 249)

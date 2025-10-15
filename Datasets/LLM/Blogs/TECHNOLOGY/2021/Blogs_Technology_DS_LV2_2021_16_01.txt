@@ -1,0 +1,17 @@
+Of course! Here is a reflective blog post based on the provided summary.
+
+***
+
+### The Day Next.js Made Me Feel Like a Complete Impostor
+
+You know that feeling when you’re absolutely certain your code is perfect? That was me last Tuesday. I was riding high, building a slick new marketing page in Next.js. My mission was simple: use `getInitialProps` to fetch some data and perfectly set the page’s meta tags for SEO. A classic server-side rendering (SSR) task, right? Next.js was built for this.
+
+I wrapped my dynamic title and description in the trusty `next/head` component, fired up the app, and beamed with pride. It looked flawless in the browser. I was ready for a virtual pat on the back.
+
+Then came the gut punch. A colleague sent me a link preview from a social media scraper. The preview was a barren wasteland—just the default, empty meta tags. My beautifully crafted, data-driven tags were nowhere to be seen.
+
+My heart sank. How could this be? I was using `getInitialProps`! The whole point is to run on the server! I spent the next hour spiraling, convinced I had misunderstood a fundamental pillar of web development. The Google searches were frantic: “Next.js head not working,” “SSR meta tags missing.” I felt like an impostor, a fraud who’d just been found out.
+
+And then, I saw it. Buried in a GitHub issue from 2019 was my answer. A quiet, almost whispered detail about how `next/head` behaves in certain class component lifecycles. The fix was a simple refactor, a shift in approach.
+
+The lesson wasn’t just about meta tags. It was a humbling reminder that in our world, the tools are powerful, but their nuances are deep. The gap between “it works in my browser” and “it works for the web” can be a chasm filled with tiny, invisible dragons. You just have to know where to look.

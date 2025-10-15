@@ -1,0 +1,4 @@
+Title: Resolving the Black Hole Information Paradox via Binary Symmetry in Kruskal-Szekeres Coordinates
+
+Abstract:
+In this study, we apply the principles of General Relativity to quantum black holes utilizing Kruskal-Szekeres coordinates, thereby elucidating a novel resolution to the long-standing black hole information paradox. By introducing an exact binary symmetry, we demonstrate that the information contained within the black hole is preserved. Our analysis reveals that this symmetry, inherent to the Kruskal-Szekeres coordinate system, ensures the unitary evolution of the black hole's quantum state, thus reconciling General Relativity with quantum mechanics. (2023)

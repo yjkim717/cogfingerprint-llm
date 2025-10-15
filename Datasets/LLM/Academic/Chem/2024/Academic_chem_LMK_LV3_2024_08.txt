@@ -1,0 +1,3 @@
+Here is a generated abstract:
+
+"In 2024, we present a quantum dynamical framework to elucidate the impact of vibrational strong coupling on chemical reactivity within optical cavities. By probing cavity-modified chemical kinetics under non-equilibrium conditions, our simulations reveal novel pathways for modulating reactivity. This study advances the understanding of vibrational strong coupling's role in shaping chemical kinetics, offering insights into the manipulation of chemical reactions via tailored cavity environments."

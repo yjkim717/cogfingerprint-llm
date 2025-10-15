@@ -1,0 +1,5 @@
+Year: 2021
+Author: RDSne
+URL: https://www.reddit.com/r/thinkpad/comments/mp0fno/x1_extreme_gen_3_vs_x1_carbon_gen_9/
+
+Basically, the title. I'm torn between these two laptops. I mainly need the laptop for programming (full-stack development, nothing extreme), but could play some games occasionally. For now, I lean towards Carbon Gen 9, but I'm really concerned that it might not be powerful enough. I'm also considering eGPU if I'm going to choose it. Any advice or experiences would be appreciated! &#x200B; Specs of laptops under consideration: Carbon Gen 9: ● 11th Generation Intel® Core™ i7-1185G7 Processor with vPro™ (3.00 GHz, up to 4.80 GHz with Turbo Boost, 4 Cores, 8 Threads, 12 MB Cache) ● 32 GB LPDDR4x 4266MHz (Soldered) ● 1 TB PCIe SSD, OPAL ● 14.0" FHD+ (1920 x 1200) IPS, anti-glare, touchscreen, low power, 400 nits ● Integrated Intel® Iris® Xe Graphics Extreme Gen 3: ● 10th Generation Intel® Core™ i9-10885H Processor with vPro™ (2.40 GHz, up to 5.30 GHz with Turbo Boost, 8 Cores, 16 Threads, 16 MB Cache) ● 32 GB DDR4 2933MHz ● 1 TB PCIe SSD, OPAL ● 15.6" FHD (1920 x 1080) IPS, anti-glare, HDR, 500 nits ● NVIDIA® GeForce® GTX 1650Ti 4GB MaxQ

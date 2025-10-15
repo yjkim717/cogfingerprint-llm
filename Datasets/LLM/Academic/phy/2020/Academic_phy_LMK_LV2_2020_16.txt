@@ -1,0 +1,11 @@
+Title: Asymptotic Structure and Hamiltonian Formalism of Rarita-Schwinger Theory: A Supersymmetric Perspective
+
+Abstract:
+
+In this study, we investigate the asymptotic structure of the Rarita-Schwinger theory, a theoretical framework describing the dynamics of spin-3/2 fields. By employing the Hamiltonian formalism, we reveal the presence of infinite-dimensional fermionic symmetries, which play a crucial role in shaping the theory's asymptotic behavior. Our analysis demonstrates that these symmetries are associated with the canonical realization of the super-Poincaré algebra, a fundamental concept in supersymmetric theories.
+
+Within the context of the Rarita-Schwinger theory, we derive the asymptotic form of the fermionic generators, which are shown to satisfy the super-Poincaré algebra. This result is achieved by carefully examining the theory's constraints and applying the Dirac bracket formalism to obtain a consistent Hamiltonian formulation. The supersymmetric multiplets are constructed, and their transformation properties under the super-Poincaré algebra are analyzed.
+
+Our findings indicate that the Rarita-Schwinger theory exhibits a rich asymptotic structure, characterized by an infinite-dimensional fermionic symmetry group. This symmetry is shown to be intimately connected with the theory's supersymmetric properties, providing a deeper understanding of the interplay between supersymmetry and the asymptotic behavior of spin-3/2 fields. The results presented in this study contribute to the ongoing efforts to elucidate the properties of supersymmetric theories and their potential applications in modern physics.
+
+By shedding light on the asymptotic structure and Hamiltonian formalism of the Rarita-Schwinger theory, this research provides new insights into the theoretical foundations of supersymmetric models, with implications for our understanding of the behavior of particles with spin-3/2 in various physical contexts.

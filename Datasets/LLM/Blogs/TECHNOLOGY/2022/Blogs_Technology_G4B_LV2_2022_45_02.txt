@@ -1,0 +1,9 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The Frustration of String Glue**
+
+Remember those late nights in 2022, wrestling with Rust and WebAssembly? I do. I was chasing a safer way to build Wasm modules, desperately trying to ditch the dreaded string concatenation. It felt… fragile.  Like building a house with sticky tape. 
+
+I stumbled upon the idea of a DSL – a dedicated scripting language – and the promise of tools like `pest.rs` to parse it.  It’s a reminder that sometimes, the simplest solutions are the most complex to implement, and a good library can really simplify things.

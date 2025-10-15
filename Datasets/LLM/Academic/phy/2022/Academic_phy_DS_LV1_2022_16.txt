@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The precise definition of angular momentum at null infinity remains a foundational challenge in general relativity, primarily due to the obstruction posed by the infinite-dimensional Bondi-Metzner-Sachs (BMS) group. While the BMS algebra traditionally encompasses both Poincaré transformations and an infinite array of supertranslations, this very structure prevents a clear separation between genuine Lorentz rotations and pure supertranslations, leading to an ambiguity in the angular momentum charge. In this work, we resolve this long-standing issue by constructing a novel extension of the BMS group through the inclusion of *logarithmic supertranslations*. These new symmetry generators, which arise naturally from a refined analysis of the solution space to the Einstein field equations in a conformally compactified setting, possess a distinct functional hierarchy that allows them to be orthogonalized with respect to the standard supertranslation sector. Crucially, we demonstrate that this enhanced asymptotic symmetry algebra facilitates a unique decomposition of the gravitational charge aspect. By projecting out the pure supertranslation contribution, we isolate a *supertranslation-invariant* component that transforms unambiguously under the Lorentz subgroup. We explicitly construct the corresponding charge and verify that its Poisson bracket algebra yields the standard Poincaré commutation relations, thereby providing a rigorous and physically consistent definition of angular momentum free from supertranslation ambiguity. This result, achieved in 2022, has significant implications for the analysis of gravitational wave data from observatories like LIGO-Virgo-KAGRA, where a gauge-invariant measure of angular momentum is paramount.
+
+(Word Count: 248)

@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract inspired by the given ideas:
+
+Title: Multimode Entanglement Generation in Nonlocal Lithium Niobate Metasurfaces
+
+Abstract:
+
+Metasurfaces have emerged as a versatile platform for manipulating light-matter interactions at the nanoscale. In this work, we demonstrate the generation of spatially entangled photon pairs through spontaneous parametric down-conversion (SPDC) in nonlocal lithium niobate metasurfaces. By carefully designing the metasurface to support multiple modes, we enhance the photon-pair rate and witness multimode entanglement. Our results show that the generated photon pairs exhibit strong spatial correlations, characteristic of entangled states. We quantify the entanglement using the Schmidt number, revealing a significant increase in the dimensionality of the entangled state. The ability to generate multimode entanglement in a compact and integrated platform paves the way for the development of scalable quantum information processing and quantum communication systems. Our findings highlight the potential of nonlocal metasurfaces for advancing quantum optics and photonics research. (2022)

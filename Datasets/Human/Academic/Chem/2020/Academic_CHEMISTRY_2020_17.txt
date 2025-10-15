@@ -1,0 +1,8 @@
+Author: M. Tsuge
+Title: Diffusive Hydrogenation Reactions of CO Embedded in Amorphous Solid Water at Elevated Temperatures ∼70 K
+Paper ID: 1744e4b5af5ac488f58599a17188a54741d92842
+Year: 2020
+Author Index: 17
+
+Abstract:
+The surface processes on interstellar dust grains have an important role in the chemical evolution in molecular clouds. Hydrogenation reactions on ice surfaces have been extensively investigated and are known to proceed at low temperatures mostly below 20 K. In contrast, information about the chemical processes of molecules within an ice mantle is lacking. In this work, we investigated diffusive hydrogenation reactions of carbon monoxide (CO) embedded in amorphous solid water (ASW) as a model case and discovered that the hydrogenation of CO efficiently proceeds to yield H2CO and CH3OH even above 20 K when CO is buried beneath ASW. The experimental results suggest that hydrogen atoms diffuse through the cracks of ASW and have a sufficient residence time to react with embedded CO. The hydrogenation reactions occurred even at temperatures up to ∼70 K. Cracks collapse at elevated temperatures but the occurrence of hydrogenation reactions means that the cracks would not completely disappear and remain large enough for penetration by hydrogen atoms. Considering the hydrogen-atom fluence in the laboratory and molecular clouds, we suggest that the penetration of hydrogen and its reactions within the ice mantle occur in astrophysical environments.

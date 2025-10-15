@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone:
+
+---
+
+**The Ghost in the Fan**
+
+Late 2021, I was building my first serious gaming PC – a CyberPowerPC, naturally. I spent ages tweaking the power supply, the Phantex P500A seemed perfect. Then, the fans started acting… strangely. Despite being PWM-controlled, they’d just run at full blast. It was like a little ghost in the system. Turns out, a simple header configuration issue – frustrating, but a good reminder to double-check the details!

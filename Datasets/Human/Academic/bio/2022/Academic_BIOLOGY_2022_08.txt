@@ -1,0 +1,24 @@
+Author: M. Goldman
+Title: Abstract 5039: Visualization and analysis of cancer genomics data using UCSC Xena
+Paper ID: e0fdc657375ae2531a762c9756520625d1f538df
+Year: 2022
+Author Index: 8
+
+Abstract:
+
+ UCSC Xena (http://xena.ucsc.edu/) is a web-based visual integration and exploration tool for multi-omic data and associated clinical and phenotypic annotations. Researchers can easily view and explore public data, their own private data, or both using the Xena Browser. Private data are kept on the researcher's computer and are never uploaded to our public servers. The toll supports Mac, Windows, and Linux.
+ Questions Xena can help you answer:
+ 1) Is overexpression of this gene associated with lower/higher survival?
+ 2) What genes are differentially expressed between these two groups of samples?
+ 3) What is the relationship between mutation, copy number, expression, etc for this gene?
+ Xena showcases seminal cancer genomics datasets from TCGA, the Pan-Cancer Atlas, GDC, PCAWG, ICGC, and more; a total of more than 1500 datasets across 50 cancer types. We support virtually any type of functional genomics data: SNPs, INDELs, copy number variation, gene expression, ATAC-seq, DNA methylation, exon-, transcript-, miRNA-, lncRNA-expression, and structural variants. We also support clinical data such as phenotype information, subtype classifications and biomarkers. All of our data is available for download via python or R APIs, or using our URL links.
+ Our signature Visual Spreadsheet view shows multiple data types side-by-side enabling discovery of correlations across and within genes and genomic regions. We also have dynamic Kaplan-Meier survival analysis, powerful filtering and subgrouping, differential gene expression analysis, charts, statistical analyses, genomic signatures, and the ability to generate URLs to live views. We link out to the UCSC Genome Browser as well as MuPIT/CRAVAT and TumorMap.
+ New features include:
+ - Genome-wide differential gene expression analysis
+ - New interface for filtering samples and creating subgroups
+ - New interface to create charts and graphs
+ - Violin plots on any numerical data
+ - Loading of Microsoft Excel files
+ - A new Publication Page showcasing publications and authors that use UCSC Xena
+ Our beta prototype for visualizing single-cell data delivers million-cell-scale multi-omics data for interactive visualization in a web browser.
+ Citation Format: Mary Goldman, Brian Craft, Jingchun Zhu, David Haussler. Visualization and analysis of cancer genomics data using UCSC Xena [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2022; 2022 Apr 8-13. Philadelphia (PA): AACR; Cancer Res 2022;82(12_Suppl):Abstract nr 5039.

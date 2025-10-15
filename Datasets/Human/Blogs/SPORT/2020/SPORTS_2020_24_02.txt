@@ -1,0 +1,5 @@
+Year: 2020
+Author: 720hp
+URL: https://www.reddit.com/r/pop_os/comments/f4rlgt/am_i_doing_something_wrong/
+
+Hi, Tried to customize the BASH prompt but after twice make a .bash\_profile and entering : Creates the .bash\_profile under my /home/user directory export PS1="\\w $ " but I still get a user@pop-os prompt. What am I doing wrong? Thanks all!

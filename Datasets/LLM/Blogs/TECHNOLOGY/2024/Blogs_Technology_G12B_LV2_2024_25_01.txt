@@ -1,0 +1,3 @@
+## The Password Puzzle Still Haunts Me
+
+Remember the early days of IT, wrestling with Group Policy Objects (GPOs)? I was just pondering a question that popped up again this week: what happens when a domain-wide GPO clashes with a fine-grained password policy? It’s a surprisingly tricky dance! Makes you realize even with all our tech advancements, some foundational security questions remain surprisingly complex. Anyone else still debugging password policies in 2024?

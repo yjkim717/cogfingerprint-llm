@@ -1,0 +1,9 @@
+Here's a formal academic-style abstract, suitable for a computer science publication, based on the provided summary and context:
+
+**Abstract**
+
+Correlation clustering, a foundational unsupervised learning problem, aims to identify clusters within a graph of pairwise correlations. This paper addresses the challenge of performing correlation clustering while simultaneously guaranteeing differential privacy, a rigorous privacy model protecting against membership inference attacks. We present a novel algorithm achieving a subquadratic runtime complexity while providing ε-differentially private solutions. Our approach leverages techniques for controlled perturbation within the correlation matrix, bounding the additive error introduced by the privacy mechanism. Furthermore, we establish a theoretical lower bound on the achievable error for pure differentially private correlation clustering, demonstrating the inherent trade-off between privacy and solution quality. This result highlights the difficulty of simultaneously optimizing for accuracy and privacy in this setting. The proposed algorithm and accompanying lower bound contribute to a deeper understanding of privacy-preserving unsupervised learning and provide a benchmark for future research in this area.
+
+
+
+I aimed for clarity, precision, and a structure typical of CS abstracts (problem statement, approach, results, significance). Let me know if you'd like any adjustments!

@@ -1,0 +1,5 @@
+Year: 2024
+Author: l4adventure
+URL: https://www.reddit.com/r/Bogleheads/comments/1gj7up7/can_no_longer_buy_fractional_shares_on_vanguard/
+
+**UPDATE**: I refreshed after about 30 minutes and then it let me, I guess it was an issue with the website. I'll leave this up for posterity I guess. --- In the past I would transfer money once a month to my brokerage acct on vanguard, and immediately I would go to buy VTI with the money I trasnfered. There was an option to select either "Shares" or "Dollars", let's say I transfer $1000, I just buy $1000 worth of shares and I would get the equivalent fractional shares. Today, suddenly I no longer have that option. It's just shares, and it has to be a whole number no matter what stock I pick. Is this something that they changed recently? Or is it some sort of issue with the website or my account? Thanks!

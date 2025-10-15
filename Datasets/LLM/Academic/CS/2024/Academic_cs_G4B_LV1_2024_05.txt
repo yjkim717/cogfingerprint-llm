@@ -1,0 +1,7 @@
+Okay, here's an original academic-style abstract, drawing inspiration from the provided summary and aiming for a formal tone suitable for a Computer Science journal in 2024:
+
+---
+
+**Abstract**
+
+Algorithmic prediction systems are increasingly employed for resource allocation across diverse domains, yet their efficacy remains contingent upon underlying systemic conditions. This research investigates the limitations of prediction-centric approaches when applied to unit-level statistical data, specifically concerning the exacerbation of inequality. Through simulation modeling utilizing synthetic datasets exhibiting varying levels of pre-existing disparity, we demonstrate a non-linear relationship between prediction accuracy, budget availability, and the resultant distribution of allocated resources.  Our findings indicate that predictive models, while capable of identifying individuals or units at risk, lose their effectiveness and demonstrably amplify inequality when operating within high-inequality environments.  Furthermore, a sufficiently large intervention budget is crucial for mitigating the biased outputs of these algorithms.  These results underscore the necessity for incorporating robust fairness constraints and contextual awareness into the design of predictive resource allocation systems.

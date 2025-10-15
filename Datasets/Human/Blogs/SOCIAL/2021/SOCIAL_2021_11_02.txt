@@ -1,0 +1,5 @@
+Year: 2021
+Author: jyl11002
+URL: https://www.reddit.com/r/Comcast_Xfinity/comments/le2qmy/packets_getting_dropped/
+
+Started Unicast Maintenance Ranging - No Response received - T3 time-out I get this error quite a few times and approximately am dropping 7% of packets. This is on a business line and we are currently using this for streaming. This is unacceptable.

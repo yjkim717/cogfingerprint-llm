@@ -1,8 +1,8 @@
-Author: Jian-Wen Sun
-Title: Approximation of nonlocal dispersal problem with inhomogeneous kernel
-Paper ID: f075b033bcc8d57b89a6a13e066b34ac2d38cd3f
+Author: Ilias Diakonikolas
+Title: SQ Lower Bounds for Non-Gaussian Component Analysis with Weaker Assumptions
+Paper ID: 3e1cb24198b715eb1d942df92d67d759e4591bd2
 Year: 2024
 Author Index: 2
 
 Abstract:
-In this paper, we study the Neumann problem for a class of nonlocal dispersal models with inhomogeneous kernel function. We investigate the existence, uniqueness, and limit of solutions when the inhomogeneous diffusion kernel is rescaled. Our result exhibits that the inhomogeneous nonlocal dispersal equation is analogous to local problem without convection in the limit case.
+We study the complexity of Non-Gaussian Component Analysis (NGCA) in the Statistical Query (SQ) model. Prior work developed a general methodology to prove SQ lower bounds for this task that have been applicable to a wide range of contexts. In particular, it was known that for any univariate distribution $A$ satisfying certain conditions, distinguishing between a standard multivariate Gaussian and a distribution that behaves like $A$ in a random hidden direction and like a standard Gaussian in the orthogonal complement, is SQ-hard. The required conditions were that (1) $A$ matches many low-order moments with the standard univariate Gaussian, and (2) the chi-squared norm of $A$ with respect to the standard Gaussian is finite. While the moment-matching condition is necessary for hardness, the chi-squared condition was only required for technical reasons. In this work, we establish that the latter condition is indeed not necessary. In particular, we prove near-optimal SQ lower bounds for NGCA under the moment-matching condition only. Our result naturally generalizes to the setting of a hidden subspace. Leveraging our general SQ lower bound, we obtain near-optimal SQ lower bounds for a range of concrete estimation tasks where existing techniques provide sub-optimal or even vacuous guarantees.

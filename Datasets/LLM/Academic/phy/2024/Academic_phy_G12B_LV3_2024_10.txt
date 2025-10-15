@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a physics/chemistry audience and reflecting a 2024 context:
+
+**Abstract:**
+
+Understanding the facet-dependent catalytic activity of metal oxides remains a critical challenge in electrocatalysis, particularly for the oxygen evolution reaction (OER). This work investigates the OER mechanism on IrO2, employing a combined approach of experimental characterization and grand canonical quantum mechanics (GC-QM) simulations. Our findings reveal nuanced differences in surface redox processes and reaction pathways across varying crystallographic facets of IrO2.  GC-QM calculations provide insights into the electronic structure and adsorption energies of key intermediates, correlating these factors with observed catalytic performance. These results offer a framework for the rational design of high-performance OER electrocatalysts, contributing to advancements in sustainable energy technologies.

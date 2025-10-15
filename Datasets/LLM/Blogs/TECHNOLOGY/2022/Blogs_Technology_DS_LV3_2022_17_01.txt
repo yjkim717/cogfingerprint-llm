@@ -1,0 +1,3 @@
+It’s 2022, and I’m staring at a dozen bank accounts, feeling overwhelmed. I’m a developer, but my own finances were a mess of uncategorized transactions. I didn’t want another fancy app; I wanted clarity. So, I started scraping my own bank data and building simple SQL queries to sort it all out.
+
+The magic wasn't in the code, but in the categories. By creating a standard set of classification codes—'groceries,' 'utilities,' 'late-night takeout'—I finally saw where my money was going. It felt like tidying a cluttered room. Now, I’m not just tracking spending; I’m understanding my habits, making better choices, and reclaiming a little peace of mind, one query at a time.

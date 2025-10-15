@@ -1,0 +1,5 @@
+Year: 2023
+Author: skwyckl
+URL: https://www.reddit.com/r/elixir/comments/16v6v7v/what_is_considered_best_practice_when_writing/
+
+I have an Ecto schema with about 30 fields and I need to re-write the corresponding changesets for an API we are planning to "publish". While most fields don't require complex validation functions, there are a few that need to be pre-processed before they may continue down the pipeline. I am sure I need to modularize the changesets, but I am not exactly sure what is the best way to do so in order to ensure long-term maintainability.

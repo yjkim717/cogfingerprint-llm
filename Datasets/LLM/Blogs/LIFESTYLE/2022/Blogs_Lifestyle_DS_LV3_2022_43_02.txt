@@ -1,0 +1,5 @@
+It was one of those late 2022 afternoons, the kind where my screen blurred into a sea of spreadsheet cells. I was drowning in a massive CSV file, trying to manually filter data for a personal project, and feeling completely disconnected from the information. I remember thinking, there has to be a better way than this endless scrolling.
+
+That’s when I discovered the beauty of open-source tools. I found a solution that could automatically generate a clean, web-based UI for my dataset. Suddenly, I wasn't just staring at raw data; I was interacting with it. A simple faceted search let me slice through thousands of rows in seconds, finding the exact patterns I needed.
+
+It was more than a technical fix; it was a lifestyle shift. It gave me back hours of my week and, more importantly, my mental clarity. It reminded me that the best tools don't just solve a problem—they reconnect us to our work, and to our time.

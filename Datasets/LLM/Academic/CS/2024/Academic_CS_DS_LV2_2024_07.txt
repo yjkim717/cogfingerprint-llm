@@ -1,0 +1,1 @@
+This paper refutes the conjecture that all learnable distribution classes are privately learnable. We construct a class learnable in total variation distance under finite samples, yet impossible to learn under differential privacy constraints, establishing a fundamental separation between statistical and private learnability.

@@ -1,0 +1,13 @@
+Title: Assessing the Impact of Highly Pathogenic Avian Influenza Virus (HPAIV) H5N1 on the Poultry Industry: A Review of Recent Outbreaks and Biosecurity Measures in the EU/EEA Region (2021)
+
+Abstract:
+
+The poultry industry in the European Union/European Economic Area (EU/EEA) region faced an unprecedented threat in 2021 due to the resurgence of Highly Pathogenic Avian Influenza Virus (HPAIV) subtype H5N1. Between September and December 2021, a total of 867 HPAIV detections were reported, underscoring the escalating risk to poultry farms and the industry at large. This surge in HPAIV cases is attributed to various factors, including migratory patterns of infected wild birds, inadequate biosecurity measures, and the evolving epidemiology of the virus.
+
+The H5N1 subtype of HPAIV has been identified as a significant threat to poultry due to its high mortality rate, which can approach 100% in some cases, and its potential for transmission to humans, albeit with a relatively low rate of zoonotic transmission. The virus's impact on the poultry industry is multifaceted, resulting in significant economic losses due to the culling of infected flocks, trade restrictions, and costs associated with implementing enhanced biosecurity measures.
+
+Effective biosecurity is paramount in mitigating the risk of HPAIV transmission to poultry farms. Measures include stringent controls on farm access, enhanced surveillance of wild birds, and the implementation of robust disinfection protocols. However, the success of these measures is contingent upon their rigorous enforcement and the ongoing monitoring of their efficacy.
+
+This review aims to synthesize current data on the epidemiology of HPAIV H5N1 in the EU/EEA region during 2021, assess the impact of the virus on the poultry industry, and evaluate the effectiveness of biosecurity measures implemented to control the spread of the virus. By examining the interplay between viral transmission dynamics, biosecurity protocols, and industry practices, this study seeks to inform evidence-based policy and practice to protect the poultry industry from future outbreaks.
+
+The findings of this review highlight the critical need for continued vigilance and the strengthening of biosecurity frameworks to prevent and control HPAIV outbreaks. Moreover, they underscore the importance of collaborative efforts between veterinary authorities, the poultry industry, and other stakeholders to develop and implement effective strategies against avian influenza, thereby safeguarding both animal health and the economic viability of the poultry sector.

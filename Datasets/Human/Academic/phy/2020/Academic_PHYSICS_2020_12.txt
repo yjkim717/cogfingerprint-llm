@@ -1,0 +1,8 @@
+Author: M. Manathunga
+Title: Parallel Implementation of Density Functional Theory Methods in the Quantum Interaction Computational Kernel Program.
+Paper ID: d803e47386635ccfa25fda6f10c41f64b306c642
+Year: 2020
+Author Index: 12
+
+Abstract:
+We present the details of a GPU capable exchange correlation (XC) scheme integrated into the open source QUantum Interaction Computational Kernel (QUICK) program. Our implementation features an octree based numerical grid point partitioning scheme, GPU enabled grid pruning and basis/primitive function prescreening and fully GPU capable XC energy and gradient algorithms. Benchmarking against the CPU version demonstrated that the GPU implementation is capable of delivering an impressive performance while retaining excellent accuracy. For small to medium size protein/organic molecular systems, the realized speedups in double precision XC energy and gradient computation on a NVIDIA V100 GPU were 60 to 80-fold and 140 to 780-fold respectively as compared to the serial CPU implementation. The acceleration gained in density functional theory calculations from a single V100 GPU significantly exceeds that of a modern CPU with 40 cores running in parallel.

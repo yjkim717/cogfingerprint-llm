@@ -1,0 +1,7 @@
+)
+## High-Resolution Microclimate Temperature Data for European Forests: A Novel Open-Access Dataset and Implications for Ecological Modeling
+
+Understanding microclimatic conditions within forest ecosystems is crucial for predicting species distributions, assessing vulnerability to climate change, and informing forest management strategies. Existing bioclimatic datasets often lack the spatial resolution necessary to accurately represent the heterogeneous thermal environment within forests. This study introduces a novel, open-access dataset of high-resolution (≤1 km) microclimate temperature grids for Europe, derived from a combination of remote sensing data and established bioclimatic variable calculations. The dataset encompasses annual mean, seasonality, and extreme temperature metrics, offering a comprehensive characterization of forest microclimates across diverse European biomes. This resource significantly enhances the potential for developing and validating ecological models, facilitating more precise predictions of forest responses to ongoing climate change and informing adaptive management practices. The dataset is freely available at [Insert Placeholder URL Here].
+
+
+

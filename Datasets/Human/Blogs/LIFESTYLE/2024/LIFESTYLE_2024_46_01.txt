@@ -1,0 +1,5 @@
+Year: 2024
+Author: Durahl
+URL: https://www.reddit.com/r/3Dprinting/comments/1gewuhx/thermistor_wiring/
+
+Greetings! Should Thermistor Wiring in any form be hardened against interference coming from Stepper Motor Wiring running next to them ( about 1m in length ) like say twisting or shielding it? Asking because I'm getting some funky readings from the into the Stepper Motors integrated PT1000 Probes whenever the Steppers are active or not. I've also noticed the temperatures of the Steppers increasing by a not unsubstantial amount ( 5-10°C ) once the print has finished and they're no longer working but still active - As suggested in Klipper they don't have a `hold_current` set.

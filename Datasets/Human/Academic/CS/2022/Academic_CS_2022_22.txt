@@ -1,8 +1,0 @@
-Author: Raj Dabre
-Title: KreolMorisienMT: A Dataset for Mauritian Creole Machine Translation
-Paper ID: 0bf7e6c23ebab1d7a629d970d91d121ac59a2d8b
-Year: 2022
-Author Index: 22
-
-Abstract:
-In this paper, we describe KreolMorisienMT, a dataset for benchmarking machine translation quality of Mauritian Creole. Mauritian Cre-ole (Kreol Morisien) is a French-based creole and a lingua franca of the Republic of Mauri-tius. KreolMorisienMT consists of a parallel corpus between English and Kreol Morisien, French and Kreol Morisien and a monolingual corpus for Kreol Morisien. We first give an overview of Kreol Morisien and then describe the steps taken to create the corpora. There-after, we benchmark Kreol Morisien ↔ English and Kreol Morisien ↔ French models leveraging pre-trained models and multilingual transfer learning. Human evaluation reveals our systems’ high translation quality.

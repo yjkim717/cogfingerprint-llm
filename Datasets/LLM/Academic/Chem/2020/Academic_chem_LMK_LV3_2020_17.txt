@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Investigating Diffusive Hydrogenation Reactions on Interstellar Dust Grains: Implications for Astrophysical Environments
+
+Abstract:
+The hydrogenation of CO embedded in amorphous solid water (ASW) is a crucial process in the formation of complex molecules on interstellar dust grains. In this study, we investigated the diffusive hydrogenation reactions of CO in ASW at elevated temperatures using laboratory experiments. Our results show that CO hydrogenation occurs efficiently up to ∼70 K, yielding significant amounts of H2CO and CH3OH. The reaction rates and product distributions were found to be strongly dependent on the temperature and CO concentration in the ASW matrix. These findings have important implications for our understanding of the chemical evolution of astrophysical environments, particularly in the context of star-forming regions. The results suggest that diffusive hydrogenation reactions on interstellar dust grains can play a key role in the formation of complex organic molecules, thereby influencing the chemical composition of planetary systems. (2020)

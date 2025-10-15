@@ -1,0 +1,8 @@
+Author: A. Ashtekar
+Title: A short review of loop quantum gravity
+Paper ID: 8473f81d992e23b77d9e34f26f120b99562489ba
+Year: 2021
+Author Index: 6
+
+Abstract:
+An outstanding open issue in our quest for physics beyond Einstein is the unification of general relativity (GR) and quantum physics. Loop quantum gravity (LQG) is a leading approach toward this goal. At its heart is the central lesson of GR: gravity is a manifestation of spacetime geometry. Thus, the approach emphasizes the quantum nature of geometry and focuses on its implications in extreme regimes—near the big bang and inside black holes—where Einstein’s smooth continuum breaks down. We present a brief overview of the main ideas underlying LQG and highlight a few recent advances. This report is addressed to non-experts.

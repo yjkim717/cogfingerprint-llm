@@ -1,0 +1,5 @@
+Year: 2020
+Author: vortexmak
+URL: https://www.reddit.com/r/Android/comments/i7db1d/world_phone_support_on_android/
+
+Android OEMs charge iPhone prices for their flagship phones but there are a some things that Apple does right that OEMs don't care about. There has been tons of discussions on the update situation so I'm gonna talk about something different. I've only had Samsung phones, so this is from a Samsung perspective. Apple phones are truly world phones, they support all bands and carriers and can be used in any part of the world. On Android, the band support is a mess, there's arbitrary bands and features like VoLTE and aggregation missing between different regions even on flagship phones. If you go to a different country and try to use your phone there, there's a good chance it won't work fully. This situation is unacceptable. Samsung and other OEMs should start providing support for all bands and features for their expensive phones

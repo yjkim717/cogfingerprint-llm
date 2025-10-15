@@ -1,0 +1,5 @@
+ Here's an abstract inspired by the provided summary and keywords, written in a formal, academic style suitable for a medical field publication:
+
+**Abstract**
+
+Recent findings have prompted a critical reassessment of Bisphenol A (BPA) exposure and its implications for public health. The 2023 European Food Safety Authority (EFSA) re-evaluation significantly lowered the tolerable daily intake (TDI) for BPA to 0.2 ng/kg body weight (bw) per day, reflecting a heightened concern regarding its systemic effects. This revised TDI is predicated on emerging evidence demonstrating BPA’s immunomodulatory properties, particularly its influence on the differentiation and function of Th17 cells, a subset critical in adaptive immunity. Worryingly, current population exposure levels frequently surpass this newly established limit by several orders of magnitude. This discrepancy underscores a potential public health crisis, necessitating urgent investigation into the long-term consequences of widespread BPA exposure and the development of effective mitigation strategies to minimize immunological disruption.

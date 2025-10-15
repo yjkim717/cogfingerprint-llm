@@ -1,0 +1,5 @@
+Sitting here in 2022, staring at my dual monitors with Slack pings echoing through my home office, I can’t help but reflect on how different my own start in tech was. Back then, becoming a Windows systems engineer felt like a distant dream requiring expensive certifications and city-based jobs.
+
+Now, watching my ex-wife—sharp as a tack but completely new to IT—navigate this world from rural Ireland with just a laptop and stubborn determination? It’s been a perspective shift. The barriers are lower than ever. Self-study resources are abundant, and remote work has dismantled geography as a limitation.
+
+It’s humbling. The path into tech isn’t about where you are, but the curiosity you carry. Her journey from zero to troubleshooting her first server issue on a rainy Irish afternoon reminds me why I fell in love with this field. It’s not about the credentials you start with; it’s about the problems you learn to solve.

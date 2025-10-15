@@ -1,0 +1,9 @@
+"Automating File Downloads with WinSCP: A Recent Headache"
+
+As I sit here in 2024, surrounded by the trappings of modern technology, I'm reminded of the little things that can still drive me crazy. Recently, I found myself wrestling with a seemingly simple task: modifying a batch file to download a file with yesterday's date using WinSCP. Easy, right? Not quite.
+
+The batch file, a staple of Windows automation, had been working flawlessly for months, downloading the latest file from our server every morning. But then, the requirements changed, and suddenly I needed to fetch a file dated yesterday. I dove headfirst into the world of batch scripting, trying to calculate yesterday's date. It sounded straightforward, but the more I dug, the more I realized just how tricky date calculations can be in batch scripting.
+
+As I poured over online forums and documentation, I encountered a multitude of suggestions, each with its own set of limitations and caveats. Some relied on complex arithmetic manipulations, while others required installing additional tools or libraries. I was determined to find a solution that didn't add unnecessary dependencies.
+
+After some trial and error, I finally landed on a solution that worked. By leveraging WinSCP's command-line capabilities and a bit of creative date manipulation, I was able to craft a batch file that successfully downloaded the file with yesterday's date. It was a small victory, but a satisfying one. As I reflect on the experience, I'm reminded that even in this age of sophisticated automation tools, there's still value in understanding the underlying technologies that make them tick.

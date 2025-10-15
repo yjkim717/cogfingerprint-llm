@@ -1,0 +1,5 @@
+Year: 2023
+Author: Bayweather4129
+URL: https://www.reddit.com/r/webscraping/comments/10i1l2r/bypassing_cloudflare_1020_error_using_puppeteer/
+
+I am currently trying to scrape a manga website that displays images vertically, where you scroll and more images load as you read. I acquire the image links with `const imageUrls = await page.$$eval(` `'img.wp-manga-chapter-img',` `images => images.map(img => img.getAttribute('data-src'))` `);` When I print the image links to console and try clicking on it, I get a "Access Denied Error 1020" from Cloudflare. However after I manually go to the page and scroll through the entire thing and run the program again, the links work properly. There are also some weird instance where only the first couple of image links work. I am new to puppeteer and JS in general, but I've implemented random wait times and I understand possible solutions are proxies or third party scraping APIs. Any ideas on how to progress would be greatly appreciated!

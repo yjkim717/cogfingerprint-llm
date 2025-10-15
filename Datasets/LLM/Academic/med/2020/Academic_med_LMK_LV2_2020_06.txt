@@ -1,0 +1,11 @@
+Title: Optimizing Management Strategies for Male Breast Cancer: A Review of Current Endocrine Therapies and Genetic Counseling Practices
+
+Abstract:
+
+Male breast cancer (MBC) accounts for approximately 1% of all breast cancer diagnoses, yet its management remains understudied compared to female breast cancer. The American Society of Clinical Oncology (ASCO) has developed guidelines to standardize MBC management, focusing on endocrine therapy and genetic counseling. This review aims to summarize the current evidence and provide recommendations for optimizing MBC treatment.
+
+Endocrine therapy is a cornerstone in the management of hormone receptor-positive MBC. Tamoxifen remains the standard of care, demonstrating significant improvements in overall survival and disease-free survival. Alternative endocrine therapies, such as aromatase inhibitors, may be considered in specific clinical contexts; however, their efficacy is largely derived from studies in postmenopausal women, highlighting the need for MBC-specific research.
+
+Genetic counseling is another crucial aspect of MBC management, as men with breast cancer are more likely to harbor BRCA2 mutations. ASCO recommends genetic testing for all men diagnosed with breast cancer, with subsequent counseling for those testing positive. This enables informed decision-making regarding risk-reducing mastectomy and surveillance strategies for family members.
+
+This review highlights the importance of adhering to ASCO guidelines for MBC management, emphasizing the role of endocrine therapy and genetic counseling. Further research is necessary to address knowledge gaps, particularly regarding the efficacy of alternative endocrine therapies in MBC. By optimizing treatment strategies, clinicians can improve patient outcomes and quality of life for men diagnosed with breast cancer.

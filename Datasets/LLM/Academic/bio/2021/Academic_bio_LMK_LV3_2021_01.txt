@@ -1,0 +1,6 @@
+Here is a generated abstract:
+
+Title: Deciphering Endosomal Dynamics: A Local Analysis of Anomalous Diffusion in Eukaryotic Cells
+
+Abstract (2021): 
+The intracellular transport of endosomes is characterized by heterogeneous motion, necessitating a nuanced understanding of their dynamics. By analyzing single-particle tracking data, this study distinguishes between slow subdiffusive and fast superdiffusive endosomes, exhibiting distinct fractional Brownian motion characteristics. Employing a local analysis framework, we characterize the anomalous diffusion of endosomes, revealing diverse trajectory patterns. Our findings provide insight into the complex interplay between endosomal transport and cellular function, shedding light on the underlying mechanisms governing endosome dynamics within eukaryotic cells.

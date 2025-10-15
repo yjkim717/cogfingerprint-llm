@@ -1,0 +1,7 @@
+Here’s an academic abstract based on the provided summary, suitable for a 2023 publication in computer science:
+
+**Abstract**
+
+Analyzing neural data, particularly from high-dimensional recordings, presents significant challenges in extracting meaningful insights. Traditional visualization techniques often struggle with the complexity and scale of these datasets. This paper introduces Rastermap, a novel visualization framework designed to address these limitations. Rastermap leverages a global optimization algorithm to systematically identify and represent underlying patterns within neural population recordings.  The core innovation lies in translating complex neural activity into a spatially-aware, raster-based map, allowing for intuitive exploration of relationships between neuronal populations. 
+
+Specifically, Rastermap employs a stochastic gradient descent approach to iteratively refine a map representation, driven by the objective of maximizing data fidelity and highlighting statistically significant correlations. Preliminary results demonstrate Rastermap’s efficacy in uncovering previously obscured structures within neural datasets, facilitating a more robust understanding of global network dynamics.  Further research will investigate the framework’s adaptability to diverse recording modalities and its integration with advanced neural data analysis pipelines.

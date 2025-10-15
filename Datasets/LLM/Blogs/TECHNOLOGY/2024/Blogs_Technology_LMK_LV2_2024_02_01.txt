@@ -1,0 +1,11 @@
+**"Password Policy Puzzles: A Sysadmin's Quest for Simplicity"**
+
+As a sysadmin, I've always prided myself on staying on top of the latest security best practices. But lately, I've found myself scratching my head over a seemingly straightforward task: simplifying our password policy. With Microsoft MFA and SSPR (Self-Service Password Reset) in our hybrid environment, I'm questioning the need for 90-day password cycling.
+
+In our Entra (formerly Azure AD) setup, we've got a mix of legacy AD policies and modern MFA requirements. It's a complex web, and I'm not alone in my confusion. I've reached out to the community for guidance on disabling the password cycling policy, but the responses have been varied.
+
+Some argue that regular password changes are still essential, while others claim it's an outdated practice. I've dug into the latest research, and it seems the latter is true. In 2024, the focus has shifted from frequent password changes to more robust security measures like MFA and SSPR.
+
+As I navigate this issue, I'm reminded of the importance of staying adaptable in the ever-evolving world of tech. What was once considered best practice may no longer be relevant. By embracing SSPR and MFA, we can simplify our password policy and improve overall security.
+
+My journey may not be over yet, but I'm confident that with the right guidance and a willingness to evolve, we'll find a solution that balances security with user convenience. After all, isn't that what being a sysadmin is all about?

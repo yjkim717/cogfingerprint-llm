@@ -1,0 +1,5 @@
+Year: 2021
+Author: AuthenticWeeb
+URL: https://www.reddit.com/r/ExodusWallet/comments/ldvsde/is_the_exchange_feature_to_be_avoided/
+
+Made a small exchange of $400 between Bitcoin and Cardano, and the fee ended up being around $80. I guess it's my own fault for not looking into it, but seems like I would've been better off sending the Bitcoin to Binance first, trading it with Cardano via ADA/BTC, and then sending the ADA to my exodus wallet. That would've saved me about $80 if I'm right. So I guess my question is: Is there any real reason to use the exchange feature considering the insanely high fees?

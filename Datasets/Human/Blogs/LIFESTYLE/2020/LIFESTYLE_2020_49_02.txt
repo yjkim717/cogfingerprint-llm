@@ -1,0 +1,5 @@
+Year: 2020
+Author: satilovski
+URL: https://www.reddit.com/r/aspirebudgeting/comments/igc858/inconsistency_in_available_to_budget_amount/
+
+Hey all, I just realized that my AtoB amount is shown in minus (1426.27) even though all account amounts are correct including the credit card depth. I have tried to checking earlier transactions but the amount in minus is not equal to one or combinations of several transactions I have entered to sheets. Do you have any tip for me explaining how to double check all numbers effecting AtoB? TIA!

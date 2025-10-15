@@ -1,0 +1,5 @@
+Year: 2021
+Author: BrennanBetelgeuse
+URL: https://www.reddit.com/r/learnmath/comments/p45vux/best_resources_for_open_book_exam_in_linear/
+
+Hi everyone, I have an upcoming exam concerning matrices, multidimensional ODE's and some stochastics in college. The exam is open book, which means that we are allowed to use any tools except for the help of other people. Do you have any resources you would recommend? Of course none that break the rule, but almost anything is allowed.

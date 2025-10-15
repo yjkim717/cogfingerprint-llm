@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided concepts, contextualized for 2021.
+
+***
+
+**Abstract**
+
+The integration of multiple advanced functionalities into a single porous framework represents a frontier in materials science. While the phenomenon of negative gas adsorption (NGA) in soft porous crystals like DUT-49 has been established, its coexistence with intrinsic luminescence remains unexplored. Herein, we report the rational design and synthesis of a series of isoreticular metal-organic frameworks (MOFs) derived from the DUT-49 archetype, engineered to incorporate fluorescent organic linkers. These novel frameworks retain the critical structural flexibility required for NGA, undergoing a reversible pore collapse (gate-opening) upon reaching a specific gas pressure threshold. Remarkably, this metastable transition is accompanied by a pronounced and quantifiable change in fluorescence emission intensity, directly correlating with the structural phase change. This synergy enables the *in situ* optical monitoring of the NGA event, where the adsorption of a gas (e.g., methane) triggers a macroscopic pressure amplification within a constant-volume system. Our findings demonstrate that the incorporation of fluorescent reporters does not compromise the framework's dynamic gas sorption properties but instead provides a powerful tool for their real-time, non-invasive detection. This work paves the way for the development of multifunctional "smart" adsorbents for advanced sensor applications and fundamental studies of host-guest interactions in flexible porous materials.
+
+**(Word Count: 199)**

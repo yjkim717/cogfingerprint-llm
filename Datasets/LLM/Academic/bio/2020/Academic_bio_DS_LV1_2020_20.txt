@@ -1,0 +1,11 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Advancing Bioclimatic Modelling: Integrating High-Resolution Microclimate Data from the SoilTemp Database to Refine Species Distribution Forecasts
+
+**Abstract:**
+
+A critical limitation in forecasting species' responses to climate change has been the coarse resolution of standard climate data, which fails to capture the fine-scale thermal heterogeneity defining microclimates. Organisms, particularly ectotherms and soil-dwelling biota, experience climate at the scale of centimeters, not kilometers. To bridge this gap, we present the SoilTemp initiative, a global database collating high-spatiotemporal-resolution time series of near-surface and soil temperature. By synthesizing data from over 15,000 sensors across diverse biomes, this resource enables an unprecedented analysis of the buffering and amplification of macroclimate signals at the organism-relevant scale. We demonstrate its application by modeling the thermal niche of three temperate forest understory plant species. Our analyses reveal that interpolated microclimate data from SoilTemp significantly alters projected habitat suitability under future climate scenarios compared to models using traditional bioclimatic layers. These findings underscore that the discrepancy between macroclimate and microclimate is a pivotal source of error in ecological forecasting. The integration of such high-resolution data is therefore indispensable for developing robust conservation strategies and accurately predicting biodiversity redistribution in the Anthropocene.
+
+**(Word Count: 199)**

@@ -1,0 +1,7 @@
+)
+## Abstract: Accelerated Quantum Interaction Calculations via Multi-GPU Implementation of QUICK
+
+The computational demands of electronic structure calculations, particularly those employing methods like Hartree-Fock and Density Functional Theory (DFT), present a significant bottleneck in modern quantum chemistry research. This work introduces a novel implementation of the QUICK (Quantum Interaction Calculator Kernel) algorithm, specifically optimized for heterogeneous multi-GPU architectures, addressing this challenge. We detail the parallelization strategy employed, leveraging NVIDIA's CUDA platform to distribute the computational load across multiple GPUs, focusing on minimizing inter-GPU communication and maximizing data locality. Performance evaluations were conducted on a range of NVIDIA GPU platforms, demonstrating substantial acceleration compared to single-GPU implementations and highlighting the scalability of the approach. Results indicate a near-linear scaling efficiency with increasing GPU count, demonstrating the effectiveness of the implemented parallelization scheme. This accelerated QUICK implementation significantly reduces the computational time required for ab initio calculations, enabling the exploration of larger systems and more complex quantum interactions. The findings presented herein contribute to advancing the accessibility and efficiency of electronic structure methods, facilitating progress in fields such as materials science, drug discovery, and computational chemistry.
+
+
+

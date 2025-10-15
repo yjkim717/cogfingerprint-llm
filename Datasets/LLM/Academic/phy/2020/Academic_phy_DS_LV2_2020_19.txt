@@ -1,0 +1,1 @@
+We demonstrate dielectric metasurfaces implementing non-Hermitian transformations for single-shot polarization monitoring. This approach enables direct, sensitive detection of polarization state deviations by measuring intensity ratios, advancing compact optical sensing platforms.

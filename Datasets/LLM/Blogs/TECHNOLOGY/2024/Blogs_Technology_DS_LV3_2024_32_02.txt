@@ -1,0 +1,3 @@
+It was just another quiet evening in my homelab when the acrid smell hit me. My trusty Lenovo Tiny workstation—the silent powerhouse running my projects—had suddenly fallen dark. Upon inspection, I found the RAM modules completely burnt, the tiny board scarred beyond repair.
+
+In 2024, we assume our compact tech is invincible until it isn’t. That smoky end left me wondering: did my SSD survive? It’s a stark reminder that even the smallest components hold our digital lives—and sometimes, they quietly let go.

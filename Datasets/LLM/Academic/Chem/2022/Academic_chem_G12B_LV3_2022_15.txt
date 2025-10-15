@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, suitable for a chemistry-focused publication (circa 2022):
+
+**Abstract**
+
+The ongoing demand for high-performance lithium-ion batteries necessitates advancements in component design, particularly within the separator layer. This study presents a novel approach to separator fabrication via spray deposition of alumina (Al₂O₃), enabling a streamlined, single-step manufacturing process for complete battery assembly. Electrochemical testing reveals that the alumina-modified separator exhibits rate capabilities comparable to conventional polyethylene separators. Critically, the fabricated battery demonstrates enhanced cycling stability, retaining a higher capacity retention over extended charge-discharge cycles. These findings suggest that alumina-based separators, produced through facile spray deposition, represent a promising avenue for improving the durability and overall performance of lithium-ion battery technology.

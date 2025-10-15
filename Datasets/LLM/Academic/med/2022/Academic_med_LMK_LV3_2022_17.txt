@@ -1,0 +1,15 @@
+Title: Evaluating the Diagnostic Performance of Plasma Biomarker Combinations for Amyloid-β Pathology in Alzheimer's Disease: A Robustness Analysis
+
+Abstract:
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid-β (Aβ) plaques and neurofibrillary tangles in the brain. Recent advances in plasma biomarker research have shown promise in detecting Aβ pathology, a hallmark of AD. This study aimed to assess the diagnostic accuracy and robustness of plasma biomarkers for identifying Aβ pathology across different stages of AD.
+
+We analyzed a cohort of participants with varying degrees of cognitive impairment, utilizing a panel of plasma biomarkers, including Aβ42/40, glial fibrillary acidic protein (GFAP), and phosphorylated tau181 (p-tau181). We evaluated the performance of individual biomarkers and their combinations in detecting Aβ pathology, as confirmed by positron emission tomography (PET) or cerebrospinal fluid (CSF) analysis.
+
+Our results demonstrate that biomarker combinations involving Aβ42/40, GFAP, and p-tau181 exhibit high diagnostic accuracy for Aβ pathology, with area under the receiver operating characteristic curve (AUC-ROC) values ranging from 0.85 to 0.92. Notably, the combination of Aβ42/40 and p-tau181 showed robust performance across different disease stages, with an AUC-ROC of 0.88 (95% CI: 0.82-0.94) in early-stage AD and 0.90 (95% CI: 0.84-0.96) in late-stage AD.
+
+Robustness analysis revealed that the diagnostic performance of individual biomarkers was influenced by factors such as age, sex, and APOE ε4 status. However, the combination of Aβ42/40, GFAP, and p-tau181 demonstrated resilience to these variables, maintaining high diagnostic accuracy across different subpopulations.
+
+Our findings support the use of plasma biomarker combinations as a reliable and non-invasive tool for detecting Aβ pathology in AD. The high diagnostic performance and robustness of these biomarker combinations have significant implications for clinical practice, enabling early diagnosis and monitoring of AD progression. Future studies should focus on validating these findings in larger, diverse cohorts and exploring the utility of plasma biomarkers in clinical trials.
+
+In conclusion, this study highlights the potential of plasma biomarker combinations to revolutionize the diagnosis and management of AD. By leveraging the strengths of multiple biomarkers, clinicians and researchers can improve diagnostic accuracy, monitor disease progression, and develop targeted therapeutic strategies.

@@ -1,0 +1,3 @@
+## When Does "If It Walks Like a Duck..." Actually Work?
+
+Remember the classic Monty Python sketch? "If it walks like a duck, and quacks like a duck..." Well, in JavaScript and TypeScript, that's essentially duck typing! It's a wonderfully pragmatic approach – focusing on *what* an object *does*, not *what* it *is*. It’s a little chaotic, sure, but sometimes that flexibility, especially as we navigate the evolving landscape of 2021 JavaScript, is exactly what you need.

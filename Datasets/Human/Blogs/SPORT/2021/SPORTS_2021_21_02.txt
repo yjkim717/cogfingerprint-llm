@@ -1,0 +1,5 @@
+Year: 2021
+Author: sirgippy
+URL: https://www.reddit.com/r/help/comments/q6q6b7/504_when_attempting_to_access_manage_thirdparty/
+
+Trying to access third-party app authorizations or trying to log in to a third-party app results in a 504. This is true for: * multiple third-party apps * multiple devices * multiple internet connections * multiple browsers I have tried the workaround discovered and specified here multiple times to no avail. Any help is much appreciated. - Night mode: false - RES Version: 5.22.5 - Browser: Firefox - Browser Version: 92 - Cookies Enabled: true - Reddit beta: false

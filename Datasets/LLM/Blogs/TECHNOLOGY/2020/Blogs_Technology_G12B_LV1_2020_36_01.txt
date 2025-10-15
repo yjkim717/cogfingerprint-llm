@@ -1,0 +1,11 @@
+>## The Microsoft Account Intrusion (and a Lesson in Policy)
+
+Okay, so this week threw me a curveball. We're a K-12 district, firmly planted in the Active Directory ecosystem. Everything – logins, device access, software – runs through AD. Makes sense, right? Centralized control, security, the whole shebang.
+
+Then, a student logged in… with a Microsoft account. *A Microsoft account.* Not a school-issued AD account. My brain briefly stalled. How did that even *happen*? 
+
+Turns out, a recent update to some learning apps was allowing it, bypassing our usual login flow. Cue a frantic dive into Group Policy Objects (GPOs). After some tweaking and a slightly panicked call to Microsoft support, we tightened things up. Lesson learned: even with robust systems like Active Directory, constant vigilance is key. Technology changes fast, and policies need to adapt *faster*. It's a good reminder that staying ahead of the curve is a never-ending process.
+
+
+
+Hope you enjoyed this short blog post!

@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract in the field of Computer Science, reflecting the context of 2021.
+
+***
+
+**Abstract**
+
+The persistent threat of terrorism in Nigeria necessitates advanced computational techniques for forensic analysis and pattern discovery. This research addresses this imperative by applying the Apriori algorithm, a foundational method for association rule mining, to the Global Terrorism Database (GTD). Our methodology involves a rigorous preprocessing phase to structure the GTD data, followed by the iterative execution of the Apriori algorithm to identify frequent itemsets and generate high-confidence association rules. The analysis reveals significant, non-obvious correlations between specific attack methods, target types, and weaponry employed by terrorist factions in Nigeria. These patterns provide a data-driven forensic profile of terrorist *modus operandi*, offering empirical insights that transcend anecdotal evidence. The findings demonstrate the efficacy of unsupervised machine learning in counter-terrorism informatics, yielding actionable intelligence for security agencies. This study underscores the potential of algorithmic forensic investigation to augment strategic planning and proactive threat mitigation in complex conflict environments.

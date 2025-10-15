@@ -1,0 +1,3 @@
+It was the final stretch of my big project in late 2022, and my trusty HP Omen decided to stage a rebellion. Out of nowhere, a frantic beep code would sound, the screen went black, and my work vanished. The error code pointed to the liquid cooling pump, a fancy term I’d never worried about before. I’d just cleaned it, thinking I was being proactive, but the random shutdowns suggested my CPU was overheating anyway.
+
+It felt like a personal metaphor for 2022 burnout. You can do all the maintenance—take breaks, manage your time—but sometimes the internal pressure just builds until the system crashes. My computer and I both needed a deeper fix, a reminder that even the most powerful setups have their limits.

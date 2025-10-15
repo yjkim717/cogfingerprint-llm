@@ -1,0 +1,7 @@
+It was one of those late-night coding sessions in 2022 when I found myself staring at a test file that had just broken for the third time that week. The culprit? I’d tweaked a private method in my main code, and my unit tests—nestled right beside it in the same package—threw a fit. Sound familiar?
+
+That moment sparked a realization: maybe we’ve been organizing tests all wrong. We chase high code coverage like it’s the holy grail, but what if our obsession with testing every internal detail is holding us back? I started experimenting with separating tests and mocks into their own packages, and something shifted.
+
+Instead of poking at private implementation details, my tests began focusing purely on interfaces—the contracts my code makes with the outside world. Suddenly, refactoring became less of a chore. I could reshape internals freely, without that nagging fear of breaking dozens of tightly-coupled tests. The mocks, living in their own space, became clearer, more intentional tools rather than scattered afterthoughts.
+
+It’s not just about tidier directories—it’s a mindset. By treating the code we test as a "black box," we reinforce what truly matters: reliable behavior, not invisible internals. So next time you’re setting up your project, ask yourself—are your tests checking the right things, or just the easy ones? Sometimes, a little separation makes all the difference.

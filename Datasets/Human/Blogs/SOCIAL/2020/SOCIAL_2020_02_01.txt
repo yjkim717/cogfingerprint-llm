@@ -1,0 +1,5 @@
+Year: 2020
+Author: Cybyss
+URL: https://www.reddit.com/r/HalfLifeAlyx/comments/kk3tug/psa_pistol_reflex_sight_assumes_you_have_a/
+
+It appears the pistol's reflex sight was designed around the assumption that everybody has a "dominant eye". You see the center dot only when you look straight down either your left or your right eye. I don't have a "dominant eye". It feels most natural to hold the pistol dead center. Unfortunately, when held like this the dot disappears and the reflex sight becomes almost useless. If you find the reflex sight difficult to use, try closing one eye and aiming the pistol using the other. It feels rather unnatural like this, but at least this way it can be fired more accurately.

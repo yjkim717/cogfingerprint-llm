@@ -1,0 +1,1 @@
+This 2021 study introduces a dielectric metasurface pulse-shaper that achieves arbitrary femtosecond polarization control alongside complex wavefront manipulation. This single-pixel architecture enables unprecedented spatiotemporal light field engineering for advanced optical applications.

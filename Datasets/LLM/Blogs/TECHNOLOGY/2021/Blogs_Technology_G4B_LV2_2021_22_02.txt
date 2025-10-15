@@ -1,0 +1,17 @@
+Okay, here's a blog post draft based on that summary, aiming for a reflective and conversational tone, around 234 words, and set in 2021:
+
+---
+
+**The Ghosts in the Machine (and How I Finally Got Rid of Them)**
+
+It’s funny, isn’t it? How sometimes the most frustrating tech problems aren’t about grand, complicated outages. They’re about… well, ghosts. Digital ghosts, specifically. 
+
+I was wrestling with a Horizon environment last year, 2021 to be exact, and it felt like I was chasing shadows. We were getting provisioning errors – VMs just wouldn’t launch – and the logs pointed to a single, maddening culprit: a ballooning number of vmdk files.  
+
+At first, I was just frantically adding more storage, assuming it was a simple capacity issue. But it quickly became clear that we were hoarding *orphaned* files – remnants of old applications, test environments, you name it. It was like a digital attic, overflowing with forgotten things. 
+
+It took a while to realize the real problem wasn’t *lack* of space, but a massive *accumulation* of it.  Deleting those stray vmdk files – painstakingly combing through the storage – was surprisingly therapeutic.  It felt like clearing out mental clutter, too. 
+
+That experience really hammered home the idea that sometimes, the most efficient solution isn’t always the most obvious.  It’s about understanding the *why* behind the problem, not just slapping a band-aid on the symptom. 
+
+Have you ever dealt with a similar “ghost in the machine” situation?  Let me know in the comments!

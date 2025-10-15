@@ -1,0 +1,9 @@
+absHere's a formal academic-style abstract, inspired by your provided keywords and summary, suitable for a physics publication in 2024:
+
+**Abstract:**
+
+We investigate the asymptotic symmetries arising in spacetimes supporting electromagnetism non-minimally coupled to scalar fields within the framework of asymptotic effective field theory.  Specifically, we explore the impact of scalar field kinetic terms coupled to the Faraday tensor on the structure of large-gauge transformations, a crucial element in the construction of boundary stress-tensor for quantum gravity and related theories. Utilizing a systematic approach based on Noether’s theorem and invariant surface integrals, we demonstrate that, surprisingly, the asymptotic symmetry algebra retains a significant degree of similarity to that of the free U(1) gauge field. This resilience to non-minimal coupling suggests a robustness in the underlying symmetry structure, even when considering interactions beyond the standard gauge-invariant Lagrangian.  Our analysis reveals that while the precise form of the asymptotic charges may be modified, the overall algebraic structure, including the presence of central charges and duality symmetries, persists. These findings have implications for understanding the role of asymptotic symmetries in the context of gravitational scattering amplitudes and the holographic dictionary, particularly when scalar fields play a crucial role in the effective description of quantum spacetime.
+
+
+
+I aimed to incorporate all the keywords, maintain a formal tone, and build a logical argument about the findings.  Let me know if you would like any modifications or a different emphasis!

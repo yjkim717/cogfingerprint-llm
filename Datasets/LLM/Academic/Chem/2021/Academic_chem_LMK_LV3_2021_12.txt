@@ -1,0 +1,4 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Abstract:
+Recent advancements in vibrational strong coupling (VSC) have revealed significant modifications to ground-state reactivity, sparking intense investigation into polariton chemistry. This work presents a theoretical framework elucidating the altered reaction rates in VSC regimes. By incorporating non-Markovian dynamics and the dynamical caging effect, our model accurately captures the cavity frequency-dependent modulation of reaction kinetics. Our findings demonstrate that non-Markovian effects play a crucial role in determining the reaction rate, offering new insights into the mechanisms governing VSC-modified chemistry. This study provides a fundamental understanding of VSC's impact on chemical reactivity, paving the way for future research in this burgeoning field (2021).

@@ -1,0 +1,5 @@
+Year: 2021
+Author: pnwstarlight
+URL: https://www.reddit.com/r/admincraft/comments/pnboum/spigot_plugins_that_add_lategame_content/
+
+Hey friends, I'm running a vanilla SMP and I'm looking into ways to add some plugins that don't touch anything, except for adding some content to lategame to make the players happy that enjoy grinding. (One thing I had in mind would be complex quests or having to obtain rare items in order to further enchant elytra or netherite armor, but I'm open for any kind of ideas and suggestions.

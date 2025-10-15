@@ -1,0 +1,5 @@
+Title: Spatiotemporal Metasurface Synthesis of Ultrafast Optical Transients
+
+Abstract:
+
+The advent of structured space-time wave packets has revolutionized the field of ultrafast optics, enabling the precise manipulation of optical transients with ultrawide bandwidths. In this context, we present a novel metasurface-based approach to synthesize ultrafast optical pulses with arbitrary spatiotemporal control. By leveraging the design flexibility of metasurfaces, we demonstrate the generation of complex optical transients with tailored amplitude and phase profiles. Our technique exploits the ultrawide bandwidth of metasurfaces to manipulate the spectral and temporal properties of ultrafast pulses, enabling the creation of customized wave packets with precise spatiotemporal characteristics. This development has significant implications for applications in ultrafast optics, spectroscopy, and optical communication systems, where the ability to control the spatiotemporal properties of optical pulses is crucial. Our results pave the way for further advancements in the field, enabling new opportunities for research and innovation.

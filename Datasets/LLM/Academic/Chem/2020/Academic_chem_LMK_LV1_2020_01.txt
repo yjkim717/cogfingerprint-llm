@@ -1,0 +1,5 @@
+Title: Investigating the Hydrogenation of Carbon Monoxide on Interstellar Dust Grains: A Mechanistic Study
+
+Abstract:
+
+The hydrogenation of carbon monoxide (CO) on interstellar dust grains is a crucial process in the formation of complex organic molecules in the interstellar medium. In this study, we investigate the reaction mechanisms involved in the hydrogenation of CO embedded in amorphous solid water (ASW), a key component of interstellar ices. Using a combination of experimental and theoretical approaches, we demonstrate that CO hydrogenation occurs via diffusive reactions, yielding H2CO and CH3OH at temperatures up to 70 K. Our results indicate that the reaction is facilitated by the mobility of H atoms on the ASW surface, allowing for efficient hydrogenation of CO. The findings of this study provide new insights into the astrochemical processes that govern the formation of complex organic molecules in the interstellar medium, shedding light on the origins of molecular complexity in the universe. (2020)

@@ -1,0 +1,4 @@
+Title: Cavity Frequency-Dependent Modulation of Ground-State Reactivity in Vibrational Polariton Chemistry
+
+Abstract:
+In 2021, the field of vibrational polariton chemistry witnessed significant advancements in understanding the impact of vibrational strong coupling on ground-state reactivity. This study presents a cavity frequency-dependent theory, elucidating the non-Markovian dynamics underlying the modification of reaction rates. By examining the interplay between vibrational strong coupling and cavity frequency, we reveal a nuanced dependence of reactivity on the cavity frequency. Our findings provide a theoretical framework for predicting and controlling reaction rates in vibrational polariton chemistry, paving the way for novel applications in polariton chemistry.

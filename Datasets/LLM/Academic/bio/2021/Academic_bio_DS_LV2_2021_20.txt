@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract written in the style of a 2021 publication in the field of biology.
+
+***
+
+**Abstract**
+
+Forest microclimates represent a critical, yet poorly mapped, component of biodiversity conservation and species distribution forecasting. While it is widely acknowledged that the forest sub-canopy environment buffers temperature extremes, the spatial heterogeneity and seasonal dynamics of this buffering at a continental scale remain largely unquantified. This study addresses this critical knowledge gap by developing and applying a high-resolution machine learning model to map sub-canopy temperatures across European forests. We integrated a vast network of in-situ microclimate loggers with high-resolution remote sensing data on forest structure, topography, and macroclimate. Our analysis reveals that the offset between sub-canopy and free-air temperatures is not static but exhibits pronounced seasonal variation. During the summer, the sub-canopy environment provides a crucial cooling effect, while in winter, it offers a mild warming buffer, though with greater spatial variability. Crucially, we demonstrate that the macroclimate—the data typically used in species distribution models (SDMs)—is a poor predictor of these fine-scale thermal conditions experienced by understory organisms. The substantial microclimatic variation we uncover has profound implications for biogeography and conservation. It suggests that current SDMs, which rely on coarse-gridded climate data, likely misrepresent the thermal refugia available to understory species under climate change. Our spatially explicit maps provide an essential resource for more accurately predicting species vulnerabilities and identifying potential climate change refugia, thereby enabling more targeted and effective conservation strategies for forest biodiversity.
+
+(Word Count: 249)

@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The burgeoning field of molecular cavity quantum electrodynamics (cQED) has unveiled a novel paradigm for controlling chemical reactivity and material properties through the formation of hybrid light-matter states, known as polaritons. While experimental demonstrations, particularly under vibrational strong coupling (VSC), have shown remarkable modifications to ground-state chemical kinetics and selectivity, a robust and universally accepted theoretical framework remains elusive. A central challenge in this pursuit is the resolution of gauge ambiguities, where the physical predictions of models—specifically reaction rates under polariton formation—can vary significantly between the Coulomb and dipole gauges. This review synthesizes recent theoretical advances aimed at reconciling these discrepancies and establishing a gauge-invariant description of polariton chemistry. We critically examine the fundamental Hamiltonians governing molecular cQED, highlighting how the inclusion of diamagnetic (A²) and self-dipole terms is paramount for achieving gauge invariance, especially in the ultrastrong coupling regime. Furthermore, we survey the development and application of state-of-the-art computational methods, including exact diagonalization and quantum electrodynamical density functional theory (QEDFT), which are enabling first-principles explorations of complex molecular systems within optical cavities. By bridging fundamental theory with practical simulation, this work not only clarifies long-standing controversies but also charts a path for the rational design of cavity-induced control strategies, with prospective applications spanning from selective bond activation in synthetic chemistry to the engineering of novel quantum materials.
+
+(Word Count: 225)

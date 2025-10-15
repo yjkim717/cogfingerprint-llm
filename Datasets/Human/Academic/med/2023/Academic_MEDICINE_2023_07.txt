@@ -1,0 +1,21 @@
+Author: M. J. van den Bent
+Title: Vorasidenib in IDH1- or IDH2-Mutant Low-Grade Glioma.
+Paper ID: 04240ac4b5ea5663770c9a5de02cfb046357c1d9
+Year: 2023
+Author Index: 7
+
+Abstract:
+BACKGROUND
+Isocitrate dehydrogenase (IDH)-mutant grade 2 gliomas are malignant brain tumors that cause considerable disability and premature death. Vorasidenib, an oral brain-penetrant inhibitor of mutant IDH1 and IDH2 enzymes, showed preliminary activity in IDH-mutant gliomas.
+
+
+METHODS
+In a double-blind, phase 3 trial, we randomly assigned patients with residual or recurrent grade 2 IDH-mutant glioma who had undergone no previous treatment other than surgery to receive either oral vorasidenib (40 mg once daily) or matched placebo in 28-day cycles. The primary end point was imaging-based progression-free survival according to blinded assessment by an independent review committee. The key secondary end point was the time to the next anticancer intervention. Crossover to vorasidenib from placebo was permitted on confirmation of imaging-based disease progression. Safety was also assessed.
+
+
+RESULTS
+A total of 331 patients were assigned to receive vorasidenib (168 patients) or placebo (163 patients). At a median follow-up of 14.2 months, 226 patients (68.3%) were continuing to receive vorasidenib or placebo. Progression-free survival was significantly improved in the vorasidenib group as compared with the placebo group (median progression-free survival, 27.7 months vs. 11.1 months; hazard ratio for disease progression or death, 0.39; 95% confidence interval [CI], 0.27 to 0.56; P<0.001). The time to the next intervention was significantly improved in the vorasidenib group as compared with the placebo group (hazard ratio, 0.26; 95% CI, 0.15 to 0.43; P<0.001). Adverse events of grade 3 or higher occurred in 22.8% of the patients who received vorasidenib and in 13.5% of those who received placebo. An increased alanine aminotransferase level of grade 3 or higher occurred in 9.6% of the patients who received vorasidenib and in no patients who received placebo.
+
+
+CONCLUSIONS
+In patients with grade 2 IDH-mutant glioma, vorasidenib significantly improved progression-free survival and delayed the time to the next intervention. (Funded by Servier; INDIGO ClinicalTrials.gov number, NCT04164901.).

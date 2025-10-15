@@ -1,0 +1,9 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+We propose a novel dark matter (DM) production mechanism, *conformal freeze-in*, within a framework where a strongly-coupled, conformal dark sector communicates with the Standard Model (SM) via a neutrino portal. The DM candidate is a composite sterile neutrino, emerging as a low-energy excitation of the conformal field theory (CFT). In the early universe, at temperatures above the conformal scale, the sector is scale-invariant, suppressing direct decays from SM particles. The primary production occurs through feeble interactions between SM neutrinos and the CFT sector, mediated by a heavy portal fermion. As the universe cools and undergoes a confining phase transition, the conformal symmetry is spontaneously broken, generating the mass gap for the DM particle. The relic abundance is set by the integrated, redshifted production during the conformal era, which we demonstrate can yield the observed DM density for a range of CFT central charges and portal couplings. This model naturally evades direct detection constraints while offering potential signatures in neutrino experiments and cosmological observables.
+
+(Word count: 178)

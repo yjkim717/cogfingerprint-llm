@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Optimizing Endocrine Therapy for Male Breast Cancer: Adherence to ASCO Guidelines and the Role of Genetic Counseling
+
+Abstract:
+Male breast cancer, a rare and understudied malignancy, requires evidence-based management strategies. As of 2020, the American Society of Clinical Oncology (ASCO) guideline provides a framework for clinicians to deliver optimal care. Endocrine therapy, a cornerstone in the treatment of hormone receptor-positive male breast cancer, is typically administered using tamoxifen. Adherence to ASCO recommendations on endocrine therapy and targeted systemic therapy is crucial to improve patient outcomes. Furthermore, genetic counseling plays a pivotal role in identifying germline mutations, such as BRCA2, which inform treatment decisions and risk assessment for familial cancers. This review examines the current evidence supporting ASCO guideline recommendations for male breast cancer management, with a focus on endocrine therapy and genetic counseling. By synthesizing existing literature, this study aims to inform clinical practice and promote personalized care for male breast cancer patients.

@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2024.
+
+***
+
+**Abstract**
+
+The increasing deployment of Natural Language Processing (NLP) models has exposed significant performance disparities when applied to non-standard language varieties, particularly dialects. This survey synthesizes recent research aimed at mitigating these gaps to foster more equitable language technologies. We systematically analyze the landscape of dialect-centric NLP, identifying three critical dimensions: resource creation, modeling approaches, and task-specific adaptations. First, we catalog and critique available datasets, highlighting the challenges of data scarcity, annotation consistency, and representational breadth. Second, we evaluate modeling paradigms, contrasting the efficacy of specialized dialectal models against the emergent, yet uneven, capabilities of large language models (LLMs) in handling linguistic variation. Finally, we assess performance across core NLP tasks—such as sentiment analysis, named entity recognition, and machine translation—demonstrating that dialect sensitivity is not merely a lexical challenge but a complex sociolinguistic one. Our analysis concludes that achieving true equity requires a multidisciplinary approach, integrating robust data collection, sociolinguistically-informed model architectures, and rigorous evaluation frameworks that explicitly measure algorithmic fairness across dialectal continua.

@@ -1,0 +1,1 @@
+As a K12 sysadmin in 2020, I was stumped when trying to disable Android device syncing for students via the Google Admin console. After digging through enterprise policies, I finally found a workaround. It was a relief, and a reminder that sometimes, the right setting is just a few clicks away.

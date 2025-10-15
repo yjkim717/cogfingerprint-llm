@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In this study, we investigate the radiation-reaction effect on gravitational wave emission during the scattering of two point masses within the post-Minkowskian (PM) framework of General Relativity. Employing a PM perturbative expansion, we derive the gravitational waveform and flux to leading order in the Newton's constant. Our analysis reveals the significance of radiation-reaction effects in accurately modeling gravitational wave emission from binary encounters. The results presented here contribute to a deeper understanding of gravitational scattering processes and have implications for the interpretation of gravitational wave observations."

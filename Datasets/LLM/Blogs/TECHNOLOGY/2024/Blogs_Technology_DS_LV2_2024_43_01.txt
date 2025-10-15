@@ -1,0 +1,5 @@
+It’s 2024, and I’ll admit—I fell hard for the NextJS server component hype. At first, it felt like magic: building fullstack apps with backend logic snugly tucked into my frontend code. Prototyping was a breeze, and I felt like a wizard.
+
+But then, reality knocked. As features piled up, my neat little server actions started feeling like a tangled ball of yarn. Monitoring? Tricky. Scaling? A growing knot in my stomach. I began to wonder—is this tight backend coupling a clever shortcut or a future migraine in disguise?
+
+Now, I’m pausing, reflecting. There’s beauty in simplicity, but maybe some separation keeps things sane. After all, even magic needs a little structure, doesn’t it?

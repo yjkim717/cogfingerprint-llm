@@ -1,0 +1,5 @@
+Year: 2022
+Author: drowningfish
+URL: https://www.reddit.com/r/VMwareHorizon/comments/u21agf/disable_parentvms_via_powercli_horizon_2111/
+
+Is there a way to disable ParentVMs in VCenter via powercli? I have a script that runs every two weeks or so to perform maintenance on the Horizon ESXi hosts, and for the hosts to go into MM I need to make sure the Instant Clone ParentVMs are powered off / removed.

@@ -1,0 +1,5 @@
+## The Allure of Assembly, and the Rust Way to Get There
+
+It's 2022, and WebAssembly feels like *the* future of the web – and beyond. Lately, I've been wrestling with how to reliably generate Wasm IR. Direct manipulation feels… precarious. That's when the idea hit: what if I could define a simple DSL, a custom language for describing the operations I need? 
+
+Suddenly, Rust's tooling shines. Specifically, the elegant parsing capabilities of `pest.rs` alongside a safe Rust library for crafting Wasm IR – that’s the sweet spot. Less raw assembly, more declarative definition. It's a shift towards a more maintainable, and frankly, *fun* development experience.

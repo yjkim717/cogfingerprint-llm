@@ -1,0 +1,11 @@
+**Modernizing Identity Management: A Sysadmin's Journey**
+
+As I sit here in 2024, reflecting on the past year's IT projects, one task still lingers in my mind: updating our password policy and implementing self-service password reset (SSPR) in our hybrid environment. As a sysadmin, I've seen my fair share of password-related issues, and I'm determined to simplify the login process for our users.
+
+First things first, we needed to revisit our legacy ad infrastructure and integrate it with Microsoft's Modern Authentication. This involved configuring Entra (formerly Azure AD) to manage our users' identities seamlessly across on-premises and cloud applications. With Entra in place, we could leverage Microsoft MFA to add an extra layer of security to our users' login experiences.
+
+The real challenge lay in implementing SSPR. I recall the countless "forgot password" helpdesk tickets that would flood our queue every Monday morning. By enabling SSPR, we're empowering users to reset their passwords independently, reducing the burden on our IT team and minimizing downtime.
+
+To ensure a smooth rollout, I had to carefully review our password policy and align it with our new identity management setup. This involved defining password complexity rules, expiration periods, and account lockout policies that balance security with usability.
+
+The results have been impressive. With SSPR and Microsoft MFA in place, we've seen a significant drop in password-related support requests. Our users appreciate the convenience, and we've reduced the risk of password-related security breaches. As I look back on this project, I'm proud of the progress we've made in modernizing our identity management infrastructure. It's a great feeling knowing that our users are safer and more productive as a result.

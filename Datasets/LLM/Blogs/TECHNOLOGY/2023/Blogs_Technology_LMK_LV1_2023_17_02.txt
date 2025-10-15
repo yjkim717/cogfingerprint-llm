@@ -1,0 +1,5 @@
+"Setting Up My Home Lab: ZFS Memory Requirements in Proxmox"
+
+As I continued to tinker with my home lab setup in early 2023, I found myself deep in the trenches of configuring Proxmox with a RAIDZ1 array using ZFS. My goal was to create a robust and reliable virtualization environment, but I hit a roadblock when it came to understanding the memory requirements for ZFS. I had heard that ZFS is a memory hog, but I wasn't sure what that meant in practical terms.
+
+After digging through documentation and forums, I discovered that ZFS recommends a minimum of 8GB of RAM, but 16GB or more is ideal, especially when using a RAIDZ1 configuration. I realized that my initial 8GB setup might not be sufficient, and I needed to upgrade to ensure optimal performance. This experience taught me the importance of planning and research when it comes to setting up a home lab, and I'm excited to see my Proxmox setup come to life.

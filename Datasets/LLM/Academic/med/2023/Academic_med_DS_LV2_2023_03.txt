@@ -1,0 +1,15 @@
+Of course. Here is a formal academic abstract based on the provided summary, written from the perspective of a university researcher in 2023.
+
+***
+
+**Abstract**
+
+**Background:** The definitive in-vivo diagnosis of Alzheimer’s disease (AD) pathological change relies on the detection of amyloid-β (Aβ) pathology via cerebrospinal fluid (CSF) biomarkers or positron emission tomography (PET). However, the high cost, limited accessibility, and invasive nature of these modalities restrict their widespread clinical implementation. Consequently, there is a pressing need for accurate, scalable, and minimally invasive blood-based biomarkers to streamline the diagnostic workflow in memory clinic settings. Phosphorylated tau217 in plasma (p-tau217) has emerged as a highly promising candidate, demonstrating strong concordance with cerebral Aβ pathology.
+
+**Objective:** This study aimed to develop and validate a diagnostic workflow utilizing plasma p-tau217 to classify Aβ status accurately and to evaluate its potential for reducing the need for confirmatory CSF or PET testing in patients with cognitive impairment.
+
+**Methods:** We conducted a prospective cohort study involving patients presenting with subjective cognitive decline or mild cognitive impairment at tertiary memory clinics. Plasma p-tau217 levels were measured using an ultrasensitive immunoassay. Aβ status was determined by the reference standard of CSF Aβ42/40 ratio or Aβ-PET. A two-step classification model was developed: in step one, individuals with p-tau217 concentrations below a pre-defined cutoff were classified as Aβ-negative, while those above a higher cutoff were classified as Aβ-positive. Individuals falling within the intermediate range proceeded to step two for confirmatory CSF/PET testing.
+
+**Results:** The two-step p-tau217 workflow demonstrated high diagnostic accuracy, with an area under the curve (AUC) of 0.95 for identifying Aβ positivity. The model correctly classified over 80% of the cohort, thereby reducing the requirement for confirmatory CSF or PET testing by approximately 65% compared to a standard workflow where all patients undergo invasive or expensive testing.
+
+**Conclusion:** The implementation of a plasma p-tau217-based triage strategy provides a robust and efficient method for classifying Aβ status. This approach maintains high diagnostic precision while substantially alleviating the economic and logistical burdens associated with current confirmatory tests, facilitating earlier and more accessible etiological diagnosis for patients with suspected AD.

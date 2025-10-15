@@ -1,0 +1,5 @@
+Year: 2024
+Author: chewy747
+URL: https://www.reddit.com/r/sysadmin/comments/1ef07xz/what_are_the_implications_of_having_a_gpo/
+
+If I have a GPO applied at the root of the domain which has the minimum password length of 14 characters and a fine grained password that applies to the domain users group that has a minimum of 15 characters what will win? I assume the fine grained password. Just wondering if there are any other implications of having both in effect.

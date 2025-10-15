@@ -1,0 +1,5 @@
+Year: 2023
+Author: robbo2020a
+URL: https://www.reddit.com/r/PleX/comments/15j9qkl/anyone_used_tsv_files/
+
+I have a bunch of files in tsv filel format, I think from a PVR. Does anyone have any recommendations on how to make these usable in Plex? From what I can tell the tsv files are in multiple parts (often a 2-3gb file + a 20-40mb file).

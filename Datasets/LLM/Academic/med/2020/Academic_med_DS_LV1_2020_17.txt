@@ -1,0 +1,5 @@
+**Abstract**
+
+The binary classification of amyloid-beta (Aβ) pathology in cerebrospinal fluid (CSF) may lack sensitivity for identifying individuals in the earliest stages of Alzheimer's disease (AD). This 2020 study aimed to define and validate intermediate CSF Aβ42/Aβ40 ratio cutoffs to refine prognostic accuracy. Using a data-driven, three-range approach (positive, intermediate, negative), we stratified a longitudinal cohort of cognitively impaired patients. Our analysis demonstrated that individuals within the intermediate amyloid category exhibited a significantly higher rate of clinical progression to AD dementia over a 24-month follow-up compared to the amyloid-negative group, while remaining distinct from the rapidly progressing amyloid-positive group. These findings advocate for the incorporation of intermediate CSF cutoffs into diagnostic frameworks, enhancing the identification of at-risk populations for earlier therapeutic intervention and improved clinical trial stratification.
+
+(124 words)

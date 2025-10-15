@@ -1,0 +1,12 @@
+>## The Unexpected Joy of Slowing Down (and Rendering)
+
+It’s 2020, and frankly, life feels like a constant race. Between the relentless news cycle and the pressure to be *doing* something, I found myself completely burnt out. My creative projects, once a source of joy, felt like another item on an ever-growing to-do list. I needed a change, a way to reclaim some peace.
+
+That’s when I dove headfirst into a surprisingly calming hobby: video editing. It started small, just organizing family videos, but quickly evolved. I upgraded my computer – a Ryzen 3600 build, meticulously researched with agonizing over motherboards and GPU pairings (seriously, the rabbit hole is deep!).
+
+The funny thing is, the *process* of editing, even the tedious parts like transcoding with Handbrake, has become meditative. Watching those hours of footage slowly render, knowing I'm creating something tangible, is oddly satisfying. It forces me to slow down, to focus on a single task, and to disconnect from the constant digital noise. 
+
+It’s a small thing, building a PC and editing videos, but it's become a quiet anchor in a chaotic year. Sometimes, the best way to find peace is to embrace the deliberate pace of a machine working hard, and a little bit of pixel magic.
+
+
+

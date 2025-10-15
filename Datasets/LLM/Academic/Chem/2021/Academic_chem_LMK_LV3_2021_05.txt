@@ -1,0 +1,5 @@
+Title: Investigating the Crystallinity and Morphology of Icy Grains in Astrophysical Environments using Transmission Electron Microscopy
+
+Abstract:
+
+The morphology and crystallinity of ices on refractory grains play a crucial role in understanding the evolution of icy grains in molecular clouds and protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to examine the microstructure of ices composed of H2O, CO2, and CO on refractory substrates. Our results show that the morphology and crystallinity of these ices are strongly dependent on their composition and the underlying substrate. The TEM analysis revealed a range of ice morphologies, from amorphous to crystalline structures, which are influenced by the specific molecular composition and substrate interactions. These findings have significant implications for our understanding of the role of icy grains in astrophysical environments, particularly in the context of astrochemical processes and the formation of planetary systems. The results of this study, conducted in 2021, contribute to the ongoing research in the field of astrochemistry.

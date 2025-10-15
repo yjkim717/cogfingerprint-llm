@@ -1,0 +1,7 @@
+'s response:
+
+## The Hum That Drove Me Mad (and a Lesson in Motherboard Mysteries)
+
+Okay, so confession time: I almost lost it last week. My CyberPowerPC build, usually a silent beast, developed this *constant* high-pitched whine. Turns out, I'd connected a couple of fans to the CPU_OPT header instead of using PWM. Rookie mistake, I know! 
+
+It's funny, isn't it? We obsess over RGB lighting and liquid cooling, but sometimes the simplest things trip us up. My Phanteks P500A case sounded like a swarm of angry bees until I figured it out. Just a quick switch, and blissful silence returned. A good reminder that reading the motherboard manual (yes, *actually* reading it) can save your sanity – and your ears! Anyone else had a similar "facepalm" moment with their PC?

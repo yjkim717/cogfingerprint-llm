@@ -1,0 +1,23 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Unseen Firewall: Navigating the Human Protocols of IT
+
+It’s 2024, and you’d think the most complex systems I manage are our Kubernetes clusters or the new AI-powered security suite. But honestly? The trickiest, most unpredictable system I’ve encountered is the one governing professional friendships.
+
+I’m a sysadmin. My world is built on logic, clear protocols, and defined permissions. A port is either open or it’s closed. A user is either in the ‘admin’ group or they’re not. There’s comfort in that binary clarity.
+
+Which is why a recent interaction has left me reconfiguring my own internal settings.
+
+A colleague—let’s call her Sarah—and I have a great professional rapport. We’re the go-to duo for untangling gnarly server issues, and our Slack thread is a masterclass in efficient problem-solving. It’s a platonic, work-spouse dynamic that I thought had a solid firewall in place.
+
+Then, last week, during a casual Teams call about a minor network latency issue, she shared something deeply personal. It wasn’t just “I’m having a rough day”; it was an intimate, vulnerable detail about her personal life that felt completely detached from our usual troubleshooting banter. The conversation ended with a quick “Anyway, talk later!” and a click.
+
+And my brain just… blue-screened.
+
+My first instinct, trained by years of parsing logs for malicious intent, was to question the motive. Why that detail? Why now? Was this a social engineering attempt on my professional boundaries? I’m a married man; my personal life is happily air-gapped from my work one.
+
+But then I realized the flaw in my logic. People aren’t servers. They don’t follow predictable RFC standards for emotional disclosure. There’s no simple `iptables` command to block uncomfortable intimacy.
+
+The real sysadmin challenge isn’t just securing the network; it’s navigating these murky human protocols with empathy while keeping your own professional integrity intact. I’m still working on that patch.

@@ -1,0 +1,1 @@
+I remember the day Firefox closed that WebBluetooth ticket as 'WONTFIX.' My heart sank. Years later in 2024, I still feel that pang when my smart devices won't connect. It's a reminder that in our interconnected world, even the best browsers make choices that leave some of us in the digital cold.

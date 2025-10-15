@@ -1,0 +1,13 @@
+Title: Unveiling APOE ε4 Genotype-Dependent Cerebrospinal Fluid Proteomic Signatures in Alzheimer's Disease: Insights into Amyloid β Aggregation and Complement Pathway Dysregulation
+
+Abstract:
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid β (Aβ) plaques and neurofibrillary tangles in the brain. The apolipoprotein E (APOE) ε4 genotype is a well-established genetic risk factor for AD, influencing Aβ aggregation and disease progression. Cerebrospinal fluid (CSF) proteomics has emerged as a valuable tool for identifying biomarkers and elucidating molecular mechanisms underlying AD pathology. This study aimed to investigate APOE ε4 genotype-dependent CSF proteomic signatures associated with AD and Aβ aggregation.
+
+Using a discovery cohort comprising 100 participants (50 AD patients and 50 controls), we performed label-free quantitative proteomics on CSF samples to identify differentially expressed proteins between APOE ε4 carriers and non-carriers. Our analysis revealed a distinct proteomic signature in APOE ε4 carriers, characterized by the upregulation of proteins involved in the complement pathway, including C1q, C3, and C4b. Moreover, we observed a significant correlation between the levels of these complement proteins and Aβ42/Aβ40 ratios, suggesting a link between APOE ε4 genotype and Aβ aggregation.
+
+Pathway analysis of the differentially expressed proteins revealed a significant enrichment of immune response and inflammatory pathways in APOE ε4 carriers. Notably, the activation of the complement pathway was accompanied by the downregulation of proteins involved in Aβ clearance, such as clusterin and apolipoprotein J. These findings suggest that APOE ε4 genotype-dependent dysregulation of the complement pathway may contribute to impaired Aβ clearance and enhanced aggregation.
+
+To validate our findings, we analyzed an independent cohort of 50 AD patients and observed a similar APOE ε4 genotype-dependent proteomic signature. Our results demonstrate that APOE ε4 genotype influences CSF proteomic profiles in AD, highlighting the importance of considering genetic background in biomarker discovery and disease mechanism research.
+
+In conclusion, this study identifies APOE ε4 genotype-dependent CSF proteomic signatures associated with AD and Aβ aggregation, providing new insights into the molecular mechanisms underlying disease pathology. Our findings suggest that targeting the complement pathway may be a promising therapeutic strategy for APOE ε4 carriers, and highlight the need for further research into the complex interplay between APOE ε4 genotype, Aβ aggregation, and immune response in AD.

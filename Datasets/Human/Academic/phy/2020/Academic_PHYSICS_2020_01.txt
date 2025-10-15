@@ -1,0 +1,8 @@
+Author: G. Hooft
+Title: Deterministic Quantum Mechanics: The Mathematical Equations
+Paper ID: 37ff44b278e9bf658ad13b98279330029c293a9c
+Year: 2020
+Author Index: 1
+
+Abstract:
+Without wasting time and effort on philosophical justifications and implications, we write down the conditions for the Hamiltonian of a quantum system for rendering it mathematically equivalent to a deterministic system. These are the equations to be considered. Special attention is given to the notion of 'locality'. Various examples are worked out, followed by a systematic procedure to generate classical evolution laws and quantum Hamiltonians that are exactly equivalent. What is new here is that we consider interactions, keeping them as general as we can. The quantum systems found, form a dense set if we limit ourselves to sufficiently low energy states. The class is discrete, just because the set of deterministic models containing a finite number of classical states, is discrete. In contrast with earlier suspicions, the gravitational force turns out not to be needed for this; it suffices that the classical system act at a time scale much smaller than the inverse of the maximum scattering energies considered.

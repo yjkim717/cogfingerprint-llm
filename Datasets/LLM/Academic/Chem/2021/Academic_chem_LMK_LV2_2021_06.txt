@@ -1,0 +1,5 @@
+Title: Efficient Formaldehyde Formation via C + H2O Reaction on Amorphous Solid Water: An Astrochemically Relevant Process
+
+Abstract:
+
+The formation of formaldehyde (H2CO) in interstellar environments remains a topic of significant interest in astrochemistry. In this study, we present experimental evidence supporting a novel and efficient route to H2CO formation via the reaction of carbon atoms with amorphous solid water (ASW) at cryogenic temperatures. Our results demonstrate that the C + H2O reaction is significantly catalyzed by the presence of H2O molecules, facilitating the formation of H2CO via a barrierless pathway. The reaction proceeds through the insertion of C atoms into H2O, followed by H-atom migration and subsequent H2CO formation. The astrochemical implications of this process are substantial, as it provides a viable mechanism for H2CO formation in interstellar ices. Our findings highlight the importance of H2O-catalyzed reactions in the chemistry of interstellar environments, with significant implications for our understanding of complex organic molecule formation in the 2021 astrochemical context.

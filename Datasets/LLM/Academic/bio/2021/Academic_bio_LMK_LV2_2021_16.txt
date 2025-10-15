@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract based on the provided summary:
+
+Title: Efficient Genome Editing in Pleurotus ostreatus via CRISPR/Cas9 for Non-GM Molecular Breeding
+
+Abstract:
+The CRISPR/Cas9 system has revolutionized genome editing in various organisms; however, its application in edible fungi remains limited. This study demonstrates the successful implementation of CRISPR/Cas9-mediated genome editing in Pleurotus ostreatus, a widely cultivated edible mushroom. We achieved efficient mutagenesis via homology-directed repair (HDR), enabling precise modifications to the P. ostreatus genome. The CRISPR/Cas9 system was optimized for P. ostreatus by designing guide RNAs targeting specific genomic loci. Our results show that CRISPR/Cas9-mediated genome editing can be employed for the molecular breeding of non-GM P. ostreatus strains, providing a valuable tool for improving agronomic traits without introducing transgenic modifications. This breakthrough has significant implications for the development of novel, non-GM P. ostreatus varieties with enhanced characteristics, contributing to sustainable agriculture and food security (2021).

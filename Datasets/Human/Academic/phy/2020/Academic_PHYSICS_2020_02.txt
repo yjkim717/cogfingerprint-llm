@@ -1,0 +1,8 @@
+Author: N. Arkani-Hamed
+Title: The EFT-hedron
+Paper ID: 1af2b1739e573781dd8d1f3fbb6b62a18aba7532
+Year: 2020
+Author Index: 2
+
+Abstract:
+We re-examine the constraints imposed by causality and unitarity on the low-energy effective field theory expansion of four-particle scattering amplitudes, exposing a hidden “totally positive” structure strikingly similar to the positive geometries associated with grassmannians and amplituhedra. This forces the infinite tower of higher-dimension operators to lie inside a new geometry we call the “EFT-hedron”. We initiate a systematic investigation of the boundary structure of the EFT-hedron, giving infinitely many linear and non-linear inequalities that must be satisfied by the EFT expansion in any theory. We illustrate the EFT-hedron geometry and constraints in a wide variety of examples, including new consistency conditions on the scattering amplitudes of photons and gravitons in the real world.

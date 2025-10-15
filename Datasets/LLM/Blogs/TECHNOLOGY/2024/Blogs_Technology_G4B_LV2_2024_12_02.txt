@@ -1,0 +1,13 @@
+Okay, here's a blog post draft based on that summary, aiming for a conversational and reflective tone, around 215 words:
+
+---
+
+**The LLM Promise vs. Reality: My Coding Headache**
+
+Okay, let’s be honest – 2024 feels like the year everyone was *obsessed* with LLMs as coding assistants. Seriously, every other article was raving about how AI was going to revolutionize web development. And I, like a lot of people, jumped on the bandwagon. I was convinced I’d finally ditch the endless Stack Overflow searches.
+
+I started with the basics – a simple CSS tweak, a little JavaScript logic. The LLM confidently spat out the code. It *looked* right. But then things got… complicated. Suddenly, I was wrestling with a particularly stubborn layout, trying to get a Vue 3 component to actually *do* what I wanted. 
+
+It wasn’t just the styling. Complex interactions, understanding the underlying logic – the LLM just… stalled. It felt less like helpful assistance and more like a frustrating echo chamber of generic responses. 
+
+Honestly, I walked away feeling a bit deflated.  It highlighted a really important point: these tools aren’t shortcuts to learning. They’re not replacing the actual work of understanding how code *works*.  Right now, they’re mostly unhelpful for actually *learning* to code, and that’s a bummer.  Anyone else feeling this way?

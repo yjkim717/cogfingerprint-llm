@@ -1,0 +1,5 @@
+Year: 2024
+Author: ItsTreDay
+URL: https://www.reddit.com/r/PartneredYoutube/comments/1dmtj00/thumbnail_ab_testing_not_properly_displaying/
+
+I tried thumbnail testing for the first time, and while so far in the first hour the CTR is great, when I go to my channel logged in or out, only the middle of the thumbnail is showing. Is this just on my end, or is everyone seeing the glitched thumbnail?

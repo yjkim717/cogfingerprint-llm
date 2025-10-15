@@ -1,0 +1,9 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The One That Got Away: My RX 5600 ITX Saga
+
+Well, my grand 2024 ITX build hit a classic snag. I was so focused on the specs—those 2,304 stream processors on the RX 5600 were a steal for the price! I snagged one for just $95 on a hardware swap forum, already fitted with a massive triple-fan cooler.
+
+The irony isn’t lost on me. I bought a beast of a cooler for a small-form-factor case, and it’s that very cooler that made the entire project impossible. The card was simply too long, a chunky monument to my poor planning. It’s a bittersweet lesson in the physical reality of PC building, where millimeters matter more than megahertz. Sometimes, the perfect part on paper is the wrong one for your reality. It’s now listed back on the forum, waiting for a more spacious home.

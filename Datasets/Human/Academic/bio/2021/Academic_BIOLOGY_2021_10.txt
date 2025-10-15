@@ -1,0 +1,22 @@
+Author: Fengchao Yu
+Title: Profiling the Proteome-Wide Selectivity of Diverse Electrophiles
+Paper ID: ddd1bd14bf697ba7d971f237a537ccc4a91bc6bf
+Year: 2021
+Author Index: 10
+
+Abstract:
+Targeted covalent
+inhibitors are powerful entities in drug discovery, but their application has
+so far mainly been limited to addressing cysteine residues. The development of
+cysteine-directed covalent inhibitors has largely profited from determining
+their proteome-wide selectivity using competitive residue-specific proteomics. Several
+probes have recently been described to monitor other amino acids using this
+technology and many more electrophiles exist to modify proteins. Nevertheless,
+a direct, proteome‑wide comparison of the selectivity of diverse probes is
+still entirely missing. Here, we developed a completely unbiased workflow to analyse
+electrophile selectivity proteome‑wide and applied it to directly compare 54 alkyne
+probes containing diverse reactive groups. In this way, we verified and newly identified
+probes to monitor a total of nine different amino acids as well as the N‑terminus
+proteome‑wide. This selection includes the first probes to globally monitor
+tryptophans, histidines and arginines as well as novel tailored probes for
+methionines, aspartates and glutamates.

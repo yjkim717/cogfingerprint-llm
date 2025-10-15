@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2023 publication:
+
+**Abstract**
+
+Recent advancements in large language models (LLMs) have yielded significant progress in code generation capabilities. This work investigates the efficacy of integrating code generation within LLM architectures for specialized natural language processing (NLP) tasks. Specifically, we examine the performance of Code-LLMs – models trained to generate code alongside natural language – compared to traditional Natural Language LLMs (NL-LLMs) in the context of few-shot information extraction. Our experiments, focusing on named entity recognition (NER) datasets, reveal a demonstrable advantage for Code-LLMs. We hypothesize that the inherent structured reasoning capacity fostered by code generation allows these models to more effectively adapt to novel, limited-data scenarios.  The observed performance difference suggests a promising avenue for enhancing LLM utility through hybrid architectures and warrants further research into the transferability of code-based reasoning skills to broader NLP challenges.

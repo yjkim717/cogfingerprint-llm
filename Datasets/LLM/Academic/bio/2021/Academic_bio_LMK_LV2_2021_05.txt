@@ -1,0 +1,9 @@
+Title: Assessing the Impact of Highly Pathogenic Avian Influenza (H5N1) on the Poultry Industry in the EU/EEA: A Risk Analysis
+
+Abstract:
+
+The emergence of highly pathogenic avian influenza (HPAI) subtype H5N1 in the EU/EEA during the latter half of 2021 presented a significant threat to the regional poultry industry. Between September and December 2021, a total of 867 HPAI detections were reported, underscoring the escalating risk of transmission and potential economic losses. This study aims to assess the risk posed by HPAI H5N1 to the EU/EEA poultry industry, with a particular focus on the role of wild birds in virus transmission and the efficacy of implemented biosecurity measures.
+
+A comprehensive analysis of epidemiological data and surveillance reports from the EU/EEA during the specified period reveals a correlation between HPAI detections in wild birds and subsequent outbreaks in poultry farms. The introduction of HPAI H5N1 into the region via migratory wild birds is identified as a primary risk factor, highlighting the need for enhanced biosecurity protocols to mitigate the risk of transmission.
+
+The study evaluates the effectiveness of current biosecurity measures, including farm-level interventions and surveillance strategies, in controlling the spread of HPAI H5N1. The findings of this research will inform evidence-based policy recommendations for the EU/EEA poultry industry, aimed at reducing the risk of HPAI transmission and promoting a more resilient and sustainable poultry production sector. The results of this study will contribute to the ongoing efforts to protect animal health, ensure food security, and mitigate the economic impacts of HPAI outbreaks in the region.

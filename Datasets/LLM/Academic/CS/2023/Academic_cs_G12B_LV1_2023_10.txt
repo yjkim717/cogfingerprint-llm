@@ -1,0 +1,8 @@
+
+## Carimas: A Unified Platform for Multi-Modal Medical Image Analysis and Modeling
+
+**Abstract:** The increasing complexity of modern medical diagnostics necessitates sophisticated tools for image processing and analysis. This paper introduces Carimas, a software platform initially developed for positron emission tomography (PET) data visualization and quantification, which has undergone significant expansion to support a broader range of medical imaging modalities. Carimas provides a unified environment for performing data processing, including advanced filtering, segmentation, and registration techniques, alongside robust modeling capabilities applicable to diverse clinical applications. The platform’s core architecture facilitates seamless integration of data from PET, magnetic resonance imaging (MRI), and potentially other modalities, enabling synergistic analysis of physiological processes. Specifically, we highlight Carimas’ utility in cardiac perfusion assessment, demonstrating its ability to combine PET and MRI data to provide a comprehensive evaluation of myocardial function. This work outlines the platform's evolving features, algorithmic foundations, and potential for future development within the field of medical image computing, emphasizing its role in facilitating translational research and clinical decision support.
+
+
+
+---

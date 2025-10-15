@@ -1,0 +1,9 @@
+"Locking Down Local Admins: A Sysadmin's Quest"
+
+As a sysadmin, I've always been on the lookout for ways to tighten up our organization's security posture. Recently, our vulnerability scan flagged a concerning issue: our local administrator accounts had too many privileges. Specifically, they were allowed to log on to the network, which is a big no-no. So, I set out to deny them that access using Group Policy in Active Directory.
+
+My goal was to restrict the "Log on locally" user right to only authorized personnel. I navigated to the Group Policy Management Console and created a new GPO, linking it to the relevant OU. I then edited the policy, heading to Computer Configuration > Windows Settings > Security Settings > Local Policies > User Rights Assignment. There, I found the "Deny log on through Remote Desktop Services" and "Deny access to this computer from the network" policies.
+
+After some trial and error, I successfully configured the GPO to deny local administrator accounts network access. Our next vulnerability scan came back clean – a small win, but a crucial one. I learned that sometimes, it's the little tweaks that make the biggest difference in security.
+
+This experience reinforced the importance of regularly reviewing our Group Policies and User Rights Assignments. As we continue to navigate the ever-evolving threat landscape in 2022, it's clear that staying on top of these details is essential to keeping our organization's digital assets secure. With this change in place, I can rest a little easier knowing our local admins are locked down and our network is just a bit more secure.

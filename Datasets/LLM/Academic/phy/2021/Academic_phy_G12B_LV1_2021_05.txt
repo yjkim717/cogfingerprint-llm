@@ -1,0 +1,8 @@
+ here:
+
+## A Precise Determination of the Hubble Constant Utilizing Tip-of-the-Red-Giant Branch (TRGB) Standard Candles and Gaia Astrometry
+
+**Abstract:** The ongoing tension between the Hubble constant (H₀) derived from early-universe observations (Cosmic Microwave Background, CMB) and those obtained from late-universe distance ladder measurements (Type Ia Supernovae, SN Ia) remains a significant challenge in modern cosmology. This work presents a new, independent determination of H₀ employing the Tip-of-the-Red-Giant Branch (TRGB) method, leveraging the unprecedented astrometric and photometric precision provided by the Gaia satellite data released in 2021.  We calibrate the TRGB luminosity using a sample of nearby galaxies with well-established distances, allowing for a direct measurement of the distance moduli to galaxies exhibiting TRGB features. These distance moduli are then compared with recession velocities obtained from spectroscopic observations, yielding an estimate of H₀.  Our analysis incorporates rigorous error propagation accounting for uncertainties in the Gaia parallaxes, photometric calibrations, and metallicity corrections applied to the TRGB luminosity.  The resulting value for H₀ is 69.8 ± 0.6 km s⁻¹ Mpc⁻¹, where the uncertainty reflects both statistical and systematic considerations. This value demonstrates remarkable consistency with the H₀ value inferred from Planck CMB observations (approximately 67.4 km s⁻¹ Mpc⁻¹), suggesting a potential alleviation of the Hubble tension.  Further investigation into systematic uncertainties and independent calibrations remains crucial, but this TRGB-based measurement strengthens the case for a universe whose expansion rate is well-represented by the early-universe predictions.
+
+
+

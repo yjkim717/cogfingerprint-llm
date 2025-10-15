@@ -1,0 +1,5 @@
+Year: 2020
+Author: shannister
+URL: https://www.reddit.com/r/apolloapp/comments/j4woer/is_there_a_way_to_arrange_awards_as_i_please/
+
+With the explosion of awards it’s become a little bit of a shitshow to find the one you’re looking for. I was hoping to at least order them in categories, and have a favorite list at the top. Is that something the app could do or does Reddit’s system not allow it?

@@ -1,0 +1,5 @@
+There’s something meditative about watching my aquarium—the gentle sway of plants, the quiet hum of the filter. But 2021 had me craving more simplicity, so I decided to build my own auto top-off system. It was a classic DIY adventure: a float switch, a relay, and a pump, all wired together with hopeful determination.
+
+At first, it worked beautifully, keeping the water level steady. But soon, I noticed the pump cycling too often, triggered by tiny ripples or a curious fish. It felt like life sometimes—overreacting to small disturbances, stuck in a loop of minor adjustments.
+
+That’s when I added a second float switch, creating a simple “high-low” control. The constant triggering stopped, and the system settled into a calm, reliable rhythm. It reminded me that a little extra foresight can bring balance, not just to an aquarium, but to our daily lives too. Sometimes, the smallest tweaks make all the difference.

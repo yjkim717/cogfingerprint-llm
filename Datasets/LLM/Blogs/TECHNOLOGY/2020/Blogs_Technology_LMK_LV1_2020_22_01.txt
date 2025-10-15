@@ -1,0 +1,1 @@
+"As I struggled with choppy video calls on Microsoft Teams in 2020, I wondered: does Teams cache audio and video data? I discovered that Teams stores meeting data in local cache directories. Clearing these caches often resolved my AV performance issues. It was a simple fix, but one that greatly improved my virtual meeting experience."

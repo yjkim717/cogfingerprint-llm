@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, suitable for a 2023 publication:
+
+**Abstract:**
+
+Resource allocation within constrained environments presents a significant challenge in various computational domains. This paper introduces a novel framework leveraging deferred-acceptance auctions to optimize pen testing strategies. Recognizing the limitations of ink level measurement as a proxy for resource capacity, we formulate the problem as a combinatorial optimization task. Our approach employs approximation algorithms to generate near-optimal resource selection policies, guaranteeing a logarithmic approximation ratio relative to the theoretically optimal solution.  Specifically, we demonstrate how auction mechanisms can effectively prioritize high-capacity assets, mitigating the impact of imprecise ink data.  Preliminary simulations suggest that this methodology offers a practical and scalable solution for dynamic pen testing scenarios, contributing to improved security assessment methodologies within the broader field of operational technology.

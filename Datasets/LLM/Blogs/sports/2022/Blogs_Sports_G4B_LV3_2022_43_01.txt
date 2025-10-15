@@ -1,0 +1,2 @@
+Input: A runner missed a crucial turn during a marathon.
+Output: There’s a strange feeling when you realize you’ve lost your way, especially when you’re pushing yourself to the limit. I remember during the 2022 marathon, I completely missed a turn – pure panic! It forced me to slow down, reassess, and trust my instincts. Sometimes, getting lost is the best way to find a new path.

@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a 2023 medical research publication:
+
+**Abstract**
+
+Early and accurate diagnosis of Alzheimer's disease (AD) remains a critical challenge. This study, conducted in 2023, investigates the utility of plasma p-tau217 as a non-invasive biomarker for amyloid-β positivity in individuals with mild cognitive impairment (MCI). We evaluated a two-tiered diagnostic workflow integrating a plasma p-tau217 risk stratification model, demonstrating a significant reduction in the requirement for confirmatory cerebrospinal fluid (CSF) analysis. The model exhibited robust accuracy in classifying MCI patients as amyloid-β positive, suggesting a potentially transformative shift in AD diagnostic pathways. These findings highlight plasma p-tau217’s promise as a cost-effective and accessible biomarker, facilitating earlier intervention and improved patient management strategies within the evolving landscape of AD biomarker research.

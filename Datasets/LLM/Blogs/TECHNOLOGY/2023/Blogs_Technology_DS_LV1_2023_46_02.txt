@@ -1,0 +1,17 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Day I Taught My Script to Think for Itself
+
+It all started with a blinking cursor and a feeling of dread. My to-do list had a recurring, mind-numbing task: "Transfer the daily report files via FTP." Every afternoon, like clockwork, I'd fire up WinSCP, drag, drop, and hope. Some days, there were no files. I’d go through the motions anyway, a digital puppet performing for an empty theater. In 2023, this felt… archaic. I was a human acting as a simple `if` statement.
+
+I knew there had to be a better way. I’d dabbled in PowerShell—enough to be dangerous but not enough to be competent. My goal was simple: automate the scheduled FTP transfer, but only *if* there were files to send. I didn't want a mindless robot; I wanted a smart assistant that could look at a folder and say, "Nope, nothing to see here today."
+
+The journey was a classic tale of tech frustration. My first script was a blunt instrument. It connected, it transferred, but it also threw errors when the folder was empty. It was automation, but clumsy and noisy. I was replacing one problem with another.
+
+The breakthrough came when I finally wrestled WinSCP's .NET assembly into my PowerShell script and discovered the `GetFiles` method. This was the key. I could now ask the script a question before it took action: "Are there any files here?"
+
+Adding that conditional logic—`if ($files.Count -gt 0)`—felt like a revelation. It was no longer just a sequence of commands; it was a flow of logic. A decision tree. I was no longer just automating a task; I was encoding a process. The script went from being a hammer to a scalpel.
+
+Now, it runs silently in the background. Some days it works, some days it rests. And I’ve learned that true power in technology isn't just about making things faster; it's about making them smarter. It’s about teaching the machine a sliver of our own judgment, freeing us not just from labor, but from the mental load of pointless routine. That blinking cursor isn't so daunting anymore. It’s an invitation to build a better, more thoughtful way to work.

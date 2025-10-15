@@ -1,0 +1,5 @@
+Year: 2020
+Author: vortexmak
+URL: https://www.reddit.com/r/OneNote/comments/ere82f/cannot_open_online_notebook_in_2010_desktop_used/
+
+Last night I noticed that the online notebook I've been working on using desktop Onenote 2010 was empty, all pages and sections disappeared I checked Onenote web and my phone and it's all there. I tried closing and reopening the notebook by clicking ' Open in App' from onenote web but I get the error " The filenme is not valid. File names cannot contain any of the following characters ? * /\ : <>|" What happened? I had been using this notebook for months in desktop onenote 2010, none of the file names contain special characters and I didn't create or modify and names and sections

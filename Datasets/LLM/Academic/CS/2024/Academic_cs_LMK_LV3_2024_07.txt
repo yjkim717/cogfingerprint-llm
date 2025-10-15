@@ -1,0 +1,1 @@
+This paper presents a novel counterexample to Ashtiani's conjecture (2024), demonstrating a learnable distribution class under finite samples that is not privately learnable under differential privacy, leveraging total variation distance to establish the impossibility of private learning for certain statistical learning tasks.

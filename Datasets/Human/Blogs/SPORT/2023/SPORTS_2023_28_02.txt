@@ -1,0 +1,5 @@
+Year: 2023
+Author: shapu
+URL: https://www.reddit.com/r/baseballcards/comments/15eslzi/issue_revising_multivariation_listing_for_cards/
+
+I'm trying to update an older listing selling multiple sports cards. I had been listing cards using the "Variations" option, creating a custom variation for each number-player condition. So, for example, 2022 Topps would contain a line for "1 - Shohei Ohtani," and so on. I am attempting to edit an older listing and add some new variations. When I do so, I am told that "Card Condition" is now a required field. Fine, no big deal. But when I attempt to select the "Ungraded" option, the "Condition" dropdown remains grayed out and unselectable. Are others having this issue? What is the solution? Do I need to take down all of my (several dozen) multi-variation listings and resubmit them? What is the new tool here? Thanks in advance.

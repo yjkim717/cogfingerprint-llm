@@ -1,0 +1,5 @@
+Year: 2023
+Author: decebaldecebal
+URL: https://www.reddit.com/r/chrome/comments/16xvtxs/smooth_gestures_extension_no_longer_in_chrome_web/
+
+Hello, I have been using the Smooth Gestures Plus extension for years now, but I see it is no longer in the chrome webstore: I still have it running on an older PC, but on a new laptop I can no longer install the extension... I really use this extensively and it saves time when switching between tabs, closing tabs or opening a new tab since I can do all of this with the mouse. What happened to it? Are there any alternatives? Screenshot for reference on how it looks like.

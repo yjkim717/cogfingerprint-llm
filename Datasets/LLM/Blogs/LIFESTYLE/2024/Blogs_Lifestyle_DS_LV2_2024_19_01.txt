@@ -1,0 +1,5 @@
+It’s funny how priorities shift as you get older. A few years ago, my biggest tech decision was which smartphone had the best camera for vacation photos. Now, in 2024, my biggest project is setting up a security system.
+
+I found myself diving down a rabbit hole of IP cameras, mini PCs, and something called DeepStack AI. It started with a simple goal: keep an eye on the house. But as I researched Blue Iris software and hardware specs, it became about more than just security. It was about building a smarter, more responsive home—a place that looks out for us.
+
+There’s something deeply satisfying about this new kind of homemaking. It’s not just about paint colors and throw pillows anymore; it’s about weaving a little bit of the future into our daily lives. And honestly, figuring out how to make three 8MP cameras talk to an AI feels a lot more rewarding than I ever expected. It turns out, peace of mind is the ultimate home upgrade.

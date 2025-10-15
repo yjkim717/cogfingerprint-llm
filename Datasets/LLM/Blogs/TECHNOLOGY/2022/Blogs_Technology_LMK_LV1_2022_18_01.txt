@@ -1,0 +1,1 @@
+"As I navigated Office365's settings in 2022, I stumbled upon a solution to a nagging problem: blocking Outlook on unmanaged mobile devices. By leveraging device access rules, I could quarantine unknown devices and grant access to trusted ones, ensuring our team's emails remained secure on-the-go."

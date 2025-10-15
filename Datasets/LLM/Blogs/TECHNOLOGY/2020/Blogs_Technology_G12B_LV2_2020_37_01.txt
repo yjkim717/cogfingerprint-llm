@@ -1,0 +1,4 @@
+
+## The Joy of Unexpected Swords (and a Little Tech Magic)
+
+Remember that feeling of discovery in games? Lately, I've been chasing it in Dark Souls Remastered, thanks to something called "Paramdomizer." It randomly reworks weapon stats and movesets – chaos! It's a bit fiddly to set up (data directories, who knew?), but the thrill of facing a boss with a wildly different arsenal? Pure, nerdy joy. Sometimes, the best tech is the unexpected.

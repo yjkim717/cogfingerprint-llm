@@ -1,0 +1,5 @@
+Year: 2022
+Author: FIREATWlLL
+URL: https://www.reddit.com/r/biology/comments/sp4qo4/what_proportion_of_proteins_in_the_proteome_are/
+
+Excluding the idea that there is a 1-to-many relation between genes and proteins because of introns and exons where you can have a different sequence of the functional modules (can't remember what this is called, not a cell biologist), how many proteins exist that aren't directly coded for by genes? E.g. if you have protein A and Enzyme B that are encoded by genes, and from then a protein C is derived by chemical reaction, and C has some other relevant function in the cell. Thanks for any help :)

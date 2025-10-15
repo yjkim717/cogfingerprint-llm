@@ -1,0 +1,8 @@
+Author: S. Gherardini
+Title: Experimental characterization of the energetics of quantum logic gates
+Paper ID: 172630ce0ab4ab0b0553f45b4d7c65915a2edc6b
+Year: 2020
+Author Index: 13
+
+Abstract:
+We characterize the energetic footprint of a two-qubit quantum gate from the perspective of non-equilibrium quantum thermodynamics. We experimentally reconstruct the statistics of energy and entropy fluctuations following the implementation of a controlled-unitary gate, linking them to the performance of the gate itself and the phenomenology of Landauer’s principle at the single-quantum level. Our work thus addresses the energetic cost of operating quantum circuits, a problem that is crucial for the grounding of the upcoming quantum technologies.

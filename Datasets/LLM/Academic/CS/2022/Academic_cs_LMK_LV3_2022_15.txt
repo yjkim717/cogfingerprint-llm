@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Optimizing Task-Specific Prompts for Language-Model-as-a-Service via Black-Box Tuning. 
+In the era of large pre-trained language models (2022), Language-Model-as-a-Service has emerged as a paradigm, where users fine-tune task-specific prompts without accessing model gradients. 
+This paper presents a novel black-box tuning framework, leveraging derivative-free optimization techniques to adapt prompts for downstream tasks. 
+By eschewing gradient-based methods, our approach enables seamless integration with proprietary language models, ensuring task-specific optimization without compromising model integrity. 
+Empirical evaluations demonstrate the efficacy of our framework in achieving state-of-the-art performance across various natural language processing tasks, underscoring its potential in real-world applications."

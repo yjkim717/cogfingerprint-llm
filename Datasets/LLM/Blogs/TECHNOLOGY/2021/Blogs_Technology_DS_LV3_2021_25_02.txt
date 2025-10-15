@@ -1,0 +1,1 @@
+Back in 2021, I was staring at my Aruba 3810M switch, utterly perplexed by the firmware versions 16.10.0013 and 16.09.0015. Were they different release channels or just sequential updates? It was a small tech mystery that reminded me how the simplest details can sometimes be the most puzzling.

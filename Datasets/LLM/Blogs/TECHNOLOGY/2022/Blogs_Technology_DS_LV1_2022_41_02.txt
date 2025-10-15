@@ -1,0 +1,3 @@
+It’s 2022, and I’m still chasing that elusive Pokémon from my couch. My old Samsung tablet, long abandoned by official updates, felt like a perfect candidate for a revival. I spent hours installing LineageOS, hoping this custom ROM would breathe new life into it—and maybe even let me play Pokémon Go again. But the app stubbornly refused, citing "incompatible device." 
+
+It hit me then: no amount of software tinkering can bridge certain gaps in hardware trust. In our rush to customize and upgrade, we sometimes overlook the invisible walls built into technology. That tablet now runs beautifully for everything else, a quiet reminder that progress isn’t always about forcing compatibility, but finding new purpose.

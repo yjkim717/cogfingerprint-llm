@@ -1,0 +1,13 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
+
+***
+
+**Abstract**
+
+**Background:** Despite the utilization of neoadjuvant chemoradiotherapy (nCRT) followed by surgical resection for locally advanced esophageal cancer (EC) and gastroesophageal junction cancer (GEJC), a significant proportion of patients experience disease recurrence. The high unmet medical need for effective adjuvant strategies to improve long-term outcomes in this population provided the rationale for investigating novel therapeutic agents. Nivolumab, a fully human immunoglobulin G4 monoclonal antibody targeting the programmed death-1 (PD-1) receptor, has demonstrated efficacy in the metastatic setting, but its role in the adjuvant context remained undefined.
+
+**Methods:** We conducted a global, randomized, double-blind, placebo-controlled, phase 3 clinical trial (CHECKMATE-577). Patients with resected stage II or III EC or GEJC who had received nCRT and had residual pathological disease were randomized to receive either nivolumab or placebo. The primary endpoint was disease-free survival (DFS), defined as the time from randomization to recurrence or death from any cause. Secondary endpoints included overall survival (OS) and safety.
+
+**Results:** A total of 794 patients were randomized. At a pre-specified interim analysis, the trial met its primary endpoint. Nivolumab demonstrated a statistically significant and clinically meaningful improvement in median DFS compared to placebo. The hazard ratio for disease recurrence or death was substantially in favor of the nivolumab arm. The safety profile of nivolumab was consistent with its known profile in other malignancies, with no new safety signals identified in this postoperative patient population.
+
+**Conclusion:** In patients with resected EC or GEJC who have received nCRT, adjuvant therapy with nivolumab resulted in a superior disease-free survival compared to placebo. These findings establish nivolumab as a new standard of care in the adjuvant setting for this patient population with a high risk of recurrence. (Funded by Bristol Myers Squibb; ClinicalTrials.gov number, NCT02743494).

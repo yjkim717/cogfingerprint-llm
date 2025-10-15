@@ -1,0 +1,7 @@
+**Abstract**
+
+The longstanding problem of dark matter and neutrino mass generation motivates exploration of novel theoretical frameworks. This work introduces a conformal freeze-in (CF-in) model, predicated on a dynamically generated conformal field theory (CFT) within a secluded dark sector. We posit that this CFT, arising from an early-universe phase transition, establishes a weak, yet persistent, neutrino portal interaction with the Standard Model (SM).  
+
+Specifically, the CFT’s conformal dimension dictates the strength of this interaction, leading to a continuous generation of dark matter particles through the SM’s annihilation processes.  Crucially, the CF-in mechanism offers a compelling explanation for both dark matter abundance and the observed neutrino masses, circumventing the traditional fine-tuning issues associated with leptogenesis.  
+
+Our analysis leverages CFT techniques to constrain the dark sector’s parameters and predict observable signatures, potentially manifesting as suppressed neutrino mixing and subtle modifications to electroweak precision tests.  The model’s inherent simplicity and reliance on established CFT principles provide a robust foundation for further investigation and phenomenological exploration within the broader dark sector landscape.

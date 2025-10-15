@@ -1,0 +1,5 @@
+Year: 2024
+Author: EverydayMustBeFriday
+URL: https://www.reddit.com/r/shopify/comments/1efpkcw/how_much_would_a_custom_theme_design_like_impact/
+
+Hi, I’m looking for a new theme for my stores. We’ve been using Impulse and some custom themes for a variety of stores and I’m wondering how much would a theme like Impact be for it to be custom made? We don’t have Shopify Payments as we are from a country that doesn’t support it and we have separate stores for separate currencies. For now we’ve been using some custom modified Dawn themes but the conv rate is just not as good as Impulse, so I’m looking to have something better made that I can use for a number of separate stores. Thank you

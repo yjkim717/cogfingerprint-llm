@@ -1,0 +1,5 @@
+Year: 2021
+Author: NasdaQQ
+URL: https://www.reddit.com/r/homeautomation/comments/lg7j4i/consolidating_6_thermostats_2_different_systems/
+
+Hi everyone, We are purchasing a home that currently is heated via two different systems: 1) A forced air system that heats a living room, kitchen, and master bed and bath (2 zones). 2) A high efficiency radiant heat system (boiler) which heats a dinning room, 2 bedrooms, a finished attic, a bathroom, and some hallway space (4 zones). Right now it is not in the budget to expand the forced air to the entire house, specially since the radiant heat is a new high efficiency one. But what we want to do is be able to control the heat for these 6 zones without having to walk to 6 separate thermostats all over the house. Is there a system where we can have "thermometers" in each of these zones which connect to one central interface that can control each of these zones? I am hoping for something wireless which wouldn't require me to re-run wires all over the house.

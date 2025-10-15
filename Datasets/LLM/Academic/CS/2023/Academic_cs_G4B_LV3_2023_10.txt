@@ -1,0 +1,5 @@
+Here's an academic abstract based on the provided summary and keywords, suitable for a 2023 publication:
+
+**Abstract:**
+
+Recent advances in medical imaging necessitate robust data processing pipelines. Carimas, a customizable software framework, demonstrates significant potential in this domain. Initially developed for positron emission tomography (PET) analysis, Carimas has been extended to accommodate computed tomography (CT) and magnetic resonance imaging (MRI) data. This expansion facilitates comprehensive 3D/4D data analysis, crucial for modeling complex physiological processes. Specifically, Carimas offers advanced tools for quantifying cardiac perfusion, addressing limitations in traditional imaging techniques. Future research will focus on integrating Carimas with machine learning algorithms to enhance diagnostic accuracy and predictive modeling within cardiology and related fields.

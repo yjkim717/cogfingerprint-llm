@@ -1,0 +1,5 @@
+>## Beyond the Built-In: My Quest for Perfect iPad Screen Recordings
+
+Okay, confession time: I'm a bit of a screen recording obsessive. As a content creator, capturing tutorials and demos on my iPad is a *huge* part of my workflow. But the built-in iOS screen recording, while handy via the Control Center, always left me wanting. Those missing timestamps and reliable duration data? A real pain when editing!
+
+It’s 2024, and we have incredibly powerful tablets, so why can't a simple, accurate metadata-rich recording be the default? I've been diving down a rabbit hole searching for the perfect iPad app to fill that gap, and honestly, the search continues. Anyone got recommendations? Let me know in the comments!

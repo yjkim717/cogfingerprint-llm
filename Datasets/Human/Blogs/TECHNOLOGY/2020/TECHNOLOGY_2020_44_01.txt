@@ -1,0 +1,5 @@
+Year: 2020
+Author: robbo2020a
+URL: https://www.reddit.com/r/trading212/comments/g5cqdp/dividends_in_trading_212/
+
+Hi everyone, I've started using trading212, love the app. I am curious regarding the dividend yeilds though. I'm looking at rolls royce and in the app it says there is a dividend yield of -, but when looking online it's clear that they pay dividends. This leaves the question of do you get them in trading212 or not, is it simply missing information but the dividend is still paid as long as rolls royce is paying? If no dividend is paid, why not? Is trading 212 collecting this as their income like a payment?

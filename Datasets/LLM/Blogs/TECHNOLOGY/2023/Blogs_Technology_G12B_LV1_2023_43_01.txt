@@ -1,0 +1,7 @@
+>## The Design Document Graveyard (and how to avoid it)
+
+Lately, I've been thinking a lot about design docs. We've all been there, right? A beautifully crafted document, complete with UML diagrams and detailed API outlines, meticulously planned… and then promptly forgotten the moment the first line of code is written. 
+
+It’s a graveyard of good intentions. 
+
+This year, I’m pushing for a shift. Less exhaustive documentation, more *living* documentation – diagrams that evolve, clear architectural decisions recorded alongside the code, and a focus on communicating the *why* behind our choices. Let's aim for documentation that actually *helps* build, not just sits gathering digital dust. Thoughts?

@@ -1,0 +1,5 @@
+ Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry publication (as of 2024):
+
+**Abstract**
+
+Recent investigations into the chemical evolution of interstellar ices have highlighted the importance of surface reactions in complex molecular environments. Utilizing quantum chemical calculations, this study explores the mechanism of carbon atom condensation onto ammonia (NH₃) ice, a prevalent component of dense molecular clouds. Our findings demonstrate that the primary product of this reaction is methylamine (CH₃NH₂), exhibiting enhanced stability relative to alternative hydrogen abstraction pathways. This discovery proposes a previously underappreciated synthetic route for methylamine in the interstellar medium and warrants reassessment of current astrochemical models to accurately reflect this efficient formation mechanism.

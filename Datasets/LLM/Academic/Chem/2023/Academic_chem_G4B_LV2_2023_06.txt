@@ -1,0 +1,9 @@
+Here’s an academic abstract based on the provided summary, suitable for submission in a chemistry journal:
+
+**Abstract**
+
+The formation of complex organic molecules (COMs) within interstellar environments represents a fundamental question in astrochemistry. This study investigates the role of atomic carbon diffusion on interstellar ices, specifically at cryogenic temperatures (above 22 K), as a key mechanistic pathway for COMs synthesis. Utilizing computational modeling and kinetic simulations, we demonstrate that enhanced carbon diffusion significantly promotes C-C bond formation, a critical step in the assembly of larger molecular structures. 
+
+Our research posits that photostimulated desorption, coupled with the increased mobility of carbon atoms, facilitates a higher density of reactive carbon sites on the ice surface. This localized concentration of carbon atoms subsequently increases the probability of intermolecular C-C coupling reactions. Furthermore, we explore the influence of ice grain morphology and surface heterogeneity on diffusion rates, suggesting that specific surface features may act as preferential pathways for carbon transport. 
+
+These findings provide a refined understanding of the chemical processes occurring in interstellar ices, supporting the hypothesis that surface diffusion, driven by energetic input, is a dominant mechanism for the observed prevalence of COMs.  Future research will focus on validating these simulations with observational data and exploring the impact of various ice composition and irradiation conditions.

@@ -1,0 +1,5 @@
+Year: 2024
+Author: tonyboy101
+URL: https://www.reddit.com/r/homelab/comments/1b92t6r/burnt_tinyminimicro_device/
+
+Mmmmm. Toast I was surprised when I found that one of my Lenovo Tiny (P330) machines burnt through its RAM modules. It hasn't been working for a while, but this is not what I was expecting to find. I was hoping the power supply just died. I tried swapping memory modules, but the workstation is dead. I am hoping that my RAID 1 SSDs were not affected. But throwing this out there to see if anyone else has seen RAM modules, wifi cards, ssds, etc. damaged this bad in these (HP, Lenovo, Dell) little workstations?

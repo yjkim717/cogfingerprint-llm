@@ -1,0 +1,11 @@
+Here is a formal academic-style abstract based on the provided summary:
+
+**Title:** Plasma Phosphorylated Tau231: A Novel Biomarker for Alzheimer's Disease Pathology and Neuropathology
+
+**Abstract:**
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid-β (Aβ) plaques and tau pathology in the brain. The identification of reliable biomarkers for AD pathology is crucial for early diagnosis and monitoring disease progression. Recent studies have highlighted the potential of plasma phosphorylated tau (p-tau) species as biomarkers for AD. In this context, we examine the utility of plasma p-tau231 as a novel biomarker for AD pathology and neuropathology. P-tau231 is a specific tau phosphorylation site that has been linked to tau pathology and AD progression. Using a combination of biochemical and statistical analyses, we demonstrate that plasma p-tau231 levels accurately identify AD pathology, as confirmed by Aβ positron emission tomography (PET) and cerebrospinal fluid (CSF) biomarkers. Our results show that plasma p-tau231 is significantly elevated in patients with AD compared to cognitively unimpaired controls and those with non-AD neurodegenerative disorders. Furthermore, plasma p-tau231 levels correlate with established markers of AD pathology, including Aβ PET and CSF p-tau. Notably, our data indicate that plasma p-tau231 can detect AD pathology even in the early stages of the disease, suggesting its potential utility as a screening tool for AD. The diagnostic performance of plasma p-tau231 was evaluated using receiver operating characteristic (ROC) curve analysis, yielding high area under the curve (AUC) values for distinguishing AD from non-AD cases. Our findings support the use of plasma p-tau231 as a minimally invasive, cost-effective, and scalable biomarker for AD pathology and neuropathology. The integration of plasma p-tau231 into clinical practice may facilitate early diagnosis, improve patient stratification, and enable targeted therapeutic interventions for AD. As the field continues to evolve, the development of novel biomarkers like plasma p-tau231 is expected to play a critical role in the diagnosis and monitoring of AD.
+
+**Year:** 2021
+
+Word count: 406 words.

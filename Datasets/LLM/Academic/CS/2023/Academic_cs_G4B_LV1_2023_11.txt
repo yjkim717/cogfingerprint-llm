@@ -1,0 +1,7 @@
+Here’s an original academic abstract inspired by the provided summary, suitable for a 2023 publication in computer science:
+
+**Abstract**
+
+Deep clustering techniques increasingly rely on probabilistic representations of data, necessitating robust loss functions to navigate inherent ambiguity. This paper presents Collision Cross-Entropy (CCE), a novel loss function designed to enhance the efficacy of deep clustering models employing soft class labels and uncertain target assignments. CCE leverages a collision-based approach, implicitly encouraging clusters to ‘collide’ within the embedding space, thereby promoting tighter, more distinct groupings.  We demonstrate that CCE outperforms traditional entropy-based losses when utilizing soft labels, particularly in scenarios where target uncertainty is elevated. 
+
+Furthermore, we explore the integration of CCE with self-labeled clustering paradigms, where data points are iteratively labeled based on cluster assignments.  Preliminary results indicate that CCE’s sensitivity to label noise effectively mitigates the issues often encountered in these self-supervised methods.  Future work will investigate the theoretical properties of CCE and its applicability to diverse deep clustering architectures, including those employing deep generative models.

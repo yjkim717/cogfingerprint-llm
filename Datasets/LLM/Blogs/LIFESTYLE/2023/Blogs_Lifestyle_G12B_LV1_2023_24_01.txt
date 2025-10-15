@@ -1,0 +1,9 @@
+>## The Unexpected Pivot & a Little Bit of Waiting
+
+It’s funny how life throws curveballs, isn't it? For years, I’ve been happily crunching away as a systems administrator, wrestling with servers and keeping things humming. Nine years, to be exact. A solid career, comfortable routine… and yet, lately, I've felt this persistent pull towards something different.
+
+Specifically, databases. The intricate logic, the power to shape and manage information – it’s genuinely fascinating. I've been diving into SQL Server and Azure, soaking up everything I can. It feels right, like a puzzle piece finally clicking into place.
+
+But there’s a nervous energy alongside the excitement. Should I start looking for DBA roles now? It's a big shift, and I don't want to jump before I'm ready. 2023 feels like a complicated time for job searching anyway, with all the economic chatter.
+
+So, I'm in this weird in-between space. Learning, absorbing, and subtly polishing my skillset while patiently waiting for the right opportunity – and the right feeling – to present itself. It’s a little unsettling, but also… kind of exhilarating. The potential for growth feels enormous. Wish me luck!

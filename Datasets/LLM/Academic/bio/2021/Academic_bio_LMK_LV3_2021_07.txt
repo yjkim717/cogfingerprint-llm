@@ -1,0 +1,9 @@
+Title: Unveiling the Thermal Heterogeneity of European Forest Understories: Implications for Biodiversity under Climate Change
+
+Abstract:
+
+Understanding the microclimatic conditions within forest ecosystems is crucial for predicting biodiversity responses to climate change. Recent advancements in spatial modeling have enabled the generation of high-resolution temperature grids for European forest understories, providing unprecedented insights into the thermal heterogeneity of these environments. By leveraging macroclimatic data and advanced interpolation techniques, this study reveals significant discrepancies between sub-canopy temperatures and free-air temperatures, underscoring the importance of forest microclimates in shaping ecological processes.
+
+Our analysis demonstrates that sub-canopy temperatures exhibit considerable spatial variability, influenced by factors such as canopy density, topography, and latitude. These findings have profound implications for our understanding of biodiversity patterns within forest ecosystems, as many species are adapted to specific microclimatic conditions. As climate change continues to alter macroclimatic regimes, the buffering capacity of forest microclimates may play a critical role in mediating the impacts on biodiversity.
+
+By providing a more nuanced understanding of forest microclimates, this research contributes to the development of more accurate predictions of biodiversity responses to climate change. Furthermore, the high-resolution temperature grids generated in this study offer a valuable resource for conservation efforts, enabling the identification of areas with high microclimatic heterogeneity and informing strategies for maintaining ecological resilience in the face of climate change.

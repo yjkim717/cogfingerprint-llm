@@ -1,8 +1,0 @@
-Author: M. Siebert
-Title: Molecular Distributions and Abundances in the Binary-shaped Outflow of V Hya
-Paper ID: efb50d0fbe3b9fcb87387498ee5a13dc25b087e2
-Year: 2024
-Author Index: 21
-
-Abstract:
-Binaries are known to play a key role in the mass loss and dynamical environments of evolved stars. Stellar and substellar companion interactions produce complex wind morphologies including rotating/expanding disks, bipolar outflows, and spiral wind patterns; however, the connection between these many structures and the gas-phase chemistry they harbor is not well constrained. To expand the sample of chemical inventories in interacting systems, we present a detailed spectroscopic case study of the binary C-rich asymptotic giant branch (AGB) star V Hya. Using spatially resolved Atacama Large Millimeter/submillimeter Array observations at Bands 3, 6, and 7, we characterize the rotational emission lines and distributions of molecules in its surrounding disk undergoing dynamical expansion (DUDE). We detect emission from over 15 molecules and isotopologues toward this source, and present resolved maps for the brightest tracers of carbonaceous chemistry (e.g., CCH, C4H, HC5N, HNC, and CH3CN ). Employing LTE and non-LTE models of emission from the DUDE, we estimate the abundance distributions for optically thin species, and compare them with prototypical carbon-rich AGB envelopes. We find that the average abundances of detected species are within a factor of ∼5 from sources with similar mass-loss rates; however, the distribution of daughter species in V Hya is much more compact, with carbon chain species (CCH, C4H, and HC3N) appearing with abundances >10−7 even in the innermost sampled regions (200 au) of the disk.

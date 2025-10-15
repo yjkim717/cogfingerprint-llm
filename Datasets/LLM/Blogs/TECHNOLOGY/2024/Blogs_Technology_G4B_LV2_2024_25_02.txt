@@ -1,0 +1,7 @@
+Okay, here’s a blog post draft based on your summary and instructions:
+
+---
+
+**Is Shopify *Really* Telling Me the Truth?**
+
+Remember when building a website felt… simpler? Now, with Shopify, it’s a data avalanche. Lately, I’ve been staring at my session sources, specifically the difference between Google Ads and organic search traffic. It feels *off*. Are Shopify’s reports accurately reflecting where my customers are coming from? It’s a frustrating question, and one I suspect many small business owners are grappling with in 2024.  Anyone else noticing this?

@@ -1,0 +1,5 @@
+Year: 2021
+Author: pnwstarlight
+URL: https://www.reddit.com/r/selenium/comments/ptyk44/find_element_by_selector_after_another_element/
+
+I'm looking to get the text "Interesting" which is the first occurrence of the class "b" after "h1.important". How would I do that in Selenium? `<div class="a">` `<div class="b">Not interesting</div>` `</div>` `<div class="title">` `<h1 class="important">Title</h1>` `</div>` `<div class="a">` `<div class="b">Interesting</div>` `</div>` Is there a way to find "Interesting" using a fancy selector or xpath?

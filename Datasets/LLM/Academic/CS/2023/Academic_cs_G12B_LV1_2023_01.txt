@@ -1,0 +1,21 @@
+
+Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal, academic style suitable for a CS conference/journal, and reflecting a 2023 context.  I've aimed for the ~195-word target.
+
+---
+
+**Disentangling Visual Semantics via Text-Guided Decomposition of CLIP Image Encoders**
+
+Recent advancements in contrastive language-image pre-training (CLIP) have yielded powerful zero-shot image classification capabilities. However, the internal representations learned by CLIP’s image encoder remain largely opaque, hindering efforts to interpret and further optimize its performance. This paper introduces a novel methodology for probing and understanding CLIP’s visual feature space through text-based decomposition. We hypothesize that targeted textual prompts can selectively activate specific, interpretable feature groupings within the encoder's attention heads. We empirically demonstrate this by iteratively querying the model with increasingly specific textual descriptions, observing corresponding shifts in attention maps and feature activations. This allows for a granular dissection of the image representation, identifying attention heads responsible for spatial localization of objects, attribute encoding (e.g., color, texture), and relational reasoning.  Further, we leverage this decomposition to identify and mitigate suboptimal feature combinations, leading to a refined encoder architecture exhibiting improved robustness to adversarial attacks and enhanced zero-shot transfer performance. Our findings provide a framework for systematically interpreting and manipulating deep visual representations, offering a pathway towards more transparent and controllable multimodal models. We release our code and datasets to facilitate future research in explainable AI and representation engineering.
+---
+
+**Key features of this abstract:**
+
+*   **Formal Language:** Uses precise terminology (e.g., "contrastive language-image pre-training," "feature groupings," "adversarial attacks," "zero-shot transfer performance").
+*   **Structured Reasoning:**  Presents a clear problem statement, proposes a methodology, outlines key findings, and states the significance of the work.
+*   **Connection to Keywords:** Explicitly incorporates and builds upon the provided keywords.
+*   **2023 Context:**  Reflects current trends in research on CLIP and explainable AI.
+*   **Contribution:** Highlights the release of code and data as a contribution to the research community.
+
+
+
+I hope this is helpful! Let me know if you'd like any adjustments or alternative versions.

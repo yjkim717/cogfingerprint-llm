@@ -1,0 +1,5 @@
+Here is a formal academic-style abstract in the field of physics:
+
+"Accelerating Ab Initio Electronic Structure Calculations with Multi-GPU Implementation"
+
+We present a novel multi-GPU acceleration framework integrated into the QUICK program, leveraging parallel computing to expedite ab initio electronic structure calculations. By harnessing the power of multiple graphics processing units (GPUs), we achieve significant speedup in Hartree-Fock and density functional theory computations. Our implementation demonstrates high parallel efficiency, scaling effectively with the number of GPUs employed. Benchmarks conducted in 2021 show substantial performance gains, underscoring the potential of multi-GPU acceleration to revolutionize computational physics and chemistry simulations.

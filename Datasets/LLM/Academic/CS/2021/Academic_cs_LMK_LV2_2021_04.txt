@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+Title: Black-Box Reductions for Bayesian Mechanism Design
+
+Abstract:
+We present a polynomial-time reduction from Bayesian incentive compatible mechanism design to Bayesian algorithm design for welfare maximization problems. Leveraging the framework of Bernoulli factories, we establish a black-box reduction that transforms any Bayesian algorithm into a Bayesian incentive compatible mechanism, preserving social welfare guarantees. Our reduction relies on a novel application of a Bayesian algorithm as a subroutine, enabling the design of truthful mechanisms without requiring explicit knowledge of the underlying distribution. This result bridges the gap between Bayesian algorithm design and Bayesian mechanism design, facilitating the creation of incentive compatible mechanisms for complex welfare maximization problems. Our work contributes to the growing literature on black-box reductions in mechanism design, providing a general framework for converting algorithmic results into truthful mechanisms. As of 2021, this reduction enables the application of advances in Bayesian algorithm design to the design of incentive compatible mechanisms.

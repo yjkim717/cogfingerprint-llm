@@ -1,0 +1,2 @@
+Input: A seasoned professional recounts passing a CompTIA exam after a decade and now faces the dilemma of a previously purchased retake certificate.
+Output: Remember that 2020 marathon? I’d trained for months, only to pull a hamstring a mile in. It felt like a monumental setback. But pushing through, even with the injury, taught me a surprising lesson about resilience – sometimes, a ‘retake’ isn’t about erasing failure, but about redefining success.

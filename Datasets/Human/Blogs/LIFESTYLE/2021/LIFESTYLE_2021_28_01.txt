@@ -1,0 +1,5 @@
+Year: 2021
+Author: van_Vanvan
+URL: https://www.reddit.com/r/AskPhysics/comments/rajicd/where_does_the_energy_in_light_go_when/
+
+Imagine you have a laser with a collimated beam. You make an arrangement that causes half of the beam to shift π radians in phase and then you recombine that half with the other half of the beam at a narrow angle (preferably 0). Now the two beams will mostly cancel each other out. Where does the energy in the light go? How can we avoid breaking the first law of thermodynamics?

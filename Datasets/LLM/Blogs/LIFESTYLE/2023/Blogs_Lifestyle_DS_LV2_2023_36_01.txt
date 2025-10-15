@@ -1,0 +1,3 @@
+It’s funny how the smallest tech hiccups can throw off your whole day. Last week, I was trying to check my Wyze cam while out, but the email 2FA code just wouldn’t arrive. That spinning wheel felt like a metaphor for life sometimes—just stuck.
+
+Then I remembered TOTP authenticators. A quick switch, and suddenly, everything flowed. It made me think: maybe we all need a backup plan, a secondary method not just for logins, but for when life’s emails don’t come through. A little adaptability goes a long way.

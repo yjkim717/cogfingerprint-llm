@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2023.
+
+***
+
+**Abstract**
+
+The genesis of complex organic molecules (COMs) in the interstellar medium (ISM) represents a critical stage in prebiotic chemical evolution. While gas-phase reactions and UV photolysis of ices are well-investigated, the role of suprathermal atomic carbon (C) as a diffuse reactant on icy grain mantles remains a subject of active inquiry. This study employs ultra-high vacuum surface science experiments coupled with kinetic Monte Carlo simulations to quantitatively probe the diffusion and reactivity of carbon atoms on a model water-ice surface between 10 K and 30 K. We report a significant diffusion barrier threshold of approximately 22 K, below which carbon atoms remain immobile and chemically inert. Above this critical temperature, we observe rapid, non-thermal diffusion of C atoms, leading to efficient C–C bond formation with pre-adsorbed precursor species such as CO and CH₃OH. This surface-mediated mechanism provides a robust, non-energetic pathway for synthesizing key molecular building blocks, including ketene (H₂CCO) and acetaldehyde (CH₃CHO), directly detected in astrophysical surveys. Our results establish thermally activated carbon atom diffusion as a fundamental and ubiquitous driver of molecular complexity in lukewarm cosmic ice environments, offering a revised framework for astrochemical models of star-forming regions and protoplanetary disks where thermal processing of ices is prevalent.

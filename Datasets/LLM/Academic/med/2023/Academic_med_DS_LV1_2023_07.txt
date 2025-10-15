@@ -1,0 +1,13 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+**Background:** Isocitrate dehydrogenase (IDH) mutations are a defining molecular feature of a substantial subset of lower-grade gliomas, driving tumorigenesis through the production of the oncometabolite D-2-hydroxyglutarate. While these tumors are typically less aggressive than their IDH-wildtype counterparts, they are incurable with current standard therapies and inevitably progress. There exists a critical unmet need for effective, targeted therapies that can delay disease progression and the associated neurological morbidity in patients with residual or recurrent grade 2 IDH-mutant glioma following initial surgery.
+
+**Methods:** In this randomized, double-blind, phase 3 trial, we enrolled patients aged 16 years or older with residual or recurrent grade 2 IDH-mutant astrocytoma or oligodendroglioma, who had not received prior systemic therapy or radiotherapy. Participants were randomly assigned in a 1:1 ratio to receive either oral vorasidenib, a first-in-class, brain-penetrant, dual inhibitor of mutant IDH1 and IDH2 enzymes, or matched placebo. The primary endpoint was imaging-based progression-free survival (PFS) as assessed by blinded independent review committee (BIRC) according to Response Assessment in Neuro-Oncology (RANO) criteria. Key secondary endpoints included time to next intervention (TTNI) and overall survival (interim analysis).
+
+**Results:** A total of 331 patients were randomized. At a pre-specified interim analysis, the study met its primary endpoint, demonstrating a statistically significant and clinically meaningful improvement in PFS for the vorasidenib group compared to the placebo group (Hazard Ratio [HR] 0.39; 95% Confidence Interval [CI], 0.27 to 0.56; p<0.0001). Median PFS was not reached in the vorasidenib arm versus 11.1 months in the placebo arm. Vorasidenib treatment also resulted in a significant delay in TTNI (HR 0.26; 95% CI, 0.15 to 0.43; p<0.0001), indicating a reduction in the requirement for subsequent anticancer therapies. The safety profile of vorasidenib was manageable, with most adverse events being grade 1 or 2 in severity.
+
+**Conclusions:** In patients with residual or recurrent grade 2 IDH-mutant glioma, vorasidenib, a targeted, brain-penetrant therapy, significantly prolonged progression-free survival and delayed the time to next intervention compared to placebo. These results establish vorasidenib as a potential new standard of care for this patient population and validate the therapeutic strategy of direct mutant IDH inhibition in glioma. (Funded by Servier; ClinicalTrials.gov number, NCT04164901.)

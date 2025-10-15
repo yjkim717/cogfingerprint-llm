@@ -1,0 +1,7 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a physics publication from 2020:
+
+**Abstract**
+
+We investigate the construction of a Lorentz-invariant S-matrix formalism for the elastic scattering of electric and magnetic dipoles, focusing on a refined multi-particle description of the scattering process.  Traditional approaches often struggle to maintain full Lorentz covariance while simultaneously incorporating kinematic constraints inherent in dipole scattering. This work introduces a novel pairwise helicity variable, rigorously defined to ensure both Lorentz invariance and consistency with on-shell considerations.  The helicity variable, derived through a systematic expansion, provides a compact and manifestly symmetric representation of the scattering amplitudes.  
+
+Employing on-shell methods, we demonstrate that this new variable simplifies the calculation of scattering amplitudes, allowing for a more direct assessment of the S-matrix’s properties.  Furthermore, we explore the connection to the concept of a ‘little group’ of symmetries underlying the scattering process, suggesting a potential framework for classifying and understanding scattering behavior.  Preliminary results indicate the potential for improved convergence and reduced computational complexity compared to existing multi-particle formulations.

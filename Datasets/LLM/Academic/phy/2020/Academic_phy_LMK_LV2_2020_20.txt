@@ -1,0 +1,11 @@
+Title: On-Shell Construction of the Scattering Amplitude for Electric-Magnetic Scattering
+
+Abstract:
+
+The formulation of a Lorentz-invariant S-matrix for electric-magnetic scattering has long been a challenging task due to the complexities arising from the presence of magnetic charges. In this paper, we employ on-shell methods to construct the scattering amplitude for such processes, leveraging the Poincaré group's representation theory to ensure Lorentz invariance. A crucial innovation in our approach is the introduction of pairwise helicity, a concept that facilitates the consistent incorporation of magnetic charges into the scattering amplitude.
+
+Utilizing the spinor-helicity formalism, we derive a compact expression for the electric-magnetic scattering amplitude, demonstrating its Lorentz invariance and consistency with known results in the absence of magnetic charges. The pairwise helicity is shown to play a pivotal role in encoding the electromagnetic properties of the scattering particles, enabling a straightforward extension of standard on-shell techniques to the case of electric-magnetic scattering.
+
+Our construction relies on the identification of a suitable basis of on-shell Lorentz-invariant amplitudes, which are then used to express the electric-magnetic scattering amplitude in a manifestly Lorentz-invariant form. The resulting S-matrix is shown to satisfy the requisite unitarity and analyticity properties, ensuring its physical consistency.
+
+The techniques developed in this paper pave the way for the application of on-shell methods to a broader class of theories involving magnetic charges, with potential implications for our understanding of the behavior of particles in the presence of electromagnetic interactions. By providing a rigorous and systematic framework for calculating electric-magnetic scattering amplitudes, our work contributes to the advancement of research in this area, with relevance to both theoretical and phenomenological studies in high-energy physics (2020).

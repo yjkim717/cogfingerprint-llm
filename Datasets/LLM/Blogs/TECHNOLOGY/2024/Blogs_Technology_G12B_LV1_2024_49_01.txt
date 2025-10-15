@@ -1,0 +1,7 @@
+>## The LeetCode Grind: A Love-Hate Relationship in 2024
+
+Okay, let's be honest, who *hasn't* fallen down the LeetCode rabbit hole in 2024? It's practically a rite of passage for anyone serious about tech. I’ve been trying to tackle a daily problem for the past few weeks, and it's been a rollercoaster. 
+
+There's this incredible rush when you finally crack a tricky algorithm – a genuine "aha!" moment that makes you feel like a coding wizard. But then there are the days... the days where you stare blankly at the screen for hours, battling frustration and questioning your life choices. 
+
+It's a weird balance. I know it's valuable for sharpening skills and interview prep, but I’m also realizing the importance of *time management*.  Spending six hours on a single problem isn’t always the most productive use of my evening.  Maybe I need to dial back the intensity and focus on broader learning instead. Anyone else feel this way?

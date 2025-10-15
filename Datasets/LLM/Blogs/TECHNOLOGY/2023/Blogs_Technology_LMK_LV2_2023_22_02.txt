@@ -1,0 +1,3 @@
+"Stuck in a Browser Rut? You're Not Alone!" 
+
+In 2023, I encountered a head-scratcher with VMware Horizon View Console. Our support team couldn't download remote assistance files using Chrome or Edge. After some digging, we found two fixes: switching to Firefox or tweaking Chrome's security settings. It was a simple solution, but a great reminder that sometimes, the answer lies in a different browser - or a slight config change!

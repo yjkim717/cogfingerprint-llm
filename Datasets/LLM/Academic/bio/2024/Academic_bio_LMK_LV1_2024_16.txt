@@ -1,0 +1,5 @@
+Title: Advances in Molecular Genetics of Pleurotus ostreatus: A Paradigm Shift in Mushroom Science
+
+Abstract:
+
+The oyster mushroom, Pleurotus ostreatus, has emerged as a model organism in fungal research, owing to its remarkable characteristics and potential applications. Recent breakthroughs in molecular genetics have significantly enhanced our understanding of its genomic architecture and functional genomics. The advent of gene knockout and protein engineering techniques has enabled researchers to elucidate the roles of key genes involved in developmental processes, lignin degradation, and stress tolerance. As of 2024, the integration of cutting-edge biotechnological tools has facilitated the precise manipulation of P. ostreatus genome, paving the way for the development of novel strains with improved traits. This review aims to synthesize the current state of knowledge on the molecular genetics of P. ostreatus, highlighting its potential as a model mushroom for future research and its applications in biotechnology and sustainable development. The advancements in P. ostreatus research are poised to revolutionize the field of mushroom science.

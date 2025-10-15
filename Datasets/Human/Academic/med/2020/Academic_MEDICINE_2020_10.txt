@@ -1,0 +1,23 @@
+Author: A. Kazerooni
+Title: NIMG-22. INTEGRATION OF A RADIOMIC SIGNATURE, CLINICAL VARIABLES AND PLASMA CELL-FREE DNA IN ADULT PATIENTS WITH NEWLY DIAGNOSED GLIOBLASTOMA PREDICTS PATIENT SURVIVAL AND IMPROVES DISEASE STRATIFICATION
+Paper ID: 5be73d8346cff1fa6e0054d5f28edcdca791df83
+Year: 2020
+Author Index: 10
+
+Abstract:
+
+ 
+ 
+ We have previously demonstrated the potential role of liquid biopsy, specifically plasma cell-free DNA (cfDNA), as a non-invasive biomarker for prognostication in patients with glioblastoma. In separate prior studies, we have also developed MRI-based radiomic signatures to predict survival outcomes in glioblastoma. In this study, for the first time, we evaluated the potential of combining radiomic signatures, epidemiological and clinical variables, and plasma cfDNA quantification for upfront prediction of overall survival (OS) in patients with newly diagnosed glioblastoma.
+ 
+ 
+ 
+ Quantitative radiomic features were extracted from multiparametric MRI (T1, T1Gd, T2, T2-FLAIR) scans of a discovery cohort of 505 and an independent replication cohort of 50 IDH-wildtype glioblastoma patients. For the independent replication cohort, pre-surgical plasma cfDNA was extracted and quantified. In the first stage, a radiomic signature was created for stratification of patients into categories of short (OS ≤ 6 months) and long (OS ≥ 18 months) survivors using a cross-validated XGBoost method based on the discovery cohort, which was tested independently on the replication cohort. In the second stage, the radiomic signature and clinical variables were integrated to build a second-stage signature using a cross-validated support vector machine (SVM) classifier to stratify the patients into short and long survivor categories. In the third stage, the value of the second-stage signature integrated with cfDNA concentration was assessed through a cross-validated SVM regression method.
+ 
+ 
+ 
+ The combination of radiomic, clinical, and cfDNA variables resulted in the best overall predictive accuracy, with Pearson’s correlation coefficient of 0.59 (p< 0.0001) between actual and predicted OS.
+ 
+ 
+ 
+ In this study, we evaluated the value of combining plasma cfDNA, radiomic, and clinical variables for predicting OS, and showed that it could act as an effective non-invasive prognostic and patient stratification tool in patients with newly diagnosed glioblastoma.

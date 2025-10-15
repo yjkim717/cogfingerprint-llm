@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+Title: Mitigating Cybercrimes through Social Engineering Frameworks: A Comprehensive Review
+
+Abstract: 
+The escalating threat of cybercrimes in cyberspace has underscored the need for effective countermeasures. This paper presents a comprehensive review of existing research on social engineering attacks, examining conceptual frameworks and attack lifecycles. By analyzing current literature, we identify key vulnerabilities and mitigation strategies, providing a structured understanding of social engineering threats. Our analysis informs the development of robust cyber security frameworks, enhancing resilience against cybercrimes. This review contributes to the ongoing discourse on cyber security, providing insights for researchers and practitioners seeking to counter emerging social engineering threats in 2023.

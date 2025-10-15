@@ -1,0 +1,3 @@
+It’s 2024, and I’ve been thinking a lot about how we connect with technology—not just through slick interfaces, but by getting our hands dirty. Last week, I dug out an old embedded board from my closet, its GPIO headers staring back like a challenge. I remembered late nights wrestling with code, the debug port my only lifeline.
+
+What’s changed? The libraries and hardware abstraction layers available now feel like a warm welcome instead of a steep climb. It’s not just about blinking LEDs anymore; it’s about building something uniquely mine, with support that feels like a friend cheering me on. In a world of polished gadgets, there’s still magic in creating from scratch—and I’m here for it.

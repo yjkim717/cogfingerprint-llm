@@ -1,0 +1,21 @@
+Okay, here's an original academic-style abstract, inspired by your provided keywords and summary, framed within a Computer Science context (specifically focusing on computational modeling and prediction of immune response), and set in the 2021 timeframe. I've aimed for precision, structured reasoning, and the requested word count.  Following the abstract, I've included notes explaining some of the choices made.
+
+---
+
+**Abstract: Predictive Modeling of Neutralizing Antibody Kinetics Following mRNA Vaccination: A Data-Driven Approach Incorporating Age-Related Decline**
+
+The rapid deployment of mRNA vaccines, such as BNT162b2, against SARS-CoV-2 necessitated a robust understanding of the long-term efficacy of humoral immunity. While clinical trials demonstrated initial success, real-world data indicated waning neutralizing antibody (nAb) titers. This work presents a data-driven computational model designed to predict nAb kinetics up to six months post-vaccination, incorporating observed age-related decline. We utilized longitudinal data from a cohort of healthy individuals, focusing on nAb responses measured via surrogate viral neutralization assays.  The core of our approach employs a time-dependent stochastic differential equation (SDE) model, parameterized using maximum likelihood estimation to capture the dynamic evolution of nAb titers.  Crucially, we integrated an age-dependent parameter scaling factor within the SDE framework, reflecting the empirically observed accelerated decline in nAb responses in older age groups. Model validation against an independent dataset demonstrated a high degree of predictive accuracy (R<sup>2</sup> > 0.85).  Sensitivity analysis identified the rate of nAb decay and the magnitude of age-related scaling as the most influential parameters.  These findings highlight the potential of computational modeling to forecast the duration of vaccine-induced immunity, informing strategies for booster vaccination schedules and personalized risk assessment in the context of evolving SARS-CoV-2 variants.  Further research will focus on extending the model to incorporate variant-specific nAb responses and the impact of prior SARS-CoV-2 infection.
+
+---
+
+**Notes on Choices & Reasoning:**
+
+*   **CS Framing:** The core shift to a Computer Science context is framing the research as *computational modeling* and *predictive analytics*.  Instead of directly focusing on immunology, it emphasizes the *methodology* of using data and algorithms to model a biological phenomenon.
+*   **Terminology:** I’ve incorporated terms common in computational modeling and statistics: "stochastic differential equation (SDE)," "maximum likelihood estimation," "validation dataset," "sensitivity analysis," "parameter scaling," "predictive accuracy (R<sup>2</sup>)."
+*   **Structured Reasoning:** The abstract follows a logical flow:
+    1.  **Context & Motivation:**  The need for understanding waning immunity and the role of mRNA vaccines.
+    2.  **Approach:** Description of the SDE model and its key feature (age-related parameter scaling).
+    3.  **Results:** Validation metrics (R<sup>2</sup>) and identification of key parameters.
+    4.  **Conclusion & Future Work:**  Implications for vaccination strategies and directions for future research.
+*   **2021 Context:** The phrasing ("rapid deployment," "real-world data") aligns with the pandemic situation in 2021. The mention of "evolving SARS-CoV-2 variants" reflects the emerging concerns about variant strains at that time.
+*

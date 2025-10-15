@@ -1,0 +1,5 @@
+Year: 2023
+Author: drowningfish
+URL: https://www.reddit.com/r/VMwareHorizon/comments/18mvpwo/thoughts_on_who_buys_horizon_euc/
+
+So what are your thoughts on who ends up buying EUC from Broadcom? Depending on where the product line goes, and I hope it happens sooner rather than later because I am in a renewal year and need to position for the next 5 years, will likely determine its ultimate fate. Will it become a "licensing cash cow" to milk with next to zero investment in R&D, or will it be treated like a flagship product line? In my opinion, I see HPE and Citrix as being the likely candidates. HPE would be the better of the two. Citrix, I see them buying it to "kill it".

@@ -1,0 +1,25 @@
+Author: M. Somerfield
+Title: Human Epidermal Growth Factor Receptor 2 Testing in Breast Cancer: American Society of Clinical Oncology-College of American Pathologists Guideline Update.
+Paper ID: 94a39e36163e2174185c34fa31fb49a85d5d90f5
+Year: 2023
+Author Index: 6
+
+Abstract:
+PURPOSE
+To update the American Society of Clinical Oncology-College of American Pathologists (ASCO-CAP) recommendations for human epidermal growth factor receptor 2 (HER2) testing in breast cancer. An Update Panel is aware that a new generation of antibody-drug conjugates targeting the HER2 protein is active against breast cancers that lack protein overexpression or gene amplification.
+
+
+METHODS
+The Update Panel conducted a systematic literature review to identify signals for updating recommendations.
+
+
+RESULTS
+The search identified 173 abstracts. Of 5 potential publications reviewed, none constituted a signal for revising existing recommendations.
+
+
+RECOMMENDATIONS
+The 2018 ASCO-CAP recommendations for HER2 testing are affirmed.
+
+
+DISCUSSION
+HER2 testing guidelines have focused on identifying HER2 protein overexpression or gene amplification in breast cancer to identify patients for therapies that disrupt HER2 signaling. This update acknowledges a new indication for trastuzumab deruxtecan when HER2 is not overexpressed or amplified but is immunohistochemistry (IHC) 1+ or 2+ without amplification by in situ hybridization. Clinical trial data on tumors that tested IHC 0 are limited (excluded from DESTINY-Breast04), and evidence is lacking that these cancers behave differently or do not respond similarly to newer HER2 antibody-drug conjugates. Although current data do not support a new IHC 0 versus 1+ prognostic or predictive threshold for response to trastuzumab deruxtecan, this threshold is now relevant because of the trial entry criteria that supported its new regulatory approval. Therefore, although it is premature to create new result categories of HER2 expression (eg, HER2-Low, HER2-Ultra-Low), best practices to distinguish IHC 0 from 1+ are now clinically relevant. This update affirms prior HER2 reporting recommendations and offers a new HER2 testing reporting comment to highlight the current relevance of IHC 0 versus 1+ results and best practice recommendations to distinguish these often subtle differences. Additional information is available at www.asco.org/breast-cancer-guidelines.

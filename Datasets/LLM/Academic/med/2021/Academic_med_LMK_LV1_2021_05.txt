@@ -1,0 +1,5 @@
+Title: Evolving Systemic Therapy Paradigms for Metastatic Colorectal Cancer: Integrating Biomarker Testing and Checkpoint Inhibitors
+
+Abstract:
+
+The management of metastatic colorectal cancer (mCRC) has undergone significant transformation with the advent of novel systemic therapies and advances in biomarker testing. As reflected in the 2021 NCCN Guidelines for Colon Cancer, the integration of checkpoint inhibitors has expanded treatment options for mCRC patients. Biomarker testing now plays a crucial role in identifying patients most likely to benefit from these therapies, with microsatellite instability-high (MSI-H) and mismatch repair deficiency (dMMR) emerging as key predictive biomarkers. This review examines the current evidence supporting the use of checkpoint inhibitors in mCRC, with a focus on the interplay between biomarker testing and treatment selection. By synthesizing the latest research and guideline updates, we provide a framework for clinicians to optimize systemic therapy for mCRC patients, highlighting the importance of precision medicine in improving patient outcomes.

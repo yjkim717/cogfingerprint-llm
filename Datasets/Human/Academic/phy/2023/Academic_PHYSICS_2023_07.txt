@@ -1,0 +1,8 @@
+Author: T. Damour
+Title: Comparing one-loop gravitational bremsstrahlung amplitudes to the multipolar-post-Minkowskian waveform
+Paper ID: dccb55ca61f525103dc1f72318e8ba8495e52d06
+Year: 2023
+Author Index: 7
+
+Abstract:
+We compare recent one-loop-level, scattering-amplitude-based, computations of the classical part of the gravitational bremsstrahlung waveform to the frequency-domain version of the corresponding Multipolar-Post-Minkowskian waveform result. When referring the one-loop result to the classical averaged momenta $\bar p_a = \frac12 (p_a+p'_a)$, the two waveforms are found to agree at the Newtonian and first post-Newtonian levels, as well as at the first-and-a-half post-Newtonian level, i.e. for the leading-order quadrupolar tail. However, we find that there are significant differences at the second-and-a-half post-Newtonian level, $O\left( \frac{G^2}{c^5} \right)$, i.e. when reaching: (i) the first post-Newtonian correction to the linear quadrupole tail; (ii) Newtonian-level linear tails of higher multipolarity (odd octupole and even hexadecapole); (iii) radiation-reaction effects on the worldlines; and (iv) various contributions of cubically nonlinear origin (notably linked to the quadrupole$\times$ quadrupole$\times$ quadrupole coupling in the wavezone). These differences are reflected at the sub-sub-sub-leading level in the soft expansion, $ \sim \omega \ln \omega $, i.e. $O\left(\frac{1}{t^2} \right)$ in the time domain. Finally, we computed the first four terms of the low-frequency expansion of the Multipolar-Post-Minkowskian waveform and checked that they agree with the corresponding existing classical soft graviton results.

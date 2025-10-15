@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Advancing Pediatric Brain Tumor Segmentation: The BraTS-PEDs 2023 Challenge
+
+Abstract:
+
+Pediatric brain tumors, predominantly gliomas, pose significant diagnostic and therapeutic challenges. Accurate segmentation of these tumors is crucial for effective treatment planning and outcome assessment. The BraTS-PEDs 2023 challenge aims to drive advancements in this field by developing and evaluating volumetric segmentation algorithms for pediatric brain glioma using multi-parametric structural magnetic resonance imaging (MRI) data. By leveraging multi-institutional collaborations and a large, diverse dataset, this challenge fosters the development of robust and generalizable algorithms. The challenge focuses on the segmentation of glioma subregions, including the tumor core, edema, and enhancing tumor, using pre-operative MRI scans. The participating algorithms will be evaluated on their volumetric segmentation accuracy, robustness, and reliability. The outcomes of this challenge are expected to accelerate the development of accurate and reliable segmentation tools, ultimately improving the diagnosis and treatment of pediatric brain tumors. This initiative underscores the potential of collaborative research in driving innovation in neuro-oncology.

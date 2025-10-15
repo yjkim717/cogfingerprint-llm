@@ -1,0 +1,1 @@
+"As I dove into the world of WebAssembly in 2022, I realized the need for a safe and reliable Rust library to generate WASM IR from domain-specific languages. Leveraging pest.rs for DSL parsing seemed like a great starting point. But, the journey to seamless WASM generation was just beginning."

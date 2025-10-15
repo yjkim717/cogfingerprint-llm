@@ -1,0 +1,13 @@
+Okay, here's a reflective blog post, aiming for around 168 words and incorporating the provided information, written in a conversational style and set in 2020:
+
+---
+
+**Beyond the GraphQL Buzz – Exploring New Database Abstractions**
+
+It’s weird, isn’t it? 2020 felt like a year of chasing the shiny object – mostly GraphQL. Suddenly, *everything* was a GraphQL API. But lately, I’ve been wrestling with a different thought: are we overcomplicifying things?
+
+I stumbled across FatCoach, a fascinating little BaaS framework built with Kotlin. It’s essentially saying, “Let’s hide the database complexities from the front-end developer.”  Instead of wrestling with GraphQL schemas, they're using Kotlin to just… abstract away the underlying query language. 
+
+It’s a surprisingly refreshing idea.  I’ve been using Jooq behind the scenes for a while now, and it’s powerful, but it still demands a certain level of database knowledge. FatCoach proposes a different path – a way to deliver data without forcing developers to become database gurus. 
+
+Maybe it’s time to consider if a simpler abstraction layer is the smarter move, rather than always doubling down on the query language battle.  What do you think?

@@ -1,0 +1,7 @@
+Okay, here's a reflective blog post inspired by the provided summary, aiming for a conversational tone and approximately 105 words, set in 2020:
+
+---
+
+**The Ghost in the Chrome**
+
+It’s weird, right? I spent a good chunk of 2020 wrestling with a particularly stubborn bug on our school’s Chromebooks. Kids were frustrated – videos just wouldn’t load, even after updating everything. We’d meticulously checked the web filter, even granted exemptions, but the problem persisted. It felt like there was a little ghost in the ChromeOS, stubbornly blocking the stream. Turns out, a weird permissions issue with the developer tools was the culprit.  Sometimes, the simplest solutions are the hardest to spot!

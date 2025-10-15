@@ -1,0 +1,11 @@
+Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective, conversational tone and around 154 words, set in 2020:
+
+---
+
+**The Quiet Worry Behind the Numbers**
+
+Remember 2020? It felt like everyone was glued to their screens, tracking everything – website visits, app usage, you name it. I was helping a friend, a web developer, wrestle with a particularly tricky problem: collecting website stats *properly*. Specifically, how to do it while respecting GDPR and all those growing privacy concerns.
+
+It wasn’t just about vanity metrics, you know? It was about recognizing the quiet worry behind all those numbers.  He was meticulously considering things like IPv4 masking – hiding the user's IP address – and even the radius of location data.  It made me think about how much we’re giving away, often without really realizing it. 
+
+Suddenly, those clicks and views felt a little less impressive, a little more…exposed.  It’s a reminder that technology should serve us, not the other way around.

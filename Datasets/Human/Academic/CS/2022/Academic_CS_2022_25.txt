@@ -1,8 +1,0 @@
-Author: Shuroug A. Alowais
-Title: Assessing tobramycin levels and renal function following the implantation of CaSO4 beads impregnated with tobramycin: A prospective cohort study
-Paper ID: 45fecf10cb54c471aafc84cf12314158e7e5f87e
-Year: 2022
-Author Index: 25
-
-Abstract:
-This study aimed to evaluate the risk of serum tobramycin concentrations exceeding therapeutic levels after administration of calcium sulfate (CaSO4) beads containing either 240 mg or 400 mg tobramycin and 1000 mg vancomycin. This single-center, prospective. This single-center, prospective study included included Piedmont Columbus, Regional orthopedic surgery patients. Following the implantation of tobramycin into CaSO4 beads, serially measured serum tobramycin concentrations were evaluated after 6, 12, 24, and 48 hours. In addition to that, serum tobramycin concentration was evaluated after 5 days. None of the patients who received 240 mg tobramycin-impregnated beads had a tobramycin level >2 μg/mL. Six hours after implantation, the tobramycin level in 2 out of 2 (100%) patients who received 400 mg of tobramycin-impregnated beads was >2 μg/mL. One day following the surgery, the median serum creatinine was 0.85 mg/dL, with an interquartile range of 0.73 to 1.04 mg/dL. No cases of acute kidney injury were observed. This cohort demonstrated that non-nephrotoxic serum tobramycin levels could be achieved in CaSO4 beads mixed with 240 mg or 400 mg of tobramycin.

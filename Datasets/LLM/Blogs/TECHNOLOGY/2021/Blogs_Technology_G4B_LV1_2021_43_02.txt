@@ -1,0 +1,5 @@
+Okay, here’s a reflective blog post inspired by the provided summary and aiming for a conversational tone and ~95 words, set in 2021:
+
+---
+
+It’s funny how deeply you can get into code, right? I was wrestling with TypeScript last year – specifically, this weird concept called “duck typing.” It’s like Monty Python’s “spam bit” – if it walks like a duck and quacks like a duck, it *is* a duck, regardless of what it’s officially called.  TypeScript made it feel so much cleaner than JavaScript’s strictness.  Suddenly, type safety didn’t feel like a rigid cage, but a helpful guide.  It’s a surprisingly delightful shift in perspective.

@@ -1,0 +1,4 @@
+Title: Exploring Generalized Symmetries in Quantum Field Theories: New Perspectives for Particle Phenomenology
+
+Abstract:
+This study introduces the framework of generalized global symmetries in Quantum Field Theories (QFT), shedding new light on categorical and discrete symmetries. By examining the intricate relationships between these symmetries, we provide high energy phenomenologists with novel tools and insights. Our analysis reveals the pivotal role of generalized symmetries in shaping particle physics phenomena. The findings presented herein contribute to a deeper understanding of QFT, offering a refined paradigm for investigating the fundamental laws governing particle interactions in 2023.

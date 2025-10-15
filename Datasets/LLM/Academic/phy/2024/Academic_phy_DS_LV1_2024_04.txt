@@ -1,0 +1,9 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The validity of an effective field theory (EFT) in quantum gravity is conjectured to be constrained by the Swampland program, which identifies consistent low-energy theories that cannot be completed in the ultraviolet. While the Planck scale (\(M_{\text{Pl}}\)) and the species scale (\(\Lambda_s\)) serve as fundamental cut-offs, we identify a novel energy scale, \(\Lambda_{\text{BH}}\), emergent from black hole thermodynamics. This scale marks the minimal temperature for which a semiclassical black hole solution possesses an entropy calculable within the EFT that aligns with the Bekenstein-Hawking formula. We demonstrate that for temperatures \(T < \Lambda_{\text{BH}}\), the EFT description of black hole entropy fails, signaling a breakdown of the semiclassical approximation. We thus posit the existence of \(\Lambda_{\text{BH}}\) as a new swampland condition: a consistent EFT of gravity must not contain semiclassical black holes cooler than \(\Lambda_{\text{BH}}\), providing a sharp, thermodynamic criterion for distinguishing landscape theories from those in the swampland.
+
+**(Word Count: 199)**

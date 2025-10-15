@@ -1,0 +1,5 @@
+Year: 2020
+Author: van_Vanvan
+URL: https://www.reddit.com/r/AskBiology/comments/f22a0x/in_what_way_am_i_losing_weight_during_exercise/
+
+Hello, I don't know if this is the right place for this or if it's more appropriate for a sports forum. I frequently see that after a good bicycle ride I am 5 to 7 pound lighter than before. This would be in cool weather, while burning about 3000 calories, according to Strava. I believe Strava derives this from heart rate, weight and speed and possibly also age and gender. This is of course a temporary weight loss. After a day or two the weight is back. I assume that the bulk of this weight is water loss. Conversion of fat to CO2 and H2O is probably quite small, since fat is very energy dense and Krebs cycle is slow. Perhaps loss of glycogen/glucose is a part of the weight loss. But how large a part? And what are the percentages of water that I'm exuding in the form of sweat, evaporation and metabolism? I usually don't urinate during my rides. I understand that this can depend on many factors. Is it possible to give some ranges? Thank you.

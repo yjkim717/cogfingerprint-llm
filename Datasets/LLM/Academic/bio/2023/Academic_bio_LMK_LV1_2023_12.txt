@@ -1,0 +1,4 @@
+Title: A Unified Stochastic Framework for Quantifying Single-Cell RNA Variability
+
+Abstract:
+We present a mathematical framework integrating generating functions to analyze single-cell RNA sequencing data generated via microfluidics-based platforms. By accounting for both biological stochasticity and technical variation, our model provides a comprehensive understanding of gene expression heterogeneity. Leveraging this framework, we derive closed-form expressions for RNA quantification uncertainty, enabling the disentanglement of intrinsic and extrinsic noise sources. Our approach facilitates the accurate interpretation of single-cell genomics data, shedding light on the underlying stochastic processes governing cellular behavior. (2023)

@@ -1,0 +1,5 @@
+Here is a formal academic abstract reflecting the provided summary:
+
+**Abstract**
+
+The accurate repair of DNA double-strand breaks (DSBs) is critical for genomic integrity, with non-homologous end-joining (NHEJ) being a predominant pathway. While DSB mobility is recognized as a key factor in repair fidelity, the underlying physical principles governing their motion remain incompletely characterized. Here, we demonstrate that radiation-induced DSB dynamics are not adequately described by simple diffusion. Instead, we establish a heterogeneous anomalous diffusion model, where DSB trajectories exhibit subdiffusive motion consistent with fractional Brownian motion within the crowded nuclear environment. Our analysis reveals that this constrained mobility is punctuated by rare, long-range movements. Crucially, we link these anomalous dynamics to the formation of dicentric chromosomes, a severe form of misrepair. These findings provide a mechanistic physical basis for how aberrant DSB mobility directly contributes to genomic instability, offering new perspectives for predicting and modulating the long-term consequences of genotoxic stress.

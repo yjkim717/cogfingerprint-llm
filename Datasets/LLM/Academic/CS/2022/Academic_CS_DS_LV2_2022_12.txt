@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract reflecting the research context of 2022.
+
+***
+
+**Abstract**
+
+The recent success of Vision Transformers (ViTs) has been predominantly attributed to their self-attention-based architecture. This paper critically re-examines this assumption by proposing the ConvMixer, a minimalist model that eschews the Transformer block. We hypothesize that the patch embedding strategy—splitting an image into a sequence of non-overlapping, linearly projected patches—is a more critical factor for performance than the specific architectural module that processes them. To test this, we designed the ConvMixer to operate directly on these patch embeddings, utilizing a simple yet effective stack of depthwise and pointwise convolutional layers for feature extraction. Our empirical evaluation on standard image classification benchmarks reveals that the ConvMixer achieves competitive performance with contemporary ViTs of comparable scale. This finding compellingly demonstrates that the inductive bias provided by the patch-based input representation is a primary driver of ViT efficacy, challenging the necessity of the Transformer's self-attention mechanism for this domain. Our work suggests a decoupling of input tokenization from processing architecture, opening avenues for more efficient hybrid designs.

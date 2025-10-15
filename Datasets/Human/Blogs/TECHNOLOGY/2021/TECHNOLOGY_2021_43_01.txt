@@ -1,0 +1,5 @@
+Year: 2021
+Author: Goldziher
+URL: https://www.reddit.com/r/Python/comments/rg5sgq/pydanticfactories/
+
+Hi Pythonistas, So - some of you perhaps read my previous post regarding pydantic-factories, but for those who didn't- its a python package that allows you to generate mock data for your pydantic models and dataclasses. It also works for vanilla python dataclasses, so its actually not only for pydantic. Anyhow, I just released v0.6.0. Its already stable and is used by my team internally as well as by many other users. I would like to ask for any other features that you guys think are missing - if any. And of course to bring your attention to it :)

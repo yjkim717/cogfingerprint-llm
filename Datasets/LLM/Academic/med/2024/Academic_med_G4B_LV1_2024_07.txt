@@ -1,0 +1,7 @@
+Okay, here’s an original academic abstract inspired by the provided summary, aiming for a formal, precise style suitable for a 2024 medical publication:
+
+---
+
+**Abstract**
+
+The management of IDH-mutant gliomas, a prevalent pediatric and adult astrocytic malignancy, continues to necessitate refined therapeutic strategies. This study investigates the complex interplay of clinical and molecular factors shaping treatment decisions. Utilizing a retrospective analysis of patient data (n=350), we examined the predictive value of tumor grade, patient age at diagnosis, and the achieved extent of surgical resection in conjunction with established molecular markers – specifically, IDH mutation status and 1p/19q codeletion – on treatment outcomes.  Results demonstrate a statistically significant correlation between higher tumor grades, limited resection, and increased reliance on systemic chemotherapy.  Furthermore, younger patients with greater resection margins exhibited a trend toward improved prognosis.  These findings underscore the critical need for personalized treatment pathways, moving beyond standardized protocols to incorporate a holistic assessment of individual patient characteristics. Future research should focus on integrating novel biomarkers to further refine risk stratification and optimize therapeutic efficacy.

@@ -1,0 +1,3 @@
+It’s 2024, and I’ve been diving deep into the immersive worlds of VR, especially No Man’s Sky. But there’s a catch—using head-oriented movement left me dizzy and disoriented, pulling me right out of the magic. I realized I wasn’t alone; many of us struggle with motion sickness in these stunning virtual landscapes.
+
+That’s when I discovered the beauty of world-relative, controller-oriented locomotion, all managed with my left hand. Suddenly, I could glide smoothly through alien terrain while my right hand handled interactions freely. It felt like a social breakthrough—finally, I could explore and engage without breaking the experience. It’s amazing how a small tweak can make virtual spaces feel more welcoming and inclusive for everyone.

@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Investigating the Surface Diffusion of OH Radicals on Interstellar Water Ice: An Experimental Determination of Activation Energy
+
+Abstract:
+
+The surface diffusion of OH radicals on water ice is a crucial process in interstellar chemistry, influencing the formation of complex molecules in astrophysical environments. Using photostimulated desorption methods, we experimentally determined the activation energy for OH radical diffusion on water ice. Our results indicate an activation energy of 0.14 ± 0.01 eV, providing a fundamental parameter for understanding the mobility of OH radicals on interstellar ice surfaces. This value is essential for modeling the chemical evolution of interstellar media, where OH radicals play a key role in the formation of various species. The present study contributes to our understanding of the physicochemical processes governing interstellar chemistry, shedding light on the complex interactions between radicals and ice surfaces in these environments. (2022)

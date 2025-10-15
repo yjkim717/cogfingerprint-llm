@@ -1,0 +1,8 @@
+Author: T. Nakazawa
+Title: Transcriptional shifts in delignification‐defective mutants of the white‐rot fungus Pleurotus ostreatus
+Paper ID: 8ff38308bf682ad798e837ec85851a58709565f9
+Year: 2020
+Author Index: 3
+
+Abstract:
+White‐rot fungi efficiently degrade lignin and, thus, play a pivotal role in the global carbon cycle. However, the mechanisms of lignin degradation are largely unknown. Recently, mutations in four genes, namely wtr1, chd1, pex1, and gat1, were shown to abrogate the wood lignin‐degrading ability of Pleurotus ostreatus. In this study, we conducted a comparative transcriptome analysis to identify genes that are differentially expressed in ligninolysis‐deficient mutant strains. Putative ligninolytic genes that are highly expressed in parental strains are significantly downregulated in the mutant strains. On the contrary, many putative cellulolytic and xylanolytic genes are upregulated in the chd1‐1, Δpex1, and Δgat1 strains. Identifying transcriptional alterations in mutant strains could provide new insights into the regulatory mechanisms of lignocellulolytic genes in P. ostreatus.

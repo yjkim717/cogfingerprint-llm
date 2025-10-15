@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a university researcher:
+
+**Abstract**
+
+The CheckMate 649 trial, with its extended 3-year follow-up data released in 2024, provides compelling evidence for the efficacy of first-line nivolumab in combination with chemotherapy for the treatment of advanced gastroesophageal adenocarcinoma (GEC). This randomized, controlled study demonstrated a statistically significant and clinically meaningful improvement in both overall survival (OS) and progression-free survival (PFS) compared to chemotherapy alone in patients whose tumors expressed programmed death-ligand 1 (PD-L1) at a combined positive score (CPS) of ≥5. Furthermore, the treatment regimen exhibited an enhanced objective response rate. These findings solidify nivolumab plus chemotherapy as a new standard of care for this patient population, representing a significant advance in the management of GEC. The data suggest that immunotherapy, when strategically implemented based on PD-L1 expression, can substantially improve patient outcomes and warrants broader adoption within clinical practice.

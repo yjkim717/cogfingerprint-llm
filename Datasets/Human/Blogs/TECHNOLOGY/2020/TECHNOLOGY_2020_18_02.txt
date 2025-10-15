@@ -1,0 +1,5 @@
+Year: 2020
+Author: kbbtech
+URL: https://www.reddit.com/r/sysadmin/comments/ez05em/login_script_question/
+
+Hi all I've inherited a server 2012 r2 domain environment that uses a login script to map network drives based on which office a person is located in (there are 9 locations in total). In AD, we create (or move when needed) our users to the OU of their office. Here is part of the script echo Connecting to Public share... if "%Office%" == **"11111"** net use %PublicDrive% \\\\FileServer\\Office1 /y if "%Office%" == **"22222"** net use %PublicDrive% \\\\FileServer\\Office2 /y if "%Office%" == **"33333"** net use %PublicDrive% \\\\FileServer\\Office3 /y I'm making the assumption that users in OU 11111 should get Office1 mapped, etc. I can't seem to find anywhere in AD a reference to 11111, 22222, 33333, etc. Any thoughts on where I would look for that info? Could the script be calling this info from someplace else? Thanks in advance.

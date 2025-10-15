@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2021.
+
+***
+
+**Abstract**
+
+The structural morphology of water ice on cosmic dust grains is a critical parameter influencing chemical processes in the interstellar medium, yet prevailing astrochemical models often assume homogeneous, crystalline ice layers. This study employs high-resolution transmission electron microscopy (TEM) to directly investigate the nucleation and growth of water ice on astrophysically relevant substrates. Our findings demonstrate that the resulting ice morphology is not uniform but is fundamentally governed by a complex interplay between the chemical composition of the grain surface and the local deposition conditions. We observe a direct correlation between specific substrate properties and the formation of either amorphous solid water (ASW) or crystalline ice phases, with certain compositions strongly promoting vitrification even at temperatures conducive to crystallization. These results challenge the long-standing assumption of structurally homogeneous ices in dense molecular clouds and protoplanetary disks. The explicit dependence of ice architecture on the underlying grain material necessitates a revision of current astrochemical models. Incorporating substrate-specific crystallization thresholds and amorphous ice stability is therefore essential for accurately simulating surface-mediated reaction kinetics and molecular synthesis in icy astrophysical environments.

@@ -1,0 +1,14 @@
+Okay, here’s a blog post draft inspired by the provided summary and incorporating the requested tone and context:
+
+---
+
+**Shiny Apps & Scattered Data: A Mobile Frustration**
+
+Okay, so 2023 has been a wild ride of building things in RStudio. I’ve been wrestling with a Shiny app – a little budgeting tool, actually – and I’m obsessed with getting it to run smoothly on my phone. I’ve been experimenting with Shinyapps.io for deployment, but their data storage limits are seriously cramping my style. 
+
+It’s funny, right? I’m building a tool to help track my *own* exercise, yet I’m battling technical hurdles just to see it on the go. Makes you think about the whole process, doesn’t it?  Maybe a simpler approach is needed! 
+
+
+---
+
+Would you like me to tweak this, or perhaps generate a different style of post?

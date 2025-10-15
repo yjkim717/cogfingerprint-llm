@@ -1,0 +1,1 @@
+get_blog_post(keywords=["patrick mahomes", "nfl records", "passing yards", "touchdown passes", "quarterback stats"], summary="Analysis predicts Patrick Mahomes will break NFL passing records in the next few seasons.", tone="conversational", year=2021)

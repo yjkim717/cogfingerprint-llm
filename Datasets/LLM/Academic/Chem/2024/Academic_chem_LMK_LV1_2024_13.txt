@@ -1,0 +1,5 @@
+Title: Investigating the Formation of Methylamine via Carbon Atom Insertion into Ammonia on Interstellar Ices: A Quantum Chemical Study
+
+Abstract:
+
+The formation of complex organic molecules (COMs) in interstellar environments is a topic of significant interest in astrochemistry. In this study, we employ quantum chemical calculations to investigate the interaction of carbon atoms with ammonia (NH3) on interstellar ice surfaces, focusing on the potential formation pathways to methylamine (CH3NH2). Our calculations reveal that the insertion of carbon atoms into NH3 can lead to the formation of methylamine via a barrierless reaction pathway. The reaction mechanism involves the initial formation of a H3N-C complex, followed by hydrogenation to yield CH3NH2. Our results suggest that this mechanism is a viable route to methylamine formation in interstellar environments, particularly in regions where ammonia-rich ices are present. The findings of this study contribute to our understanding of the chemistry of interstellar ices and the origins of COMs in the interstellar medium (2024).

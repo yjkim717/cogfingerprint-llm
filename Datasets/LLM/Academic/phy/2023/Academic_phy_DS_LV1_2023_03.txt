@@ -1,0 +1,3 @@
+**Abstract**
+
+We investigate a minimal quantum mechanical model of two-dimensional black holes comprising coupled harmonic oscillators interacting with Majorana fermions. Employing exact diagonalization techniques, we demonstrate that the spectral statistics of this system exhibit universal random matrix behavior, characteristic of quantum chaos, at late times. Furthermore, we establish a direct mapping between the fermionic degrees of freedom and logical qubits, providing a concrete estimate for the number of qubits required to simulate Hawking radiation dynamics on a quantum processor. This work establishes a scalable platform for probing black hole information physics in controlled quantum systems.

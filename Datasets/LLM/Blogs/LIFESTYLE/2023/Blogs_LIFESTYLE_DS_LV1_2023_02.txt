@@ -1,0 +1,3 @@
+It’s funny—I used to think mastering a new programming language was the ultimate challenge. Then 2023 arrived, and suddenly everyone’s talking about AI writing code. I tried using GPT-4 to help me add a feature to my old side project, but it felt like explaining my life story to a distracted friend. The AI just couldn’t hold enough context to really "get" the whole codebase.
+
+It made me reflect: maybe life’s like that, too. We try to patch new habits or goals onto our existing routines without stepping back to see the whole picture. Sometimes, the most meaningful edits aren’t about adding more—they’re about understanding what’s already there.

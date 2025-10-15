@@ -1,0 +1,8 @@
+Author: C. Vafa
+Title: Baby Universes, Holography, and the Swampland
+Paper ID: b34706896a9cd7995e27a8ba881c01c596444b58
+Year: 2020
+Author Index: 4
+
+Abstract:
+On the basis of a number of Swampland conditions, we argue that the Hilbert space of baby universe states must be one-dimensional in a consistent theory of quantum gravity. This scenario may be interpreted as a type of "Gauss's law for entropy" in quantum gravity, and provides a clean synthesis of the tension between Euclidean wormholes and a standard interpretation of the holographic dictionary, with no need for an ensemble. Our perspective relies crucially on the recently-proposed potential for quantum-mechanical gauge redundancies between states of the universe with different topologies. We further comment on the possible exceptions in $d \leq 3$ for this hypothesis and the role of an ensemble in holographic theories in the context of theories of quantum gravity in $d = 2$ (such as JT gravity and possible cousins in $d=3$), which we argue are incomplete physical theories that should be viewed as branes in a higher dimensional theory of quantum gravity for which an ensemble plays no role.

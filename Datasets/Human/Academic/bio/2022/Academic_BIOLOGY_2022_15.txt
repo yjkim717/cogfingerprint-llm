@@ -1,0 +1,8 @@
+Author: A. Kasprzak
+Title: Role of the Ghrelin System in Colorectal Cancer
+Paper ID: 1d36b7ebbfce5cd285fec1e47e92292ef616edab
+Year: 2022
+Author Index: 15
+
+Abstract:
+The ghrelin system contains several components (e.g., ghrelin with growing number of alternative peptides, growth hormone secretagogue receptors (GHS-Rs), and ghrelin-O-acyl-transferase (GOAT) and participates in regulation of a number of key processes of gastrointestinal (GI) tract cancer progression, including cell proliferation, migration, invasion, apoptosis, inflammation, and angiogenesis. However, its exact role in promoting or inhibiting cancer progression is still unclear. Colorectal cancer (CRC) is one of the most common human malignancies worldwide. Molecular studies suggest an autocrine/paracrine mechanism for the secretion of ghrelin in colorectal carcinogenesis and its contribution to its initial stages. However, the signalling pathways of CRC development involving the ghrelin system are poorly understood. Potential mechanisms of colon carcinogenesis involving components of the ghrelin system were previously described in an animal model and in in vitro studies. However, the diagnostic–prognostic role of serum ghrelin concentrations, tissue expression, or genetic changes of this system in various stages of CRC progression remains an open case. Thus, the aim of this study is to discuss the role of the ghrelin system in colon carcinogenesis, diagnostics and CRC prognostics, as well as the results of studies on the use of ghrelin and its analogues in the therapy of CRC-related syndromes (e.g., cachexia and sarcopenia).

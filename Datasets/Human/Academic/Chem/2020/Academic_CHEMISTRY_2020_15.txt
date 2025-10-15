@@ -1,0 +1,8 @@
+Author: J. Evans
+Title: Four-dimensional metal-organic frameworks
+Paper ID: 0848ded81b1574e3556aad3059f058a1e0539f8f
+Year: 2020
+Author Index: 15
+
+Abstract:
+Recognising timescale as an adjustable dimension in porous solids provides a new perspective to develop novel four-dimensional framework materials. The deliberate design of three-dimensional porous framework architectures is a developed field; however, the understanding of dynamics in open frameworks leaves a number of key questions unanswered: What factors determine the spatiotemporal evolution of deformable networks? Can we deliberately engineer the response of dynamic materials along a time-axis? How can we engineer energy barriers for the selective recognition of molecules? Answering these questions will require significant methodological development to understand structural dynamics across a range of time and length scales. As the field of metal-organic frameworks is maturing, understanding the dynamics of open frameworks is progressing and rational approaches are under development. Here, the authors outline challenges and potential routes to engineering the spatio-temporal evolution of dynamic metal-organic frameworks.

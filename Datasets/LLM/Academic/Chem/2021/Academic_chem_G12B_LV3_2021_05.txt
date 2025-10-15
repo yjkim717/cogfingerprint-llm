@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, written as if it were published in 2021:
+
+**Abstract**
+
+Understanding the morphology of ices coating refractory grains is crucial for modeling the chemical evolution of interstellar molecular clouds and protoplanetary disks. This study employed transmission electron microscopy (TEM) to characterize the morphology of H₂O, CO₂, and CO ices deposited on refractory substrates, providing insights into their crystallization behavior. Our findings demonstrate that ice formation is a heterogeneous process, strongly dependent on both ice composition and the underlying grain material. Observed morphologies deviate from expected homogenous crystal structures, suggesting complex nucleation and growth mechanisms. These results inform the development of macroscopic models for icy grain populations in space, impacting predictions of ice line locations and subsequent planet formation processes.

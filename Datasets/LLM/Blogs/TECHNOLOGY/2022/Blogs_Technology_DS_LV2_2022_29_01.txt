@@ -1,0 +1,1 @@
+This year, I dove into Advent of Code with C3, a new language that feels like C’s thoughtful successor. Wrestling with slices and syntax, I found a familiar comfort with fresh possibilities. It’s a reminder that even in coding, growth often comes from revisiting roots with a new perspective.

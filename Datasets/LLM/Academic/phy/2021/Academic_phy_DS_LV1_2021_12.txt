@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The computational bottleneck in large-scale *ab initio* electronic structure calculations, particularly within Hartree-Fock and Density Functional Theory frameworks, frequently resides in the evaluation of electron repulsion integrals (ERIs). To address the escalating demands for high-accuracy simulations of complex molecular systems, we present a novel multi-GPU parallelization strategy for the quantum interaction computational kernel. Our implementation employs a dynamic, load-balanced work partitioning algorithm designed to mitigate data transfer overheads and efficiently distribute the ERI tensor contractions across multiple GPU devices. Benchmarks conducted in 2021 on representative molecular systems demonstrate near-linear scaling and a parallel efficiency exceeding 92% on up to eight state-of-the-art GPUs. This approach significantly accelerates the self-consistent field procedure, enabling previously intractable quantum chemical investigations and establishing a scalable pathway for exascale computational chemistry.

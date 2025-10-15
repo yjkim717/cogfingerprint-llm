@@ -1,0 +1,7 @@
+## The Quiet Security of a Locked Box (and My NAS)
+
+Okay, so I’ve been wrestling with something lately – a quiet, persistent worry about the data on my home NAS. It’s a Debian box, running pretty smoothly, but the thought of all those files just… sitting there, unencrypted, felt increasingly unsettling in 2022. 
+
+I'm trying to layer in some extra security, specifically moving my /root partition to a Luks-encrypted disk. Sounds technical, right? It is! But I'm determined. The question I've been circling is whether I can pull this off with a simple fstab entry. 
+
+It’s more than just a technical challenge, though. It's about feeling like I'm actively protecting something valuable – years of photos, documents, the digital life I've built. It's a small project, but it represents a larger shift towards a more mindful approach to digital security. Wish me luck!

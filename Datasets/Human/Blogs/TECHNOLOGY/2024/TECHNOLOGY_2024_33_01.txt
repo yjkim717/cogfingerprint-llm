@@ -1,0 +1,5 @@
+Year: 2024
+Author: RetardedManOnTheWeb
+URL: https://www.reddit.com/r/oracle/comments/1ecgduq/how_to_reclaim_empty_space_from_an_terminated/
+
+Im running on the Free Tier and I want to make a new instance. However, I noticed that I have 141 out of 200GB of storage that is in use, despite me having only 2 instances, each using 47gb. I have made another instance in the past, but I have since terminated that instance, and it no longer appears in the list of my created instances. Is there a way I can reclaim that space? UPDATE: i have reclaimed the space by deleting a boot volume that didnt belong to any instance.

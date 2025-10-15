@@ -1,0 +1,5 @@
+For nine years, I’ve been the go-to sysadmin—the one who keeps servers humming and fires extinguished. But lately, something’s shifted. I’ve found myself drawn deeper into the world of SQL, crafting queries that feel less like work and more like solving intricate puzzles. It’s as if the data itself is whispering, inviting me into the realm of database administration.
+
+So here I am in 2023, standing at a career crossroads, armed with my Azure certifications and a hunger for something new. Balancing job applications with late-night study sessions has become my new normal—exhausting, yes, but electrifying too. Every script I write, every cloud database I configure, feels like a step toward a future where I’m not just maintaining systems, but shaping them.
+
+It’s a leap, trusting skills still in bloom. But if there’s one thing my sysadmin years taught me, it’s that growth happens just outside your comfort zone. And maybe, just maybe, that’s where I’m meant to be.

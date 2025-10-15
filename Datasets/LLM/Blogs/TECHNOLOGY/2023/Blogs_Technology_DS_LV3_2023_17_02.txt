@@ -1,0 +1,3 @@
+Is ZFS really that hungry for RAM? I’ve been asking myself this while sketching out my new Proxmox home lab setup. With 32GB of RAM and three 16TB drives destined for a RAIDZ1 pool, the old “1GB per terabyte” rule felt intimidating. My storage would demand 48GB before I even started!
+
+But then I dug deeper. Without enabling memory-heavy features like deduplication, maybe that guideline is more of a gentle suggestion for enterprise setups, not a home lab tinkerer like me. It’s 2023, and we have more data than ever on how ZFS truly performs. I’m choosing to believe my 32GB will be just fine for hosting my VMs and containers. Sometimes, the conventional wisdom just needs a personal reality check. Here’s to hoping my frugal setup doesn’t just work—but thrives.

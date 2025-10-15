@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Unveiling the Chemistry of Cyanomethanimine Isomers in Interstellar Environments: A Quantum Chemical and Astrochemical Modelling Study
+
+Abstract:
+
+The detection of cyanomethanimine (C2H2N2) isomers in interstellar environments has sparked significant interest in understanding their formation and destruction pathways. This study employs a synergistic approach, combining quantum chemical calculations and astrochemical modelling, to investigate the chemistry of Z- and E-cyanomethanimine isomers in interstellar environments. Quantum chemical calculations at the CCSD(T)/cc-pVTZ level of theory were performed to derive accurate thermodynamic and kinetic parameters for relevant reactions. These parameters were subsequently incorporated into astrochemical models to simulate the abundance of cyanomethanimine isomers under various interstellar conditions. Our results reveal distinct isomer abundance ratios as a function of temperature and density, providing valuable insights into the chemistry of these complex molecules. The findings of this study contribute to a deeper understanding of the chemistry of cyanomethanimine isomers in interstellar environments, shedding light on their potential role in the formation of more complex nitrogen-bearing species.

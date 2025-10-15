@@ -1,0 +1,10 @@
+>## When Games Teach You More Than Manuals
+
+Okay, so I’m completely hooked on *Divinity: Original Sin 2* right now. It’s phenomenal, but it got me thinking about something broader than just fantasy RPGs. It's about how we learn in the digital age.
+
+The game's combat is heavily reliant on dice rolls – percentages, modifiers, the whole nine yards. Initially, I was *lost*. There was no clear tutorial explaining how it all worked. I just started clicking and guessing, slowly figuring it out through repeated failures (and occasional glorious successes!). 
+
+It struck me that this is often how we learn with technology. We fumble around with new software, new apps, new platforms, until we stumble upon the logic.  Wouldn't it be fantastic if every program had that kind of intuitive, discoverable learning baked in, instead of dense, overwhelming manuals?  And, like *Divinity*, a smooth system for reporting when things go wrong, so developers can actually *improve* the experience. Maybe 2021 is the year we start demanding more playful, iterative learning from our tech.
+
+
+

@@ -1,0 +1,5 @@
+There’s a piece of advice I’ve carried with me since I started designing a small scripting language back in 2023, and it’s a little counterintuitive: stop listening to so much advice.
+
+Early on, I’d eagerly collect opinions from seasoned developers. One would swear by static typing, another by pure functional paradigms. Their convictions were absolute, forged in the fires of their own projects and the languages they’d mastered. But I soon realized their "universal truths" were deeply personal, shaped by the specific problems they had solved—or failed to solve.
+
+My own journey taught me that language design isn't about assembling a list of "best practices." It’s about deeply understanding the unique context your language will live in. Borrowed wisdom, without that intimate experience, can blind you to the novel, elegant solution waiting to be discovered. Sometimes, the most profound progress begins by quietly trusting your own compass.

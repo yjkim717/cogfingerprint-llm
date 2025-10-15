@@ -1,0 +1,1 @@
+We demonstrate a compact magneto-optical trap for neutral strontium atoms using polarization-multiplexed metasurfaces. A single topology-optimized metagrating, illuminated by two input beams, generates the requisite six trapping beams, significantly reducing the system's optical complexity and footprint. This approach advances integrated atomic-photonics platforms.

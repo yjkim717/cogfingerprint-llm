@@ -1,0 +1,5 @@
+Title: Unitarity in Black Hole Evolution: A Quantum Cloning Approach
+
+Abstract:
+
+The long-standing black hole information paradox has sparked intense debate regarding the interplay between quantum mechanics and general relativity. Recent studies have sought to reconcile the apparent loss of unitarity in black hole evolution. In this work, we propose a systematic procedure to understand the evolution laws of black holes in terms of pure quantum states using quantum clones. By employing the concept of quantum cloning, we demonstrate that the information paradox can be resolved by considering the existence of multiple clones of the initial quantum state. We analyze the Penrose diagram for an evaporating black hole and show that the cloning process allows for the preservation of unitarity. Our results provide a novel insight into the quantum nature of black holes, shedding light on the fundamental principles governing their evolution. The proposed framework offers a promising avenue for resolving the black hole information paradox within the context of quantum gravity, as of 2022.

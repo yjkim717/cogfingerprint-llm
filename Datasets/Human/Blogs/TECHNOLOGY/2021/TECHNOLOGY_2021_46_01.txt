@@ -1,0 +1,5 @@
+Year: 2021
+Author: WaldoOU812
+URL: https://www.reddit.com/r/scom/comments/nxlok0/windows_server_2016_dns_zone_query_overload_is/
+
+Weird question for the group. Is there a way to track specific alert values in a report? The specific values I'm looking for are from the Windows Server 2016 and 1709+ DNS Monitoring pack, from the Zone Query Overload monitor. I've had the alert active for a while, and need to tweak it to our baseline, but I'd like to see some kind of reporting on this as well. So far, my google fu is weak, and everything I'm finding is not related to this at all. What I'm specifically looking for is a report that would show that value on a daily basis.

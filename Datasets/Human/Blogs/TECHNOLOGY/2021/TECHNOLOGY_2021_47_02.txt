@@ -1,0 +1,5 @@
+Year: 2021
+Author: TKInstinct
+URL: https://www.reddit.com/r/ITCareerQuestions/comments/mnfp0v/what_are_you_guys_doing_if_you_run_into_a/
+
+It's always been a minor fear of mine, I currently work for a big organization as a T1 Analyst. Currently, if I run into a problem that I can't fix and run out of time with the caller; I can simply shift the call into the work queue of another team and let them handle it from there. I feel I'm a good fit for this role and do well, I'm not worried about my compitence here. I'm thinking though, in a hypothetical situation where I move to another job that is smaller and has less teams, I'm nervous about running into a situation like this. There are plenty of org's that have only one IT person for hundreds of people and I don't want to look foolish or get fired.

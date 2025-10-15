@@ -1,0 +1,1 @@
+"In 2021, I discovered the power of Duck Typing in JavaScript and TypeScript. It's a programming pattern that focuses on an object's capabilities rather than its type. TypeScript's clever features make it a perfect fit. This concept has changed how I approach coding, embracing flexibility and simplicity."

@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, reflecting a 2020 context:
+
+**Abstract**
+
+Contemporary management of metastatic breast cancer increasingly relies on personalized systemic therapy approaches. The 2020 NCCN Guidelines underscore the pivotal role of tumor biology – specifically, hormone receptor (HR) and human epidermal growth factor receptor 2 (HER2) status – in guiding treatment selection.  Clinical decisions now prioritize stratification based on these biomarkers, reflecting advancements in understanding metastatic disease progression.  Further research continues to explore the interplay between systemic therapies and tumor microenvironment, aiming to refine patient outcomes.  Consequently, a nuanced assessment of these key factors remains central to optimizing therapeutic efficacy and minimizing adverse effects in this challenging clinical setting.

@@ -1,0 +1,1 @@
+Remember those early 2020 days, trying to build my first website from home? I’d test PHP files in XAMPP, and they’d run perfectly. But uploading them to hosting felt like a leap of faith—would the server understand my code? That moment of uncertainty taught me more about stepping into the unknown than any tutorial ever could.

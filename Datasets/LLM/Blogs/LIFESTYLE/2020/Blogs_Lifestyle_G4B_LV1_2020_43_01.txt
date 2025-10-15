@@ -1,0 +1,11 @@
+Okay, here's a reflective blog post based on your summary and requested style/context:
+
+---
+
+**The Route I Didn’t Take (and Why It’s Okay)**
+
+It’s weird, isn’t it? 2020 felt like everyone was obsessed with single-page applications and meticulously crafted routing systems. I saw tutorials on building complex client-side journeys, all meticulously managed with ReactJS. Honestly, it felt… exhausting. 
+
+I’ve always leaned towards a simpler approach. Building my little side projects, my personal websites, I just layered components, trusting the user to navigate intuitively. It’s a less structured way of doing things, and I’ll admit, it felt a bit rebellious against the prevailing wisdom. 
+
+There were moments of doubt, of course. Did I *really* know what I was doing? Was I sacrificing performance? But then I’d step back and remember the core of it – focusing on the user journey, making it as smooth and engaging as possible, one component at a time.  It’s a route I chose, and honestly, it’s working just fine for me.

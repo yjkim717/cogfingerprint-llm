@@ -1,0 +1,8 @@
+Author: Keiju Murata
+Title: Creating stars orbiting in AdS
+Paper ID: da5fdb60768dde218ad171a3ceb8ddefbbe583ea
+Year: 2022
+Author Index: 11
+
+Abstract:
+We propose a method to create a star orbiting in an asymptotically AdS spacetime using the AdS/CFT correspondence. We demonstrate that by applying an appropriate source in the quantum ﬁeld theory deﬁned on a 2-sphere, the localized star gradually appears in the dual asymptotically AdS geometry. Once the star is created, the angular position can be observed from the response function. The relationship between the parameters of the created star and those of the source is studied. We show that information regarding the bulk geometry can be extracted from the observation of stellar motion in the bulk geometry. In this supplemental material, we provide a practical way to ﬁnd the boundary condition for the scalar ﬁeld to create a star orbiting in asymptotically AdS spacetime. We also describe the numerical method used to determine the time evolution of the scalar ﬁeld for a given boundary condition.

@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The formation of complex organic molecules (COMs) in interstellar ices is a critical process in astrochemical evolution. While hydrogenation reactions are recognized as key pathways, the role of carbon atom addition remains less constrained. This investigation employs high-level quantum chemical calculations to elucidate the reaction mechanism and kinetics of carbon (C; ^3P) accretion onto solid-phase ammonia (NH₃) under dark molecular cloud conditions. Our results identify a barrierless addition pathway initiating the formation of aminomethyl radical (•CH₂NH₂), which subsequently undergoes rapid hydrogenation to yield methylamine (CH₃NH₂). The calculated reaction rates were integrated into a state-of-the-art astrochemical kinetic model. Simulations confirm that this C-addition/hydrogenation sequence is a dominant, non-diffusive formation route for methylamine in icy mantles, significantly enhancing its predicted abundance. These findings necessitate a revision of current astrochemical networks to include direct carbon accretion processes, providing a more robust framework for interpreting JWST observations of prebiotic ice chemistry.

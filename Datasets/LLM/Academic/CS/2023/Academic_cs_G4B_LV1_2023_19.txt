@@ -1,0 +1,9 @@
+Okay, here's an original academic-style abstract, drawing upon the provided summary and incorporating relevant terminology, structured reasoning, and a 2023 year context:
+
+---
+
+**Abstract**
+
+The increasing prevalence of Autism Spectrum Disorder (ASD) necessitates robust and scalable diagnostic tools. This research investigates the application of deep learning techniques to automate ASD detection leveraging neuroimaging data. Specifically, we present a novel framework utilizing Convolutional Neural Networks (CNNs) to construct age-stratified diagnostic models predicated on extracted functional connectivity patterns from functional Magnetic Resonance Imaging (fMRI) scans.  Traditional diagnostic methods rely heavily on subjective clinical evaluation, introducing potential variability. Our approach seeks to mitigate this through objective, data-driven analysis.
+
+We hypothesize that distinct functional connectivity signatures, reflective of underlying neural network organization, differentiate ASD individuals across developmental stages. The CNN architecture was trained on a curated dataset of fMRI data from both ASD and neurotypical controls, segmented by age.  Performance was evaluated using metrics including accuracy, precision, recall, and F1-score. Preliminary results indicate a significant improvement in diagnostic accuracy compared to existing methods, particularly within specific age cohorts.  Future work will focus on incorporating multi-modal data integration and exploring the interpretability of the learned CNN representations to elucidate the neural correlates of ASD.  This study contributes to the growing field of computational neuroscience, offering a potential pathway toward earlier and more reliable ASD diagnosis.

@@ -1,0 +1,5 @@
+Year: 2021
+Author: kbbtech
+URL: https://www.reddit.com/r/Cisco/comments/nmvrjw/2811_ios_question/
+
+Hi all, Total noob questions. We have a 2811 router still in use. Client doesn't have budget to upgrade just yet. I've suggested purchasing a used 2811 to have on standby incase of failure for the existing. The production router is running ios 12.4. The backup router will come with version 15. I can't seem to find version 12.4 to download anywhere. Is it even possible? My question is, if I apply the running config from the production router, am i likely to run into issues because the backup router will have a different ios? Thanks in advance.

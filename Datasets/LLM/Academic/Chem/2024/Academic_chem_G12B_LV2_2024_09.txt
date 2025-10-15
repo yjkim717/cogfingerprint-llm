@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract, based on the provided summary and adhering to the requested specifications:
+
+**Abstract**
+
+The formation of complex organic molecules within interstellar ices remains a crucial, yet incompletely understood, aspect of astrochemistry. This study investigates the mechanism of carbon atom accretion onto ammonia-water ices, a prevalent environment in cold molecular clouds, utilizing high-level quantum chemical calculations. Our computational analysis, employing density functional theory and explicitly correlated methods, reveals a preferential pathway for the formation of methylamine (CH₃NH₂) over alternative carbon-hydrogen bond formation routes. Specifically, the calculated reaction energetics demonstrate that the incorporation of carbon atoms into the ice matrix significantly favors the initial formation of imine intermediates, which rapidly hydrogenate to yield methylamine. This outcome challenges previous simplified models and highlights the importance of considering a complex hydrogenation network in accurately simulating ice chemistry. The findings provide critical data for refining astrochemical models and improving predictions regarding the abundance and distribution of methylamine in interstellar environments, contributing to a more nuanced understanding of prebiotic molecule synthesis.
+
+
+

@@ -1,0 +1,13 @@
+Okay, here's a blog post draft based on your summary and instructions, aiming for a reflective, conversational tone and a 2021 context:
+
+---
+
+**The Dance Between Data: When Entities and DTOs Just Wouldn’t Play Nice**
+
+It’s funny how tech sometimes feels less like solving problems and more like…a really persistent dance.  Back in 2021, I was wrestling with a particularly stubborn one – getting my Scala 3 entity models to smoothly communicate with my data transfer objects (DTOs). 
+
+I’d been happily using MapStruct, all geared up for the Scala 3 record classes, envisioning a beautiful, automated mapping process. But then the field names started screaming at me.  Entity fields were “customerName”, DTOs were “name”.  It wasn’t a dramatic clash, but a constant, low-level annoyance. 
+
+I spent a frustrating afternoon just manually mapping, feeling a bit like I was fighting the elegance Scala was supposed to offer.  It really highlighted the difference between *thinking* about data transformation and *actually* doing it. 
+
+Ultimately, I realized it wasn’t about rejecting MapStruct; it was about acknowledging the need for a bit of custom logic.  Sometimes, the most elegant solution isn’t entirely automated.  It's about understanding the data and crafting a process that feels right, even if it’s a little more manual.  What’s your experience been with data migrations?

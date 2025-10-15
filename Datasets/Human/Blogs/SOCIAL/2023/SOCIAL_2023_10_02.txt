@@ -1,0 +1,5 @@
+Year: 2023
+Author: Mescallan
+URL: https://www.reddit.com/r/rshiny/comments/122jdhh/learning_rshiny_i_made_a_couple_of_apps_for/
+
+Just to learn rshiny, I made a budgeting app and an exercise log app, both of which require a data frame to be updated and maintained. I can run it locally, but I would like to be able to run it from my phone while I am out. shinyapps.io seems to only allow me to upload a static app or at least not store and update my dataframes. Are there any good, preferably free or cheap options? Any help is appreciated, thanks.

@@ -1,0 +1,11 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The Ghost in the SD Card**
+
+Remember those late nights in 2020, desperately trying to get a perfect ROM running on your Android emulator? I do. I was chasing a sweet, stable Fire Emblem experience, and my Galaxy S10 was my trusty testing ground. Then, Android 11 hit, and suddenly, everything went…weird. 
+
+My emulator just couldn’t seem to find my SD card. It was like the device had vanished, a digital ghost haunting my setup. Turns out, Android 11’s new scoped storage was the culprit, messing with how emulators accessed external drives. 
+
+It was frustrating, honestly. A small change, a huge roadblock. It made me think about how deeply we rely on these little bits of tech – our SD cards, our emulators – and how a single update can throw a wrench in everything.  Anyone else run into this?

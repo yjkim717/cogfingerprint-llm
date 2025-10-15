@@ -1,0 +1,5 @@
+Year: 2020
+Author: Draconic_Flame
+URL: https://www.reddit.com/r/runescape/comments/ge1ito/cant_select_a_world/
+
+I am playing on a hardcore, and whenever I try to select a world now it just boots me out to the login screen. It doesn't matter what world, and I have reinstalled the client, restarted my computer, and submitted a ticket to Jagex, but their response times are slower now and I really want to play again. I can log in on my main just fine, and I still have a red skull when talking in clan chat through lobby so I don't think I permanently died. Does anybody have any suggestions?

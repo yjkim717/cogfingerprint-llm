@@ -1,0 +1,3 @@
+It’s funny how we trust technology to keep us safe, until it doesn’t. I was scrolling through videos the other day and stumbled upon one that really gave me pause. It was about certain APC UPS units—those little boxes we rely on to protect our precious electronics during a power surge. The video claimed some have a hidden danger: aluminum cores in the transformers, poorly soldered to copper wires, creating a potential fire hazard.
+
+It made me reflect: in our rush for innovation, are we overlooking the basics? Sometimes, the smallest flaw can undo all that trust we place in our gadgets.

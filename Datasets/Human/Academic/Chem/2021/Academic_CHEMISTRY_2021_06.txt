@@ -1,8 +1,8 @@
-Author: Ilyes Batatia
-Title: A Deep Learning Method with CRF for Instance Segmentation of Metal-Organic Frameworks in Scanning Electron Microscopy Images
-Paper ID: 449311fd5dd0c23cdb2190f5c3d9807767ec2684
+Author: G. Molpeceres
+Title: Carbon Atom Reactivity with Amorphous Solid Water: H2O-Catalyzed Formation of H2CO
+Paper ID: 6456ebd989204d7668562c11ca8cf13fe820f5a2
 Year: 2021
 Author Index: 6
 
 Abstract:
-This paper proposes an integrated method for recognizing special crystals, called metal-organic frameworks (MOF), in scanning electron microscopy images (SEM). The proposed approach combines two deep learning networks and a dense conditional random field (CRF) to perform image segmentation. A modified Unet-like convolutional neural network (CNN), incorporating dilatation techniques using atrous convolution, is designed to segment cluttered objects in the SEM image. The dense CRF is tailored to enhance object boundaries and recover small objects. The unary energy of the CRF is obtained from the CNN. And the pairwise energy is estimated using mean field approximation. The resulting segmented regions are fed to a fully connected CNN that performs instance recognition. The method has been trained on a dataset of 500 images with 3200 objects from 3 classes. Testing achieves an overall accuracy of 95.7% MOF recognition. The proposed method opens up the possibility for developing automated chemical process monitoring that allows researchers to optimize conditions of MOF synthesis.
+We report new computational and experimental evidence of an efficient and astrochemically relevant formation route to formaldehyde (H2CO). This simplest carbonylic compound is central to the formation of complex organics in cold interstellar clouds and is generally regarded to be formed by the hydrogenation of solid-state carbon monoxide. We demonstrate H2CO formation via the reaction of carbon atoms with amorphous solid water. Crucial to our proposed mechanism is a concerted proton transfer catalyzed by the water hydrogen bonding network. Consequently, the reactions 3C + H2O → 3HCOH and 1HCOH → 1H2CO can take place with low or without barriers, contrary to the high-barrier traditional internal hydrogen migration. These low barriers (or the absence thereof) explain the very small kinetic isotope effect in our experiments when comparing the formation of H2CO to D2CO. Our results reconcile the disagreement found in the literature on the reaction route C + H2O → H2CO.

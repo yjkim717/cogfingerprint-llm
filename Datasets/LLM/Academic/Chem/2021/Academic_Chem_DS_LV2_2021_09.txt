@@ -1,0 +1,7 @@
+Here is a formal academic abstract reflecting the provided summary and context:
+
+**Abstract**
+
+The structural evolution of interstellar ice mantles, governed by their amorphous-to-crystalline phase transitions, is a critical determinant of their chemical reactivity and physical behavior in astrophysical environments. This investigation employs high-resolution transmission electron microscopy (TEM) to systematically characterize the morphology of water ice deposited onto refractory grain analogues. Our analysis demonstrates a direct correlation between the resulting ice microstructure and two key parameters: the chemical composition of the ice matrix, including the presence of volatile impurities, and the physicochemical nature of the underlying substrate. We observe that specific substrate compositions and surface morphologies preferentially stabilize amorphous solid water (ASW) or facilitate its crystallization to cubic ice (I*c*) at temperatures relevant to protoplanetary disks. These microstructural states, in turn, directly influence the porosity, surface area, and diffusion kinetics within the ice mantle. Consequently, this work provides a mechanistic framework for predicting molecular trapping and surface-mediated reaction efficiencies. Our findings have significant implications for astrochemical models, suggesting that substrate-dependent ice morphology is a fundamental variable controlling the inventory of complex organic molecules in molecular clouds and the early stages of planetary system formation.
+
+(Word Count: 199)

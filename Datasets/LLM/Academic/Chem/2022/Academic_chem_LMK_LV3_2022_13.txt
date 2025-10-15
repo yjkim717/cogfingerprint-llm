@@ -1,0 +1,4 @@
+Title: Quantifying Surface Diffusion of OH Radicals on Interstellar Ice Analogs
+
+Abstract:
+This study (2022) investigates the surface diffusion dynamics of OH radicals on interstellar ice analogs using advanced spectroscopic techniques. Employing photostimulated desorption and resonance-enhanced multiphoton ionization, we experimentally determined the activation energy for OH radical surface diffusion to be 0.14 ± 0.01 eV. The Arrhenius equation was utilized to analyze the temperature-dependent diffusion rates, providing insights into the underlying mechanisms. Our findings enhance the understanding of chemical processes in interstellar environments, shedding light on the role of surface diffusion in the formation of complex molecules.

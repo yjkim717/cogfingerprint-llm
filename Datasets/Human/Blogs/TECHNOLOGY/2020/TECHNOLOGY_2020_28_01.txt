@@ -1,0 +1,5 @@
+Year: 2020
+Author: MundanePotato6
+URL: https://www.reddit.com/r/CodingHelp/comments/kbhdwx/i_keep_timing_out_for_this_problem_for_a_contest/
+
+For some context, this was a USACO problem which runs through various test cases, the longer ones going up to input lengths of 1000. My logic here is simple: reverse A1 to A2 and B1 to B2 K times. The first time (swap) I used a for loop and a duplicate array, then copied the duplicate into the original- so I understand why it timed out. The second try (Swap2), I used a much simpler while loop for each reverse without any duplicate array or copying, which should have significantly reduced my run time. I'm still timing out though- anyone have an idea as to what might be making my code to take so long? The links to my code (didn't want to make the post too long): The problem:

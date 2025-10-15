@@ -1,0 +1,5 @@
+Year: 2022
+Author: l4adventure
+URL: https://www.reddit.com/r/FractalDesign/comments/xy6vfr/aio_cooler_recommendations_for_meshify_2_compact/
+
+Hello, Decided on the meshify 2 compact for my build with a 5800X3d and 3090. I was about to pull the trigger on the arctil liquid freezer II - 240 but I've heard many people say this will BARELY or not at all fit... Can you recommend a good AIO or cooler for this setup? There are so many options my head is spinning. I'd like to stay close to $100

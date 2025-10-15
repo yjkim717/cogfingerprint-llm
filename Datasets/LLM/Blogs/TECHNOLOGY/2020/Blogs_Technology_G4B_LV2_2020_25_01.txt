@@ -1,0 +1,9 @@
+Okay, here’s a blog post draft based on your summary and instructions:
+
+---
+
+**The Endless Video Loop**
+
+It’s funny what sticks with you, isn’t it? Back in 2020, I was wrestling with a particularly frustrating tech problem – Chromebooks refusing to load videos, even with updates and a web filter exemption. Seriously, it felt like an endless loop of buffering wheels. 
+
+I was a sysadmin, and it wasn’t about the code; it was about the *feeling* of being stuck, trying to help people access something so simple. It reminded me that tech, for all its complexity, is ultimately about connection.  Sometimes, the smallest glitches can feel monumental when they disrupt that connection.  It’s a good lesson, really.

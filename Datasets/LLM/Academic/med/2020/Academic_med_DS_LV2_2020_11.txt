@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract based on the provided summary and keywords, contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+The global emergence of the COVID-19 pandemic, caused by the novel SARS-CoV-2 virus, presented unprecedented challenges to healthcare infrastructures, demanding rapid adaptation of diagnostic and management protocols. In the initial phase of the outbreak, with limited availability and turnaround times for reverse transcription-polymerase chain reaction (RT-PCR) testing, medical imaging, particularly computed tomography (CT) of the chest, assumed a critical role in the triage and diagnostic workup of suspected cases. This article delineates the preliminary experience and strategic framework developed by the Iranian Society of Radiology (ISR) for the radiologic management of COVID-19. Faced with a surge of patients and evolving clinical understanding, the ISR established a centralized, multi-institutional consultation service to standardize imaging acquisition protocols, refine interpretive criteria for COVID-19-related pulmonary manifestations—such as ground-glass opacities and consolidative patterns—and integrate radiologic findings with clinical and laboratory data. This initiative facilitated a more consistent and efficient diagnostic pathway, aiding in patient isolation decisions and resource allocation during a period of significant healthcare strain. The Iranian experience underscores the indispensable role of organized radiological societies in pandemic response, highlighting how structured consultation and protocol standardization can enhance the utility of medical imaging in a public health crisis. The lessons learned provide a valuable template for radiology communities in other regions confronting similar outbreaks.
+
+(Word Count: 204)

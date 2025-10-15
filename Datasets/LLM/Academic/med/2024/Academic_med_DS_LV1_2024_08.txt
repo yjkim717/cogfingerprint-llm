@@ -1,0 +1,13 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+**Background:** The therapeutic landscape for previously untreated advanced gastroesophageal adenocarcinoma (GEA) has been transformed by the integration of immune checkpoint inhibitors. The phase 3 CheckMate 649 trial established nivolumab, a programmed death-1 (PD-1) inhibitor, combined with chemotherapy as a first-line standard, demonstrating superior overall survival (OS) and progression-free survival (PFS) versus chemotherapy alone at primary analysis. However, the long-term durability of this benefit remained a critical, unanswered question. This analysis reports the prespecified 3-year follow-up data from CheckMate 649.
+
+**Methods:** Patients with previously untreated, unresectable advanced or metastatic HER2-negative GEA were randomized to receive nivolumab plus chemotherapy (FOLFOX or XELOX) or chemotherapy alone. The dual primary endpoints were OS and PFS, assessed by blinded independent central review, in patients with a programmed death-ligand 1 (PD-L1) combined positive score (CPS) ≥5. Efficacy was also evaluated in the all-randomized population.
+
+**Results:** With a minimum follow-up of 36 months, nivolumab plus chemotherapy continued to demonstrate a statistically significant and clinically meaningful improvement in OS versus chemotherapy in the PD-L1 CPS ≥5 population (Hazard Ratio [HR] 0.70; 95% CI 0.61–0.81). A sustained PFS benefit was also observed (HR 0.79; 95% CI 0.68–0.92). In the all-randomized population, OS and PFS benefits were consistent with the primary analysis. The 3-year OS rate in the PD-L1 CPS ≥5 population was more than doubled with the nivolumab combination (21% vs 10%), indicating a substantial cohort of long-term survivors. No new safety signals were identified, and the toxicity profile remained consistent with the known profiles of the individual agents.
+
+**Conclusion:** With extended follow-up, first-line nivolumab plus chemotherapy provides a durable and sustained survival advantage over chemotherapy, solidifying its role as a foundational treatment regimen for advanced GEA. The tripling of the 3-year survival rate represents a paradigm shift in the management of this aggressive malignancy.

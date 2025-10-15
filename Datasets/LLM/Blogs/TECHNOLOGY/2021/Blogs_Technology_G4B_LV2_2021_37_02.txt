@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The Ghostly Icons of Windows 10**
+
+Anyone else feel like tech sometimes just… *ignores* you? I was staring at my desktop last week, utterly baffled. My icons were just… blank. White squares where my programs used to be. I’d tried everything – the usual iconcache trick, even a couple of those weird batch files. It felt incredibly frustrating, like Windows 10 was playing a silent game. It’s a small thing, but it highlighted how easily we can get lost in the digital world.

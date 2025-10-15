@@ -1,0 +1,4 @@
+Title: Quantifying Nanoparticle Clustering in Biological Systems via Smoluchowski's Coagulation Equation
+
+Abstract:
+This study presents a rigorous derivation of cluster density for nanoparticles in biological environments, leveraging Smoluchowski's coagulation equation. By analytically solving the equation, we obtain an exact expression for cluster density, which is subsequently validated against experimental data on gold nanoparticle distribution within living cells (2022). The results demonstrate a high degree of concordance between theoretical predictions and empirical observations, underscoring the utility of this framework in nanodiagnostics and the analysis of nanoparticle clustering phenomena.

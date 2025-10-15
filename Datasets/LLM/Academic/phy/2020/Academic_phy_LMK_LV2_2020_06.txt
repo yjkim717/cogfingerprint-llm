@@ -1,0 +1,4 @@
+Title: Revisiting Black Hole Evaporation through Loop Quantum Gravity
+
+Abstract:
+This study revisits the phenomenon of black hole evaporation within the framework of loop quantum gravity, integrating insights from simplified models and semi-classical quantum general relativity. By synthesizing principles from general relativity and quantum mechanics, we present a nuanced perspective on the evaporation process. Employing loop quantum gravity's discrete spacetime geometry, we analyze the semi-classical approximations governing black hole dynamics. Our analysis provides a refined understanding of the interplay between quantum effects and gravitational collapse, shedding new light on the long-standing black hole information paradox. (2020)

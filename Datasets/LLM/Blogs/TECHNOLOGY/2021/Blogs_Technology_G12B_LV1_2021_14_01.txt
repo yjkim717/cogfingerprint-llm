@@ -1,0 +1,10 @@
+>## The Pixel Puzzle and the Quest for 7680x4320
+
+It's funny the rabbit holes you fall down when tinkering with tech. Lately, I've been wrestling with display resolutions, specifically trying to figure out how they're represented internally – those seemingly random hex values. It started innocently enough, just wanting to understand the underlying math.
+
+Then I hit a wall. My monitor supports a glorious 7680x4320 – practically a wall of pixels! But getting it to consistently register correctly across different applications felt like cracking a code. Why wasn't it 'just working'? 
+
+Turns out, custom resolutions and their hex representations aren't always straightforward. It’s a reminder that even in this age of incredible technological advancement, there's still a layer of abstraction and sometimes, frustratingly, a bit of trial and error involved. Anyone else ever feel like they're battling the machine itself?
+
+
+

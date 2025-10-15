@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** A Proteome-Wide Evaluation of Electrophilic Probes Reveals Residue-Specific Covalent Ligands with High Selectivity
+
+**Abstract:**
+
+The rational design of covalent inhibitors hinges on the availability of electrophilic probes that exhibit high selectivity for specific amino acid residues within the proteome. In 2021, we established a comprehensive and unbiased chemoproteomic workflow to systematically profile the intrinsic reactivity and proteome-wide engagement profiles of 54 diverse electrophilic probes. Utilizing competitive activity-based protein profiling (ABPP) in conjunction with tandem mass tag (TMT) multiplexed quantitative proteomics, we directly compared the cysteine-reactive and, crucially, extended the profiling to other nucleophilic residues. This high-throughput screening platform enabled the quantitative assessment of probe selectivity across thousands of endogenous proteins in human cell lysates. Our analysis successfully identified selective covalent ligands targeting nine distinct amino acid side chains, including under-explored residues beyond cysteine. This resource provides a critical foundation for the development of targeted covalent therapeutics and chemical probes with minimized off-target effects, thereby advancing precision chemical biology and drug discovery.

@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The Endless Loop of Tech Interviews**
+
+Remember when a job interview felt… manageable? Back in 2022, I was going through a sysadmin interview process that felt like an endless loop. Multiple rounds, deep dives into obscure protocols, and technical challenges that left me staring blankly. It’s exhausting!  I started to wonder if they were just testing my ability to *stress* rather than actually assess my skills.  Anyone else feel like they were running a marathon, not a job interview?

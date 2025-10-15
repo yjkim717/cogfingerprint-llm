@@ -1,0 +1,1 @@
+Remember debugging tangled JavaScript in 2021? That’s when TypeScript’s duck typing became my Monty Python punchline: "If it walks like a duck..." Suddenly, my code wasn’t just functional—it was clever, predictable, and delightfully human.

@@ -1,0 +1,5 @@
+Year: 2020
+Author: schizophrenic_yuppie
+URL: https://www.reddit.com/r/9b9t/comments/k8m5ze/anarchy_inspired_archiving_tool_recently_added/
+
+Hey everyone, a bit if an outsider here, I primarily play Constantiam, but I made a tool called MinecraftArchives that lets you theorycraft and archive kits, echests, map arts, books, etc. I recently just added a feature where you can add other archives to your echests/kits and preview them. Here's an Echest I made as an example: I'm always open to feedback, so please let me know if you like it and have ideas to make it better :)

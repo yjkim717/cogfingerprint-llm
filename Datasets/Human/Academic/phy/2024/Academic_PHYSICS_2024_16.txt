@@ -1,0 +1,9 @@
+Author: Oscar Fuentealba
+Title: Non-minimal couplings to U(1)-gauge fields and asymptotic symmetries
+Paper ID: 0c507d066fadadfcbc1789ef475232f8b1239695
+Year: 2024
+Author Index: 16
+
+Abstract:
+Abstract
+ We analyse the asymptotic symmetries of electromagnetism non-minimally coupled to scalar fields, with non-minimal couplings of the Fermi type that occur in extended supergravity models. Our study is carried out at spatial infinity where minimal and non-minimal couplings exhibit very different asymptotic properties: while the former generically cannot be neglected at infinity, the latter can. Electromagnetic non-minimal couplings are in that respect similar to gravitational minimal couplings, which are also asymptotically subdominant. Because the non-minimally interacting model is asymptotic to the free one, its asymptotic symmetries are the same as the ones of the free theory, i.e., described by angle-dependent u(1) gauge transformations. We also analyse the duality symmetry and show that it is broken to its compact subgroup by the asymptotic conditions. Finally, we consider logarithmic gauge transformations and use them to simplify the symmetry algebra.

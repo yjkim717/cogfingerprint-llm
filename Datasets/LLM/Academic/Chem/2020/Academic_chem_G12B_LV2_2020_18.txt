@@ -1,0 +1,9 @@
+)
+## Abstract: Investigating the Astrophysical Abundance of Cyanomethanimine Isomers and a Novel Dipole-Based Selection Rule
+
+The detection of complex organic molecules in interstellar environments provides compelling evidence for the ongoing chemical complexity in star-forming regions. This study focuses on cyanomethanimine (NCCNH), a potentially significant precursor to biologically relevant molecules, and explores the astrophysical implications of its Z- and E-isomeric forms. Utilizing high-level quantum chemical calculations, we have determined accurate structural parameters, vibrational frequencies, and dipole moments for both isomers. These calculations, performed at the CCSD(T)/aug-cc-pVQZ level of theory, allowed for a robust assessment of their spectroscopic properties and reactivity.
+
+We subsequently modeled the abundance of Z- and E-cyanomethanimine within a dense, cold giant molecular cloud (GMC) core, considering key gas-phase reaction pathways and radiative processes. Our simulations reveal a significant disparity in the predicted abundances of the isomers, with the Z-isomer consistently exhibiting a substantially lower predicted abundance compared to the E-isomer. To rationalize this observed isomeric preference, we propose a ‘relative dipole principle,’ suggesting that the isomer with a larger relative dipole moment fluctuation during vibrational motion is preferentially depleted through radiative pathways, particularly through infrared pumping. This principle offers a novel, dipole-moment-based selection rule for isomeric abundance distributions in interstellar environments and provides a framework for understanding the observed prevalence of specific isomers in astrochemical observations. Further observational studies targeting cyanomethanimine and related isomers are crucial to validate our findings and refine our understanding of molecular evolution in space.
+
+
+

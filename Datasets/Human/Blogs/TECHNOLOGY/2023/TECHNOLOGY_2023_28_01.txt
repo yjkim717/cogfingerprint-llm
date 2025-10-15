@@ -1,0 +1,5 @@
+Year: 2023
+Author: MundanePotato6
+URL: https://www.reddit.com/r/berkeley/comments/10ybg41/tips_for_startup_internships_for_a_cs_freshman/
+
+Very late to the game, but I was a bit busy with some other commitments first semester and unfortunately didn't start looking till now. I'd really like to find a cs internship at the summer, hopefully at a startup for better experience. Solid in python and java, know HTML, CSS, and a bit of JS and C++. Previous admin-related job experience. Any advice for where I can look?

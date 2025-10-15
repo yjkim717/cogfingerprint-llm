@@ -1,0 +1,5 @@
+Year: 2023
+Author: Wobblycogs
+URL: https://www.reddit.com/r/homelab/comments/105thnd/home_much_memory_is_required_for_zfs/
+
+I'm putting together a machine for my little home lab. It's running Proxmox and I had decided to add a RAIDZ1 array comprising three 16TB disks giving me about 29TB of usable space. The machine has 32GB of ram which I had assumed would be ample for what I want to do but I've since read that ZFS requires / works best with at least 1GB ram for every TB of drive space. I can't seem to find anywhere that definitively says if that's 1GB/usable TB or total TB. Either way that's way more memory than I had budgeted for. I have also seen it mentioned that the 1GB/TB rule is only true if you are using deduplication which I don't need. If someone could alleviate me of my confusion that would be greatly appreciated. Edit z2 to z1

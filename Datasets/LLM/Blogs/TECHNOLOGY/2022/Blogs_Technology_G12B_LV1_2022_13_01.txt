@@ -1,0 +1,11 @@
+>## The Unexpected Complexity of Cross-Border Payments (and French Invoicing!)
+
+Okay, so I've been running my little web development auto-entreprise here in Canada for a couple of years now, and things have generally been pretty smooth. Then came along Monsieur Dubois, a lovely client in France who needed a website overhaul. Fantastic! New project, new portfolio piece, right?
+
+Turns out, international payments are… a bit of a beast. I'd been relying on Stripe for most of my transactions, and while it *works*, navigating French invoicing requirements as a Canadian auto-entreprise owner is surprisingly intricate. Suddenly, I'm researching SIRET numbers, VAT implications, and specific legal wording. Who knew?
+
+It’s a reminder that the internet makes the world feel small, but the underlying bureaucracy hasn't quite caught up. I’m learning a lot, and thankfully, online communities have been a lifesaver. It’s 2022, we're building websites globally, but sometimes you still need a crash course in international business basics!
+
+
+
+Hopefully, this experience will help others venturing into similar cross-border work. Anyone else dealt with this? Share your wisdom!

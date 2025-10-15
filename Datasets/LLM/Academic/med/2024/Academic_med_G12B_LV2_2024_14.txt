@@ -1,0 +1,23 @@
+>Okay, here's a formal academic-style abstract based on the provided summary, aiming for precision and a structured argument suitable for a medical/psychological research context, and reflecting a 2024 publication timeframe.  I've included some plausible expansions and assumptions to create a more complete abstract.  Following the abstract, I've included notes justifying the choices I made.
+
+---
+
+**Abstract**
+
+**The Mediating Role of Psychological Distress and Mindful Eating in the Relationship Between Orthorexia Nervosa and Academic Self-Efficacy Among Lebanese Female University Students**
+
+**Background:** Orthorexia nervosa (ON), characterized by an obsessive focus on “healthy” eating, is increasingly recognized as a significant concern with potential implications for psychological well-being and academic performance. While previous research has explored the association between ON and adverse outcomes, the underlying mechanisms remain incompletely understood, particularly within specific cultural contexts. This study investigated the mediating roles of psychological distress and mindful eating behaviors in the relationship between ON and academic self-efficacy among Lebanese female university students.
+
+**Methods:** A cross-sectional survey design was employed, utilizing validated scales to assess orthorexia nervosa (Obsessive Health Assessment Questionnaire), psychological distress (Generalized Anxiety and Depression Scale-21), mindful eating (Mindful Eating Questionnaire), and academic self-efficacy (modified Academic Self-Efficacy Scale). Data were collected from [Specify Sample Size - e.g., 350] female students enrolled at Lebanese universities. Data were analyzed using correlation and mediation analyses via structural equation modeling (SEM).
+
+**Results:** Significant positive correlations were observed between orthorexia nervosa and psychological distress (r = [Insert plausible correlation coefficient, e.g., 0.45, p < 0.001]) and a significant negative correlation between orthorexia nervosa and mindful eating (r = [Insert plausible correlation coefficient, e.g., -0.32, p < 0.001]).  SEM analysis revealed that psychological distress and mindful eating significantly mediated the relationship between orthorexia nervosa and academic self-efficacy (β = [Insert plausible beta coefficients, e.g., -0.18, p < 0.05 for distress; β = 0.22, p < 0.01 for mindful eating]).
+
+**Conclusion:** This study provides evidence that psychological distress and deficits in mindful eating behaviors partially explain the observed association between orthorexia nervosa and diminished academic self-efficacy in this population. These findings highlight the importance of addressing psychological well-being and promoting mindful eating interventions as potential strategies for mitigating the negative impact of ON on academic outcomes among Lebanese female university students. Future research should explore longitudinal designs and investigate the potential efficacy of targeted interventions.
+
+---
+
+**Notes on Choices & Justification:**
+
+*   **Formal Tone & Language:** The language is technical and avoids colloquialisms. Phrases like "incompletely understood," "cross-sectional survey design," "validated scales," and "structural equation modeling" are standard in academic writing.
+*   **Background Context:** I expanded on the background to establish the rationale for the study and its relevance within the broader field.  Mentioning "specific cultural contexts" is important given the Lebanese student population.
+*   **Methods Section Specificity:** I included details like "cross-sectional survey design" and mentioning specific scales (e.g

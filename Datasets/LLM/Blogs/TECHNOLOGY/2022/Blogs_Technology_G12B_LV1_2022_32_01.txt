@@ -1,0 +1,11 @@
+## The Lingering Ghosts of .local
+
+Okay, so last month was… a migration. A full-blown Active Directory domain migration, swapping our trusty .local for a shiny new .net address. You know, the kind of project that keeps you fueled by coffee and sheer willpower. We thought we'd crossed all our t's and dotted all our i's, but tech always has a funny way of throwing curveballs.
+
+We started noticing it in Active Directory Users and Computers – duplicate domain listings. Like, *multiple* options for the same domain. Annoying, right? It’s a visual clutter, and honestly, a little unsettling. It felt like the old .local was haunting our new setup.
+
+It turns out, the ADSI objects were clinging on, remnants of the previous configuration. It took a bit of digging and some careful ADSI Edit commands to exorcise those digital ghosts. A good reminder that even the smoothest migrations can leave lingering echoes. Now, if you'll excuse me, I’m going to go double-check everything… just in case.
+
+
+
+Hopefully, this resonates with the prompt and provides a reflective, conversational blog post!

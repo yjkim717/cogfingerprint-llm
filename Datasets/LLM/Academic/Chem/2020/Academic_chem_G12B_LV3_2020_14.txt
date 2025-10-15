@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry journal, and reflecting a 2020 timeframe:
+
+**Abstract**
+
+The prevalence of complex organic molecules in interstellar space necessitates a deeper understanding of their isomeric distributions. This study, conducted in 2020, utilizes quantum chemical calculations to investigate the formation and stability of Z- and E-cyanomethanimine (NCCNH) isomers within astrochemical models. We introduce a ‘relative dipole principle’ to predict isomeric abundances, leveraging dipole moment differences to rationalize observed ratios. Simulations yield a predicted [Z/E] ratio of approximately 3, aligning with recent observational constraints. This finding highlights the importance of dipole moment considerations in accurately modeling interstellar chemistry and interpreting spectral line data of reactive intermediates.

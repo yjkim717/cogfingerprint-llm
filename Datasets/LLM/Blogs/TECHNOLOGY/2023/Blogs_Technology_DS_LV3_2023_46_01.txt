@@ -1,0 +1,5 @@
+You know that feeling when you’re staring at a blinking cursor, certain there’s a PowerShell command that *should* work, but Active Directory just laughs back? Yeah, me too.
+
+It was one of those 2023 afternoons—I needed to find every single group with “ProjectPhoenix” in the name and get *all* their members, even the ones buried in nested groups. Simple, right? I thought a quick script would do. An hour later, I was deep-diving into recursive lookups, feeling like I was untangling a digital ball of yarn.
+
+But here’s the thing: once I cracked it and finally exported that clean CSV with every user neatly listed, it wasn’t just about the data. It was that quiet “aha” moment—the satisfaction of bending technology to do exactly what you need, elegantly. It reminded me why I love this work: beneath the complexity, there’s always a way to make things click. And when they do, it just feels right.

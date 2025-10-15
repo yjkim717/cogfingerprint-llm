@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a chemistry researcher and contextualized for 2021:
+
+**Abstract**
+
+Understanding ice morphology in interstellar environments is crucial for accurately modeling the composition and evolution of protoplanetary disks and molecular clouds. This study, conducted in 2021, employed transmission electron microscopy (TEM) to characterize the microstructural properties of mixed ices—specifically, H₂O, CO₂, and CO—deposited onto refractory grain analogs. Our findings demonstrate a non-uniform crystallization process, revealing significant dependencies on both ice composition and the underlying substrate material. Observed variations in crystal size, shape, and orientation challenge simplified assumptions regarding icy grain morphology commonly incorporated into astrophysical models. These results highlight the necessity for incorporating substrate-ice interactions and compositional heterogeneity into simulations of icy grain evolution within space, ultimately improving our understanding of planet formation processes.

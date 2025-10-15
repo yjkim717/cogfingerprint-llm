@@ -1,0 +1,5 @@
+Year: 2020
+Author: tfburns
+URL: https://www.reddit.com/r/VocalSynthesis/comments/i3hb02/whats_your_process/
+
+Hi there. I'm curious to know more about the techniques used for the videos/audio clips shared on this subreddit. Are all the clips made using Tacotron 2? If so, why this model and not other ones? And do you have any repos on GitHub or tutorials which you have created or could recommend for someone interested in trying this?

@@ -1,0 +1,5 @@
+Year: 2024
+Author: Purple___Flame
+URL: https://www.reddit.com/r/EldenRingMods/comments/1c8p8fo/how_to_make_carian_combo_warriors_work_with_item/
+
+Hello, so whatever i've tried(except trying to merge 2 regulations.bin as that seem complicated at the first glance), i can't get both working fully. Trying to use just randomizer and CCW i've got item randomizer and CCW to work, but enemies remained the same(except 2x onslaught somehow worked). Using mod engine 2.1 - randomizer(at least item part) worked, however moveset remained unchanged and weapons somehow appear undearneath my character current position and stay glued there, so my attacks deal no damage, as impact happens there where i've switched/equipped a weapon. I did put CCW folder into randomizer, except since i start the game through mod engine bat - it seems to not link the mod. Also putting CCW folder into randomizer folder doesn't do anything as it seems for mod engine to react it needs to see regulations.bin directly in the set mod path, which i can't do for both obviously.

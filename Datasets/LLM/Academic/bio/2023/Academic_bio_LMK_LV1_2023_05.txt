@@ -1,0 +1,9 @@
+Title: Global Dissemination of Highly Pathogenic Avian Influenza A(H5N1) Virus: Implications for Zoonotic Potential and Public Health Risk Assessment
+
+Abstract:
+
+The ongoing global spread of highly pathogenic avian influenza (HPAI) A(H5N1) virus has raised concerns regarding its zoonotic potential and the associated risk to human health. As of 2023, the virus has been detected in diverse avian species and some mammalian hosts, underscoring its capacity for cross-species transmission. Wild birds are believed to play a pivotal role in the global dissemination of HPAI A(H5N1), facilitating the virus's introduction into new geographic regions and poultry populations.
+
+Phylogenetic analysis has revealed the emergence of novel H5N1 clades, characterized by distinct genetic mutations that may influence viral transmissibility and virulence. The zoonotic potential of HPAI A(H5N1) is considered low to moderate, with the majority of reported human cases linked to direct or indirect exposure to infected poultry or contaminated environments.
+
+Serological surveys and epidemiological studies suggest that the risk of human infection with HPAI A(H5N1) remains relatively low, particularly in regions with robust avian influenza surveillance and control measures. Nonetheless, the global spread of HPAI A(H5N1) underscores the need for continued vigilance and enhanced collaboration between animal and human health sectors to mitigate the public health risks associated with this highly pathogenic virus. This review aims to synthesize current knowledge on the global dissemination of HPAI A(H5N1), its zoonotic potential, and the implications for public health risk assessment and policy development.

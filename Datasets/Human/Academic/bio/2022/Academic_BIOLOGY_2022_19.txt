@@ -1,0 +1,8 @@
+Author: Jiawei Zhao
+Title: Key Roles of Surface Fe Sites and Sr Vacancies in Perovskite for Efficient Oxygen Evolution Reaction Participated by Lattice Oxygen Oxidation
+Paper ID: c3b941c37c324b7a02cc1ad29859bab6d268d042
+Year: 2022
+Author Index: 19
+
+Abstract:
+Oxygen evolution reaction participated by lattice oxygen oxidation (LOER) on the perovskite catalyst has attracted great interest recently because of its low reaction energy barrier. However, as the surface structure...

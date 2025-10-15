@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract written in the style of a 2022 physics paper, based on the provided summary and keywords.
+
+***
+
+**Abstract**
+
+A longstanding challenge in general relativity has been the formulation of a rigorously conserved and physically meaningful definition of angular momentum at null infinity. While the Bondi-Metzner-Sachs (BMS) group, the asymptotic symmetry group of asymptotically flat spacetimes, provides a powerful framework for defining global charges such as energy-momentum, its inherent structure complicates the isolation of a pure angular momentum charge. This difficulty stems from the presence of an infinite-dimensional abelian ideal of supertranslations, which obstructs a canonical splitting of the Lorentz group from the full BMS algebra. In this work, we present a significant extension of the BMS group by incorporating logarithmic supertranslations, a new class of asymptotic symmetries arising from a more relaxed fall-off condition for the gravitational field. We demonstrate that this enhanced symmetry algebra facilitates a systematic redefinition of the fundamental generators. Through this algebraic refinement, we explicitly construct a supertranslation-invariant angular momentum operator. This new definition is free from the ambiguities associated with standard BMS treatments and satisfies the desired Poincaré algebra in the limit of a stationary spacetime. Our results resolve a key conceptual issue in gravitational physics, providing a robust foundation for analyzing angular momentum loss in gravitational wave emission and other dynamical processes in full general relativity.
+
+**(Word Count: 248)**

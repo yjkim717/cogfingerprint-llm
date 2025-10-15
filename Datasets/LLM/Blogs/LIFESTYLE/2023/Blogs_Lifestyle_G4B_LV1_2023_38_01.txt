@@ -1,0 +1,12 @@
+Okay, here’s a reflective blog post, aiming for around 103 words and a conversational tone, inspired by the Flutter/IoT idea and set in 2023:
+
+---
+
+**The Hum of a New Habit**
+
+It’s funny, isn’t it? How a tiny shift can feel seismic. This year, I’ve started brewing my own coffee – really simple, just a French press and some decent beans. There’s a quiet hum to the process, a mindful attention to the water temperature and the bloom of the grounds. It’s a small act of control, a little rebellion against the instant gratification of everything else.  It’s making me think about building things, about connecting to systems, even if it’s just the process of a perfect cup.  Maybe that’s where the Flutter fascination is coming from... 
+
+
+---
+
+Do you want me to tweak this, or perhaps write a post on a different topic?

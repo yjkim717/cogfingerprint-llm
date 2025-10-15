@@ -1,0 +1,8 @@
+Author: Keiju Murata
+Title: Krylov complexity and chaos in quantum mechanics
+Paper ID: 72b3d6bd02a9c45fac5994df970a9d53a97452e2
+Year: 2023
+Author Index: 11
+
+Abstract:
+Recently, Krylov complexity was proposed as a measure of complexity and chaoticity of quantum systems. We consider the stadium billiard as a typical example of the quantum mechanical system obtained by quantizing a classically chaotic system, and numerically evaluate Krylov complexity for operators and states. Despite no exponential growth of the Krylov complexity, we find a clear correlation between variances of Lanczos coefficients and classical Lyapunov exponents, and also a correlation with the statistical distribution of adjacent spacings of the quantum energy levels. This shows that the variances of Lanczos coefficients can be a measure of quantum chaos. The universality of the result is supported by our similar analysis of Sinai billiards. Our work provides a firm bridge between Krylov complexity and classical/quantum chaos.

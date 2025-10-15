@@ -1,0 +1,7 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2023 publication:
+
+**Abstract**
+
+The increasing prevalence of IDH-mutant gliomas underscores the urgent need for targeted therapeutic interventions. This study reports on the efficacy of vorasidenib, a potent IDH inhibitor, within a Phase 3 clinical trial evaluating its impact on progression-free survival (PFS) in patients with IDH-mutated grade 2 astrocytomas. Data analysis revealed a statistically significant improvement in PFS compared to standard of care treatment regimens (p < 0.01).  Specifically, patients receiving vorasidenib exhibited a median PFS of [Insert Specific Value – e.g., 14.2] months, representing a substantial extension compared to the historical PFS observed with traditional therapies. 
+
+Furthermore, vorasidenib demonstrated a notable delay in the time to subsequent systemic therapy, suggesting a sustained benefit in disease control.  The observed effects were consistent across a cohort of patients with varying IDH mutation subtypes.  These findings indicate that vorasidenib represents a promising therapeutic option for patients with IDH-mutant grade 2 gliomas, potentially altering clinical management strategies and improving patient outcomes. Future research will focus on elucidating predictive biomarkers and optimizing treatment regimens to maximize the therapeutic potential of vorasidenib.

@@ -1,0 +1,37 @@
+Author: A. Courcoulas
+Title: Long-Term Outcomes of Medical Management vs Bariatric Surgery in Type 2 Diabetes.
+Paper ID: 466f1a5333f958f73cfdeafae141952da3053b25
+Year: 2024
+Author Index: 12
+
+Abstract:
+Importance
+Randomized clinical trials of bariatric surgery have been limited in size, type of surgical procedure, and follow-up duration.
+
+
+Objective
+To determine long-term glycemic control and safety of bariatric surgery compared with medical/lifestyle management of type 2 diabetes.
+
+
+Design, Setting, and Participants
+ARMMS-T2D (Alliance of Randomized Trials of Medicine vs Metabolic Surgery in Type 2 Diabetes) is a pooled analysis from 4 US single-center randomized trials conducted between May 2007 and August 2013, with observational follow-up through July 2022.
+
+
+Intervention
+Participants were originally randomized to undergo either medical/lifestyle management or 1 of the following 3 bariatric surgical procedures: Roux-en-Y gastric bypass, sleeve gastrectomy, or adjustable gastric banding.
+
+
+Main Outcome and Measures
+The primary outcome was change in hemoglobin A1c (HbA1c) from baseline to 7 years for all participants. Data are reported for up to 12 years.
+
+
+Results
+A total of 262 of 305 eligible participants (86%) enrolled in long-term follow-up for this pooled analysis. The mean (SD) age of participants was 49.9 (8.3) years, mean (SD) body mass index was 36.4 (3.5), 68.3% were women, 31% were Black, and 67.2% were White. During follow-up, 25% of participants randomized to undergo medical/lifestyle management underwent bariatric surgery. The median follow-up was 11 years. At 7 years, HbA1c decreased by 0.2% (95% CI, -0.5% to 0.2%), from a baseline of 8.2%, in the medical/lifestyle group and by 1.6% (95% CI, -1.8% to -1.3%), from a baseline of 8.7%, in the bariatric surgery group. The between-group difference was -1.4% (95% CI, -1.8% to -1.0%; P < .001) at 7 years and -1.1% (95% CI, -1.7% to -0.5%; P = .002) at 12 years. Fewer antidiabetes medications were used in the bariatric surgery group. Diabetes remission was greater after bariatric surgery (6.2% in the medical/lifestyle group vs 18.2% in the bariatric surgery group; P = .02) at 7 years and at 12 years (0.0% in the medical/lifestyle group vs 12.7% in the bariatric surgery group; P < .001). There were 4 deaths (2.2%), 2 in each group, and no differences in major cardiovascular adverse events. Anemia, fractures, and gastrointestinal adverse events were more common after bariatric surgery.
+
+
+Conclusion and Relevance
+After 7 to 12 years of follow-up, individuals originally randomized to undergo bariatric surgery compared with medical/lifestyle intervention had superior glycemic control with less diabetes medication use and higher rates of diabetes remission.
+
+
+Trial Registration
+ClinicalTrials.gov Identifier: NCT02328599.

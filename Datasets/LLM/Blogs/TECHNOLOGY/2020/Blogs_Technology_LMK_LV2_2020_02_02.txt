@@ -1,0 +1,3 @@
+"Android 11 and the Elusive SD Card: A Frustrating Update"
+
+I recently updated my Android device to the shiny new Android 11, and while it's brought some exciting features like One UI 3.0, it's also introduced some frustrating issues. Specifically, my emulator has stopped playing nice with the SD card. Scoped storage is great for security, but it's left me scrambling for a workaround. Has anyone else encountered this problem? I'm on the hunt for a solution that doesn't involve abandoning my trusty emulator. Anyone have a fix?

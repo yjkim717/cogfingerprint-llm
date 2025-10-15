@@ -1,0 +1,13 @@
+Upgrading My Gaming PC: A Budget Conundrum
+
+As I sat in front of my trusty gaming PC, I couldn't help but feel a pang of nostalgia. It had served me well over the years, providing countless hours of entertainment and excitement. However, as 2020 rolled around, I began to notice its limitations. Games that were once a breeze to run were now struggling to keep up with the demands of modern graphics and processing power. It was time for an upgrade, but with a catch - I had a budget of £300 to work with.
+
+The first step was to assess what I could reuse from my existing setup. My CPU and GPU, while not the most cutting-edge, were still relatively capable. I decided to hold onto them, which meant I could allocate more funds to other components that needed an upgrade. The biggest bottleneck was my RAM; I was still running on DDR3, which was starting to show its age. Upgrading to DDR4 RAM was a no-brainer, as it would not only improve performance but also future-proof my system.
+
+As I began to research compatible hardware, I realized just how complex PC building can be. Ensuring that all the components worked seamlessly together was a daunting task, especially on a budget. I spent hours scouring online forums and reviews, trying to find the perfect balance between performance and price. One of the most significant challenges was finding a motherboard that supported my existing CPU and was compatible with DDR4 RAM.
+
+After weeks of deliberation, I finally settled on a plan. I would upgrade my RAM to 16GB of DDR4, add a faster storage drive, and replace my outdated motherboard with a new one that would unlock the full potential of my existing CPU and GPU. The total cost came in just under my budget, a welcome surprise.
+
+The upgrade process was a learning experience, to say the least. I encountered a few hiccups along the way, but the end result was well worth it. My gaming PC was reborn, capable of handling modern games with ease. The upgrade not only improved performance but also gave me a newfound appreciation for the intricacies of PC building.
+
+In the end, upgrading my gaming PC on a budget taught me that sometimes, it's not about buying the latest and greatest hardware, but about making the most of what you have. By reusing functional components and making targeted upgrades, I was able to breathe new life into my trusty old PC. As I continued to game into the night, I felt a sense of satisfaction, knowing that I had not only saved money but also gained a deeper understanding of the technology that powers my hobby.

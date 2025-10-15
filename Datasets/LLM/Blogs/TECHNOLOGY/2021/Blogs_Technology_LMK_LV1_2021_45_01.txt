@@ -1,0 +1,7 @@
+"Embracing the Future of Scala: Exploring Self-Types in Scala 3"
+
+As I dove into the latest Scala 3 updates in 2021, I found myself pondering the concept of self-types, also known as `this`-types. I'm working on a project that involves creating a `Record` class, which represents a collection of key-value pairs. One of the key operations for this class is a `join` operation, where two records are merged based on a common key.
+
+In Scala 3, I was excited to explore the possibility of using self-types to define the `Record` class. Self-types allow a trait or class to specify that it must be mixed into a subtype of another type. However, I hit a roadblock when trying to implement this using type parameters. 
+
+In this blog post, I'll explore the challenges I faced and potential workarounds for implementing self-types in Scala 3 for the `Record` class. Let's dive into the details and see how we can leverage Scala 3's features to create more robust and expressive data structures.

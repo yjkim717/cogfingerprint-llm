@@ -1,0 +1,5 @@
+Here's an abstract inspired by the provided summary and keywords, written in a formal academic style suitable for a physics publication, and contextualized to a 2020 timeframe:
+
+**Abstract**
+
+This study, conducted within the framework of theoretical relativistic quantum field theory, examines the asymptotic symmetries of the free Rarita-Schwinger theory in four spacetime dimensions. Employing techniques from asymptotic structure analysis, we demonstrate the emergence of an infinite-dimensional fermionic algebra beyond the standard super-Poincaré symmetry. Our investigation reveals that this enhancement arises consistently from the interplay of improper gauge transformations and novel boundary degrees of freedom inherent to the theory. The identification of this extended fermionic symmetry represents a significant advancement in understanding the fundamental structure of interacting fermionic systems and offers potential avenues for exploring connections between gauge theories and fermionic symmetries, aligning with ongoing research in the field since 2020.

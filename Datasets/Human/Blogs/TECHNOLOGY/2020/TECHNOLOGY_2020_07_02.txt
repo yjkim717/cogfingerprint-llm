@@ -1,0 +1,5 @@
+Year: 2020
+Author: EverydayMustBeFriday
+URL: https://www.reddit.com/r/shopify/comments/hmsglj/any_way_to_additionally_apply_discount_code_after/
+
+Hi :) Our audience is a bit older and we use a 10% discount code on remarketing, however most of them forget to apply it during checkout. Is there any way to solve this by applying 10% off after the purchase has been made, because we get lots of emails about how they forgot and if theres anything we can do about it. Thanks for any help :)

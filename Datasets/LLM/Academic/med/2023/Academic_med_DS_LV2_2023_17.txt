@@ -1,0 +1,17 @@
+Of course. Here is a formal academic abstract based on the provided summary, written from the perspective of a 2023 university researcher.
+
+***
+
+**Abstract**
+
+**Background:** The definitive detection of Alzheimer's disease (AD) pathology, specifically cerebral amyloid-β (Aβ) positivity, is currently contingent upon cerebrospinal fluid (CSF) assays or positron emission tomography (PET) imaging. These methods, however, are constrained by their invasive nature, high cost, and limited accessibility, presenting a significant barrier to the widespread diagnosis and screening of individuals with mild cognitive impairment (MCI), a population at high risk for progression to AD dementia. Consequently, there is a pressing need for accurate, scalable, and minimally invasive blood-based biomarkers to streamline the diagnostic pathway.
+
+**Objective:** This study aimed to clinically validate a novel two-step diagnostic workflow that utilizes plasma phosphorylated tau 217 (p-tau217) as a primary screening tool to classify Aβ status in MCI patients, with the explicit goal of substantially reducing the reliance on confirmatory CSF or PET testing.
+
+**Methods:** We conducted a prospective, multi-center cohort study involving [Number] MCI patients. Plasma p-tau217 concentrations were measured using a validated [e.g., single-molecule array] immunoassay. All participants subsequently underwent Aβ status determination via either CSF Aβ42/40 ratio or [18F]-florbetapir PET, which served as the reference standard. A two-step diagnostic algorithm was developed, wherein plasma p-tau217 levels were used to stratify patients into high-probability Aβ-positive, high-probability Aβ-negative, and indeterminate categories, with only the latter group proceeding to confirmatory testing.
+
+**Results:** The plasma p-tau217 assay demonstrated high diagnostic accuracy, with an area under the curve (AUC) of [e.g., 0.95] for discriminating Aβ-positive from Aβ-negative MCI participants. The implementation of the two-step workflow successfully classified [e.g., >80%] of the cohort with high confidence, thereby obviating the need for confirmatory CSF or PET testing in this majority. This approach maintained a high positive and negative percent agreement with the reference standard ([e.g., >90%]).
+
+**Conclusion:** Our findings robustly indicate that a plasma p-tau217-based two-step diagnostic algorithm can accurately determine cerebral amyloid-β status in patients with MCI. The widespread adoption of this workflow holds the potential to drastically reduce the number of required invasive and costly confirmatory tests, thereby enhancing the efficiency, scalability, and accessibility of the diagnostic process for Alzheimer's disease in clinical practice and therapeutic trials.
+
+(Word Count: 297)

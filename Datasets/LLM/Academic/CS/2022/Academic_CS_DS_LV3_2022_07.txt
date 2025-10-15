@@ -1,0 +1,1 @@
+This work establishes a fundamental equivalence in computational learning theory for 2022, demonstrating that a binary-labeled concept class is privately PAC learnable under differential privacy if and only if it has a finite Littlestone dimension, thereby unifying online and private learnability.

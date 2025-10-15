@@ -1,0 +1,11 @@
+Of course. Here is a formal academic abstract written in the requested style and context.
+
+***
+
+**Title:** Cerebrospinal Fluid Proteomics Reveals Amyloid-Negative Subtypes with Alzheimer's Disease-like Molecular Signatures in Cognitively Normal Aging
+
+**Abstract**
+
+The pathophysiological cascade of Alzheimer's disease (AD) is classically considered to be initiated by amyloid-beta (Aβ) aggregation. However, a significant proportion of cognitively normal individuals exhibit AD-like biomarkers in the absence of amyloid pathology, challenging this canonical sequence. To investigate the molecular heterogeneity underlying this phenotype, we conducted an unbiased proteomic analysis of cerebrospinal fluid (CSF) from a cohort of clinically normal, amyloid-negative older adults. Our analysis identified three distinct proteomic subtypes with profiles reminiscent of established AD subtypes but occurring prior to detectable amyloid deposition. These subtypes were characterized by unique molecular signatures: one showed pronounced enrichment in proteins associated with neuronal hyperplasticity and synaptogenesis, suggesting a potentially compensatory, pre-degenerative state. A second subtype was defined by a signature of blood-brain barrier (BBB) dysfunction and neuroinflammatory processes, implicating vascular and innate immune contributions to very early risk. The third subtype displayed a more generalized, mild perturbation of neuronal and glial proteins. These findings indicate that specific biological processes, including aberrant plasticity and BBB impairment, may constitute primary events in the AD pathological cascade, defining distinct at-risk trajectories that precede and potentially facilitate subsequent amyloidosis. This re-conceptualization of early AD pathogenesis highlights the potential for targeted, subtype-specific preventive interventions long before the onset of classical amyloid pathology.
+
+**(Word Count: 248)**

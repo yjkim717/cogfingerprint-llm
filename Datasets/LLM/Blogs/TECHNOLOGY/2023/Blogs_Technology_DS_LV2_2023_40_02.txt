@@ -1,0 +1,5 @@
+Staring at the bspwm man page, the cryptic `.` and `#` symbols felt like an ancient, unreadable language. I was lost. My 2023 quest for a perfectly automated desktop was hitting a wall built on EBNF grammar.
+
+Then it hit me—this wasn't a barrier, but an invitation. Man pages aren't just dry references; they're puzzles. Each symbol is a key. I started treating them like a mystery to solve, not a chore to endure. Slowly, the syntax began to make sense, and with it, a deeper understanding of the tool itself.
+
+Sometimes, the most rewarding tech journeys aren't about the destination, but about learning a new way to read the map.

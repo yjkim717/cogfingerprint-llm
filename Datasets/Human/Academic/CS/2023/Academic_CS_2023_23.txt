@@ -1,8 +1,0 @@
-Author: A. Iorliam
-Title: A NOVEL ADDITIVE INTERNET OF THINGS (IoT) FEATURES AND CONVOLUTIONAL NEURAL NETWORK FOR CLASSIFICATION AND SOURCE IDENTIFICATION OF IoT DEVICES
-Paper ID: 68b8458a3c695eeb7bf91280e1b57e2d1aaa6040
-Year: 2023
-Author Index: 23
-
-Abstract:
-The inter-class classification and source identification of IoT devices has been studied by several researchers recently due to the vast amount of available IoT devices and the huge amount of data these IoT devices generate almost every minute. As such there is every need to identify the source where the IoT data is generated and also separate an IoT device from the other using on the data they generate. This paper proposes a novel additive IoT features with the CNN system for the purpose of IoT source identification and classification. Experimental results shows that indeed the proposed method is very effective achieving an overall classification and source identification accuracy of 99.67 %. This result has a practical application to forensics purposes due to the fact that accurately identifying and classifying the source of an IoT device via the generated data can link organisations/persons to the activities they perform over the network. As such ensuring accountability and responsibility by IoT device users.

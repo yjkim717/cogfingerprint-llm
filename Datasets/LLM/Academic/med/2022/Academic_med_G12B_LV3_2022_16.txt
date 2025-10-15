@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a medical research context:
+
+**Abstract**
+
+The pursuit of early and accurate Alzheimer's disease (AD) diagnosis is crucial for effective therapeutic intervention. This 2022 study, conducted within the ALFA+ cohort, investigates the utility of plasma phosphorylated tau (p-tau) isoforms, specifically p-tau231 and p-tau217, as biomarkers for detecting preclinical AD pathology. Our findings demonstrate a strong correlation between these plasma p-tau variants and early cerebral amyloid-β (Aβ) deposition, observed even in the absence of established Aβ plaque burden. Notably, both p-tau231 and p-tau217 exhibit exceptional sensitivity in capturing these subtle Aβ changes. These results suggest that plasma p-tau231 and p-tau217 represent highly valuable tools for participant selection in preclinical AD clinical trials, facilitating the identification of individuals at elevated risk and potentially accelerating therapeutic development efforts targeting early disease stages.

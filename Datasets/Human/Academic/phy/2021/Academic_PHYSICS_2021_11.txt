@@ -1,0 +1,8 @@
+Author: Keiju Murata
+Title: Bound on energy dependence of chaos
+Paper ID: 2b747236ca4ee3fc5927b2fbbfc17dc196195bff
+Year: 2021
+Author Index: 11
+
+Abstract:
+We conjecture a chaos energy bound, an upper bound on the energy dependence of the Lyapunov exponent for any classical/quantum Hamiltonian mechanics and ﬁeld theories. The conjecture states that the Lyapunov exponent λ ( E ) grows no faster than linearly in the total energy E in the high energy limit. In other words, the exponent c in λ ( E ) ∝ E c ( E → ∞ ) satisﬁes c ≤ 1. This chaos energy bound stems from thermodynamic consistency of out-of-time-order correlators (OTOC’s) and applies to any classical/quantum system with ﬁnite N / large N ( N is the number of degrees of freedom) under plausible physical conditions on the Hamiltonians. To the best of our knowledge the chaos energy bound is satisﬁed by any classically chaotic Hamiltonian system known, and is consistent with the cerebrated chaos bound by Maldacena, Shenker and Stanford, which is for quantum cases at large N . We provide arguments supporting the conjecture for generic classically chaotic billiards and multi-particle systems. The existence of the chaos energy bound may put a fundamental constraint on physical systems and the universe.

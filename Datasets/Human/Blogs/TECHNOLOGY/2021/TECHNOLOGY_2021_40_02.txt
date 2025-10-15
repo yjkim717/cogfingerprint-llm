@@ -1,0 +1,5 @@
+Year: 2021
+Author: gman1230321
+URL: https://www.reddit.com/r/techsupport/comments/pa8h9e/shrinking_c_partition_in_windows_didnt_unallocate/
+
+I'm trying to do a dual boot on my computer with Linux but my laptop only has 1 drive. I wanted to shrink my C: drive so I can make a new partition for Linux. But when I shrank my drive this happened: My C: drive now has 689 GB of capacity (originally 931 GB) but at the bottom, it still shows that the C: partition is 931 GB and the \~250 GB is not marked as unallocated. It also does not let me expand the partition back to the 931 GB. I have tried refreshing and rescanning disks, as well as a full reboot. I'm going to next try booting up my Manjaro installer and seeing what it sees. Any other suggestions? Edit: Ran fdisk -l on my manjaro installer and it shows that my C: drive is still 931 GB

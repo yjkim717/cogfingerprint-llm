@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for a physics publication in 2024:
+
+**Abstract:**
+
+Recent theoretical investigations into the quantum properties of black holes have increasingly implicated decoherence as a critical mechanism for information retention. This work presents a novel analysis demonstrating a compelling correspondence between the decoherence timescales predicted near black hole event horizons and those observed in thermally equilibrated, finite-temperature systems. Employing an effective field theory framework, we map the quantum dynamics within the black hole’s gravitational regime onto analogous processes in ordinary matter.  This approach offers a pathway to reconcile longstanding paradoxes regarding black hole entropy and unitarity, suggesting a deeper connection between gravitational physics and quantum field theory. Further research will explore the implications for constructing a complete quantum description of black holes.

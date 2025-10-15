@@ -1,0 +1,5 @@
+Year: 2021
+Author: Winstonian87
+URL: https://www.reddit.com/r/Minecraft/comments/ls25hq/whats_the_best_antigrief_and_chest_lock_plugins/
+
+So I’m very new to Minecraft Java and started an SMP. I was able to find a great anti-cheat plugin, but am still having trouble with griefers. Are there any good anti-grief and Chest lock plugins that you recommend? I don’t know if this has been posted before but everything I’ve found was from 2-5 years ago. Wanted to know if there is anything more recent that is helpful specifically for a 1.16.5 server.

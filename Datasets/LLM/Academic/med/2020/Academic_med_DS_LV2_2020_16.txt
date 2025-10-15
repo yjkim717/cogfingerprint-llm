@@ -1,0 +1,13 @@
+Of course. Here is a formal academic abstract written in the style of a 2020 medical research paper.
+
+***
+
+**Abstract**
+
+**Background:** The SARS-CoV-2 pandemic has revealed a significant burden of neurological complications in patients with severe COVID-19, ranging from anosmia to encephalopathy and stroke. The pathophysiological mechanisms underlying this neurological involvement, however, remain incompletely characterized. While direct viral invasion of the central nervous system is a subject of debate, systemic inflammation and hypoxia are hypothesized to contribute to brain injury. This study aimed to investigate the presence of neuro-axonal injury and astrocytic activation in severe COVID-19 patients through the quantification of specific plasma biomarkers.
+
+**Methods:** We conducted a prospective, observational cohort study of 45 adult patients with laboratory-confirmed SARS-CoV-2 infection, stratified by disease severity into severe (requiring intensive care) and moderate (ward-based care) groups. Plasma concentrations of neurofilament light chain (NfL), a biomarker of axonal injury, and glial fibrillary acidic protein (GFAp), a marker of astrocytic activation, were measured using single-molecule array (Simoa) technology upon hospital admission. A cohort of age-matched healthy controls was used for comparison.
+
+**Results:** Patients with severe COVID-19 exhibited significantly elevated plasma levels of both NfL (p < 0.001) and GFAp (p = 0.005) compared to both the moderate COVID-19 group and healthy controls. Levels of NfL showed a positive correlation with clinical severity scores and markers of systemic inflammation, such as C-reactive protein.
+
+**Conclusion:** Our findings provide robust neurochemical evidence of ongoing neuronal injury and astrocytic response in patients with severe COVID-19. The elevated plasma NfL and GFAp suggest that the neurological sequelae of COVID-19 may be linked to a neuroinflammatory process and axonal damage, potentially driven by systemic illness rather than direct viral neurotropism. These biomarkers could serve as valuable tools for identifying patients at risk for long-term neurological deficits and for monitoring the efficacy of neuroprotective interventions.

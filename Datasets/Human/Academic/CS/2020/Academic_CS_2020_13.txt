@@ -1,0 +1,8 @@
+Author: B. Lake
+Title: Word meaning in minds and machines
+Paper ID: 8e6ae3ed8804ad097ce7e4587c33bf398688d763
+Year: 2020
+Author Index: 13
+
+Abstract:
+Machines have achieved a broad and growing set of linguistic competencies, thanks to recent progress in Natural Language Processing (NLP). Psychologists have shown increasing interest in such models, comparing their output to psychological judgments such as similarity, association, priming, and comprehension, raising the question of whether the models could serve as psychological theories. In this article, we compare how humans and machines represent the meaning of words. We argue that contemporary NLP systems are fairly successful models of human word similarity, but they fall short in many other respects. Current models are too strongly linked to the text-based patterns in large corpora, and too weakly linked to the desires, goals, and beliefs that people express through words. Word meanings must also be grounded in perception and action and be capable of flexible combinations in ways that current systems are not. We discuss promising approaches to grounding NLP systems and argue that they will be more successful, with a more human-like, conceptual basis for word meaning. (PsycInfo Database Record (c) 2021 APA, all rights reserved).

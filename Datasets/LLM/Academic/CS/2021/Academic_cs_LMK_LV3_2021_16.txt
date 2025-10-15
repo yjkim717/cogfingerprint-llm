@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: IndicBART: A Compact Pre-trained Model for Indic Languages and English NLG Tasks
+
+Abstract:
+In 2021, the development of pre-trained sequence-to-sequence models for low-resource languages remains a significant challenge. This study presents IndicBART, a compact pre-trained model for Indic languages and English, leveraging a denoising autoencoder architecture. Our experiments demonstrate that IndicBART achieves competitive performance in various natural language generation tasks, despite its relatively small size. The results highlight the effectiveness of pre-trained models in facilitating cross-lingual transfer and underscore the potential of IndicBART for enhancing Indic language NLP applications. The proposed model's performance is evaluated on multiple NLG benchmarks, showcasing its versatility and robustness.

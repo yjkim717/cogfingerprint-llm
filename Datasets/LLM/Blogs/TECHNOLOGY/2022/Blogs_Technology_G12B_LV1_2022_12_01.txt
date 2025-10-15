@@ -1,0 +1,8 @@
+>## The Little Things That Bug You
+
+It's funny how the smallest tech frustrations can derail your whole day, isn't it? I recently upgraded to a Mac Mini (M1, naturally!) and was so excited to dive in. But then I realized... adjusting the monitor brightness was a *thing*. I'd always just use the buttons on my Viewsonic, but macOS doesn't seem to want to play along seamlessly.
+
+It got me thinking about the little design choices we often overlook. Why can’t everything just *work* together perfectly? It's a minor annoyance, sure, but it highlights the constant little battles we fight with our devices. Maybe I'm just being picky, but a unified brightness control across all displays would be a dream. Anyone else feel this way?
+
+
+

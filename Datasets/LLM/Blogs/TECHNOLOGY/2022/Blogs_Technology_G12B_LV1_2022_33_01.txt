@@ -1,0 +1,3 @@
+## The Ghost in the Machine
+
+Remember when hacking your calculator felt like peak rebellion? Back in 2022, I was down a rabbit hole trying to get a TI-84 Plus ROM working on a Graph 89. The whole thing felt strangely nostalgic, a digital archaeology of school days. It also raised a serious question: how safe *is* messing with calculator firmware these days? Still pondering that one...

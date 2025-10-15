@@ -1,0 +1,8 @@
+Author: Jihua Zhang
+Title: Spatially entangled photon pairs from lithium niobate nonlocal metasurfaces
+Paper ID: a76654e2b809dbb2ca3f2444aef988202b61ccf8
+Year: 2022
+Author Index: 19
+
+Abstract:
+Metasurfaces consisting of nanoscale structures are underpinning new physical principles for the creation and shaping of quantum states of light. Multiphoton states that are entangled in spatial or angular domains are an essential resource for many quantum applications; however, their production traditionally relies on bulky nonlinear crystals. We predict and demonstrate experimentally the generation of spatially entangled photon pairs through spontaneous parametric down-conversion from a metasurface incorporating a nonlinear thin film of lithium niobate covered by a silica meta-grating. We measure the correlations of photon pairs and identify their spatial antibunching through violation of the classical Cauchy-Schwarz inequality, witnessing the presence of multimode entanglement. Simultaneously, the photon-pair rate is strongly enhanced by 450 times as compared to unpatterned films because of high-quality-factor resonances. These results pave the way to miniaturization of various quantum devices by incorporating ultrathin metasurfaces functioning as room temperature sources of quantum-entangled photons.

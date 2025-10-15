@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract in the field of physics:
+
+Title: Asymptotic Symmetries in Non-Minimally Coupled U(1)-Gauge Theories
+
+Abstract: 
+This study examines the asymptotic symmetries of extended supergravity models featuring non-minimal couplings between U(1)-gauge fields and scalar fields. By employing a systematic analysis of the asymptotic behavior of the fields, we demonstrate that the presence of non-minimal couplings significantly modifies the asymptotic symmetry algebra. We show that the resulting algebra retains a duality symmetry, which constrains the possible extensions of the theory. Our findings have implications for the understanding of asymptotic symmetries in supergravity theories and their potential applications in modern theoretical physics (2024).

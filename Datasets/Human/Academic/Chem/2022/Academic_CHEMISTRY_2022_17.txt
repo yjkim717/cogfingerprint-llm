@@ -1,8 +1,8 @@
-Author: Ilyes Batatia
-Title: MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields
-Paper ID: 036aef17a8c2c03202170aa85fd7be1dba974202
+Author: M. Tsuge
+Title: Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice
+Paper ID: 84a007c02ec88e3486239e021af5663d6fa5ff7b
 Year: 2022
 Author Index: 17
 
 Abstract:
-Creating fast and accurate force fields is a long-standing challenge in computational chemistry and materials science. Recently, several equivariant message passing neural networks (MPNNs) have been shown to outperform models built using other approaches in terms of accuracy. However, most MPNNs suffer from high computational cost and poor scalability. We propose that these limitations arise because MPNNs only pass two-body messages leading to a direct relationship between the number of layers and the expressivity of the network. In this work, we introduce MACE, a new equivariant MPNN model that uses higher body order messages. In particular, we show that using four-body messages reduces the required number of message passing iterations to just two, resulting in a fast and highly parallelizable model, reaching or exceeding state-of-the-art accuracy on the rMD17, 3BPA, and AcAc benchmark tasks. We also demonstrate that using higher order messages leads to an improved steepness of the learning curves.
+Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of an interstellar ice analog were monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by the recombination of two OH radicals, which is rate-limited by thermal diffusion of OH. The activation energy for surface diffusion was experimentally determined for the first time to be 0.14 ± 0.01 eV, which is larger than or equivalent to those assumed in theoretical models. This value implies that the diffusive reaction of OH radicals starts to be activated at approximately 36 K on interstellar ice.

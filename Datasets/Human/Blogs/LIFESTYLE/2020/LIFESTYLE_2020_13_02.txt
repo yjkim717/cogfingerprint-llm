@@ -1,0 +1,5 @@
+Year: 2020
+Author: apatheticonion
+URL: https://www.reddit.com/r/HyperV/comments/jhm5v3/can_i_use_an_external_switch_and_the_current/
+
+Apologise in advance if I misuse or misunderstand the terminology, I am new to Hyper-V virtualisation. I am trying to set up Hyper-V guests and I need them to have access to the host network (assigned IP addresses against the host network) I also need the host to use WoL so it must connect to the network from the standard ethernet adapter and not proxied via the Hyper-V external switch implementation. Is it possible for the Hyper-V switch to connect to the host network independently of the system ethernet adapter, allowing both to work simultaneously?

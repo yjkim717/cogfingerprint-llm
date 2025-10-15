@@ -1,0 +1,1 @@
+Looking back to 2020, I remember how setting up my first pre-commit pipeline felt like finally tidying up a messy desk. With Django and Git hooks, those small automated checks saved me from countless silly mistakes—turning chaos into calm, one commit at a time.

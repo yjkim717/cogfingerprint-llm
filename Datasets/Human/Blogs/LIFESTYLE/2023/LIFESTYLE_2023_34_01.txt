@@ -1,0 +1,5 @@
+Year: 2023
+Author: merc123
+URL: https://www.reddit.com/r/Fusion360/comments/18upz2o/designing_suspension_parts/
+
+I have some Fusion design under my belt. Workflow not as much or multiple components. I was working on designing a (non-animated) GoKart suspension and it is kicking my butt. Since I’m using a lot of round tubing I’m using the pipe tool a lot which means a lot of odd ball planes I have to create. Is this correct? Am I doing it right? I have difficulty designing (visualizing) in 3D spaces so making a ton of planes to pipe, extrude, etc takes a lot of brain effort. Any help?

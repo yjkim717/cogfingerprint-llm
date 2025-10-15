@@ -1,0 +1,5 @@
+Year: 2022
+Author: RDSne
+URL: https://www.reddit.com/r/cscareerquestions/comments/upna16/tiktok_sre_worklife_balance/
+
+I applied for the SRE position at TikTok and cleared all technical rounds (only a Hiring Manager interview left). I started doing more research on the company and noticed that there are a lot of reviews about bad work-life balance. I would hate to work overtime consistently and would prefer to avoid any companies with bad WLB. Could anyone share their experience about working at TikTok and if the work-life balance is that bad there?

@@ -1,0 +1,5 @@
+Year: 2022
+Author: carfo
+URL: https://www.reddit.com/r/fo4/comments/uq59vo/high_hz_monitor_conundrum/
+
+Since Fallout 4 requires the game to run at no more than 60fps, you have to either: Set the iPresentInterval to 0 and force cap the fps to 60 in nvidia control panel / afterburner, but while the game itself runs smoothly and there's no mouse delay, the game crashes often for me to the point where it's unplayable. Another option I found was to just force VSync on and set my monitor to 60Hz, but while this is stable, the mouse lag is very bad. Has anyone found a good solution to have the game run at 60 with no crashes and mouse lag?

@@ -1,0 +1,11 @@
+Okay, here’s a reflective blog post inspired by the provided summary, aiming for a conversational tone and approximately 168 words, set in 2021:
+
+---
+
+**The Frustration of Shiny Things**
+
+It’s funny, isn’t it? How we get so fixated on the *idea* of something, especially when it involves a little bit of tech wizardry. Late 2021, I was completely obsessed with automating everything. I’d just started diving into PowerShell – seriously, who *doesn’t* want to control their computer with commands? – and I decided I was going to build a script to scrape Nationwide branch locations from their website. 
+
+Sounds simple, right? Turns out, websites are surprisingly clever about hiding their inner workings. My script kept hitting dead ends, wrestling with ‘directory-listlink’ and struggling to find the right ‘href’ tags. It was incredibly frustrating, a tiny digital wall I couldn’t seem to scale. 
+
+It made me realize that sometimes, the most satisfying things aren’t the ones we *build* perfectly, but the ones we learn from the process of trying.  And maybe, just maybe, a good old-fashioned map and a phone call are still perfectly adequate.

@@ -1,0 +1,4 @@
+Title: Quantum Dynamical Investigation of Polariton-Mediated Electron Transfer Reactions
+
+Abstract:
+In 2020, the field of cavity quantum electrodynamics witnessed significant advancements in understanding the interplay between light-matter interactions and chemical reactivity. This study explores the polariton-mediated electron transfer reaction in a model system, employing a combination of analytic rate constant theory and direct quantum dynamical simulations. Our results demonstrate that the strong coupling between molecular excitons and cavity photons can significantly modulate electron transfer rates. The findings provide new insights into the quantum dynamics underlying polariton-mediated chemical reactions, shedding light on the potential applications of cavity quantum electrodynamics in controlling chemical reactivity.

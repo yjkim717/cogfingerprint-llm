@@ -1,0 +1,12 @@
+>Okay, here's a blog post inspired by the provided keywords and summary, written in a reflective, conversational tone, and set in 2023.
+
+## My Budgeting App & the Shiny Struggle (and a Little Social Learning)
+
+So, I’ve been on a bit of a personal project kick lately – building a budgeting app in R Shiny. It's surprisingly satisfying to track expenses and visualize where my money goes! The real challenge, though, has been getting it *out* there. I wanted something I could easily update from my phone (because let's be honest, I’m more likely to log an expense on the go).
+
+Shinyapps.io is great, but the free tier has its limitations. It’s made me realize how much we rely on these platforms, and how tricky it can be to maintain things when you're just a hobbyist. I’ve been lurking in the R Shiny community online, and it's amazing to see how many people are tackling similar problems! Sharing knowledge, even about the small hurdles, feels really valuable.
+
+
+
+
+Hope this is what you were looking for! Let me know if you’d like any adjustments.

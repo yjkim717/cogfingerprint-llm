@@ -1,0 +1,1 @@
+As I dug into my Shopify analytics in 2024, I stumbled upon a puzzling discrepancy. The session source attribution seemed off, with some sales labeled as organic search that I suspected were actually driven by Google Ads. I'm not alone in questioning Shopify's attribution model. Is it accurately reflecting my marketing efforts, or is there a more nuanced story behind the numbers?

@@ -1,0 +1,5 @@
+Year: 2020
+Author: tfburns
+URL: https://www.reddit.com/r/gamedev/comments/glxr06/creating_a_multiplayer_2d_game_from_scratch_with/
+
+Hi r/gamedev I'm looking to challenge myself and improve my C++ skills, and to do that I'm creating a multiplayer 2D game from scratch. I've been through some basic tutorials and plan to make the core engine open-source. My ultimate goal of this project would be to have Steam integration and play it with my friends. However, as I'm no expert, I thought I'd come here for some advice on: * any tutorials for Steam API integration in C++ projects * any security and network programming pointers * what libraries/APIs should will be most helpful to me? e.g. Open GL seems like a given * I'm no artist, at what point of development do you think it's good to involve one?

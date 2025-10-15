@@ -1,0 +1,9 @@
+## The Ghost of Kernels Past: Why I'm Still Thinking About SVMs
+
+It’s 2021, and deep learning feels like *the* thing. Everywhere you look, neural networks are conquering image recognition, natural language processing, and seemingly everything in between. So, I found myself wondering: what happened to Support Vector Machines (SVMs)?
+
+I remember being fascinated by them in grad school – the elegance of kernel methods, the promise of maximizing margins. They felt… powerful. Yet, XGBoost and its gradient boosting brethren have largely stolen the spotlight. 
+
+Lately, I've been revisiting the fundamentals. Are SVMs truly relics of a pre-deep learning era? Or do they still hold value, particularly when data is limited or interpretability is key? Maybe it's nostalgia, but there's a certain satisfaction in understanding a method's core principles – a grounding that sometimes gets lost in the complexity of modern architectures. 
+
+It’s a reminder that progress isn’t always about the *newest* thing, but about understanding what's already there. And sometimes, the ghosts of kernels past have wisdom to share.

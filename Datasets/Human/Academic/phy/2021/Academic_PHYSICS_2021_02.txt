@@ -1,0 +1,8 @@
+Author: N. Arkani-Hamed
+Title: The muon Smasher’s guide
+Paper ID: 2d853133ab54bfa6a0faa43874cfa73b4dd4caef
+Year: 2021
+Author Index: 2
+
+Abstract:
+We lay out a comprehensive physics case for a future high-energy muon collider, exploring a range of collision energies (from 1 to 100 TeV) and luminosities. We highlight the advantages of such a collider over proposed alternatives. We show how one can leverage both the point-like nature of the muons themselves as well as the cloud of electroweak radiation that surrounds the beam to blur the dichotomy between energy and precision in the search for new physics. The physics case is buttressed by a range of studies with applications to electroweak symmetry breaking, dark matter, and the naturalness of the weak scale. Furthermore, we make sharp connections with complementary experiments that are probing new physics effects using electric dipole moments, flavor violation, and gravitational waves. An extensive appendix provides cross section predictions as a function of the center-of-mass energy for many canonical simplified models.

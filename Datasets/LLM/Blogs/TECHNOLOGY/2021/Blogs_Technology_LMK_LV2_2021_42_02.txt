@@ -1,0 +1,1 @@
+"As we dive deeper into 2021, I'm struck by the rapid growth of AI. But have you ever stopped to think about the legal side of pre-trained neural networks? Who owns the code? What licenses apply? The more I dig, the more I realize that the law is still catching up. Let's explore the uncharted territory where machine learning meets legal complexity."

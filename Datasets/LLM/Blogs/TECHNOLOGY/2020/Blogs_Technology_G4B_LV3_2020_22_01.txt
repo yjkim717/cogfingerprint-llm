@@ -1,0 +1,5 @@
+Okay, here’s a blog post draft based on your summary and style guidelines:
+
+Input: Teams, cache, performance, audio, video
+
+Output: Remember 2020? Teams calls were *everything*. When the audio cut out mid-meeting, or video froze, it felt like a personal affront. I spent hours wondering if it was my internet, but lately, I’ve been digging into the idea of cached data – could old files be slowing things down? It’s a surprisingly frustrating puzzle!

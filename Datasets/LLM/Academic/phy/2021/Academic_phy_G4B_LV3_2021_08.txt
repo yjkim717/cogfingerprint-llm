@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, suitable for a physics publication in 2021:
+
+**Abstract**
+
+Contemporary neuroscience’s characterization of time as fundamentally relational, shaped by subjective experience and predictive processing, presents a significant contrast to the prevailing framework within relativistic physics. This paper argues that while neuroscience privileges a dynamic, agent-centric temporal flow, established theories such as special and general relativity increasingly converge on a “block universe” model – a spacetime continuum devoid of intrinsic temporal direction. Examining the implications of Everettian many-worlds interpretation alongside Einstein’s postulates, we posit that the perceived asymmetry of time may be an emergent property, not a fundamental feature, of our localized observer experiences. Further investigation into the intersection of these seemingly disparate fields is crucial for a more complete understanding of the nature of reality and the measurement problem in quantum mechanics.

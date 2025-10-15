@@ -1,0 +1,5 @@
+Title: Advances in Geometric Phase Metasurfaces: Harnessing Pancharatnam-Berry Phase for Subwavelength Optics
+
+Abstract:
+
+In recent years, the field of optics has witnessed significant advancements in the manipulation of light at the subwavelength scale, driven by the emergence of metasurfaces. Among these, geometric phase metasurfaces have garnered considerable attention owing to their ability to impart a spatially varying phase profile onto incident light. The Pancharatnam-Berry phase, a geometric phase arising from the adiabatic evolution of polarization states, has been exploited to achieve versatile control over light. By leveraging gradient phase modulation, these metasurfaces enable efficient beam steering, focusing, and shaping. As of 2022, research in this area continues to push the boundaries of optical manipulation, with potential applications in optical communication, imaging, and sensing. This review aims to summarize the recent advances in geometric phase metasurfaces, highlighting their design principles, functionalities, and future prospects.

@@ -1,0 +1,5 @@
+It’s 2021, and I’ve been diving deep into Scala 3’s type system, feeling like I’m piecing together an intricate puzzle. At first, self types and type intersections seemed abstract—almost intimidating. But then, I started experimenting with generic programming to build flexible join methods for record manipulation, and something clicked.
+
+I remember wrestling with tangled code, trying to force different record types to cooperate. Then, using self types and type intersections, I crafted a solution that felt both elegant and powerful. It wasn’t just about writing less code; it was about writing smarter, more adaptable code.
+
+That moment of clarity reminded me why I love programming: when complex tools finally reveal their grace, turning frustration into flow. It’s these small breakthroughs that keep the journey exciting.

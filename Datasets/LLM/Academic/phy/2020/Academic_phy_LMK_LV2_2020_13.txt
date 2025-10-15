@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In this study (2020), we investigate the thermodynamic implications of two-qubit quantum logic gates through the lens of non-equilibrium thermodynamics. By quantifying the energetic footprint of quantum circuits, we establish a direct link between energy and entropy fluctuations and gate performance, thereby extending Landauer's principle to the quantum regime. Our analysis provides insight into the thermodynamic constraints governing quantum computation."

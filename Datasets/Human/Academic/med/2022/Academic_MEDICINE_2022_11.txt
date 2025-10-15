@@ -1,0 +1,8 @@
+Author: Nastaran Khalili
+Title: Tumor-infiltrating lymphocyte therapy for lung cancer and its future paradigms
+Paper ID: 3e01bb264eca7ee13f10e3f91711afd7b3cc4324
+Year: 2022
+Author Index: 11
+
+Abstract:
+ABSTRACT Introduction Lung cancer is the leading cause of cancer death, with an estimated 1.8 million deaths contributing to this cancer in 2020. Despite advances in treatment options and various approaches being attempted, the survival rate remains low. Areas covered In this review, we aim to provide an overview of the efficacy of tumor-infiltrating lymphocyte (TIL) therapy for lung cancer based on existing clinical trials. We also discuss the current challenges and future landscape of this treatment modality. Expert opinion Lung cancer can be a suitable candidate for TIL therapy due to its high mutational burden. Specifically, it has shown promising results for non-small cell lung cancer resistant to immune checkpoint inhibitors. Still, there are many restrictions associated with the ex vivo expansion and delivery of TILs, limiting their availability. For this reason, applying TIL for the treatment of lung cancer has not been extensively investigated yet and only a few clinical trials have shown favorable results of TIL therapy in patients with lung cancer. Thus, facilitating this costly, labor-intensive and time-consuming process is of utmost importance to increase the number of performed studies and to detect eligible patients who could benefit most from this treatment modality.

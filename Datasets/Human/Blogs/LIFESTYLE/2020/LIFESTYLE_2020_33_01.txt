@@ -1,0 +1,5 @@
+Year: 2020
+Author: dualitybyslipknot
+URL: https://www.reddit.com/r/PHPhelp/comments/kbh3f5/this_may_be_a_dumb_question_but_if_my_website/
+
+So let's say I upload my files (including PHP files) to the hosting company site, would it still work? I am confused because in order for it to work on my own computer I have to have XAMPP running. I really am new to this so I don't understand. Thanks.

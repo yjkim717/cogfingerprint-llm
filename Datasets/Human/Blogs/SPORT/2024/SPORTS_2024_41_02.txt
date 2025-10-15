@@ -1,0 +1,5 @@
+Year: 2024
+Author: bakonydraco
+URL: https://www.reddit.com/r/ModSupport/comments/18x7w44/request_treat_twittercom_and_xcom_links_as/
+
+Reddit has good tools for submitters to see if the post they are submitting has already been submitted. A reasonably large portion of Reddit submissions are links on Twitter. Because of their rebrand, a good number of these are `twitter.com/[slug]`, while another significant number are `x.com/[slug]`. The problem is if `twitter.com/[slug]` has already been submitted, then a user submitting a link to `x.com/[slug]` will be given no indication that this is a repost. Given the prevalence of links to the site, I request that a check be added for this very common edge case, which will create a better experience for both users and mods.

@@ -1,0 +1,7 @@
+Here's an original abstract inspired by the given summary:
+
+Title: Enhanced Electrochemical Stability of Li-ion Batteries via Sequential Deposition of Al2O3-Based Inorganic Separators
+
+Abstract:
+
+The development of high-performance Li-ion batteries relies heavily on the advancement of separator technology. In this study, we demonstrate a novel approach to fabricating a porous Al2O3-based inorganic separator via sequential deposition, enabling the direct assembly of electrode/separator/electrode full cells. The as-prepared separator exhibits a uniform microstructure with high porosity and excellent mechanical integrity. When integrated into Li-ion batteries, the Al2O3-based separator demonstrates enhanced electrochemical stability, with a high ionic conductivity of 1.2 × 10^(-3) S cm^(-1) at 25°C. The full cell assembly shows improved cycling performance, retaining 85% capacity after 500 cycles at 1C rate. Our findings suggest that the sequential deposition of Al2O3 particles is a promising method for producing high-performance inorganic separators, paving the way for the development of next-generation Li-ion batteries with enhanced safety and energy density (2022).

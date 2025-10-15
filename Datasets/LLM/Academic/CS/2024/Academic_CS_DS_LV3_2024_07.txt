@@ -1,0 +1,1 @@
+This work establishes a separation between statistical learnability and private learnability for certain distribution classes under total variation distance. We demonstrate that finite-sample learnability does not guarantee differentially private learnability, resolving a conjecture by Ashtiani (2024) in the negative.

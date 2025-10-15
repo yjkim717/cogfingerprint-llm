@@ -1,0 +1,6 @@
+## Real-Time Speech Processing with Whisper-Streaming: An Optimized Architecture for Low-Latency Transcription and Translation
+
+The burgeoning demand for real-time speech processing applications necessitates efficient and accurate transcription and translation systems. This work presents Whisper-Streaming, a novel architecture designed to leverage the capabilities of OpenAI's Whisper model for low-latency, streaming speech processing in 2023. While Whisper demonstrates state-of-the-art performance in offline transcription, its inherent sequential processing poses a challenge for real-time deployment. Whisper-Streaming addresses this limitation through a carefully optimized pipeline incorporating speculative decoding, incremental state management, and adaptive chunking strategies. We detail these modifications and empirically evaluate Whisper-Streaming on diverse benchmark datasets, demonstrating substantial reductions in latency – achieving sub-second response times – while maintaining competitive transcription and translation accuracy compared to standard Whisper implementations.  Our results highlight the feasibility of deploying powerful, transformer-based models for real-time applications and provide a foundation for future research in low-latency speech processing architectures.
+
+
+

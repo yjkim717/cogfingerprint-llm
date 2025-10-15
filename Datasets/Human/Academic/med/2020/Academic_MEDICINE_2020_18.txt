@@ -1,0 +1,8 @@
+Author: W. Gradishar
+Title: Breast Cancer, Version 3.2020, NCCN Clinical Practice Guidelines in Oncology.
+Paper ID: 67c8026fe99bc030103f6a70084d941bc8a1b947
+Year: 2020
+Author Index: 18
+
+Abstract:
+Several new systemic therapy options have become available for patients with metastatic breast cancer, which have led to improvements in survival. In addition to patient and clinical factors, the treatment selection primarily depends on the tumor biology (hormone-receptor status and HER2-status). The NCCN Guidelines specific to the workup and treatment of patients with recurrent/stage IV breast cancer are discussed in this article.

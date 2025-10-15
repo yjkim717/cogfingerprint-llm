@@ -1,0 +1,8 @@
+import random
+
+def generate_reflective_blog_post():
+    # Generate a reflective blog post related to social media
+    post = "As I listened to my voice on a 2020 video recording, I realized I've grown to enjoy the sound of it - a surprising vanity I've come to accept. Scrolling through social media, I'm reminded that we're all curating a highlight reel. Is it vain to appreciate my own voice, or is it self-acceptance? Perhaps it's a bit of both, and that's okay."
+    return post
+
+print(generate_reflective_blog_post())

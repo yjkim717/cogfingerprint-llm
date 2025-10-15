@@ -1,0 +1,9 @@
+Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective, conversational tone and a 2020 feel:
+
+---
+
+**Building My Digital Fortress (and a Tiny Headache)**
+
+It’s strange, isn’t it? How a little project can suddenly feel… monumental? This year, 2020, felt like a constant push to build something, *anything*, to feel grounded. So, I’ve been diving headfirst into a homelab – a miniature server farm powered by Raspberry Pi 4s and running a Kubernetes cluster. 
+
+It started with Docker containers, of course. But then the networking got real. VLANs, DHCP, NFS… suddenly I was wrestling with concepts I barely understood. It’s a surprisingly humbling experience, trying to carve out a digital space for myself, especially when it feels like everything’s shifting beneath your feet.  There’s a certain satisfaction in getting those shares working, though. A little digital fortress, built one tiny piece at a time.

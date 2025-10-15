@@ -1,0 +1,8 @@
+Author: Soonho Kwon
+Title: Reaction Mechanism and Strategy for Optimizing the Hydrogen Evolution Reaction on Single-Layer 1T' WSe2 and WTe2 Based on Grand Canonical Potential Kinetics.
+Paper ID: 258587ecda53534694bcd4dcf38fdf1e7fa6254d
+Year: 2021
+Author Index: 10
+
+Abstract:
+Transition-metal dichalcogenides (TMDs) in the 1T' phase are known high-performance catalysts for hydrogen evolution reaction (HER). Many experimental and some theoretical studies report that vacant sites play an important role in the HER on the basal plane. To provide benchmark calculations for comparison directly with future experiments on TMDs to obtain a validated detailed understanding that can be used to optimize the performance and material, we apply a recently developed grand canonical potential kinetics (GCP-K) formulation to predict the HER at vacant sites on the basal plane of the 1T' structure of WSe2 and WTe2. The accuracy of GCP-K has recently been validated for single-crystal nanoparticles. Using the GCP-K formulation, we find that the transition-state structures and the concentrations of the four intermediates (0-3 H at the selenium or tellurium vacancy) change continuously as a function of the applied potential. The onset potential (at 10 mA/cm-2) is -0.53 V for WSe2 (experiment is -0.51 V) and -0.51 V for WTe2 (experiment is -0.57 V). We find multistep reaction mechanisms for H2 evolution from Volmer-Volmer-Tafel (VVT) to Volmer-Heyrovsky (VH) depending on the applied potential, leading to an unusual non-monotonic change in current density with the applied potential. For example, our detailed understanding of the reaction mechanism suggests a strategy to improve the catalytic performance significantly by alternating the applied potential periodically.

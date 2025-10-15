@@ -1,0 +1,1 @@
+As a developer in 2023, I’ve loved watching GPT-4 spin up clever code snippets. But when it comes to editing my sprawling projects, it hits a wall—there’s just not enough context. It’s a reminder that even the smartest tools need to grow with our ambitions to truly scale.

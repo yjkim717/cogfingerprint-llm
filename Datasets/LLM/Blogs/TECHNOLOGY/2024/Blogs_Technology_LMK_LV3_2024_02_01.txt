@@ -1,0 +1,7 @@
+The joys of inheriting a complex IT setup from a previous admin or MSP. As a sysadmin in 2024, I've found myself in this all-too-familiar situation, trying to untangle a web of legacy configurations in our hybrid environment. My mission is to improve security, but the journey is proving to be a challenge.
+
+I'm on a quest to modernize our security posture by leveraging Entra (formerly Azure AD) and implementing Self-Service Password Reset (SSPR). The goal is to simplify password management and reduce the burden on our team. However, I'm hitting roadblocks due to unknown legacy configurations set up by our previous MSP.
+
+Disabling password cycling, a crucial step in improving security, is proving to be a daunting task. The existing setup is a patchwork of different configurations, making it difficult to identify what's causing the issues. It's like trying to find a needle in a haystack, except the haystack is on fire, and the needle is a ticking time bomb.
+
+As I navigate this complex landscape, I'm reminded that security is not just about implementing the latest technologies, but also about understanding the intricacies of our environment. I'm learning to appreciate the importance of documentation and knowledge sharing, essential for ensuring that our team is equipped to manage our hybrid environment effectively. By sharing my experiences, I hope to help others who may be facing similar challenges, and together, we can create a more secure and streamlined IT infrastructure.

@@ -1,0 +1,9 @@
+Here's a formal academic-style abstract, suitable for a physics-related publication, based on the provided summary and adhering to the specified constraints:
+
+**Abstract**
+
+The simulation of electrocatalytic processes, particularly those involving complex interfaces and large molecular systems like carbon dioxide reduction (CO₂RR), presents a significant computational challenge. Traditional density functional theory (DFT) methods, while accurate, are often limited by their computational cost when applied to systems containing numerous solvent molecules and extended electrode surfaces. To address this limitation, we present a novel hybrid methodology, ReQM (Reactive Quantum Mechanics), which integrates the strengths of quantum mechanical (QM) and reactive force field (ReFF) approaches. ReQM employs a QM subsystem to explicitly model the active site and critical reaction pathways, while a polarizable ReFF describes the surrounding environment, including solvent molecules and the electrode. This partitioning allows for the efficient simulation of large-scale electrocatalysis scenarios, maintaining chemical accuracy in regions of bond breaking and formation.  The polarizable nature of the ReFF ensures accurate treatment of long-range electrostatic interactions. We demonstrate the feasibility and potential of ReQM for studying CO₂RR, paving the way for enhanced understanding and design of electrocatalysts.
+
+
+
+(Word count: 173)

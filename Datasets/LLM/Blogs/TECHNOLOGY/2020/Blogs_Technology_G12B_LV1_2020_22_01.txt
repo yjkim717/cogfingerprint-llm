@@ -1,0 +1,5 @@
+ here:
+
+## The Mystery of My Lagging Teams Meetings
+
+It's 2020, and my life is basically Microsoft Teams. Lately, though, meetings have been... choppy. I started wondering: where are all these audio and video files going? Does Teams have a secret cache, hoarding data and slowing things down? I dove into the settings, hoping to find some answers and maybe even a way to declutter, but the mystery remains! Anyone else battling Teams performance quirks?

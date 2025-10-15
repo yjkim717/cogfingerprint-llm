@@ -1,0 +1,17 @@
+Of course. Here is a formal academic abstract inspired by the provided summary and keywords.
+
+***
+
+**Abstract**
+
+**Title:** A Cost-Effective, Two-Step Stratification Workflow Utilizing Plasma p-tau217, Age, and APOE ε4 Status for Amyloid-β Positivity Screening in Mild Cognitive Impairment
+
+**Introduction:** The accurate and early detection of Alzheimer's disease (AD) pathology, specifically cerebral amyloid-β (Aβ) positivity, is critical for effective patient management and enrollment in disease-modifying trials. While cerebrospinal fluid (CSF) analysis and amyloid-PET represent diagnostic gold standards, their high cost, invasiveness, and limited accessibility preclude widespread use. Consequently, there is a pressing need for cost-effective, scalable screening methodologies to stratify individuals with mild cognitive impairment (MCI) by their likelihood of underlying AD pathology.
+
+**Objective:** This study aimed to develop and validate a two-step risk stratification workflow that integrates the novel plasma biomarker phosphorylated tau 217 (p-tau217) with readily available clinical variables—age and APOE ε4 status—to accurately identify Aβ positivity in an MCI cohort, thereby minimizing the need for confirmatory CSF testing.
+
+**Methods:** We conducted a prospective, multi-center cohort study involving 1,250 individuals presenting with MCI. All participants underwent initial plasma p-tau217 assessment (Step 1). Based on pre-defined p-tau217 thresholds, individuals were stratified into high-, intermediate-, and low-risk categories for Aβ positivity. Those in the intermediate-risk category proceeded to a second-step risk refinement using a model incorporating age and APOE ε4 carrier status (Step 2). The primary outcome was the diagnostic accuracy of the final stratification (high vs. low probability of Aβ positivity) against the reference standard of CSF Aβ42/Aβ40 ratio. Secondary outcomes included the proportion of CSF tests avoided and the associated economic implications.
+
+**Results:** The two-step stratification workflow demonstrated high diagnostic performance, with an area under the curve of 0.94. The model maintained a diagnostic accuracy of 88.2–92.0% for identifying Aβ-positive individuals. Crucially, this approach substantially reduced the requirement for confirmatory CSF testing by 61.2–85.9% across the cohort, representing a significant reduction in healthcare costs and patient burden.
+
+**Conclusion:** In this 2023 cohort, a precision medicine workflow combining plasma p-tau217 with basic clinical data provides a robust, minimally invasive, and highly cost-effective strategy for risk stratification of Aβ pathology in MCI. This paradigm facilitates optimized resource allocation by reserving definitive but costly CSF testing for a refined patient subset, thereby accelerating diagnostic pathways and enabling more targeted therapeutic interventions.

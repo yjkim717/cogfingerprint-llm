@@ -1,0 +1,7 @@
+Of course. Here is a formally structured academic abstract reflecting the provided summary and the 2024 context.
+
+***
+
+**Abstract**
+
+The therapeutic paradigm for isocitrate dehydrogenase (IDH)-mutant gliomas is undergoing a significant evolution, driven by molecular stratification and the advent of targeted therapies. Historically, treatment algorithms were predominantly guided by histopathological grade, often prompting aggressive intervention. The integration of molecular classifications, however, has enabled more refined risk stratification, identifying subsets of patients for whom immediate, high-intensity treatment may be safely deferred. Concurrently, the clinical introduction of selective IDH inhibitors has provided a novel therapeutic modality that directly targets the oncogenic driver. This targeted approach offers a potentially more favorable toxicity profile compared to conventional alkylating chemotherapy, further supporting strategies of treatment deferral in lower-risk settings. While maximal safe resection remains a cornerstone of initial management, its role is now contextualized within this molecular framework. This review synthesizes recent evidence from 2023-2024, arguing that the convergence of advanced molecular diagnostics and targeted agents facilitates a more personalized management approach, optimizing the timing and sequence of interventions to improve long-term outcomes and quality of life for patients with IDH-mutant gliomas.

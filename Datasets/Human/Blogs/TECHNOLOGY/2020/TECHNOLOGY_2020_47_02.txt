@@ -1,0 +1,5 @@
+Year: 2020
+Author: TKInstinct
+URL: https://www.reddit.com/r/techsupport/comments/g2fyhw/any_ideas_on_why_my_usb_based_wireless_mouse/
+
+So I've run into this issue where I purchased a Logitech Wireless mouse 5 years ago. I bought a new computer roughly 6 months ago and the new computer is having lag issues with the mouse. The mouse isn't the issue since I A.) have tried it on another computer I own and experience no lag and B.) have another identical mouse that I use on the other device that experiences the same lag. &#x200B; I updated the drivers already so I don't think that's it. I've also noted that I don't think it's a performance issue as I've checked the memory usage at the time of lag. RAM was up to 5.2 / 8 at the highest. I also verified that it wasn't the surface it was skimming over as the other mouse doesn't present that issue. I had also purchased a mouse pad that suffers similar issues. &#x200B; It doesn't always happen to me, seems to lag at random times throughout a session. I have a wired mouse that came with the device and do not experience any lag time on it. &#x200B; Any thoughts? Mouse Model is a Logitech MS10

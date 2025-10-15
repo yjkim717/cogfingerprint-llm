@@ -1,0 +1,9 @@
+Okay, here’s a blog post draft inspired by the summary and keywords, aiming for that reflective, conversational style and a 2020 context:
+
+---
+
+**The Weight of Every Cent**
+
+Remember 2020? It felt like *every* dollar mattered. I was building my little online shop with Shopify, excited about the ease of it all. Then I hit a wall – no built-in multicurrency checkout. Suddenly, potential customers from Europe or Australia were bouncing right out of my cart because of those pesky exchange rates. 
+
+It felt… frustrating. Like a tiny, invisible barrier.  I started to wonder if the convenience of Shopify was actually costing me sales.  The thought of switching back to WooCommerce, a bit clunkier, felt almost appealing.  It highlighted just how crucial seamless global experiences are becoming in e-commerce.

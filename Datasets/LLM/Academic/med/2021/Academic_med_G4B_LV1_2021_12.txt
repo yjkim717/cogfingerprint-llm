@@ -1,0 +1,7 @@
+Here’s an academic abstract inspired by the provided summary, adhering to the requested style and context:
+
+**Abstract**
+
+The escalating prevalence of severe obesity presents a substantial public health challenge, frequently associated with increased morbidity and mortality. While pharmacological and lifestyle interventions offer limited sustained weight loss, bariatric surgical procedures represent a potentially transformative approach. This retrospective cohort study, conducted in 2021, investigated the impact of two prevalent bariatric techniques – Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy (SG) – on long-term mortality outcomes in individuals with severe obesity. Patient data were extracted from a national registry encompassing a cohort of over 5,000 patients undergoing either RYGB or SG between 2015 and 2020. 
+
+Statistical analysis revealed a statistically significant reduction in all-cause mortality among both surgical groups compared to a matched cohort of non-surgical severe obesity patients (p < 0.001). Specifically, RYGB demonstrated a 28% decrease in mortality risk, while SG exhibited a 32% reduction.  These findings support the hypothesis that bariatric surgery provides a durable benefit beyond weight loss, mitigating the cardiovascular and metabolic complications intrinsically linked to severe obesity. Further research is warranted to delineate the relative efficacy of each procedure and to identify predictive factors for optimal patient selection.

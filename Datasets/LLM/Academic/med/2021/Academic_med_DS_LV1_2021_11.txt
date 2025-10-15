@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
+
+***
+
+**Abstract**
+
+The advent of adoptive T-cell therapy, particularly utilizing chimeric antigen receptor (CAR) and T-cell receptor (TCR) engineered T-cells, represents a paradigm shift in oncology. However, limitations persist, including suboptimal effector function, antigen escape, and life-threatening toxicities such as cytokine release syndrome and on-target/off-tumor effects. This review synthesizes recent advances demonstrating how the CRISPR/Cas9 system is being harnessed to overcome these hurdles. We detail its application in generating precision genomic edits to enhance T-cell fitness and specificity. Key strategies include the targeted insertion of CAR transgenes into endogenous loci to achieve potent and regulated expression, the knockout of endogenous TCRs to prevent graft-versus-host disease in allogeneic settings, and the deletion of inhibitory immune checkpoint receptors like PD-1 to bolster T-cell persistence within the immunosuppressive tumor microenvironment. By enabling the multiplexed engineering of next-generation cellular therapeutics, CRISPR/Cas9 is poised to significantly augment the efficacy and safety profile of adoptive T-cell therapies, paving the way for their broader clinical application in combating refractory malignancies.

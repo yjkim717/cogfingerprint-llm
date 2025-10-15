@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract in the field of Computer Science, generated from the provided summary.
+
+***
+
+**Abstract**
+
+This study investigates the interplay between algorithmic market-making, systemic risk, and computational profitability in decentralized finance (DeFi) ecosystems. We posit that the scale of a DeFi protocol's automated market operations and the intensity of on-chain competition are critical determinants of its risk profile and economic sustainability. To empirically test this, we construct a multi-dimensional dataset of Ethereum-based DeFi protocols from 2020 to 2023. The dataset quantifies protocol scale via total value locked (TVL), market competition using a Herfindahl-Hirschman Index (HHI) derived from transaction flow, risk-taking through volatility metrics of liquidity pools, and profitability via fee-generation efficiency. Given the dynamic panel nature of the data and potential endogeneity, we employ a Generalized Method of Moments (GMM) estimator. Our findings indicate that larger protocol scale is associated with more complex, interconnected risk exposures, while heightened competition correlates with increased risk-taking as protocols optimize their algorithms for market share. The results provide a computational framework for regulators and developers to model and mitigate emergent systemic risks in algorithmically-driven financial markets.
+
+(198 words)

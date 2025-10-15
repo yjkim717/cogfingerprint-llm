@@ -1,0 +1,13 @@
+Of course. Here is an original blog post inspired by your summary.
+
+***
+
+### From Help Desk to the Cloud: A 20-Year Tech Journey
+
+Looking back, it’s funny how it all started. In 2002, my entire professional world was contained within a beige tower under a desk. I was on the help desk, and my main concerns were noisy fans, cryptic error messages, and the eternal struggle for more RAM. The "cloud" was just a white, fluffy thing in the sky.
+
+My career path wasn't a straight shot to becoming an architect of virtualized systems. It was a series of curious steps. Tinkering with a server to host a file share for my team led to my first foray into early virtualization—a clunky but miraculous process that felt like digital alchemy. I wasn't just fixing computers anymore; I was building little worlds inside them.
+
+That curiosity became my compass. When cloud technologies began to emerge, it felt like a natural, if daunting, evolution. The principles were the same—abstracting resources, automating processes—but the scale was astronomical. Instead of managing a handful of virtual machines, I was learning to orchestrate entire environments with lines of code.
+
+If I could give one piece of advice to someone starting their IT journey today, it’s this: don’t see the help desk as a dead-end job. See it as your front-row seat to every problem and process in a business. The foundational patience and problem-solving you learn there are the bedrock upon which everything else—virtualization, cloud, security—is built. The tools have changed dramatically since my beige-box days, but the thrill of building and fixing things? That’s a constant, and it’s the best part of the job.

@@ -1,0 +1,11 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+**My SQL Side-Quest to Tame My Finances**
+
+It was early 2022, and staring at a dozen bank transactions for "Amazon" was giving me a headache. Was it groceries, tech, or just pure impulse? As a developer, my solution wasn't a budgeting app—it was a SQL query.
+
+I spent a weekend building a simple transaction classifier. I created category codes and wrote scripts to automatically tag my spending. Suddenly, "AMZN*3F2G1" wasn't just a line item; it was "Household Supplies."
+
+This small tech side-quest did more than track my money; it reframed a tedious chore into a satisfying data puzzle. It was a powerful reminder that sometimes, the best tools aren't the ones you download, but the ones you build to understand your own world a little better.

@@ -1,0 +1,8 @@
+Author: José Manuel Barat Baviera
+Title: Scientific Guidance for the submission of dossiers on Food Enzymes
+Paper ID: 7dea4ba869124a49540cdf303f031c0185c33b52
+Year: 2021
+Author Index: 13
+
+Abstract:
+Abstract Following a request from the European Commission, EFSA developed an updated scientific guidance to assist applicants in the preparation of applications for food enzymes. This guidance describes the scientific data to be included in applications for the authorisation of food enzymes, as well as for the extension of use for existing authorisations, in accordance with Regulation (EC) No 1331/2008 and its implementing rules. Information to be provided in applications relates to source, production and characteristics of the food enzyme, toxicological data, allergenicity and dietary exposure estimation. Source, production and characteristics of the food enzyme are first considered only for enzymes of microbial origin and subsequently for those enzymes derived from plants and for enzymes from animal sources. Finally, the data requested for toxicology, allergenicity and dietary exposure applies to all food enzymes independent of the source. On the basis of the submitted data, EFSA will assess the safety of food enzymes and conclude whether or not they present a risk to human health under the proposed conditions of use.

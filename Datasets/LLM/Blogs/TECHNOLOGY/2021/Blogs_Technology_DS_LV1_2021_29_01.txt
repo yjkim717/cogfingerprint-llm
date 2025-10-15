@@ -1,0 +1,11 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+**The Joy of Naming Things**
+
+I was refactoring some old C3 code last week, wrestling with a gnarly function pointer, and I had a minor epiphany. It wasn't about the logic, but the *name*. The language only offered `typedef` for type aliases, and I found myself wishing I could create a simple, clean alias for that complex function signature, just like I could for a struct.
+
+It got me thinking about language design philosophy in 2021. We’re surrounded by languages with rich, flexible aliasing—Rust’s `type` for anything, or Kotlin’s `typealias`. Why do we stop at types? What if we could safely alias common code patterns or even create simple, hygienic macro-like shortcuts?
+
+This isn't just about saving keystrokes. It’s about clarity. A well-chosen name can turn a cryptic incantation into a readable statement of intent. As our systems grow more complex, the languages we use should empower us to write not just correct code, but *understandable* code. Sometimes, the most powerful feature is simply the ability to call something by a better name.

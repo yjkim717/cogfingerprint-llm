@@ -1,0 +1,5 @@
+Year: 2023
+Author: Outworldentity
+URL: https://www.reddit.com/r/MagicMirror/comments/18milbs/are_raspberry_pi_mirrors_still_a_thinglong_lasting/
+
+I'm wanting to surprise my wife with one and have no idea where to start. Do they require upkeep/updates? What is the best site for walking a noob though how to make one from scratch? Thanks in advance

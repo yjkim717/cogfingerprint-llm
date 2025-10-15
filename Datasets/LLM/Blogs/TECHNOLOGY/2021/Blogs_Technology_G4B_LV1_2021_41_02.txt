@@ -1,0 +1,9 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The PWM Puzzle**
+
+It’s weird how easily a little thing can throw you for a loop. I was building a new CyberPowerPC last fall – a Phantom P500A, to be exact – and I was really excited about the CPU_OPT header for controlling my fans. I’d bought some PWM fans, expecting smooth, automatic speed adjustments. 
+
+But they just… weren’t working.  Despite the header being set correctly, the fans were stuck at full blast. Turns out, a simple DC power supply was causing a conflict.  It’s a reminder that even with all the tech, sometimes it’s the little details that matter!

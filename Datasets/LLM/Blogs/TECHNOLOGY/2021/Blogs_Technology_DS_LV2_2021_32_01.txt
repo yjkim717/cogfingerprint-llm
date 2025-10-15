@@ -1,0 +1,5 @@
+It’s 2021, and I’m staring at my homelab’s MikroTik CRS354, tangled in RouterOS menus and VLAN configurations that felt more like a logic puzzle than networking. I’d heard whispers about SwOS—a simpler, stripped-down alternative—and decided to take the leap.
+
+What a relief! SwOS greeted me with a clean, intuitive interface that just made sense. Suddenly, managing multiple interfaces and VLANs felt less like deciphering code and more like arranging building blocks. No more endless terminal commands; just straightforward clicks and clarity.
+
+Sometimes, the "pro" solution isn’t the right one for the job. In simplifying, I found efficiency—and a little more sanity in my homelab adventures. Sometimes, less truly is more.

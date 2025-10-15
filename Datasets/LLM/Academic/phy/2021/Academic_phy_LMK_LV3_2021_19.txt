@@ -1,0 +1,1 @@
+"In 2021, a novel on-chip quantum circuit utilizing a segmented coupled waveguide array enabled efficient tomography of multi-photon split states, advancing optical quantum computing by enhancing state reconstruction fidelity and reducing device footprint."

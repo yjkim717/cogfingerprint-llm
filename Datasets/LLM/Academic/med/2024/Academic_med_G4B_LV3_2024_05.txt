@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, adhering to the specified style and length:
+
+**Abstract**
+
+The 2024 NCCN Guidelines for metastatic colorectal cancer (mCRC) represent a critical update to systemic therapy protocols.  These guidelines prioritize individualized treatment strategies, integrating the patient’s prior therapeutic history alongside comprehensive mutational profiling.  Specifically, the assessment of the tumor’s mutational landscape informs the selection of targeted agents and subsequent systemic regimens.  Furthermore, careful consideration of potential drug toxicities remains paramount.  Adherence to NCCN recommendations, coupled with genomic insights, is increasingly recognized as essential for optimizing patient outcomes and minimizing adverse events within the management of mCRC, reflecting a shift towards precision oncology.

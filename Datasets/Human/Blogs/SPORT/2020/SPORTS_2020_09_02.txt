@@ -1,0 +1,5 @@
+Year: 2020
+Author: Sebsibus
+URL: https://www.reddit.com/r/diyelectronics/comments/hw5ujh/i_need_help_with_my_school_science_project/
+
+I want to build a water cooling machine, with thermoelectric coolers (Basically this: I connected everything and pumped water through it. I checked everything multiple times. All the Parts should have enough Voltage (12V each). My machine kinda works, but after some time, the temperature of both sides of the cooling elements is equalizing. Is this normal or is this due to inadequate cooling of my Peltier-Elements?

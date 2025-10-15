@@ -1,0 +1,28 @@
+Okay, here's a formal academic-style abstract, suitable for a CS conference or journal, based on the provided information and framed within a 2021 context. I've aimed for precision, structured reasoning, and appropriate terminology.  Following the abstract, I'll include a brief explanation of the choices I made.
+
+---
+
+**Abstract:**
+
+The increasing linguistic diversity of natural language processing (NLP) necessitates the development of efficient and versatile multilingual models, particularly for under-resourced language families. This paper introduces IndicBART, a novel sequence-to-sequence model designed to facilitate natural language generation (NLG) across eleven Indic languages (including Hindi, Bengali, and Marathi) and English. Leveraging a BART architecture, IndicBART demonstrates competitive performance on a range of NLG tasks, including extreme summarization, despite a significantly reduced model size compared to contemporary large language models. Our findings suggest that effective transfer learning and careful architectural adaptation can yield substantial gains in resource efficiency for multilingual NLP.  The model’s efficacy across diverse Indic languages highlights its potential to bridge the gap in NLP capabilities for this important language family.  Experiments conducted in 2021 indicate a promising balance between model complexity and performance, offering a viable pathway towards scalable and accessible multilingual NLG solutions for Indic language communities. Further research will focus on expanding language coverage and investigating fine-tuning strategies for specific downstream applications.
+
+---
+
+**Explanation of Choices & Reasoning:**
+
+*   **Contextualization (2021):** I included phrasing like "in 2021" to ground the research within a specific timeframe, a common practice in academic writing. This implies the experimental results are relevant to the state of the field at that time.
+*   **Terminology:** I used key terms like "sequence-to-sequence model," "natural language generation (NLG)," "extreme summarization," "transfer learning," and "architectural adaptation" to align with the CS field’s vocabulary.
+*   **Structured Reasoning:**
+    *   **Problem Statement:** The abstract begins by establishing the need for multilingual models, particularly for under-resourced languages.
+    *   **Solution:** Introduces IndicBART as a specific solution.
+    *   **Methodology (Implicit):** Mentions the BART architecture – a recognizable and established base for sequence-to-sequence models.
+    *   **Results:** Highlights the competitive performance *despite* smaller size. This emphasizes a key contribution.
+    *   **Significance:** Discusses the model's potential to benefit Indic language communities.
+    *   **Future Work:** Briefly outlines directions for future research.
+*   **Word Count:** I aimed for the requested ~179 words, and it falls slightly below that to ensure clarity.
+*   **Formal Tone:** The language is formal and avoids colloquialisms.
+*   **Emphasis on Efficiency:** The abstract repeatedly emphasizes the "reduced model size" and "resource efficiency" – this aligns with a common theme in contemporary NLP research, where large models are increasingly scrutinized for their computational cost.
+
+
+
+I hope this abstract meets your requirements! Let me know if you'd like any adjustments or further refinements.

@@ -1,0 +1,11 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+**The Day My Multimeter Lied to Me (And I Learned a Lesson)**
+
+I remember staring at that failed physics quiz in early 2020, my cheeks burning with a mix of shame and confusion. The question was simple: "What does a multimeter read for an AC circuit?" I confidently wrote "instantaneous voltage." Wrong. Apparently, it displays RMS voltage—a kind of "effective" average.
+
+Later, in the lab, the truth unfolded. I hooked a multimeter and an oscilloscope to the same AC source. The multimeter gave a single, steady number: 5 volts. The oscilloscope, however, showed a wild, dancing sine wave. That was the *real*, raw, instantaneous voltage, constantly changing from zero to a peak and back.
+
+The multimeter wasn't lying; it was translating. It was taking that chaotic dance and telling me what DC voltage would deliver the same power. It was a beautiful, practical lesson in seeing beyond the surface reading. In a world that often feels as volatile as that sine wave, it taught me the value of tools—and people—that help us find the steady, meaningful signal in the noise.

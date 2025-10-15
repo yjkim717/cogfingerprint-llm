@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Abstract: Recent advancements in Loop Quantum Gravity have led to the emergence of regular black holes, characterized by a resolved singularity and a well-defined causal structure. By leveraging the principles of quantum geometry, this framework provides a novel understanding of black hole interiors, replacing the classical singularity with a quantum bounce. Our analysis highlights the implications of this paradigm shift for our understanding of spacetime, emphasizing the role of quantum effects in shaping the geometry of black holes. This development has significant implications for the study of black hole physics and the broader field of quantum gravity research, 2023."

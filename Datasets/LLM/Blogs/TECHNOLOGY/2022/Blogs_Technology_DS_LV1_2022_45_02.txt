@@ -1,0 +1,1 @@
+It’s 2022, and I’m deep in Rust code, wrestling with WebAssembly IR. String concatenation for opcodes feels fragile—like building a house of cards. I dream of a library where structured DSLs, maybe with pest.rs, let me craft IR safely. It’s not just about avoiding bugs; it’s about writing code that tells a clear, confident story.

@@ -1,0 +1,1 @@
+I was debugging a stubborn regex in JavaScript today—anchors at both ends, yet it refused to trim those spaces. It’s funny how code can mirror life: sometimes, we’re so focused on the boundaries that we miss the subtle gaps in between. A gentle reminder to look closer at what’s truly holding things together.

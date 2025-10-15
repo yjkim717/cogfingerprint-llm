@@ -1,0 +1,5 @@
+Year: 2021
+Author: vortexmak
+URL: https://www.reddit.com/r/linuxquestions/comments/q135qc/which_filesystem_for_document_and_media_storage/
+
+I use Linux Mint and I'm splitting up my storage into a fast NVMe and a 2TB SATA SSD for File storage. Till now I've been using NTFS which is very slow on Linux. So I want to switch to a different file system and I'm looking for the following \- High performance ( highest priority)- Built in error checking- Compatible with windows for dual booting (lowest priority) Any recommendations? Edit: Did some more research 1. Windows can mount Linux filesystems (natively supported by kernel) in WSL 2. This link says btrfs is slow on writes. Jim Salter from ArsTechnica also has a problem with btrfs

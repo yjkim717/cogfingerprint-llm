@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The TikTok SRE Question – Is the Dream Worth the Grind?**
+
+It’s funny what’s swirling around in my head lately. I saw a post about a candidate seriously considering a role at TikTok as an SRE, genuinely worried about the rumored work-life balance. It hit a nerve. We all chase that tech dream, right? But 2022 felt like a reckoning – a realization that “always-on” wasn’t sustainable.  Is pushing for innovation really worth sacrificing everything else?  What’s *your* line in the sand? #SRE #WorkLifeBalance #TechCareers

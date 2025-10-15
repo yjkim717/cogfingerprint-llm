@@ -1,0 +1,23 @@
+Okay, here's a blog post draft based on your provided keywords and summary, aiming for a reflective, conversational tone and a 2020 context. I've focused on the frustration of platform limitations and the consideration of alternatives, reflecting a common sentiment during that period of rapid online growth.  I've also included a suggested title.
+
+**Title: When Your Platform Feels a Little… Small**
+
+Remember 2020? Everything felt like it was shifting online, *fast*. My little ecommerce shop was no exception. We were seeing amazing growth, which was fantastic, but also brought a new set of headaches. Specifically, currency.
+
+We’d built pretty much everything on Shopify. It was easy, it was popular, it *felt* like the right choice. But as our customer base expanded beyond the US, a glaring limitation became obvious: Shopify’s checkout didn't natively support multicurrency. 
+
+Seriously frustrating. Seeing those abandoned carts pile up, knowing price discrepancies were likely a huge factor… it got me thinking. Was Shopify still the *best* choice? We started seriously looking at WooCommerce again, remembering the flexibility it offered. It felt a bit like going back to basics, but the potential for a truly global checkout was incredibly tempting.
+
+It’s a reminder, isn't it? Even the seemingly obvious choices need revisiting. Technology evolves, and sometimes, the platform you started with just doesn't quite keep up.  The search for the right fit – it’s a constant journey.
+---
+
+**Notes on this draft:**
+
+*   **Conversational Tone:** I've used phrases like "Remember 2020?" and "Seriously frustrating" to create a more relatable feel.
+*   **Reflective:** The post focuses on the *feeling* of frustration and the process of re-evaluating a decision.
+*   **Storytelling:** It presents a narrative of growth, a problem, and a potential solution.
+*   **2020 Context:** The opening line explicitly grounds the post in that year's rapid shift to online commerce.
+
+
+
+I hope this meets your expectations! Let me know if you'd like any revisions or adjustments.

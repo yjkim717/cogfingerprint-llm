@@ -1,0 +1,9 @@
+Of course. Here is an original academic abstract inspired by the provided summary, contextualized for the year 2021.
+
+***
+
+**Probing the Heterogeneous Nucleation of Amorphous Ices on Refractory Grains via Cryo-Transmission Electron Microscopy**
+
+**Abstract**
+
+The prevailing models of interstellar ice mantle formation often assume the deposition of homogeneous, amorphous solid water (ASW) layers onto refractory grain surfaces. This study challenges this paradigm by systematically investigating the nucleation and growth of vapor-deposited ices on a range of astrophysically relevant substrates, including amorphous silicates, carbonaceous materials, and crystalline forsterite. Utilizing state-of-the-art cryo-transmission electron microscopy (cryo-TEM), we directly visualize the microstructural evolution of icy films at conditions analogous to dark molecular clouds (10–50 K, ultra-high vacuum). Our results demonstrate a profound substrate-dependence, where the resulting ice morphology—ranging from a microporous amorphous network to a semi-crystalline, dendritic structure—is dictated by the chemical composition and surface topology of the underlying refractory grain. We correlate these distinct morphologies with differences in the ice’s porosity, surface area, and potential for chemical reactivity. These findings necessitate a revision of grain-surface astrochemical models, as the heterogeneous nature of ice mantles revealed herein directly influences gas-grain interactions, molecular hydrogen formation, and the trapping of volatile species in protoplanetary environments.

@@ -1,0 +1,3 @@
+"Unraveling the Mystery of NumPy's Eig Function"
+
+As I delved into machine learning in 2022, I stumbled upon a puzzling issue with NumPy's eig function. It returned eigenvalues and eigenvectors for a given matrix without any transformation. I was confused - shouldn't there be some preprocessing involved? Upon further exploration, I discovered that NumPy's eig function directly computes eigenvalues and eigenvectors for square matrices. This experience taught me the importance of understanding the underlying linear algebra concepts, rather than just relying on library functions. It was a valuable lesson in the nuances of machine learning.

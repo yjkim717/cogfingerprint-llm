@@ -1,0 +1,5 @@
+>## Rethinking Virtual Desktops: A Pleasant Surprise
+
+Okay, I’ll admit, I approached the Horizon renewal this year with a fair bit of trepidation. We've been clinging to perpetual licenses for ages, and the thought of migrating to a subscription model always felt… daunting, and expensive. But I’m genuinely surprised. 
+
+The shift to a SaaS subscription for Horizon has actually been incredibly refreshing. Not only is the pricing surprisingly manageable compared to the old perpetual model, but the included features and ongoing support have been a genuine boost to our team’s productivity. It just goes to show, sometimes embracing change, even in the world of vSphere and vCenter, can lead to a very pleasant surprise.

@@ -1,0 +1,5 @@
+Year: 2024
+Author: vortexmak
+URL: https://www.reddit.com/r/linuxquestions/comments/1chzzra/does_it_make_sense_to_set_up_an_nvme_ssd_as_a/
+
+Is it worth it to use an nvMe SSD as a cache for a SATA SSD. Something like Intel RapidStorage or bcache? Most of my personal files are on a SATA SSD but those files are small-ish. My other use case is editing large videos from an external drive but I could just copy them over to my nVMe. Does it make sense to do it? What about a RAM cache? (tmpfs ?)

@@ -1,0 +1,4 @@
+Title: Unveiling the Quantum Efficiency of Rhodopsin through Quantum-Classical Simulations
+
+Abstract:
+Recent quantum-classical simulations have elucidated the excited-state dynamics of rhodopsin, a protein crucial for visual perception. Our 2022 study reveals that the ultrafast dynamics lead to a bifurcation of the excited-state population, significantly influencing the protein's quantum efficiency. Protein electrostatics play a pivotal role in modulating this process. Our findings demonstrate that subtle variations in the electrostatic environment can substantially impact the quantum yield, underscoring the intricate interplay between protein structure and photoreactivity. This research advances our understanding of rhodopsin's photophysical properties, shedding light on the molecular mechanisms governing visual transduction.

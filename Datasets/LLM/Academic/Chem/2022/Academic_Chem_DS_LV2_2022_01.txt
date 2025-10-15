@@ -1,0 +1,5 @@
+**Abstract**
+
+The mobility of hydroxyl (OH) radicals on water-ice surfaces is a critical, yet poorly constrained, parameter governing the kinetics of solid-state astrochemical reactions in dense interstellar clouds. This study presents an experimental determination of the activation energy (Eₐ) for the surface diffusion of OH radicals on amorphous solid water (ASW) at astrophysically relevant temperatures. Through a controlled experimental methodology, we quantified an Eₐ of 0.14 ± 0.02 eV. This relatively low energy barrier implies that significant OH diffusion, and thus subsequent hydrogenation and radical-radical reactions, becomes thermally activated at approximately 36 K. This finding provides a fundamental kinetic parameter for astrochemical models, resolving a key uncertainty. It demonstrates that complex organic molecule formation involving OH can proceed efficiently in warmer regions of protostellar envelopes and within ice mantles upon mild warming, significantly impacting our understanding of molecular synthesis pathways in star-forming regions.
+
+(149 words)

@@ -1,0 +1,5 @@
+Here's an original academic abstract inspired by the provided summary, suitable for a 2022 publication in a chemistry journal:
+
+**Abstract**
+
+The investigation of hydroxyl radical (OH•) diffusion mechanisms on water ice remains crucial for understanding surface chemistry relevant to planetary science and astrobiology. This work presents experimental determination of the activation energy governing OH• diffusion across water ice surfaces, utilizing photostimulated desorption (PSD) spectroscopy.  PSD was employed to monitor the desorptive behavior of ice samples following pulsed UV irradiation, allowing for the quantification of OH• species originating from subsurface diffusion. Analysis of the desorption kinetics revealed a distinct activation energy of 0.14 ± 0.02 eV. This value suggests a thermally-limited diffusion process, indicating that vibrational energy is a significant factor in facilitating OH• transport.  Further research will focus on exploring the influence of ice morphology and grain size on this diffusion pathway and its implications for radical survival and reactivity within icy environments.

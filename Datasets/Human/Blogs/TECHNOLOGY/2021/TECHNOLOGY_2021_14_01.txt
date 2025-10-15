@@ -1,0 +1,5 @@
+Year: 2021
+Author: FrankieB86
+URL: https://www.reddit.com/r/widescreengamingforum/comments/rioqye/how_does_one_convert_their_own_hex_values_for/
+
+From my understanding, a hex value is converted by dividing width by height, but I suspect I'm missing something. Currently I'm trying to convert a hex from 7680x4320, but it has the same division as 3840x2160. While I would appreciate a hex for 7680x4320, really what my goal is to learn how to convert any resolution into hex since I work a lot with custom resolutions.

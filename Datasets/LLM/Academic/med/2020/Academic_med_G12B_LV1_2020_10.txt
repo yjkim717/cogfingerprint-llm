@@ -1,0 +1,22 @@
+>Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal academic style suitable for a medical journal and contextualized to a 2020 timeframe. I've aimed for precision and a structured logical flow.  I've also included a few notes at the bottom regarding potential journal suitability and further refinements.
+
+---
+
+**Integrating Radiomic Features, Clinical Data, and Cell-Free DNA Analysis for Enhanced Prognostic Stratification and Survival Prediction in Newly Diagnosed Glioblastoma**
+
+**Abstract**
+
+Glioblastoma (GBM), a grade IV astrocytoma, remains a devastating malignancy with limited therapeutic efficacy and a dismal prognosis. Current prognostic tools, relying primarily on clinical factors and conventional neuroimaging, often fail to accurately predict individual patient outcomes and guide optimal treatment strategies. This prospective study investigated the potential of integrating advanced radiomic analysis of pre-operative magnetic resonance imaging (MRI) with established clinical variables and circulating tumor DNA (ctDNA) analysis to improve survival prediction and refine patient stratification in a cohort of newly diagnosed GBM patients.
+
+Between January 2015 and December 2018, 120 patients with confirmed GBM undergoing surgical resection and adjuvant therapy were enrolled. Radiomic features, extracted from T1-weighted, T2-weighted, and FLAIR MRI sequences, encompassed textural and shape characteristics reflecting tumor heterogeneity.  Clinical variables included age, Karnofsky Performance Status (KPS), extent of resection (EOR), and MGMT promoter methylation status.  Plasma samples were collected pre-operatively and analyzed for the presence of tumor-derived cell-free DNA (cfDNA) using droplet digital PCR (ddPCR) targeting EGFR mutation hotspots.
+
+Univariate and multivariate analyses were performed to assess the prognostic value of each variable, and to develop a combined predictive model.  A radiomic signature, incorporating the most significant imaging biomarkers, was combined with clinical data and cfDNA burden (measured as copies/mL) within a Cox proportional hazards model.  The resulting integrated model demonstrated significantly improved C-index (0.82, 95% CI: 0.76-0.88) compared to models utilizing clinical factors alone (C-index = 0.68, p < 0.001) or radiomics alone (C-index = 0.74, p = 0.01).  Furthermore, the integrated model enabled improved risk stratification, with distinct survival curves observed for patients categorized as low-, intermediate-, and high-risk.  Specifically, patients classified as high-risk based on the integrated model exhibited significantly shorter median overall survival (MOS) compared to those classified as low-risk (8.2 months vs. 16.5 months, p < 0.005).
+
+These findings suggest that the integration of radiomic features, clinical parameters, and cfDNA analysis represents a promising strategy for more accurate prognosis and refined patient stratification in GBM, potentially facilitating personalized therapeutic approaches. Further validation in larger, multi-center cohorts is warranted.
+
+---
+
+**Notes & Potential Refinements:**
+
+*   **Journal Suitability:** This abstract would be appropriate for journals specializing in neuro-oncology, medical imaging, or precision medicine, such as *Neuro-Oncology*, *Radiology*, *Clinical Cancer Research*, or *JAMA Oncology*.
+*   **Specificity:** The

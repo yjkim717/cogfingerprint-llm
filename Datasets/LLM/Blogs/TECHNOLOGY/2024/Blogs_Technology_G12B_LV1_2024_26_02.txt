@@ -1,0 +1,7 @@
+## The Little GPU That Could (and Still Does!)
+
+It's funny the things that stick with you. I've been slowly downsizing my tech setup, moving towards a more minimalist lifestyle. Part of that involved parting with a few components I just weren't using anymore. Recently, that meant selling my old RX 5600.
+
+I remember buying it back in '21, specifically for a tiny ITX build I was attempting. It was a bit of a gamble – squeezing that card into such a small case was tight, but it performed surprisingly well. Those extra stream processors really made a difference back then. 
+
+It felt a little bittersweet listing it online, especially dealing with the quirks of PayPal. But seeing it go to someone who needed it, who'd actually *use* it, was a good feeling. Tech moves fast, but sometimes, the older workhorses still have a lot left to give. It’s a reminder that value isn't always about the newest model.

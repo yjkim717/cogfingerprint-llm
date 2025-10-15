@@ -1,0 +1,36 @@
+Author: C. Vafa
+Title: Bounds on field range for slowly varying positive potentials
+Paper ID: 13cace27465c29ca7073f2a14dea8647e824c7eb
+Year: 2023
+Author Index: 4
+
+Abstract:
+Abstract
+ In the context of quantum gravitational systems, we place bounds on regions in field space with slowly varying positive potentials. Using the fact that $$ V<{\Lambda}_s^2 $$
+ V
+ <
+ 
+ Λ
+ s
+ 2
+ 
+ , where Λs(ϕ) is the species scale, and the emergent string conjecture, we show this places a bound on the maximum diameter of such regions in field space: ∆ϕ ≤ a log(1/V) + b in Planck units, where a ≤ $$ \sqrt{\left(d-1\right)\left(d-2\right)} $$
+ 
+ 
+ 
+ 
+ d
+ −
+ 1
+ 
+ 
+ 
+ 
+ d
+ −
+ 2
+ 
+ 
+ 
+ 
+ , and b is an 𝒪(1) number and expected to be negative. The coefficient of the logarithmic term has previously been derived using TCC, providing further confirmation. For type II string flux compactifications on Calabi-Yau threefolds, using the recent results on the moduli dependence of the species scale, we can check the above relation and determine the constant b, which we verify is 𝒪(1) and negative in all the examples we studied.

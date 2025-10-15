@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract, contextualized for 2022, based on the provided summary.
+
+***
+
+**Abstract**
+
+The spatial organization of immune cells within the tumor microenvironment is a critical determinant of anti-tumor immunity and patient response to immunotherapy. While the Immunoscore has established the prognostic value of cytotoxic lymphocyte density, it lacks the spatial resolution to decipher complex cellular interactions. To address this, we developed SpatialVizScore, a novel computational framework that leverages high-plex imaging mass cytometry (IMC) data to quantitatively map immune infiltration architectures. Our method integrates single-cell phenotyping with spatial statistics to generate a quantitative score that classifies lung tumors into distinct, clinically relevant immune states—such as "immune-excluded," "immune-inflamed," and "immune-desert"—based on the spatial distribution and co-localization of immune and tumor cells. Validation on a retrospective cohort of non-small cell lung carcinoma (NSCLC) samples demonstrated that SpatialVizScore provides superior stratification of patient outcomes compared to density-based metrics alone. This tool offers a powerful, standardized approach for in-depth spatial phenotyping, with significant implications for prognostication and the identification of patients who may benefit from specific immunotherapeutic strategies.

@@ -1,0 +1,5 @@
+Year: 2023
+Author: leung19
+URL: https://www.reddit.com/r/XboxRetailHomebrew/comments/16zpcs4/help_question_about_changing_size_and_maybe/
+
+So I did the Dev mod and emulator thing a few years ago. As I recall I needed to use some of the the hard drive space on my Xbox Series S. Since now I can install all games and emulators on the USB, what is the correct way to relocate my hard drive space back to my Series S? Do I need to format/ factory reset my Xbox and start from the beginning?

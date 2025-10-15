@@ -1,0 +1,1 @@
+It’s funny how a piece of hardware can tell a story. I picked up this MSI MEG Ace X570 last year, determined to master GPU passthrough on Linux. After wrestling with drivers and even swapping out the WiFi antenna, it finally worked—flawlessly. But now, with new projects calling, it’s time to pass it on. Sometimes, the journey matters more than the destination.

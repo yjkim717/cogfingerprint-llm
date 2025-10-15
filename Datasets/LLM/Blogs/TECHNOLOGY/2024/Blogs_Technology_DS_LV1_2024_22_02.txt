@@ -1,0 +1,1 @@
+Sometimes the best way forward is a clean slate. After wrestling with my Rubrik cluster config, I finally hit the factory reset on that stubborn node. It felt like a tech-induced rebirth—a reminder that in 2024, even complex systems sometimes need to start over to find their true path.

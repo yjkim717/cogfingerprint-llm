@@ -1,0 +1,5 @@
+Year: 2024
+Author: LurkingLikeaPro
+URL: https://www.reddit.com/r/LookerStudio/comments/1ft5xpx/drilling_down_in_a_chart/
+
+I'm looking to drill down into a chart and show the same data in a different format. Essentially, what I'd like is to be able to start at a line graph that shows our overall monthly revenue to a bar graph that shows revenue from each source. Is there a way to use the Drill Down to shift between those two views in the same chart? They are using the exact same source Line graph showing all revenue Breakdown by Client

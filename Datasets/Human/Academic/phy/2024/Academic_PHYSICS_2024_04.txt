@@ -1,0 +1,8 @@
+Author: C. Vafa
+Title: The Tale of Three Scales: the Planck, the Species, and the Black Hole Scales
+Paper ID: 1f3eb92ea5d4824b038ce83c9ae18d8434897140
+Year: 2024
+Author Index: 4
+
+Abstract:
+Quantum gravity (QG) has a natural cutoff given by the Planck scale $M_{\rm pl}$. However, it is known that the EFT of gravity can break down at a lower scale, the species scale $\Lambda_s\lesssim M_{\rm pl}$, if there are light species of particles. Here we point out that there is a third scale $\Lambda_{\rm BH}\lesssim \Lambda_s\lesssim M_{\rm pl}$, which marks the inverse length (or the temperature) of the smallest black hole where the EFT gives a correct description of its entropy and free energy. This latter scale is hard to detect from the viewpoint of EFT as it represents a phase transition to a state with lower free energy. We illustrate this using examples drawn from consistent QG landscape. In particular $\Lambda_{\rm BH}$ gets related to Gregory--Laflamme transition in the decompactification limits of quantum gravity and to the Horowitz--Polchinski solution in the light perturbative string limits. We propose the existence of $\Lambda_{\rm BH}$ marking the temperature at which neutral black holes undergo a phase transition, as a new Swampland condition for all consistent quantum theories of gravity. In the asymptotic regimes of field space $\Lambda_{\rm BH}$ is close to the mass scale of the lightest tower but deviates from it as we move inwards in the moduli space.

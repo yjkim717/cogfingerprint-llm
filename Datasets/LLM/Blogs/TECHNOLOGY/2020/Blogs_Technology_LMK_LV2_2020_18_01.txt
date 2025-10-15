@@ -1,0 +1,7 @@
+"Securing Your Digital Workspace: A Geo-Fencing Reality Check"
+
+As we navigated the uncharted waters of remote work in 2020, IT teams scrambled to keep company data safe. One question on many minds was: can we use geo-fencing with Office 365 to boost security? Specifically, those with E3 licenses wondered if they had the right tools to implement conditional access policies that restrict access based on location.
+
+The good news is that geo-fencing is indeed possible with Office 365, but it requires the right licensing - namely, Azure Active Directory Premium P1 licenses. By combining E3 licenses with P1, you can create a robust conditional access policy that ensures only authorized users and devices can access your organization's data from specific locations.
+
+For those still on the fence, take a closer look at your licensing and consider the benefits of geo-fencing. Your organization's digital security is worth it.

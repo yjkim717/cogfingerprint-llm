@@ -1,0 +1,4 @@
+Title: Refining Alzheimer's Disease Diagnosis: Amyloid-β CSF Cutoffs and Predictive Value
+
+Abstract:
+The diagnosis of Alzheimer's disease (AD) relies on the accurate measurement of amyloid-β in cerebrospinal fluid (CSF). This study (2020 data) employed a three-range method to establish CSF cutoffs, categorizing amyloid-β levels into normal, intermediate, and abnormal ranges. The predictive value of these cutoffs was assessed in relation to clinical progression. Results showed that patients within the intermediate range exhibited a significantly higher risk of AD progression, underscoring the biological construct of amyloid-β as a diagnostic biomarker. These findings inform the refinement of AD diagnosis and prognosis.

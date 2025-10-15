@@ -1,0 +1,5 @@
+It’s 2022, and I’m staring at my screen, wondering if that ICML workshop paper I poured my heart into is “done.” I mean, it’s out there—citable, discussed, part of the conversation. But is it a final publication, or just a stepping stone?
+
+In machine learning, the line feels blurry. Workshops are these vibrant spaces for raw, bold ideas. Yet, there’s this unspoken pressure to expand, polish, and aim for the main conference. It’s like showing someone a sketch and being asked, “But where’s the masterpiece?”
+
+Part of me wants to call it finished and move on to the next spark. Another wonders if holding back means missing a bigger opportunity. In this fast-paced field, when do we decide something is truly complete? Maybe the answer is as evolving as our algorithms.

@@ -1,0 +1,5 @@
+Title: Quantum Chemical Investigation of Carbon Accretion on Interstellar Ices: Formation of Methylamine via Ammonia-Carbon Interactions
+
+Abstract:
+
+The accretion of carbon atoms on interstellar ices is a crucial process influencing the chemical evolution of star-forming regions. Employing quantum chemical calculations at the CCSD(T)/aug-cc-pVTZ//M06-2X/aug-cc-pVTZ level, we investigate the interaction of carbon atoms with ammonia (NH3) on interstellar ice surfaces. Our results reveal that the reaction between C and NH3 leads to the formation of methylamine (CH3NH2) as a preferred product, via a barrierless pathway involving the initial formation of a H3C-NH2 intermediate. The computed reaction energetics and kinetics indicate that this process is feasible under interstellar conditions, providing a plausible mechanism for the observed presence of methylamine in molecular clouds. Our findings contribute to the understanding of the complex chemistry occurring on interstellar ices, shedding light on the role of carbon accretion in shaping the astrochemical landscape. (2024)

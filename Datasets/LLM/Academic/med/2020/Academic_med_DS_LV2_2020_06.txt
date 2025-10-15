@@ -1,0 +1,15 @@
+Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+**Background:** Male breast cancer (MBC) is a rare malignancy, accounting for less than 1% of all breast cancers and 1% of all cancers in men. Historically, its management has been extrapolated from evidence and clinical guidelines established for female breast cancer (FBC), given the scarcity of prospective randomized trials specific to the male population. This reliance underscores a critical need to evaluate the applicability of established FBC protocols to the distinct biological and clinical characteristics of MBC.
+
+**Objective:** This review synthesizes the 2020 American Society of Clinical Oncology (ASCO) guidelines and contemporary evidence to delineate a standardized approach for the management of MBC, with a specific focus on the roles of endocrine therapy, genetic testing, and surveillance imaging.
+
+**Methods:** A systematic analysis of the 2020 ASCO guideline update on the management of MBC was conducted, supplemented by a literature review of peer-reviewed publications from 2015-2020 addressing therapeutic and diagnostic strategies in MBC.
+
+**Results:** The 2020 ASCO guidelines affirm that the cornerstone of systemic treatment for hormone receptor-positive MBC, which constitutes over 90% of cases, is adjuvant endocrine therapy. Tamoxifen for a duration of five years remains the established standard. The guidelines strongly recommend germline genetic testing for *BRCA1/2* mutations for all men diagnosed with breast cancer, given the significantly higher prevalence of pathogenic variants compared to the female population. For surveillance, annual mammography of the contralateral breast is advised, while routine imaging of the conserved ipsilateral chest wall is not recommended due to a lack of supporting evidence. These recommendations highlight both the convergence with FBC management principles and critical divergences, particularly in genetic predisposition and specific surveillance protocols.
+
+**Conclusion:** The contemporary management of MBC, as per 2020 standards, integrates targeted endocrine therapy, universal genetic assessment, and evidence-based imaging, forming a multidisciplinary framework that acknowledges both shared and unique aspects of the disease compared to its female counterpart.

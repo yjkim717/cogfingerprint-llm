@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, written in the style of a 2021 publication:
+
+**Abstract**
+
+This study reports the synthesis and characterization of three novel fluorescent metal-organic frameworks (MOFs), designated DUT-140(M), structurally analogous to DUT-49, exhibiting remarkable properties of pressure amplification and negative gas adsorption within their highly porous architectures. A detailed spectroscopic and computational investigation was conducted, with a particular focus on DUT-140(Cu). Results reveal unique light absorption characteristics correlated with the framework’s structural features. These findings highlight the potential of DUT-140 MOFs for applications requiring gas separation, sensing, and optical functionalities. The observed pressure amplification and negative adsorption behavior further underscore the material’s capacity for enhanced performance in demanding conditions.

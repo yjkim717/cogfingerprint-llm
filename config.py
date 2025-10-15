@@ -3,7 +3,7 @@ import os
 
 # === LLM SETTINGS ===
 LLM_PROVIDER = "deepseek"
-LLM_MODEL = "deepseek-chat"      # ✅ 가장 저렴하고 빠른 버전
+LLM_MODEL = "deepseek-chat"      # 가장 저렴하고 빠른 버전
 LLM_TEMPERATURE = 0.7
 MAX_TOKENS = 1500
 
@@ -24,7 +24,7 @@ GENRE_STRUCTURE = {
     },
     "Blogs": {
         "path": "Blogs",
-        "subfields": ["Twitter", "BlueSkys", "TruthSocialMedia"]
+        "subfields": ["LIFESTYLE", "SOCIAL", "SPORT", "TECHNOLOGY"]
     },
     "News": {
         "path": "News",

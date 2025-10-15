@@ -1,0 +1,3 @@
+Here's a formal academic-style abstract:
+
+"In this study (2024), we investigate the decoherence effects of a quantum system induced by a black hole. By examining the black hole's influence on the quantum system at finite temperature, we demonstrate that the decoherence effect is consistent with established theories regarding quantum black holes and ordinary matter. Our findings provide further insight into the interplay between quantum mechanics and gravitational physics."

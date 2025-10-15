@@ -1,0 +1,8 @@
+
+## Abstract: Low-Temperature Formyl and Methyl Radical Formation via Carbon Monoxide Hydrogenation within Amorphous Solid Water
+
+The potential for organic molecule synthesis in icy grain mantles within interstellar molecular clouds remains a key area of astrochemical investigation. While laboratory simulations of these environments often utilize well-ordered ice analogs, the more prevalent amorphous solid water (ASW) phase presents a distinct reactive environment. This work explores the hydrogenation of carbon monoxide (CO) within ASW at astrophysically relevant temperatures, specifically focusing on the formation of formaldehyde (H₂CO) and methanol (CH₃OH). Utilizing temperature-programmed desorption (TPD) and infrared spectroscopy, we demonstrate that significant CO hydrogenation occurs within ASW even at temperatures as low as 70 K. The observed reaction rates, coupled with the morphological characteristics of ASW, suggest that diffusive hydrogen transport, facilitated by the inherent micro-crack network within the amorphous structure, is the dominant mechanism enabling this reaction. The efficiency of this process indicates that ASW provides a surprisingly active medium for low-temperature chemistry, potentially contributing considerably to the observed abundance of oxygen-bearing molecules in star-forming regions.  Further investigation into the role of varying ASW density and the influence of irradiation on crack formation is warranted to fully elucidate the impact of this pathway on interstellar organic chemistry.
+
+
+
+**Keywords:** Hydrogenation Reactions, Carbon Monoxide, Amorphous Solid Water, Diffusive Hydrogen, Ice Mantle, Astrochemistry, Infrared Spectroscopy, Temperature-Programmed Desorption.

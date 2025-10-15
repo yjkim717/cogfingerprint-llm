@@ -1,0 +1,5 @@
+Title: Conformal Freeze-in Dark Matter via the Neutrino Portal: A Novel Dark Sector Paradigm
+
+Abstract:
+
+We propose a novel dark sector paradigm, wherein a conformal field theory (CFT) governs the dynamics of dark matter (DM) production via the neutrino portal. The CFT, being conformally invariant, exhibits a unique scaling behavior, which facilitates the conformal freeze-in mechanism. This mechanism enables the production of DM through feeble interactions with the Standard Model (SM) neutrinos, thereby evading direct detection constraints. We demonstrate that the conformal freeze-in process yields the observed DM relic abundance for a wide range of model parameters. The CFT dark sector, being secluded from the SM, remains a viable alternative to traditional WIMP scenarios. Our analysis provides a new avenue for exploring the dark sector, with potential implications for neutrino physics and the cosmological evolution of the universe. The proposed framework offers a compelling narrative for the origin of DM, warranting further investigation in the context of contemporary cosmological and particle physics experiments. (2024)

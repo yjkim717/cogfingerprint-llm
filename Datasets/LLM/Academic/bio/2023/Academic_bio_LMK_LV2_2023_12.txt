@@ -1,0 +1,4 @@
+Title: A Unified Mathematical Framework for Stochastic Systems Biology: Integrating Single-Cell Genomics and RNA Quantification
+
+Abstract:
+We present a novel mathematical framework for analyzing single-cell genomics data, explicitly accounting for both biological stochasticity and technical variation. Leveraging generating functions, our approach provides a unified platform for modeling and inference, enabling accurate RNA quantification and interpretation of cellular heterogeneity. By integrating stochastic systems biology principles with single-cell genomics, our framework offers a robust and scalable solution for understanding complex biological systems, facilitating insights into cellular behavior and regulatory mechanisms. (2023)

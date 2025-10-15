@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+"Enhancing Low-Level Vision Tasks with Copy-Blend Data Augmentation"
+
+Abstract:
+In 2021, the proliferation of deep learning models for low-level vision tasks necessitates effective data augmentation strategies. This study investigates the efficacy of the copy-blend technique for augmenting training datasets. By applying copy-blend data augmentation, we demonstrate a significant improvement in model performance on image enhancement tasks, while concurrently reducing the requisite training dataset size. Our results show that this approach enhances perceptual quality, underscoring the potential of copy-blend data augmentation to mitigate data scarcity limitations in low-level vision tasks, thereby advancing the field of computer vision.

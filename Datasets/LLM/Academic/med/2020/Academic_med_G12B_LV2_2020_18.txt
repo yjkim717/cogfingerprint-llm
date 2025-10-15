@@ -1,0 +1,5 @@
+Here's a formal academic-style abstract, suitable for a medical research context, based on your provided keywords and summary, and reflecting a 2020 timeframe:
+
+**Abstract**
+
+The management of recurrent or stage IV breast cancer presents a complex clinical challenge. This review synthesizes the National Comprehensive Cancer Network (NCCN) guidelines, as updated through 2020, focusing on the critical role of comprehensive tumor characterization in guiding systemic therapy selection.  Emphasis is placed on the re-evaluation of hormone receptor (HR) status and human epidermal growth factor receptor 2 (HER2) status, recognizing potential alterations in metastatic disease.  The abstract outlines the algorithmic approach to treatment decisions, considering factors such as disease burden, performance status, and prior therapies, with a focus on targeted therapies and immunotherapies increasingly integrated into the treatment landscape.  Adherence to these guidelines is paramount to optimize patient outcomes in advanced breast cancer.

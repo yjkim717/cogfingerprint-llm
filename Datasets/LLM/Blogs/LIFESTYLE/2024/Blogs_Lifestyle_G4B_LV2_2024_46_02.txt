@@ -1,0 +1,11 @@
+Okay, here’s a blog post draft based on your summary and the requested tone/style:
+
+---
+
+**The Sticky Situation & My Little Maker Mess**
+
+Okay, real talk – 2024 has been a year of… well, *attempts*. I’ve been diving headfirst into 3D printing, mostly fueled by a desire to make custom jigs and tools for my workshop. It started with a simple dowel pin project, a really basic calibration exercise. But then, the dreaded g28z issue popped up. 
+
+Basically, I was getting this weird, stubborn filament build-up on my Z-axis. It was like the printer was just *leaving* a trail of plastic. Frustrating, right?  I spent ages trying to clean it, and it felt like a tiny, plastic-y defeat. 
+
+It got me thinking about how we all get stuck in those frustrating loops in life, don't we? Small problems that seem huge when you're wrestling with them.  I ended up designing a custom nozzle cleaning system – a little maker solution to a small problem. It’s a reminder that sometimes, the best fix is a bit of hands-on tinkering and a whole lot of patience.  What’s *your* little maker mess this week?

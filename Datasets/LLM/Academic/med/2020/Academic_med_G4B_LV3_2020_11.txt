@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords:
+
+**Abstract**
+
+The emergence of COVID-19 in 2020 necessitated rapid adaptation within radiology departments globally. This study presents a preliminary report from the Iranian Society of Radiology’s COVID-19 Consultant Group, detailing their initial experience in interpreting and managing medical imaging findings suggestive of SARS-CoV-2 infection.  The ISRCC’s work focused on establishing standardized imaging protocols and diagnostic criteria to facilitate timely identification of pulmonary involvement.  Specifically, the group addressed challenges related to image interpretation variability and resource constraints within the Iranian healthcare system.  These preliminary findings underscore the crucial role of specialized radiology consultation in optimizing diagnostic workflows and informing clinical management strategies during the acute phase of the pandemic.

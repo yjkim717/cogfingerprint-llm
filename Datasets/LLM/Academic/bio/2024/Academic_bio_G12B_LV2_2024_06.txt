@@ -1,0 +1,7 @@
+)
+## Enhanced Oxygen Evolution Activity in Cobalt-Doped Strontium Iridate (SrIrO₃) for Electrochemical Water Splitting
+
+The oxygen evolution reaction (OER) remains a critical bottleneck in efficient electrochemical water splitting, necessitating the development of robust and active electrocatalysts. This study investigates the impact of cobalt-doping on the OER performance of strontium iridate (SrIrO₃), a promising perovskite oxide material. Results demonstrate that introducing cobalt into the SrIrO₃ lattice significantly enhances its catalytic activity for OER. We propose that cobalt-doping facilitates this improvement through a dual mechanism: (1) activation of surface lattice oxygen, promoting its facile release during the OER process, and (2) optimization of binding energies for key OER intermediates, including *cis*-HO and OOH species. Operando X-ray absorption spectroscopy and density functional theory calculations corroborate these findings, revealing alterations in the Ir 4f electronic structure and a modulated adsorption landscape upon cobalt incorporation. This work provides a pathway for rational catalyst design, highlighting the potential of transition metal doping to tune the OER activity of perovskite oxides and contribute to the advancement of sustainable hydrogen production technologies.
+
+
+

@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for 2021.
+
+***
+
+**Abstract**
+
+In low-level vision tasks such as image restoration and enhancement, the performance of deep learning models is often bottlenecked by the scale and diversity of available training data. While conventional data augmentation techniques like rotation and flipping introduce geometric variance, they fail to expand the textural and structural complexity of the dataset. This paper investigates a novel region-based augmentation strategy, termed **Perceptual Copy-Blend Augmentation**, which systematically transplants and blends semantically coherent patches within and across training images. Our method operates by extracting a source region, applying a suite of perceptual filters to ensure boundary coherence, and seamlessly compositing it onto a target location. Extensive experiments on benchmark datasets for super-resolution, denoising, and inpainting demonstrate that models trained with our approach achieve superior performance—measured by both PSNR and SSIM metrics—compared to those using traditional augmentations. Crucially, we show this Perceptual Copy-Blend paradigm enables comparable model accuracy using up to 40% less original training data, offering a computationally efficient pathway to enhanced robustness without architectural modifications to the underlying neural networks.

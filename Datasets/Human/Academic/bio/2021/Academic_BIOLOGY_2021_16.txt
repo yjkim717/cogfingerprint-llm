@@ -1,0 +1,8 @@
+Author: T. Nakazawa
+Title: Efficient genome editing with CRISPR/Cas9 in Pleurotus ostreatus
+Paper ID: 64aadf5002f35bbf54fddc1b61bd19a76c6b2382
+Year: 2021
+Author Index: 16
+
+Abstract:
+Pleurotus ostreatus is one of the most commercially produced edible mushrooms worldwide. Improved cultivated strains with more useful traits have been obtained using classical breeding, which is laborious and time-consuming. Here, we attempted efficient gene mutagenesis using plasmid-based CRISPR/Cas9 as the first step for non-genetically modified (non-GM) P. ostreatus generation. Plasmids harboring expression cassettes of Cas9 and different single guide RNAs targeting fcy1 and pyrG were individually transferred into fungal protoplasts of the PC9 strain, which generated some strains exhibiting resistance to 5-fluorocytosine and 5-fluoroorotic acid, respectively. Genomic PCR followed by sequencing revealed small insertions/deletions or insertion of a fragment from the plasmid at the target site in some of the drug-resistant strains. The results demonstrated efficient CRISPR/Cas9-assisted genome editing in P. ostreatus , which could contribute to the molecular breeding of non-GM cultivated strains in the future. Furthermore, a mutation in fcy1 via homology-directed repair using this CRISPR/Cas9 system was also efficiently introduced, which could be applied not only for precise gene disruption, but also for insertions leading to heterologous gene expression in this fungus.

@@ -1,0 +1,13 @@
+Title: Phosphorylated Tau Subgroups and Cerebrospinal Fluid Biomarkers: Implications for Alzheimer's Disease Pathophysiology
+
+Abstract:
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid-β plaques and neurofibrillary tangles composed of phosphorylated tau (p-tau) protein. Recent studies have identified distinct p-tau subgroups, which may reflect different underlying pathological processes. This study aimed to investigate the relationship between p-tau subgroups and cerebrospinal fluid (CSF) markers for amyloid production and synaptic integrity in AD.
+
+We analyzed CSF samples from 150 patients with AD, classified into three p-tau subgroups based on their phosphorylation patterns: p-tau group 1 (n = 50), characterized by high levels of p-tau181 and p-tau217; p-tau group 2 (n = 50), with elevated p-tau202 and p-tau205; and p-tau group 3 (n = 50), showing a mixed phosphorylation pattern. We measured CSF levels of amyloid-β precursor protein (APP), β-secretase 1 (BACE1), and neurogranin, a marker of synaptic integrity.
+
+Our results showed that p-tau group 1 was associated with increased CSF levels of APP and BACE1, suggesting enhanced amyloid production. In contrast, p-tau group 2 exhibited reduced neurogranin levels, indicating preserved synaptic integrity. P-tau group 3 displayed intermediate levels of APP, BACE1, and neurogranin, suggesting a mixed pathological profile.
+
+Multivariate regression analysis revealed that p-tau subgroup was a significant predictor of CSF biomarker levels, independent of age, sex, and APOE genotype. Specifically, p-tau group 1 was associated with higher APP and BACE1 levels, while p-tau group 2 was linked to lower neurogranin levels.
+
+Our findings suggest that p-tau subgroups in AD are related to distinct pathological processes, including amyloid production and synaptic integrity. The identification of these subgroups may have implications for the development of targeted therapeutic strategies and improved diagnosis. Furthermore, the use of CSF biomarkers may enable the monitoring of disease progression and treatment response in AD patients. Future studies should investigate the relationship between p-tau subgroups and clinical outcomes, as well as the underlying molecular mechanisms driving these distinct pathological profiles.

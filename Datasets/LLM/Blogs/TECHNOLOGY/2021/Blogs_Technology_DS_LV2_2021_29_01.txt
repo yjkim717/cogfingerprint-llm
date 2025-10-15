@@ -1,0 +1,5 @@
+It’s 2021, and I’ve been thinking a lot about how we name things in code. You know, like those moments when you’re staring at a typedef or a macro and wondering, "Why does this have to feel so clunky?" 
+
+I remember wrestling with C preprocessor macros just to make a simple alias—it was like trying to whisper in a crowded room. Then I stumbled upon the idea of type aliases in languages like C3, where you can define clean, readable names for types, variables, or functions without the preprocessor chaos. It felt like tidying up a messy desk and finally finding that one pen you’ve been missing.
+
+Sometimes, the smallest tweaks in language design can make coding feel more human, more intentional. And honestly, isn’t that what we’re all craving? A little more clarity in the noise.

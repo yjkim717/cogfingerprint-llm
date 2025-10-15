@@ -1,0 +1,13 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Ghost in the Machine: A Next.js SSR Mystery
+
+It was one of those late-2021 nights, the kind only a developer knows. The coffee was cold, and I was staring at a seemingly simple task: getting our dynamic meta tags to show up properly in social media previews. "Easy," I thought, "This is what Next.js and its server-side rendering are for."
+
+I’d done everything by the book. I wrapped our app in `getInitialProps` inside `_app.js`, carefully placing our `<Next/Head>` component right where it should be. In the browser, it looked perfect. But when I ran the links through a preview scraper, the result was a digital ghost town. The meta tags were nowhere to be found.
+
+The realization hit me like a ton of bricks. My beautifully crafted tags were only rendering on the *client-side*. The server was sending out a bare-bones HTML shell, and by the time the bots came crawling to create their preview cards, the crucial `og:image` and `description` were still just a twinkle in React’s eye.
+
+It was a humbling reminder that in the world of modern web frameworks, the abstractions are powerful, but they aren't magic. We can get so comfortable with the tools that we forget about the fundamental dance between server and client. That night, I wasn’t just fighting with code; I was relearning a core principle of the web. The solution, when I found it, was a different hook into Next.js's lifecycle, but the real fix was a shift in my own understanding. Sometimes, the most "modern" problems bring you right back to the basics.

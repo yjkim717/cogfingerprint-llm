@@ -1,0 +1,7 @@
+Here is a formal academic abstract based on the provided summary.
+
+***
+
+**Abstract**
+
+Understanding cellular metabolic heterogeneity within native tissue architecture is a fundamental challenge in biology. While single-cell RNA sequencing reveals transcriptional states, it lacks direct metabolic and spatial resolution. To address this, we developed scSpaMet, an integrative computational framework that couples high-resolution spatial metabolomics, acquired by MALDI imaging, with multiplexed protein profiling to deconvolve cell-type-specific metabolic states in situ. Applying scSpaMet to human tissues, we successfully mapped metabolic reprogramming across distinct cellular neighborhoods, revealing how local microenvironments influence metabolic phenotypes. Our analysis identified previously unappreciated metabolic dependencies in specific immune and stromal cell populations. This work establishes a robust methodology for tissue systems biology, demonstrating that direct integration of spatial molecular data is critical for elucidating the functional interplay between cellular identity, metabolic state, and tissue organization in both health and disease.

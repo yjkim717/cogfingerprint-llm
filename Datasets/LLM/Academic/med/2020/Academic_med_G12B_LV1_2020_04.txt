@@ -1,0 +1,10 @@
+)
+## Abstract: Contemporary Management of Recurrent and Stage IV Breast Cancer: A Focus on Biomarker-Driven Therapeutic Strategies
+
+**Objective:** The landscape of recurrent and stage IV breast cancer management has undergone significant evolution, necessitating a robust understanding of updated guidelines and biomarker-informed therapeutic approaches. This review synthesizes the National Comprehensive Cancer Network (NCCN) guidelines as of 2020, emphasizing the critical role of hormone receptor (HR) status and human epidermal growth factor receptor 2 (HER2) status in guiding treatment decisions. 
+
+**Methods:** A comprehensive analysis of the 2020 NCCN guidelines was performed, focusing on recommendations for initial assessment, systemic therapy selection, and supportive care in patients with recurrent or stage IV disease. 
+
+**Results:** The guidelines underscore the importance of comprehensive tumor characterization, including assessment of HR and HER2 status, alongside performance status and disease burden. Treatment algorithms prioritize targeted therapies based on these biomarkers, alongside chemotherapy and clinical trial enrollment.  The integration of endocrine therapy, HER2-targeted agents, and immunotherapy, where applicable, represents a shift towards personalized treatment strategies aimed at improving patient outcomes and quality of life. 
+
+**Conclusion:** Adherence to NCCN guidelines, incorporating biomarker assessment and tailored systemic therapies, remains paramount for optimized management of recurrent and stage IV breast cancer.

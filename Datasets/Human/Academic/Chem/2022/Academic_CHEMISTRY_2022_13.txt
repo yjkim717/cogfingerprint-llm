@@ -1,8 +1,8 @@
-Author: Sudripet Sharma
-Title: Sustainable and Bench‐Stable Photoactive Aqueous Nanoaggregates of Cu(II) for ppm Level Cu(I) Catalysis in Water
-Paper ID: 5aa03eef6970038f22ddde6b378b88207cb54fca
+Author: M. Tsuge
+Title: Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice
+Paper ID: 84a007c02ec88e3486239e021af5663d6fa5ff7b
 Year: 2022
 Author Index: 13
 
 Abstract:
-The nanomaterial containing amphiphile‐stabilized mononuclear Cu(II) is developed. The material is characterized by various spectroscopic techniques, such as X‐ray absorption spectrscopy (XAS), high‐resolution transmission electron microscopy, nuclear magnetic resonance (NMR), UV‐vis, and infrared spectroscopies. Since the structural data for the amphiphile‐bound Cu(II) center is not available, a theoretical model based on DFT calculations is employed. The analyses based on NMR spectroscopic data, including the isotope labeling, support that the tertiary amide group of the amphiphile binds to the Cu surface. Likewise, the bond distances found by XAS spectroscopy agree with the theoretical model. Time‐dependent DFT studies predict that the low‐lying excited state has a dominant ligand‐to‐metal charge transfer (LMCT) character. Cu(II) changes to Cu(I) assisted by the LMCT excitation upon visible light irradiation, generating robust catalytically active species. The catalytic activity for domino azidation‐[3+2] cycloaddition reactions in water is investigated. The catalytic protocol is applicable on various substrates, and the catalytic material is stable under ambient conditions for up to three months.
+Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of an interstellar ice analog were monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by the recombination of two OH radicals, which is rate-limited by thermal diffusion of OH. The activation energy for surface diffusion was experimentally determined for the first time to be 0.14 ± 0.01 eV, which is larger than or equivalent to those assumed in theoretical models. This value implies that the diffusive reaction of OH radicals starts to be activated at approximately 36 K on interstellar ice.

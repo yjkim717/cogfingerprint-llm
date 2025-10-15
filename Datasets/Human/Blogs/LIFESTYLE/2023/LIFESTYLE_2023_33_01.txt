@@ -1,0 +1,5 @@
+Year: 2023
+Author: dualitybyslipknot
+URL: https://www.reddit.com/r/cscareerquestions/comments/15n0rdx/does_anyone_know_where_or_how_to_access_resources/
+
+Hello, I have studied programming on and off for a long time and also work professionally with video. I would really love to learn about the intersection of these subjects and potentially pursue a career path that focuses on it. I use ffmpeg in my day to day and do freelance web dev type work in my spare time. I didn’t go to college and don’t think I will so getting a CS degree isn’t really an option (at least right now). I am not sure what direction to go in to combine these two skills of mine or how to learn! If anyone works in a video adjacent CS job, what is your job title? How did you learn the skills to get your job? What main languages/tools do you use?

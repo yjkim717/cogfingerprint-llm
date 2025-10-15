@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Validating High-Dimensional Generative Models for Galaxy Photometry through Quantile Comparison in Data Space
+
+Abstract:
+The validation of high-dimensional models remains a pressing challenge in astrophysical research, particularly in the context of generative models for galaxy photometry. This study presents a novel data-space validation method that leverages quantile comparison to assess the fidelity of high-dimensional models. By projecting the high-dimensional data onto a lower-dimensional subspace using dimensionality reduction techniques, we facilitate a robust comparison between observed and simulated quantiles. Our approach enables the quantification of discrepancies between the model and data distributions, providing a nuanced evaluation of the generative model's performance. Applied to a suite of galaxy photometry simulations, our method demonstrates its efficacy in identifying model shortcomings and informing model refinement. The results underscore the importance of data-space validation in the development of reliable generative models for astrophysical applications. (2024)

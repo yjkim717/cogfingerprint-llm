@@ -1,0 +1,5 @@
+Year: 2020
+Author: groutexpectations
+URL: https://www.reddit.com/r/Wordpress/comments/hvcwqs/plugin_or_feature_to_get_reminded_of_old_posts_on/
+
+Something I would like to recreate is the notifications that Facebook and Instagram give me to review a post that happened 1,2,or more years in the past on today's date. Is there a way to quickly see a preview of the current month and day from x years ago in the editor?

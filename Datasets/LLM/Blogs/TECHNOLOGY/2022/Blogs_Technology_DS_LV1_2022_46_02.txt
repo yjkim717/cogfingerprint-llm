@@ -1,0 +1,5 @@
+It’s funny how life circles back sometimes. Last year, my ex-wife reached out from her small town in Ireland, asking how she could possibly break into IT with no experience and even less cash. As a Windows systems engineer, I knew the path—but her situation was different. Remote, isolated, and on a tight budget, she couldn’t just enroll in a course or commute to an office.
+
+So we built a plan around self-study. Free resources became her classroom: Microsoft Learn, YouTube tutorials, and virtual labs. She started with the basics—Active Directory, PowerShell, networking fundamentals—and slowly gained confidence. I’d check in weekly, amazed at her progress.
+
+By mid-2022, she’d landed an entry-level remote support role. It wasn’t glamorous, but it was a start. And it reminded me that in this digital age, opportunity isn’t always about where you are—it’s about how stubborn you’re willing to be. Sometimes, the most meaningful tech journeys begin with nothing but a shaky internet connection and a whole lot of heart.

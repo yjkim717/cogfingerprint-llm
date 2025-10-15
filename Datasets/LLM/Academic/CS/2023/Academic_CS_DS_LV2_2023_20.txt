@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract in the field of Computer Science, based on the provided summary.
+
+***
+
+**Abstract**
+
+The analysis of high-dimensional neural population recordings presents a significant computational challenge, as traditional visualization methods often fail to reveal underlying structure. To address this, we introduce Rastermap, a novel visualization framework that organizes neural activity by projecting it onto a one-dimensional manifold. Our algorithm employs a graph-based sorting approach to order neurons and their temporal dynamics, effectively transforming complex, high-dimensional data into an intuitive, sequential representation. This one-dimensional embedding facilitates the identification of prominent features such as neural sequences, population bursts, and stimulus-driven responses that are otherwise obscured. We validate Rastermap's efficacy on several large-scale electrophysiology and calcium imaging datasets, demonstrating its superior capability to uncover latent patterns compared to existing dimensionality reduction techniques like PCA or t-SNE. By providing a computationally efficient and interpretable visualization, Rastermap serves as a critical tool for hypothesis generation and mechanistic insight in systems neuroscience.

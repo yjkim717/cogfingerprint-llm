@@ -1,0 +1,15 @@
+Here is a formal academic-style abstract based on the provided summary:
+
+Title: Re-Evaluation of Food Contact Materials: A Prioritisation Approach by the EFSA Panel
+
+Abstract:
+
+The European Food Safety Authority (EFSA) Panel on Food Contact Materials, Enzymes, and Processing Aids (CEP) has undertaken a comprehensive re-evaluation of substances used in food contact materials (FCMs) that lack a specific migration limit (SML) in Regulation (EU) No 10/2011. As of 2020, the EFSA has prioritised 284 substances for re-evaluation, employing a risk assessment framework that integrates hazard assessments and exposure considerations. This prioritisation is a critical step in ensuring the safety of FCMs, as it enables the EFSA to focus on substances that may pose a potential risk to human health.
+
+The EFSA's prioritisation approach involves a systematic evaluation of substances based on their potential to migrate into food and their toxicological properties. The Panel has considered various factors, including the available data on the substance's chemical structure, its intended use, and the potential for human exposure. By integrating these factors, the EFSA has identified substances that require further evaluation to determine their safety.
+
+The re-evaluation of FCM substances is a crucial aspect of the EFSA's risk assessment mandate, as it ensures that the most up-to-date scientific evidence is used to inform regulatory decisions. The prioritisation of 284 substances for re-evaluation represents a significant step forward in the EFSA's efforts to strengthen the safety of FCMs. By applying a structured and transparent approach to substance prioritisation, the EFSA is able to provide a robust scientific basis for regulatory actions, ultimately contributing to a higher level of protection for human health.
+
+This study highlights the EFSA's ongoing commitment to ensuring the safety of FCMs and demonstrates the importance of a science-based approach to risk assessment in this field. The findings of this research will inform future regulatory decisions and contribute to the ongoing development of a robust and effective risk assessment framework for FCMs.
+
+By employing a comprehensive and systematic approach to substance prioritisation, the EFSA is able to provide a robust scientific basis for regulatory decisions, ultimately contributing to a higher level of protection for human health. The re-evaluation of FCM substances is an essential step in maintaining the safety of the food chain and protecting public health.

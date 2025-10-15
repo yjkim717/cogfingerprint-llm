@@ -1,0 +1,5 @@
+Year: 2021
+Author: GullibleEngineer4
+URL: https://www.reddit.com/r/datasets/comments/qjx9h9/where_can_i_find_an_up_to_dataset_about_all_video/
+
+I am trying to find an up to dataset containing all games published on any platform with some information like poster image, genre and developer. It is more important for it to contain current titles than containing an exhaustive list of all past games.

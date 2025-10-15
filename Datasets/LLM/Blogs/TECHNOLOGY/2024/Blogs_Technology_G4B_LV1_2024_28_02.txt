@@ -1,0 +1,9 @@
+Okay, here’s a blog post draft inspired by the summary and aiming for a conversational tone and ~104 words, set in 2024:
+
+---
+
+**The Algorithm of Overwhelm (and How I’m Trying to Fix It)**
+
+Okay, real talk: as a CS major staring down a stats double major this fall, my schedule looks like a chaotic flowchart. Seriously, I’m pretty sure I need a dedicated color-coded spreadsheet just to *think* about it. It’s daunting, especially when you’re aiming for lower-division status and trying to actually, you know, *live*. 
+
+I'm realizing that sometimes the coolest tech – the complex algorithms – can feel overwhelming if you don’t break them down. Right now, my focus is on scheduling, and remembering that small wins are still wins. Wish me luck! #CSlife #StatsDoubleMajor #ScheduleStress

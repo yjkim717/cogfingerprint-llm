@@ -1,0 +1,9 @@
+
+Here's a formal academic-style abstract, suitable for a chemistry-related publication, based on the provided summary and adhering to your specifications:
+
+**Abstract**
+
+The chemical complexity of interstellar ices, particularly in dense molecular clouds, remains a critical area of astrochemistry research. Understanding the pathways leading to the formation of prebiotic molecules within these icy environments is paramount. This study investigates the incorporation of atomic carbon into ammonia (NH₃) within interstellar ices, a key process potentially contributing to the synthesis of nitrogen-bearing organic compounds. Utilizing high-level quantum chemical calculations, we explored the reaction pathways initiated by carbon accretion onto NH₃ at astrophysically relevant temperatures. Our findings demonstrate that the addition of a carbon atom preferentially leads to the formation of methylamine (CH₃NH₂) over the competing pathways yielding hydrogen cyanide (HCN) and its isomer, cyanogen (HNC). This preference for methylamine formation is attributed to favorable energetic considerations and reaction kinetics. These results suggest that carbon accretion onto ammonia could be a more significant route for methylamine production in interstellar ices than previously considered, impacting models of molecular evolution in star-forming regions. Further investigation into the subsequent hydrogenation and processing of methylamine is warranted to fully elucidate its role in prebiotic chemistry.
+
+
+

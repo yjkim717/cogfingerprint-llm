@@ -1,0 +1,5 @@
+Year: 2023
+Author: tonyboy101
+URL: https://www.reddit.com/r/homelab/comments/10wbrof/apc_ups_soldering_aluminum/
+
+I came across a YouTube video about diagnosing the electrical fault found in an APC UPS unit. At the end of the video, the transformer was found to be at fault because the transformer core was made of aluminum and someone attempted to crimp and solder copper wires to hide the aluminum core. I don't know if APC is sourcing bad transformers or if APC is manufacturing these transformers. Now I need to know how many units are potentially fire hazards and make people aware of this issue. You cannot solder aluminum to copper. It has to be a mechanical crimp, but that is clearly not being assembled correctly after watching the video.

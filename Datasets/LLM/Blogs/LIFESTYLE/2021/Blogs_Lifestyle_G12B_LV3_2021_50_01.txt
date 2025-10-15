@@ -1,0 +1,3 @@
+## The Unexpected Joy of Automating My Online Shopping Curiosity
+
+Remember endlessly clicking through websites, wondering *what* powers your favorite online stores? I did! Last year, I dove into automating that curiosity using Excel, BuiltWith, and a little scraping magic. It’s surprisingly satisfying – a tiny digital project that unlocked a whole new level of tech appreciation and a touch of nerdy joy.

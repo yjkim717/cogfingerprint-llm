@@ -1,0 +1,7 @@
+
+## Abstract: Scalable Quantum Interaction Kernel Computation via Multi-GPU Acceleration for Ab Initio Electronic Structure Calculations
+
+The computational cost of electron correlation, particularly within methods like Hartree-Fock (HF) and Density Functional Theory (DFT), represents a significant bottleneck in modern *ab initio* materials science and quantum chemistry. This work introduces a novel, highly parallel implementation of the Quantum Interaction Computational Kernel (QUICK) specifically designed for acceleration on multi-GPU architectures. Leveraging the inherent parallelism of the electron-electron interaction computation, we present a strategy that effectively distributes the Kohn-Sham matrix construction and subsequent operations across multiple NVIDIA GPUs.  Our implementation prioritizes data locality and minimizes inter-GPU communication to maximize efficiency. Performance benchmarks conducted on a range of NVIDIA platforms demonstrate substantial speedups compared to single-GPU implementations and established libraries.  Specifically, we observe near-linear scaling with increasing GPU count for system sizes relevant to current research.  This scalable QUICK implementation offers a promising avenue for tackling larger and more complex electronic structure problems, facilitating advancements in areas such as catalyst design and condensed matter physics.  The code is optimized for performance and readily adaptable to diverse DFT and HF codes.
+
+
+

@@ -1,0 +1,5 @@
+Year: 2024
+Author: TKInstinct
+URL: https://www.reddit.com/r/homelab/comments/1e91200/any_recommendations_on_a_server_workstation_device/
+
+I bought a used Dell T5820 off ebay. The device works but I'm having serious issues with the front storage drive bays to the point where I feel like giving up. In the future, I feel like I'd like to either buy a prebuilt workstation / server PC like the 5820 or build one from scratch. I feel like I could use something easier. Anyone have recommendations on something like this? Something high power with a lot of bays internally that I can add and expand to? I plan on doing a lot work like virtualization on it. some office work and maybe some light gaming.

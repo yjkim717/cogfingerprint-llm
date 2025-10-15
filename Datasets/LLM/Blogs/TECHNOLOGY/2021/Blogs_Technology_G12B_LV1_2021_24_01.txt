@@ -1,0 +1,7 @@
+>## The Ghost of a Wider Peek
+
+It's weird how skill can feel so…fluid, especially online. Lately, I’ve been bouncing between casual Counter-Strike: Global Offensive matchmaking (MM) and Faceit, and it’s thrown my perception of my own abilities into a loop. I’d finally started feeling comfortable holding angles, predicting enemy movements, and generally *feeling* like I was improving. Then I hopped back into MM.
+
+Suddenly, I was whiffing shots I should have made, caught completely off guard. It’s not just about the better anti-cheat on Faceit, although that certainly helps. It’s the subtle things – the slightly higher tick rate, the more consistent server performance. 
+
+It feels like MM is haunted by the ghost of a wider peek – a delay, a lag spike, a slightly off-sync moment that derails everything. It's a reminder that even with the best intentions and practice, the technology mediating our experiences can fundamentally alter how we perceive and react to the world. A frustrating, but ultimately fascinating, digital quirk.

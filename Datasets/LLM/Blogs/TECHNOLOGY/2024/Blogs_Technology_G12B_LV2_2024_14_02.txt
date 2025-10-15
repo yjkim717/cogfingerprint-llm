@@ -1,0 +1,5 @@
+ here:
+
+## The Frustration (and Tiny Victories) of AI Fine-Tuning
+
+Okay, real talk: anyone else wrestling with Kohya and Stable Diffusion lately? I’ve been chasing that perfect, personalized AI image, but keep hitting walls – "exit status 1" and missing metadata are my current nemeses. It’s a humbling reminder that even with incredible tools, the learning curve can be *steep* in 2024. But those tiny successes? Worth it.

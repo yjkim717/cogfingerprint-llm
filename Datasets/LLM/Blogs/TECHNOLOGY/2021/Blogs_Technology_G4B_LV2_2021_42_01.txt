@@ -1,0 +1,13 @@
+Okay, here’s a blog post draft based on your summary and instructions:
+
+---
+
+**The Ghosts of SVMs**
+
+Remember those SVMs from undergrad? They felt…important. Like a foundational tool. But scrolling through DBLP in 2021, it’s hard not to feel a little nostalgic, and maybe a touch skeptical. Lately, it feels like XGBoost, and especially deep learning, are completely dominating the ML landscape. 
+
+Are we letting the ghosts of linear models haunt our progress? I’m not saying SVMs are *dead*, but are they still truly pushing boundaries, or just…familiar?  It’s a question I’ve been pondering. 
+
+---
+
+Do you want me to tweak this, or perhaps write a post focusing on a different angle (e.g., the rise of XGBoost)?

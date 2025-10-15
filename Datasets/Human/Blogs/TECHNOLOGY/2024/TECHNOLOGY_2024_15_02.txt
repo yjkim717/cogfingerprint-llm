@@ -1,0 +1,5 @@
+Year: 2024
+Author: ljsr_
+URL: https://www.reddit.com/r/FalloutMods/comments/1cafj15/fo4_are_there_conflicts_between_america_rising_2/
+
+I'm planning most of my LO around America Rising to get a fun enclave experience. I started a save without PRP because I didn't know if I'd run into issues but the Boston area is ruining my experience and apparently, that's the best bet to fix that area (I already installed a bunch of mods from that midnight site for stability and bug fixing and I've been playing around with bethini but can't get stable 60fps).

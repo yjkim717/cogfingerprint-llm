@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract based on the provided summary.
+
+***
+
+**Abstract**
+
+Iron deficiency anemia (IDA) remains a prevalent global health concern, with well-documented but mechanistically elusive associations with cognitive dysfunction. Conventional neuropsychological testing often lacks the sensitivity to detect subtle, early-stage deficits. This systematic review synthesizes evidence from electrophysiological studies to evaluate the P300 event-related potential (ERP) as a putative biomarker for cognitive impairment in IDA, with a specific focus on its responsiveness to iron repletion. A comprehensive literature search was conducted across major electronic databases (e.g., PubMed, Scopus, Web of Science) for studies published up to 2022, employing predefined PICO criteria. Our analysis reveals a consistent pattern of significant P300 latency prolongation and amplitude attenuation in adult women with IDA compared to iron-sufficient controls, indicating deficits in auditory and visual information processing speed and attentional resource allocation. Crucially, longitudinal and interventional studies demonstrate that these electrophysiological abnormalities are reversible; iron supplementation therapy is associated with a significant normalization of P300 parameters, correlating with improvements in hematological indices. These findings substantiate the hypothesis that IDA directly impacts cortical neural conduction and cognitive processing. We conclude that the P300 ERP serves as a sensitive, objective, and non-invasive neurophysiological tool for the early detection and functional monitoring of IDA-related cognitive sequelae. Its integration into clinical assessment protocols could facilitate timely intervention and provide a quantifiable measure of therapeutic efficacy, thereby mitigating long-term neurocognitive risks.
+
+**(Word Count: 245)**

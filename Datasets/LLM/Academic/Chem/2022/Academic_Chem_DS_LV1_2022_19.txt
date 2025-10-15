@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for 2022.
+
+***
+
+**Abstract**
+
+The persistent challenge of low ionic conductivity in conventional polyolefin separators significantly limits the rate capability and cycling stability of lithium-ion batteries. This study introduces a novel cell architecture fabricated via a scalable sequential spray-deposition technique. We report on the performance of multilayer cells incorporating a spray-deposited, ceramic-rich Al₂O₃ separator layer. Electrochemical impedance spectroscopy revealed that this tailored Al₂O₃ layer facilitates a remarkable doubling of ionic conductivity compared to commercial Celgard separators, attributed to enhanced electrolyte wettability and a more favorable pore structure for Li⁺ ion transport. Galvanostatic cycling tests conducted at a rate of 0.5C demonstrated the critical impact of this improved conductivity, with the spray-deposited cells exhibiting superior capacity retention of 95% after 200 cycles, substantially outperforming conventional counterparts. These findings underscore the efficacy of sequential spray-deposition as a manufacturing strategy for engineering high-performance separator interfaces, paving the way for next-generation batteries with enhanced power density and longevity.
+
+(Word count: 189)

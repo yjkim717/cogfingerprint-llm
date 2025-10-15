@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for 2021.
+
+***
+
+**Omnipose: A Morphology-Agnostic Deep Learning Framework for Robust Bacterial Cell Segmentation**
+
+**Abstract:** Accurate instance segmentation of bacterial cells in microscopy images is a foundational task in computational microbiology, yet it remains challenging due to the vast diversity of cellular morphologies and imaging modalities. While contemporary deep learning models, such as U-Net-based architectures, have demonstrated proficiency, they often exhibit a bias towards rod-shaped cells, leading to significant performance degradation on morphologically complex or filamentous bacteria. To address this limitation, we introduce Omnipose, a novel deep neural network architecture designed for morphology-agnostic cellular segmentation. Our model incorporates a learned, implicit level-set function that guides the evolution of a contour to precisely delineate cell boundaries, irrespective of shape complexity. This formulation enables the accurate segmentation of both two-dimensional and three-dimensional cellular structures from diverse imaging platforms, including phase-contrast and fluorescence microscopy. Benchmarking against state-of-the-art methods, including its predecessor Cellpose, demonstrates that Omnipose achieves superior segmentation accuracy across a broad spectrum of bacterial species, establishing a new paradigm for robust, general-purpose bioimage analysis.

@@ -1,0 +1,3 @@
+"Stuck in the Loop: My Kohya Fine-Tuning Fiasco"
+
+As I dove into fine-tuning Stable Diffusion with Kohya in 2024, I hit a roadblock - the dreaded 'non-zero exit status 1' error. Hours of troubleshooting led me down a rabbit hole, but I finally cracked the code. In this post, I'll share my journey, the solutions I discovered, and the lessons I learned about perseverance in the face of technological tantrums, helping you avoid the same pitfalls.

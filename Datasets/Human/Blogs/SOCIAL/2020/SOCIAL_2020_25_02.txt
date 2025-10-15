@@ -1,0 +1,5 @@
+Year: 2020
+Author: FrankieBloodshed
+URL: https://www.reddit.com/r/DolphinEmulator/comments/j5ud0u/need_help_with_wwe_dor_2_caw_texture_mod/
+
+Recently installed a texture mod that gives a CM Punk Caw all his tattoos and facial texture but they won't load in. Every other texture for the texture mod works just fine but for whatever reason, CM Punk Caw Textures don't work... Any help at all is so much appreciated!

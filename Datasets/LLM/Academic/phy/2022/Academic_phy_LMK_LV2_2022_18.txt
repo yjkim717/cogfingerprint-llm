@@ -1,0 +1,5 @@
+Title: Spatiotemporal Synthesis of Ultrafast Optical Transients via Metasurfaces
+
+Abstract:
+
+The advent of metasurfaces has revolutionized the field of ultrafast optics, enabling the synthesis of optical transients with unprecedented spatiotemporal control. By harnessing the ultrawide bandwidth of femtosecond pulses and the versatile light manipulation capabilities of metasurfaces, we demonstrate the generation of structured light with arbitrary spatial and temporal profiles. Our approach leverages the nanostructured metasurface to impart tailored amplitude, phase, and polarization modulation onto the ultrafast optical field, thereby achieving precise control over the spatiotemporal evolution of the optical transient. This capability opens new avenues for applications in ultrafast optics, including the manipulation of light-matter interactions on femtosecond timescales. The presented metasurface-based technique paves the way for novel investigations into the dynamics of complex optical systems, fostering advancements in the field of ultrafast optics in 2022 and beyond.

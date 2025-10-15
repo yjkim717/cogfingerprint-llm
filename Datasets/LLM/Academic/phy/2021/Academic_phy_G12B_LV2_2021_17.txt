@@ -1,0 +1,8 @@
+>
+## Abstract: Simultaneous Spin and Orbital Angular Momentum Sorting via Spin-Decoupled Metasurface Photonic Momentum Transformation
+
+The independent manipulation and detection of spin angular momentum (SAM) and orbital angular momentum (OAM) are crucial for advancing quantum information processing and optical communication technologies. While existing methods often intertwine these degrees of freedom, hindering independent control, we present a novel approach utilizing a spin-decoupled metasurface to achieve simultaneous detection and sorting of SAM and OAM. Our design leverages photonic momentum transformation principles to spatially separate beams possessing distinct SAM and OAM states. Specifically, the metasurface is engineered to impart a momentum kick dependent on both the spin and the topological charge of the incident light, resulting in distinct output angles. This decoupling allows for the independent analysis and sorting of these polarization and wavefront properties. Characterization through rigorous electromagnetic simulations demonstrates the efficacy of the proposed metasurface in resolving distinct OAM values (±1) and SAM states (left and right circular polarization) with high fidelity. This work represents a significant step towards integrated photonic devices capable of complex polarization and wavefront control, paving the way for advanced applications in quantum optics, optical sensing, and optical sorting protocols.
+
+
+
+**Keywords:** spin angular momentum, orbital angular momentum, metasurface, photonic momentum transformation, vortex recognition

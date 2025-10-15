@@ -1,0 +1,15 @@
+**The NextJS Head Conundrum: A Server-Side Rendering Saga**
+
+As I sat staring at my screen, wrestling with a peculiar issue in my NextJS project, I couldn't help but feel a sense of déjà vu. It was 2021, and the world of React was evolving at a breakneck pace. I was in the midst of building a complex application, leveraging the power of server-side rendering (SSR) to improve SEO and user experience. But, as I soon discovered, the devil was in the details.
+
+The problem began when I noticed that my `Head` component, a crucial part of my application's metadata management, wasn't rendering on the server. I was using a class component, and `getInitialProps` was fetching the necessary data. Everything seemed to be in order, but the `Head` component persisted in not rendering server-side. It was as if it was stuck in client-side rendering (CSR) limbo.
+
+At first, I thought it was a simple case of misconfiguration or a versioning issue. I double-checked my `next.config.js` file, ensured that I was using the latest NextJS version, and even consulted the official documentation. Still, the problem persisted. That's when I realized that I wasn't alone in this struggle. A quick scan of online forums and GitHub issues revealed that others had faced similar challenges.
+
+As I dug deeper, I began to understand the intricacies of NextJS's rendering mechanisms. The `Head` component, it turned out, was designed to be used with `getStaticProps` or `getServerSideProps` in functional components. My use case, a class component with `getInitialProps`, was a bit of an edge case.
+
+The solution, as it often does, lay in understanding the underlying mechanics of NextJS. By using the `getInitialProps` method correctly and ensuring that my `Head` component was properly nested within my page component, I was able to achieve server-side rendering.
+
+This experience served as a poignant reminder of the complexities and nuances of modern web development. As we continue to push the boundaries of what's possible with frameworks like NextJS and React, it's easy to get caught up in the excitement of building complex applications. However, it's the little details – like ensuring that our `Head` components render correctly – that can make all the difference in delivering a seamless user experience.
+
+As I reflect on this journey, I'm reminded that even in the face of frustration and uncertainty, perseverance and a willingness to learn can lead to a deeper understanding of the technologies we work with. And so, the next time you're faced with a seemingly insurmountable issue, take a step back, and remember that the solution might be just a tweak away.

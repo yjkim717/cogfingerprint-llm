@@ -1,0 +1,5 @@
+Title: Establishing a Framework for the Safety Assessment of Food Enzymes: EFSA's Scientific Guidance
+
+Abstract:
+
+In 2021, the European Food Safety Authority (EFSA) introduced a comprehensive guidance document to standardize the submission of food enzyme applications, thereby ensuring a rigorous safety assessment. The guidance delineates the requisite data for evaluating the safety of food enzymes, encompassing information on their source, production process, and biochemical characteristics. Furthermore, it emphasizes the necessity of robust toxicological data to ascertain the potential health risks associated with these enzymes. A critical component of the safety evaluation is the assessment of dietary exposure, which necessitates a detailed understanding of the enzyme's intended use and its potential impact on human consumption patterns. By providing a structured framework for the submission of food enzyme applications, EFSA's guidance facilitates a harmonized and science-based approach to ensuring the safety of these substances for human consumption.

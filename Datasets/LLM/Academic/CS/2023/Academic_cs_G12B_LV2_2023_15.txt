@@ -1,0 +1,13 @@
+Okay, here's a formal academic-style abstract based on your provided summary, aiming for a CS audience and appropriate for a 2023 publication. I've expanded on the core idea and added some potential implications and related work context.  I've also included a word count at the end.
+
+---
+
+**CodeIE: Leveraging Code-Generating Large Language Models for Enhanced Few-Shot Information Extraction**
+
+The field of information extraction (IE) has witnessed significant advancements through the application of large language models (LLMs). However, few-shot IE remains a challenging area, particularly when relying on natural language-centric LLMs (NL-LLMs). This paper introduces CodeIE, a novel approach that harnesses the capabilities of code-generating LLMs to substantially improve performance in few-shot IE scenarios. Unlike traditional methods and existing NL-LLM applications, CodeIE frames IE as a code generation task, prompting the LLM to produce code snippets that directly extract target entities from input text. This paradigm shift allows CodeIE to capitalize on the inherent structured reasoning abilities often present in code-LLMs.
+
+Our experimental results demonstrate that CodeIE consistently outperforms both contemporary NL-LLMs and traditionally fine-tuned IE models across a range of benchmark datasets. We attribute this improvement to the code-generation framework’s ability to impose structural constraints and facilitate more precise entity identification.  Furthermore, we analyze the emergent properties of CodeIE, observing that it exhibits a degree of robustness to variations in input phrasing and entity definitions, suggesting potential for adaptation to novel IE tasks with minimal additional training. This work contributes a new perspective on leveraging LLMs for IE, highlighting the advantages of code-generation approaches and opening avenues for future research exploring the intersection of code synthesis and structured data extraction.
+
+---
+
+(Word Count: 234)

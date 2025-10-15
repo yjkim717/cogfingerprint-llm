@@ -1,0 +1,5 @@
+Year: 2020
+Author: musicnothing
+URL: https://www.reddit.com/r/nba/comments/f5wetw/the_fiveman_lineup_of_paul_gallinari_schroder/
+
+Source: This is pretty crazy to me. The next closest net rating for a team that has > 100 minutes on the floor is Brooklyn (a lineup w/o Kyrie) at 22.3. Another "fun" stat: There are 3 lineups that have played 500 minutes or more: Bogdanovic, Gobert, Ingles, O'Neale, Mitchell: 518 minutes, 17.3 NETRTG Millsap, Barton, Harris, Jokic, Murray: 577 minutes, 12.1 NETRTG Love, Thompson, Osman, Sexton, Garland: *649* minutes, -10.3 NETRG

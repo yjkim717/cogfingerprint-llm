@@ -1,0 +1,5 @@
+It’s late 2020, and I’m staring at my screen, defeated. For the third time, my USACO solution has timed out. I’d already simplified my reversal algorithm—trimmed loops, cut redundancies—but those final, massive test cases crushed my runtime.
+
+I felt stuck. The problem wasn’t just the code; it was my approach. I’d been so focused on the "how" of reversing data that I overlooked the "why" behind the bottleneck. Stepping back, I revisited the fundamentals, tracing each operation’s cost. It hit me then: sometimes, optimization isn’t about writing smarter code, but about asking a better question.
+
+That moment reshaped how I tackle challenges now, in coding and beyond. It’s a lesson in humility and persistence—one that’s stayed with me through many late-night debugging sessions.

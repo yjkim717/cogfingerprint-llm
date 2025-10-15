@@ -1,0 +1,16 @@
+Author: Sungwoo Hong
+Title: Neutrino Masses from Generalized Symmetry Breaking
+Paper ID: b0ebb59d6ea444bc609d03cb6be72fc7f8894501
+Year: 2022
+Author Index: 20
+
+Abstract:
+We explore generalized global symmetries in theories of physics beyond the standard model. Theories of Z′ bosons generically contain “noninvertible” chiral symmetries, whose presence indicates a natural paradigm to break this symmetry by an exponentially small amount in an ultraviolet completion. For example, in models of gauged lepton family difference such as the phenomenologically well motivated U(1)Lμ−Lτ, there is a noninvertible lepton number symmetry which protects neutrino masses. We embed these theories in gauged non-Abelian horizontal lepton symmetries, e.g., U(1)Lμ−Lτ⊂SU(3)H, where the generalized symmetries are broken nonperturbatively by the existence of lepton family magnetic monopoles. In such theories, either Majorana or Dirac neutrino masses may be generated through quantum gauge theory effects from the charged lepton Yukawas, e.g., yν∼yτexp(−Sinst). These theories require no bevy of new fields nor additional global symmetries but are instead simple, natural, and predictive: The discovery of a lepton family Z′ at low energies will reveal the scale at which Lμ−Lτ emerges from a larger gauge symmetry.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2024
+ 
+ 

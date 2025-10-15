@@ -1,0 +1,8 @@
+Author: Jiawei Zhao
+Title: Boosting Lattice Oxygen Oxidation of Perovskite to Efficiently Catalyze Oxygen Evolution Reaction by FeOOH Decoration
+Paper ID: 33fe1ad4d05c30dfa4806a1a8ca581e4b8b13a9f
+Year: 2020
+Author Index: 19
+
+Abstract:
+In the process of oxygen evolution reaction (OER) on perovskite, it is of great significance to accelerate the hindered lattice oxygen oxidation process to promote the slow kinetics of water oxidation. In this paper, a facile surface modification strategy of nanometer-scale iron oxyhydroxide (FeOOH) clusters depositing on the surface of LaNiO3 (LNO) perovskite is reported, and it can obviously promote hydroxyl adsorption and weaken Ni-O bond of LNO. The above relevant evidences are well demonstrated by the experimental results and DFT calculations. The excellent hydroxyl adsorption ability of FeOOH-LaNiO3 (Fe-LNO) can obviously optimize OH− filling barriers to promote lattice oxygen-participated OER (LOER), and the weakened Ni-O bond of LNO perovskite can obviously reduce the reaction barrier of the lattice oxygen participation mechanism (LOM). Based on the above synergistic catalysis effect, the Fe-LNO catalyst exhibits a maximum factor of 5 catalytic activity increases for OER relative to the pristine perovskite and demonstrates the fast reaction kinetics (low Tafel slope of 42 mV dec−1) and superior intrinsic activity (TOFs of ~40 O2 S−1 at 1.60 V vs. RHE).

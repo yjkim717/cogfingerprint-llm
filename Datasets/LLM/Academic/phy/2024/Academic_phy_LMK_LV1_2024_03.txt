@@ -1,0 +1,4 @@
+Title: Decoherence of Quantum Systems in Black Hole Environments at Finite Temperature
+
+Abstract: 
+In 2024, we investigate the decoherence effects of a quantum system induced by a black hole environment at finite temperature. Our analysis reveals that the decoherence rate is consistent with established theories on quantum black holes. We derive a master equation governing the dynamics of ordinary matter interacting with the black hole, demonstrating that decoherence arises from the thermal fluctuations of the black hole's horizon, thereby validating standard notions of quantum gravity.

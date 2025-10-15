@@ -1,0 +1,11 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Development of a Polycistronic tRNA-gRNA CRISPR/Cas9 System for Multiplex Gene Editing in *Pleurotus ostreatus* to Elucidate Lignocellulolytic Mechanisms
+
+**Abstract:**
+
+The edible fungus *Pleurotus ostreatus* is a potent degrader of lignocellulosic biomass, yet the synergistic roles of its complex enzymatic repertoire remain poorly characterized, partly due to the historical inefficiency of multiplex genetic manipulation in this basidiomycete. In this study, we established a robust CRISPR/Cas9-based platform for high-efficiency, multiple-gene knockout in *P. ostreatus*. Our system utilizes a polycistronic tRNA-gRNA (PTG) expression strategy, wherein multiple guide RNA (gRNA) sequences are flanked by endogenous tRNA units and processed by the endogenous RNase P and Z machinery to liberate functional gRNAs from a single transcriptional unit. This approach was validated by simultaneously targeting key genes encoding predicted lignin-modifying peroxidases and cellulose-degrading enzymes. Transformation with a Cas9-expression plasmid and a single PTG cassette resulted in up to 92% editing efficiency for dual-gene knockouts, with a significant proportion of transformants harboring mutations in all targeted loci. Mutant strains exhibited distinct and quantifiable phenotypic alterations in their growth on lignocellulosic substrates, providing direct functional evidence for the coordinated action of these enzymes. This PTG-CRISPR/Cas9 system overcomes a critical bottleneck in basidiomycete research, establishing a transformative tool for dissecting complex genetic networks, such as those governing lignocellulose degradation, and for the targeted metabolic engineering of *P. ostreatus* for industrial applications.
+
+**(Word Count: 199)**

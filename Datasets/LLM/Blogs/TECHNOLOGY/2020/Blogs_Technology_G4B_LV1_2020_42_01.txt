@@ -1,0 +1,9 @@
+Okay, here's a reflective blog post inspired by your summary, aiming for a conversational tone and around 107 words, set in 2020:
+
+---
+
+**The Weight of a Click**
+
+It’s weird, isn’t it? Back in 2020, everyone was talking about GDPR, and honestly, it felt *heavy*. Suddenly, every click, every page view, felt loaded with responsibility. We were obsessing over IPv4 addresses and meticulously tracking location data, all to be compliant, but it made me wonder – what *were* we actually building? 
+
+Adding timestamps to everything felt like building a digital paper trail.  It highlighted the core issue: privacy wasn’t just a checkbox, it was about respecting how people used our websites.  A humbling lesson, for sure.

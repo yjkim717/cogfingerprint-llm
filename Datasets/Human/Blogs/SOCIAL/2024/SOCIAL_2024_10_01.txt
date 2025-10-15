@@ -1,0 +1,5 @@
+Year: 2024
+Author: Mescallan
+URL: https://www.reddit.com/r/LocalLLaMA/comments/1elcrnp/has_anyone_gotten_gemma_scope_running_locally/
+
+I'm getting activations from the Gemma 2 2B model with a dimension of 2048, but all the SAEs in the Gemma Scope repo are expecting an input dimension of 2304. That's a difference of 256, which seems... oddly specific? Claude is recommending that I pad the activations with 256 zeros, but that feels wrong. 1. Has anyone else run into this? Am I missing something obvious? 2. Is there a proper way to project from 2048 to 2304 dimensions that would make more sense than zero-padding? 3. Any ideas on how to verify if the padded results are actually meaningful? I've gotten the colab notebook they shared running, but I haven't been able to figure what I'm doing wrong when I'm running it locally.

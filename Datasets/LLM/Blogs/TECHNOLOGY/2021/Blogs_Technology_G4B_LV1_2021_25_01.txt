@@ -1,0 +1,12 @@
+Okay, here’s a blog post draft inspired by the summary, aiming for a conversational tone and around 87 words, set in 2021:
+
+---
+
+**The Ghost in the Machine**
+
+Late 2021, I was helping a colleague troubleshoot a bizarre macOS issue. We’d used Jamf to wipe an M1 Macbook Pro, and the reinstall just… wouldn’t happen. The error message kept circling back to “disk0” and an unmount failure. It felt like dealing with a stubborn ghost – a digital one, of course. Turns out, a simple permissions tweak sorted it, but it highlighted how fragile these systems can be. 
+
+
+---
+
+Would you like me to tweak this further, perhaps focusing on a specific aspect or adjusting the tone?

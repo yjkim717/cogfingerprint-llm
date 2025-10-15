@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, written in the context of 2024:
+
+**Abstract**
+
+The chemical complexity of interstellar ices remains a crucial frontier in astrochemistry. This study investigates the mechanism of carbon atom condensation within interstellar ices, specifically focusing on the reaction of ammonia (NH₃) with atomic carbon. Utilizing high-level quantum chemical calculations, we demonstrate that the pathway leading to methylamine (CH₃NH₂) is energetically favored over alternative routes yielding simpler nitrile isomers, such as hydrogen cyanide (HCN) and its tautomer, isocyanic acid (HNC). These findings challenge existing astrochemical kinetic models, which often overemphasize nitrile formation. The preferential formation of methylamine has significant implications for understanding the prebiotic chemistry of complex organic molecules in dense molecular clouds and the subsequent delivery of these molecules to planetary systems. Further refinement of kinetic models incorporating these results is essential for accurately simulating the observed abundance of methylamine in interstellar environments.

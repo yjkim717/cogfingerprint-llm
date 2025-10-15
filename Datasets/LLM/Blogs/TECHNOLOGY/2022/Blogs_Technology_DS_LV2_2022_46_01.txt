@@ -1,0 +1,11 @@
+Of course. Here is a reflective blog post written from the perspective of an experienced IT professional.
+
+***
+
+### From Help Desk to the Cloud: My Unplanned Tech Journey
+
+It’s funny how we stumble into our life’s work. If you’d told my 22-year-old self, nervously resetting passwords on a help desk, that I’d be architecting cloud solutions a decade later, I would have laughed nervously and gone back to my ticket queue. Back in 2022, the buzz around "the cloud" was deafening, and I felt like an imposter. My knowledge was a mile wide and an inch deep—a classic IT generalist in a world screaming for specialists.
+
+But you know what? That generalist background became my secret weapon. Every frustrating call about a printer, every cryptic server error I had to untangle, was a lesson in how the pieces fit together. The help desk wasn't a dead end; it was a bootcamp in human-centered problem-solving. When I finally took the leap into cloud technologies, I wasn't just learning new services; I was understanding the "why." I knew the pain points of the users on the ground, and that context was priceless.
+
+My advice to anyone starting out? Don't rush. Embrace the journey of being a beginner. The foundational skills you build by tackling diverse problems are the very things that will allow you to specialize meaningfully later on. The tech landscape will always shift, but the core ability to learn, adapt, and connect with people? That’s a career superpower that never goes out of style. Your path doesn't have to be a straight line; sometimes, the scenic route gives you the best view.

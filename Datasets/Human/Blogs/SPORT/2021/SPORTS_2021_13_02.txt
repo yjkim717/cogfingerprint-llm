@@ -1,0 +1,5 @@
+Year: 2021
+Author: megamanxzero35
+URL: https://www.reddit.com/r/hvacadvice/comments/l5xht6/furnace_ignites_runs_for_a_few_minutes_goes_out/
+
+Model # gux090x35a Just noticed this tonight. Pretty much what I said in the title. After being on for a while, seems to have trouble staying on/ignited. Sometimes it is igniting again right away, 1-3 seconds. Other times it ignited again and runs for a minute before having issues again. Little background. Last week my inducer motor died and I replaced that. Last year around this time we had our gas meter regulator vent freeze over. Didn’t realize that at the time and replaced the gas valve assembly. So that is a new part. I live in Iowa and we had 10 inches of snow pretty much across the entire state. I checked my regulator vent first thing and it seemed to be fine. Thought maybe we were having an intermittent issue there. Wasn’t froze over. Cleaned the flame sensor thinking that might be the issue but didn’t seem to change anything. The only thing I did notice, the longer it sat off the longer it would stay ignited. Any ideas on what to test first? TIA.

@@ -1,0 +1,16 @@
+Okay, here’s a blog post draft inspired by the Reddit user’s build query, set in 2020 and aiming for a reflective, conversational tone:
+
+---
+
+**The Year I Built (and Almost Broke) My First PC**
+
+It’s funny, isn’t it? 2020. A year of Zoom calls and sourdough starters, but also a strangely intense period of… DIY. I finally bit the bullet and decided to build my own PC. It wasn’t a grand, flashy gaming rig – more of a solid, reliable machine for editing photos and, let’s be honest, binging Netflix. 
+
+I’d been reading about Ryzen 3600s and Handbrake for ages, fascinated by the idea of actually *making* my tech work. It quickly became clear that even a decent CPU could hit a bottleneck when transcoding videos. It was a frustrating learning curve, a lot of forum scouring, and a few late nights. 
+
+But there was something incredibly satisfying about seeing all those components come together, knowing I'd wrestled with the specs and chosen each part. It felt like a small act of rebellion against the pre-packaged world – a tiny project of control in a year that felt anything but. 
+
+
+---
+
+Would you like me to tweak this draft in any way, or perhaps explore a different angle (e.g., focusing more on the learning experience)?

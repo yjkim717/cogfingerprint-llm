@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Integrating Germline Testing into Breast Cancer Management: A Paradigm Shift towards Personalized Therapy
+
+Abstract:
+The recent advancements in genetic testing have revolutionized the management of breast cancer, underscoring the importance of identifying BRCA1/2 mutations in patients. As per the ASCO–Society of Surgical Oncology Guideline (2024), germline testing is recommended for breast cancer patients based on specific criteria, including age, personal and family history, and eligibility for PARP inhibitor therapy. The identification of BRCA1/2 mutations not only informs genetic counseling but also guides targeted therapeutic interventions. Patients harboring these mutations are potential candidates for PARP inhibitor therapy, which has shown significant clinical benefit in improving outcomes. By integrating germline testing into clinical practice, healthcare providers can offer personalized treatment strategies, enhancing patient care and optimizing therapeutic efficacy. This paradigm shift towards precision medicine is poised to redefine breast cancer management, emphasizing the need for streamlined testing protocols and genetic counseling services.

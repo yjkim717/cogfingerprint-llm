@@ -1,0 +1,9 @@
+Title: Investigating the Shadow Cast by Rotating Black Holes in Gauss–Bonnet Gravity: A Probe for Testing Gravity Theories with Astronomical Observations
+
+Abstract:
+
+The recent observation of the shadow cast by the supermassive black hole at the center of the galaxy M87 by the Event Horizon Telescope (EHT) collaboration has opened a new window to test gravity theories in the strong-field regime. In this context, we investigate the shadow cast by rotating black holes in Gauss–Bonnet gravity, a higher-curvature extension of general relativity. We derive the null geodesic equations in the background of a rotating Gauss–Bonnet black hole and study the effects of the Gauss–Bonnet coupling parameter on the shadow cast. Our results show that the angular diameter of the shadow is sensitive to the Gauss–Bonnet coupling parameter, which can be constrained using astronomical observations. We also analyze the effects of the black hole's rotation on the shadow cast and find that the distortion of the shadow is significant for rapidly rotating black holes. By comparing our theoretical predictions with the EHT observations, we constrain the Gauss–Bonnet coupling parameter and demonstrate the potential of using shadow observations to test Gauss–Bonnet gravity. Our study highlights the importance of continued observations of black hole shadows in the coming years, particularly with the next-generation EHT, to further probe the strong-field gravity regime and shed light on the validity of alternative gravity theories.
+
+Keywords: Gauss–Bonnet gravity; Rotating black hole; Shadow cast; Metric parameter; Angular diameter.
+
+Year: 2020

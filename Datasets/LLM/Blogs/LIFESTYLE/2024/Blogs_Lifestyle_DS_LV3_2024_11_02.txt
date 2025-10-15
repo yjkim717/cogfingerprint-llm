@@ -1,0 +1,3 @@
+There’s something about those quiet, early 2024 mornings that reminds me of untangling network puzzles back in my IT days. I’d be staring at C9300 switches, wrestling with trunk links that bounced like they had a life of their own every time I tweaked the VLAN configuration. It felt like trying to meditate with a buzzing phone in your hand—utterly defeating.
+
+I remember one stubborn interface template and a portfast error that just wouldn’t quit, leaving me frazzled before sunrise. But you know what? Those moments taught me patience and the beauty of stepping back. Now, instead of wrestling code, I savor my coffee and let the quiet settle my mind. Funny how life’s little glitches guide us toward simpler, more mindful rhythms.

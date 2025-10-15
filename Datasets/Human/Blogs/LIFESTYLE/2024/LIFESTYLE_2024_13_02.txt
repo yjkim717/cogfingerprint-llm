@@ -1,0 +1,5 @@
+Year: 2024
+Author: apatheticonion
+URL: https://www.reddit.com/r/OculusQuest/comments/1aspfu4/recommendations_for_an_inexpensive_wireless/
+
+I have my PC in a different room to my router and I can't move the home router. I looked at reviews for the air bridge and people don't seem to rate it highly so I am looking at buying a second wireless router to plug directly into my PC's second ethernet port (2.5gigabit) for my Quest to connect to. I assume I can tick "share internet connection" and have the second router can be the dedicated access point for my Quest for both internet and Virtual Desktop/AirLink. I don't want to overspend if it doesn't make a difference, any recommendations for a wireless access point? Given Wifi 6 can transmit 1.2gigabit, would it matter if I got a router with a 2.5gigabit port? Worth jumping up to Wifi 6e (I'm in an apartment with lots of Wifi noise)? Could I use a USB or PCI wifi card with Wifi 6e and turn it on as a hotspot?

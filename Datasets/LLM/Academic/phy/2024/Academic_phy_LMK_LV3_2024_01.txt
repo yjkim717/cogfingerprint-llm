@@ -1,0 +1,4 @@
+Title: Unveiling Classical-Quantum Duality in Harmonic Oscillators: Implications for Hidden Variable Theories
+
+Abstract:
+This study (2024) establishes a profound duality between quantum harmonic oscillators and classical particles on a circular trajectory, substantiating the hypothesis that classical hidden variables underpin quantum phenomena. By leveraging Hilbert space formalism and principles of quantum logic, we demonstrate that the quantum harmonic oscillator's dynamics can be mapped onto a classical system, revealing an intrinsic classical-quantum correspondence. Our findings have significant implications for the development of hidden variable theories, offering a novel perspective on the interplay between classical and quantum mechanics.

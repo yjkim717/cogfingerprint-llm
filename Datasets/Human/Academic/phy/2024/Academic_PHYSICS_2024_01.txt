@@ -1,0 +1,8 @@
+Author: G. Hooft
+Title: The hidden ontological variable in quantum harmonic oscillators
+Paper ID: acb06cd99b88bbba87ed6538702f55a1b8e83f23
+Year: 2024
+Author Index: 1
+
+Abstract:
+The standard quantum mechanical harmonic oscillator has an exact, dual relationship with a completely classical system: a classical particle running along a circle. Duality here means that there is a one-to-one relation between all observables in one model, and the observables of the other model. Thus the duality we find, appears to be in conflict with the usual assertion that classical theories can never reproduce quantum effects as observed in many quantum models. We suggest that there must be more of such relationships, but we study only this one as a prototype. It reveals how classical hidden variables may work. The classical states can form the basis of Hilbert space that can be adopted in describing the quantum model. Wave functions in the quantum system generate probability distributions in the classical one. One finds that, where the classical system always obeys the rule probability in = probability out, the same probabilities are quantum probabilities in the quantum system. It is shown how the quantum x and p operators in a quantum oscillator can be given a classical meaning. It is explained how an apparent clash with quantum logic can be rationalized.

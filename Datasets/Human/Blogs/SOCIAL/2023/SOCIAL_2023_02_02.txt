@@ -1,0 +1,5 @@
+Year: 2023
+Author: Cybyss
+URL: https://www.reddit.com/r/NoMansSkyTheGame/comments/14camcq/the_default_vr_controls_seem_to_have_changed_how/
+
+I've always played No Man's Sky in VR using "world relative" locomotion, where my left hand is for both movement and orientation. I point where I want to go with my left hand, press forward, and that's where I move. But now, it's weird. You still use your left hand for movement, but now orientation - the direction you're walking - is controlled by your right hand! That is absolutely awful, because as you aim with your multitool that changes what direction you're moving in. Even worse, now reaching back to grab your multitool causes you to walk backwards! The VR Controls menu in No Man's Sky doesn't seem to have an option to select which controller is used for navigation. How do I get it back to how it was, where the left hand controls both movement and direction? Body relative locomotion is awkward, since your body often gets misaligned which changes what direction "forward" is. Head relative has always given me nausea and makes any VR game virtually unplayable.

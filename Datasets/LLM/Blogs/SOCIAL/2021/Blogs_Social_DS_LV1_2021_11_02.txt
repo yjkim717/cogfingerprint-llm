@@ -1,0 +1,1 @@
+Looking back at 2021, I remember how our business nearly crumbled when our video streaming kept failing. That 7% packet loss wasn't just data—it was our connection to clients, fraying with every T3 time-out, reminding us how fragile digital relationships can be.

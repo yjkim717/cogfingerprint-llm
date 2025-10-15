@@ -1,0 +1,3 @@
+It’s 2022, and I’ve just moved to South Carolina, leaving behind my gaming crew scattered from here to Europe. I never realized how much I’d miss those late-night PCSX2 Netplay sessions until I tried setting them up over a shaky connection. That’s when I went on a mission: find the best fiber optic internet in the state.
+
+After some research, I set up ZeroTier to bridge the distance virtually. Now, with lightning-fast fiber, it’s like my friends are right here in the room, battling it out in timeless classics. Moving didn’t mean losing my community—it just required a little tech magic to keep us connected.

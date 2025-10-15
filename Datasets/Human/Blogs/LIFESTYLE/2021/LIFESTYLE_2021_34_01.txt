@@ -1,0 +1,5 @@
+Year: 2021
+Author: merc123
+URL: https://www.reddit.com/r/3Dprinting/comments/lmlt5y/affixing_pla_plaque_to_wood_plaque/
+
+I have a 4 x 6" x 3 mm thick plaque I want to attach to a wooden backer. I've thought of using construction adhesive or 2-part epoxy but was thinking a mechanical attachment may work better. One of the ideas was a hole with a slot in the back to fit a small bolt, go through the wood and put a backer nut. I'm thinking my plaque may be too thin though. The other thought was just put through holes and screw the plaque down, but I'm not a fan of the look. Looking for some other ideas on this one.

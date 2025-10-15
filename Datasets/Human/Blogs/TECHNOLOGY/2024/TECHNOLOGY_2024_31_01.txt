@@ -1,0 +1,5 @@
+Year: 2024
+Author: FIREATWlLL
+URL: https://www.reddit.com/r/perplexity_ai/comments/1b3qfoc/question_do_the_webpages_that_perplexity_visits/
+
+Suppose everyone used perplexity or some alternate platform, would the "free" web-content that is supported by ad-revenue still be profitable? If not, and everyone is using perplexity-like AI, then there would be no "free" web content, less independent media, etc. The perplexity-like AI will have less content to consume, and it will only come from proprietary (more often biased/centralised) sources. Is anyone working/thinking on this?

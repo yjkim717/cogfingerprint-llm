@@ -1,0 +1,7 @@
+recall_details = get_recall_details(vehicle_make="Kia", vehicle_model="Sportage", model_year=2014)
+if recall_details:
+    print("Recall notification details:")
+    for detail in recall_details:
+        print(detail)
+else:
+    print("No recall notifications found for the specified vehicle.")

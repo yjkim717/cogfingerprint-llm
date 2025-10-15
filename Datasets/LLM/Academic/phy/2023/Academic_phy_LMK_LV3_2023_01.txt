@@ -1,0 +1,4 @@
+Title: Resolving the Black Hole Information Paradox through Kruskal-Szekeres Coordinates
+
+Abstract:
+In 2023, our understanding of quantum black holes underwent a significant refinement with the application of Kruskal-Szekeres coordinates, revealing an exact discrete symmetry. This binary symmetry effectively eliminates the black hole interior, thereby resolving the long-standing black hole information paradox. By reconciling general relativity with the principles of quantum mechanics, our findings provide a novel insight into the nature of black holes, shedding light on the information preservation mechanism and reinforcing the foundations of modern theoretical physics.

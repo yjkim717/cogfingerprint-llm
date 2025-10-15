@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+Title: Revisiting Patch-based Architectures for Visual Representation Learning
+
+Abstract:
+Recent advances in computer vision have been driven by the success of Vision Transformers (ViTs) and convolutional neural networks (CNNs). While ViTs rely on patch embeddings to capture long-range dependencies, CNNs leverage hierarchical representations through convolutional layers. This paper introduces ConvMixer, a novel, patch-based architecture that simplifies the design of ViTs and CNNs. By isolating the patch embedding mechanism from the transformer encoder, ConvMixer achieves competitive performance on image classification tasks while maintaining a straightforward, isotropic design. Our experiments demonstrate that ConvMixer outperforms ViTs and ResNets on certain benchmarks, highlighting the efficacy of patch-based representations in visual learning. The proposed model achieves state-of-the-art results on several datasets, underscoring the potential of ConvMixer as a robust, versatile backbone for various computer vision applications. The simplicity and effectiveness of ConvMixer make it an attractive alternative for future research in visual representation learning (2022).

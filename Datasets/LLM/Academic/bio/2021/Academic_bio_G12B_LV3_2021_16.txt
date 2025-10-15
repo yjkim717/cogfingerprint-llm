@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a bio-related publication and reflecting a 2021 context:
+
+**Abstract**
+
+The application of CRISPR-Cas9 technology to fungal species presents a transformative opportunity for targeted breeding programs, circumventing the limitations of traditional methods. This study reports the successful implementation of CRISPR/Cas9-mediated genome editing in *Pleurotus ostreatus*, demonstrating its utility for generating non-genetically modified (non-GM) fungal strains. We achieved precise modifications via targeted mutagenesis, highlighting the potential for subsequent gene insertions. This approach offers a rapid and precise alternative to conventional breeding, enabling accelerated improvement of desirable traits in this economically important fungus. The developed system facilitates strain improvement without triggering regulatory concerns associated with genetic modification, paving the way for sustainable and efficient fungal biotechnology.

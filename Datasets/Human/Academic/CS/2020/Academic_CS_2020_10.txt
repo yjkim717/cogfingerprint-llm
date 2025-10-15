@@ -1,0 +1,8 @@
+Author: O. Rainio
+Title: Triangular ratio metric in the unit disk
+Paper ID: 4cfb3a144a91438f5a1dd4dd1ba86c259240a954
+Year: 2020
+Author Index: 10
+
+Abstract:
+The triangular ratio metric is studied in a domain , . Several sharp bounds are proven for this metric, especially in the case where the domain is the unit disk of the complex plane. The results are applied to study the Hölder continuity of quasiconformal mappings.

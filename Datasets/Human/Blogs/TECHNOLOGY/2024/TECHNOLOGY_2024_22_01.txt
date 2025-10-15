@@ -1,0 +1,5 @@
+Year: 2024
+Author: drowningfish
+URL: https://www.reddit.com/r/VMwareHorizon/comments/1b2dklb/stressed_for_really_no_reason/
+
+Finally received pricing on my Horizon renewal and it's well within Budget. The switch from Perpetual to SaaS Subscription (Universal) comes out to be almost a $1 cheaper per user per month compared to what it cost a few years ago. Since the Universal License entitles me to vSphere, vSAN, and vCenter, I'm solid moving forward. Count: 600 Term: 3 years 👌

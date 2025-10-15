@@ -1,0 +1,11 @@
+)
+
+## Abstract: Contemporary Management of Recurrent and Stage IV Breast Cancer: Adherence to NCCN Guidelines in the Context of Evolving Systemic Therapies
+
+**Background:** Recurrent or Stage IV breast cancer represents a significant clinical challenge, necessitating a nuanced approach to treatment guided by tumor biology and evolving systemic therapeutic options. This review examines the current landscape of management, focusing on adherence to the National Comprehensive Cancer Network (NCCN) guidelines. 
+
+**Methods:** We synthesized current NCCN guidelines (version 1.2020) alongside recent advancements in targeted therapies and immunotherapies for breast cancer.  Emphasis is placed on the critical role of hormone receptor (HR) status and human epidermal growth factor receptor 2 (HER2) status in guiding treatment selection.
+
+**Results:**  The NCCN guidelines advocate for comprehensive staging and molecular profiling to inform treatment decisions.  Options range from endocrine therapy for HR-positive disease to HER2-targeted agents and chemotherapy for HER2-positive or HR-negative/HER2-negative disease. Novel agents, including PI3K inhibitors, CDK4/6 inhibitors, and immune checkpoint inhibitors, are integrated based on specific molecular alterations and patient performance status. 
+
+**Conclusion:**  Optimal management of recurrent/Stage IV breast cancer requires rigorous application of NCCN guidelines, coupled with a thorough understanding of tumor characteristics and emerging therapeutic strategies to maximize patient benefit.

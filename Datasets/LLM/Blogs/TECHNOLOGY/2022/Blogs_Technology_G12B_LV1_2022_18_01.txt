@@ -1,0 +1,3 @@
+>## The Mobile Security Balancing Act
+
+It's 2022, and our work lives are *everywhere*. I’ve been wrestling with how to secure our Microsoft 365 environment, particularly Outlook access on mobile. Blanket bans feel too restrictive, but leaving everything open is a risk. Device access rules are proving to be a sweet spot – allowing specific phones and tablets access while keeping others quarantined. It's a constant balancing act between usability and security, isn't it?

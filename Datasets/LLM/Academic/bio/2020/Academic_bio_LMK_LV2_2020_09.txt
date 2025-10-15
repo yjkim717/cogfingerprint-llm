@@ -1,0 +1,13 @@
+Title: APOE ε4 Genotype-Dependent Cerebrospinal Fluid Proteomics Reveals Novel Insights into Amyloid β Aggregation Pathways in Alzheimer's Disease
+
+Abstract:
+
+Alzheimer's disease (AD) is a complex neurodegenerative disorder characterized by the accumulation of amyloid β (Aβ) plaques and neurofibrillary tangles in the brain. The apolipoprotein E ε4 (APOE ε4) genotype is a well-established genetic risk factor for AD, influencing Aβ aggregation and clearance. To elucidate the molecular mechanisms underlying APOE ε4-mediated Aβ pathology, we employed a proteomics approach to investigate cerebrospinal fluid (CSF) protein profiles in APOE ε4 carriers and non-carriers with AD.
+
+Using liquid chromatography-tandem mass spectrometry (LC-MS/MS), we analyzed CSF samples from 100 AD patients, comprising 50 APOE ε4 carriers and 50 non-carriers, matched for age, sex, and disease severity. Our results revealed distinct CSF proteome profiles between APOE ε4 carriers and non-carriers, with 25 proteins differentially expressed (DE) at a false discovery rate (FDR) of <0.05. Pathway analysis of the DE proteins identified significant enrichment of the complement pathway, including C1q, C3, and C4b, in APOE ε4 carriers.
+
+Furthermore, our analysis revealed a positive correlation between the levels of complement proteins and Aβ aggregation markers, such as Aβ42 and phosphorylated tau (p-tau), in CSF. These findings suggest that APOE ε4 genotype influences the activation of the complement pathway, contributing to Aβ-mediated neuroinflammation and pathology. Notably, our proteomics data also highlighted alterations in lipid metabolism and synaptic function pathways in APOE ε4 carriers, providing novel insights into the molecular mechanisms underlying APOE ε4-mediated AD risk.
+
+Our study demonstrates the power of CSF proteomics in uncovering APOE ε4-dependent molecular pathways associated with Aβ aggregation in AD. The identification of novel protein biomarkers and pathways may facilitate the development of targeted therapeutic strategies for APOE ε4 carriers, potentially improving treatment outcomes for this high-risk AD population.
+
+Keywords: Alzheimer's disease, APOE ε4 genotype, cerebrospinal fluid proteomics, amyloid β aggregation, complement pathway.

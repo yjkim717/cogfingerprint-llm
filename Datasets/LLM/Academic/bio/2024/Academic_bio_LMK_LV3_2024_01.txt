@@ -1,0 +1,4 @@
+Title: Modeling DNA Double-Strand Break Repair via Anomalous Diffusion: Insights into Non-Homologous End-Joining Dynamics
+
+Abstract: 
+This study presents a heterogeneous anomalous diffusion model to elucidate the dynamics of DNA double-strand breaks during non-homologous end-joining. By integrating subdiffusive motion characterized by fractional Brownian motion and long-range directed movement, our model accurately captures the complex spatiotemporal dynamics of DNA repair. Simulations demonstrate that anomalous diffusion facilitates efficient break repair by enhancing the encounter rate between broken ends. Our findings provide novel insights into the biophysical mechanisms underlying genomic stability maintenance in 2024, advancing our understanding of DNA repair processes.

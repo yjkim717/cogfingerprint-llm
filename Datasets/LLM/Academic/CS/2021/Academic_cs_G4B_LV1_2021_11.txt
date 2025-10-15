@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, suitable for submission in 2021:
+
+**Abstract**
+
+Weakly supervised semantic segmentation presents a significant challenge due to the scarcity of ground-truth annotations. This work investigates a novel optimization strategy designed to mitigate this limitation, leveraging a trust region method for neural network refinement.  We propose a regularized loss function incorporating geometric priors, explicitly encouraging spatially consistent segmentations and improving robustness to noisy pseudo-labels.  The core of our approach lies in iteratively updating the network parameters within a trust region, dynamically adjusting the step size to balance exploration and exploitation of the loss landscape.  Experimental results on the Cityscapes dataset demonstrate that our method significantly outperforms existing weakly supervised techniques, achieving a notable improvement in both pixel-level accuracy and overall segmentation quality.  Future work will explore adaptive regularization strategies and integration with more sophisticated geometric constraints.

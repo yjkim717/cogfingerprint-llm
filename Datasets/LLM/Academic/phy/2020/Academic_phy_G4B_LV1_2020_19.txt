@@ -1,0 +1,5 @@
+Here’s an original academic-style abstract inspired by the provided summary and keywords, suitable for a physics publication in 2020:
+
+**Abstract**
+
+Metasurfaces are emerging as versatile platforms for manipulating electromagnetic fields, and their application in polarization sensing is gaining significant attention. This work investigates the potential of dielectric metasurfaces to realize highly sensitive and rapid detection of linear and non-linear polarization states. Utilizing non-hermitian transformation optics principles, we demonstrate a design wherein the metasurface elements induce a controllable vertical-to-horizontal ratio in transmitted light.  Crucially, we introduce a deviation monitoring technique based on analyzing subtle shifts in this ratio, enabling single-shot characterization of polarization deviations, including those associated with elliptical polarizations.  Experimental results, presented herein, confirm the efficacy of this approach, suggesting a pathway toward compact and efficient polarization sensors with potential applications in optical communications and advanced imaging systems.

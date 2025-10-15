@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for 2021.
+
+***
+
+**Abstract**
+
+The Pandora's Box problem, a fundamental model for optimal search under uncertainty, has traditionally been studied under strong independence assumptions. This paper bridges a critical gap by addressing the setting with correlated prize distributions. We establish a novel approximation-preserving equivalence between this generalized Pandora's Box problem and two canonical combinatorial problems: the Uniform Decision Tree (UDT) and Min-Sum Set Cover (MSSC). This equivalence reveals that the adaptive complexity inherent in evaluating correlated boxes is computationally synonymous with the task of identifying a single target in UDT and MSSC frameworks. Leveraging this unified perspective, we develop the first sublinear approximation algorithm for correlated Pandora's Box. Our algorithm achieves an \(O(\log n)\)-approximation factor by employing a randomized reduction to MSSC and utilizing the state-of-the-art algorithms for that problem. This result significantly improves upon the naïve linear bound and provides a unifying algorithmic lens through which to view optimal query strategies in correlated environments.

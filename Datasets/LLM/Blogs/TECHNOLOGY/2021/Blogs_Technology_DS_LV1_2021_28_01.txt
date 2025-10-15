@@ -1,0 +1,11 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Algorithm of Me
+
+For years, I thought of myself as a perfect line of code, clean and predictable. My "AP Exam" variables returned high values, my "Extracurricular" functions ran without errors, and my GPA was a steady 3.88. I was a well-designed program, ready for the ultimate compiler: college admissions.
+
+Then, junior year hit. A family issue and the relentless weirdness of hybrid learning in 2021 threw a syntax error into my life. My GPA dropped to a 3.62. Suddenly, I wasn't that perfect program anymore. I was terrified that admissions algorithms would scan my application, hit this "bug," and instantly relegate me to the rejection pile.
+
+But here’s what I’m trying to learn: I’m not a piece of software. That GPA dip isn't a fatal flaw; it's a patch note. It reads: "Updated for resilience. Added features for time management under stress." My story isn't just clean data points; it's the messy, human narrative in between. I hope the colleges I apply to are looking for that, too.

@@ -1,0 +1,9 @@
+Title: Theoretical Advances in Polariton Chemistry: Unveiling the Interplay between Quantum Electrodynamics and Photochemical Reactivity
+
+Abstract:
+
+The burgeoning field of polariton chemistry has garnered significant attention in recent years, driven by the prospect of manipulating photochemical reactivity through the strategic harnessing of light-matter interactions. At the forefront of this endeavour lies the realm of molecular cavity quantum electrodynamics (QED), where the strong coupling between vibrational modes and quantized electromagnetic fields gives rise to novel polaritonic states. As we navigate the complexities of this interdisciplinary landscape in 2023, a comprehensive understanding of the underlying theoretical frameworks is crucial for unlocking the full potential of polariton chemistry.
+
+Recent theoretical advances have elucidated the pivotal role of vibrational strong coupling (VSC) in modulating photochemical reaction pathways. By immersing molecules within optical cavities, VSC enables the creation of hybrid light-matter states that can significantly alter the potential energy landscapes governing chemical reactivity. The application of quantum electrodynamical density functional theory (QEDFT) and other non-equilibrium quantum many-body methods has provided valuable insights into the intricate interplay between polaritons, molecular vibrations, and photochemical reactivity.
+
+This review aims to provide a concise overview of the current theoretical understanding of polariton chemistry, with a particular emphasis on the interplay between quantum electrodynamics and photochemical reactivity. We will discuss the latest developments in the field, highlighting the key challenges and opportunities that lie ahead. By synthesizing the insights garnered from recent studies, we aim to provide a roadmap for future research in this exciting and rapidly evolving field.

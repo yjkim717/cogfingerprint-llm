@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a bio-focused publication (circa 2020):
+
+**Abstract**
+
+Inferring dynamic cellular trajectories remains a significant challenge in single-cell biology. While RNA velocity methods have provided insights into temporal gene expression dynamics, they often overlook the complementary information encoded within protein abundance. Here, we introduce Protaccel, a novel computational framework extending RNA velocity analysis by integrating single-cell RNA and protein measurements. Protaccel leverages both transcript and protein velocity to improve the accuracy of cell state estimation and reconstruct more robust cellular trajectories. We demonstrate the efficacy of Protaccel across diverse single-cell multiomics datasets, showcasing enhanced ability to resolve complex developmental processes and cellular differentiation pathways. This approach offers a powerful advancement for understanding dynamic cellular processes and cell fate determination.

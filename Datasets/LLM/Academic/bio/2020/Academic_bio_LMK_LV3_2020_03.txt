@@ -1,0 +1,4 @@
+Title: Unveiling Ligninolytic Mechanisms in Pleurotus ostreatus through Comparative Transcriptomics
+
+Abstract:
+In 2020, a comprehensive comparative transcriptome analysis was conducted on Pleurotus ostreatus mutants exhibiting impaired lignin degradation. The study revealed significant transcriptional reprogramming of lignocellulolytic genes, including ligninolytic, cellulolytic, and xylanolytic enzymes. Notably, the mutants displayed differential expression of key genes involved in lignin degradation, shedding light on the complex regulatory networks governing this process. These findings provide valuable insights into the molecular mechanisms underlying lignin degradation in white-rot fungi, with implications for biotechnological applications in sustainable biomass conversion.

@@ -1,0 +1,13 @@
+Okay, here's a reflective blog post drawing on the provided summary, aiming for a conversational tone and around 178 words, set in 2024:
+
+---
+
+**The LLM Illusion: Why My Code Still Needs a Human Touch**
+
+Okay, so I’ve been diving headfirst into the LLM hype this year. Everyone’s talking about how these things – ChatGPT, Claude, even the latest LLMs – are going to revolutionize coding. I was determined to use them. I even built a little Vue 3 experiment, trying to get an LLM to handle some styling and component teleportation. 
+
+Let me be clear: it was…disappointing. 
+
+It could spit out *something* resembling code, sure. But when I hit anything remotely complex, it just crumbled. The styling was a mess, the teleportations didn’t work, and frankly, the “learning” process felt completely backwards. It was like watching a really enthusiastic, but utterly clueless, intern. 
+
+I'm not saying LLMs are useless. They’re fantastic for boilerplate and quick snippets. But the core of building good software – the *understanding* – still requires a human brain. It’s a powerful tool, but it’s not a replacement for actual expertise.

@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 73 words, set in 2020:
+
+---
+
+**Streamlined Frustration**
+
+It’s weird, right? As a sysadmin in 2020, I was wrestling with Microsoft Stream. I *had* the permissions, but couldn’t create a simple live event. It felt like a tiny glitch in a world increasingly reliant on seamless digital experiences.  Seriously frustrating when you’re just trying to get a quick meeting recorded for Teams!  Anyone else hit this wall?

@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Unveiling Carbon Accretion Chemistry on Interstellar Ices: A Quantum Chemical Investigation of Carbon-Ammonia Interactions
+
+Abstract:
+
+The accretion of carbon atoms onto interstellar ices is a crucial process influencing the chemical composition of star-forming regions. This study employs quantum chemical calculations to elucidate the chemistry initiated by the interaction of carbon atoms with ammonia (NH3) on interstellar ice surfaces. Using high-level ab initio methods, we investigated the potential energy surfaces governing the C + NH3 reaction, identifying key reaction pathways and products. Our results indicate that the C + NH3 reaction can lead to the formation of complex organic molecules, including methanimine (CH2NH) and hydrogen cyanide (HCN). Astrochemical kinetic models incorporating our findings suggest that this reaction plays a significant role in the interstellar carbon budget. This work provides new insights into the molecular mechanisms underlying interstellar ice chemistry, shedding light on the role of carbon accretion in shaping the chemical landscape of star-forming regions. (2024)

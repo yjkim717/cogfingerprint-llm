@@ -1,0 +1,3 @@
+**Abstract**
+
+This work details the implementation of a novel magneto-optical trap (MOT) for strontium atoms, leveraging the tailored optical properties of metasurfaces. Employing a polarization-multiplexed splitter, we achieve enhanced atom collection efficiency and improved spatial control within the trap volume. Specifically, topology-optimized metasurface designs were utilized to precisely manipulate the trapping potential, maximizing strontium atom density. This approach circumvents limitations inherent in conventional MOT geometries. Preliminary experimental results demonstrate a significant enhancement in trapping performance, suggesting this technique holds promise for advanced atomic physics investigations and precision measurements.

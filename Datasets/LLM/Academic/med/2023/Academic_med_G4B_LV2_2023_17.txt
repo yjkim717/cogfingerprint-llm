@@ -1,0 +1,7 @@
+**Abstract**
+
+The accurate and timely identification of amyloid pathology is paramount in the risk stratification of mild cognitive impairment (MCI) and predicting the progression to Alzheimer’s disease. Current diagnostic approaches frequently rely on invasive and expensive cerebrospinal fluid (CSF) or amyloid PET imaging, limiting widespread clinical application. This study presents a novel, two-step workflow utilizing plasma p-tau217 – a phosphorylated form of total tau – as a readily accessible and cost-effective biomarker for screening MCI patients for amyloid-β positivity. 
+
+Employing a retrospective analysis of plasma samples from a cohort of individuals diagnosed with MCI, we demonstrate a high sensitivity and specificity of p-tau217 in identifying subjects with underlying amyloid pathology. Specifically, elevated plasma p-tau217 levels served as a robust initial screen, effectively predicting the presence of amyloid-β deposition. This preliminary assessment subsequently guided a reduced reliance on confirmatory testing, notably amyloid PET scans, minimizing both patient burden and healthcare expenditure. 
+
+These findings suggest that p-tau217 represents a valuable tool for streamlining risk stratification in MCI, facilitating more targeted diagnostic pathways and potentially enabling earlier therapeutic interventions. Further prospective validation across diverse populations is warranted to fully establish the clinical utility of this streamlined approach.

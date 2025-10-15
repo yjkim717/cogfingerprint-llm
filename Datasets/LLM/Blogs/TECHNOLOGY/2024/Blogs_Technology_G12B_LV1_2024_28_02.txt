@@ -1,0 +1,7 @@
+>## The Unexpected Harmony of Code and Chance
+
+It's funny, isn't it, how seemingly disparate fields can intertwine? I’m juggling a Computer Science major with a Statistics double major here in 2024, and I’ve been thinking a lot about it lately. Initially, CS felt purely logical – ones and zeros, precise instructions. Then I dove into statistics, and suddenly I was wrestling with probability, distributions, and the beautiful messiness of real-world data.
+
+It’s been a surprisingly complementary experience. Debugging code feels a little less daunting when you understand the likelihood of errors, and analyzing data sets is more intuitive with a programming foundation. Things like Data 8 and Math 53 – the foundational stats courses – felt overwhelming at first, but they're slowly clicking into place alongside my CS curriculum.
+
+It’s made me realize that the future isn't just about building things, but about understanding *why* they work, *how* they impact us, and what the odds are of things going sideways. Turns out, logic and chance aren't enemies, they’re partners in navigating this increasingly complex world.

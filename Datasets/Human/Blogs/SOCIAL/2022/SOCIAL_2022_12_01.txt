@@ -1,0 +1,5 @@
+Year: 2022
+Author: bydevilz1
+URL: https://www.reddit.com/r/techsupport/comments/vwzumv/desktop_randomly_shuts_down/
+
+Its a bit strange and i cant figure out the problem. HP omen 880-112na ryzen 7 . Gtx1080. 16gb ddr4. Sometimes when i restart the desktop it wont turn back on. I get a 90b (pump speed) error. Can click to pass that then often it runs, lets me load up to my desktop then shuts down. Its not overheating i cleaned it out recently and its not hot. The other day i had a 3 long beep 3 short error code but it hasnt come back since reseating the gpu. It could possibly be the processor itself overheating not the entire PC, that would be my best guess because the liquid cooling system in this isnt great but i dont see how it would be that hot after playing only like fall guys and watching youtube. Anyone help pls

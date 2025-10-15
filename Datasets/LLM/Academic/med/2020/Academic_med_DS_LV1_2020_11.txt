@@ -1,0 +1,15 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+**Title:** Preliminary Recommendations for Chest Imaging in the Diagnosis and Management of COVID-19: A Consensus Statement from the Iranian Society of Radiology COVID-19 Consultant Group
+
+**Introduction:** The global emergence of the SARS-CoV-2 virus in late 2019 precipitated an urgent need for optimized diagnostic protocols. In the initial phase of the pandemic, with limitations in the widespread availability and rapid turnaround of reverse transcription-polymerase chain reaction (RT-PCR) testing, chest imaging emerged as a critical tool for initial patient triage and clinical management. This document synthesizes the preliminary experience and consensus recommendations of the Iranian Society of Radiology (ISR) COVID-19 Consultant Group, formulated during the early epidemic surge in Iran.
+
+**Methods:** The ISR convened a multidisciplinary consultant group comprising thoracic radiologists, pulmonologists, and infectious disease specialists. Through a series of virtual meetings and a modified Delphi process, the group analyzed initial imaging data from a cohort of 247 RT-PCR-confirmed COVID-19 patients presenting to tertiary care centers in Tehran and Qom between February and April 2020. The primary objective was to establish preliminary, evidence-based guidelines for the appropriate use of thoracic radiography and computed tomography (CT) in suspected and confirmed cases.
+
+**Findings:** Analysis of the initial cohort revealed a high prevalence of specific pulmonary manifestations on CT, with bilateral, peripheral, and multilobar ground-glass opacities (GGO) being the most common initial finding. Consolidation, often with a superimposed crazy-paving pattern, was frequently observed in patients with progressive disease. Chest radiography, while less sensitive for early detection, was deemed invaluable for rapid bedside assessment and monitoring of critically ill patients. The group strongly advises against the routine use of CT for screening asymptomatic individuals. Instead, a tiered imaging approach is recommended: chest radiography for initial evaluation and follow-up in stable inpatients, and non-contrast high-resolution CT reserved for cases with high clinical suspicion and negative/indeterminate RT-PCR, or for assessing disease progression and complications such as pulmonary embolism.
+
+**Conclusion:** In the context of the 2020 COVID-19 pandemic, chest imaging serves as a pivotal adjunct to clinical and laboratory findings. The preliminary recommendations provided by the ISR Consultant Group aim to standardize radiologic practice, optimize resource allocation, and guide clinical decision-making for patients with suspected or confirmed SARS-CoV-2 infection, thereby contributing to the broader global effort to manage this novel disease.

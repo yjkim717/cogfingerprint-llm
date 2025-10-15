@@ -1,0 +1,1 @@
+create_blog_post(summary="A fan celebrates Lee Taemin's birthday, sharing their admiration and a tweet about him.", keywords=["kpop", "lee taemin", "birthday", "move postcards", "twitter link"])

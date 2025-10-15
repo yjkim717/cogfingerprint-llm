@@ -1,0 +1,5 @@
+**Abstract**
+
+The efficacy of algorithmic predictions in guiding resource allocation for interventions is a critical concern in computational social systems. This paper formally investigates the conditions under which prediction-based allocation (PBA) Pareto-dominates aggregate allocation strategies. We model a system of heterogeneous units and introduce a theoretical framework that parameterizes between-unit inequality and a finite intervention budget. Our analysis demonstrates that PBA's superior performance is not universal but is contingent upon a specific regime: high between-unit inequality effectively constrains the utility of fine-grained predictions, as the budget is insufficient to address widespread need. Conversely, PBA yields significant utility gains only when inter-unit disparity is low, allowing targeted interventions to efficiently capitalize on predictive signals. These findings provide crucial guidance for the design and ethical deployment of predictive systems in public health and social welfare domains.
+
+(120 words)

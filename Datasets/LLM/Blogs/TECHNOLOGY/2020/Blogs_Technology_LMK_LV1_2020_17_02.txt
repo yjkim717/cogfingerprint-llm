@@ -1,0 +1,9 @@
+"Securing a Standalone Windows Server 2019: Lessons Learned"
+
+As I sat in front of my computer screen in early 2020, staring at the login page of my newly installed Windows Server 2019, I couldn't help but feel a mix of excitement and anxiety. I had decided to host some of my personal projects on this standalone server, and I knew that security was going to be a top priority. With the rise of remote work, I was going to need to access it via Remote Desktop, and I was also planning to use it to host some FTP and HTTP services.
+
+My first thought was to lock down Remote Desktop by changing the default port and limiting access to a specific IP address. I also made sure to set up a strong password and enable Network Level Authentication. Next, I turned my attention to securing my FTP service. I decided to use SFTP (Secure File Transfer Protocol) instead of the traditional FTP, as it provides an additional layer of encryption.
+
+As I dug deeper into server security, I realized that there were many other potential vulnerabilities to consider. I made sure to keep my server up-to-date with the latest security patches, and I configured the Windows Firewall to restrict incoming traffic to only the necessary ports. I also set up monitoring to keep an eye on any suspicious activity.
+
+Looking back, securing my standalone Windows Server 2019 was a steep learning curve, but it was worth it. I've gained a much deeper understanding of server security, and I feel confident that my server is now a secure environment for hosting my services.

@@ -1,0 +1,5 @@
+Year: 2021
+Author: Purple___Flame
+URL: https://www.reddit.com/r/VLC/comments/n0cy8p/fit_video_to_screen_option/
+
+Hello VLC player on mobile has aspect ratio mode 'fit video to screen'(wording might not be exact) which, when you watch video in portrait orientation will crop the video until it fits the screen(rather than filling it all). Is there such an option for PC version, or how can i have same effect(crop video in portrait orientation)?

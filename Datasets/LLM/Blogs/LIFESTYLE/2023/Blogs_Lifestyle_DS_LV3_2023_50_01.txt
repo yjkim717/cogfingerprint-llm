@@ -1,0 +1,7 @@
+The morning coffee steam rises like a question mark. For the third time this week, I’ve opened my laptop not to a sales dashboard, but to articles about AI. The headlines scream about automation, about code writing itself, and a familiar knot tightens in my stomach.
+
+You see, I’m at a crossroads. After a decade in sales, I feel the pull toward something new, something built—software engineering. But is the door closing just as I’m trying to open it? The buzz around AI is deafening. Will there even be a need for human programmers in five years?
+
+And if I take this leap, which path do I follow? Do I dive into the modern world of React, building the sleek interfaces users interact with every day? Or do I go deeper, toward the foundational power of languages like C, the bedrock upon which everything else is built? It feels like choosing between learning to design a beautiful car or understanding the engine that makes it run.
+
+In 2023, the future feels both incredibly exciting and utterly terrifying. But maybe that’s the point of any great change. The fear of the unknown is just part of the journey. So, I take another sip of coffee. The question isn't just *what* to learn, but finding the courage to start learning at all.

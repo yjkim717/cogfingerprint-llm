@@ -1,0 +1,15 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+**Title:** The Mediating Role of Psychological Distress and Mindful Eating in the Relationship between Orthorexia Nervosa and Academic Self-Efficacy among Lebanese Female University Students
+
+**Background:** Orthorexia Nervosa (ON), a pathological fixation on "healthy" eating, is increasingly recognized for its complex psychological sequelae. While its association with impaired psychosocial functioning is established, the mechanisms linking ON to academic outcomes, such as Academic Self-Efficacy (ASE), remain underexplored, particularly in non-Western contexts. This study investigates the mediating pathways of Psychological Distress and Mindful Eating Behaviors in the relationship between ON and ASE in a sample of Lebanese female university students.
+
+**Methods:** A cross-sectional design was employed in 2024, recruiting 450 female undergraduates from major Lebanese universities. Participants completed validated scales assessing ON (ORTO-R), psychological distress (DASS-21), mindful eating (MEQ), and academic self-efficacy (ASES). Data were analyzed using structural equation modeling (SEM) to test the proposed parallel mediation model.
+
+**Results:** Path analysis revealed that ON exerted a significant negative indirect effect on ASE. Crucially, this relationship was fully mediated by two distinct pathways: heightened psychological distress and reduced mindful eating behaviors. The direct path from ON to ASE was non-significant when mediators were included in the model.
+
+**Conclusion:** These findings elucidate the psychological mechanisms through which orthorexic tendencies impair academic confidence. The results suggest that the cognitive and emotional burden of ON, manifested as increased distress and disrupted mindful eating, detrimentally impacts students' belief in their academic capabilities. Interventions aimed at bolstering ASE in this population may benefit from incorporating components that mitigate psychological distress and foster a more adaptive, mindful relationship with food.

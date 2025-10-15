@@ -1,0 +1,5 @@
+Here’s an academic abstract, informed by the provided summary and keywords, suitable for a chemistry publication in 2020:
+
+**Abstract**
+
+Recent investigations into interstellar chemistry have highlighted the critical role of diffusive hydrogenation in the formation of complex organic molecules. This study examines the elevated efficiency of carbon monoxide hydrogenation within amorphous solid water (ASW) matrices at temperatures exceeding 20 K. Utilizing a theoretical framework incorporating hydrogen atom diffusion through pre-existing ASW microcracks, we demonstrate that this process overcomes kinetic barriers typically associated with low-temperature hydrogenation reactions. The observed sustained hydrogenating activity suggests a viable mechanism for the initial steps of molecular complexity generation in dense molecular clouds.  Furthermore, these findings provide a compelling rationale for considering ASW as a significant reservoir and active participant in the chemical evolution of interstellar dust grains, warranting further spectroscopic and computational exploration to refine our understanding of prebiotic pathways.

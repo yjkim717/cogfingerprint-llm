@@ -1,8 +1,21 @@
-Author: Tianhan Xu
-Title: Attention mechanisms in computer vision: A survey
-Paper ID: 45f686be3b96302ede327645227134e1c304dbab
+Author: A. Iorliam
+Title: A Forensic Investigation of Terrorism in Nigeria: An Apriori Algorithm Approach
+Paper ID: 69ce6537e6ee45207658ed210561094ba4341caf
 Year: 2021
 Author Index: 17
 
 Abstract:
-Humans can naturally and effectively find salient regions in complex scenes. Motivated by this observation, attention mechanisms were introduced into computer vision with the aim of imitating this aspect of the human visual system. Such an attention mechanism can be regarded as a dynamic weight adjustment process based on features of the input image. Attention mechanisms have achieved great success in many visual tasks, including image classification, object detection, semantic segmentation, video understanding, image generation, 3D vision, multimodal tasks, and self-supervised learning. In this survey, we provide a comprehensive review of various attention mechanisms in computer vision and categorize them according to approach, such as channel attention, spatial attention, temporal attention, and branch attention; a related repository https://github.com/MenghaoGuo/Awesome-Vision-Attentions is dedicated to collecting related work. We also suggest future directions for attention mechanism research.
+Investigations towards studying terrorist activities 
+have recently attracted a great amount of research interest. In this paper, we 
+investigate the use of the Apriori algorithm on the Global Terrorism Database 
+(GTD) for forensic investigation purposes. Recently, the Apriori algorithm, 
+which could be considered a forensic tool, has been used to study terrorist activities and 
+patterns across the world. As such, our motivation is to utilise the Apriori 
+algorithm approach on the GTD to study terrorist activities and the areas/states 
+in Nigeria with high frequencies of terrorist activities. We observe that the 
+most preferred method of terrorist attacks in Nigeria is through armed assault. 
+Again, our experiment shows that attacks in Nigeria are mostly successful. 
+Also, we observe from our investigations that most terrorists in Nigeria are 
+not suicidal. The main application of this work can be used by forensic experts 
+to assist law enforcement agencies in decision making when handling terrorist 
+attacks in Nigeria.

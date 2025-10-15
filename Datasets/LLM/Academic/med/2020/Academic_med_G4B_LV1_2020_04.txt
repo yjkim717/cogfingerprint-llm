@@ -1,0 +1,5 @@
+Here’s an abstract inspired by the provided summary, adhering to the requested style and context:
+
+**Abstract**
+
+The 2020 National Comprehensive Cancer Network (NCCN) guidelines provide a framework for individualized treatment selection in patients with metastatic breast cancer. These recommendations are predicated upon a thorough assessment of key tumor characteristics, specifically hormone receptor status (HR), human epidermal growth factor receptor 2 (HER2) status, and overall clinical factors.  Treatment strategies are stratified based on these biomarkers, reflecting evolving understanding of disease biology.  The NCCN guidelines emphasize a shift towards targeted therapies and endocrine therapy, often in combination, guided by the molecular profile of the metastatic disease. Adherence to these updated recommendations is crucial for optimizing patient outcomes and minimizing treatment-related toxicity.

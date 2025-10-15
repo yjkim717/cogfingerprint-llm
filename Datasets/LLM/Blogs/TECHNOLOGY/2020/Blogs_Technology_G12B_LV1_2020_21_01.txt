@@ -1,0 +1,7 @@
+>## The Phantom Live Event
+
+It's funny how technology can just…stop. I spent a good chunk of yesterday wrestling with Office 365, specifically trying to schedule a live event through Teams. As an admin, I *should* have been able to do it, but the button was just…missing. 
+
+Initially, I panicked. Had Microsoft quietly removed the feature? Was there some propagation delay I wasn’t aware of? After a deep dive into permissions and a frantic search through Microsoft’s documentation (thanks, 2020!), I finally realized a simple setting had been inadvertently altered. 
+
+It's a good reminder that even with all the bells and whistles, tech can be surprisingly stubborn. Sometimes, the solution is just hiding in plain sight.

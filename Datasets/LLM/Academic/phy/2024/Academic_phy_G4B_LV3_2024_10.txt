@@ -1,0 +1,5 @@
+Here’s an abstract based on the provided summary and keywords, aiming for a formal academic style and approximately 146 words:
+
+**Abstract**
+
+The oxygen evolution reaction (OER) on iridium dioxide (IrO2) presents a significant challenge in electrochemical energy conversion. This study employs a combined experimental and computational approach to investigate the facet-dependent activity of IrO2 in OER kinetics, published in 2024. Density functional theory (DFT) calculations, incorporating quantum mechanical principles, were utilized to analyze the energetics and reaction pathways across distinct IrO2 crystallographic facets.  Results demonstrate a pronounced disparity in mechanistic behavior, highlighting a preference for nucleophilic attack versus O-O coupling depending on the exposed surface.  Furthermore, the microkinetic model developed reveals critical activation barriers associated with each facet. These findings contribute to a refined understanding of IrO2’s catalytic performance and provide a framework for rational catalyst design, ultimately optimizing OER efficiency.

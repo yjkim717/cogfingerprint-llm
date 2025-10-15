@@ -1,0 +1,5 @@
+Year: 2023
+Author: forwardslashroot
+URL: https://www.reddit.com/r/opnsense/comments/13imur7/issues_with_opnsense_vm/
+
+My 3rd attempt for a remote OPNsense. This time I decided to make it a VM on a Proxmox boax, so that I can snapshot it before upgrade. The appliance that I am using is VNOPN Micro Firewall Appliance. The issue that I am having is every \~5 days, the OPNsense VM just goes into unresponding state. When I checked the console, I see the arpresolve spamming the screen: arpresolve: can't allocate Ilinfo for <public-ip> on igc0 The WAN port is a passthrough NIC and the LAN port is also a passthrough NIC. When the VM become unresponsive, all the client cannot reach their gateways. I also converted my firewall from bare-metal into Proxmox VM, and so far I have no issues. EDIT: Here is another error that I got from the console: calcru: runtime went backwards from 133 usec to 99 usec for pid 21726 &#x200B;

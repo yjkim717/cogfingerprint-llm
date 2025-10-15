@@ -1,0 +1,5 @@
+Year: 2023
+Author: mikaball
+URL: https://www.reddit.com/r/Kotlin/comments/15gexc7/compiler_generic_parameter_check_not_working/
+
+I have the following (not full code): ... infix fun <V> KProperty1<T, V>.set(value: V) = ... ... class User ( val id: Long, val name: String ) ... fun getUserById(userId: Long) = result { User::id set userId // this is OK User::name set userId // this should not be OK because name is a String ! } I was expecting the compiler to be smart enough to see that V type is not the same for KProperty and value parameter. Why this doesn't work? EDIT: example code here

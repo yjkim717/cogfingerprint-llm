@@ -1,0 +1,5 @@
+Year: 2020
+Author: tomdawg0022
+URL: https://www.reddit.com/r/chromeos/comments/jf1ww5/beta_870428024_seems_to_have_fixed_the_crashes/
+
+Looks like the new update that's getting shoved out is preventing the crash and reboot issue that plagued my CB when it came out of sleep mode. For those of you who have had worse issues, I hope this works for you...

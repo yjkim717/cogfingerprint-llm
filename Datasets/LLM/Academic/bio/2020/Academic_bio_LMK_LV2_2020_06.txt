@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract in the field of bioinorganic chemistry or materials science, as the topic seems to be related to electrocatalysis:
+
+Title: Enhanced Oxygen Evolution Reaction Catalytic Activity in FeOOH-Decorated LaNiO3 Perovskite via Lattice Oxygen Oxidation Mechanism
+
+Abstract:
+The development of efficient electrocatalysts for the oxygen evolution reaction (OER) is crucial for renewable energy applications. Herein, we report a significant enhancement in OER catalytic activity upon decorating LaNiO3 perovskite with FeOOH. The FeOOH decoration promotes lattice oxygen oxidation, a key mechanistic pathway for OER, by weakening the Ni-O bond and facilitating oxygen release. Consequently, the FeOOH-LaNiO3 composite exhibits improved catalytic performance, underscoring the importance of surface modification in optimizing perovskite-based OER electrocatalysts. Our findings provide insights into the design of advanced electrocatalysts via strategic surface engineering, with implications for sustainable energy conversion technologies. (2020)

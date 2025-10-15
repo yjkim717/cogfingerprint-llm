@@ -1,0 +1,3 @@
+## The Unexpected Puzzle of My New Build
+
+So, I finally took the plunge and built my own PC! It's been a long-time dream, and the satisfying hum of the machine is incredible. But, let me tell you, it wasn't all smooth sailing. I hit a snag with the cooler – a Corsair iCUE H100i Elite – and ensuring it played nice with my Intel 12700k and LGA1700 motherboard felt like solving a little puzzle. Turns out, specific parts matter! It’s a humbling reminder that even ambitious projects need a little research.

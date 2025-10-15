@@ -1,0 +1,5 @@
+)
+
+**Abstract:**
+
+Understanding the intricate catalytic mechanisms governing the oxygen evolution reaction (OER) is crucial for developing efficient electrocatalysts. This study, conducted in 2023, employs *in situ* spectroscopic techniques to probe the dynamic behavior of Ni–Fe-based catalysts during OER. Real-time monitoring of surface reconstruction and intermediate species formation provides unprecedented insight into the active site evolution. Observed changes in Ni and Fe oxidation states, alongside spectroscopic evidence of oxygenated species, elucidate a complex interplay influencing catalytic activity. These findings refine current models of Ni–Fe OER catalysis and offer guidance for rational catalyst design.

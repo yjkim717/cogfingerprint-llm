@@ -1,0 +1,9 @@
+Of course. Here is an original academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Disentangling Macro- and Microclimatic Drivers of Sub-Canopy Thermal Buffering in European Forests
+
+**Abstract:**
+
+Accurately predicting species distributions under climate change requires moving beyond coarse-resolution macroclimatic data, as many organisms, particularly understory plants and fauna, experience non-analogous microclimatic conditions. This study addresses the critical knowledge gap in continental-scale forest microclimates by generating high-resolution (30 m) maps of sub-canopy temperature for European forests. We integrated satellite-derived land surface temperature, LiDAR-based canopy structure metrics, and topographical data with a dense network of in-situ microclimate loggers to model daily minimum, maximum, and mean temperatures for the year 2021. Our analysis reveals a pronounced and spatially variable buffering capacity of forest canopies. On average, forest understories were 2.1 °C cooler during summer maximum temperatures and 1.4 °C warmer during winter minimum temperatures compared to free-air temperatures measured at standard meteorological stations. The magnitude of this buffering was primarily driven by canopy density and height, with secondary effects from topographic position and latitude. These findings demonstrate that the thermal environment experienced by forest-dwelling species deviates significantly from macroclimatic conditions, with critical implications for thermoregulation, phenology, and survival. By quantifying this decoupling, our spatially explicit microclimate maps provide an essential tool for refining species distribution models, identifying potential microrefugia, and informing conservation strategies aimed at enhancing forest resilience in a warming climate.

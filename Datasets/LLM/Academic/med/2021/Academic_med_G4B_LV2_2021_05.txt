@@ -1,0 +1,5 @@
+**Abstract**
+
+The 2021 NCCN Guidelines for metastatic colorectal cancer (mCRCT) reflect evolving systemic treatment strategies, emphasizing the integration of checkpoint inhibitors and refined biomarker testing protocols.  Following recent clinical trial data, the guidelines now strongly recommend consideration of anti-PD-1/PD-L1 therapy as a first-line option for patients with mCRCT, irrespective of microsatellite instability (MSI) status.  Furthermore, the utility of comprehensive biomarker testing, encompassing MSI, MSH2/MSH6, and RAS wild-type status, is underscored to personalize treatment selection.  
+
+Notably, the document addresses the increasing availability and potential role of biosimilars in expanding access to effective therapies.  Detailed algorithms are presented to guide clinicians in determining appropriate sequencing and combination regimens.  This updated guidance prioritizes patient stratification based on molecular profiles to maximize treatment efficacy and minimize unnecessary toxicity.  Continued monitoring of emerging research and real-world evidence will undoubtedly shape future iterations of these crucial clinical recommendations.

@@ -1,0 +1,1 @@
+"As I dug into my media setup, I wondered: can Plex handle my PVR's tsv files? In 2023, seamless media management is a must. I'll share my journey of trial and error, exploring file formats and Plex's capabilities, to help you navigate the same tech puzzle."

@@ -1,0 +1,7 @@
+Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone:
+
+---
+
+**The Ghosts in the Machine**
+
+It’s funny, isn’t it? Back in 2021, I was wrestling with a nagging question. Deep learning was *everywhere*, and I, a humble machine learning researcher, felt a little… obsolete. Specifically, I was wondering about SVMs – those stalwart kernel methods. Were they just fading into the background? I was searching for a compelling reason to believe they still mattered, a shining example of their continued relevance. It felt like watching familiar technology become ghosts in the machine.

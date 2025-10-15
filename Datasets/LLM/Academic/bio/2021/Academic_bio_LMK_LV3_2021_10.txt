@@ -1,0 +1,4 @@
+Title: Unbiased Proteome-Wide Profiling of Covalent Inhibitors Using Alkyne Probes
+
+Abstract:
+The development of covalent inhibitors with optimal electrophile selectivity is crucial for targeted therapeutic interventions. In 2021, we introduced a novel workflow for the unbiased comparison of proteome-wide selectivity among 54 diverse alkyne probes containing various reactive groups. Utilizing competitive residue-specific proteomics, this approach enabled the comprehensive profiling of electrophile selectivity across the proteome. Our results demonstrate the utility of this methodology in identifying covalent inhibitors with enhanced specificity, thereby facilitating the design of targeted covalent therapies. This workflow has significant implications for the development of precision medicines.

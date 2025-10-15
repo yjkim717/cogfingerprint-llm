@@ -1,0 +1,3 @@
+Another week of job hunting, and I’m reminded how much our tools shape our identity in tech. I keep seeing roles demanding TypeScript, and I’ll admit—it’s just not my happy place. I miss the fluid freedom of plain JavaScript, where creativity wasn’t boxed in by strict types.
+
+My mind wanders to backend choices, too. Is the Rails magic still alive, or is Python’s pragmatism the new king? And every Vue team posting feels like a small, welcoming tribe in a React-dominated world. It’s not just about skills; it’s about finding a culture where your coding soul fits. In 2023, the right tech stack feels as personal as the right neighborhood.

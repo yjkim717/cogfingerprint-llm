@@ -1,0 +1,8 @@
+Author: B. Lehallier
+Title: Aromatic L-Amino Acid Decarboxylase is a novel fluid biomarker of Parkinson's disease
+Paper ID: c123db0c09926be49d5cb40e6e0b24e2333d95f1
+Year: 2022
+Author Index: 11
+
+Abstract:
+There are currently limited molecular markers of Parkinson's disease, and there is an urgent need for new markers to guide clinical care, support earlier diagnosis, and hasten drug development. Here, we performed CSF and plasma proteomics in 5 Parkinson's disease cohorts to identify novel protein biomarkers for these purposes, resulting in one of the largest such resources for Parkinson's disease to date. We discovered a consistent upregulation of the protein L-Aromatic Acid Decarboxylase (AADC, EC 4.1.1.28, DDC) in the CSF and plasma of Parkinson's disease patients. AADC is a key protein in the synthesis of dopamine and other monoamine neurotransmitters. We found that higher CSF AADC levels are associated with greater motor symptom severity in Parkinson's patients. We replicated and extended these findings in another undescribed proteomics cohort of de novo Parkinson's disease participants from the Parkinson's Progression Marker Initiative, where we found that AADC expression is upregulated in treatment naive participants and is associated with motor and cognitive symptoms. We found that AADC expression can accurately distinguish Parkinson's disease from healthy participants and Alzheimer's disease participants in multiple independent cohorts, and developed a panel of 16 proteins that achieves 95% receiver operator area under the curve (ROC AUC) in distinguishing these three states. Our results suggest that CSF AADC is a marker of the underlying disease process in Parkinson's disease with potential utility in multiple contexts.

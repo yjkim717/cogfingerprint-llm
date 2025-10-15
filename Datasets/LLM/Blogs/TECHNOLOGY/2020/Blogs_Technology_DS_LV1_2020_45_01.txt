@@ -1,0 +1,7 @@
+It’s 2020, and I’ve been thinking a lot about how we build things. Lately, I’ve been tinkering with an idea—what if backend development didn’t have to feel so rigid? That’s how I stumbled into creating FatCoach, an experimental BaaS framework in Kotlin.
+
+You see, I love GraphQL for its flexibility, but sometimes it still feels like you’re wrestling with the database through a keyhole. SQL is powerful, but it’s not exactly front-end friendly. So I asked: why not build a layer that abstracts the SQL complexity entirely and gives front-end devs a query language that’s even more adaptable?
+
+FatCoach isn’t about reinventing the wheel—it’s about smoothing the path. Using Kotlin felt right; it’s concise, expressive, and a joy to work with. The goal? Let front-end teams focus on what they do best, without getting tangled in backend specifics.
+
+Sometimes, the most exciting innovations come from questioning the defaults. In a year full of uncertainty, building something that makes development a little more human has been a bright spot for me.

@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided concepts, contextualized for the year 2022.
+
+***
+
+**Title:** A Polycistronic tRNA-gRNA CRISPR/Cas9 System for High-Efficiency Multiplex Gene Editing in *Pleurotus ostreatus*
+
+**Abstract:**
+
+The functional genomic analysis of basidiomycete fungi, particularly the edible white-rot fungus *Pleurotus ostreatus*, has been hindered by the inefficiency of tools for multiplex mutagenesis. While CRISPR/Cas9 has revolutionized genetic engineering, its application for simultaneous disruption of multiple gene targets in this organism remains suboptimal. To address this limitation, we developed and optimized a novel CRISPR/Cas9 system employing a polycistronic tRNA-gRNA (PTG) expression strategy for *P. ostreatus*. This system allows for the processing of multiple guide RNA (gRNA) transcripts from a single polymerase II promoter via endogenous tRNA-processing machinery, thereby enhancing the efficiency of multiplexed editing. We successfully targeted a suite of genes encoding key hydrolytic and oxidative enzymes implicated in the lignocellulose degradation pathway. Transformation with our PTG-CRISPR/Cas9 construct resulted in a significant increase in the frequency of mutants with double and triple gene knockouts compared to conventional methods. This robust platform not only provides a powerful tool for elucidating the complex synergies within the lignocellulolytic system of *P. ostreatus* but also establishes a foundational methodology for advanced metabolic engineering in recalcitrant basidiomycetes.

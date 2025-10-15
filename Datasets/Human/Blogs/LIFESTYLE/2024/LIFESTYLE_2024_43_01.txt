@@ -1,0 +1,5 @@
+Year: 2024
+Author: GullibleEngineer4
+URL: https://www.reddit.com/r/ClaudeAI/comments/1h9kevw/is_there_an_official_or_community_driven_sdk_for/
+
+The official docs provide SDKs in TypeScript and Python to create MCP Servers but I didn't find any library or SDK to create custom MCP Clients. Did I miss something? Is there a community driven project which which provides an SDK or at least documents it thoroughly?

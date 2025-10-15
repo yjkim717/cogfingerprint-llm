@@ -1,0 +1,6 @@
+meal_prep_ideas = {
+    'title': 'Navigating Uncontrolled Diabetes: Simple Meal Prep Ideas on a Budget',
+    'content': 'As we navigated 2021, a friend\'s uncontrolled diabetes diagnosis sparked a journey to create affordable, healthy meal prep solutions. With a tight budget, we turned to freezer meals and low-carb diabetic recipes that were both nourishing and easy on the wallet. By planning meals around seasonal produce and staples like beans and rice, we were able to create a supportive meal prep routine that worked for everyone. Here are some practical tips and ideas to help you do the same.'
+}
+
+print(f'{meal_prep_ideas["title"]}: In {meal_prep_ideas["content"]}')

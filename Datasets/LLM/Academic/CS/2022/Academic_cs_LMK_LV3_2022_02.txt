@@ -1,0 +1,5 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Computational Hardness of PAC Learning Halfspaces under Massart Noise"
+
+This paper establishes the computational intractability of PAC learning halfspaces in the presence of Massart noise. Under the Learning with Errors (LWE) hardness assumption, we demonstrate that no polynomial-time algorithm can achieve a classification error better than Ω(η), where η is the noise rate. Our result highlights the inherent difficulty of learning halfspaces with corrupted labels and underscores the limitations of efficient learning under Massart noise. This finding contributes to our understanding of the computational hardness of robust learning in 2022.

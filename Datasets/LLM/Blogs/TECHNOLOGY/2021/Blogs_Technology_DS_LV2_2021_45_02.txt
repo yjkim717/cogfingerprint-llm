@@ -1,0 +1,11 @@
+Of course, here is a reflective blog post based on your summary.
+
+***
+
+Remember the days of writing endless, boilerplate mapping code? I was drowning in it back in 2021, manually transferring data from our internal Scala models to the DTOs our REST services spat out. It felt like being a digital courier, just moving properties from one class to another. My code was a cluttered mess of `user.name = domainUser.name`—repetitive, error-prone, and frankly, a little soul-crushing for a developer who loves elegance.
+
+Then, I started diving into Scala 3. It wasn't just an update; it felt like a liberation. I began experimenting with its new features, not for some grand architectural overhaul, but to solve this one mundane pain point. Could I make this process… beautiful?
+
+The journey was less about finding a direct MapStruct clone and more about rediscovering the language's power. Using opaque types and context abstractions, I started crafting these tiny, expressive mappers. They weren't just functions; they were clear, compile-time-safe declarations of intent. The transformation from a dense, internal `UserEntity` to a slim, public `UserResponse` became a single, readable line of code.
+
+It was a powerful reminder that sometimes, the most satisfying tech wins aren't the big, flashy framework migrations, but those small victories where you use a language's unique character to write code that is not only functional but truly a pleasure to read and write. It made me fall in love with the craft all over again.

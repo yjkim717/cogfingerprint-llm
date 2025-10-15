@@ -1,0 +1,5 @@
+Year: 2023
+Author: istara
+URL: https://www.reddit.com/r/selfpublish/comments/11mdeik/recommendations_for_best_platform_to_publish_an/
+
+Trying to set up an online magazine (it will be free - this is not a commercial venture, though I'm cool with paying modest platform fees) with some friends. It will contain prose, poems, maybe some pictures. I've looked at Canva and that seems to work, but it's not a very great layout system. I've used actual newspaper layout software (decades ago) and you can do things like connect text boxes so text flows between columns or pages. I'm not sure if this function is available in Canva? Also when trying to resize a text box, it automatically makes all the text smaller to fit - I don't know if you can toggle this off? The only requirement is being able to download it as a pdf so people can print it off if they want. Thanks for any suggestions!

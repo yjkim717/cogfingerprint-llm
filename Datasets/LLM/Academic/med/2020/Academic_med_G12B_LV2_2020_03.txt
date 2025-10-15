@@ -1,0 +1,10 @@
+)
+## Abstract
+
+**Defining Intermediate Amyloid-β Cerebrospinal Fluid Cutoffs to Predict Clinical Progression in Cognitively Unimpaired Individuals**
+
+Alzheimer's disease (AD) is characterized by the accumulation of amyloid-β (Aβ) plaques in the brain, detectable via alterations in cerebrospinal fluid (CSF) Aβ levels. While established cutoff values delineate individuals with definitive Aβ positivity or negativity, a substantial proportion fall within an intermediate range, complicating risk stratification and early intervention strategies. This study investigates the utility of a three-range classification system for CSF Aβ, incorporating low, intermediate, and high levels, to predict subsequent cognitive decline in a cohort of cognitively unimpaired (CU) individuals. Utilizing longitudinal data and employing established cognitive assessment tools, we assessed the predictive power of these refined Aβ CSF cutoffs for conversion to mild cognitive impairment (MCI) or dementia. Results demonstrate that individuals classified within the intermediate Aβ range exhibit a significantly elevated risk of clinical progression compared to those with low Aβ levels. This refined categorization enhances the identification of individuals at increased risk, potentially facilitating targeted preventative interventions and advancing our understanding of the preclinical AD continuum. Further research is warranted to validate these findings across diverse populations and to integrate these biomarkers with other clinical and neuroimaging data.
+
+
+
+**Keywords:** Alzheimer's disease, amyloid-β, cerebrospinal fluid, cutoff values, biomarkers

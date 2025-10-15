@@ -1,0 +1,11 @@
+Okay, here's an academic-style abstract drawing upon the provided summary and incorporating the requested elements, aiming for a medical perspective and approximately 200 words:
+
+---
+
+**Prevalence of Psychological Distress Among High School Athletic Populations: A Cross-Sectional Survey Analysis**
+
+**Abstract**
+
+This study investigated the prevalence of psychological distress within a cohort of high school athletes, utilizing a cross-sectional survey design conducted in 2023.  The primary objective was to quantify the association between athletic involvement and reported levels of stress, anxiety, and depressive symptoms. Findings revealed that 91% of surveyed athletes reported experiencing significant stress related to their participation in competitive sports.  Specifically, 68% reported experiencing clinically relevant levels of anxiety, and 52% demonstrated symptoms consistent with mild to moderate depression.  These results suggest a substantial burden of psychological distress among this population.  
+
+The observed high prevalence warrants a proactive approach to mental health support within high school athletic programs.  Further research is needed to explore the specific stressors contributing to these outcomes, including pressure from coaches, parental expectations, and competitive demands.  Intervention strategies focusing on stress management techniques, cognitive behavioral therapy, and enhanced access to mental health resources should be prioritized to mitigate the potential long-term consequences of untreated psychological distress in adolescent athletes.  Future studies should examine potential mediating factors such as athlete gender and sport type.

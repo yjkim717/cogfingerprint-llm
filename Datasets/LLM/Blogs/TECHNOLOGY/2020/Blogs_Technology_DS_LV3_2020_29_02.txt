@@ -1,0 +1,5 @@
+It’s 2020, and I’ve been staring at the same chunk of C code for what feels like hours. Nestled between function definitions and loops are these cryptic macros, standing in for variable declarations like some kind of digital shorthand. I remember when I first learned to use them—it felt clever, like I was unlocking a secret level of programming efficiency.
+
+But now? I’m not so sure. Every time I revisit this section, I have to pause and mentally unpack what `DECLARE_INT(count)` actually means. It saves a few keystrokes, sure, but at what cost? My future self, or another developer, has to decode my intent instead of just reading clear, explicit code like `int count;`.
+
+In a world where we’re already grappling with complex systems and remote collaboration, readability isn’t just a nice-to-have—it’s essential. Maybe true craftsmanship in programming isn’t about being clever, but about being clear. Sometimes, the simplest path is the most intelligent one.

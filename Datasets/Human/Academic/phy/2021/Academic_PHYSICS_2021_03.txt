@@ -1,0 +1,8 @@
+Author: J. Maldacena
+Title: On the black hole/string transition
+Paper ID: 01e49d8a1187fb17c206d5d800038e8bfc8512e3
+Year: 2021
+Author Index: 3
+
+Abstract:
+We discuss aspects of the possible transition between small black holes and highly excited fundamental strings. We focus on the connection between black holes and the self gravitating string solution of Horowitz and Polchinski. This solution is interesting because it has non-zero entropy at the classical level and it is natural to suspect that it might be continuously connected to the black hole. Surprisingly, we find a different behavior for heterotic and type II cases. For the type II case we find an obstruction to the idea that the two are connected as classical solutions of string theory, while no such obstruction exists for the heterotic case. We further provide a linear sigma model analysis that suggests a continuous connection for the heterotic case. We also describe a solution generating transformation that produces a charged version of the self gravitating string. This provides a fuzzball-like construction of near extremal configurations carrying fundamental string momentum and winding charges. We provide formulas which are exact in α ′ relating the thermodynamic properties of the charged and the uncharged solutions.

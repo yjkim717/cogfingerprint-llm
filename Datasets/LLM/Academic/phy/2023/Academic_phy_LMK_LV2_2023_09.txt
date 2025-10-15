@@ -1,0 +1,4 @@
+Title: Unveiling Dark Matter Halo Evolution through Neural Networks
+
+Abstract:
+We leverage neural networks to establish a connection between dark matter halo density profiles and their evolutionary histories, utilizing large-scale astrophysical datasets. By training machine learning models on simulated halo data, we recover established relationships between halo properties and identify novel correlations. Our results demonstrate the efficacy of machine-assisted discovery in astrophysics, revealing new insights into the complex interplay between dark matter halo structure and cosmic evolution. This work showcases the potential of integrating neural networks into astrophysical research, enhancing our understanding of dark matter halos in 2023.

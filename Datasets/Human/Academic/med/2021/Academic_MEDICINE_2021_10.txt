@@ -1,0 +1,8 @@
+Author: A. Kazerooni
+Title: Quantification of tumor microenvironment acidity in glioblastoma using principal component analysis of dynamic susceptibility contrast enhanced MR imaging
+Paper ID: cd3f0bd894f61b07a7b336c3f2ba723a6e9f9bc3
+Year: 2021
+Author Index: 10
+
+Abstract:
+Glioblastoma (GBM) has high metabolic demands, which can lead to acidification of the tumor microenvironment. We hypothesize that a machine learning model built on temporal principal component analysis (PCA) of dynamic susceptibility contrast-enhanced (DSC) perfusion MRI can be used to estimate tumor acidity in GBM, as estimated by pH-sensitive amine chemical exchange saturation transfer echo-planar imaging (CEST-EPI). We analyzed 78 MRI scans in 32 treatment naïve and post-treatment GBM patients. All patients were imaged with DSC-MRI, and pH-weighting that was quantified from CEST-EPI estimation of the magnetization transfer ratio asymmetry (MTRasym) at 3 ppm. Enhancing tumor (ET), non-enhancing core (NC), and peritumoral T2 hyperintensity (namely, edema, ED) were used to extract principal components (PCs) and to build support vector machines regression (SVR) models to predict MTRasym values using PCs. Our predicted map correlated with MTRasym values with Spearman’s r equal to 0.66, 0.47, 0.67, 0.71, in NC, ET, ED, and overall, respectively (p < 0.006). The results of this study demonstrates that PCA analysis of DSC imaging data can provide information about tumor pH in GBM patients, with the strongest association within the peritumoral regions.

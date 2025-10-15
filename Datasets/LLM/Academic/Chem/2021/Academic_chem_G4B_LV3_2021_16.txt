@@ -1,0 +1,5 @@
+Here’s an academic-style abstract based on the provided summary and keywords, suitable for a chemistry publication in 2021:
+
+**Abstract**
+
+This study investigates the influence of optical microcavities on molecular vibrational dynamics, specifically within the regime of strong coupling. Utilizing a non-Markovian rate theory framework, we demonstrate that cavity radiation mode dynamics induce a pronounced modification of reaction rates. Our theoretical model posits a ‘dynamical caging’ effect, wherein the cavity frequency dependence alters the accessibility of reactant molecules to transition states. This phenomenon is predicated on the transient interaction between photons and vibrational modes, effectively shielding reactants during critical phases of the reaction.  The observed non-markovian dynamics, characterized by memory effects, are attributed to the feedback between the molecular system and the quantized electromagnetic field within the microcavity. These findings offer a novel perspective on light-matter interactions and their potential for precise control of chemical processes, with implications for areas such as photocatalysis and molecular sensing.

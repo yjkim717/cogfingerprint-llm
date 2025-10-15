@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a university researcher and reflecting a 2022 context:
+
+**Abstract**
+
+Understanding the surface mobility of reactive oxygen species within interstellar ices is crucial for modeling astrochemistry. This study presents experimental measurements of the activation energy (Ea) for OH radical diffusion on water ice surfaces, relevant to conditions found in molecular clouds. Utilizing low-temperature techniques, we determined Ea to be 0.14 ± 0.01 eV, initiating significant diffusion at temperatures as low as 36 K. This value demonstrably exceeds prior theoretical predictions, suggesting a need to refine current models of radical surface kinetics. These findings contribute to a more accurate characterization of the chemical processes occurring on interstellar dust grains and have implications for the formation and evolution of complex organic molecules in space.

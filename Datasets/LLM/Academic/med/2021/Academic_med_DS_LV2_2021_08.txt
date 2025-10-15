@@ -1,0 +1,15 @@
+Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2021.
+
+***
+
+**Abstract**
+
+**Background:** For patients with resected esophageal or gastroesophageal junction (GEJ) cancer who have received neoadjuvant chemoradiotherapy (CRT), a significant proportion experience disease recurrence. An effective adjuvant therapy to improve outcomes in this high-risk population represents a critical unmet need in medical oncology. The CheckMate 577 trial was designed to evaluate the efficacy and safety of the programmed death-1 (PD-1) inhibitor, nivolumab, as an adjuvant treatment in this setting.
+
+**Methods:** This was a global, randomized, double-blind, placebo-controlled, phase 3 trial. Patients with stage II or III esophageal or GEJ cancer who had undergone neoadjuvant CRT and R0 resection and had residual pathological disease were randomized to receive nivolumab or placebo. The primary endpoint was disease-free survival (DFS), defined as the time from randomization to recurrence or death from any cause. Safety was a secondary endpoint.
+
+**Results:** A total of 794 patients were randomized. At the pre-specified interim analysis, adjuvant nivolumab demonstrated a statistically significant and clinically meaningful improvement in median DFS compared to placebo. The hazard ratio for disease recurrence or death was substantially less than 1, indicating a robust treatment effect. This benefit was observed across key pre-specified subgroups, including histological subtype (squamous cell carcinoma and adenocarcinoma) and geographic region. The safety profile of nivolumab was consistent with its known profile from other tumor types, with no new safety signals identified. Treatment-related adverse events were manageable with established protocols.
+
+**Conclusion:** In patients with resected esophageal or GEJ cancer who have not achieved a pathological complete response after neoadjuvant CRT, adjuvant nivolumab significantly prolongs disease-free survival compared to placebo. The results of the CheckMate 577 trial establish nivolumab as a new standard of care in the adjuvant setting for this patient population, fundamentally altering the post-operative therapeutic landscape.
+
+**Keywords:** Adjuvant nivolumab, Esophageal cancer, Gastroesophageal junction cancer, Disease-free survival, CheckMate 577, Immunotherapy.

@@ -1,0 +1,5 @@
+Here is a formal academic-style abstract inspired by the given ideas:
+
+"Advancements in Systemic Therapy for Gastric Cancer: A Paradigm Shift towards Personalized Palliative Management"
+
+Gastric cancer remains a leading cause of cancer-related mortality worldwide. The management of unresectable locally advanced, recurrent, or metastatic disease poses a significant challenge. Recent updates to the National Comprehensive Cancer Network (NCCN) guidelines (2022) underscore the importance of biomarker testing in informing treatment decisions. The integration of targeted therapies, such as HER2-directed and VEGF-targeting agents, has improved outcomes for select patient populations. Furthermore, the incorporation of immunotherapy has expanded the therapeutic armamentarium. This review aims to summarize the current landscape of systemic therapy for gastric cancer, with a focus on the role of biomarker-driven treatment selection and palliative management strategies. We will discuss the evidence supporting the use of novel agents and emerging therapeutic approaches, highlighting the evolving paradigm towards personalized care for patients with advanced gastric cancer.

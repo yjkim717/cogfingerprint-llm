@@ -1,0 +1,11 @@
+Title: Neurochemical Evidence of Central Nervous System Injury in COVID-19 Patients: A Biomarker-Based Study
+
+Abstract:
+
+The COVID-19 pandemic, caused by the SARS-CoV-2 virus, has been associated with a myriad of neurological manifestations, suggesting potential central nervous system (CNS) involvement. This study aimed to investigate the presence of neurochemical evidence indicative of CNS injury in patients with moderate and severe COVID-19. Serum levels of neurofilament light chain protein (NfL) and glial fibrillary acidic protein (GFAP) were measured as biomarkers of neuronal and astrocytic injury, respectively. 
+
+Our cohort consisted of patients admitted to the intensive care unit with confirmed COVID-19 diagnosis, categorized into moderate and severe groups based on disease severity. Serum samples were collected upon admission and analyzed for NfL and GFAP using high-sensitivity immunoassays. The results were compared with those of age-matched healthy controls.
+
+The study revealed significantly elevated levels of both NfL and GFAP in patients with COVID-19 compared to healthy controls. Notably, patients with severe COVID-19 exhibited higher concentrations of these biomarkers than those with moderate disease. These findings suggest that COVID-19 is associated with neurochemical evidence of both astrocytic and neuronal injury, with the extent of injury correlating with disease severity.
+
+The elevated levels of NfL and GFAP indicate that SARS-CoV-2 infection may directly or indirectly cause CNS damage. These biomarkers may serve as valuable tools for assessing the extent of neurological injury in COVID-19 patients and potentially guiding clinical management. The study's findings underscore the need for further investigation into the long-term neurological consequences of COVID-19 and the development of targeted therapeutic strategies to mitigate CNS injury.

@@ -1,0 +1,3 @@
+"Unraveling the Mystery of Derivatives in Linear Regression
+
+As I dove into building a simple linear regression model using Scikit-learn in 2022, I stumbled upon a puzzling question: are the coefficients derivatives of the regression formula? After some digging, I discovered that the coefficients represent the change in output for a unit change in input, leveraging the chain rule. This insight not only clarified my understanding of linear regression but also deepened my appreciation for the math behind machine learning."

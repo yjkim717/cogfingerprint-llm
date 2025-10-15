@@ -1,0 +1,7 @@
+There’s something oddly humbling about learning C programming in 2022. I came in thinking I’d master strings in an afternoon—how hard could it be? I’d breezed through Python, after all. But C doesn’t coddle you. It hands you a set of tools and says, “Good luck.”
+
+Take `strcpy()`. At first glance, it felt like overkill. Why not just assign one string to another? Then I tried it. The compiler threw back errors like a stern teacher marking up a messy essay. I realized: this language doesn’t assume anything. It forces you to think about memory, about what’s happening under the hood. It’s meticulous, almost meditative.
+
+Then there’s `printf`, with its cryptic format specifiers. At first, I’d forget the `%s` or mix up the order, and my terminal would spit out garbled nonsense. It felt like trying to have a conversation in a language I only half-knew. But each time I fixed a mistake, something clicked. I wasn’t just telling the computer what to do—I was learning how it *thinks*.
+
+And isn’t that a lot like life? We rush through routines, skim the instructions, and hope for the best. But real growth happens in the friction—in those moments when things don’t work as expected. C taught me to slow down, to pay attention to the details we often gloss over. It’s not just about writing code; it’s about building patience and precision, one carefully crafted line at a time. Who knew debugging could feel so much like mindfulness?

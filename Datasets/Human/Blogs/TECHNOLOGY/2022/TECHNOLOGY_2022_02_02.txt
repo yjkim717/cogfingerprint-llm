@@ -1,0 +1,5 @@
+Year: 2022
+Author: phaze08
+URL: https://www.reddit.com/r/EmulationOnAndroid/comments/to6h5s/majoras_mask_3d_on_citra_with_sd_8_gen_1_processor/
+
+Not sure if anyone else has had issues...I can't find anything on the official Citra mmj telegram channel. When I open this game it just crashes on Citra mmj. On Citra enhanced it shows up as encrypted ( all though I KNOW I got decrypted- because I downloaded it again from another site ) Anyone have any ideas? Is it an issue with my hardware? S22 ultra SD version

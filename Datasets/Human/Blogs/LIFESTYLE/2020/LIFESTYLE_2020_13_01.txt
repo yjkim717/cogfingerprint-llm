@@ -1,0 +1,5 @@
+Year: 2020
+Author: apatheticonion
+URL: https://www.reddit.com/r/bashonubuntuonwindows/comments/jgigo5/whats_the_future_of_wsl1_or_wsl_without/
+
+First off I wanted to thank the engineers at Microsoft and the open source community for brining us WSL. It has personally changed my professional life for the better and I am eagerly keeping up with news. I am quite fond of the simplicity of WSL1, not worrying about the network stack/guest/host and all that. What's the future of WSL in regards to that approach? Is the future improving the virtualized approach brought in with WSL2 or will there be an effort to improve the WSL1 style API translations?

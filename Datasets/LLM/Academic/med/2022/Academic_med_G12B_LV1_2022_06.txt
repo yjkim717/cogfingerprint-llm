@@ -1,0 +1,17 @@
+>Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal, academic style suitable for a medical publication, and contextualized for 2022.  I've aimed for a word count around 349 words, and structured it with the common components of an abstract (Background, Objective, Methods, Results, Conclusion).  I've also included some hypothetical data and findings to make it more concrete.
+
+---
+
+**Abstract**
+
+**The Evolving Landscape of Biomarker-Guided Therapy in Metastatic Breast Cancer: Implementation and Impact of ASCO Guideline Updates on Circulating Tumor DNA Testing**
+
+**Background:** Metastatic breast cancer (MBC) remains a significant clinical challenge, demanding personalized therapeutic approaches. The heterogeneity of the disease necessitates strategies beyond traditional histology-based treatment selection. Recent advances in genomic profiling have identified actionable targets influencing response to systemic therapies, prompting revisions to clinical practice guidelines. The American Society of Clinical Oncology (ASCO) published updated guidelines in 2021 advocating for comprehensive biomarker testing in MBC to inform therapeutic decision-making.
+
+**Objective:** This study aimed to evaluate the impact of the 2021 ASCO guideline recommendations on the utilization of circulating tumor DNA (ctDNA) testing and subsequent treatment modifications in patients with de novo or treatment-refractory MBC at a single tertiary care center. We also sought to assess the clinical utility of these biomarkers (PIK3CA, BRCA1/2, PD-L1, NTRK) in predicting response to targeted therapies, particularly PARP inhibitors.
+
+**Methods:** A retrospective cohort study was conducted including 150 patients diagnosed with MBC between January 2022 and December 2022.  All patients underwent comprehensive genomic profiling, including ctDNA analysis via next-generation sequencing, following the ASCO guideline recommendations. Treatment decisions were documented, and clinical outcomes, including progression-free survival (PFS) and overall survival (OS), were analyzed.  The association between biomarker status and treatment response was assessed using Kaplan-Meier curves and Cox proportional hazards regression.
+
+**Results:** Implementation of the ASCO guidelines resulted in a 75% increase in ctDNA testing compared to the previous year.  Actionable alterations were identified in 68% of patients.  Specifically, *PIK3CA* mutations were detected in 22%, *BRCA1/2* mutations in 18%, PD-L1 high expression (>50%) in 15%, and *NTRK* fusions in 3% of patients.  In patients with *BRCA1/2* mutations, the addition of a PARP inhibitor led to a median PFS of 8.2 months compared to 4.5 months in those receiving chemotherapy alone (p < 0.01).  Patients with *PIK3CA* mutations demonstrated improved progression-free survival with PI3K inhibitors compared to standard chemotherapy (HR 0.65, 95% CI 0.48-0.88).
+
+**Conclusion:** Adherence to the 2021 ASCO guideline recommendations for biomarker testing, including ctDNA analysis, significantly increased the identification of actionable targets in MBC.  These findings support the integration of genomic profiling into routine clinical practice to personalize treatment strategies and potentially improve clinical outcomes, particularly in the context of

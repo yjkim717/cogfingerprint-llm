@@ -1,0 +1,7 @@
+## Abstract: Polarization-Multiplexed Metasurface-Based Magneto-Optical Trap for Strontium Atoms
+
+We report the design and experimental validation of a compact magneto-optical trap (MOT) for strontium atoms utilizing a metasurface-based architecture, demonstrating a significant reduction in reliance on conventional bulk optical components. This innovative approach employs polarization-multiplexed metagratings patterned directly onto a substrate to achieve beam steering and polarization manipulation essential for MOT operation. The design circumvents the need for multiple lenses and mirrors typically associated with standard MOT configurations, requiring only two input laser beams for trapping. Preliminary results demonstrate stable trapping of strontium atoms with a measured capture velocity of [Insert Value – e.g., 1.5 m/s] and a peak atom density of [Insert Value – e.g., 5 x 10<sup>9</sup> cm<sup>-3</sup>]. This work represents a crucial step towards miniaturized and integrated atom trapping systems, potentially enabling advancements in precision spectroscopy, quantum information processing, and atom-based sensing applications.
+
+
+
+---

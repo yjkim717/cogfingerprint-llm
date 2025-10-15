@@ -1,0 +1,9 @@
+Title: Neurochemical Correlates of CNS Injury in Moderate to Severe COVID-19: A Biomarker-Based Investigation
+
+Abstract
+
+The COVID-19 pandemic, caused by the SARS-CoV-2 virus, has been associated with a myriad of neurological manifestations, suggesting potential central nervous system (CNS) involvement. This study aimed to investigate the neurochemical evidence of CNS injury in patients with moderate to severe COVID-19. Serum levels of neurofilament light chain protein (NfL) and glial fibrillary acidic protein (GFAP) were quantified as biomarkers of neuronal injury and astrocytic activation, respectively. 
+
+A total of 120 patients with COVID-19, categorized into moderate (n = 60) and severe (n = 60) groups based on clinical severity, were enrolled in the study. Serum NfL and GFAP levels were measured using ultra-sensitive single-molecule array (Simoa) technology. The results showed significantly elevated levels of both NfL and GFAP in patients with severe COVID-19 compared to those with moderate disease. Furthermore, a positive correlation was observed between NfL and GFAP levels, indicating concomitant neuronal injury and astrocytic activation.
+
+The findings of this study provide neurochemical evidence of CNS injury in patients with moderate to severe COVID-19, highlighting the potential for long-term neurological sequelae. The observed correlation between NfL and GFAP levels suggests a complex interplay between neuronal damage and glial response in the context of SARS-CoV-2 infection. These results underscore the importance of continued neurological monitoring and investigation into the long-term CNS effects of COVID-19. The identification of NfL and GFAP as potential biomarkers may facilitate the early detection and management of COVID-19-related CNS injury.

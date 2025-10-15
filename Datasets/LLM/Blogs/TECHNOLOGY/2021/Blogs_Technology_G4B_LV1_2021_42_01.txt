@@ -1,0 +1,13 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**The SVM Echo**
+
+Remember those SVM diagrams from undergrad?  All those elegant curves and the promise of kernel tricks?  It felt…important, back in 2018. But scrolling through DBLP in late 2021, it’s hard not to notice how much quieter they’ve become. 
+
+XGBoost and deep learning are dominating, and frankly, it’s hard to justify the same level of attention on SVMs now.  Especially the non-linear versions – do they *really* hold up against the power of neural networks? It’s a question I keep circling.  Maybe the kernel methods are just a fascinating historical footnote now. 
+
+---
+
+Would you like me to tweak this, perhaps focusing on a specific aspect or aiming for a different tone?

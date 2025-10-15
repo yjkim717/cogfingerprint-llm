@@ -1,0 +1,7 @@
+Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a physics publication (circa 2023):
+
+**Abstract:** This work investigates a fundamental challenge in the asymptotic structure of four-dimensional Einstein gravity: the precise definition of Lorentz generators at null infinity. We present a rigorous demonstration of the equivalence between two distinct formulations aiming to resolve ambiguities arising from supertranslations. By leveraging the framework of asymptotic symmetries and the Bondi-Metzner-Sachs (BMS) group, we establish a novel, supertranslation-invariant definition for Lorentz generators. This resolution is crucial for a consistent quantization of gravity and provides a refined understanding of the asymptotic symmetry algebra, contributing to ongoing efforts to reconcile general relativity with quantum field theory in curved spacetime.
+
+
+
+I aimed for clarity, precision, and incorporated all the keywords naturally within a coherent argument.

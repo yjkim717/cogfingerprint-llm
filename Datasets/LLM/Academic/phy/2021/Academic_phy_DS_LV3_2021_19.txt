@@ -1,0 +1,1 @@
+We experimentally demonstrate a segmented coupled waveguide array as a compact, non-reconfigurable optical quantum circuit. This on-chip platform enables efficient multi-photon split state tomography, achieving high-fidelity characterization essential for scalable quantum photonic technologies.

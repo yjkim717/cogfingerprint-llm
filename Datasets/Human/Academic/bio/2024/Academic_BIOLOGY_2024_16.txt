@@ -1,0 +1,8 @@
+Author: T. Nakazawa
+Title: Pleurotus ostreatus as a model mushroom in genetics, cell biology, and material sciences
+Paper ID: 9b559cecb98137b9a86c0ab06dff9c019c78ab7a
+Year: 2024
+Author Index: 16
+
+Abstract:
+Abstract Pleurotus ostreatus , also known as the oyster mushroom, is a popular edible mushroom cultivated worldwide. This review aims to survey recent progress in the molecular genetics of this fungus and demonstrate its potential as a model mushroom for future research. The development of modern molecular genetic techniques and genome sequencing technologies has resulted in breakthroughs in mushroom science. With efficient transformation protocols and multiple selection markers, a powerful toolbox, including techniques such as gene knockout and genome editing, has been developed, and numerous new findings are accumulating in P. ostreatus . These include molecular mechanisms of wood component degradation, sexual development, protein secretion systems, and cell wall structure. Furthermore, these techniques enable the identification of new horizons in enzymology, biochemistry, cell biology, and material science through protein engineering, fluorescence microscopy, and molecular breeding. Key points • Various genetic techniques are available in Pleurotus ostreatus. • P. ostreatus can be used as an alternative model mushroom in genetic analyses. • New frontiers in mushroom science are being developed using the fungus.

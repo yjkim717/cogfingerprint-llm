@@ -1,0 +1,1 @@
+It’s funny how a piece of hardware like the MSI MEG Ace X570 can represent a dream—in my case, GPU passthrough on Linux. But after months of tweaking and hardware swaps, I realized my passion had shifted. So here it is, practically new, ready for someone else’s project. Sometimes, the right setup isn’t about specs, but where your heart truly lies.

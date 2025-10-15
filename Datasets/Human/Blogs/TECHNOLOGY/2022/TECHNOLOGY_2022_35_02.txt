@@ -1,0 +1,5 @@
+Year: 2022
+Author: Tyron_Slothrop
+URL: https://www.reddit.com/r/LinearAlgebra/comments/w1iftj/derivatives_for_linear_regression/
+
+Trying to wrap my head around derivatives in preparation for learning about the chain rule. Let's say we have a simple regression model: **y = B0 + B1 \* Xi + e.** Using Scikitlearn, the algorithm determined B0, the y-intercept, is 3.5 and the slope (B1) is 2. Are these coefficients the derivatives of the regression formula?

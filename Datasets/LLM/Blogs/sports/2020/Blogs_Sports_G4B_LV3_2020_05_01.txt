@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective, conversational tone and around 86 words:
+
+---
+
+**Decoding My Miles: A 2020 Reflection**
+
+Remember 2020?  Lockdowns and a desperate need for movement. I started meticulously tracking my daily steps – a simple Python script parsing a text file, really – just to feel *something* productive.  It wasn’t about competition, just about measuring a tiny shift in my routine.  Data processing felt oddly grounding amidst the chaos.  Turns out, those little numbers told a bigger story about resilience and finding small victories.

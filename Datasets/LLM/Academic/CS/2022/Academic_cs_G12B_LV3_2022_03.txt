@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract inspired by the provided summary, suitable for a CS publication in 2022:
+
+**Abstract:**
+
+The buy-many constraint, limiting a bidder’s acquisition of items in an auction, presents a significant challenge in mechanism design, particularly when extended to scenarios involving multiple buyers. This paper investigates the revenue optimization problem within multi-item auctions subject to the buy-many constraint, a setting previously lacking a robust theoretical framework. We introduce a novel revenue benchmark tailored to this context, providing a foundation for performance evaluation. Our primary contribution is the design and analysis of a simple sequential item pricing mechanism. Under assumptions of unit-demand or additive preferences, we demonstrate that this mechanism achieves an $O(\log m)$ approximation ratio of the benchmark, where *m* represents the number of items. This result establishes a crucial link between single-buyer and multi-buyer scenarios, matching the best-known approximation guarantees achievable in the simpler setting and representing a substantial advancement in the field of revenue-maximizing auction design.
+
+
+

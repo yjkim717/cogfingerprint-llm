@@ -1,0 +1,1 @@
+This study demonstrates that engineered surface Fe sites and Sr vacancies in perovskite catalysts significantly enhance oxygen evolution kinetics via lattice oxygen oxidation. Spectroscopic analyses reveal these structural motifs promote reactive oxygen intermediate formation, offering new pathways for bio-inspired catalyst design.

@@ -1,0 +1,1 @@
+Back in 2020, I first stumbled upon Tacotron 2 on GitHub, diving into those audio clips and tutorials. It felt like discovering a new instrument—a way to give my stories a voice I never knew I had. Vocal synthesis wasn't just tech; it was a bridge to something deeply personal and creative.

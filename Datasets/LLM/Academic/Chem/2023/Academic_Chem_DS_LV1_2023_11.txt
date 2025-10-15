@@ -1,0 +1,7 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for 2023.
+
+***
+
+**Abstract**
+
+The construction of discrete heteroleptic metallo-supramolecular architectures, particularly those integrating multiple low-symmetry ligands, presents a significant synthetic challenge due to the propensity for statistical ligand scrambling. Herein, we report a robust strategy for the selective assembly of low-symmetry Pd(II)-based coordination cages with precisely controlled compositions. Our approach hinges on the judicious selection of complementary ligand pairings, where steric and electronic disparities between ditopic ligands are engineered to favor heteroleptic over homoleptic coordination. This methodology enables the high-fidelity self-assembly of a series of [Pd<sub>2</sub>L<sub>A</sub>L<sub>B</sub>L<sub>C</sub>L<sub>D</sub>] cages, each incorporating four distinct, low-symmetry ligands around a Pd(II) metal center. The structural integrity and heteroleptic nature of these assemblies were unambiguously confirmed through a combination of NMR spectroscopy, mass spectrometry, and X-ray diffraction analysis. This work establishes a foundational design principle for accessing complex, multi-component functional materials with tailored cavities and properties, advancing the frontiers of supramolecular synthesis.

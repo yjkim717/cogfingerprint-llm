@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and guidelines:
+
+---
+
+**CSV Chaos and Plex Dreams**
+
+It’s weird how much I still wrestle with data formats, honestly. Recently, I was digging into some massive tsv files – remnants from an old PVR setup – and trying to get them into Plex.  The sheer volume was daunting!  It really highlights how much tech feels like translating between alien languages.  Anyone else battling these file quirks? #plex #tsv #pvr #techproblems

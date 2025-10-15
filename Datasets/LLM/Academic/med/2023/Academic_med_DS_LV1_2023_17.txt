@@ -1,0 +1,19 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+**Title:** A Two-Step Plasma p-tau217-Based Algorithm for Efficient Amyloid-β Pathology Stratification in a Memory Clinic Cohort
+
+**Background:** The integration of Alzheimer's disease (AD) biomarkers into clinical practice is constrained by the high cost and limited accessibility of definitive amyloid-β (Aβ) positron emission tomography (PET) and cerebrospinal fluid (CSF) assays. Blood-based biomarkers, particularly phosphorylated tau217 (p-tau217), demonstrate high diagnostic accuracy for cerebral Aβ pathology, presenting an opportunity to streamline patient triage.
+
+**Objective:** To evaluate the clinical utility and resource efficiency of a two-step diagnostic workflow that utilizes plasma p-tau217 as an initial screening tool to stratify the need for subsequent confirmatory testing with CSF assays or Aβ-PET.
+
+**Methods:** In a prospective, cross-sectional study of 1,052 participants from a tertiary memory clinic (cognitively unimpaired, mild cognitive impairment, and dementia), plasma p-tau217 levels were measured using an ultrasensitive immunoassay. All participants underwent Aβ-PET imaging as the reference standard. We modeled a two-step algorithm where individuals with plasma p-tau217 concentrations below a pre-defined, high-sensitivity cut-point were classified as "Aβ-negative," while those above underwent confirmatory Aβ-PET or CSF testing. Diagnostic performance, including sensitivity, specificity, and the proportion of confirmatory tests avoided, was calculated.
+
+**Results:** The two-step algorithm, set at 96% sensitivity for detecting Aβ-PET positivity, correctly identified 98% of all Aβ-positive cases. Crucially, this approach obviated the need for confirmatory CSF or PET testing in 48% of the total cohort, thereby halving the demand for more invasive and expensive procedures. Specificity against Aβ-PET status remained high at 93%.
+
+**Conclusion:** A stratified workflow initiated with plasma p-tau217 measurably optimizes resource allocation in the diagnostic assessment of AD. This paradigm maintains high diagnostic fidelity while substantially reducing the clinical and economic burden associated with confirmatory biomarker testing, facilitating broader and more equitable access to an accurate etiological diagnosis.
+
+**(Word Count: 298)**

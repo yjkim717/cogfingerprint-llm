@@ -1,0 +1,4 @@
+Title: Enhanced Spatial Entanglement via Spontaneous Parametric Down-Conversion in Lithium Niobate Metasurfaces
+
+Abstract:
+In 2022, advancements in nonlinear optics led to the demonstration of spatially entangled photon pairs generated through spontaneous parametric down-conversion (SPDC) in a lithium niobate metasurface. This novel approach significantly enhances the photon-pair rate, leveraging the metasurface's tailored nonlinear optical response. The resulting multimode entanglement is witnessed through precise measurements, underscoring the potential of metasurfaces in quantum optics. This breakthrough paves the way for compact, high-brightness sources of entangled photons, crucial for quantum information processing and quantum communication applications.

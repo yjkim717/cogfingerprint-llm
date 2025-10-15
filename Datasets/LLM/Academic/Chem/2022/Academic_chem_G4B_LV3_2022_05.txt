@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2022 publication in a chemistry journal:
+
+**Abstract**
+
+The diffusion of hydroxyl (OH) radicals on water ice is a fundamental process governing interstellar chemistry and the formation of complex organic molecules. This study presents experimental data characterizing the activation energy governing OH radical diffusion on water ice, determined through temperature-dependent kinetic analysis. Results reveal an activation energy of 0.14 ± 0.01 eV, significantly higher than previously proposed theoretical estimates. This disparity suggests a more complex diffusion mechanism than initially anticipated, potentially involving significant energy barriers even at cryogenic temperatures. These findings necessitate a re-evaluation of existing models predicting gas-phase chemistry within interstellar ices and highlight the importance of considering ice surface diffusion processes in circumstellar environments. Further research employing advanced spectroscopic techniques is warranted to elucidate the underlying structural and energetic factors influencing OH radical mobility on water ice.

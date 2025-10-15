@@ -1,0 +1,5 @@
+ Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry-related publication (circa 2024):
+
+**Abstract**
+
+The formation mechanisms of methylamine (CH₃NH₂) within interstellar ices remain a subject of active investigation. Recent quantum chemical calculations, performed in 2024, indicate a surprisingly efficient pathway involving carbon atom condensation onto ammonia (NH₃). Our findings demonstrate that this process readily yields CH₃NH₂, potentially exceeding the conventional routes leading to hydrogen cyanide (HCN) and its isomer, cyanogen (HNC). These results challenge existing astrochemical kinetic models and suggest that methylamine abundances in cold molecular clouds may be underestimated. Further investigation into the kinetics of this carbon atom accretion reaction is warranted to refine our understanding of prebiotic molecule synthesis in interstellar environments.

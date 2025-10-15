@@ -1,0 +1,5 @@
+Year: 2024
+Author: chewy747
+URL: https://www.reddit.com/r/shopify/comments/1amp7r8/how_accurate_is_shopify_calling_a_session_source/
+
+All of my sales in shopify say they are from organic search like this image. Is that accurate? Im assuming some of them should be from ads and that guess seems to correlate to my google ads account. Just curious if that metric in Shopify isnt very accurate.

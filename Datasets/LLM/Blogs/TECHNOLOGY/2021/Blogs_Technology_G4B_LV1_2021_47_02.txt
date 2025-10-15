@@ -1,0 +1,14 @@
+Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 107 words, set in 2021:
+
+---
+
+**The Escalation Tango**
+
+Okay, let’s be honest – being a T1 analyst in a smaller IT shop like ours in 2021 was… a lot. I loved the hands-on problem-solving, diving into those tricky work queues and getting things fixed. But there’s a point where a single T1 can’t handle everything. 
+
+I started feeling frustrated watching tickets pile up, knowing they were getting bounced between teams. It felt like a constant escalation tango – me handing off a problem, hoping someone else could nail it.  It highlighted the need for better training and maybe even a slightly bigger support team, but for now, it was about finding the right hand-off point. 
+
+
+---
+
+Would you like me to tweak this, perhaps focusing on a specific aspect or aiming for a different tone?

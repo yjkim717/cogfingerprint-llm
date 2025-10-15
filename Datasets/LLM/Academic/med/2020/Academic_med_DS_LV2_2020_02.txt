@@ -1,0 +1,13 @@
+Of course. Here is a formal academic abstract written in the style of a 2020 medical research paper.
+
+***
+
+**Abstract**
+
+**Background:** While the primary clinical manifestations of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are respiratory, a significant subset of patients present with neurological symptoms. The pathophysiological mechanisms underlying potential central nervous system (CNS) involvement, and whether it entails direct neuronal injury, remain poorly characterized. This study aimed to investigate evidence of CNS injury in patients with severe COVID-19 by quantifying established plasma biomarkers of neuronal and glial pathology.
+
+**Methods:** We conducted a prospective, observational cohort study of 45 critically ill COVID-19 patients admitted to the intensive care unit and 40 age- and sex-matched healthy controls. Plasma concentrations of neurofilament light chain (NfL), a specific biomarker of axonal injury, and glial fibrillary acidic protein (GFAP), a marker of astrocytic activation, were measured using single-molecule array (Simoa) technology.
+
+**Results:** Patients with severe COVID-19 exhibited significantly elevated plasma levels of both NfL (median [IQR]: 35.2 [22.1–68.4] pg/mL vs. 8.1 [5.9–11.3] pg/mL; p < 0.001) and GFAP (152.5 [89.7–241.0] pg/mL vs. 65.3 [48.1–82.5] pg/mL; p < 0.001) compared to healthy controls. The magnitude of biomarker elevation was correlated with clinical disease severity scores (e.g., SOFA score) and the presence of encephalopathic features.
+
+**Conclusion:** Our findings demonstrate a distinct profile of biomarker elevation indicative of both neuro-axonal injury and astrocytic activation in severe COVID-19. This robust biochemical evidence confirms significant CNS involvement in a substantial proportion of critically ill patients. The concurrent rise in NfL and GFAP suggests a multifactorial pathophysiology, potentially involving neuroinflammatory processes and hypoxic-ischemic mechanisms, warranting further investigation into long-term neurological sequelae.

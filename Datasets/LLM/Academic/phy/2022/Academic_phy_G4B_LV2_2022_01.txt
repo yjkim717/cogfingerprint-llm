@@ -1,0 +1,5 @@
+**Abstract**
+
+Recent theoretical investigations into black hole thermodynamics have increasingly highlighted the perplexing issue of information loss. This paper introduces a novel framework predicated on ‘antipodal identification’ to address this challenge, proposing a fundamental symmetry within the spacetime geometry surrounding a black hole. We posit that quantum states localized in region II, conventionally considered causally disconnected from the event horizon, are, in fact, exact replicas of corresponding states residing in region I. This correspondence is rigorously linked to the Shapiro effect, demonstrating a conserved causal structure that mitigates the apparent violation of unitarity. 
+
+The proposed mechanism, validated through a simplified model incorporating the black hole’s interior, suggests a dramatically reduced complexity in modeling black hole evolution.  Further exploration is warranted to determine the extent to which this ‘antipodal cloning’ extends to more complex quantum states and its implications for the holographic principle and the information paradox, with preliminary results presented in 2022.

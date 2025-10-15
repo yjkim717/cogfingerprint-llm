@@ -1,0 +1,13 @@
+Of course, here is a reflective blog post written from the perspective of a developer in 2020.
+
+***
+
+### The Lonely Server: A 2020 Tale of Digital Housekeeping
+
+It’s funny how a single, blinking command prompt on a dark screen can feel so… exposed. That was me back in early 2020, staring at my new Windows Server 2019 installation. It was supposed to be my fortress of solitude—a standalone workhorse for a pet project, handling everything from a website to file transfers. But as the world outside was learning about isolation, my server and I were learning a harsher truth: being alone doesn’t mean you’re safe.
+
+I’d set it up with the basics: Remote Desktop for access from my couch, a simple FTP service for moving files, and the standard HTTP for a landing page. It felt efficient. Then, the paranoia set in. Every tech news headline was another breach, another ransomware attack. My little server wasn’t just a tool; it was a potential backdoor into my digital life. I wasn't a multi-million-dollar corporation with a dedicated security team. I was one person with a limited budget and a growing sense of dread.
+
+The journey that followed was a crash course in digital hygiene. I remember spending a whole weekend wrestling with Windows Firewall, creating rules that felt like drawing a complex map of one-way streets. I dove into the labyrinth of Group Policy, tightening RDP settings until it was more secure than my own front door. I switched from plain old FTP to a more secure alternative, feeling a small thrill of victory with each configuration change.
+
+Looking back, that period of intense, resourceful system administration taught me more than any certification could. It wasn’t about building an impenetrable wall—that’s impossible. It was about layering defenses, being mindful, and understanding that security isn’t a product you install; it’s a process. It’s a continuous, sometimes tedious, conversation you have with your technology. And in a year where we all felt vulnerable in so many ways, taking control of that one, blinking screen was a small but significant win.

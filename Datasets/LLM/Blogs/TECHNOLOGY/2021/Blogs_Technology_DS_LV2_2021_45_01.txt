@@ -1,0 +1,5 @@
+It’s 2021, and I’m knee-deep in Scala 3, wrestling with its type system like it’s a stubborn, brilliant puzzle. I wanted to build this flexible Record class—something clean and expressive, leaning on intersection types and self-references. But oh, the compiler errors! Each one felt like a cryptic message from a universe that refused to bend.
+
+I remember staring at the screen, coffee long gone cold, thinking, "Why does something so elegant have to fight back so hard?" Then it clicked: Scala’s Selectable trait slid into place, and suddenly, the pieces aligned. It wasn’t just about making it work; it was about understanding the language’s soul.
+
+That moment of clarity—when frustration melted into insight—reminded me why I love this craft. It’s not just code; it’s a conversation with possibility.

@@ -1,0 +1,9 @@
+Okay, here's a blog post draft based on your summary and guidelines:
+
+---
+
+**The Red Highlight Struggle is Real**
+
+Anyone else feel like their textbooks are just…giant, intimidating PDFs? I was drowning in my engineering notes last year, desperately trying to find a note-taking app that could actually *understand* my highlighted passages. Specifically, my frantic quest for a way to search for red highlights within my PDF textbooks was a total nightmare. 
+
+Turns out, finding a tool that combined searching and text recognition was key. It’s a surprisingly frustrating little battle, but finally finding a solution felt like a small victory!  What tech struggles have you been battling lately?

@@ -1,0 +1,5 @@
+Another day, another LeetCode problem. It’s 2024, and my screen time is just a pie chart of code editors and solution forums.
+
+This morning, I wrestled with a graph traversal problem for three hours. The "Aha!" moment, when it finally came, was pure satisfaction—a little surge of victory. But then I looked up, and the afternoon was gone. Just like that.
+
+It’s a strange cycle. I feel my skills sharpening with each solved problem, building a toolkit for the future. Yet, I can't shake the nagging thought: is this the best use of a whole day? The balance between growth and the sheer time it consumes is the real, unsolved problem.

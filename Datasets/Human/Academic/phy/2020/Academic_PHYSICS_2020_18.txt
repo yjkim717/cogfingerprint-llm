@@ -1,0 +1,8 @@
+Author: Lu Chen
+Title: Twisting Polarization of Ultrafast Pulses using Metasurfaces
+Paper ID: 13fb6ae54e0471d14e56c93499545cc152541f08
+Year: 2020
+Author Index: 18
+
+Abstract:
+Dielectric metasurfaces enable control of the temporal profile of large bandwidth, near-infrared femtosecond pulses. Using this approach, we demonstrate shaping of the time-domain polarization state within a single pulse.

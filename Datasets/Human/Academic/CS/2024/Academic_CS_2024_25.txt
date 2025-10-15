@@ -1,9 +1,0 @@
-Author: Shuroug A. Alowais
-Title: Artificial Intelligence Integration and Data Governance in Pharmacy and the Healthcare sector: A Position Statement on Behalf of the Saudi Society of Clinical Pharmacy (SSCP) and the Saudi Health Informatics Pharmacists (SHIP)
-Paper ID: 3d300fd87b0e5f916aa111cc95a52c25ea78163c
-Year: 2024
-Author Index: 25
-
-Abstract:
-
- The Saudi Society of Clinical Pharmacy (SSCP) and the Saudi Health Informatics Pharmacists (SHIP) collaborated to develop a position statement on the integration of artificial intelligence (AI) and data governance in the pharmacy practice and the healthcare sector. The SSCP and the SHIP have established a focused group dedicated to creating a comprehensive overview and formulating the position paper. Through a modified Delphi method of two rounds, the task force developed 12 key recommendations with a≥80% consensus rate covering a wide range of areas, including policy development, regulatory frameworks, education and training, ethical considerations, data governance, and patient privacy, to create an environment that supports the responsible and effective utilization of AI in pharmacy practice. This position statement calls on stakeholders in the pharmacy profession and the healthcare sector to embrace AI as a transformative tool while ensuring that ethical principles, patient safety, and the promotion of optimal healthcare outcomes guide its implementation. The SSCP and SHIP are addressing these crucial aspects as an opportunity for Saudi Arabia to spearhead advancements in AI integration in pharmacy and contribute to the global progress in healthcare innovation.

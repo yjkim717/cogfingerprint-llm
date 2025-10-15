@@ -1,0 +1,3 @@
+You know that stubborn ghost printer that just won’t leave you alone? I spent half my morning wrestling with one in Windows 10—a deleted printer that kept haunting my dropdown menus. Every time I tried to print from an app, there it was, like a digital poltergeist.
+
+Then I discovered the Print Management tool. A few clicks to cancel its pending, phantom jobs, and just like that—it vanished for good. It’s funny how these small tech gremlins can disrupt an entire workflow. In 2023, you’d think such ghosts would be long gone, but sometimes the simplest solutions hide in plain sight.

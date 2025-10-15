@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication:
+
+**Abstract**
+
+The advancement of machine translation (MT) necessitates robust evaluation datasets for low-resource languages. This paper introduces KreolMorisienMT, a novel parallel corpus specifically designed for Mauritian Creole (MC), a critically under-resourced language bridging French and English.  The dataset incorporates both aligned parallel sentences and substantial monolingual MC text, facilitating comprehensive MT model development. We detail the creation methodology, highlighting data sourcing and quality control measures.  KreolMorisienMT’s availability represents a significant contribution to multilingual transfer learning research. Preliminary experiments utilizing this dataset demonstrate the potential for leveraging English and French MT models to effectively translate into MC, showcasing the viability of transfer-based approaches. Future work will explore techniques to mitigate inherent linguistic differences and optimize performance for this unique creole language.

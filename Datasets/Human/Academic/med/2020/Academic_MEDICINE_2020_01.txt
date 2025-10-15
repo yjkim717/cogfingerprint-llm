@@ -1,0 +1,8 @@
+Author: T. Stead
+Title: What’s the Risk: Differentiating Risk Ratios, Odds Ratios, and Hazard Ratios?
+Paper ID: 0dc27f6bc93945bd30339b347596a993efbe9a83
+Year: 2020
+Author Index: 1
+
+Abstract:
+Risk ratios, odds ratios, and hazard ratios are three common, but often misused, statistical measures in clinical research. In this paper, the authors dissect what each of these terms define, and provide examples from the medical literature to illustrate each of these statistical measures. Finally, the correct and incorrect methods to use these measures are summarized.

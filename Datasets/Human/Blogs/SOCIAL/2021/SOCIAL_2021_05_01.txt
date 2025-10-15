@@ -1,0 +1,5 @@
+Year: 2021
+Author: supernasty
+URL: https://www.reddit.com/r/techsupport/comments/nus8dl/extremely_slow_ethernet_connection_25mbps_cat6/
+
+For some reason, my ethernet and wifi both get no higher than 30mbps on Ookla speed test. My ISP plan should get me up to 600mbps. When I restart my router and modem, I can get up to 200mbps, but 5 minutes later it drops back down to 30 again. I tried updating my drivers, but it says it is up to date when I go into device manager. When I did it manually last night, it went back up to 200mbps, but then I log back in today its back down to 30mbps again. I am really stumped on what to do. All my PC parts were made in the last year, and I am using the below router / modem which are more than capable of getting me *higher* speeds than my current internet plan, yet I am not even getting 1/4th of what I pay for. # --NETGEAR Cable Modem CM1000 # --Ethernet Cable Cat 6 50 ft # --NETGEAR - R7000P-100NAS Nighthawk WiFi Router

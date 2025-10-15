@@ -1,0 +1,8 @@
+Author: M. Manathunga
+Title: Comparative quantum-classical dynamics of natural and synthetic molecular rotors show how vibrational synchronization modulates the photoisomerization quantum efficiency
+Paper ID: 66ce4297225bd72c37b7e2bb1f6889a246f1228e
+Year: 2024
+Author Index: 12
+
+Abstract:
+We use quantum-classical trajectories to investigate the origin of the different photoisomerization quantum efficiency observed in the dim-light visual pigment Rhodopsin and in the light-driven biomimetic molecular rotor para-methoxy N-methyl indanylidene-pyrrolinium (MeO-NAIP) in methanol. Our results reveal that effective light-energy conversion requires, in general, an auxiliary molecular vibration (called promoter) that does not correspond to the rotary motion but synchronizes with it at specific times. They also reveal that Nature has designed Rhodopsin to exploit two mechanisms working in a vibrationally coherent regime. The first uses a wag promoter to ensure that ca. 75% of the absorbed photons lead to unidirectional rotations. The second mechanism ensures that the same process is fast enough to avoid directional randomization. It is found that MeO-NAIP in methanol is incapable of exploiting the above mechanisms resulting into a 50% quantum efficiency loss. However, when the solvent is removed, MeO-NAIP rotation is predicted to synchronize with a ring-inversion promoter leading to a 30% increase in quantum efficiency and, therefore, biomimetic behavior.

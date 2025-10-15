@@ -1,0 +1,11 @@
+Okay, here's a blog post draft based on your summary and instructions, aiming for a reflective, conversational tone and around 167 words:
+
+---
+
+**Trading Scripts for Queries: My Unexpected DBA Journey**
+
+Let’s be honest, as a sysadmin for the last decade, I was pretty comfortable in my world of scripts and server monitoring. Change? Not really my thing. But lately, I’ve been wrestling with a feeling – a quiet pull towards something… deeper. That’s led me down a path I never anticipated: a career transition into DBA, specifically focusing on SQL Server and Azure.
+
+It’s been a surprisingly humbling experience. Suddenly, I’m spending hours poring over database schemas, understanding transaction logs, and really *listening* to the data. It’s a far cry from tweaking automation, but there’s a satisfying logic to it all. 
+
+Honestly, the biggest shift hasn't been technical – it’s been a mental one. It's about slowing down, focusing on stability, and really understanding the "why" behind every query.  This year, I’m realizing that sometimes the best moves aren’t about climbing higher, but about finding a deeper, more fulfilling space.  Anyone else feeling a pull towards a different direction?

@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, suitable for a physics journal publication in 2021:
+
+**Abstract**
+
+Recent advancements in metasurface technology have spurred interest in manipulating light’s polarization state. This study details the development of a novel spin-decoupled metasurface architecture, designed to concurrently probe both spin and orbital angular momentum (OAM) of incident photons. Utilizing a specifically engineered plasmonic structure, we achieve momentum transformation, effectively decoupling the influence of spin and OAM polarization. This decoupling is crucial for precise vortex recognition, enabling the differentiation of vortices based solely on their OAM signature. Experimental results demonstrate the metasurface’s ability to accurately identify and subsequently sort vortices exhibiting distinct OAM values. The compact, single-element nature of this device represents a significant step towards miniaturized photonic manipulation, with potential applications in advanced optical sensing and quantum information processing. Further investigation into scaling and integration is warranted.

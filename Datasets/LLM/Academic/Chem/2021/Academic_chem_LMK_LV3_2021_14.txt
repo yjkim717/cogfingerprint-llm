@@ -1,0 +1,4 @@
+Title: Efficient Formaldehyde Formation via Water-Catalyzed Proton Transfer in Amorphous Solid Water
+
+Abstract: 
+In 2021, research in astrochemistry highlighted the significance of amorphous solid water (ASW) in facilitating chemical reactions. The reaction of carbon atoms with ASW is investigated, revealing an efficient pathway to formaldehyde (H2CO) formation. A water-catalyzed proton transfer mechanism is identified, where the hydrogen bonding network within ASW plays a crucial role. This study demonstrates that the reactivity of carbon atoms with ASW is a key process in the formation of H2CO, a fundamental interstellar species, underscoring the importance of ASW in astrochemical reactions.

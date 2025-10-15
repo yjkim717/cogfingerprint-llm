@@ -1,0 +1,5 @@
+Year: 2020
+Author: kbbtech
+URL: https://www.reddit.com/r/Office365/comments/epj2ts/geo_fencing_office_365/
+
+Hi all I'm looking at implementing geo fencing for our office 365 environment. We have E3 licenses only. The only way I've found to set this up is with conditional access. I also believe I need at least P1 licenses to be able to create my own conditional access policies. My questions are: 1. is there a way to do this with my current E3 licenses? 2. If not, do I need a P1 license for every user? I want to be compliant with my licensing and I believe I need a license for all my users, but was told by another person that I only need 1 P1 license and I can then provide geo fencing for all my users. Thanks in advance.

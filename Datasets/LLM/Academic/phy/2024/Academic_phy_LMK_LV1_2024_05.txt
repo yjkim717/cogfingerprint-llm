@@ -1,0 +1,4 @@
+"Revisiting the Cepheid Distance Scale: Metallicity Sensitivity in the Era of Precision Cosmology (2024)
+
+Abstract: 
+We re-examine the Cepheid Period-Luminosity (PL) relation, incorporating updated TRGB distance moduli and Wesenheit-Leavitt Law calibrations. Our analysis reveals no statistically significant correlation between Cepheid metallicity and PL relation slope, corroborating recent findings. Utilizing a robust dataset, we confirm that metallicity sensitivity does not significantly impact Cepheid distance estimates. Our results reinforce the reliability of Cepheid-based distance scales, bolstering the foundation for precision cosmology applications."

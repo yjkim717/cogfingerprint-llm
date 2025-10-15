@@ -1,0 +1,5 @@
+Year: 2022
+Author: Brought2UByAdderall
+URL: https://www.reddit.com/r/Superstonk/comments/w34cue/magical_minute_1422_less_than_300_shares_6/
+
+Same Bid/Asks and it keeps selling for less. Same Bid/Ask exchanges. That's unbroken for quite a long time in this massive red block these transaction are a part of. Yeah, that looks legit. You have to look at this whole minute though. There's rapid movement like this up and down. It's like they're cycling so fast back and forth that it's impossible for more natural orders to have any impact on price. Edit: Also, did anybody else see a massive like +$16 green candle for a split second around when this hit? At least one other ATP user did. No sign of it in the tape yet. Thought it might show up as a cancelled transaction later on in AH. Edit2: Larger sampling. There's at least 10+ more pages like this in the 18th second. What up DEX DEX Bid Size 3? Edit 3: Imported second of 14:22:18 as a CSV to get some stats. 704 transactions 43,331 shares traded 1-6k shares traded range 61.5 Average shares traded per transaction

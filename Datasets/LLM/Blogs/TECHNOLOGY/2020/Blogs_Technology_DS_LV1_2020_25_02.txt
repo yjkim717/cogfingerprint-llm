@@ -1,0 +1,1 @@
+Back in 2020, managing student tech felt like a constant puzzle. I remember staring at the Google Admin console, trying to disable Android sync for a class, only to be blocked by an enterprise policy. It was a stark reminder that in education, even the simplest settings are tied to complex layers of security.

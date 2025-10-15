@@ -1,0 +1,5 @@
+Year: 2021
+Author: forwardslashroot
+URL: https://www.reddit.com/r/NeatoRobotics/comments/ressn8/cant_add_d5_to_the_neato_app/
+
+I have a D5 that I bought several years ago. I reset the D5 to factory and could not get the D5 to be added to the Neato app. I checked my network and the D5 has an IP address and I am able to ping the D5 from my laptop. When I was attempting to add the D5 to the mobile app, I had to manually select the D5 wifi and manually enter my network wifi information. I was able to rename the D5 but that is as far as I go. The 3 minute timer ended and didn't add the D5 to the app. The "i" never turned red. The instruction I was following is this

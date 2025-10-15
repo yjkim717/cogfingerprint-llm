@@ -1,0 +1,3 @@
+It’s 2024, and my trusty Lenovo Tiny was humming along in my homelab until disaster struck. Out of nowhere, a RAM module failed—not just quietly, but with visible damage. My heart sank as I realized it might have taken my SSD and Wi-Fi card down with it.
+
+It’s a stark reminder: even compact, reliable tech isn’t immune to sudden hardware woes. Now I’m rethinking redundancy and backups, because in our connected lives, one tiny failure can ripple into a major headache.

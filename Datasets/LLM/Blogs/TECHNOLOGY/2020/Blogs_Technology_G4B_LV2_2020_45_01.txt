@@ -1,0 +1,17 @@
+Okay, here’s a blog post draft based on your summary and instructions, aiming for a reflective and conversational tone, around 208 words, and set in 2020:
+
+---
+
+**The Quiet Rebellion of Building Back-Ends**
+
+It’s funny, isn’t it? How much of the internet feels incredibly…smooth. You type a request, and *poof*, data appears. But lately, I've been thinking a lot about what’s *actually* happening behind those glossy interfaces. 
+
+I was reading about this project called FatCoach – a Kotlin-based BaaS framework – and it really struck a chord. It’s essentially trying to shield front-end developers from the messy realities of database management.  Instead of wrestling with GraphQL, which felt like a constant, complicated negotiation, FatCoach aims to just…handle it.
+
+It made me think about how much time I (and so many others) spent in 2020 just battling database queries.  We were building our own little back-ends, trying to make everything “just work.”  It’s a lonely, often frustrating process. 
+
+There’s a quiet rebellion happening in the tech world, isn't there? A desire to strip away the complexity and let developers focus on *building* things, not on the plumbing.  Tools like FatCoach – using things like Jooq and abstracting away the query language – are a small step in that direction.  It’s a reminder that sometimes, the most innovative solutions aren't about building *more*, but about making the existing process a little less…heavy. 
+
+---
+
+Would you like me to tweak this draft in any way (e.g., change the tone, add a specific detail, or adjust the length)?

@@ -1,0 +1,7 @@
+**Abstract**
+
+Lung cancer remains a leading cause of mortality globally, necessitating continued investigation into novel therapeutic strategies. Recent advancements in immunotherapy, specifically tumor-infiltrating lymphocyte (TIL) therapy, have generated considerable interest as a potentially effective adjunct to conventional treatments. This review synthesizes current knowledge regarding the application of TIL therapy within the context of lung cancer, focusing on its evolving role in clinical trials and the challenges associated with its implementation. 
+
+The concept of TIL therapy leverages the inherent anti-tumor activity of lymphocytes present within the tumor microenvironment, aiming to bolster systemic anti-cancer immunity. While preclinical studies demonstrated promising results, translating these findings into robust clinical outcomes has proven complex. Current clinical trials exploring TIL therapy, often in conjunction with immune checkpoint inhibitors, reveal variable responses and necessitate careful patient selection based on TIL density and specific immune profiles. 
+
+Future research should prioritize standardized TIL isolation and expansion protocols, alongside biomarker identification to predict treatment responsiveness. Addressing logistical hurdles and refining therapeutic regimens represent critical steps toward realizing the full potential of TIL therapy as a viable strategy in lung cancer management by 2023.

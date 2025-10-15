@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a computer science researcher and contextualized for 2022:
+
+**Abstract:**
+
+The efficacy of mRNA vaccination strategies in immunocompromised populations remains a critical area of investigation. This study, conducted in 2022, evaluated the humoral response to a second BNT162b2 booster dose in multiple myeloma patients. While a substantial increase in SARS-CoV-2 neutralizing antibodies was observed across the cohort, patients concurrently receiving anti-BCMA therapy exhibited a blunted response. These findings underscore a significant interaction between targeted immunotherapies and mRNA vaccine effectiveness, necessitating the development of adaptive and personalized prevention protocols for this vulnerable subgroup to mitigate infection risk.

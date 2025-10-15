@@ -1,0 +1,5 @@
+Here's an academic abstract based on the provided summary and keywords, written in a formal style suitable for a medical research publication (2020):
+
+**Abstract**
+
+Gastric adenocarcinoma frequently exhibits aggressive peritoneal dissemination, a significant contributor to patient morbidity and mortality. Recent investigations have identified the YAP1 transcriptional co-activator as a key regulator of this metastatic process. This study reports on the pivotal role of YAP1 in mediating peritoneal metastasis within a murine model of gastric adenocarcinoma. Specifically, YAP1 overexpression correlated with increased peritoneal tumor cell engraftment and enhanced metastatic burden. Pharmacological inhibition of YAP1 substantially attenuated tumor growth and markedly reduced the incidence of peritoneal metastases. These findings indicate that YAP1 represents a compelling therapeutic target for combating gastric cancer progression. Further preclinical studies are warranted to explore the efficacy of YAP1-targeted interventions, potentially including small molecule inhibitors or siRNA-based approaches, within a clinical context.

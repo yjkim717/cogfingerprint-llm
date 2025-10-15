@@ -1,0 +1,9 @@
+ Absolutely! Here's a formal academic-style abstract based on your provided information, aiming for the requested tone and length, and contextualized for a 2020 publication timeframe:
+
+**Abstract**
+
+The detection of complex organic molecules in interstellar environments provides crucial insights into the chemical pathways leading to prebiotic molecules. This work focuses on the isomeric cyanomethanimine species, specifically *Z*- and *E*-cyanomethanimine (NCCNH), and their potential role in interstellar chemistry. Utilizing high-level quantum chemical calculations, we have determined accurate dipole moment values and conformational energies for both isomers. Our findings reveal a significant difference in the dipole moments of the *Z*- and *E*-isomers, suggesting that this property plays a vital role in their relative abundances within dense molecular clouds. 
+
+We propose a "relative dipole principle," whereby differences in molecular dipole moments influence the isomeric ratio through radiative association and other dipole-driven reactions. Astrochemical modeling, incorporating these calculated properties, indicates that the *Z*-isomer is preferentially formed and maintained under typical interstellar conditions, despite potentially less favorable formation pathways. This preferential abundance is attributed to the enhanced stability conferred by its larger dipole moment. These results highlight the importance of considering molecular dipole moments when developing and refining astrochemical models and offer a new perspective on the isomeric complexity observed in interstellar molecular clouds.
+
+**Keywords:** cyanomethanimine, isomers, interstellar environments, quantum chemical calculations, astrochemical models.

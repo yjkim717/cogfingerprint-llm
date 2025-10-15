@@ -1,0 +1,7 @@
+**Abstract: Enhancing Lithium-Ion Storage Performance via Structural Modification of Sodium Niobate**
+
+Recent advancements in lithium-ion battery technology necessitate materials exhibiting superior rate capability, cycling stability, and performance at reduced temperatures. This study reports the synthesis and characterization of a novel sodium niobate material, leveraging a modified shear reo3 structure to achieve significant improvements in lithium-ion storage.  Specifically, the material’s interlayer spacing was strategically expanded, resulting in enhanced lithium-ion diffusion pathways and reduced ion diffusion impedance.
+
+X-ray diffraction analysis confirmed the successful implementation of the expanded interlayer spacing, directly correlating with a notable increase in rate performance during electrochemical testing. Cyclic voltammetry and charge-discharge cycling demonstrated superior stability, retaining over 90% of initial capacity after 500 cycles at 1C. Furthermore, the modified material exhibited improved low-temperature capacity retention, a critical factor for practical applications in cold climates.  
+
+These findings suggest that tailoring the structural architecture of sodium niobate through interlayer spacing manipulation represents a viable strategy for developing high-performance cathode materials for lithium-ion batteries.  Future research will focus on optimizing the synthesis process and exploring the electrochemical mechanisms underpinning these enhanced properties.

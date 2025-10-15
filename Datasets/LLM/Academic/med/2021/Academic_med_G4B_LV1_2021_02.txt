@@ -1,0 +1,7 @@
+Here’s an original academic abstract, suitable for a 2021 publication, drawing upon the provided summary and incorporating relevant terminology:
+
+**Abstract**
+
+The increasing prevalence of neurodegenerative disorders, notably Alzheimer’s disease (AD), necessitates the development of robust and accessible biomarkers for early detection and longitudinal monitoring. This study investigated the utility of plasma phosphorylated total tau at 231 kDa (p-tau231) as a sensitive indicator of early AD pathology. Utilizing a novel single molecule array (SMA) platform, we quantified p-tau231 levels in a cohort of individuals with varying degrees of cognitive impairment and matched healthy controls. Results demonstrated a statistically significant elevation of plasma p-tau231 in patients exhibiting clinical signs indicative of AD, achieving high diagnostic accuracy in differentiating between groups (AUC = 0.88). 
+
+Furthermore, correlations between plasma p-tau231 concentrations and established AD biomarkers – including cerebrospinal fluid (CSF) tau and amyloid-beta isoforms – were observed, reinforcing its potential as a complementary diagnostic tool. These findings suggest that plasma p-tau231 represents a promising, minimally invasive biomarker for identifying individuals at risk for, or in the early stages of, AD. Future research should focus on validating these results across diverse populations and exploring the biomarker’s predictive value for disease progression.

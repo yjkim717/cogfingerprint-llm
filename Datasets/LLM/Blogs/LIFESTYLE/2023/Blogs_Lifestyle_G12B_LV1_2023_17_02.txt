@@ -1,0 +1,5 @@
+>## The Unexpected Joy of Digital Archaeology
+
+It's funny how passions shift. For years, I was chasing the latest graphics card, optimizing for peak performance in the newest games. Now, 2023 finds me equally obsessed… but with a completely different kind of digital pursuit. I’ve finally pulled the trigger on a new PC – a solid £1000 build – and it's not for blasting through AAA titles. 
+
+Instead, I'm diving deep into emulator development, tinkering with machine learning to improve image fidelity, and even dabbling in some Unreal Engine scripting. It’s a strange blend of game dev, programming, and a kind of digital archaeology, resurrecting old systems and pushing them into the future. It’s surprisingly rewarding, and a lot less stressful than chasing leaderboard scores!

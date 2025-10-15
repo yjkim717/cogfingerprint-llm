@@ -1,0 +1,6 @@
+Here is an original abstract inspired by the given summary:
+
+Title: Optimizing Systemic Therapy for Metastatic Colorectal Cancer: A Review of NCCN Guidelines
+
+Abstract:
+In 2024, the management of metastatic colorectal cancer (mCRC) remains a therapeutic challenge. The NCCN Guidelines for Colon Cancer provide a framework for clinicians to tailor systemic therapy regimens based on prior treatment exposure, tumor mutational profiling, and toxicity considerations. This review examines the evidence underpinning the guidelines' recommendations, highlighting the importance of biomarker-driven treatment selection and sequential therapy optimization to improve patient outcomes in mCRC. By synthesizing current data, we aim to inform clinical decision-making and enhance mCRC care.

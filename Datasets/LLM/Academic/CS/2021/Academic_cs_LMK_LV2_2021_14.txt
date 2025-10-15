@@ -1,0 +1,6 @@
+Here's a formal academic-style abstract based on the given summary:
+
+Title: Comparative Analysis of PPO and SAC Algorithms for Multi-Vehicle Collision Avoidance in Autonomous Driving using Reinforcement Learning
+
+Abstract:
+The increasing complexity of autonomous driving scenarios necessitates the development of sophisticated collision avoidance systems. This study investigates the efficacy of two state-of-the-art reinforcement learning algorithms, Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC), in enabling multiple autonomous vehicles to navigate safely through dynamic environments. We formulate the collision avoidance problem as a Markov Decision Process and train the algorithms using a simulated multi-vehicle scenario. Our results, validated through extensive simulations in 2021, demonstrate that both PPO and SAC algorithms can effectively learn collision avoidance strategies. A comparative analysis reveals that SAC outperforms PPO in terms of convergence rate and stability, while PPO exhibits better exploration capabilities. The findings of this study provide valuable insights into the design of robust collision avoidance systems for autonomous vehicles, highlighting the potential of reinforcement learning in enhancing road safety.

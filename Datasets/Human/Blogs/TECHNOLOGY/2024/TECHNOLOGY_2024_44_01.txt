@@ -1,0 +1,5 @@
+Year: 2024
+Author: robbo2020a
+URL: https://www.reddit.com/r/PleX/comments/1cu4pj6/performance_improvement_suggestions/
+
+Hi, I'm running my Plex on a raspberry pi 4b. It runs fine most of the time, but on occasion (once every 6months etc). Plex runs really slow! The performance of the pi is fine, I can ssh in, see plenty of CPU spare, and memory etc, good disk space. So on and so forth. I think my issue is specific to Plex, so does anyone have any performance tips? E.g. increase log sizes, clear caches, store thumbnails in X location, do a service restrart with a specific command I'm just generally trying to understand why Plex slows down. All videos are ripped the same format and roughly the same size in file size as well.

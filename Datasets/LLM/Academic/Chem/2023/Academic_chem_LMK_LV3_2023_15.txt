@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract in the field of chemistry inspired by the given summary and keywords:
+
+Title: Strategic Design of Heteroleptic Pd(II) Cages via Ancillary Pairings: A Modular Approach to Low-Symmetry Metallo-Supramolecular Architectures
+
+Abstract: 
+The development of metallo-supramolecular chemistry has enabled the creation of complex architectures with tailored properties. Herein, we report the synthesis of a lantern-shaped Pd(II) cage comprising four distinct low-symmetry ligands, achieved through a rational ancillary pairings approach. By judiciously selecting ligand combinations, we demonstrate precise control over the positional and orientational arrangement of the ligands within the cage. This modular strategy leverages the heteroleptic assembly of Pd(II) centers, affording a highly ordered supramolecular structure. The resulting cage exhibits a unique combination of chemical and spatial properties, underscoring the potential of this approach for the design of functional metallo-supramolecular assemblies. This work expands the toolkit for the construction of complex supramolecular architectures and highlights the versatility of Pd(II)-based coordination chemistry in 2023.

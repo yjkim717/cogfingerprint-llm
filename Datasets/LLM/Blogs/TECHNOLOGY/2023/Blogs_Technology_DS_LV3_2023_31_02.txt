@@ -1,0 +1,1 @@
+Looking back at our team's journey in 2023, I realize starting with a monolithic architecture was our wisest move. It kept overhead manageable for our small team while we learned the ropes. Now, migrating to microservices feels less daunting—like we built a solid foundation before scaling our dreams.

@@ -1,0 +1,7 @@
+ Absolutely! Here's a formal academic-style abstract based on the provided information, suitable for a chemistry-related publication in 2022:
+
+**Abstract**
+
+The investigation of radical diffusion within icy grain mantles is crucial for understanding chemical processes in the interstellar medium. Hydroxyl radicals (OH) play a pivotal role in these environments, participating in complex reaction networks that influence the formation of more complex organic molecules. This study presents experimental measurements of the activation energy (Ea) for OH radical diffusion on a water ice (H₂O) surface. Utilizing a novel low-temperature UHV surface science technique, we directly probed the mobility of OH radicals adsorbed on well-characterized H₂O ice films. Our findings reveal an activation energy of 0.14 ± 0.01 eV for OH diffusion. This value represents a significant contribution to the limited experimental data available for radical transport in interstellar ice analogs. The relatively low activation energy suggests that OH radical diffusion is a kinetically feasible process at the cryogenic temperatures prevalent in interstellar clouds. These results have implications for modeling the efficiency of surface reactions involving OH radicals, and consequently, for refining our understanding of molecular evolution in star-forming regions.
+
+**Keywords:** OH radicals, water ice, activation energy, diffusion, interstellar ice.

@@ -1,0 +1,3 @@
+It’s 2021, and I’m determined to turn my Android into a pocket-sized console. I’ve got Dolphin ready to run my favorite GameCube classics and Game Pass waiting with a cloud library. The only thing missing? A controller that just *works*.
+
+You’d think it’d be simple. But the journey to find that one perfect controller—one that doesn’t require a PhD in Bluetooth troubleshooting to switch between emulation and Game Pass—has been a true test of patience. It’s the modern gaming paradox: we have this incredible power in our hands, yet a simple connection issue can shatter the entire experience. I just want to dive into a game, not into the settings menu for the tenth time.

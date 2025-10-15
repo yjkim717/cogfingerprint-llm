@@ -1,0 +1,1 @@
+As I tinkered with scikitlearn’s linear regression in 2022, a lightbulb moment hit: those coefficients are like derivatives, mapping how each variable truly influences the outcome. It felt like uncovering a hidden language in the data, a personal key to the chain rule’s magic.

@@ -1,0 +1,4 @@
+Title: Singularity-Free Transition from Black Hole to White Hole via Loop Quantum Cosmology Corrections
+
+Abstract:
+We present a novel, singularity-free spacetime metric derived from a Lorentzian framework, wherein a black hole undergoes a transition to a white hole within a single asymptotic region. By incorporating corrections from Loop Quantum Cosmology into the Einstein Field Equations, we obtain a metric that resolves the black hole singularity. Our solution exhibits a smooth, non-singular transition, providing a plausible alternative to traditional black hole scenarios. The proposed metric is asymptotically flat and satisfies the null energy condition, offering a promising avenue for exploring the interior dynamics of black holes and their potential white hole remnants. (2023)

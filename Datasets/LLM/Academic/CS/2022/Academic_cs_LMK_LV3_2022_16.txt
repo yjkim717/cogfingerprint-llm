@@ -1,0 +1,4 @@
+Here is a formal academic-style abstract:
+
+Title: Advancing Mauritian Creole Machine Translation via Multilingual Transfer Learning
+Abstract: This study presents KreolMorisienMT, a novel benchmarking dataset for Mauritian Creole machine translation. Leveraging pre-trained models and multilingual transfer learning, we evaluate the efficacy of various translation architectures. Our results demonstrate significant improvements in translation quality, underscoring the potential of transfer learning for low-resource languages. This research contributes to the development of more inclusive and robust machine translation systems, aligning with the 2022 NLP trends.

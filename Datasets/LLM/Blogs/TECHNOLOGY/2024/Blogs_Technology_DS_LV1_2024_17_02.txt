@@ -1,0 +1,15 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Ghost in the Machine: My Quest for a Simpler WordPress
+
+It started, as these things often do, with a blank slate—a shiny new VPS dashboard staring back at me. The promise of total control was intoxicating. My mission: to build a new home for my writing, a self-hosted WordPress site unshackled from generic hosting. But in 2024, the first question isn't just "how," but "in what?"
+
+I immediately fell down the rabbit hole of Docker. The allure was undeniable: neat, isolated containers for Nginx, MariaDB, and WordPress itself. It felt like the "modern" way, a perfectly orchestrated digital ecosystem. I could snapshot, rebuild, and migrate with a few commands. It was elegant, clean, and architecturally beautiful.
+
+But then I remembered why I was doing this. I’m a writer, not a sysadmin. My goal was to create, not to constantly manage the symphony of containers. The Docker setup, for all its power, felt like another layer of abstraction between me and my words—a ghost in the machine I had to constantly appease.
+
+So, I took a deep breath and went the "old-fashioned" way: a direct installation. Manually setting up Nginx and MariaDB felt grounding. There was something profoundly satisfying about understanding the direct relationships between the services, of seeing the gears turn without a containerization veil.
+
+In the end, my VPS doesn't host the most technically impressive setup. But it hosts *my* setup. It’s a reminder that the "best" practice isn't always the one with the most buzzwords; it's the one that stays out of your way and lets you do the work that truly matters. Sometimes, the simplest path is the most powerful.

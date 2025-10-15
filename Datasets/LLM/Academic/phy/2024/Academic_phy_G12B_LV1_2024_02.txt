@@ -1,0 +1,10 @@
+ here:
+
+**Abstract:**
+
+The computation of scattering amplitudes in quantum field theories, particularly at higher loop orders, remains a significant challenge. Traditional perturbative approaches suffer from increasing complexity as the loop order advances. This work explores a novel perspective on amplitude factorization and the emergence of "split" amplitudes, drawing connections between these phenomena and the geometry of Riemann surfaces. We propose that multi-soft limits, which represent a crucial class of singular behavior in scattering amplitudes, fundamentally arise from the deformation of complex curves integral representations. Specifically, we investigate the relationship between these curve integrals and binary geometries, a recently developed mathematical framework for encoding and manipulating complex structures.
+
+Our approach leverages split factorization techniques, demonstrating how the amplitude can be decomposed into simpler components corresponding to specific curve deformations. This decomposition allows for an all-order loop calculation within the context of $\phi^3$ theory, providing a concrete illustration of the framework's potential. Furthermore, we argue that this geometric perspective offers a pathway to generalize these insights beyond the realm of perturbative calculations, potentially impacting our understanding of non-perturbative phenomena and providing new tools for exploring the structure of scattering amplitudes in more complex quantum field theories. The implications extend to areas such as constructive quantum field theory and the study of integrable systems.
+
+
+

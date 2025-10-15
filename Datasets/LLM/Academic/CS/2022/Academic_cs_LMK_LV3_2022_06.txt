@@ -1,0 +1,5 @@
+Title: Assessing the Interplay between Ownership, Risk, and Market Competition on Efficiency in Bangladeshi Commercial Banks: A GMM Estimator Approach
+
+Abstract:
+
+This study examines the intricate relationships between ownership, risk, market competition, and efficiency in the Bangladeshi commercial banking sector as of 2022. Utilizing a dataset comprising 30 banks over a five-year period, we employ the Generalized Method of Moments (GMM) estimators to address potential endogeneity concerns. Our analysis reveals that ownership structure significantly influences bank efficiency, with privately-owned banks demonstrating superior performance compared to their state-owned counterparts. Furthermore, we find that heightened market competition and prudent risk management practices are positively correlated with efficiency. Conversely, excessive risk-taking is detrimental to bank performance. Our findings have important implications for policymakers and stakeholders seeking to enhance the efficiency and stability of the Bangladeshi banking sector, underscoring the need for nuanced regulatory frameworks that balance market competition and risk mitigation.

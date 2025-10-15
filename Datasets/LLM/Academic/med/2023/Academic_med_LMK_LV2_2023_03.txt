@@ -1,0 +1,15 @@
+Title: A Two-Step Workflow Utilizing Plasma p-Tau217 for Detecting Amyloid-β Positivity in Mild Cognitive Impairment: Enhancing Diagnostic Accuracy and Efficiency
+
+Abstract:
+
+The accurate detection of amyloid-β (Aβ) positivity is crucial for diagnosing Alzheimer's disease (AD) in patients with mild cognitive impairment (MCI). Recent advancements in blood biomarkers have shown promise in streamlining the diagnostic process. This study investigates the efficacy of a two-step workflow incorporating plasma phosphorylated tau217 (p-tau217) in identifying Aβ positivity among MCI patients, thereby reducing the necessity for confirmatory testing.
+
+Our analysis encompasses a cohort of MCI patients who underwent plasma p-tau217 assessment as part of their diagnostic evaluation. The two-step workflow involved an initial screening using plasma p-tau217, followed by confirmatory testing for Aβ positivity using established methods such as positron emission tomography (PET) or cerebrospinal fluid (CSF) analysis in a subset of patients.
+
+The results demonstrate that plasma p-tau217 levels were significantly elevated in Aβ-positive individuals compared to their Aβ-negative counterparts. The two-step workflow exhibited high diagnostic accuracy, with plasma p-tau217 effectively stratifying patients into high and low probability groups for Aβ positivity. Notably, the implementation of this workflow substantially reduced the requirement for confirmatory testing, thereby enhancing diagnostic efficiency and minimizing unnecessary procedures.
+
+Our findings support the utility of plasma p-tau217 as a reliable blood biomarker for detecting Aβ positivity in MCI patients. The proposed two-step workflow offers a practical and efficient diagnostic strategy, potentially revolutionizing the clinical management of AD. By integrating plasma p-tau217 into the diagnostic algorithm, clinicians can more accurately identify patients at risk of AD, facilitating timely interventions and improving patient outcomes.
+
+The study's outcomes contribute to the growing body of evidence supporting the use of blood biomarkers in AD diagnosis. As the field continues to evolve, the integration of plasma p-tau217 into clinical practice may become increasingly important for streamlining diagnostic pathways and enhancing patient care. Future studies should focus on further validating the diagnostic performance of this two-step workflow and exploring its potential applications in diverse clinical settings.
+
+In conclusion, our study demonstrates the potential of a plasma p-tau217-based two-step workflow to enhance the detection of Aβ positivity in MCI patients, reducing the need for confirmatory testing and improving diagnostic efficiency. As research in this area continues to advance, the incorporation of blood biomarkers into clinical practice is poised to transform the diagnostic landscape for AD.

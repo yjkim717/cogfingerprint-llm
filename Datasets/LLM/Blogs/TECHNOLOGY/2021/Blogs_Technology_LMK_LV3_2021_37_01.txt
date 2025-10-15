@@ -1,0 +1,1 @@
+"As I watched my favorite mobile game tutorials on VLC player in 2021, I was frustrated that it didn't adjust to portrait mode like on my phone. I longed for an easy 'fit to screen' option. After some digging, I discovered a simple solution - adjusting the aspect ratio and cropping settings in VLC."

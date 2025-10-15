@@ -1,0 +1,5 @@
+Year: 2022
+Author: skwyckl
+URL: https://www.reddit.com/r/MacOS/comments/smmise/is_it_possible_to_change_the_connected_displays/
+
+I would like to adjust monitor brightness on my Mac mini, instead of having to click myself through the monitor's menu. Is it possible? I have read somewhere that it only works in Apple monitors, but maybe there is another way? EDIT: I have a Mac mini M1 and an unimpressive Viewsonic monitor

@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Experimental Determination of the Activation Energy for Hydroxyl Radical Surface Diffusion on Amorphous Solid Water
+
+**Abstract:**
+
+The mobility of the hydroxyl (OH) radical on interstellar ice analogues is a critical, yet poorly constrained, parameter in astrochemical models governing the formation of complex organic molecules in dark molecular clouds. We report the first direct experimental quantification of the activation energy (Ea) for OH radical diffusion on porous amorphous solid water (ASW) films under ultra-high vacuum conditions. Utilizing a combination of temperature-programmed photostimulated desorption (PSD) and resonance-enhanced multiphoton ionization (REMPI) time-of-flight mass spectrometry, we monitored the diffusion-limited recombination of OD radicals (used to mitigate interference) as a function of surface temperature. Analysis of the recombination kinetics via the Arrhenius equation yields an activation energy for diffusion of 0.14 ± 0.02 eV. This relatively low barrier confirms that OH radicals are highly mobile on ASW surfaces even at temperatures as low as 20 K, providing a crucial mechanistic foundation for the efficient gas-grain production of water and more complex prebiotic species in the interstellar medium.

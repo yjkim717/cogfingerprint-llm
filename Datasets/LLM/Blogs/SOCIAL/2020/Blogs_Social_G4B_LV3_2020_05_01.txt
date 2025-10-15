@@ -1,0 +1,2 @@
+Input: A PC enthusiast is experiencing a frustrating issue where G-Sync functionality disappears when running a 4K 120Hz display via HDMI 2.1, despite having a high-end graphics card.
+Output: Remember 2020? That feeling of relying on online communities for everything? It’s frustrating when the tech you’ve invested in just…doesn’t work, especially when it’s supposed to connect us. Like a digital ghost, G-Sync vanished, leaving a frustrating disconnect.

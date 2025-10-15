@@ -1,0 +1,7 @@
+"Ditching Windows for Debian: The Outlook Notification Conundrum
+
+As I celebrated my one-year anniversary of using Debian Linux as my primary operating system in 2021, I realized that I'd finally settled into a rhythm. However, one lingering issue continued to bug me - getting Outlook email notifications to work seamlessly. As a professional who relies heavily on email, I was used to the convenience of instant notifications on my old Windows setup.
+
+Switching to Debian was a game-changer, but it wasn't without its challenges. I'd grown accustomed to the Microsoft ecosystem, and Outlook was a crucial part of my workflow. I was determined to replicate the same experience on my new OS. After some trial and error, I discovered that I could use the lovely 'davmail' package to connect to my Exchange server and 'mutt' to fetch my emails.
+
+The real challenge lay in getting notifications to work. I experimented with various configurations, finally stumbling upon a solution that worked for me. It was a relief to have my Outlook notifications up and running on Debian. If you're considering making the switch from Windows, don't be discouraged by the initial hurdles. With persistence and the right guidance, you can overcome them and enjoy the benefits of a Linux-based OS."

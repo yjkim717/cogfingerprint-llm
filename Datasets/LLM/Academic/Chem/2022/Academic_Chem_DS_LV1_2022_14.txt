@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary and keywords.
+
+***
+
+**Abstract**
+
+The formation of complex organic molecules (COMs) in the cold, tenuous environment of the interstellar medium (ISM) presents a significant astrochemical challenge, as traditional thermal reaction pathways are often impeded. This investigation explores the critical role of gas-phase radical-mediated reactions as a non-thermal mechanism for molecular growth. We focus specifically on the sequential hydrogen atom abstraction (H abstraction) and radical addition processes initiated by ubiquitous H and OH radicals reacting with small unsaturated precursors, namely acetylene (C₂H₂) and ethylene (C₂H₄). Computational kinetics models, benchmarked against 2022 laboratory data, demonstrate that the addition of an H atom to acetylene forms the vinyl radical (C₂H₃•), while addition to ethylene yields the ethyl radical (C₂H₅•). These newly formed radicals serve as pivotal reactive intermediates. Their subsequent reactions, including further radical-radical recombination or addition to other unsaturated species, provide efficient, barrier-less pathways for constructing more complex carbon skeletons. This work quantitatively establishes that such radical-driven reaction cascades are a fundamental and highly efficient route for initiating molecular complexity, directly contributing to the observed molecular diversity in dark molecular clouds and protostellar envelopes.
+
+(Word Count: 199)

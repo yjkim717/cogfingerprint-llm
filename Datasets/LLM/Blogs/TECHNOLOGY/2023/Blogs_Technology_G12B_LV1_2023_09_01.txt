@@ -1,0 +1,5 @@
+ here:
+
+## The Algorithm Already Knows, Doesn't It?
+
+Playing *Guns of Boom* lately, I’ve noticed a weird pattern in "Capture the Object." Whoever grabs the ball first *always* seems to win. It's almost unsettling. Makes you wonder – are all our online experiences subtly steered that way? Does the algorithm already calculate the most likely outcome, shaping what we see and do before we even begin? A bit spooky, right?

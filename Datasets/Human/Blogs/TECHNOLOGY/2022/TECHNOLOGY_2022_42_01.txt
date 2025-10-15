@@ -1,0 +1,5 @@
+Year: 2022
+Author: ihatebeinganonymous
+URL: https://www.reddit.com/r/reactnative/comments/tdgvnp/reducing_the_width_of_the_app_for_desktop_screens/
+
+Hi, I am trying to develop a very basic app with Expo and React Native for Web, using Drawer navigation. &#x200B; The problem is that the app becomes too wide on desktop, browser screens. Therefore, I am seeking a style set or any other method to add some left and right margin to the app, similar to Twitter and Telegram websites. The style I use normally with my web applications doesn't work with drawer navigator, as it makes the drawer itself appear in the margin area. &#x200B; Is there a "proper" or standard way of doing it? I assume it should be a commons situation for react native for web, no?

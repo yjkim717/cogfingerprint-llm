@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2020 physics publication:
+
+**Abstract:**
+
+Recent cosmological simulations and observational data increasingly point to ultralight axion dark matter (ULA) as a compelling candidate for explaining the observed dark matter density fluctuations. This study presents a novel analysis of the Lyman-alpha forest, leveraging a high-resolution emulator to constrain the parameter space for ULA models. By meticulously mapping the integrated Sachs-Wolfe effect imprinted upon the Lyman-alpha forest power spectrum, we establish a stringent lower mass limit for ULA – exceeding 2 × 10<sup>-20</sup> eV. This constraint effectively diminishes the viability of a broad range of previously favored ULA parameter values, significantly impacting theoretical models of cosmic structure growth.  The methodology employed provides a robust and efficient approach for future explorations of axion dark matter, informing the search for observational signatures and refining our understanding of the early universe.

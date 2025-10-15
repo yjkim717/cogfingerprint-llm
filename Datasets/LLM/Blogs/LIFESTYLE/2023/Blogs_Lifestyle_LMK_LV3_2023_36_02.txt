@@ -1,0 +1,1 @@
+"Upgrading my rig, I hit a snag: AM5 motherboards dropping SATA support for M.2 SSDs. It's 2023, and I'm stuck choosing between SATA or NVMe. This limitation is pushing me towards Intel. As a tech enthusiast, it's frustrating to see innovation hindered by compatibility issues. I'm not alone in this struggle. Is it time to rethink our approach to motherboard design?"

@@ -1,0 +1,7 @@
+It’s 2020, and I’ve been thinking a lot about how we build things. Lately, I’ve been tinkering with this experimental BaaS framework called FatCoach—built in Kotlin—and it’s got me reflecting on the whole idea of abstraction.
+
+You see, for years, we’ve been trying to make life easier for front-end developers. GraphQL was a big leap, letting them query exactly what they needed without drowning in backend complexity. But what if we took it a step further? What if we could abstract the SQL database away entirely, so they never have to think about tables or joins?
+
+That’s what FatCoach is exploring. It’s not just another query language; it’s a different philosophy. Instead of exposing the database’s inner workings, it wraps everything in a clean, thoughtful API. As someone who’s spent late nights debugging mismatched schemas, the idea feels… refreshing.
+
+It makes me wonder: how much complexity do we introduce by clinging to what’s familiar? Maybe the next big shift isn’t about doing things faster, but about hiding the right things, so we can focus on what truly matters—building experiences that connect with people. And honestly, that’s a goal worth chasing.

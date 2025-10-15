@@ -1,0 +1,5 @@
+Year: 2020
+Author: GordonRammstein
+URL: https://www.reddit.com/r/PlantedTank/comments/hrhbbf/are_solenoids_removable_from_regulators_does_it/
+
+Im looking to upgrade to Pressurized CO2 from diy citric acid. I remember looking a couple years ago, and i couldn’t find a proper solenoid anywhere. Now most every listing has one but my situation has changed and i dont have a free outlet to power a solenoid. I’d rather have a manual shutoff valve to do it myself. Am i just overlooking the obvious or are they required for many of these regulators? In particular, im looking at one of the FZone models on amazon, but am open to various options. Thanks.

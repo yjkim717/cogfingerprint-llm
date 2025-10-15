@@ -1,0 +1,5 @@
+It’s 2022, and my Intel NUC media PC is humming away in the living room, a silent digital hearth. But the clutter of keyboards and mice? That had to go. I wanted to lounge back and command it all from my laptop, like a tech wizard from the couch.
+
+My journey began in the land of Linux, navigating the sleek but sometimes stubborn world of Wayland and my trusted i3wm. It wasn't always smooth; some remote solutions balked at the tiling windows, a digital tantrum I hadn't anticipated.
+
+But then, I found it—a seamless remote control setup. Now, a simple click from my main machine, and the media PC obeys. It’s more than convenience; it’s about reclaiming my space and my peace. Sometimes, the best tech isn't about more gadgets, but about smarter, quieter connections.

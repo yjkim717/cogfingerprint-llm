@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a 2023 publication:
+
+**Abstract**
+
+Recent advances in supramolecular chemistry have increasingly leveraged the controlled assembly of metal complexes to generate intricate architectures. This study details a novel methodology for constructing palladium(II) cage structures, prioritizing positional and orientational fidelity through strategic ligand pairing. Utilizing ancillary ligands, we demonstrate the formation of heteroleptic assemblies with low-symmetry building blocks. Employing a pd(II) cage framework, the precise arrangement of these ligands – dictated by the chosen ancillary pairing – directly influences the resultant complex’s geometry and stability.  This approach circumvents traditional challenges associated with self-assembly, offering a pathway to accessing previously unattainable low-symmetry coordination environments.  The results, presented in 2023, highlight the potential of ligand-directed assembly for designing tailored metallosupramolecular materials with applications in catalysis and sensing.

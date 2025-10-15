@@ -1,0 +1,3 @@
+It’s 2020, and I’ve decided to build my dream 2D multiplayer game from scratch in C++. No engines, no shortcuts—just raw code and ambition. I want it open-source, so others can learn alongside me, and I’m determined to integrate Steam for matchmaking and friends lists.
+
+But wow, network programming is humbling. One day, everything syncs perfectly; the next, players are teleporting through walls. I’ve spent hours debugging packets instead of designing levels. Still, there’s magic in watching two strangers connect and play something I built line by line. It reminds me why I started coding: not for polished products, but for the messy, exhilarating process of creation. Here’s to embracing the bugs and the breakthroughs alike.

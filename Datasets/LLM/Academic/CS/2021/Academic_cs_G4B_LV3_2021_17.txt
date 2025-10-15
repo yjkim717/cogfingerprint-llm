@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for a 2021 publication:
+
+**Abstract**
+
+This research investigates the spatial and temporal dynamics of terrorist activity within Nigeria utilizing data sourced from the Global Terrorism Database (GTD) and employing the Apriori algorithm.  Applying data mining techniques, specifically association rule mining, allows for the identification of recurring patterns in terrorist attack methodologies and geographic concentrations. The study’s objective is to enhance forensic investigation capabilities by revealing statistically significant correlations between attack types, locations, and temporal trends.  Results demonstrate the efficacy of the Apriori algorithm in distilling actionable intelligence from the GTD’s expansive dataset, providing a novel approach to understanding the evolving threat landscape.  This analysis contributes to improved predictive modeling for law enforcement agencies and informs targeted counter-terrorism strategies, representing a valuable addition to the field of computational intelligence applied to security analysis in 2021.

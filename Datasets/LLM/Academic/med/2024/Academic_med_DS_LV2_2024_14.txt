@@ -1,0 +1,13 @@
+Of course. Here is a formal academic abstract based on the provided summary.
+
+***
+
+**Abstract**
+
+**Background:** Orthorexia nervosa (ON), a pathological fixation on "healthy" eating, is increasingly recognized for its adverse psychological sequelae. While its association with impaired psychosocial functioning is established, the mechanisms linking ON to critical academic outcomes, such as academic self-efficacy (ASE), remain underexplored, particularly in non-Western contexts. This study investigates the mediating roles of psychological distress and mindful eating in the relationship between ON and ASE among a specific demographic cohort.
+
+**Methods:** A cross-sectional design was employed, recruiting a sample of female university students from Lebanon (N=...). Participants completed validated self-report measures assessing orthorexic tendencies (e.g., ORTO-15-R), psychological distress (e.g., DASS-21), mindful eating (e.g., Mindful Eating Questionnaire), and academic self-efficacy. Data were analyzed using structural equation modeling (SEM) to test the proposed parallel mediation model.
+
+**Results:** The findings indicate a significant negative relationship between orthorexic tendencies and academic self-efficacy. Crucially, bootstrapping analyses revealed that both psychological distress and mindful eating fully mediated this relationship. Higher levels of ON were associated with greater psychological distress and lower mindful eating, which in turn, predicted diminished ASE. The direct path from ON to ASE was non-significant when the mediators were included in the model.
+
+**Conclusion:** This study provides novel evidence that the detrimental impact of orthorexia nervosa on academic self-efficacy in Lebanese female students is not direct but operates entirely through heightened psychological distress and a deficit in mindful eating. These findings underscore the necessity of integrating psychological support and mindfulness-based nutritional interventions within university health services to mitigate the academic repercussions of disordered eating patterns.

@@ -1,0 +1,9 @@
+Title: Exploring Quasiprobabilities in Quantum Thermodynamics: A Kirkwood-Dirac Distribution Perspective
+
+Abstract:
+
+The realm of quantum thermodynamics has witnessed significant advancements in recent years, with quasiprobabilities emerging as a pivotal tool for understanding the intricacies of many-body systems. This tutorial-style review aims to provide a comprehensive overview of quasiprobabilities in the context of quantum thermodynamics, with a particular emphasis on Kirkwood-Dirac distributions. By delving into the definition and interpretation of these quasiprobabilities, we elucidate their role in characterizing quantum statistics and their far-reaching implications for the field.
+
+Quasiprobabilities, as a fundamental concept, enable the extension of classical statistical mechanics to the quantum domain, facilitating the analysis of phenomena that lie beyond the purview of traditional probability theory. The Kirkwood-Dirac distribution, a specific quasiprobability distribution, has garnered considerable attention owing to its ability to encapsulate the quantum fluctuations and coherences inherent in many-body systems. Through a detailed examination of the Kirkwood-Dirac distribution, we demonstrate its efficacy in capturing the essence of quantum thermodynamics, particularly in the context of quantum statistics.
+
+This review provides an in-depth analysis of the theoretical underpinnings of quasiprobabilities and their applications in characterizing the thermodynamic behavior of quantum systems. By synthesizing recent research and advancements in the field, we highlight the prospective avenues for future research, underscoring the potential of quasiprobabilities to revolutionize our understanding of quantum thermodynamics. As such, this work serves as a valuable resource for researchers seeking to explore the intricacies of quantum thermodynamics and its intersection with quantum statistics.

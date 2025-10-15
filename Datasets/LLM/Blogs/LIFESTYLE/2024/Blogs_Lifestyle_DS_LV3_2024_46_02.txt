@@ -1,0 +1,5 @@
+There’s a certain magic in the quiet hum of my 3D printer—a promise of creation, of turning digital dreams into tangible reality. But for the longest time, that promise was often marred by a tiny, stubborn issue: a little filament residue left on the print bed during homing, which would then sabotage my first layer.
+
+It felt like a small, recurring defeat. I’d watch the nozzle dip down for its G28Z homing routine, leaving behind a speck of plastic, and I’d know the next print was already compromised. I craved that perfect, smooth first layer—the foundation of every great print.
+
+Then, I discovered the homing override. By tweaking the G-code to probe Z on a small dowel pin off to the side, the nozzle cleans itself before ever touching the build plate. It’s a simple fix, but it changed everything. Now, my prints start clean, and that initial hum feels even more purposeful. It’s a reminder that sometimes, the smallest adjustments in our routines—whether in printing or in life—can clear the way for something flawless to begin.

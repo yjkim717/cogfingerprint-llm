@@ -1,0 +1,7 @@
+>## My Retro Gaming Dreams and Android 11's Storage Walls
+
+Okay, so I'm a bit of a retro gaming enthusiast. Nothing crazy, but I love firing up classic Game Boy Advance and Nintendo DS titles whenever I get a chance. For years, my trusty Samsung Galaxy has been my portable emulator powerhouse, running Citra and Drastic flawlessly. Then Android 11 hit.
+
+Suddenly, things got…complicated. It seems Google’s new scoped storage restrictions are throwing a wrench in the works for emulators. My ROMs, previously happily residing on my SD card, are now locked away, inaccessible to Citra and Drastic. 
+
+It's a frustrating reminder that even the coolest tech advancements can have unintended consequences. While I understand the privacy intentions behind scoped storage – keeping user data safe – it’s a real headache for those of us just wanting to relive some pixelated nostalgia. Hopefully, developers will find a workaround soon, because right now, my retro gaming habit is facing a serious storage wall.

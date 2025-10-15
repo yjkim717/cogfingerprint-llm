@@ -1,0 +1,5 @@
+It’s funny—in 2024, we talk so much about AI reshaping the world, but I keep coming back to the tools that make it accessible. A few months ago, I open-sourced a managed API gateway and client libraries for AI services under the MIT license. It wasn’t just about sharing code; it was about inviting others to build with me.
+
+What struck me was how quickly the community jumped in. Developers from different corners of the globe added features, fixed bugs, and shared ideas I’d never considered. It reminded me that technology, at its best, isn’t just lines of code—it’s a shared journey.
+
+Now, seeing our little project power startups and experiments worldwide, I’m reminded that open source isn’t just practical; it’s profoundly human. We’re not just building tools—we’re building bridges, one contribution at a time.

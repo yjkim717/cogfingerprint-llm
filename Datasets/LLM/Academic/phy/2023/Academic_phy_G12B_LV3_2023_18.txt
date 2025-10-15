@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, formatted for the field of physics and reflecting a 2023 context:
+
+**Abstract**
+
+This work presents a novel approach to magneto-optical trapping (MOT) of neutral strontium atoms leveraging advanced metasurface technology. We demonstrate the realization of a six-beam MOT configuration using a compact, polarization-multiplexed metasurface beam splitter and topology-optimized metagratings, effectively replacing conventional bulky optical elements. This miniaturization allows for a significant reduction in system footprint and complexity while maintaining high trapping efficiency. Our design utilizes precisely engineered subwavelength structures to manipulate light polarization and achieve beam splitting and steering functionalities crucial for MOT operation. This research advances the field of atom optics by showcasing the potential of integrated photonic platforms for creating compact and efficient atomic trapping systems, with implications for precision measurements and quantum information processing.

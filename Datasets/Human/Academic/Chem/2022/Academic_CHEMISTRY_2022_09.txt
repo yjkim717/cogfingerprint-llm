@@ -1,8 +1,8 @@
-Author: Ruihu Lu
-Title: Work-function-induced Interfacial Built-in Electric Fields in Os-OsSe2 Heterostructures for Active Acidic and Alkaline Hydrogen Evolution.
-Paper ID: 17914461808503049ae50362add894abcbb2e391
+Author: M. Tsuge
+Title: Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice
+Paper ID: 84a007c02ec88e3486239e021af5663d6fa5ff7b
 Year: 2022
 Author Index: 9
 
 Abstract:
-Theoretical calculations unveil that the formation of Os-OsSe2 heterostructures with neutralized work function (WF) perfectly balances the electronic state between strong (Os) and weak (OsSe2) adsorbents and bidirectionally optimizes the hydrogen evolution reaction (HER) activity of Os sites, significantly reducing thermodynamic energy barrier and accelerating kinetics process. Then, heterostructural Os-OsSe2 is constructed for the first time by a molten salt method and confirmed by in-depth structural characterization. Impressively, due to highly active sites endowed by the charge balance effect, Os-OsSe2 exhibits ultra-low overpotentials for HER in both acidic (26 mV @ 10 mA cm-2) and alkaline (23 mV @ 10 mA cm-2) media, surpassing commercial Pt catalysts. Moreover, the solar-to-hydrogen device assembled with Os-OsSe2 further highlights its potential application prospects. Profoundly, this special heterostructure provides a new model for rational selection of heterocomponents.
+Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of an interstellar ice analog were monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by the recombination of two OH radicals, which is rate-limited by thermal diffusion of OH. The activation energy for surface diffusion was experimentally determined for the first time to be 0.14 ± 0.01 eV, which is larger than or equivalent to those assumed in theoretical models. This value implies that the diffusive reaction of OH radicals starts to be activated at approximately 36 K on interstellar ice.

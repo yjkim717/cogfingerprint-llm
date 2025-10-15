@@ -1,0 +1,5 @@
+Year: 2021
+Author: encom81
+URL: https://www.reddit.com/r/youtube/comments/mnpchs/does_download_quality_effect_audio/
+
+Hi, I have Youtube premium that allows me to download videos to watch offline. When I download a video it lets me choose the video quality/filesize of the video, 1080, 720, 360, 144. My question is does this also effect the audio quality or does it effect just the video quality, making the audio quality the same for all options. Thank you!

@@ -1,0 +1,3 @@
+It’s 2022, and my Intel NUC sits quietly in the living room, a minimalist media hub running Arch with i3wm. I’ve always craved simplicity—no bulky keyboards, no tangled wires. But how do you control a Linux machine without dedicated peripherals? Remote access became my quest.
+
+I tinkered with Wayland, drawn by its modern promises, but i3wm’s keyboard-driven efficiency won me over. Now, from my laptop, I seamlessly navigate the NUC, as if the distance between us has melted away. It’s a small victory, but it reminds me that in tech, sometimes the lightest solutions carry the most weight—freeing us from clutter, both physical and digital.

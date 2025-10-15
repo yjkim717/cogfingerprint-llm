@@ -1,0 +1,17 @@
+**The Surprising Story Behind NFL Players' Names: A Journey into the World of AWANOL**
+
+As I sat on my couch, scrolling through the NFL roster list on my phone, I stumbled upon something that caught my attention - the names of the players. From the usual suspects like John Smith to the more exotic ones like Ze'Riah, I couldn't help but wonder: what makes a name stand out? Is it the length? The spelling? The overall aesthetic? As a sports enthusiast and a bit of a data nerd, I decided to dive into the world of NFL player names and explore the fascinating story behind them.
+
+My trusty sidekick in this adventure was the AWANOL metric - a fancy algorithm that measures the "width" of a name based on its letters and their corresponding widths. For the uninitiated, AWANOL stands for "Average Width of Alphabet Normalized by Letter count," and it's a nifty tool for quantifying the visual appeal of a name. I applied this metric to the 2023 NFL roster, analyzing the names of over 1,600 players to see which ones came out on top (or should I say, on the fattest or skinniest side?).
+
+The results were intriguing, to say the least. At the top of the "fattest names" list were players like **Bubba Williams** and **Bubba Smith**, whose names are as wide as they are memorable. These names are dominated by letters like "B" and "W," which have a generous width, making them stand out on the page. On the other end of the spectrum, players like **Kai** (a common name among NFL players, it turns out) and **Ato** had some of the skinniest names, with a preponderance of slender letters like "I" and "T."
+
+As I dug deeper into the data, I began to notice some interesting patterns. For one, the fattest names tended to belong to players with more... let's say, "distinctive" personalities. Take **Von Miller**, for example, whose name is as bold as his on-field presence. Conversely, players with skinnier names often had a more understated style, like **Taysom Hill**, whose name is as lean and agile as the player himself.
+
+Of course, this is all just speculation, and there's no concrete evidence to suggest that a player's name has any bearing on their performance on the field. Still, it's fun to imagine that a name like **KKWR** (okay, that's not a real player name... or is it?) might intimidate opponents, while a name like **Lil' Joe** might inspire a more laid-back attitude.
+
+As I wrapped up my analysis, I couldn't help but feel that I'd uncovered a small but fascinating aspect of the NFL universe. Who knew that something as seemingly mundane as player names could be so captivating? The AWANOL metric may be just a novelty, but it opened my eyes to the hidden stories behind the names on my fantasy football roster.
+
+As the 2023 NFL season heats up, I'll be keeping an eye on players like **Bubba** and **Kai**, not just for their on-field heroics but also for the unique stories their names tell. Who knows what other secrets lie hidden in the world of NFL player names? Maybe I'll dive back into the data soon to find out.
+
+In the meantime, I'll be cheering

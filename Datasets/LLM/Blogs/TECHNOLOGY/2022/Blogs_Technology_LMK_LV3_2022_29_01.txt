@@ -1,0 +1,1 @@
+As I tackled Advent of Code challenges in 2022, I discovered the versatility of C3, a programming language that streamlined my coding workflow. By sharing my repository, I hope to showcase C3's unique strengths and inspire others to explore its potential in software development and beyond.

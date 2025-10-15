@@ -1,0 +1,11 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Disentangling Macroclimate from Microclimate: A High-Resolution Spatiotemporal Model of Sub-Canopy Thermal Buffering in European Forests
+
+**Abstract**
+
+Forecasting species distributions under climate change predominantly relies on coarse-gridded macroclimate data, which fails to capture the critical thermal refugia provided by forest canopies. This discrepancy between free-air temperatures and the sub-canopy microclimate introduces substantial uncertainty into biodiversity projections. To address this, we developed a continent-wide, high-resolution (30 arc-second) model of sub-canopy temperature offsets for European forests. By integrating a multi-source dataset comprising satellite-derived land surface temperature, LiDAR-based canopy structure metrics, topographic indices, and in-situ sensor measurements from a distributed microclimate network, we trained an ensemble machine learning algorithm (XGBoost) to predict monthly minimum, mean, and maximum temperatures at the forest floor for the period 2010-2020. Our model revealed substantial and ecologically significant thermal buffering, with sub-canopy environments being up to 4.5 °C cooler than free-air during summer maxima and 2.1 °C warmer during winter minima, on average. Spatial variation in this buffering capacity was strongly mediated by canopy structural complexity, leaf area index, and topographic position. These findings demonstrate that the realized climatic niche for forest-dwelling organisms is decoupled from macroclimate in a predictable, quantifiable manner. Consequently, the direct use of macroclimate data severely misrepresents thermal habitats, leading to biased estimates of species vulnerability. We provide these microclimate layers as a critical tool to enhance the mechanistic understanding of ecological processes and to refine conservation strategies aimed at preserving forest biodiversity in a warming world.
+
+**(Word Count: 248)**

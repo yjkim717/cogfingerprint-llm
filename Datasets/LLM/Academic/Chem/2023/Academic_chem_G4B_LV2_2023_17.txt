@@ -1,0 +1,7 @@
+**Abstract: Surface Diffusion of Carbon Atoms as a Key Mechanism in Interstellar Organic Synthesis**
+
+The genesis of complex organic molecules (COMs) within interstellar environments remains a central challenge in astrochemistry. This research investigates the role of surface diffusion of carbon atoms on interstellar ice grains in facilitating COM formation, utilizing data obtained from simulations and theoretical modeling conducted in 2023.  Specifically, we demonstrate that at temperatures exceeding 22 Kelvin, carbon atoms exhibit enhanced mobility across ice surfaces, initiating a cascade of chemical reactions. 
+
+Our analysis reveals a significant correlation between surface diffusion rates and the subsequent production of diverse molecular species, including precursors to amino acids and nucleobases.  The heterogeneous nature of ice grains, characterized by varying crystalline structures and impurity concentrations, profoundly influences diffusion pathways and reaction selectivity.  Furthermore, the study highlights the importance of low-temperature conditions in promoting these diffusion-driven processes, effectively circumventing thermal decomposition pathways. 
+
+These findings suggest that surface diffusion represents a crucial, and often overlooked, mechanism in interstellar chemistry.  Future research will focus on experimentally validating these theoretical predictions through laboratory simulations mimicking interstellar ice conditions and exploring the impact of specific ice grain compositions on COM synthesis efficiency.

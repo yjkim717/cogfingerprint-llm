@@ -1,0 +1,15 @@
+Okay, here’s a blog post draft based on your summary and the requested style – aiming for around 240 words and reflecting the 2020 context:
+
+---
+
+**The Route I Wasn’t Taking (and Why It Was Okay)**
+
+It's funny, isn’t it? How a single question can suddenly throw everything into perspective. Back in 2020, I was deep in the weeds of React development, building out a new single-page application for a client. I was meticulously crafting each component, obsessed with efficiency, and then… I started to question the routing. 
+
+Seriously. *Routing*. All that complex setup, the different paths, the seemingly endless layers of navigation. It felt… unnecessary. I was convinced a purely component-based approach, where content flowed organically through the UI, would be cleaner, simpler, and frankly, more intuitive for the user. 
+
+I spent a week wrestling with this, sketching out alternative designs, and generally feeling a bit frustrated with the established “best practice.”  It was the early days of lockdown, and I was already feeling a little adrift – a lot of my usual routines had vanished. This little debate about routing felt like another layer of complexity I didn't need. 
+
+Looking back, it wasn't about being stubborn. It was about recognizing that there isn't *one* right way to build anything, especially when it comes to the user journey.  Sometimes, embracing the established patterns – even the ones that seem a little convoluted – can actually streamline the experience. 
+
+It was a good reminder that it's okay to question, to explore, and to choose the path that feels most authentic to *you*, even if it diverges from the well-trodden route.

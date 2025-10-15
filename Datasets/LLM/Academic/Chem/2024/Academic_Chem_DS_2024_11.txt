@@ -1,9 +1,0 @@
-Of course. Here is an original abstract in Chemistry, inspired by the provided concepts.
-
-***
-
-**Title:** A Kinetic Framework for Prebiotic Monomer Assembly: Competing Pathways of Catalysis and Degradation in Early Earth Environments
-
-**Abstract:**
-
-The transition from a prebiotic chemical milieu to the first informational polymers represents a pivotal, yet poorly constrained, epoch in planetary science. A central challenge lies in predicting the molecular weight distribution and structural fidelity of these primordial macromolecules, as their synthesis was governed by a complex interplay between catalytic formation and hydrolytic degradation. Here, we present a novel kinetic model that quantifies this competition across distinct environmental regimes—ranging from hydrothermal pore systems to evaporative lagoons. Our framework integrates ab initio calculations of activation barriers for non-enzymatic peptide bond formation with experimentally derived rate constants for ester and amide bond cleavage under simulated early Earth conditions. The model reveals that the dominance of a particular formation pathway—be it mineral-surface catalysis, cyanogen-mediated coupling, or thermal cycling—profoundly influences the resulting oligomer length distribution. Critically, we identify a narrow window of physicochemical parameters (pH, temperature, ionic strength, and metal-ion catalyst concentration) where the rate of chain elongation can outpace the rate of scission, permitting the emergence of oligomers of sufficient length to exhibit rudimentary catalytic function. This analytical approach provides a quantitative basis for evaluating the plausibility of various origin-of-life scenarios and constrains the environmental niches most conducive to the chemical dawn of Darwinian evolution.

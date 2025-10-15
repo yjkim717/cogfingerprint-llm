@@ -1,0 +1,5 @@
+Year: 2023
+Author: LastManOnEarth3
+URL: https://www.reddit.com/r/macgaming/comments/10r4k1x/stellaris_wont_run_on_m2_mac/
+
+I recently purchased an m2 macbook air for the purposes of doing schoolwork, general computing, and some light gaming. I almost exclusively play paradox games. I had read several places that the computer is compatible with these games. I downloaded stellaris off of steam and I can't seem to get it to run. The loading screen comes up and then immediately upon reaching 80% kicks me to my home screen. I haven't downloaded any other games so I am unsure if this applies to other games as well. All help would be appreciated.

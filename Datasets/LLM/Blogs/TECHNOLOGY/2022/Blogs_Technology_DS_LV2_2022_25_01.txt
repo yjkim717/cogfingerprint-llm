@@ -1,0 +1,7 @@
+It was one of those Tuesday afternoons in 2022 when the universe decided to test my sysadmin patience. The ADFS farm was giving me that dreaded certificate renewal error, and our single sign-on portal was minutes away from becoming a "no sign-on" nightmare.
+
+I'd been through certificate renewals before, but this time felt different. There's something uniquely humbling about staring at a blinking cursor while knowing hundreds of colleagues can't access their tools. I tried the usual PowerShell commands, but the error persisted like an uninvited guest.
+
+Then I remembered the -member parameter. Such a simple thing—just telling the Set-AdfsSslCertificate command which specific server in the farm to target. The moment I added that tiny flag, everything clicked into place. The certificate deployed smoothly across our Windows Server 2016 nodes.
+
+Sometimes the biggest solutions come from the smallest adjustments. That afternoon taught me that in technology—as in life—we often overlook the simple fixes while chasing complex ones. The relief when those green checkmarks appeared? Priceless. Another reminder that in IT, humility often solves what expertise alone cannot.

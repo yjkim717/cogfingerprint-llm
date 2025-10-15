@@ -1,0 +1,5 @@
+Year: 2022
+Author: groutexpectations
+URL: https://www.reddit.com/r/buildapc/comments/wh166t/intel_h470_memory_speeds_vs_z_series_best_i5_to/
+
+Hi I have a Asrock H470 board, and I am considering upgrading my CPU from an i3 into an i5 or i7. My goal is to set this computer up to play games with my 2070 Super, I won't be running any streaming at least not off x264, but I would like to have a little extra fps to push my display. I have an assumption that based on my board, my memory speed is limited to only 2933 mhz, no matter what speed my sticks support (3200mhz). Given that constraint, I expect that my board will be the limiting factor for my i5 or my i7. Then for this H470 board, what is the best i5 for me to go with, a 10400? Does it even make sense for me to go to an i7 10700? I don't want to get a new board or a new Z series, just looking to get a little extra life out of this for the time being. Thanks,

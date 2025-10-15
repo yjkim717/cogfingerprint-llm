@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Advancing electrocatalysis simulations, this study introduces RexPoN embedded QM (ReQM), a hybrid methodology integrating quantum mechanics (QM) with a quantum-based polarizable reactive force field. By leveraging the accuracy of QM and the scalability of reactive force fields, ReQM enables large-scale simulations of electrocatalytic reactions. As demonstrated in recent studies (2020), ReQM achieves QM-level accuracy while reducing computational costs, thereby facilitating the investigation of complex electrocatalytic processes. This innovative approach is poised to accelerate the discovery of novel electrocatalysts, ultimately informing the design of sustainable energy systems."

@@ -1,0 +1,5 @@
+You know that feeling when you’re trying to be clever, only to realize you might be bending the rules? That’s me, staring at my screen in early 2021, wondering if my little Google Colab hack was too good to be true.
+
+I’d been using it as my on-the-go coding playground—spinning up quick environments, testing scripts, then shutting it all down. It felt efficient, almost magical. But then it hit me: was I taking advantage? Like sneaking extra snacks from the communal kitchen, hoping no one would notice.
+
+It’s funny how these small, digital choices start to reflect our everyday ethics. In a world where convenience often blurs the lines, I’ve learned to pause and ask: just because I can, should I? Sometimes, the cloud isn’t just in the sky—it’s where our conscience floats, waiting for us to look up.

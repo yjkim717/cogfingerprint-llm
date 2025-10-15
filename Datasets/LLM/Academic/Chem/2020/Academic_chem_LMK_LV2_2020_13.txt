@@ -1,0 +1,5 @@
+Title: Efficient Hydrogenation of CO on Interstellar Dust Grains: Implications for Chemical Evolution
+
+Abstract:
+
+The hydrogenation of CO on amorphous solid water (ASW) is a crucial process in the chemical evolution of interstellar dust grains. Our study investigates the efficiency of CO hydrogenation reactions on ASW at various temperatures. Using a combination of experimental and theoretical approaches, we demonstrate that CO hydrogenation proceeds efficiently on ASW surfaces at temperatures up to ∼70 K. The reactions are facilitated by the diffusive nature of H atoms on the ASW surface, enabling the formation of key species such as HCO and CH₃OH. Our findings suggest that CO hydrogenation on interstellar dust grains plays a vital role in the chemical evolution of star-forming regions. The results have significant implications for our understanding of the astrochemical processes governing the formation of complex molecules in the interstellar medium, shedding light on the origins of molecular complexity in the universe.

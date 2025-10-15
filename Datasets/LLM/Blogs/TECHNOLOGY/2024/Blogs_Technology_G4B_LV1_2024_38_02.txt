@@ -1,0 +1,7 @@
+Okay, here’s a blog post draft inspired by your summary, aiming for a conversational tone and around 98 words:
+
+---
+
+**Capturing the Unseen: My iPad Screen Recording Obsession**
+
+It’s weird, right? This year, I’ve become utterly obsessed with using my iPad for detailed note-taking, and a huge part of that is screen recording. I’m hunting for the *perfect* app – one that doesn’t just capture video, but actually adds useful metadata – think timestamps, even little notes about what I’m focusing on. It’s about going beyond just seeing the screen; it’s about documenting my thought process.  I’m diving deep into iOS tools and even exploring computer vision possibilities – it’s a surprisingly complex quest!

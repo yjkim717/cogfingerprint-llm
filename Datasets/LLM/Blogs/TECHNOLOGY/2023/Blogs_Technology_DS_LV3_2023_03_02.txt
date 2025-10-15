@@ -1,0 +1,5 @@
+There’s a moment in every semester when the weight of deadlines and self-doubt feels crushing. For me, in 2023, that moment came while staring at a screen full of code I couldn’t debug, convinced I wasn’t cut out for my computer science degree. The algorithms felt like a personal failure, and imposter syndrome was my constant companion.
+
+But then, something shifted. A classmate stayed up late with me on a video call, patiently walking through the logic. My professor offered encouraging words after a rough exam. My family reminded me to breathe. This network of support didn’t just help me fix the code; it helped me fix my perspective.
+
+When final grades arrived, the relief was immense. I passed most of my courses. More importantly, I rediscovered my belief in my own ability to learn and overcome. This journey taught me that in technology, and in life, we aren’t meant to debug our struggles alone.

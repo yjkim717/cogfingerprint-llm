@@ -1,0 +1,5 @@
+Year: 2024
+Author: ihatebeinganonymous
+URL: https://www.reddit.com/r/ChromeOSFlex/comments/1fe3a81/touchpad_problem_after_update/
+
+Hi. Does anyone else use Flex on a Fujitsu laptop, and has recently seen touchpad issues after upgrading (to 128 I guess)? To me, after closing and re-opening the lid, the mouse cursor disappears, and I have to restart the device zo have it back. It could as well be a hardware issue, but started just after the upgrade, hence the curiosity. Thanks

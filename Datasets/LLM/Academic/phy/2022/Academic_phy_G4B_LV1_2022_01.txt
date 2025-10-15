@@ -1,0 +1,7 @@
+Here’s an academic abstract informed by the provided summary, aiming for a formal style and approximately 156 words:
+
+**Abstract**
+
+Recent theoretical investigations into the information paradox surrounding black holes have increasingly implicated the spacetime geometry itself as a crucial factor in preserving quantum unitarity. This work presents a novel framework predicated on the concept of antipodal identification, suggesting a fundamental symmetry within the black hole event horizon. We hypothesize that quantum states localized within distinct, causally disconnected regions – designated ‘Region I’ and ‘Region II’ – exhibit an exact, bijective correspondence. 
+
+Specifically, we propose that the evolution of a quantum state in Region II is demonstrably equivalent to its time-reversed evolution in Region I, mirroring the Shapiro effect at the horizon.  This establishes a potential mechanism for circumventing information loss, effectively restoring unitarity to the black hole interior.  Further investigation, incorporating the effects of the black hole’s mass and angular momentum, is warranted to fully elucidate the implications of this antipodal correspondence and its relationship to established principles of quantum gravity.

@@ -1,0 +1,8 @@
+
+## Abstract: Low-Temperature Formation of H2CO and CH3OH via Hydrogenation of Carbon Monoxide within Amorphous Solid Water
+
+The chemical complexity of icy grain mantles in interstellar molecular clouds remains a key area of astrochemical investigation. While gas-phase reactions are well-studied, the role of ice matrices in facilitating and modifying reaction pathways at low temperatures is less understood. This study explores the hydrogenation of carbon monoxide (CO) within amorphous solid water (ASW) as a potential route for the formation of formaldehyde (H2CO) and methanol (CH3OH) under conditions prevalent in cold molecular cloud environments. Utilizing controlled temperature experiments, we demonstrate that significant production of both H2CO and CH3OH occurs upon exposure of ASW-CO mixtures to atomic hydrogen, even at temperatures as high as ~70 K.  Our findings suggest a pathway involving diffusive hydrogen transport through the ASW matrix, leading to efficient hydrogenation reactions.  The observed product yields highlight the potential importance of ASW as a reactive reservoir for CO, allowing for the formation of more complex organic molecules than previously anticipated at these low temperatures.  These results contribute to a better understanding of the chemical evolution of interstellar ices and the origin of prebiotic molecules in space, particularly emphasizing the role of solid-phase reactions and the influence of amorphous water matrices.
+
+
+
+**Keywords:** Hydrogenation, Carbon Monoxide, Amorphous Solid Water, Ice Mantles, Interstellar Chemistry, Astrochemistry, Formaldehyde, Methanol.

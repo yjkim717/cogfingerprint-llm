@@ -1,0 +1,5 @@
+Title: Mitigating Hallucinations in Open-Domain Question Answering: Can AI Assistants Refuse to Answer Unknown Questions?
+
+Abstract:
+
+The proliferation of AI assistants powered by large language models has raised concerns regarding their propensity to generate factual errors, particularly in open-domain question answering contexts. This phenomenon, commonly referred to as "hallucinations," can lead to the dissemination of misinformation. In this study, we investigate the capability of AI assistants to abstain from answering questions when the correct response is unknown. We examine the performance of state-of-the-art language models in recognizing the boundaries of their knowledge and refusing to provide answers when faced with unfamiliar or unanswerable questions. Our analysis reveals that while significant progress has been made in enhancing the factual accuracy of AI assistants, there remains a considerable gap in their ability to effectively refuse to answer unknown questions. We discuss the implications of our findings and propose potential avenues for future research in this critical area.

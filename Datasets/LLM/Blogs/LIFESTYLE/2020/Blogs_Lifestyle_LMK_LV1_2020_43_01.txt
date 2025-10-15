@@ -1,0 +1,7 @@
+The Paradox of Routing in Modern Web Apps: A Reflection on User Journey
+
+As I sat scrolling through my social media feeds in 2020, I couldn't help but ponder the intricacies of modern web applications. With the rise of single-page applications (SPAs) and frontend development frameworks like ReactJS, the way we interact with web apps has changed dramatically. One aspect that caught my attention was routing - the mechanism that governs navigation between different views or pages within an app.
+
+In non-trivial SPAs, routing is often touted as a necessary feature. However, based on my experience building ReactJS applications, I've started to question this assumption. Take social media platforms, for instance. When you're browsing through your Facebook or Twitter feed, do you really think about the URL in the address bar? Or are you more focused on the content and the actions you can take on it? The user journey is often more fluid and intuitive than a rigid routing system would suggest.
+
+In many cases, routing can feel like an artificial construct, imposed upon the user by the app's architecture rather than driven by the user's needs. As we continue to push the boundaries of frontend development, it's worth taking a step back to reevaluate our assumptions about routing. Perhaps it's time to reconsider the role of routing in modern web apps, and instead focus on crafting a more seamless and intuitive user journey. By doing so, we can create applications that feel more natural and engaging, and less constrained by the underlying technology.

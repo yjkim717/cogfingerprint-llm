@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2022 publication in computer science:
+
+**Abstract**
+
+The burgeoning adoption of Language-Model-as-a-Service (LMaaS) platforms necessitates efficient methods for prompt engineering to realize optimal task performance. Traditional approaches, reliant on manual iteration or gradient-based optimization, often prove time-consuming and limited in scope. This paper presents a novel black-box tuning framework designed to address these challenges. Our methodology leverages derivative-free optimization techniques within a randomly generated subspace, effectively circumventing the need for gradient information.  This approach facilitates the exploration of a broader prompt space, enabling superior performance relative to conventional manual prompt selection. Preliminary results demonstrate that this technique significantly enhances LMaaS responsiveness across diverse benchmarks, suggesting a promising avenue for automated prompt refinement within LMAAS deployments. Further research will investigate scaling strategies and integration with automated evaluation pipelines.

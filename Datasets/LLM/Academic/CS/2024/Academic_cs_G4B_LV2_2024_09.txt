@@ -1,0 +1,7 @@
+**Abstract**
+
+The escalating prevalence of heart disease necessitates the development of robust and efficient predictive models. This study investigates a novel machine learning framework designed to enhance the accuracy of heart disease prediction, leveraging advancements in algorithmic selection and feature engineering. Employing a comprehensive methodology, we explored a suite of classification models, including logistic regression, support vector machines, and random forests, alongside a multi-stage feature selection process utilizing both filter and wrapper methods.  
+
+Specifically, we implemented techniques such as recursive feature elimination and information gain to identify the most salient predictive features from a diverse dataset encompassing clinical indicators and patient demographics.  To rigorously evaluate model performance and mitigate overfitting, a stratified 10-fold cross-validation protocol was utilized.  
+
+Results demonstrate a statistically significant improvement in predictive accuracy compared to baseline models, with the random forest classifier exhibiting the highest F1-score and AUC.  Furthermore, the optimized feature subset substantially reduced model complexity without compromising predictive power. This research contributes to the growing body of work in applying machine learning to healthcare, offering a practical and adaptable system for early heart disease risk assessment. Future work will focus on incorporating explainable AI techniques to enhance clinical interpretability and trust.

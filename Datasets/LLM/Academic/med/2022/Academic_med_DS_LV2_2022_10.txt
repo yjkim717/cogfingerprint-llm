@@ -1,0 +1,13 @@
+Of course. Here is a formal academic abstract based on the provided summary, structured for a medical journal circa 2022.
+
+***
+
+**Abstract**
+
+**Background:** The precise segmentation of pediatric brain tumors from multi-parametric magnetic resonance imaging (mpMRI) is a critical prerequisite for diagnosis, surgical planning, and treatment monitoring. Manual segmentation by radiologists is, however, time-consuming and subject to inter-observer variability. While deep learning has shown promise in automating this task for adult gliomas, its application to the distinct and heterogeneous tumor profiles in pediatric populations remains an area of active investigation.
+
+**Methods:** We developed and validated a deep convolutional neural network (CNN) model for the automated segmentation of pediatric brain tumors. The model was trained and tested on a multi-institutional mpMRI dataset, incorporating T1-weighted, T2-weighted, T1-weighted post-contrast, and FLAIR sequences. The architecture was designed to leverage multi-scale contextual information for robust feature extraction. Model performance was quantitatively evaluated using the Dice similarity coefficient (DSC) and Hausdorff distance, benchmarked against expert manual segmentations.
+
+**Results:** The proposed model demonstrated robust performance, achieving a mean Dice coefficient of 0.87 across all tumor sub-regions (whole tumor, tumor core, and enhancing tumor). The network effectively delineated tumor boundaries from healthy tissue and peritumoral edema, showing particular proficiency in segmenting diffuse intrinsic pontine gliomas (DIPG) and pediatric high-grade gliomas (pHGG).
+
+**Conclusion:** Our findings indicate that a deep learning approach utilizing mpMRI data is a viable and accurate tool for the automated segmentation of pediatric brain tumors. This methodology holds significant potential to augment clinical workflows by providing rapid, objective, and reproducible volumetric assessments, thereby facilitating personalized treatment strategies for pediatric neuro-oncology patients.

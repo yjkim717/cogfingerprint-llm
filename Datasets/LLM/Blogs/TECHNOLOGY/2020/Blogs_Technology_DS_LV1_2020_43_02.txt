@@ -1,0 +1,1 @@
+Back in 2020, I finally set up pre-commit hooks for my Django project. It felt like hiring a meticulous editor who catches every typo before I even hit save—transforming my chaotic commits into clean, confident pushes. Game changer.

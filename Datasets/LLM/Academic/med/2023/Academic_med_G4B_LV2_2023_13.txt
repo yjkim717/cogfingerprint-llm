@@ -1,0 +1,7 @@
+Here’s an academic abstract based on the provided summary, aiming for a formal tone and incorporating relevant terminology:
+
+**Abstract**
+
+Recent concerns regarding bisphenol A (BPA) exposure and its potential impact on human health have prompted a critical re-evaluation of established tolerable daily intake (TDI) levels. This 2023 study presents updated risk assessments predicated on escalating dietary exposure to BPA, demonstrating a significant disparity between current regulatory limits and observed consumption patterns. Utilizing contemporary exposure data, we calculated a revised TDI of 0.2 micrograms per kilogram of body weight per day (ng/kg bw/day) for BPA. 
+
+This determination stems from a comprehensive analysis of prevalent dietary sources and absorption rates, revealing that even modest daily intakes can result in cumulative BPA burdens exceeding previously established safety thresholds.  The implications of this revised TDI are particularly relevant to the burgeoning field of toxicology, considering BPA’s documented effects on the immune system.  While further research is warranted to fully elucidate the dose-response relationship, this study underscores the necessity for a more conservative approach to BPA regulation to mitigate potential adverse health outcomes associated with chronic, low-level exposure.  Future investigations should prioritize mechanistic studies exploring BPA’s impact on immune cell function and systemic inflammation.

@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title: Development of a CRISPR/Cas9-Mediated Genome Editing System for Targeted Mutagenesis in *Pleurotus ostreatus***
+
+**Abstract**
+
+The establishment of a robust and efficient genome editing platform for the basidiomycete *Pleurotus ostreatus* (oyster mushroom) has been a significant technical hurdle, limiting functional genomics and strain improvement. In this study, we report the successful implementation of a CRISPR/Cas9 system for precise genome engineering in this commercially vital fungus. We designed sgRNAs to target the *fcy1* gene, encoding cytosine deaminase, and delivered the ribonucleoprotein (RNP) complex via PEG-mediated protoplast transformation. Our results demonstrate highly efficient, targeted indel mutations, confirmed by deep sequencing of the target locus, which led to the generation of 5-fluorocytosine-resistant phenotypes. Furthermore, by leveraging the endogenous homology-directed repair (HDR) pathway, we achieved precise allele replacement using a repair template devoid of foreign selectable markers. This breakthrough provides a powerful tool for elucidating gene function in *P. ostreatus* and is a critical step towards the rational development of novel, non-genetically modified (non-GM) strains through the creation of precise, marker-free genetic modifications, thereby circumventing regulatory constraints associated with transgenic organisms.

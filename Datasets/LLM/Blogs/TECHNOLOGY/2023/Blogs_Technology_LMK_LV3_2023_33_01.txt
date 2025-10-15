@@ -1,0 +1,9 @@
+"Securing My Home Lab: A Journey with SSL Certificates"
+
+As I continued to expand my home lab in 2023, I realized that I needed to ensure the security of my services. One crucial step was obtaining SSL certificates to protect data exchanged between my servers and users. I decided to use Nginx Proxy Manager (NPM) to manage my certificates, leveraging Let's Encrypt as the certificate authority. To make things more interesting, I was using Duck DNS to manage my DNS records.
+
+Initially, I was excited to simplify my setup with NPM's user-friendly interface. However, things didn't go as smoothly as I had hoped. I encountered issues obtaining SSL certificates, and my services remained insecure. The errors were cryptic, and I found myself digging through logs and documentation to identify the problem.
+
+As I reflect on this experience, I realize that troubleshooting is an essential part of working with technology. It's not just about setting up a tool; it's about understanding how it works and being prepared to debug when things go wrong. In my case, the issue was related to how Duck DNS interacts with Let's Encrypt. After some trial and error, I finally resolved the problem and secured my services.
+
+This journey taught me the importance of persistence and patience when working with complex technologies. If you're also struggling to obtain SSL certificates with NPM and Duck DNS, you're not alone. Don't be discouraged by the initial setbacks – with the right resources and a willingness to learn, you can overcome these challenges and enjoy a more secure home lab.

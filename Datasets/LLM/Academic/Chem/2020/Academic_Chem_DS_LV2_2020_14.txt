@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract written in the style of a 2020 chemistry publication, based on the provided summary.
+
+***
+
+**Abstract**
+
+The detection of complex organic molecules in the interstellar medium (ISM) necessitates a refined understanding of their formation and destruction pathways. This investigation employs high-level quantum chemical calculations to characterize the cyanomethanimine (HNCHCN) system, a precursor to nucleobases, focusing on its Z- and E-geometric isomers. We integrate these results into a comprehensive astrochemical model to simulate molecular abundances under typical dark cloud conditions. Our findings demonstrate that the observed Z/E isomer ratio is not primarily governed by thermodynamic stability or formation kinetics, but is instead a direct consequence of their differential destruction rates. Crucially, we identify that this differential is driven by the relative dipole moment principle, wherein the isomer possessing the larger permanent dipole moment exhibits a significantly higher rate of destruction via reactions with polar species such as H3+. This mechanistic insight challenges previous assumptions and underscores the critical role of dipole-selective reactivity in determining molecular distributions in astrochemical environments.

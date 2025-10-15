@@ -1,0 +1,10 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a chemistry publication (circa 2021):
+
+**Abstract**
+
+This study reports the synthesis and characterization of three novel fluorescent metal-organic frameworks (MOFs), designated DUT-140(M), structurally analogous to the well-established DUT-49 scaffold. These isoreticular materials exhibit a unique combination of properties including significant pressure amplification effects, observed through analysis of gas adsorption isotherms, and, notably, regions of negative gas adsorption within the pore network. Structural characterization, including powder X-ray diffraction and gas sorption analysis, confirms high porosity and structural stability. Spectroscopic investigations, coupled with computational modeling of electronic transitions, elucidate the origin of the observed fluorescence and correlate it with the framework's unique structural features. The observed pressure amplification and negative gas adsorption behavior, alongside the inherent fluorescence, suggest the potential of DUT-140(M) for applications in gas separation, sensing, and optoelectronic devices.
+
+
+
+
+I aimed for a structured argument, precise terminology (isoreticular, gas adsorption isotherms, electronic transitions), and a clear statement of the study’s findings and potential implications, appropriate for a chemistry research abstract.

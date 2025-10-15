@@ -1,0 +1,5 @@
+Title: Topological Analysis of Timelike Circular Orbits in Spherically Symmetric Black Holes with Scalar Hair
+
+Abstract:
+
+In this study, we investigate the topological configurations of timelike circular orbits (TCOs) within spherically symmetric black holes exhibiting scalar hair. By applying a topological classification framework, we analyze the winding number associated with these orbits, providing insight into the geometric and causal structure of the spacetime. Our results demonstrate that the presence of scalar hair significantly influences the topological properties of TCOs, leading to novel configurations that deviate from the standard Schwarzschild case. We derive an analytical expression for the winding number, which depends on the scalar charge and the black hole mass. The implications of our findings are discussed in the context of recent observational evidence for black hole scalar hair, suggesting potential astrophysical signatures that could be tested in future experiments. Our work contributes to a deeper understanding of the interplay between gravity, scalar fields, and the geometry of spacetime.

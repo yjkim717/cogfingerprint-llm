@@ -1,0 +1,9 @@
+Here's an academic-style abstract based on the provided summary, aiming for approximately 214 words and utilizing precise terminology:
+
+**Abstract**
+
+The emergence of COVID-19 in 2020 presented unprecedented challenges to healthcare systems globally, necessitating rapid adaptation and specialized expertise. This study reports on the initial operational experience of the Iranian Society of Radiology’s COVID-19 Consultant Group, established to address the escalating demand for radiological interpretation within Iran’s healthcare infrastructure during the pandemic.  The Consultant Group, comprised of experienced radiologists, functioned as a centralized resource for triaging and interpreting medical imaging findings suggestive of COVID-19. 
+
+This preliminary report outlines the group’s approach to managing a growing volume of chest radiographs and computed tomography (CT) scans, focusing on identifying key radiological manifestations of the disease, including ground-glass opacities, consolidations, and pleural effusions.  Data collected during this period – encompassing imaging protocols, diagnostic criteria, and inter-observer variability – served as a foundational dataset for establishing standardized reporting guidelines.  
+
+While acknowledging the limitations inherent in a nascent consultant group operating within a resource-constrained environment, this work highlights the critical role of radiology in early detection and monitoring of COVID-19.  Further research is warranted to evaluate the long-term impact of these established protocols and to assess the group’s contribution to optimizing patient management strategies within the Iranian context.  The findings contribute to the broader understanding of radiological patterns associated with COVID-19 and inform the development of best practices in medical imaging during public health emergencies.

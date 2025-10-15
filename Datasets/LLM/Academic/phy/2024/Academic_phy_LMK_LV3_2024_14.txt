@@ -1,0 +1,4 @@
+Title: Topological Classifications of Black Hole States: A Thermodynamic Stability Analysis
+
+Abstract:
+In 2024, our understanding of black hole thermodynamics has been revolutionized by the discovery of four universal topological classifications, characterized by distinct thermodynamic properties and stability behaviors. This breakthrough reveals that Hawking temperature plays a crucial role in determining the thermodynamic stability of black holes. By examining the interplay between quantum gravity and thermodynamic stability, our research establishes a novel framework for classifying black hole states. The results demonstrate that topological invariants are essential in predicting the stability behaviors of black holes, thereby advancing our understanding of these mysterious cosmic phenomena.

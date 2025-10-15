@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Advancing Pediatric Neuro-Oncology: A Multi-Modal AI Framework for Automated Tumor Sub-Region Delineation in Clinical Trial Contexts**
+
+**Abstract**
+
+The precise volumetric segmentation of pediatric brain tumors from multi-parametric magnetic resonance imaging (mpMRI) is a critical yet time-consuming prerequisite for therapeutic response assessment in clinical trials. Current manual delineation methods suffer from significant inter-rater variability, hindering the standardization and reproducibility of quantitative imaging biomarkers. This study introduces and validates a novel deep learning framework for the automated segmentation of pediatric glioma sub-regions—enhancing tumor, non-enhancing tumor, and peritumoral edema—leveraging the multi-institutional mpMRI dataset from the BraTS-PEDs 2023 challenge. Our model employs a multi-scale, encoder-decoder architecture with attention gates to enhance feature representation across heterogeneous tumor phenotypes. Quantitative evaluation on a held-out test set demonstrated robust performance, achieving mean Dice similarity coefficients of 0.89, 0.84, and 0.83 for the respective sub-regions. The proposed pipeline significantly reduces contouring time while improving measurement consistency, thereby facilitating more reliable and efficient volumetric analysis for longitudinal pediatric oncology trials and potentially accelerating the development of novel therapeutics.

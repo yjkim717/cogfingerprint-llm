@@ -1,0 +1,9 @@
+Author: T. Damour
+Title: Radiative contribution to classical gravitational scattering at the third order in 
+G
+Paper ID: 99dffcd3e1b4c7a198b7583a2354fa4e6457cc25
+Year: 2020
+Author Index: 7
+
+Abstract:
+Working within the post-Minkowskian approach to General Relativity, we prove that the radiation-reaction to the emission of gravitational waves during the large-impact-parameter scattering of two (classical) point masses modifies the conservative scattering angle by an additional contribution of order $G^3$ which involves a high-energy (or massless) logarithmic divergence of opposite sign to the one contained in the third-post-Minkowskian result of Bern et al. [Phys. Rev. Lett. {\bf 122}, 201603 (2019)]. The high-energy limit of the resulting radiation-reaction-corrected (classical) scattering angle is finite, and is found to agree with the one following from the (quantum) eikonal-phase result of Amati, Ciafaloni and Veneziano [ Nucl. Phys. B {\bf 347}, 550 (1990)].

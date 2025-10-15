@@ -1,0 +1,4 @@
+Title: Exploring Quantum Dynamical Effects in Vibrational Polariton Chemistry
+
+Abstract:
+In 2022, the field of vibrational polariton chemistry continues to uncover the intricacies of vibrational strong coupling (VSC) on chemical reactivity. Employing an exact quantum dynamics approach, our study elucidates the profound impact of VSC on molecular reactions within infrared cavities. The results demonstrate that VSC induces significant alterations to reactivity through quantum mechanical state splittings and resonances, thereby modulating reaction rates. This investigation provides critical insights into the quantum dynamical effects governing VSC, advancing our understanding of the complex interplay between quantum states and chemical reactivity in vibrational polariton chemistry.

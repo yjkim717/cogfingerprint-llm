@@ -1,0 +1,15 @@
+## The Algorithm and My Code: A Career Shift in the Age of AI
+
+Okay, so I’m staring down a pretty big life decision. I’ve spent years in sales, crushing targets, building relationships – the whole nine yards. But lately, I’ve been feeling this pull towards something different. Something… technical. Programming, specifically. I've been diving into online courses, feeling that spark of genuine interest, and picturing a future where I'm building things instead of selling them.
+
+But then the inevitable question pops up, the one that’s been swirling around the internet all year: *Will there even *be* programming jobs in five years?*
+
+It’s hard to ignore the headlines about AI and automation. They feel less like futuristic fantasies and more like a rapidly approaching reality. I see articles about AI generating code, automating tasks, and generally making human programmers seem… expendable. 
+
+So, I find myself paralyzed. Should I even bother investing time and energy into learning React? It feels shiny and new, but is it just a fleeting trend? Wouldn't it be smarter to focus on more foundational languages, like C, something that feels… more resilient to the AI wave?
+
+Honestly, I don't have the answers. I'm just a salesperson tentatively dipping my toes into a world of algorithms and code. But I’m hoping that by embracing the learning process, by focusing on building *understanding* rather than just memorizing syntax, I can navigate this uncertain future. And maybe, just maybe, find a place for myself in a world increasingly shaped by intelligent machines.
+
+
+
+Anyone else feeling this career anxiety in 2023? Let’s chat in the comments!

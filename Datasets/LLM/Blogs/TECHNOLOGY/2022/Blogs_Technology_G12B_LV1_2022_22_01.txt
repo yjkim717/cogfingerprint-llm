@@ -1,0 +1,4 @@
+
+## The Silent Struggle with Horizon and Maintenance Mode
+
+Remember those moments of dread when a VMware Horizon environment loomed, and a host needed maintenance? Back in 2022, a persistent hurdle was those pesky ParentVMs. They’d stubbornly block ESXi hosts from entering maintenance mode, causing a frantic scramble. Thankfully, a little PowerCLI scripting – automating the disabling of those ParentVMs – became a lifesaver, restoring some sanity to our virtual infrastructure routines. It’s amazing how a small script can solve a big headache!

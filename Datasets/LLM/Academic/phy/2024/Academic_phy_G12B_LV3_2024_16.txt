@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, suitable for a physics publication in 2024:
+
+**Abstract:**
+
+This study explores the implications of non-minimal couplings between electromagnetism and scalar fields on asymptotic symmetries within the framework of quantum field theory. Specifically, we examine U(1) gauge fields interacting with scalar degrees of freedom, demonstrating a compelling analogy to gravitational interactions. Our analysis reveals that these non-minimal couplings, under appropriate asymptotic conditions, exhibit a characteristic behavior of becoming asymptotically subdominant. Consequently, the resulting asymptotic symmetry structure closely resembles that of the underlying free electromagnetic theory. We further investigate the influence of imposed asymptotic boundary conditions on the realization of duality symmetries, providing insights into the potential for novel conserved charges and constraints. This work contributes to a deeper understanding of the interplay between gauge theories, scalar fields, and the emergence of asymptotic symmetries in the high-energy regime.

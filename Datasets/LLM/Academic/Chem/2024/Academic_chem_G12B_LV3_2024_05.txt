@@ -1,0 +1,5 @@
+ Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2024:
+
+**Abstract**
+
+The chemical origins of complex nitrogen-bearing molecules in interstellar ices remain a significant challenge in astrochemistry. This work investigates a novel pathway for the formation of methanimine (CH₃NH) and methylamine (CH₃NH₂) within these cold, dense environments. Employing high-level quantum chemical calculations, we explored the reaction mechanisms involving carbon atom addition to ammonia ices. Our findings demonstrate that, contrary to previous assumptions, methylamine emerges as the kinetically and thermodynamically favored product. This preference arises from methylamine's enhanced stability relative to methanimine, stemming from reduced susceptibility to subsequent hydrogenation reactions prevalent in interstellar conditions. These results refine current models of interstellar molecular synthesis and highlight the importance of considering reaction selectivity in complex ices, potentially impacting abundance estimations of these key species observed in star-forming regions.

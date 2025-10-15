@@ -1,0 +1,8 @@
+Author: Jiawei Zhao
+Title: Carboxylate Ligands-Promoted Superior Electrocatalytic Performance for Oxygen Evolution Reaction and Their Mechanisms.
+Paper ID: f0416122abd534fb8c94f4ee9f7cf83ad806f5db
+Year: 2021
+Author Index: 6
+
+Abstract:
+Metal-organic frameworks (MOFs) with carboxylate ligands as co-catalysts are very efficient for oxygen evolution reaction (OER). However, the role of local adsorbed carboxylate ligands around the in situ transformed metal (oxy)hydroxides during OER is often overlooked. Here we detailedly reveal the extraordinary role and mechanism of surface adsorbed carboxylate ligands on bi/trimetallic layered double hydroxides (LDHs)/MOFs for OER electrocatalytic activity enhancement. The results of X-ray photoelectron spectroscopy (XPS), synchrotron X-ray absorption spectroscopy, and density functional theory (DFT) calculations show that the carboxylic groups around metal (oxy)hydroxides can efficiently induce the interfacial electron redistribution, facilitate abundant high-valence state of nickel species with partial distorted octahedral structure, and optimize the d-band center together with the beneficial Gibbs free energy of intermediate. Furthermore, the results of in-situ Raman and FI-IR spectra firstly reveal that the surface adsorbed carboxylate ligands as Lewis base can promote the sluggish OER kinetics by accelerating proton transfer and facilitating adsorption/activation/dissociation of hydroxyl ions (OH-). Our findings will offer the unique insights into the reason for disclosing the origin of excellent catalytic activity of MOF/NiFe-LDHs catalysts for OER.

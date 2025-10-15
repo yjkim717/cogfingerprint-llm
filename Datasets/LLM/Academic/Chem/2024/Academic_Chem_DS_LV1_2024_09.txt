@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The formation of complex organic molecules (COMs) in interstellar ices is a critical process in astrochemical evolution. While hydrogenation reactions are well-established, the role of carbon atom accretion as a primary initiation mechanism remains less quantified. This investigation employs high-level quantum chemical calculations to elucidate the reaction dynamics of a ground-state carbon atom (C(³P)) with ammonia (NH₃) in the condensed phase of interstellar ice analogues. Our results confirm a barrierless, exothermic pathway leading to the formation of aminomethyl radical (•CH₂NH₂), a direct precursor to methylamine (CH₃NH₂) upon sequential hydrogenation. The computed potential energy surface and kinetic parameters were integrated into a refined astrochemical kinetic model. The model demonstrates that this C-addition pathway significantly enhances methylamine abundances under dark molecular cloud conditions, providing a crucial non-diffusive formation route that complements previously proposed radical-radical recombination mechanisms and resolves existing discrepancies between observational data and theoretical predictions.
+
+(149 words)

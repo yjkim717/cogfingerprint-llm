@@ -1,0 +1,14 @@
+## The Unease of Decentralization: A Recent IoTeX Experience
+
+Okay, so I've been dabbling more in DeFi lately, specifically with the IoTeX ecosystem. It’s pretty cool – a focus on privacy and real-world applications, which is a refreshing change. Recently, I decided to unstake some tokens from IoPay, their staking platform. Seemed straightforward enough.
+
+But then… a little panic set in.
+
+The unstaking process took longer than expected, and for a few hours, I felt this gnawing anxiety. It's a weird feeling, right? You're trusting this decentralized system, this blockchain, to hold your assets and release them correctly. And when something feels slightly off, you start questioning everything. 
+
+I even saw a post in a Telegram group about someone experiencing a similar situation – worried about missing tokens and sharing their address (which, honestly, was a bit reckless!). It highlighted a vulnerability, even in seemingly secure systems. 
+
+It’s a stark reminder that even with all the promises of decentralization and immutability, human error and potential exploits are still out there. It’s made me double-check everything, research thoroughly, and maybe, just maybe, breathe a little deeper before hitting that "unstake" button. It's a learning curve, for sure. 2021 feels like a year where we’re all collectively figuring this out.
+
+
+

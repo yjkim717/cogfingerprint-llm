@@ -1,0 +1,6 @@
+Title: Interpreting Deep Representations in Physical Systems through Mutual Information Estimation
+
+
+#### Abstract
+
+The increasing reliance on deep learning models in physical sciences necessitates a deeper understanding of their interpretability. In 2022, the development of novel methods for estimating mutual information has garnered significant attention. This study introduces a Gaussian Mixture Model-based Mutual Information estimator (GMM-MI) to analyze the latent representations learned by deep neural networks in physical systems. By quantifying the mutual information between input features and latent variables, GMM-MI provides insights into the representations learned by these models. We demonstrate the efficacy of GMM-MI in interpreting the representations of deep learning models applied to a synthetic dataset of chaotic dynamical systems. Our results show that GMM-MI can effectively identify the most informative latent dimensions and uncover the underlying physical processes driving the system's behavior. This work contributes to the development of more transparent and explainable deep learning models for physical applications, enabling researchers to better understand and trust the predictions made by these models.

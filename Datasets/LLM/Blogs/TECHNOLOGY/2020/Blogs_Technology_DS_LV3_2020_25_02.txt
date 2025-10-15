@@ -1,0 +1,1 @@
+Back in 2020, managing student Android devices felt like a constant puzzle. I’d stare at the Google Admin console, wishing for a simple sync setting toggle. But enterprise policies left our student accounts wide open—a daily reminder that in education, the simplest tech solutions are often just out of reach.

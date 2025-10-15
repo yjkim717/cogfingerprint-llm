@@ -1,0 +1,9 @@
+Okay, here's a blog post draft inspired by the summary, aiming for a conversational tone and around 104 words, set in 2021:
+
+---
+
+**My Monero Mine Was… Weird**
+
+Okay, so I dove headfirst into Monero mining last year – mostly out of curiosity and a little crypto FOMO. I built a dedicated rig, thinking, “Cool, I’ll passively earn some XMR!” But it’s been a frustrating rollercoaster. My hashrate just *fluctuates*. Like, wildly. It'd spike, then plummet, even when the mining software was running smoothly. 
+
+I even tried remote access to rule out driver issues, but nothing seemed to stick. It’s baffling. It makes you wonder if there’s some unseen interaction with my computer hardware I’m not accounting for.  Anyone else experience this with Monero?

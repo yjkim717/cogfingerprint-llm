@@ -1,0 +1,5 @@
+Title: Advancements in Flat Optics for Quantum Light Generation: A Review of Nonlinear Metasurfaces and Quantum Emitters
+
+Abstract:
+
+The development of quantum light sources is crucial for advancing quantum information processing and quantum communication technologies. Recent breakthroughs in flat optics have enabled the creation of ultracompact and efficient quantum light sources. This review examines the latest advancements in utilizing nonlinear metasurfaces and quantum emitters to generate entangled photon pairs and single photons. We discuss the principles of spontaneous parametric down-conversion in nonlinear metasurfaces and the characteristics of quantum emitters, such as defect centers in 2D materials. The integration of these elements with flat optics has led to significant enhancements in the brightness and purity of quantum light sources. We highlight the potential applications of these advancements in quantum key distribution, quantum computing, and quantum simulation, and provide an outlook on the future directions of this rapidly evolving field as of 2024.

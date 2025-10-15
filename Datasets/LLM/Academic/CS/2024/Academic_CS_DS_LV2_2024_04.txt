@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract in the field of Computer Science, based on the provided summary.
+
+***
+
+**Abstract**
+
+The proliferation of autonomous pricing algorithms in digital markets introduces the risk of tacit algorithmic collusion, where machines independently learn to sustain supra-competitive prices without explicit human coordination. This paper addresses the critical regulatory challenge of defining and detecting such behavior. We first formalize a condition of *algorithmic non-collusion*, establishing a computational benchmark for competitive pricing in algorithmically-driven markets. Building upon this definition, we propose a novel, practical statistical audit framework designed for regulatory bodies. This method analyzes market price data to distinguish between legitimate competitive outcomes and those indicative of collusive equilibria, without requiring direct access to proprietary algorithm code. Our results, validated through simulated market environments, demonstrate the framework's efficacy in identifying statistically significant deviations from expected competitive pricing. This work provides a foundational, data-driven tool for antitrust enforcement, proposing a scalable and transparent approach to oversee algorithmic market interactions and preserve competition in the digital economy.
+
+**(Word Count: 175)**

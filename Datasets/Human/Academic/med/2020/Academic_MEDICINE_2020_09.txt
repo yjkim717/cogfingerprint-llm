@@ -1,0 +1,8 @@
+Author: Iyas Daghlas
+Title: Genetic determinants of daytime napping and effects on cardiometabolic health
+Paper ID: 682774078a7237dbba45dab2c040c2ad759acf77
+Year: 2020
+Author Index: 9
+
+Abstract:
+Daytime napping is a common, heritable behavior, but its genetic basis and causal relationship with cardiometabolic health remain unclear. Here, we perform a genome-wide association study of self-reported daytime napping in the UK Biobank (n = 452,633) and identify 123 loci of which 61 replicate in the 23andMe research cohort (n = 541,333). Findings include missense variants in established drug targets for sleep disorders (HCRTR1, HCRTR2), genes with roles in arousal (TRPC6, PNOC), and genes suggesting an obesity-hypersomnolence pathway (PNOC, PATJ). Association signals are concordant with accelerometer-measured daytime inactivity duration and 33 loci colocalize with loci for other sleep phenotypes. Cluster analysis identifies three distinct clusters of nap-promoting mechanisms with heterogeneous associations with cardiometabolic outcomes. Mendelian randomization shows potential causal links between more frequent daytime napping and higher blood pressure and waist circumference. The genetic basis of daytime napping and the directional effect of daytime napping on cardiometabolic health are unknown. Here, the authors perform a genome-wide association study on self-reported daytime napping in the UK Biobank and Mendelian randomization to explore causal associations.

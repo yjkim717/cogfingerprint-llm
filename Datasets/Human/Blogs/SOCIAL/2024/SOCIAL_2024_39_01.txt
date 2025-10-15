@@ -1,0 +1,5 @@
+Year: 2024
+Author: lumpy1318
+URL: https://i.redd.it/swyqxvza4lzc1.png
+
+I have an inkbird humidity controller hooked up to two fans, one pointed in one pointed out. When the fans aren't on humidity raises about .2 every second. When they are on humidity lowers .4 every second. I want to know if anything can be done as it's annoying to have the fans constantly come on and off. If not I'll love with it. You can't see it very well but there's a big plexiglass panel covering the whole thing, not just that barrier piece for waterr

@@ -1,0 +1,4 @@
+"Universal Defect Statistics in Quantum Systems with Long-Range Interactions: A Kibble-Zurek Mechanism Disruption"
+
+Abstract:
+In 2023, our understanding of quantum critical phenomena is advanced by examining the interplay between long-range interactions and the Kibble-Zurek mechanism. We demonstrate that the Kibble-Zurek mechanism's conventional paradigm is disrupted by long-range interactions, yielding universal defect statistics in quantum systems. By investigating the full counting statistics of defects, we reveal a novel universality class, distinct from traditional Kibble-Zurek scaling. Our findings provide insight into the complex dynamics of quantum systems with long-range interactions, shedding light on the intricate relationship between quantum criticality and defect generation.

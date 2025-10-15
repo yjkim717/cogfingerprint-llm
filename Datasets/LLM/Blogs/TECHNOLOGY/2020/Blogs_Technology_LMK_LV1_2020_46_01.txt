@@ -1,0 +1,5 @@
+"SCOM Monitoring in a Child Domain: A Dilemma
+
+As I sat in front of my computer screen in early 2020, I found myself pondering a familiar problem - how to effectively set up SCOM monitoring in our child domain. Our organization had grown significantly, and our IT infrastructure was becoming increasingly complex. I was torn between two potential solutions: setting up a second management group or deploying gateway servers.
+
+On one hand, a second management group would give us more granular control over monitoring in the child domain. On the other hand, gateway servers seemed like a more streamlined approach, allowing us to maintain a single management group while still providing monitoring capabilities to the child domain. As I weighed the pros and cons, I realized that the key to making a decision lay in understanding our specific needs and infrastructure. After some deliberation, I was able to make an informed choice and successfully configure SCOM monitoring in the Operations Console."

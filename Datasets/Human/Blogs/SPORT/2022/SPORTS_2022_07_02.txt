@@ -1,0 +1,5 @@
+Year: 2022
+Author: JakobExMachina
+URL: https://www.reddit.com/r/CrucibleGuidebook/comments/uz1qp7/can_i_do_anything_more_to_spec_i_to_airbourne/
+
+For my PvP TTD build I have Rat King (31AE) and Ophidians (10AE), and the TWAB spoke about a range from 0-100 in the stat that could be ‘built into’. But… how? Atm I have a total of 41AE for Rat King, and I have absolutely no idea how to increase that number beyond a niche fragment that increases AE on Solar kills (that doesn’t suit my build). Atm it feels OK, but noticeably less effective. Is there any armour mods that would help here? Feels goofy to have a stat where you’re recommended to get as close to a 100 as possible, then provide practically zero ways in which to get yourself past 50.

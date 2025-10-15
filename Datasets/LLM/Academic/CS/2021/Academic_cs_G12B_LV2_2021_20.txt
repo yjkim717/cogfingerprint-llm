@@ -1,0 +1,9 @@
+)
+## Omnipose: Morphology-Independent Bacterial Cell Segmentation via Deep Learning
+
+**Abstract:** Accurate segmentation of bacterial cells is crucial for quantitative analysis in microbiology, yet remains a significant challenge due to morphological diversity and variations across imaging techniques. Traditional segmentation methods often struggle with irregularly shaped cells, requiring laborious manual annotation or exhibiting sensitivity to image artifacts. This paper introduces Omnipose, a novel deep learning-based algorithm designed for robust and morphology-independent bacterial cell segmentation. Building upon the Cellpose architecture, Omnipose employs a modified U-Net framework incorporating both vector field and mask prediction heads, enabling precise boundary delineation even for cells with complex shapes and substantial size variations. We demonstrate Omnipose’s efficacy across diverse bacterial species (including *E. coli*, *Bacillus subtilis*, and *S. pneumoniae*) and imaging modalities (phase contrast, fluorescence, and brightfield microscopy).  Quantitative evaluations, using both synthetic and experimental datasets, reveal that Omnipose significantly outperforms existing state-of-the-art methods, achieving substantially improved segmentation accuracy and reduced reliance on parameter tuning.  Furthermore, our results indicate a significant reduction in the need for morphology-specific training data, facilitating broader applicability and accelerating research workflows.  The algorithm’s modular design and readily available implementation contribute to its accessibility for the broader scientific community.
+
+
+
+
+---

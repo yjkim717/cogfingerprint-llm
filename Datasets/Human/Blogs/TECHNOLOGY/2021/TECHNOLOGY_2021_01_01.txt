@@ -1,0 +1,5 @@
+Year: 2021
+Author: SmexxyMoose
+URL: https://www.reddit.com/r/AndroidHomescreen/comments/m2x649/app_search_widget/
+
+I swear I've seen people have widgets that when clicked, will come up with a search that will just search their installed apps. Anyone have any suggestions to widgets that will do this? Been searching and want to add one to my homescreen. Thanks!

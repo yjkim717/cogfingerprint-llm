@@ -1,0 +1,4 @@
+Title: Minimizing Crosstalk in Photonic Integrated Circuits via Nonuniform Subwavelength Strips
+
+Abstract:
+In the realm of photonic integrated circuits, the imperative to reduce crosstalk between adjacent waveguides has driven innovation. This study presents a novel strategy employing nonuniform subwavelength strips to mitigate crosstalk. Leveraging particle swarm optimization, we design and optimize the configuration of these strips to achieve maximum crosstalk reduction. Our approach involves tailoring the geometry and distribution of subwavelength strips to manipulate the modal profiles of integrated optical waveguides. Simulation results demonstrate a significant reduction in crosstalk, thereby enhancing the performance and density of photonic integrated circuits. The proposed method offers a promising solution for the development of high-density photonic integrated circuits, aligning with the advancements in the field as of 2020.

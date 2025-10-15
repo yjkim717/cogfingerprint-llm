@@ -1,0 +1,5 @@
+Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a chemistry-focused publication in 2022:
+
+**Abstract**
+
+This study investigates an innovative full-cell architecture for lithium-ion batteries, fabricated via sequential spray deposition of LiFePO₄/Al₂O₃/Li₄Ti₅O₁₂ electrodes and incorporating a novel aluminum oxide-based separator. The separator, generated through porous spray deposition, exhibits enhanced ionic conductivity and mechanical integrity. Electrochemical characterization in 2022 revealed comparable rate capability to conventional polypropylene separators, alongside a marked improvement in long-term cycling stability. These findings suggest that alumina-based separators, produced via spray deposition techniques, represent a promising avenue for enhancing the performance and longevity of lithium-ion battery systems.

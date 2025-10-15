@@ -1,0 +1,7 @@
+It’s 2024, and you’d think with all the AI and automation, some network gremlins would just pack up and leave. But no—there I was last Tuesday, staring at a router that just wouldn’t play nice with OSPF.
+
+Everything *looked* fine. The dynamic routing protocol was configured, the Layer 2 WAN link was up, and broadcast traffic was flowing like a steady stream. Yet, the neighbor relationship was stuck in the "Init" state. It felt like watching two people in a crowded room, shouting but never quite hearing each other.
+
+I’d built this connection to be resilient, to handle the modern demands of our cloud-heavy workflows. But this silent failure was a stark reminder: technology is only as smart as our understanding of its quiet, hidden conversations. It wasn’t about brute force; it was about the subtle handshake I’d misconfigured.
+
+In the end, it was a single, overlooked timer setting. A tiny, human error in a sea of automation. A humbling lesson that sometimes, the most complex systems hinge on the simplest, most personal oversights.

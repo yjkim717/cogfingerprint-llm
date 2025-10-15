@@ -1,0 +1,1 @@
+"As I pondered the possibilities of robotics in 2021, I stumbled upon an intriguing question: can we create an air-filled, extendable tentacle? The idea sparked curiosity, and I began to explore the tech behind it. Pneumatic actuators held the key, and I was fascinated by the potential for soft, flexible robotics."

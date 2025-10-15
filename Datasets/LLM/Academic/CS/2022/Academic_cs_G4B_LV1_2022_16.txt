@@ -1,0 +1,7 @@
+Okay, here’s an academic abstract inspired by the provided summary, aiming for a formal tone, precise terminology, and structured reasoning, suitable for a 2022 publication in the field of Computer Science:
+
+---
+
+**KreolMorisienMT: A Parallel Corpus for Evaluating Machine Translation Performance in Low-Resource Creole Languages**
+
+The increasing demand for multilingual natural language processing necessitates robust evaluation benchmarks for machine translation (MT) systems, particularly within low-resource language communities. This paper introduces KreolMorisienMT, a newly curated parallel corpus designed to facilitate research in MT between English, French, and Mauritian Creole (MC). Leveraging existing parallel data sources and employing targeted elicitation techniques, we’ve constructed a corpus of approximately [Insert approximate size – e.g., 10,000] sentence pairs.  We argue that the evaluation of MT models targeting MC presents unique challenges due to its complex morphology and typological divergence.  This dataset’s inclusion of multiple high-resource languages enables exploration of multilingual transfer learning strategies.  We anticipate KreolMorisienMT will serve as a valuable resource for researchers investigating adaptation techniques and assessing the efficacy of various MT architectures when applied to creole languages, contributing to improved system performance and broader language accessibility. Future work will focus on expanding the corpus and incorporating automatic evaluation metrics.

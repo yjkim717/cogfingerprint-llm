@@ -1,0 +1,9 @@
+Okay, here's an original academic-style abstract, approximately 247 words, incorporating the provided information and aiming for a 2021 publication context:
+
+**Abstract**
+
+The etiology of major depressive disorder (MDD) remains incompletely understood, with circadian rhythms increasingly implicated as potential modulators of vulnerability.  This study employed Mendelian randomization (MR) to explore the potential causal relationship between genetically-defined morning diurnal preference and an individual’s susceptibility to MDD.  Recognizing the limitations of directly measuring diurnal preference, we utilized established genetic variants – serving as robust genetic proxies – associated with chronotype, specifically reflecting a tendency towards morningness. 
+
+Utilizing a two-sample MR framework, incorporating both Independent and Weighted Median estimators to mitigate potential pleiotropy, we examined the association between scores derived from these proxies and established MDD risk. Our analysis, conducted in 2021, revealed a statistically significant inverse association; increased genetic predisposition towards morningness was associated with a reduced risk of MDD (p<0.05).  
+
+These findings suggest a potential causal pathway wherein individuals exhibiting a preference for morning activity may be buffered against the development of depressive symptoms.  Importantly, we assessed the sleep midpoint as a potential confounder and found no significant interaction effect, indicating this variable did not substantially alter the observed relationship.  While these results provide compelling evidence for a novel biological link, further prospective longitudinal studies are warranted to validate these findings and elucidate the underlying neurobiological mechanisms.  Future research should also investigate the influence of environmental factors contributing to diurnal preference on MDD risk.

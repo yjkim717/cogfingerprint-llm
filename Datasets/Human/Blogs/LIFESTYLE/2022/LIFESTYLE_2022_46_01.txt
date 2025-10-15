@@ -1,0 +1,5 @@
+Year: 2022
+Author: Durahl
+URL: https://www.reddit.com/r/VORONDesign/comments/yov7te/recommendations_for_a_355x355mm_sized_textured/
+
+I'm looking into replacing my current Fystec **Textured** PEI Springsteel Bed with a new one. Any recommendations in the **355** x **355mm** size? Of the last two Fystec ones one arrived with a slight bent ( probably the inner windings of the roll it came off ) which worked out in the beginning but has since gotten worse to the point where the Magnetic Sheet on the Heat Bed isn't capable of pulling down the corners anymore. Thanks in Advance! =)

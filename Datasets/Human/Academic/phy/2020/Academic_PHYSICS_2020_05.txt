@@ -1,0 +1,8 @@
+Author: W. Freedman
+Title: Astrophysical Distance Scale: The AGB J-band Method. I. Calibration and a First Application
+Paper ID: 0941223a92e55990f7cad4fc856f2642fe272a17
+Year: 2020
+Author Index: 5
+
+Abstract:
+A near-infrared, color-selected subset of carbon-rich asymptotic giant branch (C-AGB) stars is found to have tightly constrained luminosities in the near-infrared J band. Based on JK photometry of some 3300 C-AGB stars in the bar of the Large Magellanic Cloud (LMC) we find that these stars have a constant absolute magnitude of mag, adopting the detached eclipsing binary (DEB) distance to the LMC of 18.477 ± 0.004 (stat) ± 0.026 (sys). Undertaking a second, independent calibration in the Small Magellanic Cloud, which also has a DEB geometric distance, we find 0.01 (stat) ± 0.05 (sys) mag. For the LMC the scatter is ± 0.27 mag for single-epoch observations, (falling to ± 0.15 mag for multiple observations averaged over a window of more than one year). We provisionally adopt mag ± 0.01 (stat) ± 0.04 (sys) mag for the mean absolute magnitude of these stars. Applying this calibration to stars recently observed in the galaxy NGC 253, we determine a distance modulus of 27.66 ± 0.01(stat) ± 0.04 mag (syst), corresponding to a distance of 3.40 ± 0.06 Mpc (stat). This is in excellent agreement with the average tip of the red giant branch (TRGB) distance modulus of 27.68 ± 0.05 mag, assuming MI = −4.05 mag for the TRGB zero-point.

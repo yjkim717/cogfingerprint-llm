@@ -1,0 +1,8 @@
+Author: J. Maldacena
+Title: Comparing the decoherence effects due to black holes versus ordinary matter
+Paper ID: 3a09770ad1f6580b798f23d31d0e01b37292b56a
+Year: 2024
+Author Index: 3
+
+Abstract:
+Recently a certain thought experiment was discussed which involves the decoherence of a quantum system due to a black hole. Here we show how this phenomenon is consistent with standard ideas about quantum black holes. In other words, modeling the black hole as a quantum system at finite temperature one obtains the same answer. We demonstrate this by analyzing the problem in terms of an effective theory that can apply both for the black hole case and for an ordinary matter system, showing that the same qualitative effect is present for ordinary matter at finite temperature.

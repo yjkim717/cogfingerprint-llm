@@ -1,0 +1,8 @@
+Author: Derar Eleyan
+Title: Enhancing Software Comments Readability Using Flesch Reading Ease Score
+Paper ID: ac6f9600d544bb12f15771ddb6f31246edb0cc19
+Year: 2020
+Author Index: 9
+
+Abstract:
+Comments are used to explain the meaning of code and ease communications between programmers themselves, quality assurance auditors, and code reviewers. A tool has been developed to help programmers write readable comments and measure their readability level. It is used to enhance software readability by providing alternatives to both keywords and comment statements from a local database and an online dictionary. It is also a word-finding query engine for developers. Readability level is measured using three different formulas: the fog index, the Flesch reading ease score, and Flesch–Kincaid grade levels. A questionnaire has been distributed to 42 programmers and 35 students to compare the readability aspect between both new comments written by the tool and the original comments written by previous programmers and developers. Programmers stated that the comments from the proposed tool had fewer complex words and took less time to read and understand. Nevertheless, this did not significantly affect the understandability of the text, as programmers normally have quite a high level of English. However, the results from students show that the tool affects the understandability of text and the time taken to read it, while text complexity results show that the tool makes new comment text that is more readable by changing the three studied variables.

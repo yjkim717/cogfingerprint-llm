@@ -1,0 +1,7 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2023 publication in a medical journal:
+
+**Abstract**
+
+The evolving landscape of HER2-positive breast cancer management necessitates continued refinement of diagnostic strategies. This guideline update, released in 2023, reinforces established immunohistochemical (IHC) HER2 testing protocols, specifically emphasizing the clinical relevance of IHC 0/1+ results within the context of emerging antibody-drug conjugate (ADC) therapies.  Prior to the advent of ADCs, IHC scoring predominantly dictated treatment decisions; however, recent clinical trial data demonstrate significant efficacy with ADCs like trastuzumab deruxtecan in patients with heterogeneous HER2 expression – particularly those exhibiting low-level HER2 positivity. 
+
+Consequently, this update advocates for a nuanced interpretation of IHC results, considering the potential for ADC-mediated response even in tumors displaying minimal HER2 protein expression.  Further investigation into predictive biomarkers alongside IHC remains crucial for optimal patient stratification.  While standardized IHC protocols are maintained, clinicians are encouraged to integrate emerging data regarding ADC pharmacology and tumor microenvironment to tailor treatment regimens.  This iterative process ensures that patients receive targeted therapies aligned with the most current evidence, maximizing therapeutic benefit and minimizing unnecessary exposure to systemic therapies.

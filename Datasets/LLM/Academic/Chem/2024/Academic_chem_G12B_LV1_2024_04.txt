@@ -1,0 +1,8 @@
+
+## Resonant Cavity Modification of Chemical Kinetics: A Quantum Dynamical Investigation of Non-Equilibrium Effects
+
+The burgeoning field of cavity quantum electrodynamics (cQED) offers unprecedented opportunities to manipulate chemical reaction dynamics through resonant interactions between molecular vibrational modes and confined electromagnetic fields. This work investigates the impact of cavity-modified chemical kinetics on reaction rates using rigorous quantum dynamical simulations. We explore the collective strong coupling regime, where multiple vibrational modes of a reactant molecule exhibit significant coupling to the cavity field, and analyze the resulting dynamics for a model diatomic reaction. Our findings demonstrate that while strong coupling significantly alters vibrational energy distributions, the most pronounced changes in reaction probability are intrinsically linked to non-equilibrium conditions. Specifically, we observe a marked divergence in reaction yields compared to conventional, open-system dynamics, particularly under pulsed excitation schemes. These results highlight the crucial role of system initialization and driving protocols in harnessing the potential of cavity modification for controlling chemical reactivity and underscore the need to move beyond equilibrium-based approximations in future investigations of cQED-enhanced chemistry.
+
+
+
+**Keywords:** Cavity Quantum Electrodynamics, Chemical Kinetics, Strong Coupling, Quantum Dynamics, Non-Equilibrium Chemistry

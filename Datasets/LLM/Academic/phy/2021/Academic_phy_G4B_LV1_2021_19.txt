@@ -1,0 +1,5 @@
+Here’s an original academic abstract inspired by the provided summary, suitable for a physics publication in 2021:
+
+**Abstract**
+
+We present a novel approach to multi-photon split state tomography leveraging an integrated, on-chip optical circuit. Utilizing a segmented coupled waveguide array, our design facilitates the efficient generation and detection of complex multi-photon split states. This architecture represents a significant advance towards compact and controllable quantum tomography. Specifically, the segmented structure allows for precise manipulation of photon paths, enabling the creation of tailored split state probabilities. The system’s inherent scalability, facilitated by the waveguide array, supports the implementation of an optical quantum circuit for iterative tomography. Preliminary simulations and theoretical analysis demonstrate the potential for high-fidelity state reconstruction, positioning this technique as a promising pathway for advanced quantum sensing and fundamental quantum information processing research.

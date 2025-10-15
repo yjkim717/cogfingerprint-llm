@@ -1,0 +1,4 @@
+Title: Unveiling the Astrochemical Origins of Methylamine through Carbon Atom Condensation on Interstellar Ices
+
+Abstract:
+Recent quantum chemical calculations (2024) elucidate the formation of methylamine via carbon atom condensation on NH3-H2O ices, a process governed by complex astrochemical kinetics. Our results demonstrate that this reaction pathway is a viable mechanism for methylamine synthesis in interstellar environments. The condensation process involves a multi-step reaction network, where carbon atoms interact with ammonia and water molecules, ultimately yielding methylamine. This study advances our understanding of interstellar chemistry, highlighting the role of NH3-H2O ices in shaping the astrochemical evolution of organic compounds.

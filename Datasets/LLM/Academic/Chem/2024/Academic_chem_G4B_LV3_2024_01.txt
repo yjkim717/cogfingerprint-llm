@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for submission in 2024:
+
+**Abstract**
+
+Recent astrochemical modeling efforts have increasingly recognized the crucial role of interstellar ices in the delivery of carbonaceous material to protoplanetary disks. This study employs quantum chemical calculations to investigate the condensation pathways of carbon atoms onto ammonia-water (NH₃-H₂O) ices, a prevalent constituent of interstellar ices. Our findings demonstrate that methylamine (CH₃NH₂) emerges as the statistically favored product of this condensation process. This result, validated through high-level electronic structure analysis, provides a refined mechanistic basis for predicting carbon budgets within interstellar clouds.  Further, these calculations contribute to the development of more accurate astrochemical models, ultimately informing our understanding of planet formation and the chemical composition of star-forming regions.

@@ -1,0 +1,3 @@
+## The Thumbnail Tango: Automation and the Creative Block
+
+It's 2023, and the content grind is *real*. Lately, I’ve been wrestling with thumbnail generation for my video projects. Manually adding text with a shadow to each frame felt… tedious. I started researching ways to automate it, initially within my Laravel setup. Exploring Python and Node.js options felt promising, juggling image manipulation libraries and text rendering. It's a reminder that even seemingly small tasks can spark a fascinating dive into different tech stacks and push past that creative block!

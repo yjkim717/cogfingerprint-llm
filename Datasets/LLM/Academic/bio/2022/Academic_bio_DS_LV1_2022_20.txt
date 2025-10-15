@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+Anthropogenic climate change is driving significant shifts in species distributions, with mountain ecosystems serving as critical sentinels due to their steep elevation gradients and compressed climatic zones. However, a lack of standardized, long-term data has hampered robust cross-regional comparisons and a comprehensive understanding of the underlying mechanisms. This study leverages the Mountain Invasion Research Network (MIREN) protocol, a globally implemented standardized monitoring framework, to analyze temporal trends in plant species richness and composition along elevation transects. Using data from a decadal resurvey (2012-2022) across eight mountain regions on five continents, we quantify rates of thermophilization—the upward shift of species assemblages towards higher, cooler elevations—and assess its differential impact on native and non-native floras. Our results indicate a significant mean upward shift in species’ optimum elevations of 6.5 meters per decade. Crucially, we report a pronounced increase in non-native species richness at mid- to high-elevation sites, a trend strongly correlated with regional warming and anthropogenic disturbance. These findings demonstrate that climate change is facilitating the ingress of lowland-adapted species into previously resistant high-elevation habitats, thereby accelerating biotic homogenization. The MIREN protocol proves indispensable for detecting these nuanced but ecologically critical changes, providing an empirical baseline for forecasting future biodiversity dynamics and informing targeted conservation strategies in an era of global change.
+
+**Keywords:** Biotic homogenization, elevation transect, global change biology, long-term ecological monitoring, Mountain Invasion Research Network (MIREN), species range shift, thermophilization.

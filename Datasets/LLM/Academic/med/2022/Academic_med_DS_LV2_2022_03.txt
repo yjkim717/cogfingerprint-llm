@@ -1,0 +1,17 @@
+Of course. Here is a formal academic abstract written in the style of a 2022 medical research paper, based on the provided summary and keywords.
+
+***
+
+**Abstract**
+
+**Title:** Assessing the Robustness of Plasma Biomarkers for Amyloid-β Pathology Across the Alzheimer's Disease Continuum Under Simulated Pre-Analytical and Analytical Variability
+
+**Introduction:** The integration of plasma biomarkers for amyloid-β (Aβ) pathology into the diagnostic framework for Alzheimer's disease (AD) represents a paradigm shift, offering a minimally invasive and scalable alternative to cerebrospinal fluid analysis or positron emission tomography (PET). However, the transition from research settings to widespread clinical and trial use necessitates a rigorous evaluation of their robustness against the inherent pre-analytical and analytical variability encountered in real-world laboratories. A critical, yet under-explored, question is whether this variability disproportionately affects predictive performance across distinct stages of the AD continuum.
+
+**Objectives:** This study aimed to systematically evaluate the robustness of leading plasma biomarkers—specifically phosphorylated tau (p-tau181, p-tau217) and the Aβ42/40 ratio—in classifying amyloid PET positivity. We sought to quantify how simulated variability, expressed through the coefficient of variability (CV), impacts diagnostic accuracy from the pre-symptomatic (preclinical) through the symptomatic (MCI and dementia) stages of AD.
+
+**Methods:** We conducted a retrospective analysis on a multi-center cohort of n=450 participants, stratified across the AD clinical spectrum (cognitively unimpaired, mild cognitive impairment, and AD dementia), with all individuals having undergone both plasma biomarker assessment and amyloid PET imaging. Using a bootstrapping and Monte Carlo simulation approach, we introduced incremental, pre-defined levels of Gaussian noise to the raw plasma biomarker concentrations to model a range of inter-assay CVs (from 5% to 25%). For each simulated condition, we calculated the predictive performance for amyloid PET status using receiver operating characteristic (ROC) analysis, with the area under the curve (AUC), sensitivity, and specificity as primary endpoints.
+
+**Results:** Our simulations revealed a stage-dependent vulnerability to variability. While all biomarkers maintained high discriminative power (AUC >0.90) at the dementia stage even under high CV conditions (25%), their performance in the preclinical and MCI stages degraded significantly. The plasma p-tau217 assay demonstrated superior resilience, maintaining an AUC >0.85 at a 15% CV in the MCI group, whereas the Aβ42/40 ratio exhibited a more pronounced decline in sensitivity under the same conditions. The coefficient of variability was a significant independent predictor of classification error in earlier disease stages (p<0.001).
+
+**Conclusion:** The robustness of plasma AD biomarkers is not uniform across the disease continuum. Their predictive performance for amyloid pathology is highly susceptible to pre-analytical and analytical variability in the critical pre-symptomatic and prodromal phases of AD. These findings underscore the imperative for standardized, ultra-precise assay protocols and the establishment of clinically validated, context-specific cut-offs to ensure reliable implementation in primary care settings and future disease-modifying trials targeting early AD.

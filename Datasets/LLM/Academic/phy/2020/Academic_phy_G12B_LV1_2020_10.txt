@@ -1,0 +1,9 @@
+## ReQM: A Reactive Quantum Mechanical Approach for Large-Scale Electrocatalysis Simulations
+
+The burgeoning field of electrocatalysis demands computational methodologies capable of accurately modeling complex reaction mechanisms at realistic scales, particularly in the presence of solvent. Traditional Density Functional Theory (DFT) calculations, while providing high accuracy, are computationally prohibitive for systems involving hundreds of atoms and explicit solvent molecules. Conversely, reactive force field (ReFF) methods offer scalability but often lack the chemical accuracy required to capture subtle electronic effects crucial for catalytic performance. This work presents ReQM, a novel hybrid approach designed to bridge this gap, combining the efficiency of the RexPoN ReFF with the precision of quantum mechanical (QM) calculations. 
+
+ReQM leverages RexPoN’s ability to efficiently describe bond breaking and formation events while strategically employing QM calculations to accurately model key reaction intermediates and transition states. A dynamic switching protocol allows for seamless transition between the ReFF and QM realms, ensuring both computational feasibility and chemical fidelity. We demonstrate the efficacy of ReQM in simulating the CO₂ reduction reaction on a model electrocatalyst surface immersed in aqueous electrolyte, showcasing its ability to capture solvent effects and predict reaction pathways with improved accuracy compared to purely ReFF-based approaches. ReQM represents a significant advancement towards enabling large-scale, atomistic simulations of electrocatalytic processes, facilitating the rational design of novel catalysts.
+
+
+
+**Keywords:** Electrocatalysis, Quantum Mechanics, Reactive Force Field, RexPoN, CO₂ Reduction, Computational Chemistry, Molecular Dynamics

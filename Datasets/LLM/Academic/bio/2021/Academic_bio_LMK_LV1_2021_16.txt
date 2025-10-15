@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary:
+
+"Efficient Genome Editing in Pleurotus ostreatus via CRISPR/Cas9: A Non-GM Approach for Strain Improvement"
+
+Abstract:
+The CRISPR/Cas9 system has revolutionized genome editing in various organisms, offering unprecedented precision and efficiency. In this study, we demonstrate the successful application of CRISPR/Cas9 in Pleurotus ostreatus, a commercially significant edible fungus, for targeted gene mutagenesis. By leveraging homology-directed repair (HDR), we achieved precise editing of the P. ostreatus genome, resulting in high mutation frequencies. Notably, the CRISPR/Cas9-mediated genome editing in P. ostreatus was achieved without the integration of exogenous DNA, thereby circumventing GM classification. Our results showcase the potential of CRISPR/Cas9 as a non-GM tool for strain improvement in P. ostreatus, enabling the generation of novel strains with desirable traits. This study paves the way for the development of non-GM P. ostreatus varieties with enhanced characteristics, contributing to the sustainability of fungal biotechnology. The findings presented here have significant implications for the fungal research community and the commercial cultivation of P. ostreatus. (2021)

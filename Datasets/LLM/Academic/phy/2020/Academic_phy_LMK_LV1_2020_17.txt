@@ -1,0 +1,3 @@
+Abstract:
+
+We present a novel approach to mitigate crosstalk between adjacent waveguides in photonic integrated circuits (PICs) using nonuniform subwavelength silicon strips. By leveraging particle swarm optimization (PSO), we design and optimize the geometry of these strips to minimize modal overlap and reduce crosstalk. Our simulations demonstrate a significant reduction in crosstalk between adjacent waveguides, achieving a minimum crosstalk of -30 dB for a waveguide separation of 800 nm at a wavelength of 1550 nm. This technique enhances the density and performance of PICs, paving the way for more compact and efficient integrated optical devices.

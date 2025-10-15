@@ -1,0 +1,5 @@
+Year: 2021
+Author: FIREATWlLL
+URL: https://www.reddit.com/r/molecularbiology/comments/r0h3n0/is_there_a_dataset_of_all/
+
+I am considering a cellular automaton simulation with cells inspired by biology, and want to abstract chemistry in cells. For this I'd need information about enzymes and receptors to try and make a reasonable model, info like: * How many enzymes there are * How many enzymes have x many reagents * How many enzymes have x many inhibitors * How many enzymes have x many products * How many chemicals (reagents) are used in x many different reactions (aided by enzymes) * What would this look like for the subset of chemicals that are emitted by receptors? * What is the distribution of chemical pathway lengths? * Etc Hopefully there is a dataset that can answer these sorts of questions???

@@ -1,0 +1,11 @@
+)
+## Abstract: Lorentz-Invariant Electric-Magnetic Scattering via On-Shell Methods and Multi-Particle Representations
+
+We present a construction of a Lorentz-invariant S-matrix for the scattering of electric and magnetic monopoles, employing on-shell methods within the framework of scattering amplitudes. This work addresses the challenge of consistently incorporating monopole interactions into a manifestly Lorentz-invariant formalism, a problem complicated by the non-local nature of magnetic charge and the associated subtleties in defining a conventional Lagrangian. Our approach leverages recent advancements in on-shell recursion relations and the exploration of multi-particle representations of the Poincaré group.
+
+Specifically, we utilize the unitarity cut formalism to generate amplitudes for monopole-antimonopole scattering, focusing on the identification of appropriate kinematic structures that respect the underlying symmetries. A critical element of our construction is the careful consideration of the little group associated with the monopole’s mass, which dictates the allowed spin degrees of freedom and imposes constraints on the form of the interaction. We demonstrate that a consistent S-matrix can be obtained by exploiting the helicity quantum number and its relationship to the little group representations, thereby ensuring Lorentz invariance. 
+
+Furthermore, we discuss the implications of this construction for understanding the broader landscape of gauge theories with magnetic monopoles, potentially offering insights into non-perturbative phenomena. This work contributes to the ongoing effort to develop a more robust and systematic understanding of scattering amplitudes beyond the standard Lagrangian formalism, paving the way for novel approaches to calculating and interpreting scattering processes involving topological charges.
+
+
+

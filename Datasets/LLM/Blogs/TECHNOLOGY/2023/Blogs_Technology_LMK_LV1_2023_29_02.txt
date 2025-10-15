@@ -1,0 +1,3 @@
+"Reimagining C for the Modern Era"
+
+As I coded in C recently, I couldn't help but think - what if we could modernize this venerable language? Ignoring legacy constraints, what features would we add? Namespacing would be a game-changer, reducing naming conflicts. Cleaner type declarations and a 'defer' statement for resource management would also be welcome. And what about slices, a feature that's proven so useful in other languages? The C community, I'd love to hear your thoughts - what would you change, and why? Let's rethink C for the 2023 world.

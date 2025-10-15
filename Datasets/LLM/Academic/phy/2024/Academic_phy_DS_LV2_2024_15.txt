@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2024.
+
+***
+
+**Abstract**
+
+This investigation elucidates the fundamental mechanisms by which electrochemical lithiation serves as a potent tool for the dynamic, non-volatile modulation of electromagnetic properties in functional materials. We demonstrate that the progressive insertion of lithium ions induces a state of hierarchical structural disordering, which propagates from the atomic to the mesoscale. Crucially, this disordering is not random but is directly coupled to a reconfiguration of the local atomic electric fields. The resultant disruption of long-range order and the concomitant enhancement of dielectric polarization underpin the observed macroscopic electromagnetic response. Through in situ characterization and first-principles calculations, we establish a quantitative correlation between the degree of lithiation, the evolution of the dielectric constant, and the resultant modulation of electromagnetic wave interaction, spanning microwave to terahertz regimes. These findings provide a novel paradigm for designing voltage-tunable metamaterials and reconfigurable electronic devices, where property control is achieved through tailored electrochemical driving forces rather than static material design. This work opens avenues for next-generation adaptive optics, smart electromagnetic shielding, and neuromorphic computing architectures.
+
+(Word Count: 189)

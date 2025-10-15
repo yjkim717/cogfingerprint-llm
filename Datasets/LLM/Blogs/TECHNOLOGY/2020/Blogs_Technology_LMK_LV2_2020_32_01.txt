@@ -1,0 +1,9 @@
+"When Email Goes Dark: A Lesson in Troubleshooting"
+
+I'll never forget the morning of February 12, 2020, when our office was hit with an eerie silence - our Exchange server had stopped working. Emails weren't sending or receiving, and our team's communication came to a grinding halt. As the IT person on the spot, I sprang into action to resolve the issue. The culprit? A failed DNS query that was hindering SMTP delivery.
+
+After some digging, I discovered that our Exchange server was having trouble resolving the DNS queries necessary for sending emails. The issue was compounded by our IPv6 setup, which wasn't playing nice with the DNS resolution process. I tried a few tweaks, but nothing seemed to work.
+
+The breakthrough came when I decided to specify the DNS server that our Exchange server would use. This simple change, combined with a restart of the Microsoft Exchange Transport service, got our email flowing again. It was a huge relief, not just for me, but for the entire team that relies on email to get their work done.
+
+This experience taught me the importance of having a solid understanding of the underlying technology that powers our daily work. It's not just about knowing how to fix things, but also about understanding how they work in the first place. In today's fast-paced digital world, a little knowledge of DNS queries, SMTP delivery, and IPv6 can go a long way in resolving issues like this. I'm grateful for the lesson learned and the confidence gained in tackling complex technical problems.

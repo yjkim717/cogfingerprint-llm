@@ -1,0 +1,15 @@
+Of course, here is an original blog post inspired by your summary.
+
+***
+
+### The Ghost in the Machine: Unraveling My Hybrid Identity Crisis
+
+It was supposed to be a simple task. A few clicks, some policy tweaks, and our Self-Service Password Reset (SSPR) would be live. I’d inherited this hybrid environment from our old MSP, a digital ghost town of Entra ID and a stubborn, on-premises legacy Active Directory. How hard could it be?
+
+Famous last words.
+
+For two days, I felt like a digital detective chasing a phantom. The error messages were vague, pointing to "conflicting policies." Every time I thought I’d found the culprit in Entra, the legacy AD would whisper from the server room, "Not so fast." It was a classic case of the left hand not knowing what the right hand was doing, except the hands were separated by a decade of technological evolution.
+
+The breakthrough came when I stopped looking for a single broken setting and started mapping the entire conversation between the two systems. Buried deep was a legacy group policy, a relic from 2018, enforcing a strict password cycling rule that the modern cloud system simply wouldn't acknowledge. It wasn't malicious; it was just forgotten, a piece of digital sediment left behind by the previous admin.
+
+Deleting that policy felt like an exorcism. The conflict vanished, and SSPR worked flawlessly. The experience was a powerful reminder that in our rush to the cloud, we can't forget the skeletons in our on-premises closets. True modernization isn't just about deploying new tech; it's about thoroughly understanding—and cleaning up—the old world first. The ghosts of IT past are real, and sometimes, they’re the ones holding the password.

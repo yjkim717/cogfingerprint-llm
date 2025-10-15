@@ -1,0 +1,5 @@
+Year: 2023
+Author: Durahl
+URL: https://www.reddit.com/r/ChineseLaserCutters/comments/10jf4cy/cloudray_beam_combiner_lens_orientation/
+
+Greetings! I'm almost finished with making my own Red Dot Beam Combiner Fixture for my G·Weike Cloud using a Cloudray 25mm Beam Combiner Lens and 5V Red Dot Module but I'm a little bit stumped on the Lens Orientation... The Product page has a fairly obvious indicator: Marking on the SURFACE pointing towards Red Dot Module With my Lense not *really* matching that description: \\"Arrow\\" marking along the SIDE? Anyone know which direction the "Arrow" is pointing towards? Is this supposed to be an indicator which direction the combined Lasers will essentially travel to? The Side the Arrow points towards to appears to have the Mirror Coating directly on top of the surface whereas the opposing one gives the impression of that coating being deeper "inside" the Material 🤔 Hope this makes sense 😉

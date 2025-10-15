@@ -1,8 +1,8 @@
-Author: Derar Eleyan
-Title: Social Engineering Attack concepts, frameworks, and Awareness: A Systematic Literature Review
-Paper ID: 77ae87969610c517c6d43521d179cfde35c4078d
+Author: F. Dellaert
+Title: Generalizing Trajectory Retiming to Quadratic Objective Functions
+Paper ID: 367e774f0a11711716b8ed13ce1b165a6a8c766b
 Year: 2023
 Author Index: 8
 
 Abstract:
-: The growth of data exchange and the dependency on the digital world through cyberspace raise security risks. Social engineering attacks occupy high percentage of total cybercrimes. It is also classified as the major cause of financial losses in cyberspace. This shows the need to clarify social engineering definition and clarify the proposed frameworks solutions by di ff erent researchers. This paper explores the previous researches that try to extract di ff erent concepts and perspectives which are called lifecycles, phases, frameworks, models
+Trajectory retiming is the task of computing a feasible time parameterization to traverse a path. It is commonly used in the decoupled approach to trajectory optimization whereby a path is first found, then a retiming algorithm computes a speed profile that satisfies kino-dynamic and other constraints. While trajectory retiming is most often formulated with the minimum-time objective (i.e. traverse the path as fast as possible), it is not always the most desirable objective, particularly when we seek to balance multiple objectives or when bang-bang control is unsuitable. In this paper, we present a novel algorithm based on factor graph variable elimination that can solve for the global optimum of the retiming problem with quadratic objectives as well (e.g. minimize control effort or match a nominal speed by minimizing squared error), which may extend to arbitrary objectives with iteration. Our work extends prior works, which find only solutions on the boundary of the feasible region, while maintaining the same linear time complexity from a single forward-backward pass. We experimentally demonstrate that (1) we achieve better real-world robot performance by using quadratic objectives in place of the minimum-time objective, and (2) our implementation is comparable or faster than state-of-the-art retiming algorithms.

@@ -1,0 +1,6 @@
+Here is an original abstract inspired by the given summary:
+
+Title: Fourier Adversarial Networks for Lightweight HDR Camera ISP under Dynamic Illumination
+
+Abstract:
+High Dynamic Range (HDR) imaging is crucial for robust perception in various computer vision applications. However, conventional Image Signal Processing (ISP) pipelines in HDR cameras often struggle with dynamic illumination conditions, resulting in suboptimal image quality. To address this challenge, we propose a novel lightweight HDR camera ISP framework leveraging Fourier Adversarial Networks (FAN). By harnessing the frequency-domain representation of images, FAN enables robust ISP under varying illumination conditions. Our framework employs a lightweight Convolutional Neural Network (CNN) architecture, ensuring real-time processing while maintaining high image fidelity. Experimental results demonstrate that the proposed FAN-based ISP outperforms state-of-the-art methods in terms of both PSNR and SSIM under dynamic illumination conditions. Furthermore, our framework achieves a significant reduction in computational complexity, making it suitable for deployment on resource-constrained HDR camera platforms. This work was conducted in 2022, leveraging the latest advancements in adversarial learning and ISP.

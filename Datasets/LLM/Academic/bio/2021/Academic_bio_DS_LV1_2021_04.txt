@@ -1,0 +1,11 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** Systemic Curricular Deficits and Psychiatric Didactic Engagement: An Analysis of Attendance Patterns in Indian Undergraduate Medical Education
+
+**Abstract**
+
+Within the framework of modern biopsychosocial models of health, the integration of robust psychiatric training is paramount for cultivating competent physicians. However, significant pedagogical challenges persist in undergraduate medical education, particularly in resource-constrained settings. This study investigates the determinants of low attendance in mandatory psychiatry rotations among Indian medical students, hypothesizing that structural curricular factors, rather than student disinterest, are the primary drivers. A mixed-methods, cross-sectional analysis was conducted across six tertiary medical institutions in India during the 2021 academic year. Data were collected via anonymized attendance records (n=842) and validated Likert-scale surveys assessing perceived barriers. Quantitative analysis revealed a mean attendance rate of 58.3% in psychiatry rotations, significantly lower (p < 0.01) than the 84.7% mean in other major clinical disciplines. Regression modeling identified two dominant, system-level predictors of absenteeism: the absence of a high-stakes, discipline-specific summative examination (β = 0.41, p < 0.001) and institutional policies permitting compensatory attendance adjustments in concurrent, exam-intensive subjects like internal medicine and surgery. Qualitative data from open-ended responses corroborated these findings, with students explicitly citing strategic prioritization of subjects with immediate academic consequences. These results indicate that the devaluation of psychiatry within the undergraduate medical curriculum is structurally reinforced. We conclude that pedagogical reform, specifically the implementation of formal assessment mechanisms and the realignment of institutional attendance policies, is critical to rectify this engagement deficit and ensure the development of a holistic, bio-psychosocially competent medical workforce.
+
+(Word Count: 248)

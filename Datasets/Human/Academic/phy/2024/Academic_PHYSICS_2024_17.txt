@@ -1,0 +1,8 @@
+Author: Yinghui Guo
+Title: Dual‐Layer Metasurface Enhanced Capacity of Polarization Multiplexing
+Paper ID: d9a280b923e8a42beef549137ea60f7dbca0a2a8
+Year: 2024
+Author Index: 17
+
+Abstract:
+Polarization is the nature of optics. Exploiting metasurface's polarizations can enhance the multiplexing capacity but face a limited number of channels. For example, a single‐layer metasurface can offer three independent channels with six degrees of freedom (DoFs) including the amplitude and phase of Ex, Exy(yx), and Ey of the Jones matrix. In this work, it is theoretically demonstrated that the degrees of freedom of dual‐layer metasurfaces can reach eight, overcoming the polarization multiplexing constraints of single‐layer metasurfaces and that the cross‐talk can be largely reduced as compared with single‐layer metasurfaces when the channel number is larger than three. Numerical calculations manifest a decrease of 100%, 63%, and 50% for the cross‐talk of channels 4, 5, and 6, respectively. As a proof‐of‐concept demonstration of high‐capacity polarization multiplexing, an arbitrary‐polarization‐controlled 5‐channel dual‐layer metasurface exhibiting five nanoprintings and five holographic images with reduced cross‐talk under different incident and output polarizations is successfully designed. Thus, the research highlighting the high‐multiplexing‐capacity of dual‐layer metasurfaces can significantly advance multifunctional optical devices with high efficiency, simple integration, and ease of manipulation.

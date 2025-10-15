@@ -1,0 +1,8 @@
+Author: Iyas Daghlas
+Title: Mendelian randomization as a tool to inform drug development using human genetics
+Paper ID: 5efc2978d80f5a5942815631d13ea2b107ba8546
+Year: 2023
+Author Index: 9
+
+Abstract:
+Drug development is essential to the advancement of human health, however, the process is slow, costly, and at high risk of failure at all stages. A promising strategy for expediting and improving the probability of success in the drug development process is the use of naturally randomized human genetic variation for drug target identification and validation. These data can be harnessed using the Mendelian randomization (MR) analytic paradigm to proxy the lifelong consequences of genetic perturbations of drug targets. In this review, we discuss the myriad applications of the MR paradigm for human drug target identification and validation. We review the methodology and applications of MR, key limitations of MR, and potential future opportunities for research. Throughout the review, we refer to illustrative examples of MR analyses investigating the consequences of genetic inhibition of interleukin 6 signaling which, in some cases, have anticipated results from randomized controlled trials. As human genetic data become more widely available, we predict that MR will serve as a key pillar of support for drug development efforts.

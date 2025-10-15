@@ -1,0 +1,8 @@
+Author: T. Nakazawa
+Title: Experimental evidence that lignin-modifying enzymes are essential for degrading plant cell wall lignin by Pleurotus ostreatus using CRISPR/Cas9.
+Paper ID: d5bb89eaaf6f610a17b7933928335735ce352867
+Year: 2023
+Author Index: 16
+
+Abstract:
+Lignin-modifying enzymes (LMEs), which include laccases (Lacs), manganese peroxidases (MnPs), versatile peroxidases (VPs), and lignin peroxidases (LiPs), have been considered key factors in lignin degradation by white-rot fungi because they oxidize lignin model compounds and depolymerize synthetic lignin in vitro. However, it remains unclear whether these enzymes are essential/important in the actual degradation of natural lignin in plant cell walls. To address this long-standing issue, we examined the lignin-degrading abilities of multiple mnp/vp/lac mutants of Pleurotus ostreatus. One vp2/vp3/mnp3/mnp6 quadruple-gene mutant was generated from a monokaryotic wild-type strain PC9 using plasmid-based CRISPR/Cas9. Also, two vp2/vp3/mnp2/mnp3/mnp6, two vp2/vp3/mnp3/mnp6/lac2 quintuple-gene mutants, and two vp2/vp3/mnp2/mnp3/mnp6/lac2 sextuple-gene mutants were generated. The lignin-degrading abilities of the sextuple and vp2/vp3/mnp2/mnp3/mnp6 quintuple-gene mutants on the Beech wood sawdust medium reduced drastically, but not so much for those of the vp2/vp3/mnp3/mnp6/lac2 mutants and the quadruple mutant strain. The sextuple-gene mutants also barely degraded lignin in Japanese Cedar wood sawdust and milled rice straw. Thus, this study presented evidence that the LMEs, especially MnPs and VPs, play a crucial role in the degradation of natural lignin by P. ostreatus for the first time.

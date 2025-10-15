@@ -1,0 +1,7 @@
+Of course. Here is an original academic abstract inspired by the provided summary, contextualized for 2022.
+
+***
+
+**Abstract**
+
+The design of revenue-maximizing mechanisms for selling multiple items to unit-demand buyers remains a central challenge in algorithmic game theory. While the *buy-many* constraint, which limits a buyer's ability to profitably combine menu entries, has emerged as a powerful and realistic modeling tool, its analysis has been largely confined to single-buyer environments. This paper bridges this gap by introducing a general model of a *buy-many multi-buyer mechanism*. We propose a novel, robust revenue benchmark for this setting that is resilient to strategic bundling and deviations across buyers. Our main result demonstrates that a simple and practical mechanism—*sequential item pricing*—achieves a tight \(O(\log m)\) approximation to this benchmark, where \(m\) is the number of items. This result significantly generalizes prior work by establishing that the analytical power of the buy-many constraint extends to complex, multi-agent markets. Furthermore, we prove that this logarithmic factor is information-theoretically optimal for this class of simple mechanisms, even against a weaker benchmark. Our findings provide a strong theoretical justification for the use of sequential pricing in complex multi-item markets.

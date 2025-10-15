@@ -1,0 +1,19 @@
+Okay, here’s a blog post draft based on that summary, aiming for a conversational, reflective tone and a 2020 feel:
+
+---
+
+**The Ghosts in My Code: Why I Started Hating Macros**
+
+Okay, let's be honest – 2020 was a weird year. I was deep in the trenches of a massive project, wrestling with a codebase that felt…well, *dirty*. It wasn't the bugs, though there were plenty of those. It was the macros. Specifically, the *unhygienic* ones. 
+
+I'd stumbled across them early on, these sprawling blocks of code that seemed to magically do things, but with absolutely no clue *how* they were doing it. It was like finding a hidden room in a house – fascinating at first, then terrifying when you realized there were no doors or windows and you had no idea how to get back out.
+
+It really hit me how much code clarity matters. Before, I was just trying to get things *working*, and these macros were a shortcut. But they created a tangled mess, making debugging a nightmare and, frankly, making *me* feel like a terrible programmer. 
+
+I started researching, learning about hygiene – the concept of keeping macros isolated and predictable. It felt almost… therapeutic, like cleaning up a chaotic space. 
+
+Looking back, it’s a small thing, but that shift in mindset completely changed how I approached my work.  It was a reminder that writing clean, understandable code isn’t just about being efficient; it's about respecting the code – and yourself – down the line. 
+
+---
+
+Would you like me to tweak this in any way, or perhaps focus on a specific aspect of the summary?

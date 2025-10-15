@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract, suitable for a computer science conference proceeding, inspired by the provided summary and keywords:
+
+**Abstract**
+
+Recent advances in multimodal neural networks offer a promising avenue for modeling human cross-situational word learning. This work investigates the capacity of contemporary deep learning architectures to replicate behavioral patterns observed in cognitive science research concerning word-referent mapping acquisition. Specifically, we evaluate the performance of multimodal networks trained on limited data, mirroring the constraints inherent in human learning environments. Our findings demonstrate a notable ability to establish robust associations between linguistic labels and perceptual stimuli, suggesting a potential for these models to capture fundamental aspects of lexical development. However, we also identify limitations in the models’ capacity for mutual exclusivity reasoning – a key cognitive constraint guiding human word learning – highlighting an area for future development. This research contributes to a growing body of work bridging machine learning and cognitive science, offering insights into both the strengths and remaining challenges in constructing computational models of human language acquisition.
+
+
+

@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract based on the provided summary and context.
+
+***
+
+**Abstract**
+
+The management of recurrent or metastatic esophageal and esophagogastric junction (EGJ) carcinomas remains a significant clinical challenge, with a historically poor prognosis. This review synthesizes the 2023 National Comprehensive Cancer Network (NCCN) guidelines, which advocate for a paradigm shift towards biomarker-driven, personalized treatment strategies. For all patients with advanced disease, comprehensive biomarker profiling is now a critical first step, as it directly informs therapeutic selection. For tumors demonstrating HER2 amplification, first-line therapy combines trastuzumab with chemotherapy. Similarly, tumors exhibiting high microsatellite instability (MSI-H) or mismatch repair deficiency (dMMR) are candidates for immune checkpoint inhibition with pembrolizumab. For programmed death-ligand 1 (PD-L1) combined positive score (CPS) ≥10 adenocarcinomas, nivolumab in combination with chemotherapy is recommended. The guidelines further underscore the necessity of a multidisciplinary team, integrating medical, radiation, and surgical oncology with palliative care to optimize patient outcomes and quality of life. This structured, biomarker-centric framework represents the current standard of care, aiming to improve survival through precision oncology.

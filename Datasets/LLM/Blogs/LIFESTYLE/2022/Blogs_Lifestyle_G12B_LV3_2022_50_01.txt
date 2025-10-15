@@ -1,0 +1,4 @@
+)
+## That Feeling When Your Code Just… Breaks
+
+Okay, so I spent a frustrating few hours last night wrestling with assembly. Simple task: move 100 into rax, then into eax. Sounds easy, right? Nope. Segmentation fault. It's that moment when you stare at the screen, questioning everything, wondering if you’ve fundamentally misunderstood registers. Anyone else ever get that deep dive frustration? Debugging is a journey, folks. A humbling one! #codinglife #assembly #debugging

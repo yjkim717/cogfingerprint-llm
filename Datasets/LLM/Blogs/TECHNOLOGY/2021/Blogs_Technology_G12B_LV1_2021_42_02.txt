@@ -1,0 +1,5 @@
+## The Ghosts in the Machine (and Who Owns Them?)
+
+It's 2021, and AI is *everywhere*. We’re all leveraging pre-trained models – massive neural networks someone else built and generously shared. But lately, I've been wrestling with a nagging question: who *really* owns those weights? 
+
+Think about it. A compiled program is protected by copyright, right? So why aren't pre-trained network weights, essentially a highly complex, pre-computed algorithm, afforded similar legal consideration? Many are released under MIT licenses, permissive as can be, but does that truly account for the immense effort baked into their creation? It feels like we're building on the shoulders of giants without fully acknowledging the ownership of those shoulders. Something to ponder, right?

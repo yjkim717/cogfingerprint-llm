@@ -1,0 +1,5 @@
+Year: 2020
+Author: ihatebeinganonymous
+URL: https://www.reddit.com/r/privacy/comments/jogu8d/gdprcompliant_website_statistics/
+
+Hello, I am writing some custom code to collect statistics of visits to my website. I want the data I collect to be GDPR-compliant so that I don't need to ask for consent. What are other data I can keep? I saw that by masking the last 8 bits of an IPv4 address I can keep that as well. Anything else? Is there a minimum "radius" for location (i.e. maximum location accuracy, e.g. within 1km) above which one can keep the location as well? What about ISP, Browser, etc..? And is the timestamp of a visit (i.e. a visit to this page happened at 12:34:19) ok? Many thanks

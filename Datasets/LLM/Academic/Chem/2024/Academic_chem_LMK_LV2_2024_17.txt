@@ -1,0 +1,5 @@
+Title: Quantum Chemical Investigation of Carbon Atom Interaction with Ammonia in Interstellar Ices: Formation of Methylamine
+
+Abstract:
+
+The interaction of carbon atoms with ammonia in interstellar ices is a crucial process in understanding the formation of complex organic molecules. Using quantum chemical calculations, this study investigates the reaction pathways and energetics involved in the interaction of C(³P) with NH₃. Our results indicate that the reaction proceeds through the formation of a H₂NCH₂ intermediate, which subsequently leads to the production of methylamine (CH₃NH₂) as the preferred product. The calculated potential energy surface reveals a barrierless pathway for the formation of methylamine, suggesting a feasible mechanism for its synthesis in interstellar environments. The findings of this study provide valuable insights into the astrochemical processes governing the formation of complex organic molecules in interstellar ices, shedding light on the origins of prebiotic molecules in the early universe. (2024)

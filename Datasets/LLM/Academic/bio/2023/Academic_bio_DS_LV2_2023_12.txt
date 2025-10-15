@@ -1,0 +1,5 @@
+Here is a formal academic abstract reflecting the described research:
+
+**Abstract**
+
+The inherent stochasticity of gene expression presents a fundamental challenge in interpreting single-cell RNA sequencing data. To address this, we introduce a novel mathematical framework rooted in stochastic systems biology, employing probability generating functions to model transcriptional bursting dynamics. This approach analytically characterizes the propagation of noise from promoter states to mRNA distributions, enabling the direct inference of kinetic parameters from single-cell genomics data. Our model provides a rigorous, computationally tractable method to deconvolve biological variability from technical noise, offering enhanced precision for quantifying cellular heterogeneity and advancing the mechanistic understanding of gene regulation.

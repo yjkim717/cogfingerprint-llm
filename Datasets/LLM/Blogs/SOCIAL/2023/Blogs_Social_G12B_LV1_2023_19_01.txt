@@ -1,0 +1,7 @@
+## The Digital Straight Line and My Frustrations
+
+Okay, so I’m having one of *those* tech moments. You know, the ones that make you question your sanity? I'm an illustrator, and I rely heavily on Clip Studio Paint. Specifically, I rely on the magic of holding down the Shift key to draw perfectly straight lines. It’s a cornerstone of my workflow! 
+
+But lately, in my CSP v2, it's just…not working.  I'm clicking, holding, dragging, and all I get is a wobbly, freeform line. It’s incredibly frustrating!  I’ve spent the last hour troubleshooting, scouring forums, and feeling increasingly defeated. 
+
+It's a silly thing to be so annoyed about, but it highlights how much we depend on these little digital shortcuts.  It’s a reminder that even the most reliable tools can betray you, and sometimes, you just have to step back, take a breath, and search for a solution.  Anyone else battling a rogue modifier key lately? Let me know!

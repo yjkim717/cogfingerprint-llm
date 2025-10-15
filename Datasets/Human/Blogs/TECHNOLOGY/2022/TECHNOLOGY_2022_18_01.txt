@@ -1,0 +1,5 @@
+Year: 2022
+Author: kbbtech
+URL: https://www.reddit.com/r/Office365/comments/y9sp2p/o365_blocking_outlook_ios_android_question/
+
+Hi all I'm trying to block outlook on mobile devices from connecting and syncing email. I'm curious if I setup a device access rule to quarantine the app, can I then selectively enable for specific devices that get quarantined? &#x200B; Thanks in advance.

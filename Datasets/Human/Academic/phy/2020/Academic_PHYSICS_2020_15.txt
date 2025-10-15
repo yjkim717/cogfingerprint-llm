@@ -1,0 +1,8 @@
+Author: Liting Yang
+Title: Conductive Li3.08Cr0.02Si0.09V0.9O4 Anode Material: Novel “Zero‐Strain” Characteristic and Superior Electrochemical Li+ Storage
+Paper ID: eeae868cd54fabbb276fe04c8ce58338ee09b4a6
+Year: 2020
+Author Index: 15
+
+Abstract:
+“Zero‐strain” compounds are ideal energy‐storage materials for long‐term cycling because they present negligible volume change and significantly reduce the mechanically induced deterioration during charging–discharging. However, the explored “zero‐strain” compounds are very limited, and their energy densities are low. Here, γ phase Li3.08Cr0.02Si0.09V0.9O4 (γ‐LCSVO) is explored as an anode compound for lithium‐ion batteries, and surprisingly its “zero‐strain” Li+ storage during Li+ insertion–extraction is found through using various state‐of‐the‐art characterization techniques. Li+ sequentially inserts into the 4c(1) and 8d sites of γ‐LCSVO, but its maximum unit‐cell volume variation is only ≈0.18%, the smallest among the explored “zero‐strain” compounds. Its mean strain originating from Li+ insertion is only 0.07%. Consequently, both γ‐LCSVO nanowires (γ‐LCSVO‐NW) and micrometer‐sized particles (γ‐LCSVO‐MP) exhibit excellent cycling stability with 90.1% and 95.5% capacity retention after as long as 2000 cycles at 10C, respectively. Moreover, γ‐LCSVO‐NW and γ‐LCSVO‐MP respectively deliver large reversible capacities of 445.7 and 305.8 mAh g−1 at 0.1C, and retain 251.2 and 78.4 mAh g−1 at 10C. Additionally, γ‐LCSVO shows a suitably safe operating potential of ≈1.0 V, significantly lower than that of the famous “zero‐strain” Li4Ti5O12 (≈1.6 V). These merits demonstrate that γ‐LCSVO can be a practical anode compound for stable, high‐energy, fast‐charging, and safe Li+ storage.

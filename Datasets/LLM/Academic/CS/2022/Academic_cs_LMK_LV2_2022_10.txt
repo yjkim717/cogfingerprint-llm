@@ -1,0 +1,5 @@
+Title: Enhancing Convolutional Neural Networks with Conformal Mapping-based Image Augmentation
+
+Abstract:
+
+Data augmentation is a crucial technique for improving the performance and robustness of convolutional neural networks (CNNs). Traditional methods often rely on simple transformations, such as rotation and flipping, which can lead to information loss and limited diversity in the augmented data. In this paper, we propose a novel image augmentation method utilizing conformal mappings, specifically Möbius transformations, to generate diverse and informative samples. By preserving angles and shapes, conformal mappings minimize information loss and maintain the semantic integrity of the original images. We integrate this technique into a CNN framework and demonstrate its efficacy on various image classification tasks. Our results show that the proposed method outperforms traditional data augmentation techniques, achieving improved prediction accuracy and robustness. The conformal mapping-based approach offers a promising direction for enhancing the performance of CNNs in image classification tasks.

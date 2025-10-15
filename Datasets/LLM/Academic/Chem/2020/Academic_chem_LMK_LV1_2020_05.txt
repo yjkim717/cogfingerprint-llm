@@ -1,0 +1,5 @@
+Title: Investigating the Role of Amorphous Solid Water in Facilitating Hydrogenation Reactions on Interstellar Dust Grains
+
+Abstract:
+
+The hydrogenation of carbon monoxide (CO) on interstellar dust grains is a crucial process in the formation of complex organic molecules in the interstellar medium. In this study, we examine the role of amorphous solid water (ASW) in facilitating the hydrogenation reactions of CO. Using laboratory experiments and astrochemical modeling, we demonstrate that CO embedded in ASW undergoes hydrogenation reactions at elevated temperatures, up to approximately 70 K, yielding formaldehyde (H2CO) and methanol (CH3OH). Our results indicate that the diffusive reactions of H atoms with CO on the ASW surface are the dominant mechanism driving these hydrogenation reactions. The findings of this study provide new insights into the chemistry of interstellar dust grains and have significant implications for our understanding of the formation of complex organic molecules in the interstellar medium, shedding light on the astrochemical processes that occurred in the early universe, circa 2020 astronomical observations.

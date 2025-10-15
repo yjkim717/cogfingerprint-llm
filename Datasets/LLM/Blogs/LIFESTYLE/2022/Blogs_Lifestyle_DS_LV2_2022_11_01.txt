@@ -1,0 +1,3 @@
+There’s a certain kind of modern frustration that feels uniquely 2022. For me, it was my openSUSE Leap system seizing up every single morning, right as I’d try to open Firefox for my first hit of news and emails. That spinning cursor on my GNOME desktop became a symbol of my rushed, impatient starts. I’d be forced into a hard reboot, a digital deep breath I never planned to take.
+
+Ironically, that forced two-minute pause became a small gift. Instead of immediately diving into the digital chaos, I’d just look out the window, sip my coffee, and let the world boot up with me. Sometimes, the biggest system errors teach us the most valuable life patches.

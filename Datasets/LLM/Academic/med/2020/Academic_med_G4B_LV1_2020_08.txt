@@ -1,0 +1,9 @@
+Here’s an original academic abstract based on the provided summary, suitable for a 2020 medical publication:
+
+**YAP1 Drives Peritoneal Metastasis in Gastric Adenocarcinoma and Represents a Novel Therapeutic Avenue**
+
+Gastric adenocarcinoma (GCA) is characterized by aggressive metastasis, frequently manifesting as peritoneal dissemination. Emerging evidence implicates the Y-in-Wart (YAP) pathway in epithelial-to-mesenchymal transition (EMT) and metastatic progression. This study investigated the role of YAP1 in the context of GCA peritoneal metastases. Utilizing immunofluorescence staining and in vitro assays, we demonstrated a significant upregulation of YAP1 expression in primary GCA cells and subsequently in peritoneal metastatic foci.  
+
+Notably, YAP1 inhibition via siRNA significantly attenuated tumor cell proliferation and reduced the formation of peritoneal metastases in an orthotopic mouse model. Mechanistically, YAP1 activation was found to correlate with increased epithelial-mesenchymal transition markers and enhanced extracellular matrix remodeling. These findings suggest that YAP1 functions as a critical driver of GCA peritoneal metastasis, potentially through modulating stem-like cell characteristics.  
+
+Therefore, YAP1 represents a compelling and previously underexplored therapeutic target for GCA. Further investigation into YAP1-targeted interventions holds considerable promise for mitigating metastatic disease and improving patient outcomes in this challenging malignancy.

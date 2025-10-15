@@ -1,0 +1,11 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Title:** A Hazard-Based Prioritization Framework for Phthalates and Substitute Plasticizers in Food Contact Materials: Implications for Human Health Risk Assessment
+
+**Abstract:**
+
+The pervasive use of synthetic plasticizers, particularly phthalates, in food contact materials (FCMs) presents a significant and ongoing public health challenge due to their potential for migration into foodstuffs and their well-documented roles as endocrine-disrupting chemicals (EDCs). In response to regulatory restrictions on certain ortho-phthalates, industry has shifted towards a spectrum of alternative plasticizers, whose toxicological profiles are often less characterized. This study establishes a systematic, hazard-based prioritization framework to identify plasticizers in FCMs requiring expedited risk assessment. The methodology integrated two primary criteria: the potency of intrinsic hazardous properties, as defined by harmonized classification for specific target organ toxicity, reproductive toxicity, and carcinogenicity, and the chronological imperative for review, based on the date of the most recent comprehensive safety evaluation. Our analysis of 34 high-production-volume plasticizers revealed a subset of 12 substances, including several ortho-phthalates and emerging substitutes such as di-isononyl cyclohexane-1,2-dicarboxylate (DINCH) and acetyl tributyl citrate (ATBC), that were classified as high-priority for re-evaluation. These compounds were flagged due to either significant data gaps concerning their endocrine-disrupting potential or outdated risk assessments that do not reflect contemporary exposure scenarios and toxicological endpoints. We conclude that this transparent, evidence-based prioritization strategy is crucial for the efficient allocation of regulatory resources and is a prerequisite for the development of a modernized, health-protective risk management paradigm for FCMs, thereby mitigating population-wide exposure to hazardous EDCs.
+
+**(Word Count: 248)**

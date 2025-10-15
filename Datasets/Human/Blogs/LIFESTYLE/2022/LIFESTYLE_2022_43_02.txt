@@ -1,0 +1,5 @@
+Year: 2022
+Author: GullibleEngineer4
+URL: https://www.reddit.com/r/software/comments/xj2jr8/is_there_an_open_source_software_i_can_use_to/
+
+I have some large CSV files between 20 GB to 100 GB. The data can be useful to a lot of non technical people, each of whom will only be interested in a slice of data. I could distribute the whole data dump, but most of the people will not be able to make use of it. Although I can save these datasets on some database and create UIs but it requires a lot of effort, I would rather have the indices and UI develop automatically. **Required Features** \- Faceted search for all columns of CSV \- Should be able to handle filtering on numbers, dates, enums and strings. \- Option to download filtered data as csv. \- Should be space efficient. \- UI is created using web technologies (HTML/CSS/JavaScript) I am also considering solutions which could require a bit of coding. I am familiar with Python, golang, typescript and react js. I just don't want to develop everything from scratch, a bit of development is fine though. \-

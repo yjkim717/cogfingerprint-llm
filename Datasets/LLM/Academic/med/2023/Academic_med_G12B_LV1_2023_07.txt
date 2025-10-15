@@ -1,0 +1,20 @@
+Okay, here's a formal academic-style abstract inspired by the provided summary, aiming for precision and a structured argument, and contextualized to 2023.  I've aimed for a word count close to the requested ~321 words.  Following the abstract, I've included some notes on the choices I made and potential areas for expansion if more context were available.
+
+---
+
+**Vorasidenib Demonstrates Meaningful Progression-Free Survival Benefit in IDH-Mutant Grade 2 Glioma: Results from a Phase 3, Randomized, Controlled Trial**
+
+**Abstract**
+
+IDH-mutant gliomas, representing a significant proportion of grade 2 astrocytomas, are characterized by indolent progression and pose a prolonged treatment challenge. While initial management focuses on observation and surgical resection, the ultimate need for disease-modifying therapies remains high. This study reports the findings of a Phase 3, randomized, double-blind, placebo-controlled trial evaluating the efficacy and safety of vorasidenib, a selective IDH1/2 inhibitor, in patients with newly diagnosed IDH-mutant grade 2 glioma.  A total of [Insert Number] participants, meeting pre-defined eligibility criteria including confirmed IDH1/2 mutation status and Karnofsky Performance Status ≥ 70, were randomized 1:1 to receive either oral vorasidenib or placebo. The primary endpoint was progression-free survival (PFS), assessed by an independent review committee (IRC) blinded to treatment allocation. Secondary endpoints included overall survival (OS), time to subsequent intervention (TTSI), and safety profile.
+
+Results demonstrated a statistically significant and clinically meaningful improvement in PFS with vorasidenib compared to placebo (Hazard Ratio [Insert HR Value], *p* < 0.001). Median PFS was [Insert Median PFS Value] in the vorasidenib arm versus [Insert Median PFS Value] in the placebo arm.  Furthermore, vorasidenib treatment was associated with a significant delay in subsequent interventions, including chemotherapy, radiotherapy, and surgical resection (Median TTSI: [Insert Median TTSI Value] vs. [Insert Median TTSI Value], *p* < 0.001).  Exploratory analyses suggest a potential trend towards improved OS, although this endpoint remains immature at the time of this interim analysis.  The safety profile of vorasidenib was manageable, with the most common adverse events including [List 2-3 Common Adverse Events], generally consistent with previously reported data.
+
+These findings provide compelling evidence that vorasidenib represents a novel therapeutic strategy for patients with IDH-mutant grade 2 glioma, offering a significant improvement in PFS and delaying the need for subsequent therapies. This study contributes to the evolving landscape of targeted therapies in glioma management and warrants further investigation into biomarkers predictive of response and long-term outcomes.  Future research should focus on the integration of vorasidenib into treatment algorithms and assessment of its impact on quality of life.
+
+---
+
+**Notes & Potential Expansions:**
+
+*   **Placeholders:** I've included bracketed placeholders ([Insert Number], [Insert HR Value], etc.) where specific data from the actual trial would be inserted.
+*   **Statistical Significance:** I've consistently used "*p* < 0.001" to indicate strong statistical significance.  The actual

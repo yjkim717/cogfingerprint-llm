@@ -1,0 +1,4 @@
+Title: Unveiling an Alternative Pathway to Interstellar Methylamine Formation via Carbon Atom Condensation on Ammonia-Rich Ices
+
+Abstract:
+Recent quantum chemical calculations (2024) elucidate the condensation of carbon atoms on NH3-H2O ices, yielding methylamine as a favored product. This astrochemical process offers a novel pathway to the formation of interstellar methylamine and methanimine. Our results demonstrate that the reaction kinetics on ammonia-rich ices facilitate the efficient synthesis of methylamine, thereby redefining existing astrochemical models. This study underscores the significance of carbon atom condensation in interstellar chemistry, providing new insights into the molecular origins of complex organic species in astrophysical environments.

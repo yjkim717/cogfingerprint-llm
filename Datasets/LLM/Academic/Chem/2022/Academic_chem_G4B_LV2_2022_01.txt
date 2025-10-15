@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary, suitable for a 2022 publication in a chemistry journal:
+
+**Abstract**
+
+The investigation of hydroxyl radical (OH•) diffusion on water ice remains a critical area of research for understanding the initial stages of astrochemical and geochemical processes. This study presents experimental determination of the activation energy governing OH• diffusion across water ice surfaces, achieved through photostimulated desorption (PSD) spectroscopy. Utilizing a controlled PSD technique, we quantified the energy barrier required for OH• radicals to traverse the ice lattice at an experimental temperature of 0.14 eV.  The measured activation energy of 0.14 eV provides a valuable constraint on theoretical models predicting OH• mobility and reaction kinetics within icy planetary environments, such as cometary nuclei and outer solar system reservoirs.  Further analysis correlating diffusion with photostimulation intensity offers insights into the fundamental mechanisms driving this process, contributing to a more nuanced understanding of radical surface dynamics.

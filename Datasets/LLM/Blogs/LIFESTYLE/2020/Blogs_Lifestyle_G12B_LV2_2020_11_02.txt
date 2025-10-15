@@ -1,0 +1,15 @@
+>## The Unexpected Joy of Tiny Servers and Big Projects
+
+It’s funny how life throws curveballs. Just a few months ago, I was perfectly content with a routine – work, evenings curled up with a book, the occasional weekend hike. Then, 2020 happened, didn’t it? Suddenly, "routine" felt like a distant memory, and I found myself craving... something. Something *to build*.
+
+I’m not talking about building a deck or redecorating the living room.  No, I stumbled down a surprisingly deep rabbit hole involving Raspberry Pi’s, Kubernetes, and the frankly intimidating world of containerization.  It started with a simple question: could I run some lightweight Docker containers on these little $35 computers?
+
+The initial setup was a mess, a chaotic tangle of command lines and error messages. I nearly gave up multiple times. But then, I discovered k3s – a lightweight Kubernetes distribution perfectly suited for these tiny machines. And that’s when things started to *click*.
+
+Now, I'm running a little home lab, experimenting with different services, and generally geeking out over networking configurations (yes, even VLANs!). It's not about the tech itself, though.  It's about the process. It's about the satisfaction of wrestling with a problem, researching solutions, and finally seeing something *work*. 
+
+This unexpected hobby has become a welcome distraction, a creative outlet, and a surprisingly calming force amidst the general chaos of 2020.  It's a reminder that even small projects, tackled with patience and a bit of stubbornness, can bring a surprising amount of joy.  Who knew building a tiny server farm could be so… therapeutic?
+
+
+
+---

@@ -1,0 +1,8 @@
+Author: Fengchao Yu
+Title: Identification of modified peptides using localization-aware open search
+Paper ID: 69902194345e4085a23a71c65e1ea86c71ed0616
+Year: 2020
+Author Index: 10
+
+Abstract:
+Identification of post-translationally or chemically modified peptides in mass spectrometry-based proteomics experiments is a crucial yet challenging task. We have recently introduced a fragment ion indexing method and the MSFragger search engine to empower an open search strategy for comprehensive analysis of modified peptides. However, this strategy does not consider fragment ions shifted by unknown modifications, preventing modification localization and limiting the sensitivity of the search. Here we present a localization-aware open search method, in which both modification-containing (shifted) and regular fragment ions are indexed and used in scoring. We also implement a fast mass calibration and optimization method, allowing optimization of the mass tolerances and other key search parameters. We demonstrate that MSFragger with mass calibration and localization-aware open search identifies modified peptides with significantly higher sensitivity and accuracy. Comparing MSFragger to other modification-focused tools (pFind3, MetaMorpheus, and TagGraph) shows that MSFragger remains an excellent option for fast, comprehensive, and sensitive searches for modified peptides in shotgun proteomics data. Mass spectrometry-based proteomics is the method of choice for the global mapping of post-translational modifications, but matching and scoring peaks with unknown masses remains challenging. Here, the authors present a refined open search strategy to score all peaks with higher sensitivity and accuracy.

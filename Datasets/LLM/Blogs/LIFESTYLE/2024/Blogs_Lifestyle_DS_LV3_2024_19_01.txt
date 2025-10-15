@@ -1,0 +1,5 @@
+It all started with that one motion alert at 3 AM—a raccoon rummaging through the trash, setting off my basic camera system for the third time that week. I was done with false alarms. As a newcomer to home automation in 2024, I craved something smarter, something that could tell the difference between a stray cat and a potential intruder. That’s when I dove into the world of Blue Iris and DeepStack AI.
+
+I knew I needed reliable hardware without breaking the bank, so I opted for a compact mini PC—powerful enough to handle multiple IP cameras and process AI alerts seamlessly. Setting it up felt like giving my home a nervous system; suddenly, it could see, learn, and notify me with purpose. Continuous recording meant I never missed a moment, while AI-powered filters saved my sanity.
+
+Now, my mornings begin with a coffee and a quick scroll through genuine alerts—no more midnight raccoon dramas. It’s more than just surveillance; it’s peace of mind, a small but meaningful step in crafting a home that’s not only connected but thoughtfully aware.

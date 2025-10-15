@@ -1,0 +1,8 @@
+Author: B. Tijms
+Title: Cerebrospinal fluid proteomics in patients with Alzheimer’s disease reveals five molecular subtypes with distinct genetic risk profiles
+Paper ID: e6b88c2fa8539b2e3ea281764ff37026389c812e
+Year: 2024
+Author Index: 9
+
+Abstract:
+Alzheimer’s disease (AD) is heterogenous at the molecular level. Understanding this heterogeneity is critical for AD drug development. Here we define AD molecular subtypes using mass spectrometry proteomics in cerebrospinal fluid, based on 1,058 proteins, with different levels in individuals with AD (n = 419) compared to controls (n = 187). These AD subtypes had alterations in protein levels that were associated with distinct molecular processes: subtype 1 was characterized by proteins related to neuronal hyperplasticity; subtype 2 by innate immune activation; subtype 3 by RNA dysregulation; subtype 4 by choroid plexus dysfunction; and subtype 5 by blood–brain barrier impairment. Each subtype was related to specific AD genetic risk variants, for example, subtype 1 was enriched with TREM2 R47H. Subtypes also differed in clinical outcomes, survival times and anatomical patterns of brain atrophy. These results indicate molecular heterogeneity in AD and highlight the need for personalized medicine.

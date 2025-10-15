@@ -1,0 +1,25 @@
+>Okay, here's a blog post draft based on your prompt. I've aimed for a conversational, reflective tone and tried to build a relatable narrative around the core themes of a CS graduate navigating the job search, considering bootcamps, and feeling the weight of lacking internship experience.  I've included some notes at the end about potential additions or adjustments.
+
+---
+
+## The Algorithm of Anxiety: My Post-Grad Reality (and Maybe a Bootcamp?)
+
+Okay, let's be real. Graduation felt…weird. Like a starting line without a clear track. I’d spent four years buried in algorithms, data structures, and late-night coding sessions fuelled by instant ramen. I *earned* my computer science degree. I should be feeling triumphant, right? Ready to conquer the tech world?
+
+Instead, I’m mostly feeling… anxious.
+
+It’s 2021, and the job market, while seemingly booming, feels like a brutal, automated gatekeeper. Every application is a submission to *the algorithm*, and it’s consistently spitting out rejection emails.  “We appreciate your interest…” followed by the soul-crushing “...but we’ve decided to move forward with other candidates.” Rinse and repeat.
+
+I’m not going to lie, part of me feels like I should have seen this coming. I focused *hard* on academics. I wanted to understand the *why* behind the code, not just the *how*. I genuinely loved the theoretical stuff – the elegance of a well-crafted algorithm, the logic of a perfectly designed system. But somewhere along the way, I neglected the practical. Specifically, I missed out on internships.
+
+And now, that missing piece is staring me in the face. Every job description screams for "2+ years of experience," "proficient in X framework," and, you know, *actual project work*. My resume, while showcasing a solid academic foundation, feels…thin. Like a carefully constructed theory with no practical application.
+
+My friends who *did* the internship circuit are already landing roles. They’re talking about exciting projects, cool teams, and the thrill of contributing to something real. And I'm here, meticulously tailoring cover letters and refreshing LinkedIn every five minutes, hoping for a miracle.
+
+I've been having a lot of conversations with other grads, and the same theme keeps popping up: the disconnect between what we learn in school and what employers actually want. The curriculum is fantastic, don't get me wrong. But it feels increasingly like we're being prepared for a world that no longer exists – a world where a strong theoretical understanding is enough.
+
+So, I've started to seriously consider a bootcamp.
+
+I know, I know. They've got their own reputation. Intense, expensive, and sometimes…questionable. But the more I research, the more appealing they seem.  Places like App Academy, for example, promise a fast-track to practical skills and, crucially, career support. The promise of building a portfolio of real-world projects, learning in-demand technologies, and getting help with the job search is incredibly tempting.
+
+It’s a big decision. It’s an investment – not just financially, but in terms of time and energy. And honestly, there's a part of me that feels guilty, like I should have just “figured it out”

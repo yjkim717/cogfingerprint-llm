@@ -1,0 +1,4 @@
+Title: Quantum Dynamics of Cavity-Modified Chemical Reactions under Collective Vibrational Strong Coupling
+
+Abstract:
+In 2024, advancements in cavity quantum electrodynamics enable the exploration of vibrational strong coupling (VSC) effects on chemical kinetics. We investigate the collective VSC regime using quantum dynamical methods, focusing on the cavity-modified reaction rates and pathways. By employing a cavity-quantum electrodynamics density functional theory framework, we elucidate the role of optical cavity modes in modulating the quantum dynamics of molecular reactions. Our results provide insight into the intricate interplay between VSC, collective effects, and chemical reactivity, shedding light on the underlying mechanisms governing cavity-controlled chemistry.

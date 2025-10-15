@@ -1,0 +1,8 @@
+Author: Gennady Gorin
+Title: RNA velocity unraveled
+Paper ID: 4363c0a1c79c9c6febd1408c6f3b4ce21413398e
+Year: 2022
+Author Index: 12
+
+Abstract:
+We perform a thorough analysis of RNA velocity methods, with a view towards understanding the suitability of the various assumptions underlying popular implementations. In addition to providing a self-contained exposition of the underlying mathematics, we undertake simulations and perform controlled experiments on biological datasets to assess workflow sensitivity to parameter choices and underlying biology. Finally, we argue for a more rigorous approach to RNA velocity, and present a framework for Markovian analysis that points to directions for improvement and mitigation of current problems.

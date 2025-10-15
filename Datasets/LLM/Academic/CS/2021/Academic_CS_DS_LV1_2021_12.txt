@@ -1,0 +1,7 @@
+Of course. Here is an original academic abstract inspired by the provided summary, contextualized for 2021.
+
+***
+
+**Abstract**
+
+The vulnerability of deep convolutional neural networks to norm-bounded adversarial attacks remains a critical challenge for their deployment in security-sensitive domains. While orthogonality constraints on network layers have been shown to enhance stability and robustness in fully-connected settings, their effective and efficient parameterization for convolutional operations is non-trivial. In this work, we introduce a novel framework for constructing provably orthogonal convolutional layers by leveraging the Cayley transform. Our method parameterizes the convolutional kernel in the Fourier domain, where the convolution operation becomes a structured matrix multiplication. By enforcing skew-symmetry on this representation, the Cayley transform yields a strictly orthogonal transformation, guaranteeing an exact spectral norm of 1. This property directly controls the Lipschitz constant of the layer, leading to improved certified robustness against ℓ₂-bounded perturbations. Empirical evaluations on CIFAR-10 and ImageNet demonstrate that our Cayley Orthogonal Convolutional Networks significantly outperform standard and loosely-regularized networks in terms of certified accuracy, providing a principled and scalable path toward adversarially robust deep learning models.

@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2022:
+
+**Abstract:**
+
+This paper addresses the challenge of eliciting multi-dimensional effort from strategic agents within algorithmic mechanism design. We present a novel framework that generalizes the classical knapsack problem to accommodate complex effort spaces, enabling the design of scoring rules that optimally incentivize desired agent behavior. Our analysis demonstrates the approximate optimality of truncated separate and threshold scoring rules, providing practical and computationally tractable solutions. Furthermore, we establish robustness guarantees for these rules under sequential effort choices, a critical consideration in dynamic environments. These findings contribute to a deeper understanding of mechanism design in scenarios requiring the aggregation of multiple, potentially interdependent, agent actions, offering a valuable tool for designing incentive-compatible systems.

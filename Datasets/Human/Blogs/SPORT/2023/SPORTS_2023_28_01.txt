@@ -1,0 +1,5 @@
+Year: 2023
+Author: shapu
+URL: https://www.reddit.com/r/AmazonMusic/comments/17pg1b0/am_i_taking_crazy_pills_stutters_when_playing/
+
+I have Amazon Music Unlimited, and use it on PC (web-based), a couple of Alexa dots, and my Android phone. For the last three or four months the app regularly pauses or hangs during songs, even when it should have pre-fetched/buffered by that point in the track. It will every so often randomly skip to the next track. I cannot modify playlists on any device, including to delete tracks. I can't add songs. Am I the only person this is happening to? I can't conceive of why I'm paying ten dollars for this, nor why I should even accept it as a free app.

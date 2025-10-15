@@ -1,0 +1,8 @@
+
+## KreolMorisienMT: A Resource for Low-Resource Machine Translation Benchmarking in Mauritian Creole
+
+The scarcity of digital resources for low-resource languages presents a significant barrier to the advancement of machine translation (MT). This paper introduces KreolMorisienMT, a novel dataset designed to facilitate the evaluation and development of MT systems for Mauritian Creole (Kreolmorisien). Built specifically for benchmarking, KreolMorisienMT comprises a parallel corpus of English-Kreolmorisien and French-Kreolmorisien sentence pairs, alongside a substantial monolingual corpus of Kreolmorisien text. The dataset’s construction prioritizes linguistic diversity and real-world usage, aiming to reflect the nuanced characteristics of the language. We detail the data collection methodology, including source selection and quality control procedures. KreolMorisienMT provides a valuable resource for researchers investigating techniques for low-resource MT, including transfer learning, back-translation, and data augmentation. The publicly available dataset (KreolMorisienMT) aims to stimulate research and contribute to improved MT capabilities for Mauritian Creole, ultimately fostering greater linguistic preservation and digital inclusion within the Mauritian community.
+
+
+
+**Keywords:** Mauritian Creole, Machine Translation, Low-Resource Languages, Parallel Corpus, Monolingual Corpus, Benchmarking, Data Resource, KreolMorisienMT

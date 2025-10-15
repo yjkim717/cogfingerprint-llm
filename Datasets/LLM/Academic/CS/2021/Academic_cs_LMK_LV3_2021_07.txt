@@ -1,0 +1,1 @@
+In 2021, we presented a novel differentially private algorithm for correlation clustering, achieving subquadratic additive error under rigorous privacy guarantees. Our analysis establishes a lower bound on the error required by any pure differentially private algorithm, advancing the field of private unsupervised machine learning.

@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2021 publication in a chemistry journal:
+
+**Abstract**
+
+Transmission electron microscopy (TEM) investigations into the morphology of ices – specifically, H₂O, CO₂, and CO – deposited upon refractory substrates revealed substantial compositional and substrate-dependent variations. Contrary to prevailing models positing uniform ice layer formation, this research demonstrates significant morphological heterogeneity. Notably, the observed ice structures exhibit distinct textural features, suggesting a complex interplay between ice crystal growth, substrate interactions, and the specific thermodynamic conditions. These findings challenge simplistic assumptions regarding icy grain formation, with implications for understanding the volatile delivery processes in planetary environments. The study’s results provide critical data for refining theoretical models of icy grain nucleation and evolution within both interstellar and protoplanetary disks, demanding further investigation into the mechanistic drivers of ice morphology in diverse astrophysical settings.

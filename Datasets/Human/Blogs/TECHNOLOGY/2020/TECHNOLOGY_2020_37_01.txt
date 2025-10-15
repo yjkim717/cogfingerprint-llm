@@ -1,0 +1,5 @@
+Year: 2020
+Author: Purple___Flame
+URL: https://www.reddit.com/r/darksouls/comments/jujkor/how_to_set_up_paramdomizer_on_dsremastered/
+
+I've seen few people do runs with randomized weapon stats and movesets and only randomizer i know that does that is paramdomizer, yet it needs data directory which only exists in ptde version. They were doing it in remastered ofc

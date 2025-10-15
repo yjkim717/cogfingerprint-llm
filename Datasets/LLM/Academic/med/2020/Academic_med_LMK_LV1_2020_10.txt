@@ -1,0 +1,15 @@
+Title: Integrating Radiomic Signatures with Plasma Cell-Free DNA and Clinical Variables to Predict Overall Survival in Glioblastoma Patients: A Multimodal Approach
+
+
+#### Abstract
+
+Glioblastoma (GBM) is a highly aggressive and heterogeneous brain tumor with a dismal prognosis. Despite advances in treatment strategies, overall survival (OS) remains poor, underscoring the need for more accurate predictive models. Recent studies have highlighted the potential of radiomics, liquid biopsy, and clinical variables in improving outcome prediction. This study investigates the prognostic value of combining radiomic signatures derived from multiparametric MRI (mpMRI) with plasma cell-free DNA (cfDNA) and clinical variables in predicting OS in GBM patients.
+
+
+We retrospectively analyzed data from 120 GBM patients diagnosed between 2015 and 2020. Radiomic features were extracted from preoperative mpMRI scans, including T1-weighted, T2-weighted, and contrast-enhanced T1-weighted images. Plasma cfDNA was quantified using qPCR. Clinical variables included age, Karnofsky Performance Status (KPS), and extent of resection. A radiomic signature was developed using least absolute shrinkage and selection operator (LASSO) regression. The signature was then integrated with plasma cfDNA and clinical variables to develop a multimodal prognostic model.
+
+
+The radiomic signature, comprising 7 selected features, was significantly associated with OS (HR = 2.53, 95% CI: 1.67-3.83, P < 0.001). Plasma cfDNA concentration was also prognostic (HR = 1.85, 95% CI: 1.23-2.79, P = 0.003). The multimodal model, incorporating the radiomic signature, plasma cfDNA, age, KPS, and extent of resection, demonstrated improved predictive performance (C-index = 0.83, 95% CI: 0.78-0.88) compared to models based on individual modalities.
+
+
+Our findings suggest that integrating radiomic signatures with plasma cfDNA and clinical variables enhances the prediction of OS in GBM patients. This multimodal approach has the potential to facilitate personalized treatment planning and improve patient outcomes. Further validation studies are warranted to confirm the generalizability of our results.

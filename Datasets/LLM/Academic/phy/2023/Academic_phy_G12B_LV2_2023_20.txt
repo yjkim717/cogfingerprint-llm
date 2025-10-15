@@ -1,0 +1,7 @@
+)
+## Abstract: Generalized Symmetries and Phenomenology in Quantum Field Theory
+
+Recent developments in theoretical physics have highlighted the power of generalized symmetries, extending the traditional notion of group-based symmetries to incorporate non-local and higher-order structures. While the mathematical framework underpinning these generalized symmetries often relies on sophisticated categorical tools, their phenomenological implications for particle physics remain less explored by high-energy physicists. This paper aims to bridge this gap by presenting a pedagogical introduction to generalized symmetries tailored for phenomenological model-building. We delineate key concepts, including higher-group symmetries, non-abelian generalized symmetries, and their realization in quantum field theories, without demanding familiarity with category theory.  The discussion focuses on practical applications relevant to particle phenomenology, showcasing how these symmetries can constrain model parameter spaces, predict novel observable signatures, and offer alternative solutions to existing puzzles within the Standard Model and beyond. We illustrate these concepts through concrete examples and emphasize the potential of generalized symmetries to enrich our understanding of fundamental particle interactions and the search for new physics at high energies.
+
+
+

@@ -1,8 +1,8 @@
-Author: Andrea Madabeni
-Title: In the Chalcogenoxide Elimination Panorama: Systematic Insight into a Key Reaction
-Paper ID: 939fd299b06cbb6c59f53915465b403bf4f74b62
+Author: M. Tsuge
+Title: Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice
+Paper ID: 84a007c02ec88e3486239e021af5663d6fa5ff7b
 Year: 2022
 Author Index: 5
 
 Abstract:
-The selenoxide elimination is a well-known reaction in organochalcogen chemistry, with wide synthetic, biological, and toxicological implications. In this work, we apply benchmarked density functional theory (DFT) calculations to investigate different aspects of the title reaction in three (bio)chemically relevant models, spanning minimal systems of theoretical interests as well as biological or synthetic organochalcogenides. The activation strain analysis (ASA) methodology is employed along a suitable reaction coordinate to obtain insight into the role of the chalcogen and of the oxidation state, to pinpoint the factors that tune the elimination reactivity of the investigated systems. Lastly, we computationally validate the hypothesis that telluroxides eliminate more slowly than selenoxides because of a detrimental hydration process that leads to unreactive hydrates.
+Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of an interstellar ice analog were monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by the recombination of two OH radicals, which is rate-limited by thermal diffusion of OH. The activation energy for surface diffusion was experimentally determined for the first time to be 0.14 ± 0.01 eV, which is larger than or equivalent to those assumed in theoretical models. This value implies that the diffusive reaction of OH radicals starts to be activated at approximately 36 K on interstellar ice.

@@ -1,0 +1,4 @@
+Title: Investigating the Surface Mobility of OH Radicals on Interstellar Water Ice Analogues
+
+Abstract:
+The diffusion dynamics of OH radicals on water ice surfaces play a crucial role in understanding the chemistry of interstellar media. In this study (2022), we employed photostimulated desorption coupled with multiphoton ionization to probe the surface diffusion of OH radicals on amorphous water ice. By analyzing the desorption kinetics, we determined the activation energy for OH radical diffusion to be 0.14 eV. Our results provide insight into the mobility of reactive species on interstellar ice grains, shedding light on the mechanisms governing the formation of complex molecules in these environments.

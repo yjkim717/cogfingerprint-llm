@@ -1,0 +1,5 @@
+Title: Investigating the Morphological Evolution of H2O, CO2, and CO Ices on Refractory Grains via Transmission Electron Microscopy
+
+Abstract:
+
+The crystallization dynamics of ices comprising H2O, CO2, and CO on refractory grains have been investigated using transmission electron microscopy (TEM). The morphology of these ices is crucial in understanding their role in various astrophysical environments. Our TEM analysis reveals that the amorphous ices undergo a phase transition upon annealing, resulting in distinct crystalline structures. The presence of refractory grains influences the crystallization kinetics, with the grain surfaces acting as nucleation sites. The resulting ice morphology is dependent on the composition and temperature, with H2O-dominated ices exhibiting a characteristic porous structure. In contrast, CO2-rich ices form compact, crystalline aggregates. Our findings provide insights into the complex interplay between ice composition, refractory grain surfaces, and crystallization dynamics, shedding light on the microphysical processes governing ice morphology in astrophysical contexts. (2021)

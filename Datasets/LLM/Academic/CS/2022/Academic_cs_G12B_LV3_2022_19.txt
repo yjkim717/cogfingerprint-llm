@@ -1,0 +1,5 @@
+Here's a formal academic-style abstract inspired by the provided summary and keywords, suitable for a CS publication in 2022:
+
+**Abstract**
+
+Addressing the challenges of real-world image degradation and dynamic range limitations in computational photography, this work presents Fourier Adversarial Networks (AFNet), a novel two-stage image enhancement algorithm. Existing convolutional neural network (CNN) approaches often struggle with variable illumination and complex degradation patterns. AFNet’s architecture leverages Fourier domain analysis to improve robustness and efficiency, positioning it as a viable candidate for integration within camera Image Signal Processing (ISP) pipelines. We evaluate AFNet's impact on downstream perception tasks, specifically object detection and semantic segmentation, demonstrating improved performance compared to baseline methods. This research contributes a lightweight and adaptable enhancement strategy with potential for real-time deployment in embedded vision systems.

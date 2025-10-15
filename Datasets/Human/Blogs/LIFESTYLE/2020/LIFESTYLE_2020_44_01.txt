@@ -1,0 +1,5 @@
+Year: 2020
+Author: Inferno221
+URL: https://www.reddit.com/r/PokemonROMhacks/comments/k4xs2e/how_to_enter_cheat_codes_for_roms/
+
+I'm using visualboyadvance emulator. I'm playing a pokemon emerald rom hack, but the codes don't work for some reason. I'm not sure if I'm entering them correctly. The master code takes up two different slots for some reason (two checkboxes instead of being contained under one). How do I enter codes properly?

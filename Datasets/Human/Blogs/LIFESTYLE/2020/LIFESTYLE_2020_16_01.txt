@@ -1,0 +1,5 @@
+Year: 2020
+Author: Jack1eto
+URL: https://www.reddit.com/r/cscareerquestions/comments/hsuare/which_side_projects_would_be_helpful_to_acquire/
+
+Hello, I'm currently a Computer Engineering student from Europe and summer break right now. It is my dream to help the development of the space industry so I would like to work there in the future. I'm really multidisplicinary but I think I'd like to be as specialist as possible, I think I'd like paths like analyzing data with ML, AI development, or low-level stuff like graphics/robotics/microprocessors. But since it seems like its a bit tight to get my foot into without previous experience I'd like to start working now on some cool things that would looks nice on my CV and that would a good learning experience overall. Also my current programming experience is medium C++, basic Java and Python Thanks in advance!

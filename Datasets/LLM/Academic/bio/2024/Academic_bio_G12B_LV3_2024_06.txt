@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a 2024 publication:
+
+**Abstract**
+
+The pursuit of efficient and cost-effective electrocatalysts for oxygen evolution reaction (OER) remains critical for sustainable hydrogen production via water splitting. This study reports on the development and characterization of cobalt-doped SrIrO3 as a promising OER electrocatalyst in acidic media. Experimental and computational analyses demonstrate that cobalt doping induces activation of surface lattice oxygen and fine-tunes the binding energies of key OER intermediates. Consequently, the resulting material exhibits enhanced catalytic activity, approaching and in some cases surpassing the performance of benchmark IrO2 catalysts. These findings highlight a pathway towards designing earth-abundant, high-performance OER electrocatalysts, contributing to advancements in electrochemical water splitting technologies.

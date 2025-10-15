@@ -1,0 +1,5 @@
+Year: 2021
+Author: satilovski
+URL: https://www.reddit.com/r/techsupport/comments/rlc4mm/public_google_form/
+
+Hey guys, I've been using google forms to collect applications for different occasions. Forms were always public and anyone who had the link could fill in and share the responses. But this doesn't work anymore. It requires people to sign in to their Google account to view the form and respond. People are reluctant to do because it looks like pishing for a possible fraud attempt. Anyone else had a similar problem? Any solution to keep the forms public with no sign-in requirement like it was before? I've checked but it seems this is the way how it is anymore. ):

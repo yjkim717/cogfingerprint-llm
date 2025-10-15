@@ -1,0 +1,11 @@
+**The Automation Struggle is Real: My Batch Scripting Adventures**
+
+As a sysadmin, I've always been fascinated by automation. Who doesn't love the idea of automating mundane tasks and freeing up time for more strategic work? In 2024, with the ever-increasing demands on our time, it's more important than ever to streamline our workflows.
+
+Recently, I found myself wrestling with a seemingly simple task: downloading a file with yesterday's date using a batch script and WinSCP. I had all the pieces in place – the script, the WinSCP command-line tool, and the file details – but somehow, it just wouldn't work.
+
+The issue was calculating yesterday's date in my batch script. I knew it shouldn't be that hard, but after hours of trial and error, I was stumped. That's when I realized that automation isn't just about writing code; it's also about understanding the nuances of the tools you're working with.
+
+After some digging, I finally cracked the code (pun intended!). It turned out that I needed to use a specific date calculation technique to get yesterday's date in the format I needed. With that hurdle cleared, my script worked like a charm, and I was able to automate the file download process.
+
+My experience was a great reminder that automation is a journey, not a destination. Even with the best tools and intentions, things don't always go as planned. But with persistence and a willingness to learn, we can overcome even the most frustrating obstacles and achieve our goals.

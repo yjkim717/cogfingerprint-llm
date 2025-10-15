@@ -1,0 +1,5 @@
+Here’s an academic abstract based on the provided summary and keywords, suitable for a 2022 publication:
+
+**Abstract**
+
+The early detection of Alzheimer’s disease (AD) remains a significant challenge. This study investigates the potential of plasma biomarkers to identify preclinical AD stages, specifically correlating with nascent amyloid-β (Aβ) pathology. Analyzing longitudinal plasma samples, we observed a robust association between phosphorylated tau isoforms, p-tau231 and p-tau217, and the emergence of early Aβ deposition in the brain. Notably, elevated levels of these phosphorylated tau variants demonstrated a predictive capacity exceeding that of established amyloid biomarkers. These findings suggest that p-tau231 and p-tau217 represent valuable indicators of prodromal AD, potentially enabling earlier intervention strategies. Further research is warranted to validate these biomarkers across diverse populations and establish standardized assays for clinical implementation, ultimately facilitating a shift towards disease-modifying therapies.

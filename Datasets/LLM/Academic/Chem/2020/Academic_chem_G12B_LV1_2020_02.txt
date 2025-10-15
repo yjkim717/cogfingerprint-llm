@@ -1,0 +1,20 @@
+Okay, here's an original abstract inspired by the provided keywords and summary, written in a formal, academic style suitable for a chemistry journal, and contextualized to a 2020 timeframe.  I've aimed for approximately 222 words.
+
+---
+
+**Isomerization and Abundance of Cyanomethanimine (NCCNH) in Interstellar Ices: A Relative Dipole Perspective**
+
+The detection of complex organic molecules in interstellar environments provides compelling evidence for the chemical complexity of star-forming regions. This study explores the isomeric equilibrium and abundance of cyanomethanimine (NCCNH), specifically the Z- and E-isomers, within the context of cold, dense ices relevant to astrophysical conditions. Utilizing rate coefficient calculations for key ion-molecule reactions, including protonation and deuteration, we demonstrate that the relative populations of Z- and E-NCCNH are significantly impacted by the differing reaction pathways and efficiencies associated with each isomer. Our modeling reveals a deviation from a thermally-expected statistical distribution, suggesting non-statistical effects dominate the isomeric ratio at relevant temperatures (10-30 K).
+
+We propose a "relative dipole principle" to rationalize these observations. This principle posits that the relative abundance of isomers in cold ices is governed by the interplay between their individual dipole moments and the susceptibility of each isomer to destructive ion-molecule reactions. Isomers exhibiting a larger dipole moment and/or enhanced reactivity towards prevalent ions (e.g., H<sub>3</sub><sup>+</sup>, D<sup>+</sup>) are preferentially depleted, leading to a biased isomeric population.  This work offers a novel framework for understanding isomer distributions in interstellar ices and highlights the importance of considering reaction kinetics alongside thermodynamic factors in astrochemical modeling. Future observations targeting NCCNH and its isomers will provide crucial tests of this principle and further refine our understanding of interstellar molecular evolution.
+
+---
+
+**Key features and considerations in this abstract:**
+
+*   **Formal Language:** Uses precise chemical terminology ("ion-molecule reactions," "isomeric equilibrium," "rate coefficient calculations," etc.)
+*   **Structured Reasoning:** Clearly states the problem, the method, the findings, and the proposed principle.
+*   **Contextualization:** Mentions temperatures relevant to interstellar ices (10-30 K) and common ions.
+*   **Novelty:** Introduces the "relative dipole principle" as a new concept.
+*   **Future Work:** Suggests observational tests and further research directions.
+*   **2020 timeframe:** The language and focus are consistent with research trends active around 2020 in astrochemistry.

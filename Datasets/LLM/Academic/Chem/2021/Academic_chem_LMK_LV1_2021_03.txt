@@ -1,0 +1,7 @@
+Here is an original abstract inspired by the given summary:
+
+Title: Isoreticular Metal-Organic Frameworks with Fluorescent Functionality: Unveiling Pressure Amplification and Negative Gas Adsorption Properties
+
+Abstract:
+
+The judicious design of metal-organic frameworks (MOFs) with tailored optical and structural properties is crucial for advancing their applications in sensing and gas storage. Herein, we report the synthesis and characterization of a new series of isoreticular MOFs incorporating fluorescent ligands, which exhibit a unique combination of porosity, flexibility, and light absorption properties. The resulting MOFs demonstrate pronounced pressure amplification and negative gas adsorption (NGA) behavior, attributed to their framework flexibility and specific host-guest interactions. Notably, the integration of fluorescent functionality enables the in situ monitoring of guest molecule adsorption and desorption processes. Our findings highlight the potential of these novel MOFs for applications in gas storage and sensing, and provide new insights into the relationship between MOF structure and NGA properties. This study contributes to the ongoing development of advanced MOF materials with tailored properties for diverse applications. (2021)

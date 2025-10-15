@@ -1,0 +1,5 @@
+## The Algorithm of Unexpected Joy
+
+Remember early 2020? Everything felt… paused. I was deep in coding, chasing a perfect GPA, when my laptop glitched, erasing hours of work. Frustrating, right? But staring at that blank screen, I realized I’d forgotten *why* I loved coding. 
+
+It wasn't about the grades; it was the playful problem-solving, the little victories. I started building a silly little game – just for fun. It was messy, imperfect, and surprisingly joyful. That glitch, that loss, ironically reminded me of the heart of technology: creating, experimenting, and finding unexpected delight in the process. Sometimes, the best code comes from embracing the chaos.

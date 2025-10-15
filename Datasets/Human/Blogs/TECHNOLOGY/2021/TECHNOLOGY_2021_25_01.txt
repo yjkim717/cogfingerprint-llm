@@ -1,0 +1,5 @@
+Year: 2021
+Author: chewy747
+URL: https://www.reddit.com/r/macsysadmin/comments/mbcog7/unable_to_reinstall_macos_on_wiped_disk/
+
+We use Jamf and I have a new M1 Macbook Pro. In Jamf I did a wipe command and while trying to wipe the disk I get the error "the volume on disk0 couldn't be unmounted because it is in use by process 0 (kernel)". I cant simply reinstall macos as there is no disk to write to presumably because the disk is marked as not writable. Any thoughts?

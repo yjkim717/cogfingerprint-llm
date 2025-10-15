@@ -1,0 +1,7 @@
+Okay, here’s a blog post draft reflecting those ideas, aiming for a conversational tone and approximately 73 words, set in 2020:
+
+---
+
+**Teams Troubles: Is My Computer a Memory Hog?**
+
+Remember last year? Teams was *everywhere*. I was battling constant audio glitches and choppy video calls. I started digging, and it seemed like Teams was hoarding a ton of data – caching everything!  It made me wonder: was my computer just struggling to keep up, or was this caching actually slowing things down?  A fascinating, and slightly frustrating, tech rabbit hole.

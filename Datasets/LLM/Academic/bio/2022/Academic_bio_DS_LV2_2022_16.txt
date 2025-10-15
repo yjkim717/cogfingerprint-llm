@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract based on the provided summary.
+
+***
+
+**Abstract**
+
+The white-rot fungus *Pleurotus ostreatus* is a model organism for studying lignocellulose degradation and a commercially important edible mushroom. However, functional genomic studies and metabolic engineering in this basidiomycete have been hindered by the lack of efficient tools for multiplex gene editing. In this study, we developed a robust CRISPR/Cas9 system for targeted, multiple-gene mutagenesis in *P. ostreatus*. Our approach utilizes a polycistronic tRNA-gRNA (PTG) expression strategy, which enables the simultaneous processing of multiple guide RNAs from a single transcriptional unit. We demonstrated the efficacy of this system by co-targeting key genes encoding lignin-modifying enzymes, achieving high-efficiency, multiplex mutagenesis in a significant proportion of transformants. Molecular analyses confirmed precise, Cas9-mediated indel mutations at the intended genomic loci. This PTG-based CRISPR/Cas9 platform overcomes a major technical bottleneck, providing a powerful and versatile tool for dissecting complex genetic networks, such as the lignocellulolytic system, and for advancing synthetic biology and strain improvement in *P. ostreatus* and related fungal species.

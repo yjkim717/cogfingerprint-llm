@@ -1,0 +1,5 @@
+## The Subscription Cliff and the Quest for Freedom
+
+It's 2020, and the relentless hum of subscription services has become the soundtrack to our digital lives. Lately, I've been staring down the barrel of an expiring Adobe Creative Cloud subscription, a familiar feeling tinged with a growing unease. It got me thinking: am I truly *owning* my work, or just renting it?
+
+I started poking around, researching alternatives like Scribus. The idea of exporting my InDesign projects—years of carefully crafted layouts—into an open-source format felt surprisingly liberating. It's a small act, maybe, but a quiet rebellion against the constant churn of recurring fees. A digital escape hatch, just in case. It makes you wonder what else we're unknowingly locking ourselves into.

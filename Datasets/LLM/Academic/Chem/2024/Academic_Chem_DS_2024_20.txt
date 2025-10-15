@@ -1,1 +1,0 @@
-This study employs density functional theory to investigate how amino acid-functionalized copper electrodes modulate the CO2 reduction pathway. Computational results reveal that molecular modifiers significantly lower the kinetic barriers for C–C coupling, steering selectivity toward valuable C2+ products under ambient electrocatalytic conditions.

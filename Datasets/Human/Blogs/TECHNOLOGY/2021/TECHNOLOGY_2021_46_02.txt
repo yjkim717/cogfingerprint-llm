@@ -1,0 +1,5 @@
+Year: 2021
+Author: WaldoOU812
+URL: https://www.reddit.com/r/AZURE/comments/n1y4ce/can_you_map_an_azure_storage_drive_via_gpo/
+
+Silly question time. Can you reliably map a drive to an Azure storage account file share, using GPO and the user credentials (i.e., not using the storage account key), without requiring the end user to manually authenticate to AzureAD every time they log on? I'd like to use a GPO to map the Azure file share, but am wondering how to get past this. Alternately, if you did end up having to use the storage key, does the end user still connect as themselves or as the storage account? I'm trying to wrap my head around what NTFS permissions would apply. Finally, if someone has a suggestion for a best practice on using GPO to map an Azure file share, I'd love to hear it.

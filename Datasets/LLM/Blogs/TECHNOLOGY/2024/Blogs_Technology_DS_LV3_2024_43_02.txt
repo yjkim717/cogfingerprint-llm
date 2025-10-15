@@ -1,0 +1,5 @@
+It’s 2024, and honestly, it feels like AI is everywhere—powerful, but sometimes a little overwhelming to integrate smoothly. That’s why I’m so excited to share something close to my heart: we’re open sourcing BaseMindAI Gateway.
+
+Think of it as your friendly neighborhood API gateway, designed specifically for AI services, with handy Kotlin client libraries to make development feel less like wrestling with complexity and more like creating something meaningful. I’ve felt the frustration of piecing together disparate tools, and I wanted to build a bridge—not just code, but a community.
+
+So here’s my invitation: join us. Whether you’re tweaking features or sharing ideas, let’s shape the future of AI, together. Because the best solutions aren’t built in isolation; they’re woven from our collective curiosity.

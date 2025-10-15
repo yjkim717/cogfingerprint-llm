@@ -1,0 +1,7 @@
+## A Quantum Chemical Investigation of Carbon Accretion to Ammonia: Implications for Interstellar Methylamine Formation
+
+**Abstract:** The observed abundance of methylamine (CH₃NH₂) in interstellar environments remains a challenge to astrochemical models, requiring efficient formation pathways. This study, employing high-level quantum chemical calculations, explores the viability of carbon accretion to ammonia (NH₃) as a potential route for methylamine synthesis within interstellar ices and gas-phase conditions. Specifically, we investigated the reaction mechanism involving the addition of a neutral carbon atom to ammonia, examining the potential energy surface and identifying key intermediates. Our results demonstrate that the direct addition of carbon to ammonia proceeds readily, leading to the formation of methanimine (CH₂NH) as a crucial intermediate. Subsequent isomerization of methanimine rapidly yields methylamine, exhibiting a significant thermodynamic driving force.  Calculated rate constants, considering interstellar temperatures (10-100 K), indicate that this pathway could contribute substantially to methylamine production in cold, dense regions. This novel mechanism, reliant on readily available interstellar constituents, offers a compelling alternative to previously proposed pathways and warrants further investigation through experimental validation and incorporation into astrochemical network models.
+
+
+
+**Keywords:** Carbon accretion, interstellar ices, quantum chemical calculations, methanimine, methylamine.

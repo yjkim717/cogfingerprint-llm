@@ -1,0 +1,5 @@
+Year: 2021
+Author: cecil721
+URL: https://www.reddit.com/r/CODWarzone/comments/l2fn0s/disconnect_from_host_when_playing_rebirth_island/
+
+When I play Warzone, it appears I periodically disconnect from the host when playing on the Rebirth Island map only. I can play on Verdansk just fine, but I seem to have an issue where I disconnect from the host in almost every game of Rebirth Island. Has anybody else had an issue similar to this? It is getting really frustrating.

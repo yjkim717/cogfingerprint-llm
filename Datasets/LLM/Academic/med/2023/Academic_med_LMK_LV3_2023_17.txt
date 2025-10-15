@@ -1,0 +1,15 @@
+Title: Optimizing Alzheimer's Disease Diagnosis: A Cost-Effective Two-Step Workflow Utilizing Plasma P-Tau217 for Amyloid-β Positivity Detection
+
+Abstract:
+
+Alzheimer's disease (AD) diagnosis has witnessed significant advancements with the integration of biomarker-based approaches. Among these, plasma phosphorylated tau217 (p-tau217) has emerged as a promising indicator for amyloid-β (Aβ) positivity, a hallmark of AD pathology. This study validates a two-step diagnostic workflow incorporating plasma p-tau217 as a preliminary screening tool to detect Aβ positivity in patients with mild cognitive impairment (MCI), thereby streamlining the diagnostic process.
+
+The proposed workflow involves an initial assessment of plasma p-tau217 levels, followed by confirmatory testing for Aβ positivity using established methods such as PET imaging or cerebrospinal fluid (CSF) analysis, but only for those with indeterminate or positive plasma p-tau217 results. This sequential strategy leverages the high sensitivity and specificity of plasma p-tau217 for Aβ pathology, as demonstrated in recent studies.
+
+Our analysis indicates that the implementation of this two-step workflow significantly reduces the necessity for confirmatory testing by approximately 40%, thereby minimizing the exposure of patients to invasive procedures and lowering diagnostic costs. The reduction in confirmatory testing is attributed to the ability of plasma p-tau217 to accurately identify individuals with a high likelihood of Aβ negativity, who can thus be exempted from further testing.
+
+The integration of plasma p-tau217 into the diagnostic workflow not only enhances the efficiency of AD diagnosis but also contributes to a more cost-effective management strategy for patients with MCI. By pre-selecting candidates for confirmatory testing, this approach optimizes resource allocation in clinical settings.
+
+The findings of this study support the adoption of plasma p-tau217 as a preliminary screening tool in the diagnostic workflow for AD. This strategy has the potential to transform the current diagnostic paradigm, making it more patient-centric and economically viable. As the global prevalence of AD continues to rise, the implementation of innovative, cost-effective diagnostic strategies is imperative. The proposed two-step workflow represents a significant step forward in this direction, aligning with the ongoing efforts to improve AD diagnosis and management.
+
+In conclusion, the utilization of plasma p-tau217 in a two-step diagnostic workflow offers a robust, cost-effective strategy for detecting Aβ positivity in MCI patients, thereby refining the diagnostic process and contributing to enhanced patient care and resource management in the context of Alzheimer's disease.

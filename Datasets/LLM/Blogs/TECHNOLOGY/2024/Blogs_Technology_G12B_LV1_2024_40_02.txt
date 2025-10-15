@@ -1,0 +1,7 @@
+ here:
+
+## The Bluetooth Dream That Faded
+
+It’s a strange feeling, seeing a promising feature just… vanish. I stumbled across a Bugzilla ticket recently detailing Firefox’s WebBluetooth implementation being marked "Wontfix." Remember the excitement around controlling Bluetooth devices directly from the web? So much potential for custom hardware integration! 
+
+Now, it seems that ship has sailed. It's a small thing, sure, but it leaves you wondering – what innovative pathways get abandoned along the way? Tech moves fast, but sometimes, I miss the feeling of genuine, exploratory possibility.

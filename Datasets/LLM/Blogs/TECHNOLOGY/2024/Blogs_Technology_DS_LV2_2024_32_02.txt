@@ -1,0 +1,3 @@
+It was just another quiet evening in my homelab when a faint, acrid smell hit me. My trusty Lenovo Tiny, the heart of my tiny workstation setup, had gone silent. Upon opening it, I found the RAM modules visibly scorched—a complete hardware failure.
+
+In 2024, we push these compact powerhouses so hard, often forgetting their physical limits. It’s a humbling reminder that even the most reliable tech has a breaking point. Has your own tiny workstation ever surprised you like this?

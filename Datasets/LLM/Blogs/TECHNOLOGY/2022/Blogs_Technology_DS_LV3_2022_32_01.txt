@@ -1,0 +1,5 @@
+It was one of those Monday mornings in 2022 when my coffee had gone cold before I even took a sip. After migrating our domain from *.local to *.net, every login screen taunted me with duplicate domain options—a ghost of our old infrastructure haunting our shiny new setup.
+
+As an IT veteran, I knew this wasn't just cosmetic clutter. That lingering *.local entry meant Active Directory hadn't fully let go, potentially causing authentication hiccups down the line. The solution? Some careful ADSI edit wizardry to clean up the metadata, especially crucial with our Exchange Server humming in the background.
+
+There's something deeply satisfying about digital spring cleaning—removing what no longer serves us to make room for smoother operations. That single, clean login prompt now feels like a fresh start, both for our systems and my Monday motivation.

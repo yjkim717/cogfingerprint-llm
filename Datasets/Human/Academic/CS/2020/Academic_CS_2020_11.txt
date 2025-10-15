@@ -1,0 +1,8 @@
+Author: Yuri Boykov
+Title: Image Segmentation Using Deep Learning: A Survey
+Paper ID: c7bbeaef75fa64c7e9cdf1b68bb487b9f8cd9a7d
+Year: 2020
+Author Index: 11
+
+Abstract:
+Image segmentation is a key task in computer vision and image processing with important applications such as scene understanding, medical image analysis, robotic perception, video surveillance, augmented reality, and image compression, among others, and numerous segmentation algorithms are found in the literature. Against this backdrop, the broad success of deep learning (DL) has prompted the development of new image segmentation approaches leveraging DL models. We provide a comprehensive review of this recent literature, covering the spectrum of pioneering efforts in semantic and instance segmentation, including convolutional pixel-labeling networks, encoder-decoder architectures, multiscale and pyramid-based approaches, recurrent networks, visual attention models, and generative models in adversarial settings. We investigate the relationships, strengths, and challenges of these DL-based segmentation models, examine the widely used datasets, compare performances, and discuss promising research directions.

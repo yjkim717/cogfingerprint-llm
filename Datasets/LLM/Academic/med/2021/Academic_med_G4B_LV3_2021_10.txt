@@ -1,0 +1,5 @@
+Here’s a draft abstract based on the provided summary and keywords, aiming for a formal academic style and approximately 133 words:
+
+**Abstract**
+
+Glioblastoma multiforme (GBM) presents a formidable therapeutic challenge, largely driven by the aggressive tumor microenvironment. This study investigates the utility of dynamic susceptibility contrast (DSC)-MRI and principal component analysis (PCA) in characterizing tumor acidity within GBM patients. Utilizing a novel machine learning model, we demonstrate that PCA of DSC data effectively quantifies regional tumor acidity, revealing a pronounced trend of increased acidification in peritumoral zones. These findings suggest a critical role for tumor acidity as a potential biomarker and therapeutic target. Specifically, the cest-epi approach, integrated with PCA, provides a robust method for assessing microenvironmental shifts. Further investigation into the correlation between tumor acidity and clinical outcomes is warranted. This research highlights the potential of advanced imaging techniques to inform personalized treatment strategies for GBM in 2021.

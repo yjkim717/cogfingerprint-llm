@@ -1,0 +1,5 @@
+Year: 2022
+Author: DomHE553
+URL: https://www.reddit.com/r/pcmasterrace/comments/u26a9u/wanting_to_upgrade_my_cooler/
+
+Hi guys, I have finally been able to rejoin the Master Race ;) last year when I built myself a new PC (first diy as well, proud af of that one!) But now I changed my setup a little bit and my PC changed its' spot from under the desk behind a small cabinet to basically on my desk. It has a nice glass side and some LED's (will definitely come back for some advice for that at some point ) so I wanted to make use of that. The only major downside, the noise! So far I had it running (it being Ryzen 5 3600x on a MSI b450 tomahawk max II) with the stock fan that came with the ryzen as some people told me that it is propably more than enough for most of my use cases (very light gaming, music production, some photo, video editing, ...) But now I think I'd rather upgrade. Can I just buy any cooler for any processor? what data do I have to keep in mind when looking for a new cooler? I was thinking about something like a be quiet! pure rock 2... would that fit in my rig AND my exprectations? SO thankful for any answer and/or advice!

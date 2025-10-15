@@ -1,0 +1,5 @@
+"Migrating to a More Efficient AD Environment (2020 Reflection)
+
+As I looked back on the server 2012 R2 domain environment I inherited, I realized it was time for an overhaul. The login script that mapped network drives based on office location was a relic of the past. However, there was a glaring issue - office codes weren't stored in Active Directory (AD), making it a manual process to update. I knew I had to find a better way.
+
+By leveraging Group Policy and organizing our users into relevant Organizational Units (OUs), I envisioned a more streamlined approach. I started by updating our AD schema to include office codes, and then created targeted GPOs to map drives based on OU membership. It wasn't an overnight process, but the end result was worth it. The login script was retired, and our environment became more efficient and scalable. It was a valuable lesson in the importance of aligning our technology with our organizational needs."

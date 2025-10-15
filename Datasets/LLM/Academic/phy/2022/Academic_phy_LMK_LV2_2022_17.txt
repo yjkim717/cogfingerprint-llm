@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+Title: Advances in Geometric Phase Metasurfaces: A Review
+
+Abstract: 
+The geometric phase, a fundamental concept in optics, has garnered significant attention in recent years due to its potential applications in manipulating light at the subwavelength scale. This review examines the development of the Pancharatnam-Berry phase and its role in gradient phase modulation. We discuss the recent advances in geometric phase metasurfaces, highlighting their ability to control optical waves with high precision. The current state of research in this field is summarized, and the prospects for future applications are outlined, demonstrating the significance of geometric phase metasurfaces in modern optics research (2022).

@@ -1,0 +1,9 @@
+Title: Avian Influenza Outbreaks in EU/EEA Countries and the UK: Risk Assessment and Biosecurity Implications
+
+Abstract:
+
+Between September and December 2021, the European Union/European Economic Area (EU/EEA) countries and the United Kingdom (UK) experienced a significant surge in avian influenza outbreaks, primarily attributed to highly pathogenic avian influenza viruses (HPAIV) of the H5N1 and H5N6 subtypes. This report provides a comprehensive summary of the epidemiological situation, highlighting the spatial distribution, transmission dynamics, and risk factors associated with these outbreaks.
+
+The analysis revealed a marked increase in the number of reported outbreaks in poultry farms and wild bird populations, with a notable clustering of cases in specific regions. The H5N1 subtype was identified as the predominant strain, accounting for the majority of reported outbreaks, while H5N6 was also detected, albeit to a lesser extent. The transmission of HPAIV to poultry farms was largely attributed to the introduction of infected wild birds, emphasizing the need for enhanced biosecurity measures to mitigate the risk of virus transmission.
+
+The findings underscore the importance of implementing stringent biosecurity protocols, including reinforced farm-level measures, enhanced surveillance, and improved risk communication strategies. The report highlights the need for continued vigilance and cooperation among EU/EEA countries and the UK to prevent the spread of HPAIV and minimize the impact on poultry production and public health. The results of this analysis provide valuable insights for policymakers and stakeholders, informing the development of evidence-based strategies to mitigate the risks associated with avian influenza outbreaks.

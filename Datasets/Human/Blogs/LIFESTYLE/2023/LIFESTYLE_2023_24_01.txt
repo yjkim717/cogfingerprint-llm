@@ -1,0 +1,5 @@
+Year: 2023
+Author: R1ch0C
+URL: https://www.reddit.com/r/SQL/comments/11gcsw9/sysadmin_to_dba/
+
+Hi all, I'm sorry if you hate getting this question, but any help would be appreciated. I'm currently in a sysadmin position, with about 9 years experience. I've realised I enjoy working with databases and want to get more specialised, so I'd like to get into a dba position. Do you think it's possible to go from my role to a dba role? As part of my job, I have full access to our sql server databases, and have had quite a bit of hands on experience over the years. My problem is that I'm not 100% sure of what exactly the day to day of a DBA is like, so I'm not learning as fast as I would be if I was being tasked with things a DBA would be tasked with. I decided I'll try and learn some sql and go through the Microsoft azure DBA exams. But at what point am I ready to start actually thinking about job hunting? Is there anything you can recommend for me to look into? I'm keen to learn what I can, but also not fall into a trap of learning forever and never actually breaking into the field. Thanks!

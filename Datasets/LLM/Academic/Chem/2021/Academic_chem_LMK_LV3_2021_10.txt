@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Water-Catalyzed Formaldehyde Formation via Carbon Atom Reactivity on Amorphous Solid Water: Implications for Interstellar Chemistry (2021)
+
+Abstract: 
+The reaction of carbon atoms with amorphous solid water (ASW) is investigated as a potential pathway for formaldehyde formation in interstellar clouds. Utilizing a combination of experimental and theoretical approaches, we demonstrate that a water-catalyzed proton transfer mechanism facilitates the efficient synthesis of formaldehyde on ASW surfaces. Our findings suggest that this reaction pathway is a significant contributor to the observed formaldehyde abundances in cold interstellar environments, highlighting the crucial role of water in modulating carbon atom reactivity and astrochemical reaction networks.

@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In a 2024 cohort study, we evaluated the diagnostic accuracy of a plasma phosphorylated tau 217 immunoassay for identifying Alzheimer disease pathology. Our results demonstrate the assay's potential as a reliable biomarker, exhibiting high sensitivity and specificity in detecting Alzheimer disease, thus advancing the field of Alzheimer diagnostics."

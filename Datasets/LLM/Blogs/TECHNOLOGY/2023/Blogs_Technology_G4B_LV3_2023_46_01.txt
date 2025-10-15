@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone:
+
+---
+
+**The Ghostly Group Membership**
+
+There’s something incredibly frustrating about a script that *should* work, yet stubbornly returns nothing. I was wrestling with PowerShell this week, trying to export a list of Active Directory group members containing a specific keyword – a seemingly simple task. Hours of scripting, and a perfectly executed command… just an empty file. It felt like chasing a digital ghost.  Sometimes, tech problems aren't about the code itself, but the quiet persistence of unexpected issues.

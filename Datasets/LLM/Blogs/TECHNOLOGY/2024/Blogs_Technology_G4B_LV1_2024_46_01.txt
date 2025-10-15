@@ -1,0 +1,15 @@
+Okay, here’s a reflective blog post inspired by the provided summary, aiming for a conversational tone and around 207 words, set in 2024:
+
+---
+
+**The Day the Email Almost Broke Everything**
+
+Okay, so I was chatting with a colleague the other day, and he told me the most bizarre story about a recent IT incident. It reminded me how easily even the most sophisticated tech can go sideways, and honestly, it gave me a little shiver. 
+
+Apparently, a new sales admin – let’s call her Sarah – was sending *massive* file attachments via email. We’re talking huge CAD drawings, detailed marketing presentations, the whole shebang. Now, Exchange servers are built to handle a lot, but these constant, oversized attachments were triggering a cascade of errors. 
+
+The IT team started seeing Exchange crashes, and then the shadow copies – those backups – were getting overwhelmed. Before you know it, data was being lost. It wasn’t a dramatic server meltdown, just a slow, grinding erosion of information. 
+
+Ultimately, it led to a difficult decision and Sarah’s departure. It really highlighted how critical it is to have clear file-sharing guidelines and to educate users on best practices, especially when dealing with file servers and email attachments. 
+
+It’s a good reminder that technology is amazing, but it's only as reliable as the people using it, and a little bit of foresight can save a whole lot of headaches – and data!

@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"Enhancing Electrocatalytic Water Splitting through Lattice Engineering: A Study on Cobalt-Doped SrIrO3 Perovskite Catalysts. In 2024, our research demonstrates that strategic cobalt-doping in SrIrO3 perovskite-type catalysts significantly enhances their electrocatalytic activity for acidic oxygen evolution reaction (OER). By activating surface lattice oxygen and optimizing adsorbate binding energy, cobalt-doping fosters a more efficient OER pathway. Our findings underscore the potential of lattice engineering in designing high-performance electrocatalysts for sustainable energy applications, paving the way for improved electrocatalytic water splitting technologies."

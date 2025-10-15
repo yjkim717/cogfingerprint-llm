@@ -1,0 +1,5 @@
+>## The Quiet Evolution of My Minecraft Server
+
+It's funny, isn't it? How a simple block-building game can become a real passion project. I’ve been running a vanilla survival multiplayer (SMP) Minecraft server for a while now, and lately, I've been thinking a lot about keeping things fresh. The initial rush of building and exploring fades, and players start looking for *something* more. 
+
+That’s led me down the rabbit hole of Spigot plugins. It's not about straying from the vanilla charm, but about gently nudging the late-game progression. Finding that balance – adding challenge without overpowering the core experience – has been a surprisingly thoughtful process. It’s a little digital world I'm curating, and I want everyone to enjoy it!

@@ -1,0 +1,5 @@
+Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a biology-focused publication in 2024:
+
+**Abstract**
+
+Understanding the dynamics of DNA double-strand break (DSB) repair is crucial for maintaining genomic integrity. Traditional models of non-homologous end-joining (NHEJ) often fail to fully capture the complex, heterogeneous movement of DSB ends. Here, we propose a novel framework incorporating anomalous diffusion, specifically subdiffusive fractional Brownian motion punctuated by infrequent, long-range translocation events, to describe DSB end dynamics. This model predicts that such heterogeneous movement contributes to the formation of dicentric chromosome lesions, a hallmark of NHEJ-mediated misrepair. Our simulations suggest that deviations from canonical diffusion significantly increase the probability of these deleterious outcomes, highlighting a previously unappreciated mechanism driving genomic instability.

@@ -1,0 +1,7 @@
+Okay, here's a blog post draft based on your summary and instructions:
+
+---
+
+**Hunting for Signals in the Noise**
+
+It’s weird, isn’t it? As a grad student in 2022, I was completely obsessed with the idea of building “quant positions” – basically, automated ways to analyze investment projects. I spent hours wrestling with web scraping, trying to pull data and then using semantic analysis to find hidden patterns. It felt like searching for a needle in a digital haystack.  Honestly, a lot of it was frustrating, but those late nights trying to teach a computer to “see” what I saw? It was a strangely compelling challenge.

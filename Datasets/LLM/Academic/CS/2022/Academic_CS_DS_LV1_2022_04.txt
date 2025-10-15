@@ -1,0 +1,5 @@
+**Abstract**
+
+We address the problem of designing scoring rules for eliciting multi-dimensional effort from strategic agents in algorithmic mechanism design. While optimal mechanisms in such settings are often complex and computationally intractable, we propose two novel, efficiently computable families of scoring rules that yield strong approximation guarantees. First, we introduce the *Exponential Threshold Rule*, which applies a smooth, exponentially weighted function to a thresholded aggregate of agent outputs. Second, we present the *Multiplicative Separable Rule*, which decomposes the scoring function into independent, task-specific components. We prove that both mechanisms achieve a constant-factor approximation to the optimal welfare for any submodular or gross substitutes objective function, irrespective of the effort cost structure's curvature. Our analysis demonstrates that these rules are robust to private agent cost information and can be implemented with minimal communication overhead. This work significantly expands the toolbox for approximately optimal incentive provision in complex, multi-task environments.
+
+*(Word Count: 149)*

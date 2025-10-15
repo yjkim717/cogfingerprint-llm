@@ -1,0 +1,7 @@
+The infamous leap year debacle - a calendar conundrum that had me scratching my head in 2020. As a sports enthusiast and avid runner, I'm always keeping track of my training schedule. But, I found myself stuck on a seemingly simple task: determining the number of days in a given month. Little did I know, it was about to become a programming puzzle.
+
+As I sat down to write a Python script to solve this problem, I realized it wasn't as straightforward as I thought. I wanted the program to take user input - a month and year - and then output the correct number of days. Easy peasy, right? Wrong. The twist? Accounting for leap years.
+
+I started by defining a function to validate the user's date input. This involved checking if the month was between 1 and 12, and if the year was a valid integer. Once I had my input validated, I could start working on the logic to determine the number of days in the given month. I used a simple if-else statement to handle the months with 31 days (January, March, May, etc.), and then tackled the tricky ones - February and the months with 30 days.
+
+As I worked through the problem, I realized that writing this script wasn't just about solving a programming challenge; it was about breaking down a complex task into manageable parts. Much like training for a marathon, it's the small, incremental steps that ultimately lead to success. And, as I finally got my script working, I felt a sense of accomplishment that had nothing to do with coding - and everything to do with perseverance.

@@ -1,0 +1,7 @@
+Here is a formal academic-style abstract:
+
+Title: Investigating Hydrogenation Reactions of CO on Interstellar Dust Grains
+
+Abstract:
+
+The hydrogenation of carbon monoxide (CO) on interstellar dust grains is a crucial process in the formation of complex organic molecules. Using laboratory experiments, we demonstrate that CO embedded in amorphous solid water (ASW), a key component of the ice mantle on dust grains, undergoes hydrogenation reactions at elevated temperatures. Our results show that these reactions occur at temperatures up to ∼70 K, significantly higher than previously thought. The ASW matrix plays a crucial role in facilitating the reaction, allowing hydrogen atoms to diffuse and react with CO. These findings have important implications for our understanding of the chemistry occurring on interstellar dust grains and the formation of complex molecules in star-forming regions. The results provide new insights into the astrochemical processes that shape the composition of interstellar ices. (2020)

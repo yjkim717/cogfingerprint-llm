@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+"In a 2021 study, we investigated the reaction of carbon atoms with amorphous solid water (ASW), a crucial process in astrochemical environments. Our results demonstrate that this reaction efficiently yields formaldehyde via a water-catalyzed proton transfer mechanism. The presence of ASW facilitates the formation of formaldehyde by enabling a barrierless reaction pathway. This finding has significant implications for understanding the origins of interstellar formaldehyde and highlights the role of water in modulating carbon atom reactivity in astrophysical contexts."

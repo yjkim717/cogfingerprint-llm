@@ -1,0 +1,5 @@
+Year: 2022
+Author: 1PG22n
+URL: https://www.reddit.com/r/NoteTaking/comments/xw3ojx/a_note_taking_app_able_to_search_by_highlighter/
+
+Hi /r/NoteTaking! A lot of note taking apps have highlighters with all kinds of colours available. I can see myself trying to use different colours for different things, e.g. green for things to remember, or red means ask the teacher, etc. So is there an app that would actually let me search for the red ones when I'm talking to the teacher? I will be mostly working with PDF textbooks. Some of them are scans (so text hardcoded into images), some are actual text PDFs. But it shouldn't matter if I will be searching simply for "red highlighter".

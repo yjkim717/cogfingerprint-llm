@@ -1,0 +1,8 @@
+Author: T. Damour
+Title: Strong-field scattering of two black holes: Numerical relativity meets post-Minkowskian gravity
+Paper ID: 3a13eece052fa5baa948efe4f8a032cef079e4aa
+Year: 2022
+Author Index: 7
+
+Abstract:
+We compare numerical relativity (NR) data on the scattering of equal-mass, non-spinning binary black holes to various analytical predictions based on post-Minkowskian (PM) results. While the usual sequence of PM-expanded scattering angles shows a rather poor convergence towards NR data, we find that a reformulation of PM information in terms of Effective-One-Body radial potentials leads to remarkable agreement with NR data, especially when using the radiation-reacted 4PM information. Using Firsov's inversion formula we directly extract, for the first time, from NR simulations a (radiation-reacted) gravitational potential describing the scattering of equal-mass, non-spinning binary black holes. We urge the NR community to compute more sequences of scattering simulations, so as to extend this knowledge to a wider region of parameter space.

@@ -1,0 +1,5 @@
+Title: Cognitive Implications of Iron-Deficiency Anemia in Women: A Systematic Review of P300 Evoked Potentials as a Diagnostic Tool
+
+Abstract:
+
+Iron-deficiency anemia (IDA) is a prevalent nutritional disorder associated with cognitive impairment in women. The P300 evoked potential, a neurophysiological marker of cognitive processing, has emerged as a potential tool for assessing cognitive function in IDA patients. This systematic review synthesizes current evidence on the application of P300 in detecting subclinical cognitive decline in women with IDA. A comprehensive search of major databases yielded studies investigating the relationship between IDA, P300 latency and amplitude, and cognitive performance. The findings suggest that IDA is linked to prolonged P300 latency and reduced amplitude, indicative of impaired cognitive processing. The use of P300 as a diagnostic adjunct may enable early detection of cognitive impairment, facilitating timely interventions. The review underscores the need for further research to standardize P300 protocols and elucidate the underlying mechanisms of IDA-related cognitive decline. (2022)

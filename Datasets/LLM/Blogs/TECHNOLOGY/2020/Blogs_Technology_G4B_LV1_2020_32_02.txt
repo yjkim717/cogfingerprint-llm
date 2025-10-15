@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by the summary, aiming for a conversational tone and around 102 words, set in 2020:
+
+---
+
+**Pixel Problems & FreeBSD Frustrations**
+
+It’s weird, right? You build this incredible network with pfSense, thinking you’ve conquered the digital world. Then, you discover a tiny, stubbornly blank LCD display on your Supermicro server. I spent a frustrating week in 2020 wrestling with FreeBSD, LCDproc, and a whole lot of online forums. Turns out, getting that display to show anything beyond a solid black was a surprisingly deep dive.  Sometimes, the biggest challenges aren’t the grand network design, but the little details.

@@ -1,0 +1,9 @@
+Title: Constraining Gauss-Bonnet Gravity with the Shadow of Rotating Black Holes: Insights from M87* Observations
+
+Abstract:
+
+The Gauss-Bonnet gravity theory, a higher-curvature extension of general relativity, has garnered significant attention in recent years due to its potential to resolve long-standing issues in gravitational physics. In this study, we investigate the observational constraints on Gauss-Bonnet gravity using the shadow cast by four-dimensional rotating black holes. Specifically, we derive the shadow angular diameter for rotating black holes in Gauss-Bonnet gravity and analyze its dependence on the metric parameter α. Our results indicate that the shadow angular diameter is sensitive to variations in α, which provides a novel probe for testing Gauss-Bonnet gravity.
+
+Using the Event Horizon Telescope (EHT) observations of M87*, we constrain the value of α by comparing the observed shadow angular diameter with our theoretical predictions. Our analysis reveals that the M87* observations impose a stringent bound on α, thereby providing a robust test of Gauss-Bonnet gravity. The constrained value of α is found to be consistent with the expectations from theoretical considerations, lending credence to the viability of Gauss-Bonnet gravity as a viable alternative to general relativity.
+
+Our findings demonstrate the power of black hole shadow observations in probing the underlying gravitational theory and highlight the importance of continued observational efforts to further constrain the parameter space of Gauss-Bonnet gravity. The results presented in this study contribute to the ongoing efforts to test and refine our understanding of gravity in the strong-field regime, with implications for our understanding of the universe.

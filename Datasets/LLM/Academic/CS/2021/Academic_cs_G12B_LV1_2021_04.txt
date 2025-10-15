@@ -1,0 +1,13 @@
+absract:
+
+**Mechanism Design via Algorithm Design: A Polynomial-Time Reduction with Bernoulli Factories**
+
+The problem of designing mechanisms that elicit truthful reports from self-interested agents while maximizing social welfare remains a central challenge in algorithmic game theory. Existing approaches often rely on complex iterative techniques or suffer from limitations in computational tractability, particularly concerning incentive compatibility guarantees. This work introduces a novel framework for mechanism design by formally reducing it to the problem of algorithm design, offering a significant advancement in both efficiency and expressiveness. 
+
+Our core contribution is a polynomial-time reduction that leverages the concept of *Bernoulli Factories*. A Bernoulli Factory, in this context, is a randomized algorithm that, given a query, produces a Bernoulli random variable representing a binary outcome. By strategically constructing and composing these factories, we demonstrate the ability to precisely enforce incentive compatibility within the designed mechanism. This circumvents the need for iterative refinement procedures common in traditional mechanism design. 
+
+Crucially, our reduction achieves *exact* incentive compatibility, meaning that no agent can benefit from misreporting their private information.  Prior work often relies on approximations or weaker notions of incentive compatibility. We rigorously prove the correctness of our reduction, demonstrating that a mechanism designed via our algorithm design paradigm achieves optimal social welfare given truthful reports. The polynomial-time complexity of the reduction ensures practical applicability, broadening the scope of mechanism design to problems previously intractable. We believe this framework offers a powerful new perspective on mechanism design, opening avenues for further research into the interplay between algorithmic techniques and strategic agent behavior.
+
+
+
+

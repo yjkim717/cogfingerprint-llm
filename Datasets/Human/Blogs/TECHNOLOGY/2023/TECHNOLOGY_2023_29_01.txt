@@ -1,0 +1,5 @@
+Year: 2023
+Author: Nuoji
+URL: https://www.reddit.com/r/ProgrammingLanguages/comments/11hil82/dont_listen_to_language_designers/
+
+I realized that my most important lesson I learned, and the advice I’d like to pass on to other language designers is simply this: _Don’t take advice from other language designers_ Nowhere else have I encountered as much bad advice as the ones language designers give to other language designers. The typical advice I am talking about would go like this: “I did X and it’s great” or: “X is the worst thing you could do*. Unfortunately *in practice* it turns out language designers (a) think in the context of their particular language and also (b) too often draw conclusions from their narrow experiences in the middle or even beginning of their language design and compiler construction. While talking to other language designers is very helpful, just keep in mind to that what applies to one language might be really bad advice for another.

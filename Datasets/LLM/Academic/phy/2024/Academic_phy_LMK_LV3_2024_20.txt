@@ -1,0 +1,4 @@
+Title: Conformal Freeze-in Dark Matter via Neutrino Portal Interactions
+
+Abstract:
+We investigate a dark sector model grounded in Conformal Field Theory (CFT), interacting with the Standard Model through the neutrino portal. Our analysis demonstrates that conformal freeze-in production can successfully generate the observed dark matter relic density. By examining the parameter space and imposing observational constraints, we identify viable regions consistent with current experimental limits. This CFT-based framework offers a novel and robust mechanism for dark matter production, with potential implications for future direct detection experiments and cosmological observations in 2024 and beyond.

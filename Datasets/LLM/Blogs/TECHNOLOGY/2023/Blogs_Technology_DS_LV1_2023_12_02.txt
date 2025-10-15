@@ -1,0 +1,3 @@
+It’s funny how a tiny symbol can spark such big debates. Just last week, I found myself deep in an Elixir codebase, wrestling with a stubborn pipe chain. The problem? Argument position. I kept wrapping functions with that little `&`—you know, `&func(&2, &1)`—just to make things fit. It worked, but something felt off.
+
+Was this truly idiomatic Elixir, or just a clever hack? I thought about clarity, about future developers reading my code. Maybe there’s a cleaner way—a custom function, or restructuring the data earlier. In 2023, with so much focus on maintainability, it’s worth asking: are we writing for the machine, or for each other? Sometimes the simplest solutions aren’t in the syntax, but in stepping back and rethinking the flow.

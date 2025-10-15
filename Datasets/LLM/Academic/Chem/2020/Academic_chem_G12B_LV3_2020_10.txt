@@ -1,0 +1,5 @@
+ Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a chemistry research abstract, and appropriate for a 2020 publication:
+
+**Abstract**
+
+The observed interstellar abundance ratio of Z- and E-cyanomethanimine (NCCNH) isomers remains a challenge for astrochemical models. This work leverages high-level quantum chemical calculations, including dipole moment analysis, to investigate the gas-phase reactivity of these isomers within the conditions prevalent in interstellar molecular clouds. Our findings reveal significant differences in reaction pathways and rates, particularly concerning dissociative recombination. We propose a "relative dipole principle," suggesting that the isomeric dipole moment disparity strongly influences the susceptibility to radiative and collisional processes. The calculated abundance ratio deviates from previously reported observational data, prompting a reassessment of current astrochemical models and highlighting the crucial role of isomeric properties in determining molecular abundances in the interstellar medium.

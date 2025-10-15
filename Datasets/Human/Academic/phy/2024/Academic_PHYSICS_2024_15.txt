@@ -1,0 +1,8 @@
+Author: Liting Yang
+Title: Electrochemical Switching of Electromagnetism by Hierarchical Disorder Tailored Atomic Scale Polarization
+Paper ID: 03e3e269f47a11676edb117e476be395cc38d25e
+Year: 2024
+Author Index: 15
+
+Abstract:
+High‐frequency electronic response governs a broad spectrum of electromagnetic applications from radiation protection, and signal compatibility, to energy recovery. Despite various efforts to manage electric conductivity, dynamic control over dielectric polarization for real‐time electromagnetic modulation remains a notable challenge. Herein, an electrochemical lithiation‐driven hierarchical disordering strategy is demonstrated for actively modulating electromagnetic properties. The controllable formation and diffusion of coherent interfaces and cation vacancies tailor the coupling of atomic electric field and thus the locally polarized domains, which leads to the reversible electromagnetic transparency/absorption switching with a tunable range of −0.8–−20.4 dB for the reflection loss and a broad operation bandwidth of 4.6 GHz. Compared to traditional methods of heteroatomic doping, hydrogenation, mechanical deformation, and phase transition, the electrochemical strategy shows a larger regulation scope of dielectric permittivity with the maximum increase ratios of 260% and 1950% for real and imaginary parts, respectively. This enables the construction of various device architectures including the adaptive window and pixelated metasurface. The results offer opportunities to achieve intelligent electromagnetic devices and pave an avenue to rejuvenate various electromagnetic functions of semiconductive oxides.

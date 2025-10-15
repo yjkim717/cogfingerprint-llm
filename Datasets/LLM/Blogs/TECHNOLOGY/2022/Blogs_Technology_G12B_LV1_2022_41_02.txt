@@ -1,0 +1,7 @@
+>## The Quest for Pocket Monsters & Custom ROMs
+
+It’s funny the paths curiosity can lead you down. Lately, I’ve been wrestling with a slightly peculiar problem: Pokemon Go. Not catching 'em all, necessarily, but *where* to catch them all. See, my old tablet, a Samsung Galaxy Tab Pro 8.4, is… well, it’s officially dead in the water for Pokemon Go. The dreaded "device not supported" message.
+
+Naturally, my brain jumped to the internet’s usual solution: custom ROMs. Specifically, LineageOS. Could flashing a custom Android version breathe new life into this old tablet and bypass those pesky device checks? It's a rabbit hole of flashing guides and forum threads, but a tempting one.
+
+It also got me thinking about the broader cycle of tech. We’re so quick to upgrade, discarding perfectly functional devices. Is it worth the effort to resurrect something just for a game? And what affordable Android options are even out there these days that *are* supported? A quest for digital pocket monsters has become a reflection on tech obsolescence – who knew?

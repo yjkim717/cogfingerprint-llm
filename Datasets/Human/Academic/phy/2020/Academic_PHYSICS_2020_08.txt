@@ -1,0 +1,8 @@
+Author: C. Rovelli
+Title: Stable Facts, Relative Facts
+Paper ID: 7784ea9e7e4fedd284b3f33210776f2308db9c69
+Year: 2020
+Author Index: 8
+
+Abstract:
+Facts happen at every interaction, but they are not absolute: they are relative to the systems involved in the interaction. Stable facts are those whose relativity can effectively be ignored. In this work, we describe how stable facts emerge in a world of relative facts and discuss their respective roles in connecting quantum theory and the world. The distinction between relative and stable facts resolves the difficulties pointed out by the no-go theorem of Frauchiger and Renner, and is consistent with the experimental violation of the Local Friendliness inequalities of Bong et al.. Basing the ontology of the theory on relative facts clarifies the role of decoherence in bringing about the classical world and solves the apparent incompatibility between the ‘linear evolution’ and ‘projection’ postulates.

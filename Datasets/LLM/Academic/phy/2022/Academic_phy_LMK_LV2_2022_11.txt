@@ -1,0 +1,7 @@
+Title: Constructing an Orbiting Star in Asymptotically AdS Spacetime via AdS/CFT Correspondence
+
+Abstract:
+
+We propose a novel method to create a star orbiting in asymptotically Anti-de Sitter (AdS) spacetime by leveraging the AdS/CFT correspondence. By mapping the bulk geometry to a strongly coupled quantum field theory on the boundary, we demonstrate that a scalar field in the bulk can be used to construct a star-like configuration. The asymptotically AdS spacetime is shown to be stable under perturbations, allowing for the orbiting star to be sustained. Utilizing the correspondence, we derive the boundary conditions necessary to support the orbiting star, and investigate the resulting bulk geometry. Our construction provides a new framework for exploring the interplay between gravity, quantum field theory, and the AdS/CFT correspondence. The proposed method has implications for understanding the behavior of complex systems in curved spacetime, and may shed new light on the holographic principle.
+
+Keywords: AdS/CFT correspondence, asymptotically AdS spacetime, quantum field theory, scalar field, bulk geometry.

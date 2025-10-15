@@ -1,0 +1,5 @@
+Title: Investigating the Chemistry of Cyanomethanimine Isomers in Interstellar Environments: A Combined Ab Initio and Astrochemical Modeling Approach
+
+Abstract:
+
+The chemistry of Z- and E-cyanomethanimine in interstellar environments is investigated using a synergistic approach combining ab initio quantum chemical calculations and astrochemical modeling. The study focuses on elucidating the isomer abundances of cyanomethanimine, a key prebiotic molecule, in various interstellar conditions. High-level ab initio calculations are employed to determine the thermodynamic and kinetic properties of the isomers, while astrochemical models are used to simulate their formation and destruction pathways in interstellar space. The results provide insights into the relative abundances of Z- and E-cyanomethanimine and their dependence on environmental factors, such as temperature and density. The findings have significant implications for understanding the chemistry of nitrogen-bearing molecules in interstellar environments and the origins of prebiotic molecules. (2020)

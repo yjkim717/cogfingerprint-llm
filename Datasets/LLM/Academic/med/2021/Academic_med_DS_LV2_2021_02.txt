@@ -1,0 +1,17 @@
+Of course. Here is a formal academic abstract written in the style of a 2021 medical research paper, based on the provided summary and keywords.
+
+***
+
+**Title:** Plasma Phosphorylated Tau at Threonine 231 as an Early and Robust Biomarker of Incipient Alzheimer’s Disease Pathology
+
+**Abstract**
+
+The escalating global prevalence of Alzheimer’s disease (AD) underscores the critical need for accessible, cost-effective, and sensitive biomarkers capable of detecting the underlying neuropathological processes in their earliest, pre-symptomatic stages. The current diagnostic paradigm, heavily reliant on cerebrospinal fluid (CSF) assays and positron emission tomography (PET) imaging for amyloid-β (Aβ) and tau, is limited by its invasiveness, high cost, and limited scalability, hindering widespread screening and early intervention. Consequently, a significant research focus has shifted towards validating blood-based biomarkers that can accurately reflect central nervous system pathology. This study comprehensively investigates the diagnostic and prognostic utility of plasma phosphorylated tau at threonine 231 (p-tau231) as a specific biomarker for AD.
+
+We conducted a multi-centre, cross-sectional and longitudinal cohort study involving cognitively unimpaired individuals, patients with mild cognitive impairment (MCI), and those with clinically diagnosed AD dementia. Plasma p-tau231 concentrations were measured using a novel, ultrasensitive single-molecule array (Simoa) immunoassay. The primary objectives were to determine the accuracy of p-tau231 in differentiating AD from other neurodegenerative disorders and to delineate its temporal trajectory in relation to established biomarkers of Aβ pathology, as measured by [^18F]florbetapir PET.
+
+Our findings demonstrate that plasma p-tau231 levels are significantly elevated in individuals on the AD continuum compared to healthy controls and patients with non-AD neurodegenerative conditions, exhibiting high diagnostic specificity and sensitivity. Crucially, our longitudinal data reveal that the dynamic increase in plasma p-tau231 precedes the established threshold for amyloid PET positivity. This indicates that p-tau231 elevation is an early event in the AD pathological cascade, detectable in the blood during the preclinical phase. Furthermore, p-tau231 concentrations showed a strong correlation with Aβ PET standard uptake value ratios (SUVR) and were predictive of subsequent cognitive decline in the MCI cohort.
+
+In conclusion, this research provides robust evidence that plasma p-tau231 is a leading candidate for an early and accessible blood-based biomarker of AD. Its ability to identify AD pathology prior to widespread Aβ deposition, as measured by PET, positions it as a powerful tool for primary prevention trials, patient stratification, and monitoring disease-modifying therapies. The validation of p-tau231 paves the way for a new era of large-scale screening and earlier, more targeted therapeutic interventions in Alzheimer's disease.
+
+(Word Count: 397)

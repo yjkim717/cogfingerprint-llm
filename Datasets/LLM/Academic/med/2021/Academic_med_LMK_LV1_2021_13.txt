@@ -1,0 +1,5 @@
+Title: Revisiting Food Enzyme Safety Assessments: EFSA's Updated Guidance and Implications for Risk Management
+
+Abstract:
+
+In 2021, the European Food Safety Authority (EFSA) released an updated guidance document for food enzyme authorization applications, enhancing the framework for evaluating the safety of these substances in the food chain. The revised guidelines emphasize the need for comprehensive data on the enzyme's source, production process, and physicochemical characteristics, as well as robust toxicological and dietary exposure assessments. Notably, the guidance underscores the importance of assessing allergenicity and provides detailed recommendations for conducting in vitro and in vivo studies. By strengthening the evidence base for food enzyme safety evaluations, EFSA's updated guidance is poised to improve risk management practices and inform regulatory decision-making. This development is particularly significant in the context of evolving food production practices and emerging trends in consumer behavior, highlighting the need for continued vigilance in ensuring the safety of the food supply.

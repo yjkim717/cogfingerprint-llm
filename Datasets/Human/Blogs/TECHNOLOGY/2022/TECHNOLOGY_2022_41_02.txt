@@ -1,0 +1,5 @@
+Year: 2022
+Author: cecil721
+URL: https://www.reddit.com/r/PokemonGoSpoofing/comments/ucfg9q/lineageos_on_currently_unsupported_device/
+
+Hello everyone, I have a question regarding the use of a currently outdated device that I may potentially install LineageOS on. I have a Samsung Galaxy Tab Pro 8.4, which is not listed as "supported". At best, the Stock rom supports Android 4.4, which itself is not compatible. My question is, if I update my tablet to LineageOS w/ android version >=6, would that suffice, or would POGO check the actual device. Would I be better off just getting an older Android phone/tablet? And if so, does anyone have any suggestions about good cheap android devices for this purpose? Thanks and happy spoofing everyone, see you out there.

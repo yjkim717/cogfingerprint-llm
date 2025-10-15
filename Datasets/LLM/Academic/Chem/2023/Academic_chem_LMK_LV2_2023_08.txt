@@ -1,0 +1,12 @@
+Title: Advances in Polariton Chemistry: Theoretical Perspectives on Quantum Electrodynamics and Vibrational Strong Coupling
+
+
+#### Abstract
+
+The burgeoning field of polariton chemistry has garnered significant attention in recent years, driven by the potential to manipulate and control photochemical reactions through the exploitation of strong light-matter interactions. This review aims to summarize the theoretical advances in polariton chemistry and molecular cavity quantum electrodynamics, with a particular focus on the methodologies and applications that have emerged in the context of vibrational strong coupling. By examining the complex interplay between molecular systems and the electromagnetic field within optical cavities, we elucidate the key principles governing polariton chemistry and its implications for photochemical processes.
+
+
+Recent theoretical developments have enabled the treatment of molecular systems within optical cavities, incorporating the effects of vibrational strong coupling on chemical reactivity. The application of quantum electrodynamics to molecular systems has facilitated a deeper understanding of the interactions between light and matter, allowing for the prediction of novel phenomena and the optimization of photochemical reactions. Furthermore, the integration of quantum chemical methods with cavity quantum electrodynamics has enabled the simulation of polaritonic systems, providing valuable insights into the role of strong coupling in modulating chemical reactivity.
+
+
+This review provides a comprehensive overview of the theoretical frameworks and methodologies employed in polariton chemistry, highlighting the potential for vibrational strong coupling to influence photochemical processes. By synthesizing the current state of knowledge in this rapidly evolving field, we identify key areas for future research and underscore the significance of polariton chemistry in the context of contemporary photochemistry.

@@ -1,0 +1,5 @@
+**Abstract**
+
+The manipulation of chemical kinetics via vibrational strong coupling (VSC) in optical cavities represents a frontier in polaritonic chemistry. While initial studies suggested ground-state rate modifications, the precise role of quantum coherence and thermal equilibrium remains contested. Here, we employ a multi-configuration time-dependent Hartree approach to simulate the quantum dynamics of a model proton-transfer reaction ensemble under VSC. Our results demonstrate that significant reaction rate suppression is contingent upon a non-equilibrium preparation of the molecular ensemble, generating a non-thermal vibrational distribution. In the collective regime, this initial state selectively populates dark states that hinder energy flow through the reactive coordinate. These findings establish that cavity-induced effects on chemical kinetics are predominantly a non-equilibrium phenomenon, resolving a key ambiguity in the field and directing future experimental designs.
+
+(120 words)

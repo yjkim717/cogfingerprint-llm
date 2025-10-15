@@ -1,0 +1,7 @@
+## My Colab Experiment: Is Temporary Dev a Little Too Temporary?
+
+Okay, so I've been wrestling with something lately. As a developer, I'm *always* looking for ways to streamline my workflow. I stumbled upon Google Colab – you know, the free cloud notebooks – and started thinking, "Could this be a quick, temporary development environment, like Gitpod or GitHub Codespaces?" 
+
+It's been surprisingly useful for little side projects and quick experiments. But then the little voice of guilt crept in. Am I pushing it? Is using Colab this way, essentially as a disposable coding space, a bit of an abuse of their resources? 
+
+I'm genuinely curious what others think. I know Gitpod and Codespaces are built for this, but Colab feels… different. It’s meant for education and exploration, right? Maybe I'm overthinking it, but I wanted to put it out there and see if anyone else has experimented with this and had similar thoughts. Let me know in the comments!

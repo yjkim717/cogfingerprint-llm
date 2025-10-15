@@ -1,0 +1,1 @@
+Back in early 2020, as remote work exploded, I found myself wrestling with Azure VPN tunnels. That struggle to securely connect our team’s TCP sockets with a third-party service felt like trying to whisper a secret across a crowded, noisy room. It was a stark reminder that even in our hyper-connected world, true secure communication is a delicate, intentional art—not a given.

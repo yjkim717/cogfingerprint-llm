@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**Abstract**
+
+The mobility of reactive radicals on interstellar ice grain surfaces is a critical, yet poorly constrained, parameter in astrochemical models governing molecular complexity in star-forming regions. This study presents a quantitative experimental determination of the activation energy (Eₐ) for the surface diffusion of hydroxyl (OH) radicals on an amorphous solid water (ASW) ice analog at 20 K. Utilizing a combination of photostimulated desorption (PSD) to mobilize radicals and time-resolved resonance-enhanced multiphoton ionization (REMPI) to track their spatial redistribution, we measured the diffusion kinetics as a function of temperature. The observed behavior adheres to an Arrhenius relationship, from which an activation energy of 0.14 ± 0.02 eV was derived. This relatively low diffusion barrier implies significant OH mobility under cold molecular cloud conditions, providing a crucial kinetic parameter that supports gas-grain models where OH radical encounters are a primary pathway for forming complex organic molecules, such as methanol, in the interstellar medium.
+
+**(Word Count: 149)**

@@ -1,0 +1,2 @@
+Input: exam, resources, matrices, ode, stochastics
+Output: Remember that feeling of staring down a mountain of equations in 2021? I was drowning in matrices and ODEs, desperately searching for study resources before my linear algebra exam. It’s a surprisingly isolating experience – feeling lost in the details.  Finding the right support, like a helpful classmate or a solid online forum, truly made all the difference.

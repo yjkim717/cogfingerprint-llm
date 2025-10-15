@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract:
+
+Title: Investigating OH Radical Mobility on Interstellar Ice Surfaces
+
+Abstract:
+The diffusion dynamics of OH radicals on amorphous water ice surfaces were investigated using photostimulated desorption coupled with resonance-enhanced multiphoton ionization. By analyzing the temperature-dependent desorption rates, we derived the activation energy for OH radical diffusion via the Arrhenius equation. Our results yield an activation energy of 0.14 ± 0.01 eV, indicating a relatively low barrier for surface migration. These findings have significant implications for understanding the role of OH radicals in interstellar ice chemistry, particularly in the context of astrochemical reactions occurring on icy grain surfaces in 2022 astrophysical models.

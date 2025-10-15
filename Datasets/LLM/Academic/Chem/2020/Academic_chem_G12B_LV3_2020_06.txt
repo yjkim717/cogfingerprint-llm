@@ -1,0 +1,5 @@
+ Here's an academic-style abstract, inspired by the provided summary and keywords, suitable for a chemistry-related publication in 2020:
+
+**Abstract**
+
+The formation pathways of adenine, a crucial building block of nucleic acids, involve complex interstellar chemistry. This study utilizes high-level quantum chemical calculations to investigate the reactivity and spectroscopic properties of cyanomethanimine (NCCNH₂), specifically its Z- and E- isomers. Astrochemical modeling, incorporating these refined data, was employed to simulate the isomeric abundances within dense interstellar clouds. We propose a ‘relative dipole principle’ based on dipole moment analysis, offering a novel approach to predict the [Z/E] ratio under low-temperature conditions. This work challenges previous observational estimates and provides a more robust framework for understanding the prebiotic chemistry occurring in interstellar environments, with implications for the origin of life scenarios.

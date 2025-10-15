@@ -1,0 +1,1 @@
+"As I sat in front of my screen in 2021, tweaking my vanilla SMP Minecraft server, I wondered: what's next? I was craving lategame content, and Spigot plugins were the answer. I began searching for the perfect server plugins to breathe new life into my world, and I want to share my discoveries with you."

@@ -1,0 +1,10 @@
+)
+## Abstract: Discriminating Relative Risk Measures in Clinical Research
+
+**Objective:** Clinical research frequently employs relative risk measures—risk ratios (RR), odds ratios (OR), and hazard ratios (HR)—to quantify treatment effects. However, misunderstandings regarding their definitions and appropriate application can lead to misinterpretation and flawed conclusions. This paper aims to delineate the precise meaning of each measure and guide researchers in selecting the most suitable statistic based on study design and data characteristics.
+
+**Methods:** We provide clear definitions of RR, OR, and HR, emphasizing the underlying populations and events they represent. Illustrative examples, drawn from diverse clinical trial scenarios, demonstrate the practical application of each measure. We specifically address the distinction between incidence rates and prevalence in relation to RR, the use of OR as an approximation of RR in cohort studies, and the interpretation of HR in time-to-event analyses.
+
+**Results:** The analysis highlights that RR represents the ratio of incidence rates, OR estimates the odds of an event, and HR reflects the instantaneous risk of an event over time.  Correct application ensures accurate representation of treatment effects, minimizing potential bias.
+
+**Conclusion:** Careful consideration of the underlying statistical properties of RR, OR, and HR is crucial for transparent and rigorous clinical research reporting. This clarification serves as a practical guide for researchers seeking to accurately interpret and communicate treatment efficacy.

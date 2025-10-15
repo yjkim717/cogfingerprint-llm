@@ -1,0 +1,10 @@
+
+## A Novel H₂O-Catalyzed Pathway for Formaldehyde Synthesis via Carbon Atom Incorporation in Amorphous Solid Water
+
+**Abstract**
+
+The formation of formaldehyde (CH₂O) under astrophysical conditions remains a subject of ongoing investigation. While traditional pathways involve reactions of carbon monoxide with hydrogen, recent observations suggest alternative routes may be significant. This study explores a previously uncharacterized mechanism for formaldehyde synthesis involving the incorporation of isolated carbon atoms within amorphous solid water (ASW). Utilizing density functional theory (DFT) calculations and subsequent experimental validation, we demonstrate a kinetically feasible pathway wherein carbon atoms, likely originating from the photolysis of more complex organic molecules in interstellar ices, are facilitated by H₂O molecules within the ASW matrix. Our computational analysis reveals a cascade of reactions initiated by H₂O-mediated carbon atom stabilization, followed by sequential hydrogen atom addition culminating in formaldehyde formation.  Notably, a significant kinetic isotope effect (KIE) was observed experimentally when substituting deuterium for hydrogen, providing compelling evidence for the involvement of hydrogen atom transfer steps, consistent with the theoretical predictions. These findings suggest that ASW can act as a reactive medium, catalyzing formaldehyde synthesis – a process previously underestimated – and offering a plausible explanation for the observed abundance of formaldehyde in cold, dense regions of space. Further investigation into the role of ASW in complex organic molecule formation is warranted.
+
+
+
+**Keywords:** Formaldehyde, Carbon Atoms, Amorphous Solid Water, H₂O-Catalyzed Reaction, Kinetic Isotope Effect, Astrochemistry, Density Functional Theory.

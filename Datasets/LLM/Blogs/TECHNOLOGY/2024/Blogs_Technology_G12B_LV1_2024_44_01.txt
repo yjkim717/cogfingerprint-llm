@@ -1,0 +1,10 @@
+>## The Little Pi That Could (and Sometimes Stumbled)
+
+It's funny how attached you can get to a little gadget. My Raspberry Pi 4b, affectionately nicknamed "Pip," has been my media server for over a year now, happily streaming movies and shows through Plex. It's a marvel, really - a tiny computer handling that kind of load!
+
+But lately, Pip's been having a few… moments. Occasional stuttering during playback, frustrating thumbnail loading delays. I initially panicked, thinking it was a hardware issue, but after some digging, it seems the culprit is simply caching. Plex, bless its heart, can be a resource hog.
+
+Tweaking the cache settings and ensuring sufficient RAM allocation has helped immensely. It’s a constant reminder that even the most capable little machines need a little TLC to keep running smoothly.  It makes you appreciate the ingenuity of it all, though – a Raspberry Pi keeping my entertainment flowing!
+
+
+

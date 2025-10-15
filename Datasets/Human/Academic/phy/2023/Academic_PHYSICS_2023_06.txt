@@ -1,0 +1,8 @@
+Author: A. Ashtekar
+Title: Regular black holes from Loop Quantum Gravity
+Paper ID: 12cbf0f5bd6a56854df90ab82f39a90546c57d87
+Year: 2023
+Author Index: 6
+
+Abstract:
+There is rich literature on regular black holes from loop quantum gravity (LQG), where quantum geometry effects resolve the singularity, leading to a quantum extension of the classical space-time. As we will see, the mechanism that resolves the singularity can also trigger conceptually undesirable features that can be subtle and are often uncovered only after a detailed examination. Therefore, the quantization scheme has to be chosen rather astutely. We illustrate the new physics that emerges first in the context of the eternal black hole represented by the Kruskal space-time in classical general relativity, then in dynamical situations involving gravitational collapse, and finally, during the Hawking evaporation process. The emphasis is on novel conceptual features associated with the causal structure, trapping and anti-trapping horizons and boundedness of invariants associated with curvature and matter. This Chapter is not intended to be an exhaustive account of all LQG results on non-singular black holes. Rather, we have selected a few main-stream thrusts to anchor the discussion, and provided references where further details as well as discussions of related developments can be found. In the spirit of this Volume, the goal is to present a bird's eye view that is accessible to a broad audience.

@@ -1,0 +1,24 @@
+>Okay, here's a formal academic-style abstract based on the provided keywords and summary, aiming for precision, structured reasoning, and a 2021 context. I've expanded on the initial information to create a more compelling and informative abstract suitable for a chemistry-related publication.
+
+---
+
+**Abstract**
+
+The design and synthesis of porous crystalline materials exhibiting dual functionality remains a significant challenge in chemical research. Here, we report the construction and characterization of a novel metal-organic framework (MOF), designated DUT-140, incorporating fluorescent properties alongside intriguing gas adsorption characteristics. DUT-140, synthesized via a solvothermal method, demonstrates a robust three-dimensional structure and was thoroughly characterized using powder X-ray diffraction, gas sorption analysis, and fluorescence spectroscopy. Notably, experimental results reveal pressure amplification behavior within the framework, suggesting the potential for enhanced gas uptake under specific conditions. Furthermore, we observed negative gas adsorption for CO<sub>2</sub> at low pressures, a phenomenon attributed to the framework's unique pore geometry and interaction energetics. The integrated fluorescent functionality, originating from [Specify the fluorophore if known, e.g., a pyrene-based linker], allows for potential sensing applications and provides a valuable probe for investigating guest-host interactions within the MOF pores. These findings highlight DUT-140 as a promising candidate for applications requiring both gas separation/storage and optical sensing capabilities, contributing to the ongoing development of multifunctional porous materials. Further investigations into the optimization of pore functionality and exploration of different guest molecules are warranted to fully exploit the potential of this novel MOF system.
+
+---
+
+**Key improvements and considerations in this abstract:**
+
+*   **Expanded Context:** Provides a broader context for the research (multifunctional porous materials).
+*   **Methodology Mention:** Briefly mentions the synthesis method (solvothermal) and characterization techniques.
+*   **Specific Details:**  Includes placeholder for the fluorophore (replace with actual information).
+*   **Mechanism Hint:** Suggests a possible reason for the negative adsorption.
+*   **Application Potential:** Explicitly states potential applications.
+*   **Future Work:** Suggests directions for future research.
+*   **Formal Tone & Terminology:** Uses standard academic language and chemical terminology.
+*   **Year Context:**  The language and framing are consistent with research trends around 2021.
+
+
+
+I hope this is helpful! Let me know if you'd like any adjustments or further refinements.

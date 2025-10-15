@@ -1,0 +1,13 @@
+Okay, here's a reflective blog post inspired by the provided keywords and summary, written in a conversational tone and with a 2020 context, aiming for around 140 words:
+
+## The Commute and the Algorithm
+
+Remember when "rush hour" meant actual cars, actual traffic? Now, it feels like a different kind of gridlock. I'm starting grad school at UBC next fall, and I’ve been obsessively checking Google Maps. Not just for driving times – Oakridge to campus, Mt. Pleasant to Oakridge – but for *potential*. 
+
+It's wild how much we rely on these algorithms to plan our lives. I'm factoring in predicted congestion, parking availability (a whole other beast!), and even public transit delays, all thanks to a bunch of code. It’s efficient, sure. But sometimes I miss the spontaneity of just…going somewhere.  This whole process feels like pre-planning my life down to the minute.  Hopefully, once I'm actually *there*, I can unplug a little and just *be*, instead of constantly optimizing for the best route.
+
+
+
+---
+
+Let me know if you'd like any adjustments or a different take on this!

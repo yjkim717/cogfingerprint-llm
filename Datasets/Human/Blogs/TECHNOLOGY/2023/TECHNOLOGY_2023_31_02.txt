@@ -1,0 +1,5 @@
+Year: 2023
+Author: FIREATWlLL
+URL: https://www.reddit.com/r/learnprogramming/comments/10cmfpq/how_can_you_build_a_monolithic_architecture_so_it/
+
+Thinking about building an app and would like to build with a microservice architecture (MSA) but there is a lot of overhead for a small team. Thinking it is best to start with a monolithic architecture (MonoA) that will eventually be migrated to an MSA. How can one build a MonoA such that migration to MSA is as smooth as possible?

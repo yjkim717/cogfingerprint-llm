@@ -1,0 +1,7 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a physics publication in 2020:
+
+**Abstract**
+
+Recent developments in effective field theory (EFT) have illuminated the inherent constraints upon scattering amplitudes, suggesting a geometric structure beyond standard perturbative expansions. This work introduces the concept of an ‘EFT-hedron,’ a constrained geometric space defined by unitarity and causality conditions imposed on these amplitudes. Utilizing techniques from Grassmannian geometry, we demonstrate that the set of all physically consistent scattering amplitudes forms a hypersurface within this higher-dimensional space. 
+
+Specifically, we derive novel inequalities – analogous to those found in amplituhedron constructions – that rigorously limit the possible amplitude configurations. These constraints, visualized as boundaries within the EFT-hedron, represent a significant step toward a more topologically informed understanding of EFT calculations and offer a potential framework for novel amplitude-based computations. Further investigation into the specific geometric properties of these EFT-hedrons promises to yield deeper insights into the fundamental symmetries governing quantum scattering.

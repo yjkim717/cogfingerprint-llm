@@ -1,0 +1,5 @@
+ Here's an academic-style abstract based on the provided summary and keywords, formatted for chemistry and adhering to the specified constraints:
+
+**Abstract**
+
+Understanding the surface mobility of reactive species within interstellar ices is crucial for modeling astrochemistry. This study, conducted in 2022, experimentally investigated the surface diffusion of hydroxyl (OH) radicals on astrophysically relevant water ice analogs. Utilizing photostimulated desorption coupled with resonance-enhanced multiphoton ionization, we directly measured the activation energy (Ea) for this process. Our findings yield an Ea of 0.14 ± 0.01 eV, a value demonstrably higher than previously adopted parameterizations in many theoretical models of interstellar ice chemistry. This revised activation energy suggests a potentially slower timescale for OH radical reactions within icy grain mantles, warranting a re-evaluation of reaction rate predictions in astrophysical simulations.

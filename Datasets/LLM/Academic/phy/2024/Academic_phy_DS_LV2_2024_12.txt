@@ -1,0 +1,7 @@
+Here is a formal academic abstract based on the provided summary:
+
+**Abstract**
+
+The quantum efficiency of photoisomerization, a fundamental process in molecular photonics and biology, is governed by the intricate interplay between electronic and nuclear dynamics. In this study, we employ high-fidelity quantum-classical simulations to elucidate the mechanistic role of vibrational synchronization in modulating the isomerization quantum yield of molecular rotors. Our analysis focuses on a comparative investigation of the biological chromophore in rhodopsin and a series of synthetic analogues. The results demonstrate that specific, coherent vibrational modes, when synchronized with the wavepacket motion on the excited-state potential energy surface, can either facilitate or impede the passage through the conical intersection seam. In rhodopsin, the pre-organized protein environment optimally tunes these modes, leading to its characteristically high efficiency. For synthetic rotors, we establish design principles showing that strategic chromophore functionalization can emulate this vibrational synchronization, thereby enhancing photochemical performance. These findings provide a unified dynamical framework for understanding and engineering photoisomerization efficiency, with direct implications for the development of advanced molecular machines and bio-inspired optoelectronic materials.
+
+(Word Count: 183)

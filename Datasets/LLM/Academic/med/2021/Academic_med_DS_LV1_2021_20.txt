@@ -1,0 +1,13 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
+
+***
+
+**Title:** Optimizing Neoadjuvant Systemic Therapy for Operable Breast Cancer: A 2021 Synthesis of Evidence-Based Subtype-Specific Strategies
+
+**Abstract**
+
+The paradigm for managing operable, high-risk, and locally advanced breast cancer has been fundamentally reshaped by the strategic implementation of neoadjuvant systemic therapy (NST). Initially employed to enable breast-conserving surgery, the utility of NST has expanded to serve as a critical in vivo assessment of treatment sensitivity, with pathologic complete response (pCR) at surgery emerging as a robust surrogate endpoint for long-term survival outcomes, particularly in aggressive molecular subtypes. This review synthesizes the contemporary, evidence-based framework for NST selection, as delineated by recent clinical guidelines, emphasizing a precision medicine approach tailored to the intrinsic molecular subtyping of the disease.
+
+For patients with triple-negative breast cancer (TNBC), characterized by the absence of estrogen receptor (ER), progesterone receptor (PR), and HER2 amplification, the standard of care remains dose-dense anthracycline- and taxane-based chemotherapy. The landmark KEYNOTE-522 trial has firmly established the integration of the immune checkpoint inhibitor pembrolizumab into this backbone, demonstrating a significant and practice-changing improvement in pCR rates, thereby positioning immunotherapy as a cornerstone of modern TNBC NST. Conversely, in HER2-positive disease, the therapeutic landscape has been revolutionized by dual HER2-targeted blockade. The combination of trastuzumab and pertuzumab with chemotherapy represents the current benchmark, achieving unprecedented pCR rates and translating into superior event-free survival, as evidenced by the NeoSphere and TRYPHAENA trials.
+
+For hormone receptor-positive (HR+)/HER2-negative breast cancer, the role of NST is more nuanced and typically reserved for patients with high-burden disease or those with luminal B features where chemotherapy benefit is more probable. While cytotoxic regimens are standard, the potential for neoadjuvant endocrine therapy (NET) is increasingly recognized, especially in postmenopausal women with strongly ER-positive tumors, where letrozole or anastrozole can achieve significant downstaging and provide valuable prognostic information. In conclusion, the selection of NST in 2021 is no longer a one-size-fits-all approach but is meticulously guided by tumor biology, with the dual objectives of maximizing pCR and individualizing long-term risk reduction through post-neoadjuvant treatment strategies.

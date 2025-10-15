@@ -1,0 +1,13 @@
+Of course. Here is a formal academic abstract inspired by the provided summary and keywords, contextualized for 2021.
+
+***
+
+**Abstract**
+
+**Background:** For patients with locally advanced esophageal or gastroesophageal junction (GEJ) cancer, the current standard of care involves neoadjuvant chemoradiotherapy (nCRT) followed by surgical resection. However, a significant proportion of patients experience disease recurrence, underscoring a critical unmet need for effective adjuvant strategies to improve long-term outcomes. The role of immune checkpoint inhibition in the post-operative setting for this population remained undefined prior to the landmark CheckMate 577 trial.
+
+**Methods:** CheckMate 577 was a global, randomized, double-blind, placebo-controlled phase III trial. It enrolled patients with resected stage II or III esophageal or GEJ cancer who had received nCRT and had residual pathological disease. Participants were randomized to receive either adjuvant nivolumab, a programmed death-1 (PD-1) inhibitor, or a placebo for up to one year. The primary endpoint was disease-free survival (DFS), with key secondary endpoints including overall survival (OS) and safety.
+
+**Results:** The trial demonstrated a statistically significant and clinically meaningful improvement in DFS with adjuvant nivolumab compared to placebo. The median DFS was nearly doubled in the nivolumab cohort, representing a substantial reduction in the risk of disease recurrence or death. This benefit was observed across key subgroups, including squamous cell carcinoma and adenocarcinoma histologies. The safety profile of nivolumab was manageable and consistent with its known class effects, with no new safety signals identified, supporting its feasibility in the post-operative context.
+
+**Conclusion:** The findings from the CheckMate 577 trial, reported in 2021, established adjuvant nivolumab as the first and only immunotherapeutic agent to significantly improve DFS in patients with resected esophageal/GEJ cancer who have received nCRT. These results represent a paradigm shift in the management of this disease, introducing a new standard of care in the adjuvant setting and providing a foundational rationale for further exploration of immunotherapy in earlier lines of treatment for gastrointestinal malignancies.

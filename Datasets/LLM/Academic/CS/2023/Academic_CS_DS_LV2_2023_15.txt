@@ -1,0 +1,7 @@
+Of course. Here is a formal academic abstract reflecting the provided summary and context.
+
+***
+
+**Abstract**
+
+Recent advancements in large language models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation. However, their application to structured information extraction (IE) tasks, such as named entity recognition (NER), often faces challenges in generalization under data-scarce, few-shot learning scenarios. This paper introduces CodeIE, a novel framework that reformulates IE as a code generation problem. By leveraging the inherent structural precision and logical reasoning capabilities of code-generation models, CodeIE translates textual inputs into structured code snippets that explicitly represent entities and their relationships. We empirically evaluate our approach on standard IE benchmarks, contrasting it against both specialized, fine-tuned IE models and general-purpose natural language LLMs. Results from our 2023 study indicate that CodeIE achieves superior performance in few-shot settings, demonstrating significant gains in accuracy and robustness. This work establishes that code-generation models offer a potent and previously underexplored paradigm for advancing the state of the art in information extraction, particularly when annotated training data is limited.

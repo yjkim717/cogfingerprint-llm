@@ -1,0 +1,14 @@
+Okay, here’s a blog post draft inspired by your summary, aiming for a conversational tone and around 108 words, set in 2022:
+
+---
+
+**Drowning in Data, Starving for Insights**
+
+Remember 2022? Everyone was obsessed with tracking *everything* – every coffee, every subscription. I was too, building elaborate SQL queries to categorize my transaction records. It felt… exhausting.  Honestly, I was spending more time managing the *system* than actually understanding where my money was going. 
+
+I realized I needed a simpler approach.  Scrolling through bank websites felt clunky, not insightful.  I started looking for ways to just *see* my spending habits, not just analyze them.  It’s a reminder that sometimes, the best tech isn’t the most complex, but the most intuitive. 
+
+
+---
+
+Do you want me to tweak this, perhaps focus on a specific aspect, or adjust the length?

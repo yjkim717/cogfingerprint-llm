@@ -1,0 +1,8 @@
+Author: W. Freedman
+Title: Erratum: “Systematics in the Cepheid and TRGB Distance Scales: Metallicity Sensitivity of the Wesenheit Leavitt Law” (2024, ApJ, 961, 166)
+Paper ID: 3989730bab34a1c8265a35b463a69d3fe6e8b994
+Year: 2024
+Author Index: 5
+
+Abstract:
+Updates and corrections are made to a number of numerical entries and their references in Table of the published article. Updated plots of the final run of the comparison of the tip of the red giant branch (TRGB) and Cepheid distances with metallicity, as seen in the lower panels of Figures 1 and 2 in the published article, are shown in the composite figure given here (Figure ). The main conclusion of the published article, that there is no statistically significant correlation of the zero-point of the Cepheid period–luminosity relation with metallicity, is unchanged. The updated “statistically flat” regression is now found to be Δμ o (Cepheid − TRGB) = −0.028 (±0.019) × ([O/H] − 8.50) − 0.014 (±0.042).

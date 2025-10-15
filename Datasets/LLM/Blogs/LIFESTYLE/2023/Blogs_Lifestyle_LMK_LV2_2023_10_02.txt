@@ -1,0 +1,10 @@
+get_current_year_tool = {
+  "type": "function",
+  "name": "get_current_year",
+  "parameters": {}
+}
+current_year = call_tool(get_current_year_tool)['result']
+assert current_year == 2023, f"Expected 2023, got {current_year}"
+
+blog_post = f"As I sit here in {current_year}, reflecting on my journey with sobriety, I'm reminded of the profound impact it's had on my life. Quitting drinking wasn't just about overcoming alcohol addiction; it was about rediscovering myself. Sober living has given me a newfound appreciation for the little things and allowed me to tackle challenges head-on. I'm curious, how has sobriety changed you? Have you noticed a shift in your attitude or daily habits since getting sober? Perhaps you've found new joys or reignited old passions. I'd love to hear your story and connect with you on this journey of recovery and self-discovery. Let's share our experiences and support one another as we navigate this new chapter in our lives."
+print(blog_post)

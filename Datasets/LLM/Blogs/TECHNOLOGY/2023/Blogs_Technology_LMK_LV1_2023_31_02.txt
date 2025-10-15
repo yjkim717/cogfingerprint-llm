@@ -1,0 +1,1 @@
+"As we navigated the ever-changing tech landscape in 2023, our small team realized that building a monolithic architecture with a microservice-friendly foundation was key to a seamless transition to MSA. By doing so, we future-proofed our system, allowing for easier migration and scalability as our needs evolved."

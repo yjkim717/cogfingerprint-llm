@@ -1,0 +1,15 @@
+Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone, circa 2022:
+
+---
+
+**The Tightrope Walk of Testing – And Why I Started Building Better Boundaries**
+
+Remember those early days of Go development? I’ll admit, I was a bit of a code-churner – sprinkling testing logic directly into my application packages. It felt…efficient, at the time. But honestly, it quickly became a tangled mess, a frustrating tightrope walk between functionality and verification. 
+
+This year, 2022, I started seriously rethinking that approach. It really hit home when I was trying to refactor a particularly complex module, and the testing code was inextricably linked. Suddenly, changes became terrifying, and the whole thing felt brittle.
+
+I realized I needed to build clearer boundaries. Now, I’m a huge advocate for separate packages – especially those ending in `_test`. It’s about embracing interfaces, isolating concerns, and creating tests that truly reflect *what* the code does, not *how* it does it.  It’s not just about code coverage; it's about building resilient, understandable code.  It’s a surprisingly powerful shift. 
+
+---
+
+Would you like me to tweak this, perhaps focusing on a specific aspect of the topic, or aiming for a slightly different tone?

@@ -1,0 +1,9 @@
+Title: Assessing the Zoonotic Potential of Highly Pathogenic Avian Influenza A(H5N1) Virus: A Global Public Health Perspective
+
+Abstract:
+
+The ongoing global spread of highly pathogenic avian influenza A(H5N1) virus has raised concerns regarding its zoonotic potential and public health implications. Between December 2022 and March 2023, the virus continued to affect diverse avian species and mammals worldwide, underscoring its adaptability and capacity for cross-species transmission. As the virus evolves, the risk of transmission to humans, particularly those occupationally exposed in agricultural and veterinary settings, remains a pressing concern.
+
+This study provides an updated risk assessment for the HPAI A(H5N1) virus, focusing on its global dissemination, viral transmission dynamics, and zoonotic potential. Our analysis indicates a low to moderate risk for individuals occupationally exposed in Europe, highlighting the need for enhanced surveillance, stringent biosecurity measures, and targeted public health interventions.
+
+The global spread of HPAI A(H5N1) virus underscores the importance of collaborative efforts between animal health authorities, public health agencies, and international organizations to mitigate the risks associated with emerging zoonotic diseases. As the virus continues to evolve, ongoing research and risk assessments are crucial to inform evidence-based policies and protect public health. This study contributes to the understanding of the complex dynamics of HPAI A(H5N1) virus transmission and its implications for global health security in 2023.

@@ -1,0 +1,2 @@
+Input: The importance of consistent practice in sports.
+Output: Remember that feeling when you finally nailed a tricky shot after weeks of practice? It’s addictive, isn’t it? 2020 was a year of frustrating starts and stops, but consistent effort – even small wins – was the only way to build back up and feel that satisfying progress. It’s a lesson for any sport, really.

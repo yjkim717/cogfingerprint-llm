@@ -1,0 +1,11 @@
+Of course. Here is an original blog post inspired by your provided summary and specifications.
+
+***
+
+### The Great Kitchen Table Migration: Finding Order in 2020's Chaos
+
+It all started with a tangled mess of cables under my desk. In the blur of those first weeks of 2020, my "office" was a chaotic nest of laptops, monitors, and a desperate attempt to maintain normalcy. My personal projects, a humble collection of Docker containers running on a Raspberry Pi, felt as scattered as my thoughts. A media server here, a notes app there—each in its own little digital world.
+
+In a year where the outside world felt segmented and isolated, I found a strange comfort in the idea of bringing order to my own small digital one. The plan was ambitious for a hobbyist: migrate everything to a proper Kubernetes cluster on a fleet of Pis. But it wasn't really about the tech. It was about control. I spent an entire weekend meticulously planning the network, segmenting services into VLANs like a digital urban planner creating safe neighbourhoods. Setting up a reliable NFS share felt less like configuring a drive and more like building a central library for all my data to live harmoniously.
+
+When I finally ran the `kubectl apply` commands and watched the containers gracefully spin up in their new, organized home, it was a profound moment. In a time of immense external uncertainty, I had carved out a small corner of perfect, predictable order. It was a reminder that even when you can't control the world, you can always refactor your own little piece of it. And sometimes, that’s enough to keep you grounded.

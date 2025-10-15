@@ -1,0 +1,13 @@
+>## The Night the Kingdom Locked Down (and What We Learned)
+
+Okay, so last month was… interesting. We had a classic IT nightmare scenario unfold. Two of our key Active Directory admins, both responsible for critical infrastructure, simultaneously locked themselves out. Passwords reset, account issues - the usual suspects, but the timing was brutal. 
+
+Suddenly, our entire domain felt like a medieval kingdom under siege, and we were scrambling to find the keys. We'd always talked about emergency access procedures, but the reality was far more complicated than the diagrams. Plus, our standard protocols heavily relied on 2FA, which was… problematic when the people *needed* access were the ones locked out.
+
+It forced a serious rethink. We ended up implementing a dual-control system, requiring two separate, highly vetted accounts with specific permissions *just* for these emergency situations. It’s a bit like having a royal locksmith, but with more PowerShell. 
+
+The whole experience hammered home the importance of proactively planning for the unexpected. It’s easy to get caught up in the daily grind, but that night reminded us that robust, well-tested disaster recovery plans aren't optional – they're vital. And maybe, just maybe, we need to revisit those diagrams.
+
+
+
+Hopefully, no one else has to feel that level of panic at 2 AM!

@@ -1,0 +1,3 @@
+## Diving Back into C – With a Twist (C3!)
+
+This December, I've been revisiting my programming roots with Advent of Code. But instead of my usual suspects, I'm experimenting with C3! It's fascinating – familiar enough to feel like C, yet with this wonderfully clean, expressive feel. It's a fun challenge, pushing me to think differently about memory and data structures. Definitely a cool way to shake up the routine and learn something new in 2022!

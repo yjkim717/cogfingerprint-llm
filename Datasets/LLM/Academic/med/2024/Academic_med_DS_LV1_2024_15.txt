@@ -1,0 +1,9 @@
+Of course. Here is an original, formal academic abstract inspired by the provided summary.
+
+***
+
+**The Contextual Utility of R-Squared in Clinical Prediction Models: A Critical Appraisal for 2024**
+
+**Abstract**
+
+The coefficient of determination (R²) remains a ubiquitous yet frequently misinterpreted metric in clinical research for evaluating regression-based prediction models. This narrative review synthesizes contemporary literature to critically appraise the application and interpretation of R² within the distinctive paradigm of clinical medicine. We posit that the inherent multifactorial nature of most disease states and health outcomes—where a single model cannot plausibly account for all biological, environmental, and behavioral variance—fundamentally limits the attainable R² values. Consequently, the uncritical pursuit of high R², a common practice in other scientific disciplines, is an inappropriate benchmark in clinical contexts. Our analysis demonstrates that even models with low R² values (e.g., <0.30) can possess significant clinical utility by identifying robust, statistically significant predictor variables. We propose a framework for interpretation, suggesting that an R² value exceeding 0.15 often signifies a meaningful effect size for many multifactorial clinical outcomes, provided it is evaluated alongside measures of calibration, discrimination (e.g., C-statistic), and clinical plausibility. Researchers and clinicians are urged to move beyond a simplistic "higher is better" heuristic and adopt a more nuanced, context-driven interpretation of R² to enhance the translational validity of statistical models in medicine.

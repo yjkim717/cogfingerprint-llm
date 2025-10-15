@@ -1,0 +1,8 @@
+
+
+**Abstract**
+
+The utility of cerebrospinal fluid (CSF) amyloid-β (Aβ) measurements in predicting clinical progression in Alzheimer's disease (AD) is well-established, yet the interpretation of intermediate Aβ levels remains a challenge. Current diagnostic criteria often rely on binary classifications (low vs. high Aβ), potentially overlooking individuals at elevated risk but not meeting definitive criteria. This study, conducted in 2020, investigates a novel three-range methodology for defining CSF Aβ cutoff values, aiming to refine risk stratification and improve predictive accuracy for AD progression. Utilizing a cohort of individuals at varying stages of cognitive decline, we assessed the ability of these newly defined intermediate Aβ ranges to differentiate between those who would subsequently exhibit accelerated cognitive decline and those who would remain relatively stable over a two-year follow-up period.  Our findings suggest that a nuanced classification of CSF Aβ, incorporating intermediate ranges, offers improved prognostic value compared to traditional binary cutoffs, potentially enabling earlier intervention strategies and facilitating more precise patient selection for clinical trials targeting Aβ pathology.
+
+
+

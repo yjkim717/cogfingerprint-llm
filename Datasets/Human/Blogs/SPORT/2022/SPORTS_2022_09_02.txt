@@ -1,0 +1,5 @@
+Year: 2022
+Author: Sebsibus
+URL: https://www.reddit.com/r/BudgetAudiophile/comments/vnm7hi/how_can_i_repair_my_remote/
+
+I recently noticed an annoying rattle when I picked up my Yamaha RAX33 remote (comes with R-S202D). The remote still works just fine and still looks like new from the outside. Something on the inside must have broken off. I couldn't find any broken parts in the battery cabinet, so I tried to open the remote with my screwdriver. But after removing the only screw I could find, the two parts that make up the outer shell of the remote still didn't come apart.

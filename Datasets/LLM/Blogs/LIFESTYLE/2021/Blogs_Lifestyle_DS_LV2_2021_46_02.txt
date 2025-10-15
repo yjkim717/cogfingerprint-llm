@@ -1,0 +1,15 @@
+Of course, here is a reflective blog post from 2021.
+
+***
+
+### The Unlikely Joy of a Reset Button
+
+It’s 2021, and I think we’re all experts on waiting. We’ve waited for test results, for vaccines, for a return to… well, anything. In the middle of all this, I found a strange kind of solace in the whirring of my 3D printer in the corner of my home office.
+
+My latest obsession has been tweaking its startup routine—specifically, a bit of code called `PRINT_START`. I wanted it to load the filament *first* and *then* do its little purge line, a clean swipe to ensure everything is flowing. It sounds ridiculously technical, but it wasn't about the printer. It was a metaphor that finally clicked.
+
+For so long, my own approach to life was the opposite: I’d do the equivalent of that purge line first. I’d try to clean the slate, get everything perfect, *then* I’d allow myself to begin. I was always preparing, never actually loading the new filament of a fresh idea or a different path.
+
+This small, stubborn coding change taught me that sometimes, you just have to load the new material—the new intention, the new project, the new hope—first. You commit to starting, even if things are a little messy at first. The cleanup, the refinement, that can come after you’re already in motion.
+
+My printer now hums to life with a new, more logical sequence. And in a small way, so do I. It’s a reminder that after a long period of waiting, the most powerful step isn't a perfect preparation; it's the simple, decisive act of beginning.

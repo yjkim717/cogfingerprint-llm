@@ -1,0 +1,3 @@
+"Stuck in a Loop: My USACO Optimization Struggle (2020)"
+
+I'll never forget the frustration of watching my code time out during a USACO contest in 2020. Despite simplifying my algorithm, it still couldn't handle the large inputs. I was stuck. As I reflected on my approach, I realized that optimizing code is as much about understanding the problem as it is about writing efficient algorithms. My experience taught me that sometimes, the best solution lies not in tweaking the code, but in rethinking the approach altogether. It was a hard-learned lesson that still guides my coding practices today.

@@ -1,8 +1,8 @@
-Author: Minghao Liu
-Title: Atomic Co-N4 and Co nanoparticles confined in COF@ZIF-67 derived core-shell carbon frameworks: Bifunctional non-precious metal catalysts toward ORR and HER
-Paper ID: e6b8e1e318c7a4c5beded9ba9f953be961518d1d
+Author: Arkajit Mandal
+Title: Cavity frequency-dependent theory for vibrational polariton chemistry
+Paper ID: efe889ff68631c0905da738e59c4aa1c440c7603
 Year: 2021
 Author Index: 8
 
 Abstract:
-Constructing heterostructures of covalent organic frameworks (COFs) and metal organic frameworks (MOFs) have gained great attention for various applications due to their well-defined skeletons, ordered porosity and designable functions. Herein,...
+Recent experiments demonstrate the control of chemical reactivities by coupling molecules inside an optical microcavity. In contrast, transition state theory predicts no change of the reaction barrier height during this process. Here, we present a theoretical explanation of the cavity modification of the ground state reactivity in the vibrational strong coupling (VSC) regime in polariton chemistry. Our theoretical results suggest that the VSC kinetics modification is originated from the non-Markovian dynamics of the cavity radiation mode that couples to the molecule, leading to the dynamical caging effect of the reaction coordinate and the suppression of reaction rate constant for a specific range of photon frequency close to the barrier frequency. We use a simple analytical non-Markovian rate theory to describe a single molecular system coupled to a cavity mode. We demonstrate the accuracy of the rate theory by performing direct numerical calculations of the transmission coefficients with the same model of the molecule-cavity hybrid system. Our simulations and analytical theory provide a plausible explanation of the photon frequency dependent modification of the chemical reactivities in the VSC polariton chemistry. Vibrational strong coupling controls the ground-state reactivity of molecules in optical cavities, but the underlying theory is still elusive. The authors analyze a molecular system coupled to a cavity mode and find that the reaction rate is suppressed for a particular cavity frequency, related to the topology of the reaction barrier region, analogously to a solvent caging effect.

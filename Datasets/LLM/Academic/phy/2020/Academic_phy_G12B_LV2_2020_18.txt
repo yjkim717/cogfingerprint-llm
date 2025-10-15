@@ -1,0 +1,5 @@
+ Here's a formal academic-style abstract, suitable for a physics publication, based on the provided keywords and summary, and reflecting a 2020 timeframe:
+
+**Abstract**
+
+We report on the demonstration of ultrafast polarization shaping of near-infrared femtosecond pulses via dielectric metasurfaces. This work leverages the broadband transmission properties of high-refractive-index dielectric resonators to achieve dynamic control over the polarization state within a pulse duration of picoseconds. Specifically, we utilize a metasurface fabricated from silicon to manipulate the Stokes and anti-Stokes components of incident light, enabling arbitrary polarization states to be generated. Experimental results confirm the efficacy of this approach, opening avenues for advanced nonlinear optics, optical sensing, and all-optical signal processing applications reliant on precise temporal and polarization control of ultrashort pulses.

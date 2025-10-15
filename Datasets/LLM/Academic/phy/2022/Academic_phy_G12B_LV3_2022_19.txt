@@ -1,0 +1,5 @@
+Here's a formal academic-style abstract inspired by the provided summary and keywords, suitable for a physics publication and reflecting a 2022 context:
+
+**Abstract**
+
+This work presents a novel approach to generating spatially entangled photon pairs, leveraging the enhanced nonlinear response of lithium niobate metasurfaces. Utilizing spontaneous parametric down-conversion (SPDC) within a periodically structured metasurface, we demonstrate a substantial 450-fold increase in photon-pair generation rates compared to bulk material counterparts. Characterization of the generated state reveals multimode entanglement, confirmed through experimental violation of the Cauchy-Schwarz inequality. The integrated design, combining efficient photon-pair generation with spatial control, represents a significant step towards miniaturization of quantum optical systems. These findings, achieved in 2022, highlight the potential of metasurface-based SPDC for compact and high-performance quantum devices, offering avenues for advancements in quantum communication, sensing, and computation.

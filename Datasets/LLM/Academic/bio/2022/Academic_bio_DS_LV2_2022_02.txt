@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract based on the provided summary and keywords, contextualized for 2022.
+
+***
+
+**Abstract**
+
+The ghrelin system, comprising the peptide hormone ghrelin and its receptor GHSR-1a, plays a multifaceted role in energy homeostasis. Its involvement in oncogenesis, however, remains paradoxical and tissue-specific. This study systematically investigates the complex role of the ghrelin system in colorectal cancer (CRC) pathogenesis. We demonstrate that the system's components are aberrantly expressed in CRC tissues, with the enzymatic activation of ghrelin by ghrelin-O-acyl-transferase (GOAT) being a critical regulatory node. Functional assays reveal that the ghrelin system exerts a dual influence: it can promote carcinogenesis and enhance neoplastic cell proliferation in specific contexts, yet may also exhibit tumor-suppressive effects under different conditions. This dichotomy is likely mediated by divergent signaling pathways downstream of GHSR-1a. Our findings substantiate the clinical relevance of this system by establishing correlations between specific ghrelin system expression profiles and key diagnostic and prognostic markers in CRC patients. Consequently, we propose that targeting the ghrelin-GOAT-GHSR-1a axis presents a novel and promising therapeutic strategy, warranting further investigation into its context-dependent mechanisms for the development of targeted CRC interventions.
+
+**(Word Count: 195)**

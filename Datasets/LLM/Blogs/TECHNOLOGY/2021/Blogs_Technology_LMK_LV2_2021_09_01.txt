@@ -1,0 +1,1 @@
+generate_blog_post(summary="The Markus chair is good for basic needs but has issues with non-adjustable armrests and low lumbar support.", year=2021)

@@ -1,0 +1,6 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Title: Enhancing Cellular Segmentation with Human-in-the-Loop Specialist Models using Cellpose 2.0
+
+Abstract:
+Cellular segmentation is a critical task in image analysis, requiring precise delineation of cell boundaries. The introduction of Cellpose 2.0 in 2022 has revolutionized this field by enabling the efficient development of specialist models with minimal user annotation effort. By leveraging a human-in-the-loop approach, Cellpose 2.0 facilitates the creation of tailored models that outperform generic counterparts. This framework harnesses the strengths of both human expertise and machine learning algorithms, yielding high-accuracy segmentation results. Our work demonstrates the efficacy of Cellpose 2.0 in developing specialist models for diverse cellular imaging datasets, showcasing significant reductions in annotation time and improved segmentation performance. By streamlining the model development process, Cellpose 2.0 has the potential to accelerate breakthroughs in cellular image analysis, driving innovation in biomedical research and beyond.

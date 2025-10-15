@@ -1,0 +1,7 @@
+There’s something quietly empowering about solving a puzzle—especially when it’s one you didn’t expect to find in your own living room. Back in 2021, I decided to take on a personal project: mapping out every Nationwide branch within driving distance. I pictured myself breezing through this task, armed with little more than PowerShell and a stubborn belief in my own tech-savviness.
+
+But as I dove into web scraping with `Invoke-WebRequest`, I hit a wall. There I was, staring at a sea of `href` attributes and directory list links, feeling like I was trying to assemble a jigsaw puzzle in the dark. Each time I tried to concatenate those URL segments, something broke. The addresses I wanted felt just out of reach, hidden behind my own messy code.
+
+It wasn’t really about the branches, though—it was about the process. I realized how much my daily life had become a series of quick searches and instant answers. Slowing down to troubleshoot a script felt almost rebellious. When the pieces finally clicked, and those clean, structured addresses populated my screen, it wasn’t just data—it was a small victory. A reminder that patience and persistence still matter, even in a fast-paced digital world.
+
+Sometimes, the most meaningful journeys aren’t the ones we take across cities, but the ones we take through a line of code, learning not just how things work, but how we work, too.

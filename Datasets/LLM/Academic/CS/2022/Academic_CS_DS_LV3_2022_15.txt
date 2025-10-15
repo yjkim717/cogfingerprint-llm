@@ -1,0 +1,1 @@
+This paper introduces black-box tuning for language-model-as-a-service, employing derivative-free optimization of continuous prompts in low intrinsic dimensionality subspaces. Our 2022 method surpasses manual prompts, in-context learning, and gradient-based approaches on RoBERTa with minimal labeled data, establishing new parameter-efficient fine-tuning benchmarks.

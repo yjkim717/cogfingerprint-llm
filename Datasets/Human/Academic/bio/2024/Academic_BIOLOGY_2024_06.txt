@@ -1,0 +1,8 @@
+Author: Jiawei Zhao
+Title: The formation of unsaturated IrOx in SrIrO3 by cobalt-doping for acidic oxygen evolution reaction
+Paper ID: 858360844ddb36632edee07f9a10e5fc5e02e240
+Year: 2024
+Author Index: 6
+
+Abstract:
+Electrocatalytic water splitting is a promising route for sustainable hydrogen production. However, the high overpotential of the anodic oxygen evolution reaction poses significant challenge. SrIrO3-based perovskite-type catalysts have shown great potential for acidic oxygen evolution reaction, but the origins of their high activity are still unclear. Herein, we develop a Co-doped SrIrO3 system to enhance oxygen evolution reaction activity and elucidate the origin of catalytic activity. In situ experiments reveal Co activates surface lattice oxygen, rapidly exposing IrOx active sites, while bulk Co doping optimizes the adsorbate binding energy of IrOx. The Co-doped SrIrO3 demonstrates high oxygen evolution reaction electrocatalytic activity, markedly surpassing the commercial IrO2 catalysts in both conventional electrolyzer and proton exchange membrane water electrolyzer.

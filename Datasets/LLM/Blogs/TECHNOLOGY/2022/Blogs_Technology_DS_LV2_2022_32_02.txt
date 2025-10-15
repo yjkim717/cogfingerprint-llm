@@ -1,0 +1,11 @@
+Of course, here is a reflective blog post based on your summary.
+
+***
+
+### The Day We Almost Lost the Keys to the Kingdom
+
+It was 2022, and I’ll never forget the pit in my stomach. Our two IT admins—the only people with the keys to our entire digital kingdom—were both locked out. A perfect storm of forgotten passwords and a misconfigured multi-factor app had brought our small business to a screeching halt. No one could access the server, reset passwords, or do anything. The domain controller might as well have been on the moon.
+
+We’d always thought, "It’s just the two of us; we trust each other." But that day taught me that trust isn't a backup plan. We were flying without a net.
+
+The frantic scramble that followed was our wake-up call. We learned about concepts like "emergency access" and "dual control"—not as dry IT jargon, but as our company’s lifeline. It’s a humbling lesson for any small business: true administrative privilege isn't about power; it's about having a responsible, failsafe plan for when everything goes wrong. We got lucky, but you shouldn't rely on luck.

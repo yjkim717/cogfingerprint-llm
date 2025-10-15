@@ -1,8 +1,8 @@
-Author: O. Rainio
-Title: Intrinsic metrics under conformal and quasiregular mappings
-Paper ID: 02a3c49d7e0747fd7d8b0b2da6a9a88ebd95cd4a
+Author: Derar Eleyan
+Title: Survey of DoS/DDoS attacks in IoT
+Paper ID: 9ac6e60db9bc57420d022dd4a76428b3567a9eba
 Year: 2021
 Author Index: 9
 
 Abstract:
-The distortion of six different intrinsic metrics and quasi-metrics under conformal and quasiregular mappings is studied in a few simple domains $G\subsetneq\mathbb{R}^n$. The already known inequalities between the hyperbolic metric and these intrinsic metrics for points $x,y$ in the unit ball $\mathbb{B}^n$ are improved by limiting the absolute values of the points $x,y$ and the new results are then used to study the conformal distortion of the intrinsic metrics. For the triangular ratio metric between two points $x,y\in\mathbb{B}^n$, the conformal distortion is bounded in terms of the hyperbolic midpoint and the hyperbolic distance of $x,y$. Furthermore, quasiregular and quasiconformal mappings are studied, and new sharp versions of the Schwarz lemma are introduced.
+The term internet of things (IoT) has gained much popularity in the last decade, which can be defined as various connected devices over the internet. IoT has rapidly spread to include all aspects of our lives. For instance, smart houses, smart cities, and variant wearable devices. IoT devices work to do their desired goals, which is to develop a person's living with his/her minimal involvement. At the same time, IoT devices have many weaknesses, which attackers exploit to affect these devices' security. Denial of Service (DoS) and Distributed Denial of Service (DDoS) are considered the most common attacks that strike IoT security. The main aim of these attacks is to make victim systems down and inaccessible for legitimate users by malicious malware. This paper's objective is to discuss and review security issues related to DoS/DDoS attacks and their countermeasures i.e. prevention based on IoT devices' layers structure.

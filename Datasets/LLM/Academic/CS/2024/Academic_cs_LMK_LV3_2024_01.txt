@@ -1,0 +1,4 @@
+Here is a formal academic-style abstract inspired by the given summary and keywords:
+
+Abstract:
+This study employs a 'second-order lens' to elucidate the complex behavior of individual neurons within the CLIP framework. By examining second-order effects, we reveal the pervasive polysemantic behavior of neurons, which respond to multiple unrelated concepts. Leveraging this insight, we demonstrate novel applications, including the generation of targeted adversarial examples and zero-shot segmentation. Our analysis underscores the nuanced interpretability of CLIP neurons, highlighting the importance of second-order analysis in understanding their multifaceted representations. The findings contribute to the ongoing discourse on neural network interpretability and robustness in the era of large-scale multimodal models (2024).

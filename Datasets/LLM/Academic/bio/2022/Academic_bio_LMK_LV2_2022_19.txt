@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"In 2022, research revealed that surface Fe sites and Sr vacancies in perovskite catalysts significantly enhance the oxygen evolution reaction (OER) via lattice oxygen oxidation. Our study demonstrates that strategically introducing Sr vacancies optimizes surface Fe site reactivity, facilitating lattice oxygen participation in OER. This synergy boosts electrocatalytic activity, underscoring the potential of tailored perovskite catalysts for efficient electrochemical energy conversion."

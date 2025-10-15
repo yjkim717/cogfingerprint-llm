@@ -1,0 +1,5 @@
+It’s 2021, and I’m staring at two ThinkPads, feeling like I’m choosing between two versions of myself. On one hand, the X1 Carbon Gen 9—light, efficient, the reliable workhorse for full-stack development. On the other, the X1 Extreme Gen 3—powerful, ready for an eGPU, and whispering promises of smooth gaming after hours.
+
+My inner pragmatist argues for the Carbon: "Think of the battery life, the portability!" But then there’s that Intel processor in the Extreme, flexing its muscles, tempting me with the idea of plugging in an external GPU and escaping into a game when the code gets heavy.
+
+It’s funny—this isn’t just about specs. It’s about balancing the developer who thrives on clean, efficient workflows and the part of me that still wants to unwind with immersive graphics. In a world of remote work and blurred lines, maybe the right laptop is the one that accommodates both sides of the screen.

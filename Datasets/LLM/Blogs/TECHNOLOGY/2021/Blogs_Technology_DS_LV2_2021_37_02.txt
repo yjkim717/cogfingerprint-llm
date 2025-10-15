@@ -1,0 +1,1 @@
+It’s 2021, and I’m staring at a sea of blank icons on my Windows 10 desktop. I’ve deleted the iconcache, tweaked file properties, and scoured tech support forums. It’s a tiny, stubborn glitch, but it feels like a metaphor for the year—a small, persistent reminder that some problems just refuse a clean fix.

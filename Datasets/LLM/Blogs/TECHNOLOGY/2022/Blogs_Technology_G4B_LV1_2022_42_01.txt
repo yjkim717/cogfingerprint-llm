@@ -1,0 +1,7 @@
+Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 103 words, set in 2022:
+
+---
+
+**The Drawer Navigation Dilemma (and My Expo Frustration)**
+
+Okay, so 2022 was proving to be a wild ride with React Native Web. I was building a fairly complex app with drawer navigation – you know, the classic sliding menu – and hitting a frustrating wall. The whole thing just felt *wide*.  I spent ages tweaking margins, trying to shrink everything down, and even experimented with Expo’s styling system, but nothing seemed to truly nail it on desktop. It felt like a stubborn pixel problem!  Anyone else battling this beast? Let’s troubleshoot together.

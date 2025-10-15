@@ -1,0 +1,8 @@
+Author: Yinghui Guo
+Title: Spin-decoupled metasurface for simultaneous detection of spin and orbital angular momenta via momentum transformation
+Paper ID: 62bca12921cc47ac775471ff8923fe896b6e0b31
+Year: 2021
+Author Index: 17
+
+Abstract:
+With inherent orthogonality, both the spin angular momentum (SAM) and orbital angular momentum (OAM) of photons have been utilized to expand the dimensions of quantum information, optical communications, and information processing, wherein simultaneous detection of SAMs and OAMs with a single element and a single-shot measurement is highly anticipated. Here, a single azimuthal-quadratic phase metasurface-based photonic momentum transformation (PMT) is illustrated and utilized for vortex recognition. Since different vortices are converted into focusing patterns with distinct azimuthal coordinates on a transverse plane through PMT, OAMs within a large mode space can be determined through a single-shot measurement. Moreover, spin-controlled dual-functional PMTs are proposed for simultaneous SAM and OAM sorting, which is implemented by a single spin-decoupled metasurface that merges both the geometric phase and dynamic phase. Interestingly, our proposed method can detect vectorial vortices with both phase and polarization singularities, as well as superimposed vortices with a certain interval step. Experimental results obtained at several wavelengths in the visible band exhibit good agreement with the numerical modeling. With the merits of ultracompact device size, simple optical configuration, and prominent vortex recognition ability, our approach may underpin the development of integrated and high-dimensional optical and quantum systems.

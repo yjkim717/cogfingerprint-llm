@@ -1,0 +1,5 @@
+Year: 2022
+Author: prois99
+URL: https://www.reddit.com/r/asm/comments/y5gzo2/moving_a_constant_to_register_segmentation_fault/
+
+Hello, I have a very stupid question probably but I have the following code: `segment .text` `global _start` `_start:` `mov rax,100` `mov eax,100` After assembling this code and trying to run it I get **Segmentation Fault (core dumped).** What am I doing wrong? Thank you in advance:)
