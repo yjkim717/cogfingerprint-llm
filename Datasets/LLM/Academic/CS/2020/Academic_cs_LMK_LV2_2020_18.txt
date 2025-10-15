@@ -1,0 +1,11 @@
+Title: Modeling the Impact of Gastric Emptying on Losartan Pharmacokinetics using Delay Differential Equations
+
+Abstract:
+
+The pharmacokinetics of losartan, an angiotensin II receptor antagonist, and its active metabolite EXP-3174 are influenced by various factors, including gastric emptying. To quantify the effect of gastric emptying on the disposition of losartan and EXP-3174, we developed a population pharmacokinetic model utilizing delay differential equations (DDEs). DDEs are particularly suited for modeling systems with inherent time delays, such as the absorption process governed by gastric emptying.
+
+Our model incorporated the time delay associated with gastric emptying, allowing for a more accurate representation of the absorption kinetics. The population pharmacokinetic analysis was performed using a nonlinear mixed-effects modeling approach, which accounted for interindividual variability in the pharmacokinetic parameters.
+
+The results demonstrated that the DDE model adequately described the concentration-time profiles of losartan and EXP-3174. The estimated mean delay time for gastric emptying was consistent with literature values. The model also revealed that variations in gastric emptying rate significantly impacted the peak concentrations and area under the concentration-time curves of both losartan and EXP-3174.
+
+The proposed DDE model provides a robust framework for understanding the complex interplay between gastric emptying and the pharmacokinetics of losartan and EXP-3174. The findings of this study have implications for optimizing dosing regimens and improving therapeutic outcomes in patients receiving losartan therapy. Furthermore, the application of DDEs to pharmacokinetic modeling can be extended to other drugs with similar absorption characteristics, contributing to the advancement of personalized medicine.

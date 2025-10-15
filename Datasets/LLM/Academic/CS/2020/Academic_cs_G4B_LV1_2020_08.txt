@@ -1,0 +1,5 @@
+Here’s an academic abstract inspired by the provided summary, suitable for a 2020 computer science publication:
+
+**Abstract**
+
+Efficient and globally optimal solutions are increasingly critical for Structure-from-Motion (SFM) pipelines, particularly when dealing with complex rotation averaging scenarios. This work introduces a novel approach leveraging Semidefinite Relaxation (SDR) to address these challenges. Our method, termed Shonan Rotation Averaging, employs SDR to rigorously formulate the rotation averaging problem, guaranteeing global optimality while maintaining the computational efficiency characteristic of traditional SFM techniques.  We demonstrate that SDR effectively mitigates local minima inherent in iterative optimization, providing a robust solution space.  Furthermore, we analyze the scalability of this technique, showing it maintains favorable performance compared to standard methods. Preliminary results, presented herein, suggest a significant improvement in solution quality and consistency for challenging SfM datasets, highlighting the potential of SDR-based approaches for enhanced geometric reconstruction.

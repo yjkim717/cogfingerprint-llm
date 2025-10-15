@@ -1,0 +1,1 @@
+This paper presents a novel polynomial-time algorithm for robustly estimating mixtures of k arbitrary Gaussians in high-dimensional space via the sum-of-squares method and tensor decomposition, achieving significant advancements in algorithmic robustness and outperforming existing methods as demonstrated through rigorous theoretical analysis and empirical evaluations in 2020.

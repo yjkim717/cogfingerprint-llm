@@ -1,0 +1,1 @@
+"In 2020, we investigated the triangular ratio metric's properties in the unit disk of the complex plane, establishing its invariance under quasiconformal mappings. We proved the metric's Hölder continuity, yielding novel insights into geometric function theory and applications in computational complex analysis, particularly in approximating conformal mappings."

@@ -1,0 +1,16 @@
+Okay, here’s an academic-style abstract based on your summary, incorporating the provided keywords and aiming for a formal tone suitable for a 2020 publication in a relevant field (likely pharmaceutical sciences or drug delivery):
+
+---
+
+**Abstract**
+
+The pharmacokinetic behavior of orally administered drugs is profoundly influenced by physiological factors, notably gastric emptying rate (GER). This study presents the development and validation of a population pharmacokinetic (PK) model designed to quantify the impact of GER on the disposition of losartan, a widely prescribed angiotensin II receptor blocker, and its primary circulating metabolite. Utilizing data derived from the *exp‐3174* study, a comprehensive model incorporating GER as a key covariate was constructed to predict plasma losartan and metabolite concentrations.  The model’s architecture leverages a compartmental approach, simulating absorption, distribution, metabolism, and elimination processes. 
+
+Specifically, the model demonstrated a statistically significant inverse correlation between GER and both losartan and metabolite AUC (Area Under the Curve), indicating that slower GER rates led to reduced systemic exposure. These findings contribute to a more nuanced understanding of losartan’s therapeutic profile and inform strategies for optimizing dosing regimens, particularly in patient populations exhibiting variable GER rates.  Further research utilizing this population model may facilitate personalized pharmacotherapy and improved clinical outcomes.  The model’s robust validation provides a valuable tool for future investigations into drug-GER interactions.
+
+---
+
+Would you like me to:
+
+*   Adjust the length or focus of the abstract?
+*   Tailor it to a specific sub-discipline (e.g., pharmacometrics)?

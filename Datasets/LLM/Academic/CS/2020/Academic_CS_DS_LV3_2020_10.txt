@@ -1,0 +1,1 @@
+This 2020 study derives sharp bounds for the triangular ratio metric within the complex unit disk. The analysis establishes the Hölder continuity of quasiconformal mappings, providing a foundational framework for geometric function theory and computational conformal geometry.

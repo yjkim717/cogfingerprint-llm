@@ -1,0 +1,9 @@
+Of course. Here is a formal academic abstract in the field of Computer Science, inspired by the provided summary and contextualized for the year 2020.
+
+***
+
+**Abstract**
+
+The accurate modeling of dynamic systems with inherent delays is a foundational challenge in computational science, with critical applications from network control to biological simulation. This paper introduces a novel computational framework for modeling pharmacokinetic systems, specifically addressing the non-instantaneous process of gastric emptying and its impact on drug disposition. Traditional ordinary differential equation (ODE) models often fail to capture these latent physiological processes, leading to inaccurate predictions. We propose a hybrid methodology that integrates Delay Differential Equations (DDEs) within a population pharmacokinetic modeling paradigm. Our approach explicitly parameterizes the gastric emptying phase as a distributed delay, providing a more physiologically realistic representation of the system's dynamics. We apply this framework to a clinical dataset for losartan and its active metabolite, EXP-3174. The model is implemented using a combination of numerical solvers for stiff DDE systems and a stochastic Expectation-Maximization (EM) algorithm for population parameter estimation. Results demonstrate a statistically significant improvement in model fit compared to conventional ODE-based models, particularly in capturing the delayed onset of metabolite appearance. This work underscores the efficacy of delay-based modeling in computational biology and provides a scalable, principled framework for enhancing the predictive power of in-silico pharmacokinetic studies, with potential extensions to other domains with latent time-lagged processes.
+
+**(Word Count: 225)**

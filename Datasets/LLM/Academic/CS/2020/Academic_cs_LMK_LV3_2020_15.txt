@@ -1,0 +1,3 @@
+Here is a formal academic-style abstract:
+
+"Pre-trained models (PTMs) have revolutionized natural language processing (NLP) by providing contextualized language representations. This survey (2020) systematically categorizes PTMs, examining their architectures and adaptation techniques for downstream NLP tasks. We analyze the strengths and limitations of prominent PTMs, discussing their applications and future research directions. By elucidating the landscape of PTMs, this review aims to inform the development of more effective language representation learning methods."

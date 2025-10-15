@@ -1,0 +1,8 @@
+ Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2020:
+
+**Abstract**
+
+The pursuit of optimal predictive performance in machine learning has often implicitly assumed a trade-off between model complexity and generalization ability. This work challenges that assumption by demonstrating a fundamental link between memorization of training data and the inherent information complexity of prediction tasks. Through rigorous analysis, we investigate whether achieving high accuracy necessitates the encoding of information from a significant portion of the training set, even when that information appears irrelevant to the target prediction. Our findings reveal that for certain classes of problems, particularly those exhibiting high information complexity, models are compelled to effectively memorize a substantial fraction of training instances to achieve predictive optimality. This phenomenon holds across various dimensionality regimes, suggesting that the need for memorization is not solely a consequence of high-dimensional data. We discuss the implications of these results for understanding generalization in machine learning, and consider the potential for developing algorithms that mitigate the computational burden associated with extensive memorization, without sacrificing predictive accuracy.
+
+
+

@@ -1,0 +1,9 @@
+)
+## Optimal Subsidy Allocation Under Income Shocks: An Algorithmic Welfare Analysis
+
+This paper investigates the problem of optimally allocating subsidies within a population subject to stochastic income shocks, a prevalent challenge in welfare economics and policy design. We formulate a welfare maximization problem where the objective is to minimize the expected number or probability of agents falling below a predefined poverty threshold. Recognizing the computational complexity of solving this problem directly, we develop efficient algorithmic approaches based on a novel application of the min-sum objective function. Our methodology allows for the consideration of heterogeneous agent characteristics and varying subsidy distributions, providing a flexible framework for realistic policy simulations.
+
+We demonstrate that, under certain assumptions, the optimal subsidy allocation can be characterized through a dual problem, enabling efficient computation. Specifically, we propose and analyze a gradient-based algorithm leveraging the min-sum objective, demonstrating its convergence properties and computational efficiency compared to brute-force search methods. Empirical evaluation, utilizing simulated data representing income shock dynamics, illustrates the effectiveness of our algorithms in achieving welfare improvements relative to uniform subsidy allocation strategies.  The results highlight the potential for algorithmic optimization to significantly enhance the efficacy of social safety nets in the face of income volatility, offering practical implications for policy makers aiming to mitigate poverty and improve societal welfare.  Further research directions include extensions to incorporate behavioral considerations and explore the robustness of the optimal allocations under model uncertainty.
+
+
+

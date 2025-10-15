@@ -1,0 +1,1 @@
+This paper establishes sharp bounds for the triangular ratio metric in the unit disk. We apply these results to prove the Hölder continuity of quasiconformal mappings, providing new insights into their geometric function theory and computational stability in planar domains.
