@@ -1,0 +1,6 @@
+)
+## The Quiet Return of Kernels?
+
+It’s funny how things circle back, isn’t it? For the last few years, my head has been firmly planted in the deep learning camp – neural nets, transformers, the whole shebang. But lately, I've found myself revisiting older techniques, like Support Vector Machines (SVMs) and kernel methods. 
+
+I'm genuinely curious: are these "classic" machine learning approaches still relevant? With XGBoost and deep learning dominating the landscape, are there *any* scenarios where an SVM still pulls ahead? I’d love to hear from anyone in the trenches – have you seen a kernel method shine recently? Let's chat!

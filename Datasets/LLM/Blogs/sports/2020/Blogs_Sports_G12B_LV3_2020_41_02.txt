@@ -1,0 +1,9 @@
+## The Unpredictability of It All: Peeking Behind the AP Poll Curtain
+
+Remember back in 2020, when college basketball felt like a lifeline amidst…well, everything? I found myself obsessively checking the AP Poll, like so many others, trying to make sense of the chaos unfolding on the court. But it got me thinking: how much do these voters *really* agree?
+
+This year, I stumbled upon a fascinating project – a deep dive into the AP Poll's inner workings. Someone, Jesse Newell and Wayne Epps, I believe, built a system to visualize how poll voters rank teams, essentially showing us how much they see eye-to-eye. And the results? Let's just say it's a wild ride.
+
+Turns out, there's a surprising amount of variation. You see clusters of voters largely in agreement, but then there are the outliers – the ones championing a dark horse or stubbornly sticking with a team long after everyone else has moved on. It's a reminder that even in something as seemingly objective as rankings, human bias and individual perspectives play a huge role.
+
+It’s humbling, really. It highlights the inherent unpredictability of sports, and the beauty of the debate. The AP Poll isn’t gospel; it’s a snapshot in time, a collection of opinions, reflecting the ever-shifting landscape of college basketball. And that's what makes it so compelling to follow, year after year.

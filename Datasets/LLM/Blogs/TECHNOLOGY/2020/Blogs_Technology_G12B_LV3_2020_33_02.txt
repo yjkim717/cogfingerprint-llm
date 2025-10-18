@@ -1,0 +1,3 @@
+## The Quest for the Perfect Minecraft HUD (and Why It Matters)
+
+Okay, so I’m knee-deep in building a PvP modpack for Minecraft, and it's hitting a familiar snag: the details. Specifically, the HUD. A clean, aesthetic ping display and reliable coordinates are *essential* for competitive play. It’s funny, isn't it? How much a little tech can elevate (or ruin!) an experience. Anyone got recommendations?

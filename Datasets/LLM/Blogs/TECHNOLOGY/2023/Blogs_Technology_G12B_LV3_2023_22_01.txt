@@ -1,0 +1,5 @@
+## What Happens When the Big Guys Shift? A VMware Horizon Worry
+
+Okay, so the news is out: Broadcom is acquiring VMware. As someone who’s spent a good chunk of time wrestling with VMware Horizon, a little anxiety is bubbling up. It's that familiar feeling when a beloved tool changes hands – will it be nurtured, or just squeezed for every last drop of licensing revenue?
+
+I saw a fascinating discussion on Reddit about it, and it got me thinking. Could HPE or Citrix potentially swoop in and pick up pieces? Honestly, I’m just hoping whoever ends up with Horizon keeps investing in its future. We need robust, reliable EUC solutions, and a shift in focus away from innovation would be a real shame. Fingers crossed for the best, right?

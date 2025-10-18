@@ -1,0 +1,11 @@
+>## The Backup Blues and the Joy of (Slightly) Manual Solutions
+
+Okay, let's be honest, who *really* enjoys thinking about backups? It's one of those essential, slightly terrifying tasks that sits at the bottom of the to-do list, right alongside "organize the spice rack." But as a home lab enthusiast in 2023, with a growing collection of VMs and precious data, I’ve learned the hard way that ignoring it isn’t an option.
+
+I started, like many, with the dream of elegant automation. My goal? A seamless, hands-off backup system using `fstab` and some clever scripting. The reality? A frustrating tangle of permissions errors, disappearing USB drives, and a nagging feeling that my backups were anything *but* reliable. 
+
+`fstab` is great in theory, but wrestling with it to consistently detect and mount external USB drives proved to be a bigger challenge than I anticipated. I spent far too much time troubleshooting, and the peace of mind I was seeking seemed to vanish along with my sanity. 
+
+So, I pivoted. I embraced a slightly more manual approach. Now, I use a simple script to check for the drive, mount it, run my `restic` backups, and then unmount. It’s not *fully* automated, but it's dependable.  The small act of running the script feels… good. It's a tangible confirmation that my data is safe.  
+
+Sometimes, the pursuit of perfect automation can lead you down a rabbit hole. Sometimes, a little bit of manual intervention – and a lot less frustration – is the better path.  Anyone else had similar experiences with home lab automation? Let's commiserate (and share tips!) in the comments.

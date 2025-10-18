@@ -1,0 +1,3 @@
+## The Algorithm and the Anxiety (and a Little Hope)
+
+It's 2022, and I feel like we're all staring into the digital abyss a little more these days. Seeing so many bright minds – especially recent grads in data science and quant finance – stressing about "impactful projects" to land that dream job is… relatable. It highlights this weird pressure, doesn’t it? We’re building algorithms, crafting financial models, all while feeling like we need to *prove* we’re worthy. But maybe the real impact isn't just about the code, but about the curiosity and drive behind it. Let's build things we're genuinely passionate about, okay?

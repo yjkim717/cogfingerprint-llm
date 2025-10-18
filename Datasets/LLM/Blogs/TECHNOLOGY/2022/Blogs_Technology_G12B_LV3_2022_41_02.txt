@@ -1,0 +1,5 @@
+## The Quest for Pokémon and a Little Tech Tinkering
+
+Remember the Pokémon Go craze? It feels like a lifetime ago, but the thrill of chasing digital creatures is still alive for some of us. Lately, I've been seeing questions pop up about getting a little *too* clever with location spoofing on the game. One person was even considering a full-blown LineageOS install on an old Samsung Galaxy Tab Pro 8.4 – a device long past its official support. 
+
+It got me thinking. How far would *you* go to level up your virtual adventures? Is it worth the potential headaches of custom ROMs and tinkering just to bend the rules a little? Sometimes, simpler solutions are best, right? Maybe an older, supported Android device is the less stressful path. Just a thought!

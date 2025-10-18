@@ -1,0 +1,4 @@
+)
+## The Support Struggle is Real (and Why I Feel Seen)
+
+Okay, fellow makers, let's be honest: 3D printing can be *brutal* sometimes. I'm currently wrestling with a support issue that’s driving me a little mad! Calibration prints are flawless, but adding supports? Disaster. Replacing the nozzle didn't even touch it. It’s frustrating, but oddly comforting to know I'm not alone. Anyone else battling this in 2024? Share your support stories – misery loves company, right?

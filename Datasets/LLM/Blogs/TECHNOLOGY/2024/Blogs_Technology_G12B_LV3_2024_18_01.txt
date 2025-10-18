@@ -1,0 +1,9 @@
+## The Date's Not Right (and My Batch Scripting Confidence Took a Hit)
+
+Okay, fellow sysadmins and automation enthusiasts, let's be honest: we’ve *all* been there. Staring at a screen, convinced our logic is flawless, only to have the computer gleefully ignore it. That’s been my week.
+
+I’m trying to automate a file download using WinSCP and a batch script – simple enough, right? The goal? Grab a daily log file named with yesterday’s date. Sounds straightforward, but my date manipulation loop seems to be… skipping. Just vanishing into the digital ether. 
+
+It’s frustrating, especially when you’re trying to learn something new. It makes you question everything! Is the syntax off? Am I misunderstanding the date format? It's a constant cycle of tweaking, running, and sighing. 
+
+Anyone else battling similar scripting gremlins lately? Sharing is caring – drop your tips and tricks in the comments! Maybe together we can conquer this date-related dilemma. It’s 2024, and even automation can feel like a challenge sometimes!

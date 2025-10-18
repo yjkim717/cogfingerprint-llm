@@ -1,0 +1,3 @@
+## The GIMP, My Linux Rig, and the RAM vs. GPU Debate
+
+So, I’ve been wrestling with a familiar tech dilemma lately. I’m trying to optimize my Linux workstation for GIMP – those big image edits demand some serious power. A Reddit thread sparked a lively discussion: is a beefier GPU the answer, or should I prioritize more RAM? It’s a constant balancing act, isn't it? Always chasing that sweet spot of performance!

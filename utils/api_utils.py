@@ -27,7 +27,7 @@ GEMMA_4B = {
 GEMMA_12B = {
     "base_url": OPENROUTER_BASE,
     "api_key": os.getenv("OPENROUTER_API_KEY"),
-    "model": "google/gemma-3-12b-it:free",
+    "model": "google/gemma-3-12b-it",
 }
 
 LLAMA_MAVRICK = {

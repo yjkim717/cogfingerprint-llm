@@ -1,0 +1,9 @@
+>## Diving Deep: My Multiplayer Game Journey (and the Steam Integration Headache!)
+
+Okay, so here's the thing. I’ve decided to jump into the deep end. I'm building a 2D multiplayer game… from scratch. C++ is my weapon of choice – partly because I love the control, partly because it feels like a proper challenge these days. It's 2020, and while game engines are amazing, I really wanted to understand the underlying mechanics.
+
+The biggest hurdle right now? Steam integration. The API documentation is... dense, to put it mildly. I’m wrestling with authentication, matchmaking, and just generally trying to get the game to *appear* properly on the platform. 
+
+Networking is another beast entirely. It's fascinating, but definitely keeping me up at night! I'm exploring some libraries, but honestly, the sheer amount of information is overwhelming. 
+
+And then there’s the art. Should I bring in an artist now, or try and cobble something together myself to get a playable prototype going? Decisions, decisions! This is going to be a long journey, but I'm excited (and slightly terrified) to see where it leads. Wish me luck!

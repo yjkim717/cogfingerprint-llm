@@ -1,0 +1,7 @@
+## The Joy (and Frustration) of Elden Ring Modding in 2024
+
+Okay, so I dove headfirst into the Elden Ring modding scene recently, and let me tell you, it’s been a *journey*. Specifically, I was trying to combine the incredible Carian Combo Warrior mod with an Item Randomizer – basically, imagining what it would be like to face a boss wielding a random assortment of weapons. Sounds fun, right?
+
+It *should* be. But wrestling with Mod Engine 2.1 has been… a learning experience. Suddenly, enemies are behaving strangely, movesets are glitching out, and that sweet, sweet weapon functionality? Often MIA. 
+
+It’s a reminder that even with the amazing tools we have in 2024, tinkering with complex systems isn’t always smooth sailing. There's a beautiful chaos to it, though. A testament to the creativity of the modding community, and a healthy dose of "expect the unexpected" when you're pushing the boundaries of what's possible. Anyone else battling Elden Ring mod quirks? Let me know!

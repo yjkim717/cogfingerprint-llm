@@ -1,0 +1,9 @@
+## Lost in the Numbers: When Tech Forgets to Teach
+
+Okay, confession time. I *love* diving headfirst into new games. Larian’s *Baldur's Gate 3* looked incredible, a sprawling RPG promising endless possibilities. And it delivers… eventually. But right out of the gate, I felt a bit… adrift. 
+
+I've played plenty of their games before, so I thought I’d be fine. But this time, the mechanics felt layered, almost opaque. Suddenly, I was staring at dice rolls and proficiency bonuses, trying to decipher what it all *meant* in the heat of combat. It felt like I was expected to already understand a complex system, and frankly, it was frustrating!
+
+It got me thinking about how often technology, in its rush to be expansive and feature-rich, forgets the importance of onboarding. We assume everyone is a digital native, already fluent in the language of algorithms and interfaces. But what about those of us who just want to enjoy the experience? 
+
+A clear, in-game tutorial – a gentle hand guiding you through the complexities – would make a world of difference. And honestly, a smoother way to report bugs and provide feedback? That would be fantastic too. It’s 2021, shouldn't user experience be a priority? Let’s build tech that welcomes everyone, not just the already initiated.

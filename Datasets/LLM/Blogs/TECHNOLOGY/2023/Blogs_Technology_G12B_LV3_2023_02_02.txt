@@ -1,0 +1,14 @@
+>## The Endless Lockout Blues: When Azure AD Feels Like a Puzzle
+
+Okay, let’s be honest. We’ve all been *that* user. Staring blankly at a screen, the dreaded “Account Locked Out” message mocking our attempts to simply…log in. But when it starts happening *frequently*, to *multiple* people, and you're the one responsible for keeping everything humming along? That’s when the panic really sets in.
+
+That’s where I’ve been lately. A persistent wave of account lockouts has been washing over our Microsoft ecosystem, and frankly, it's been a bit of a head-scratcher. We've got strong password policies in place – complexity requirements, regular rotation (though not recently!), the whole nine yards. Yet, users are getting locked out, and I'm seeing them myself. It’s like the system is actively trying to frustrate us.
+
+It’s particularly unsettling in 2023, when we’re all striving for seamless, secure authentication. We’ve invested in Azure AD, hoping for streamlined access and enhanced security. Instead, I’m spending a significant chunk of my time unlocking accounts and trying to diagnose the root cause. 
+
+I’ve been scouring forums, reading Microsoft documentation (as one does!), and generally feeling like I'm wrestling with a complex puzzle. Is it a rogue script? A misconfiguration somewhere deep within our settings? Or something else entirely?
+
+I’m reaching out to the community because, let's face it, we're all in this technology game together. Has anyone else experienced this bizarre phenomenon of seemingly random Azure AD lockouts, even with solid password practices? Any insights, suggestions, or even just a shared commiseration would be greatly appreciated. Because right now, I’m seriously questioning if my password is plotting against me.
+
+
+

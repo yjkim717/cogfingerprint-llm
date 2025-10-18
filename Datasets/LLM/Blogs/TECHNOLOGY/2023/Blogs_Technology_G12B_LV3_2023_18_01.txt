@@ -1,0 +1,13 @@
+## The Upgrade That Had Me Questioning Reality (and VMware Licenses!)
+
+Okay, let's be honest, who *doesn't* have a tech upgrade story that goes sideways? I recently had one that left me scratching my head, muttering to myself, and seriously questioning if my servers were playing some kind of elaborate prank. 
+
+We’re deep into 2023, and the push to vSphere 8 has been in full swing. So, naturally, we took the plunge, upgrading our vCenter Server Appliance (vCSA) and our ESXi hosts. Everything *seemed* to go smoothly initially. The upgrade wizard didn't throw any red flags, the servers rebooted, and I was feeling pretty good about being a proactive IT admin.
+
+Then came the licensing. 
+
+One of our hosts, despite *clearly* displaying vSphere 8 in its system information, stubbornly insisted it was still running vSphere 7. This, as you can imagine, caused a delightful conflict when trying to assign our vSphere 8 license. I checked everything – versions, configurations, the manual – you name it. Nothing. It was like the server was living in a different dimension.
+
+After a good amount of head-scratching and a few frantic searches through VMware documentation, I stumbled upon a suggestion: temporarily switch to an evaluation license. And, unbelievably, it worked! After a brief stint running on an evaluation, the host magically recognized the vSphere 8 license. 
+
+It was a bizarre, slightly unsettling experience. It really highlights how even seemingly straightforward upgrades can throw curveballs. It's a reminder that in the world of virtualization, sometimes you just have to take a step back, try something unexpected, and hope for the best. Anyone else had a similar licensing hiccup? Let me know in the comments – misery loves company, right?

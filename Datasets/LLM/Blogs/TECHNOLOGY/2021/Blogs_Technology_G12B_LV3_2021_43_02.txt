@@ -1,0 +1,4 @@
+
+## Remembering the Duck: Typing and the Joy of JavaScript
+
+It's 2021, and I'm still finding joy in the flexibility of JavaScript. Lately, I've been diving into duck typing, that wonderfully pragmatic "if it walks like a duck..." idea. TypeScript’s approach to this, letting you define types loosely, is surprisingly neat! It reminds me of a Monty Python sketch – embracing the absurd while still getting things done. Sometimes, the most elegant solutions are delightfully unexpected.

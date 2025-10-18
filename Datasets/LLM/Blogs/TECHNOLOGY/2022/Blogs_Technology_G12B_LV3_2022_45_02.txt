@@ -1,0 +1,4 @@
+)
+## Wrestling with WASM and the Dream of a Nicer DSL
+
+Okay, so I've been down a rabbit hole lately – WebAssembly. It’s incredible what you can do with it, but building things *reliably* feels… tricky. I'm really wishing for a cleaner way to generate WASM IR. String concatenation just screams "future debugging nightmare." I’m exploring the idea of crafting a little DSL and using something like `pest.rs` to parse it into structured operations. It feels like a safer, saner path. Anyone else tackling WASM generation and wrestling with similar challenges? Let's chat!

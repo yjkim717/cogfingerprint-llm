@@ -1,0 +1,5 @@
+raunchy
+
+## The Ghost in the Machine: Who Owns a Pre-trained Neural Network?
+
+Something’s been swirling in my mind lately – a question sparked by a Reddit thread. We’re all building on the shoulders of giants in machine learning, leveraging these incredible pre-trained networks. But who *owns* those shoulders? It feels a bit like compiled code, doesn't it? The architecture itself, the weights… are they truly free for commercial use? It’s a surprisingly murky area of intellectual property, and one I suspect we'll be wrestling with a lot more as AI continues to evolve in 2021.

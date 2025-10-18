@@ -1,0 +1,9 @@
+>## The ZFS RAM Rabbit Hole: My Home Lab Headaches (and Maybe Some Solutions?)
+
+Okay, fellow home labbers, let's talk ZFS. I've been diving deep into setting up a RAIDZ1 array in my Proxmox cluster – a move I thought would give me some serious storage peace of mind. But then the RAM question reared its head. 
+
+You’ve probably heard the rule of thumb: 1GB of RAM per TB of storage. But *is* that 1GB per TB of *usable* space, or total capacity? And more importantly, is it truly essential if you’re *not* using deduplication?
+
+I’ve been wrestling with this all week. My array isn't massive, but the potential cost of adding more RAM just to satisfy a guideline felt… excessive. I'm still experimenting, monitoring performance closely, and honestly, I'm leaning towards it being okay without the extra RAM *for my specific use case*. 
+
+Anyone else facing this dilemma? What's your experience with ZFS and RAM in a home lab environment? Let's share some wisdom!

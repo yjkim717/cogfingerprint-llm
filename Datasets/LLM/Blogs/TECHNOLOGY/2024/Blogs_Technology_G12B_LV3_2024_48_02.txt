@@ -1,0 +1,8 @@
+)
+## When the Dark Consumes the Fun: A Project Zomboid Reflection
+
+Okay, so I've been *really* into Project Zomboid lately. It's this incredible zombie survival sim, super realistic and brutally challenging. But something's been nagging at me, and I wanted to share it. It’s the darkness. Seriously, the nighttime in this game can be oppressive.
+
+It's not just spooky, which, let's be honest, is part of the appeal. It’s that the darkness *actively* hinders gameplay. Driving at night? Forget about it. Headlights barely cut through the gloom, and navigating those winding roads becomes a tense, slow crawl. Even indoors, finding your way around a looted pharmacy feels like a blind man's quest.
+
+It got me thinking about how we often design experiences – in games, apps, even websites – without fully considering the impact of limited visibility. We prioritize aesthetic darkness, but at what cost to usability and enjoyment? Maybe a little tweaking of visibility ranges and lighting would go a long way to preserving the tension without completely obliterating the fun. Anyone else feel this way?

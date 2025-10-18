@@ -1,0 +1,10 @@
+## The Quest for the Minimalist Streaming Setup
+
+Okay, so I've been down a rabbit hole lately – a very specific rabbit hole involving an Intel NUC, a big TV, and a desperate desire for a *less* cluttered living room. I’m running a super-lightweight Arch Linux setup (Sway, mostly) on the NUC for streaming, and while it’s fantastic for performance, the full keyboard and mouse combo felt… excessive. 
+
+Anyone else feel like we're drowning in peripherals? 
+
+I started researching remote control options – things that could handle both typing and basic mouse actions. i3wm and Sway communities are buzzing with ideas! It's amazing how much cleverness exists in the Linux world for solving these little, everyday annoyances. I’m leaning towards a wireless keyboard with trackpad combo, but the possibilities feel endless. It’s a reminder that even the simplest tech setups can be tweaked and personalized to perfectly fit *your* workflow.
+
+
+

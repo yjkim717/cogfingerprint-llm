@@ -1,0 +1,3 @@
+## The Frustrations of Retro Gaming on the Go (2022)
+
+Anyone else wrestling with getting classic games running smoothly on mobile? I’m currently battling crashes trying to play Majora’s Mask 3D on Citra via my Android – specifically, it seems my Snapdragon 8 Gen 1 is having a *time* with it. Decrypted files and all! It's a reminder that even with incredible tech, retro gaming on the go can still be a bumpy road.

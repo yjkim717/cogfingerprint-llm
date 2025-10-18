@@ -1,0 +1,5 @@
+ra
+
+## The Little LCD That Could (and Wouldn't Quite)
+
+Anyone else ever get that feeling of chasing a tech dream, only to be met with a wall? Lately, I've been wrestling with a Supermicro LCD display (MCP-210-00007-01) on my pfSense box. Supermicro even released FreeBSD libraries, which felt like a huge win! But getting LCDproc to play nice? Not so much. It’s a reminder that even with the best intentions and shiny new libraries, sometimes getting hardware to sing with your favorite OS can be a surprisingly stubborn battle. Anyone else had similar experiences?

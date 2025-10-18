@@ -1,0 +1,3 @@
+## Password Policies: When Rules Collide (and What It Means for Us)
+
+Ever feel like tech rules are a bit…confusing? I was wrestling with it just yesterday! Apparently, in Windows domains, a broad Group Policy Object (GPO) and a more specific "fine-grained" password policy can clash on minimum lengths. It’s a reminder that even seemingly simple security measures can have unexpected precedence, impacting everyone. 2024 and still navigating these complexities!

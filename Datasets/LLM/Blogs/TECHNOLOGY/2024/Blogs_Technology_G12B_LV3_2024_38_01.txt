@@ -1,0 +1,6 @@
+)
+## The Topic Modeling Struggle is Real (and Why I Miss Keras)
+
+Anyone else feel like wrestling with topic modeling in Python can be… a bit of a headache? I've been diving back into LDA with Gensim and Sklearn lately, and while they’re powerful, monitoring convergence feels clunky. It's all iterative loops and manual checks. 
+
+Honestly, I miss the elegance of Keras! That seamless tracking of metrics felt so intuitive. In 2024, shouldn't there be a more streamlined way to see how our topic models are *really* settling in? Maybe it's time for a new library to rise up!

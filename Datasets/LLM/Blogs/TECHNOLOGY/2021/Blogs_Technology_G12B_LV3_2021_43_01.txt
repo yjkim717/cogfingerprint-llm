@@ -1,0 +1,5 @@
+## The Joy of Mock Data (and a Little Package That Makes It Easy)
+
+Okay, let's be honest, building out real data for testing can be a *drag*. Hours spent crafting realistic datasets? No thanks! That's why I'm pretty excited about a little package called `pydantic-factories`. Goldziher just released version 0.6.0, and it’s seriously simplifying things. 
+
+It generates mock data directly from your Pydantic models and dataclasses – think instant, usable data for your Python projects. It's been a real time-saver for me this year, letting me focus on the *actual* logic rather than fiddling with data creation. If you’re using Pydantic, definitely check it out and let Goldziher know what you think!

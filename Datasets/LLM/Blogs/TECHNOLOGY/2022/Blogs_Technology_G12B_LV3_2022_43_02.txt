@@ -1,0 +1,15 @@
+## The Mockingbird and the Package: A Testing Philosophy I'm Stuck On
+
+It's funny how seemingly small technical disagreements can really burrow under your skin and spark a whole internal debate. Recently, I had one with a colleague about where mocks should live – specifically, should they reside in the same package as the code you’re testing? 
+
+We went around and around on it, and while he had his reasons (convenience, mostly), I found myself increasingly convinced that keeping them separate is the way to go. It feels… cleaner. More focused. 
+
+Think about it. When you embed your mocks directly within the same package, aren’t you essentially testing the *implementation* details as much as the actual interface? You’re tying your tests too closely to how things are *done*, rather than *what* they do. 
+
+This year, 2022, feels like a year of refining best practices. We're all realizing that codebases are becoming increasingly complex, and anything that promotes modularity and resilience is gold. For me, that means embracing interface-based testing. Define your contracts, test against those contracts, and don't get bogged down in the minutiae of how a specific function is implemented.
+
+It’s a subtle shift in mindset, but I believe it leads to more robust and maintainable tests. Tests should be a safety net, not a snapshot of a single, fragile moment in time. And sometimes, just sometimes, the best way to build that safety net is to keep your mockingbirds singing a little further away from the nest.
+
+
+
+What are your thoughts on test organization? I'd love to hear your perspective!

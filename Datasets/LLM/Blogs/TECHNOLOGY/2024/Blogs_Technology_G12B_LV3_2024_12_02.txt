@@ -1,0 +1,15 @@
+## The LLM Hype vs. Reality: My Vue 3 Coding Experiment
+
+Okay, let's be honest. We've all been swept up in the LLM frenzy. ChatGPT, Mistral, the promise of AI coding assistants… it sounded like the future was *finally* here, ready to make our developer lives infinitely easier. As a Vue 3 enthusiast, I jumped in headfirst, eager to see how these tools could streamline my workflow.
+
+The initial excitement was real. Prompting ChatGPT to generate a simple component felt almost magical. But as I delved deeper into a more complex project, the cracks started to show. Suddenly, I wasn't just tweaking code; I was constantly debugging, refactoring, and questioning the logic behind what the AI spat out. 
+
+It felt less like having a coding partner and more like wrestling with a really, *really* advanced search engine. It could pull snippets and patterns, sure, but understanding the nuances of my specific codebase? Not so much. And for someone newer to Vue 3, trying to decipher the AI's suggestions would have been utterly baffling.
+
+I'm not saying LLMs are useless. They *can* be helpful for generating boilerplate or exploring different approaches. But the narrative of them replacing developers? That feels wildly premature, especially in 2024. 
+
+My experience left me with a renewed appreciation for the fundamentals and a healthy dose of skepticism. The future of AI in coding is undoubtedly exciting, but for now, it seems we’re still very much in the “experimental phase.” And sometimes, a good old-fashioned Google search and a solid understanding of Vue 3 still beats an AI-generated solution any day.
+
+
+
+What are your experiences with LLMs and coding? Let's chat in the comments!

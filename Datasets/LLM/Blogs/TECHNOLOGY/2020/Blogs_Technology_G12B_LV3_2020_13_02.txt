@@ -1,0 +1,6 @@
+)
+## The Weight of a Creative Cloud Sunset
+
+It’s 2020, and so many of us are re-evaluating… everything. For me, that’s included my creative toolkit. Adobe InDesign has been my trusty sidekick for years – newsletters, cards, even a couple of magazine layouts. But the monthly Creative Cloud fees? They started to feel like a real weight. 
+
+The thought of losing access, especially with a backlog of existing files, was daunting. It felt like admitting defeat, like abandoning a loyal friend. But practicality won. I’ve been diving into Scribus, a free, open-source alternative, and slowly migrating my templates. It's a learning curve, absolutely, but surprisingly rewarding. It’s a reminder that creativity shouldn't be locked behind a paywall, and there are often brilliant, accessible options waiting to be discovered. Anyone else facing a similar tech transition?

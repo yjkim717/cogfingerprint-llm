@@ -1,0 +1,3 @@
+## The Joy of a Single JavaScript File (and Sanity)
+
+Remember wrestling with a dozen JavaScript files just to get one page working? Yeah, me too. It was 2020, and my projects felt like tangled yarn. Then I dove into modules and bundling. Suddenly, I could consolidate everything into a single, manageable entry point. It’s not just about cleaner code; it's about reclaiming a little bit of my sanity in a world of endless libraries. Seriously, *so* much better.

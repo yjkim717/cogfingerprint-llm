@@ -1,0 +1,8 @@
+)
+## The Desktop Dance: My Frustrations with CS:GO and Alt-Tabbing
+
+Okay, so I've been wrestling with something *really* frustrating in CS:GO lately. Anyone else ever experience this? I’m playing in fullscreen 4:3 stretched (yes, I’m old school!), and whenever I try to alt-tab out – maybe to quickly check Spotify or Discord – the game just… kicks me right back to the desktop. Full screen, no warning, just *bam*.
+
+It’s beyond annoying when you're trying to coordinate with your team. Like, "Just gotta quickly see if my friend needs help!" and then *poof*, you're staring at your desktop background. I’ve been scouring forums, trying different launch options, but nothing seems to completely fix it. 
+
+Anyone else having this issue? Any magical solutions I'm missing? Let me know in the comments – I'm desperate!

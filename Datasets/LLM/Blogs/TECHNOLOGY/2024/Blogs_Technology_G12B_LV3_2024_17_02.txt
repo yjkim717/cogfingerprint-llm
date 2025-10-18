@@ -1,0 +1,7 @@
+>## The Quiet Thrill of DIY: My WordPress & VPS Journey
+
+Okay, let's be honest, the cloud is *easy*. One-click installs, managed everything – it's tempting to just hand over the reins. But there's something deeply satisfying about the quiet thrill of building things yourself, isn't there? Lately, I've been diving headfirst into the world of self-hosting WordPress, and it's been a surprisingly rewarding journey.
+
+I just snagged a new VPS, and the possibilities are swirling. Do I go straight for a direct WordPress install? Or do I embrace the containerization magic of Docker? And should I wrestle with the command line alone, or add a control panel like CloudPanel into the mix? 
+
+It’s a bit overwhelming, I won’t lie. There’s a learning curve, definitely. But the thought of having complete control, of understanding *exactly* how my sites are running, is incredibly appealing. It’s 2024, and while managed solutions have their place, there's a resurgence of folks wanting to get their hands dirty. I'll keep you posted on what I decide – and the inevitable bumps along the road! Wish me luck!

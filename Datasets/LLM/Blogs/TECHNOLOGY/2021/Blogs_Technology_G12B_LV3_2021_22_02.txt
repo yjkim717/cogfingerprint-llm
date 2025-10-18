@@ -1,0 +1,11 @@
+>## The Ghost Files That Almost Haunted Our Horizon View
+
+It's funny how the smallest things can sometimes cause the biggest headaches, isn’t it? We all have those moments in tech where you’re staring at a screen, utterly baffled, wondering what seemingly innocuous detail is bringing your entire system to its knees. That’s exactly what happened to us recently with our VMware Horizon View deployment running on VSAN.
+
+Things were running smoothly, users were happy, and then… the provisioning errors started cropping up. We were hitting component capacity limits, and the system was struggling to spin up new virtual desktops. Initially, we went down the usual rabbit holes – checking storage utilization, network connectivity, the whole nine yards. Everything *looked* fine.
+
+But the deeper we dug, the more a strange pattern emerged. We realized Horizon View wasn't properly deleting associated VMDK files when a virtual machine was decommissioned. These orphaned files, like digital ghosts, were silently accumulating, eating away at our VSAN capacity. 
+
+It’s a classic case of the unexpected consequence, really. We were so focused on the big picture – the overall architecture and performance – that we overlooked this seemingly minor detail. After some careful investigation and a bit of manual cleanup (removing those lingering VMDKs!), everything sprang back to life. 
+
+This experience served as a solid reminder: even in the most robust environments, diligent monitoring and a keen eye for detail are crucial. It’s a lesson I suspect many of us in IT can relate to – the quiet, persistent problems that can derail even the best-laid plans. And it’s a good story to share, just in case you're ever facing a similar ghostly apparition in your infrastructure!

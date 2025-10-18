@@ -1,0 +1,3 @@
+## The Growing Pains of a Large Schema (and How Elixir Helped)
+
+It's 2023, and our API is *thriving*. But that growth came with a challenge: a sprawling Ecto schema. Suddenly, changesets felt… monolithic. I was wrestling with validation logic scattered everywhere. Thankfully, Elixir's modularity, combined with changesets and a bit of pre-processing, offered a lifeline. Breaking things down into smaller, manageable pieces? A game-changer for maintainability.

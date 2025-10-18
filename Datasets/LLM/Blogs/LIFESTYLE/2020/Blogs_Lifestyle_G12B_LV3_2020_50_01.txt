@@ -1,0 +1,3 @@
+## The Frustration of the Almost-Perfect Navbar (and Why It Matters)
+
+Remember 2020? Everything felt like a puzzle. I was wrestling with a simple navbar – just wanted a little overlap, a touch of visual flair. Hours vanished down Google, Bootstrap, Stack Overflow rabbit holes. Nothing. It’s funny, isn't it? How a tiny design detail can expose the gaps in our knowledge and remind us that sometimes, the best solutions aren't readily available. It pushed me to really *understand* CSS, and that felt pretty good.

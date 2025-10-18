@@ -1,0 +1,5 @@
+>## The Fence Around My Workday: Geo-Fencing and Office 365
+
+Remember 2020? Remote work was the name of the game. We were all figuring out how to balance home life and staying productive. I was wrestling with a new feature in Office 365 – geo-fencing. The idea? Restricting access to company data based on location. 
+
+But a question kept popping up: did I need premium P1 licenses for *everyone* to make it work, or just a few key admins? It felt like another layer of complexity in an already shifting landscape. Turns out, the answer wasn’t always straightforward, and navigating those license nuances was a small but significant hurdle in securing our data while we all worked from… everywhere.

@@ -1,0 +1,6 @@
+)
+## The SDXL LORA Training Struggle is Real (and Takes *Forever*)
+
+Okay, fellow AI art enthusiasts, let's talk. I've been diving deep into training SDXL Loras with Kohya, and wow, it's been a journey! I’m sure many of you are experiencing the same thing: the sheer *time* commitment is staggering. Hours, sometimes days, just to see if your LORA is actually… usable.
+
+I've been chasing that sweet spot – avoiding the dreaded undertrained results, or worse, the overtrained monstrosities. Finding the right settings feels like an art in itself. Anyone else feeling the frustration of tweaking parameters and praying for quality? Sharing tips and tricks would be a lifesaver! Let’s commiserate (and help each other) conquer this SDXL LORA training beast. What settings have *you* found work best?

@@ -1,0 +1,5 @@
+>## Those Unexpected 2020 Walks – and the Data Behind Them
+
+Remember 2020? Stuck at home, a little stir-crazy, and suddenly… walking. A *lot* of walking. I found myself exploring my neighborhood more than ever before, just to get out of the house. It was surprisingly therapeutic. 
+
+I even started tracking my steps, just for fun. Now, looking back, I was curious. So, I pulled my old step data from that year – a simple text file, really. A little Python script (reading the file, processing the data, calculating monthly averages… it was a fun mini-project!) revealed something interesting: my average daily steps were significantly higher in 2020 than in previous years. Who knew a pandemic could be a motivator?

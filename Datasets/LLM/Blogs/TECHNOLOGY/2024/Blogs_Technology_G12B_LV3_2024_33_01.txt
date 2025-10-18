@@ -1,0 +1,4 @@
+)
+## The Ghost in the Machine (and My Oracle Cloud Surprise)
+
+So, I was tidying up my Oracle Cloud Free Tier setup – you know, the usual spring cleaning for digital resources – and something odd happened. After terminating an instance, I noticed storage was *still* being used. Turns out, a little orphaned boot volume was lingering! A good reminder that even in the cloud, things don't always vanish with a click. Resource management is key, folks! Anyone else ever encounter these sneaky digital leftovers?

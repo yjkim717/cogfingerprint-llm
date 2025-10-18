@@ -1,0 +1,14 @@
+## Ditching the Mapping Middleman: Scala 3 and the Quest for Cleaner Code
+
+Okay, let’s be honest. Anyone who's built a REST service in Java has probably wrestled with MapStruct at some point. It's a handy tool, sure, but sometimes it felt like adding another layer of complexity to an already intricate process. I found myself constantly tweaking configuration files, chasing down errors, and wondering if there *had* to be a better way.
+
+Then Scala 3 entered the picture, and things started to feel different. 
+
+Late 2021, I began experimenting with using Scala 3's powerful type system to handle the mapping of our entity models to DTOs for our REST endpoints. The idea was simple: leverage Scala's capabilities to build a more direct, type-safe mapping process, effectively cutting out the middleman. 
+
+The results? Surprisingly clean code. The ability to define these mappings directly within the code felt incredibly natural and reduced the risk of runtime errors. We were pulling data from multiple sources, stitching it together, and presenting it in a consistent format – all with a newfound elegance.
+
+Of course, it wasn’t all smooth sailing. The dreaded mismatched field names still popped up, requiring careful consideration and custom logic. But even with those challenges, the overall experience felt significantly better. It's a reminder that sometimes, the best tools aren’t the most popular ones, but the ones that best suit your specific needs and allow you to write code you’re genuinely proud of.
+
+
+

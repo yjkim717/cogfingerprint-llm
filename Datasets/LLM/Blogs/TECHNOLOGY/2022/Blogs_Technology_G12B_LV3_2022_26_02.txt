@@ -1,0 +1,5 @@
+>## The Upgrade Dilemma: Can My Old Board Still Handle It?
+
+Okay, so I’ve been staring at my gaming rig for a while now, feeling that familiar itch. My RTX 2070 Super is still holding its own, but those frame rates in the latest titles… well, let's just say they're not *quite* what I'd hoped for. I started looking at Intel i5 and i7 processors, dreaming of a performance boost. 
+
+But then reality hit. My motherboard is an H470. It’s a solid board, but is it ready for a serious CPU upgrade? I've been reading around, and it seems like a compatible i7 could definitely breathe some new life into things, especially with my current memory speed. It’s a classic tech dilemma: upgrade the core without breaking the bank! Anyone else ever wrestled with this?

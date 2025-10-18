@@ -1,0 +1,9 @@
+>Okay, here's a blog post draft inspired by the summary and keywords, aiming for a conversational, reflective tone and fitting the 2021 context:
+
+## Wrestling with Scala 3: When Records and Self-Types Collide
+
+It’s late 2021, and I’m still deeply fascinated (and occasionally frustrated!) by Scala 3. The language is evolving so rapidly, which is exciting, but it also means you’re constantly grappling with new concepts. Lately, I've been wrestling with something specific: how to elegantly combine record types with self-types. 
+
+The goal? A clean way to extend existing record types and, crucially, *keep* all that lovely type information intact. I’m trying to build a “join” function, essentially, but Scala 3's type system is throwing a few curveballs. 
+
+It’s a reminder that even with powerful metaprogramming tools, building robust abstractions can be surprisingly tricky.  It's pushing me to really *think* about how I structure my code and how to leverage Scala 3's features to their fullest potential. Anyone else encountering similar challenges with Scala 3’s type system? Let's commiserate (and hopefully share some solutions!) in the comments.

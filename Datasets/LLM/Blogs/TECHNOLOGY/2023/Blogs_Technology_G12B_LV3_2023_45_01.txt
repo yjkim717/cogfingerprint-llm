@@ -1,0 +1,8 @@
+)
+## The Ideas That Don't Quite Make It
+
+It's a strange feeling, pouring your energy into a technical proposal, crafting something you genuinely believe could improve a system, and then… silence. I recently stumbled across some old notes about the FROST protocol – a fascinating area of cryptography and blockchain tech – and remembered a signature scheme I'd tinkered with a while back. 
+
+The idea was to streamline commitment validation, essentially making things more efficient. I even put together a proposal, hoping to spark some discussion within the community. But it just… didn't gain traction. 
+
+It's a humbling reminder that innovation isn’t always about breakthroughs. Sometimes, it’s about contributing ideas, even if they don't immediately resonate. It’s 2023, and the pace of development is relentless. Still, I'm holding onto the belief that even overlooked concepts can plant seeds for future progress.

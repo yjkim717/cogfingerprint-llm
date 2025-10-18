@@ -1,0 +1,8 @@
+)
+## Escaping the Squarespace Bubble: My Domain Registration Journey
+
+Okay, confession time: I’ve been a Squarespace devotee for *years*. It was easy, pretty, and got the job done. But as a sysadmin, I’ve started feeling… constrained. I need more control, especially when it comes to my domains. 
+
+So, I’m embarking on a migration – ditching the all-in-one platform for a more modular setup. The biggest hurdle? Finding a reliable domain registrar, *especially* one that plays nice with .ca domains. 
+
+I've been diving deep into options like DNSimple and Cloudflare. It's a little daunting stepping outside my comfort zone, but the promise of greater flexibility and a deeper understanding of my infrastructure is really exciting. Anyone else made a similar leap? What are your favorite domain registration services? Let's chat!

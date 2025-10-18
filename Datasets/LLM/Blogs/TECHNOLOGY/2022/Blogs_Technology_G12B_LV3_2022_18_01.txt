@@ -1,0 +1,4 @@
+)
+## The Mobile App Dilemma: Balancing Security and Flexibility
+
+It's 2022, and our work lives are *everywhere*. Lately, I've been wrestling with a common admin challenge: how to keep Office 365 secure while still letting folks access their Outlook on mobile. Blocking the app entirely felt too drastic, but leaving it wide open? Risky. We’re experimenting with device access rules – a way to selectively grant access. It's a delicate balance, but finding that sweet spot between protection and usability feels pretty crucial these days.
