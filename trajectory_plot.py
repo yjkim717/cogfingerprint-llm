@@ -1,4 +1,4 @@
-# trajectory_plot.ipynb
+# trajectory_plot.py
 # ------------------------------------------------------
 # Visualize cognitive–emotional–stylistic trajectories
 # and compare with static baseline means
@@ -20,7 +20,7 @@ df["year"] = df["year"].astype(str)
 
 # === Compute yearly averages ===
 metrics_of_interest = [
-    "openness", "conscientiousness",        # Cognitive
+    "Openness", "Conscientiousness",        # Cognitive
     "polarity", "subjectivity",             # Emotional
     "word_diversity", "avg_sentence_length" # Stylistic
 ]
@@ -45,11 +45,9 @@ plt.subplot(3, 1, 1)
 for label, color in zip(["human", "llm"], ["#2a9d8f", "#e76f51"]):
     subset = df_yearly[df_yearly["label"] == label]
     base = baseline[baseline["label"] == label]
-    # Trajectories
-    plt.plot(subset["year"], subset["openness"], marker="o", label=f"{label} – Openness", color=color)
-    plt.plot(subset["year"], subset["conscientiousness"], marker="s", linestyle="--", label=f"{label} – Conscientiousness", color=color, alpha=0.7)
-    # Baseline (static mean)
-    plt.axhline(y=float(base[f"baseline_openness"]), color=color, linestyle=":", alpha=0.6)
+    plt.plot(subset["year"], subset["Openness"], marker="o", label=f"{label} – Openness", color=color)
+    plt.plot(subset["year"], subset["Conscientiousness"], marker="s", linestyle="--", label=f"{label} – Conscientiousness", color=color, alpha=0.7)
+    plt.axhline(y=float(base[f"baseline_Openness"]), color=color, linestyle=":", alpha=0.6)
 plt.title("🧠 Cognitive Trajectories vs Static Baseline")
 plt.ylabel("Mean Score")
 plt.legend()

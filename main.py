@@ -36,10 +36,22 @@ def iter_human_files():
             base = os.path.join(HUMAN_DIR, spec["path"], sub)
             if not os.path.isdir(base):
                 continue
-            for year in os.listdir(base):
-                folder = os.path.join(base, year)
-                for file in glob(os.path.join(folder, "*.txt")):
+
+            # ✅ Case 1: News has no year subfolders (files directly inside)
+            if genre.lower() == "news":
+                for file in glob(os.path.join(base, "*.txt")):
                     yield file
+                continue  # skip the nested-loop logic below
+
+            # ✅ Case 2: Academic / Blogs (have year subfolders)
+            for folder in os.listdir(base):
+                folder_path = os.path.join(base, folder)
+                if not os.path.isdir(folder_path):
+                    continue
+                for file in glob(os.path.join(folder_path, "*.txt")):
+                    yield file
+
+
 
 
 # =========================================================================

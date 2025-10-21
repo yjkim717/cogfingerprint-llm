@@ -3,7 +3,9 @@ import re
 from typing import Dict
 from config import get_llm_path
 
-# (DeepSeek / Gemma / Llama)
+# -------------------------------------------------------------------------
+# MODEL TAGS
+# -------------------------------------------------------------------------
 MODEL_TAGS = {
     "DEEPSEEK": "DS",
     "GEMMA_4B": "G4B",
@@ -29,38 +31,43 @@ def write_text(path: str, content: str):
 
 
 # -------------------------------------------------------------------------
-# METADATA PARSING
+# METADATA PARSING (supports Academic / Blogs / News / custom structures)
 # -------------------------------------------------------------------------
 def parse_metadata_from_path(human_path: str) -> Dict[str, str]:
     """
     Parse genre, subfield, year, and index from a Human dataset path.
 
-    Supports multiple folder/file naming styles:
+    Supports:
       - Academic: Datasets/Human/Academic/bio/2020/Bio_DS_2020_01.txt
       - Blogs:    Datasets/Human/Blogs/Lifestyle/2022/LIFESTYLE_2022_10_02.txt
       - News:     Datasets/Human/News/politics/2023/NEWS_2023_01.txt
+      - Custom:   Datasets/Human/News/3_years/3_years_01_2015_01.txt
     """
     parts = os.path.normpath(human_path).split(os.sep)
 
     try:
         idx = parts.index("Human")
         genre = parts[idx + 1]           # e.g. Academic / Blogs / News
-        subfield = parts[idx + 2]        # e.g. bio / Lifestyle / politics
-        year = parts[idx + 3]            # e.g. 2020
-        filename = parts[idx + 4]        # e.g. Bio_DS_2020_01.txt
+        subfield = parts[idx + 2]        # e.g. bio / Lifestyle / 3_years
+        filename = parts[-1]             # Always the filename
     except (ValueError, IndexError):
         raise ValueError(f"Unexpected path structure: {human_path}")
 
-    index = "01"  # Default
+    # --- Case 1: Custom News files (e.g., 3_years_01_2015_01.txt)
+    m_custom = re.search(r"([A-Za-z0-9_]+)_(\d{2})_(\d{4})_(\d{2})\.txt$", filename)
+    if m_custom:
+        subfield_name = m_custom.group(1)  # e.g., 3_years
+        batch = m_custom.group(2)          # e.g., 01
+        year = m_custom.group(3)           # e.g., 2015
+        index = m_custom.group(4)          # e.g., 01
+        return {
+            "genre": genre,
+            "subfield": subfield_name.lower(),
+            "year": str(year),
+            "index": str(index),
+        }
 
-    # Case 1Academic: Bio_DS_2020_01.txt
-    m_acad = re.search(r"_(\d{4})_(\d+)\.txt$", filename)
-    if m_acad:
-        year = m_acad.group(1)
-        index = m_acad.group(2)
-        return {"genre": genre, "subfield": subfield.lower(), "year": str(year), "index": str(index)}
-
-    # Case 2️ Blogs: LIFESTYLE_2022_10_02.txt
+    # --- Case 2: Blogs (LIFESTYLE_2022_10_02.txt)
     m_blog = re.search(r"([A-Za-z]+)_(\d{4})_(\d{2})_(\d{2})\.txt$", filename)
     if m_blog:
         subfield_from_name = m_blog.group(1)
@@ -74,19 +81,44 @@ def parse_metadata_from_path(human_path: str) -> Dict[str, str]:
             "index": f"{month}_{index}",
         }
 
-    # Case 3️ News: NEWS_2023_01.txt
+    # --- Case 3: Academic (Bio_DS_2020_01.txt)
+    m_acad = re.search(r"_(\d{4})_(\d+)\.txt$", filename)
+    if m_acad:
+        year = m_acad.group(1)
+        index = m_acad.group(2)
+        return {
+            "genre": genre,
+            "subfield": subfield.lower(),
+            "year": str(year),
+            "index": str(index),
+        }
+
+    # --- Case 4: Standard News (NEWS_2023_01.txt)
     m_news = re.search(r"([A-Za-z]+)_(\d{4})_(\d+)\.txt$", filename)
     if m_news:
         subfield_from_name = m_news.group(1)
         year = m_news.group(2)
         index = m_news.group(3)
-        return {"genre": genre, "subfield": subfield_from_name.lower(), "year": str(year), "index": str(index)}
+        return {
+            "genre": genre,
+            "subfield": subfield_from_name.lower(),
+            "year": str(year),
+            "index": str(index),
+        }
 
-    raise ValueError(f"Cannot parse metadata from filename: {filename}")
+    # --- Fallback (extract first 4-digit year from anywhere)
+    year_match = re.search(r"\d{4}", human_path)
+    year = year_match.group(0) if year_match else "0000"
+    return {
+        "genre": genre,
+        "subfield": subfield.lower(),
+        "year": str(year),
+        "index": "01",
+    }
 
 
 # -------------------------------------------------------------------------
-# OUTPUT FILENAME BUILDER (LV1–3 지원)
+# OUTPUT FILENAME BUILDER
 # -------------------------------------------------------------------------
 def build_llm_filename(meta: Dict[str, str], level: int | None = None) -> str:
     """
@@ -100,8 +132,6 @@ def build_llm_filename(meta: Dict[str, str], level: int | None = None) -> str:
 
     genre = meta["genre"]
     subfield = meta["subfield"].capitalize() if genre.lower() == "blogs" else meta["subfield"]
-
     tag_with_level = f"{tag}_LV{level}" if level else tag
 
     return f"{genre}_{subfield}_{tag_with_level}_{meta['year']}_{meta['index']}.txt"
-

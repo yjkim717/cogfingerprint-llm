@@ -21,7 +21,7 @@ OPENROUTER_BASE = "https://openrouter.ai/api/v1"
 GEMMA_4B = {
     "base_url": OPENROUTER_BASE,
     "api_key": os.getenv("OPENROUTER_API_KEY"),
-    "model": "google/gemma-3-4b-it:free",  
+    "model": "google/gemma-3-4b-it",  
 }
 
 GEMMA_12B = {
@@ -33,7 +33,7 @@ GEMMA_12B = {
 LLAMA_MAVRICK = {
     "base_url": OPENROUTER_BASE,
     "api_key": os.getenv("OPENROUTER_API_KEY"),
-    "model": "meta-llama/llama-4-maverick:free",
+    "model": "meta-llama/llama-4-maverick",
 }
 
 PROVIDERS = {
