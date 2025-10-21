@@ -1,0 +1,15 @@
+# Ignore datasets and generated outputs
+Datasets/
+*.csv
+*.txt
+
+# Ignore virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.DS_Store
