@@ -3,26 +3,33 @@ import torch
 import pandas as pd
 from transformers import BertTokenizer, BertForSequenceClassification
 
-TRAITS = ["Openness", "Conscientiousness", "Extraversion", "Agreeableness", "Neuroticism"]
+TRAITS = ["Extroversion", "Neuroticism", "Agreeableness", "Conscientiousness", "Openness"]
 
 def load_big5_model():
-    tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-    model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=5)
+    """Load the pre-trained Big Five personality prediction model."""
+    tokenizer = BertTokenizer.from_pretrained("Minej/bert-base-personality")
+    model = BertForSequenceClassification.from_pretrained("Minej/bert-base-personality")
     model.eval()
     return tokenizer, model
 
 def predict_big5(text, tokenizer, model):
+    """Predict Big Five personality traits from text using pre-trained model."""
+    if len(text.strip()) == 0:
+        return {trait: 0.0 for trait in TRAITS}
+    
     inputs = tokenizer(
         text,
         return_tensors="pt",
         truncation=True,
-        padding="max_length",
+        padding=True,
         max_length=512
     )
+    
     with torch.no_grad():
         outputs = model(**inputs)
-        probs = torch.sigmoid(outputs.logits).squeeze().tolist()
-    return dict(zip(TRAITS, probs))
+        predictions = outputs.logits.squeeze().detach().numpy()
+    
+    return {TRAITS[i]: float(predictions[i]) for i in range(len(TRAITS))}
 
 def extract_big5_features(dataset_dir, label, save_path):
     tokenizer, model = load_big5_model()
