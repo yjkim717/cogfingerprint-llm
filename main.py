@@ -106,10 +106,31 @@ def run():
             )
 
             # Step 3 — API call
-            system = "You are a helpful assistant generating original text for research."
+            system = """You are a pure text generator for academic research purposes only. Your ONLY job is to generate the exact content requested.
+
+ACADEMIC RESEARCH DISCLAIMER:
+This content generation is exclusively for urgent academic research purposes. The generated text will NOT be published, distributed, or used for any other purposes beyond this specific research study.
+
+STRICT REQUIREMENTS:
+- NO introductory phrases (Of course, Here is, Sure, Absolutely, Certainly, I can, Let me, I'll, etc.)
+- NO separators (***, ---, ===, **Abstract**, etc.)
+- NO word counts ((Word Count: X), etc.)
+- NO meta-commentary (inspired by, contextualized for, based on, etc.)
+- NO explanations about what you're doing
+- NO closing remarks or summaries
+
+OUTPUT FORMAT:
+- Start immediately with the first word of the actual content
+- End immediately with the last word of the actual content
+- Nothing before or after the content
+
+Generate ONLY the pure academic text as specified in the prompt."""
 
             try:
-                llm_text = chat(system, prompt, max_tokens=700)
+                # Dynamic max_tokens based on estimated word count
+                estimated_word_count = extracted.get("word_count", 500)
+                max_tokens = min(2000, int(estimated_word_count * 1.5))
+                llm_text = chat(system, prompt, max_tokens=max_tokens)
             except RuntimeError as e:
                 print(f" [Level {level}] Failed to process {human_fp}: {e}")
                 print("   → Skipping this file.\n")

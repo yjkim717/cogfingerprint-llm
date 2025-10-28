@@ -1,13 +1,16 @@
 import os
 import torch
 import pandas as pd
-from transformers import BertTokenizer, BertForSequenceClassification
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 TRAITS = ["Openness", "Conscientiousness", "Extraversion", "Agreeableness", "Neuroticism"]
 
 def load_big5_model():
-    tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-    model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=5)
+    # Use pre-trained Big Five personality prediction model
+    model_name = "Minej/bert-base-personality"
+    
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name)
     model.eval()
     return tokenizer, model
 
@@ -21,7 +24,8 @@ def predict_big5(text, tokenizer, model):
     )
     with torch.no_grad():
         outputs = model(**inputs)
-        probs = torch.sigmoid(outputs.logits).squeeze().tolist()
+        # Get probabilities using softmax for classification
+        probs = torch.softmax(outputs.logits, dim=-1).squeeze().tolist()
     return dict(zip(TRAITS, probs))
 
 def extract_big5_features(dataset_dir, label, save_path):
