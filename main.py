@@ -9,7 +9,11 @@ from utils.file_utils import (
 from utils.extract_utils import extract_keywords_summary_count
 from utils.prompt_utils import generate_prompt_from_summary
 from utils.api_utils import chat
-from config import HUMAN_DIR, GENRE_STRUCTURE, get_llm_path
+from config import GENRE_STRUCTURE, get_llm_path
+
+# Updated paths for cleaned_datasets
+CLEANED_HUMAN_DIR = "cleaned_datasets/cleaned_human"
+CLEANED_LLM_DIR = "cleaned_datasets/cleaned_llm"
 
 
 # =========================================================================
@@ -30,25 +34,34 @@ PROVIDER_TAG = {
 # HUMAN FILE ITERATOR
 # =========================================================================
 def iter_human_files():
-    """Iterate over all human text files under the defined genre/subfield/year structure."""
-    for genre, spec in GENRE_STRUCTURE.items():
-        for sub in spec["subfields"]:
-            base = os.path.join(HUMAN_DIR, spec["path"], sub)
-            if not os.path.isdir(base):
-                continue
-
-            # ✅ Case 1: News has no year subfolders (files directly inside)
-            if genre.lower() == "news":
-                for file in glob(os.path.join(base, "*.txt")):
+    """Iterate over all human text files from cleaned_datasets."""
+    for genre in ["Academic", "Blogs", "News"]:
+        genre_dir = os.path.join(CLEANED_HUMAN_DIR, genre)
+        if not os.path.isdir(genre_dir):
+            continue
+        
+        # Case 1: News - files are in filtered_years subdirectory
+        if genre.lower() == "news":
+            news_dir = os.path.join(genre_dir, "filtered_years")
+            if os.path.isdir(news_dir):
+                for file in glob(os.path.join(news_dir, "*.txt")):
                     yield file
-                continue  # skip the nested-loop logic below
-
-            # ✅ Case 2: Academic / Blogs (have year subfolders)
-            for folder in os.listdir(base):
-                folder_path = os.path.join(base, folder)
-                if not os.path.isdir(folder_path):
+            continue
+        
+        # Case 2: Academic / Blogs - have subfield folders with year subfolders
+        for subfield in os.listdir(genre_dir):
+            subfield_path = os.path.join(genre_dir, subfield)
+            if not os.path.isdir(subfield_path):
+                continue
+            
+            # Check for year subdirectories
+            for year_folder in os.listdir(subfield_path):
+                year_path = os.path.join(subfield_path, year_folder)
+                if not os.path.isdir(year_path):
                     continue
-                for file in glob(os.path.join(folder_path, "*.txt")):
+                
+                # Get all .txt files from this year
+                for file in glob(os.path.join(year_path, "*.txt")):
                     yield file
 
 
@@ -74,8 +87,19 @@ def run():
             meta = parse_metadata_from_path(human_fp)
             text = read_text(human_fp)
 
-            # Create output directory
-            llm_dir = get_llm_path(meta["genre"], meta["subfield"], meta["year"])
+            # Build output directory structure in cleaned_llm
+            genre = meta["genre"]
+            subfield = meta["subfield"]
+            year = meta["year"]
+            
+            # Create the corresponding directory structure
+            if genre.lower() == "news":
+                # News: put directly in cleaned_llm/News (no subfield/year structure)
+                llm_dir = os.path.join(CLEANED_LLM_DIR, "News")
+            else:
+                # Academic/Blogs: maintain subfield and year structure
+                llm_dir = os.path.join(CLEANED_LLM_DIR, genre, subfield, str(year))
+            
             os.makedirs(llm_dir, exist_ok=True)
 
             # LV1~3 filename
@@ -106,25 +130,30 @@ def run():
             )
 
             # Step 3 — API call
-            system = """You are a pure text generator for academic research purposes only. Your ONLY job is to generate the exact content requested.
+            system = """You are a PURE PLAIN TEXT generator for academic research. Your ONLY task is to output the raw text content.
 
-ACADEMIC RESEARCH DISCLAIMER:
-This content generation is exclusively for urgent academic research purposes. The generated text will NOT be published, distributed, or used for any other purposes beyond this specific research study.
+CRITICAL: PURE PLAIN TEXT ONLY
+This output will be directly analyzed as-is. Any formatting, metadata, or commentary will corrupt the research data.
 
-STRICT REQUIREMENTS:
-- NO introductory phrases (Of course, Here is, Sure, Absolutely, Certainly, I can, Let me, I'll, etc.)
-- NO separators (***, ---, ===, **Abstract**, etc.)
-- NO word counts ((Word Count: X), etc.)
-- NO meta-commentary (inspired by, contextualized for, based on, etc.)
+ABSOLUTELY FORBIDDEN:
+- NO "Here is", "Of course", "Sure", "Absolutely", "Certainly", "I can", "Let me", "I'll"
+- NO separators: ***, ---, ===, **Abstract**, #, ===
+- NO word counts: (Word Count: X)
+- NO meta-commentary: "inspired by", "contextualized for", "based on"
 - NO explanations about what you're doing
-- NO closing remarks or summaries
+- NO "The following text...", "Let me provide...", "I will now..."
+- NO closing remarks: "I hope this helps", "In summary", "Best regards"
+- NO markdown formatting: **bold**, *italic*, # headings
+- NO bullet points or lists with symbols
+- NO quotation marks around the text
+- NO box drawing characters: ┌─┐│└┘
+- NO emojis or special characters
 
-OUTPUT FORMAT:
-- Start immediately with the first word of the actual content
-- End immediately with the last word of the actual content
-- Nothing before or after the content
+START DIRECTLY WITH THE FIRST WORD OF YOUR RESPONSE
+END DIRECTLY WITH THE LAST WORD OF YOUR RESPONSE
+NOTHING BEFORE, NOTHING AFTER
 
-Generate ONLY the pure academic text as specified in the prompt."""
+Generate ONLY the raw plain text content as specified."""
 
             try:
                 # Dynamic max_tokens based on estimated word count
