@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-This investigation elucidates the asymptotic structure of the free massless Rarita-Schwinger field in four-dimensional Minkowski spacetime, employing a rigorous Hamiltonian formalism. While the theory's local gauge symmetry is finite-dimensional in the bulk, we demonstrate that its extension to spatial infinity yields a vastly richer symmetry algebra. Our analysis reveals the existence of an infinite-dimensional enhancement of the fermionic gauge symmetries, which we identify as improper gauge transformations. These transformations are physically significant as they act non-trivially on the phase space but leave the bulk dynamics invariant, thereby giving rise to non-trivial boundary degrees of freedom. The canonical generators of these symmetries are constructed, and their algebra is shown to be non-abelian, reflecting the intricate interplay between the fermionic boundary modes. This structure is the fermionic analogue of the infinite-dimensional BMS-like symmetries known from bosonic gauge theories and gravity. The presence of these boundary degrees of freedom and their associated charges has profound implications for the quantization of the theory, suggesting a non-trivial asymptotic Hilbert space. Furthermore, our findings contribute to the broader program of characterizing infrared sectors in gauge theories and hint at potential connections between fermionic soft theorems and memory effects within supersymmetric extensions of gravity.
-
-**(Word Count: 248)**

@@ -1,5 +1,0 @@
-Title: Revisiting the Hubble Constant: A Tip of the Red Giant Branch Calibration
-
-Abstract:
-
-The Hubble constant (H0) remains a contentious parameter in modern cosmology, with ongoing debates between values derived from early and late universe measurements. In this study, we present a recalibration of H0 using the Tip of the Red Giant Branch (TRGB) method, leveraging recent advancements in astrophysical measurements. By applying the TRGB technique to a sample of galaxies, we obtain a robust estimate of H0 = 69.6 ± 1.3 km s−1 Mpc−1, consistent with the standard ΛCDM cosmological model. Our result is in tension with some supernovae-based measurements, but aligns with other TRGB calibrations. The implications of this finding are significant for our understanding of dark energy and the expansion history of the universe. This study contributes to the growing body of evidence supporting a lower H0 value, highlighting the need for further investigation into the sources of discrepancy between different measurement approaches. (2021)

@@ -1,5 +1,0 @@
-Year: 2024
-Author: dualitybyslipknot
-URL: https://www.reddit.com/r/premiere/comments/1bb2ba1/am_i_going_crazy_or_is_there_really_no_way_to/
-
-Basically just the title. But under the 'Align and Transform' section in Captions and Graphics there is literally no tool to just change the size/scale of the words. It just changes the box size. Anyone else having this issue? I don't remember older versions having this issue...

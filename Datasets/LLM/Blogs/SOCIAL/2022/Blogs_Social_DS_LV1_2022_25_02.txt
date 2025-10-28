@@ -1,3 +1,0 @@
-Moving across the country in 2022 was daunting, but what truly kept me grounded was the virtual bridge I built with friends. Settling into my new South Carolina apartment, my first mission was securing fiber optic internet—not for streaming, but for reviving our old PS2 game nights.
-
-Using PCSX2 and ZeroTier, we bridged thousands of miles, laughing over lag-free matches as if we were in the same room. It struck me then: in a world still reeling from isolation, technology wasn’t just about speed; it was about preserving the irreplaceable hum of connection, turning distant screens into shared spaces where friendships thrived.

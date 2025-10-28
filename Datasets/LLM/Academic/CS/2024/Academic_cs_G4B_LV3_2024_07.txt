@@ -1,5 +1,0 @@
-Here’s an abstract based on the provided summary and keywords, adhering to the requested style and context:
-
-**Abstract:**
-
-Recent research explores the limitations of learnable distribution classes, particularly concerning privacy constraints. This work investigates scenarios where distributional learning is feasible with small datasets, yet fundamentally impossible under differential privacy.  We demonstrate a counterexample, implicitly challenging Ashtiani’s conjecture regarding the inherent trade-off between sample size and privacy guarantees.  Further analysis utilizing total variation distance highlights the sensitivity of these models to data perturbations, impacting their suitability for privacy-preserving machine learning applications in 2024.

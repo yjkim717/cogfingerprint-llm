@@ -1,7 +1,0 @@
-Here is a formal academic abstract based on your summary:
-
-**Abstract**
-
-Alzheimer's disease (AD) exhibits significant clinical and pathological heterogeneity, which complicates therapeutic development and patient management. To address this, we conducted a comprehensive cerebrospinal fluid (CSF) proteomic analysis of a large AD cohort. Our investigation revealed five distinct molecular subtypes, each characterized by unique protein expression signatures. Subsequent genetic association analyses demonstrated that these subtypes possess divergent polygenic risk profiles, implicating specific biological pathways in their pathogenesis. Critically, these molecular classifications were not merely correlative; they were predictive of longitudinal clinical outcomes, including significantly different rates of cognitive decline and survival. These findings establish a robust subtyping framework that integrates proteomic and genetic data. This stratification provides a biological foundation for moving beyond a uniform disease model, paving the way for personalized prognostic assessments and the future development of subtype-specific therapeutic interventions.
-
-(Word Count: 149)

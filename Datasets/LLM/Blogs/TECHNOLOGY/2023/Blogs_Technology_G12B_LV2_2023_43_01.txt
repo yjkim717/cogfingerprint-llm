@@ -1,6 +1,0 @@
-'s response
-## The Architect's Toolkit: More Than Just Lines on a Diagram
-
-I stumbled across a Reddit thread the other day asking about system design tools and best practices. It hit a nerve! Early in my career, I thought architecture was all about slick diagrams and impressive buzzwords. Turns out, it's so much more. 
-
-It’s about anticipating bottlenecks, understanding the *why* behind every decision, and relentlessly documenting your thinking. In 2023, with so many shiny new tools popping up, it’s easy to get distracted. But the core principles – clear communication, thoughtful planning, and a dash of humility – those remain the bedrock of good software architecture. Anyone else feel that?

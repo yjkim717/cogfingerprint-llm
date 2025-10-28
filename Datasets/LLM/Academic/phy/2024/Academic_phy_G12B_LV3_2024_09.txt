@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a physics/astrophysics publication and appropriate for a 2024 context:
-
-**Abstract:**
-
-Evaluating the fidelity of generative models in complex, high-dimensional parameter spaces presents a significant challenge in modern astrophysics. This work proposes a novel data space validation technique centered on quantile comparison, offering a rigorous assessment of predictive performance beyond traditional summary statistics. We demonstrate the efficacy of this method by applying it to a generative model designed to simulate galaxy photometry, a domain characterized by numerous observational parameters. Employing principal component analysis for dimensionality reduction, we establish a framework for directly comparing the predicted quantile distributions of simulated observables against those derived from real observational data. This approach allows for a nuanced evaluation of model accuracy and identification of systematic biases, contributing to more robust generative modeling strategies within astrophysical research.

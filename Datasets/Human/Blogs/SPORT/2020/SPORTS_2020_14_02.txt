@@ -1,5 +1,0 @@
-Year: 2020
-Author: maxwasson
-URL: https://www.reddit.com/r/Progressbar95/comments/jyf1of/new_game_mode_suggestion/
-
-I was thinking of a new game mode for ProgressBar 95 that intends to resemble the Internet Explorer/Microsoft Edge line in some way. I don't know how they could gamify it, but I do at least know have an idea for the names. * Internet Atlas 1 (for PB95/based on IE1) * Internet Atlas 2 (for PB95+/based on IE2) * Internet Atlas 4 (for PB98/based on IE3/4) * Internet Atlas 5 (for PBMeme, 2000, and Whisper/based on IE5) * Internet Atlas 6 (for PBXP and Largehorn/based on IE6) * Internet Atlas 7 (for PB Wista/based on IE7) * Internet Atlas 8 (for PB7/based on IE8) * Internet Atlas 11 (for PB81/based on IE9/10/11) * Progressoft Athens (for PB10/based on Edge Legacy) * Progressoft Long Beach (for PB1X/based on New Edge)

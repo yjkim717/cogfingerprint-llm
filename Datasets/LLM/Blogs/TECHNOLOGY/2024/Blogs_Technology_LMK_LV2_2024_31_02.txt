@@ -1,1 +1,0 @@
-"As we navigate 2024's AI landscape, I'm pondering: can we trust cloud-based LLM services with our private queries on public data? Or should we opt for local hosting for our 1000-odd documents? The quest for secure, private AI continues."

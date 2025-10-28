@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Title:** The Ghrelin System in Colorectal Cancer: A Dual-Role Player in Tumorigenesis and a Novel Diagnostic Biomarker
-
-**Abstract:**
-
-The ghrelin system, comprising the peptide hormone ghrelin and its receptor, the growth hormone secretagogue receptor (GHSR), has emerged as a significant modulator in gastrointestinal pathophysiology. While its role in energy homeostasis is well-established, its function in colorectal cancer (CRC) remains paradoxical and incompletely understood. This 2022 review synthesizes current evidence to delineate the complex involvement of the ghrelin system in colon carcinogenesis. We present data indicating that the system exerts a context-dependent, dual role: GHSR1a signaling appears to suppress proliferative pathways and promote apoptosis in early-stage CRC, yet in advanced metastatic disease, ghrelin may paradoxically support tumor survival and invasion. Furthermore, we explore the critical function of ghrelin-O-acyl-transferase (GOAT), the enzyme responsible for ghrelin's activation, as a potential oncogenic driver within the tumor microenvironment. The differential expression patterns of specific GHSR isoforms and GOAT in malignant versus normal colonic tissues highlight their promising utility as novel diagnostic and prognostic biomarkers. We conclude that a deeper understanding of this system's intricate signaling networks is imperative for developing targeted therapeutic strategies, including GHSR antagonists and GOAT inhibitors, to intervene in CRC progression.

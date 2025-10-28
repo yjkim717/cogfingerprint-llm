@@ -1,5 +1,0 @@
-## My Retro Gaming Dreams and Android 11's Roadblock
-
-Okay, so I’m officially feeling the frustration of tech updates. My Samsung Galaxy recently got the Android 11/One UI 3.0 treatment, and while it's slick, it's thrown a wrench in my retro gaming hobby. Suddenly, my emulators – Citra, Drastic, My Boy! – are struggling to find my ROMs stored on the SD card. 
-
-Apparently, Android 11's "scoped storage" is making things tricky for developers. It's all about API targeting now, which is great for security, I guess, but leaves me longing for simpler times of carefree Game Boy Advance gaming. Anyone else facing this? Hoping a clever workaround emerges soon – my Pokémon Emerald save is *begging* to be continued!

@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract**
-
-This research examines the mechanistic pathways governing the interaction between carbon atoms and ammonia ices, a critical process within interstellar environments. Utilizing quantum chemical calculations, we assessed the product distribution resulting from this reaction, focusing on the formation of nitrogen-containing species. Our analysis demonstrates that methylamine emerges as the dominant product, exhibiting superior resistance to hydrogen abstraction compared to alternative nitrogenous compounds. This preferential formation is attributed to the inherent stability conferred by the methyl group. These findings contribute significantly to astrochemical modeling efforts, providing a refined understanding of complex organic molecule synthesis in interstellar ices. Further investigation into the influence of interstellar ices’ composition on reaction kinetics remains a crucial area for future study.

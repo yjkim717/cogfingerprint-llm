@@ -1,7 +1,0 @@
-"Shifting Gears: From Sysadmin to DBA - A Career Pivot in 2023
-
-As I sit here in 2023, reflecting on my 9-year journey as a sysadmin, I'm struck by the realization that it's time for a change. The database administration (DBA) world has always fascinated me, and I'm now eager to take the leap. With SQL Server being a significant part of my sysadmin experience, I'm confident that my foundation is strong. Still, I know I need to adapt to the nuances of being a DBA, especially with the growing demand for Azure DBAs.
-
-My goal is to make a successful transition, but I'm unsure where to start. I've been doing some research, but I'm looking for guidance from those who have made similar career pivots. What are the key skills I should focus on? How can I effectively job hunt in a competitive market? I'm eager to hear from experienced DBAs who can share their insights and advice.
-
-As I embark on this new chapter, I'm excited to learn and grow. I'm ready to put in the effort required to become a skilled DBA and make a meaningful contribution to the field. If you're a seasoned DBA, I'd love to hear your thoughts and guidance on this journey."

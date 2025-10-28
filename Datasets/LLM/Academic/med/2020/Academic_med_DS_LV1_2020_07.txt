@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The management of adult diffuse gliomas has undergone a paradigm shift, driven by the 2016 revision of the World Health Organization (WHO) classification of central nervous system (CNS) tumors, which integrated molecular parameters with histology. This reclassification necessitates a corresponding evolution in clinical practice guidelines to ensure therapeutic strategies are aligned with a tumor’s integrated diagnosis. In response, the European Association of Neuro-Oncology (EANO) has formulated updated, evidence-based recommendations for the comprehensive care of patients with these neoplasms. These guidelines synthesize critical advances from recent clinical trials and large-scale molecular profiling studies. They provide a structured framework for the diagnostic work-up, emphasizing the requisite role of molecular testing for markers such as IDH mutations, 1p/19q co-deletion, and ATRX and TERT promoter status to achieve an accurate integrated diagnosis. Furthermore, the guidelines delineate stratified treatment pathways, specifying standards of care for maximal safe resection, radiotherapy, and alkylating chemotherapy, tailored to molecular subtypes including IDH-mutant astrocytoma, IDH-mutant and 1p/19q-codeleted oligodendroglioma, and IDH-wildtype glioblastoma. The recommendations also extend to the management of recurrent disease and establish a standardized protocol for long-term clinical and MRI-based follow-up. By consolidating the latest evidence, the 2020 EANO guidelines serve as an authoritative resource to standardize and optimize the multidisciplinary management of adult diffuse gliomas, thereby aiming to improve patient outcomes through precision neuro-oncology.
-
-(Word Count: 249)

@@ -1,5 +1,0 @@
-Year: 2023
-Author: FrankieB86
-URL: https://www.reddit.com/r/nvidia/comments/127051x/a_warning_to_the_potential_onlookers_of_the_msi/
-
-I don't know if this was Newegg's doing or MSI's doing, but at the very least the reviews of the MSI Katana with a 40 series GPUs have been consolidated with the 2021 30 series GPU variants, hiding some legitimate criticism of the current year model. Being a personal owner of the MSI Katana B12V with a 4070 GPU, I can say the hardware and cooling is great, but the screen is sub par (washed out to TN levels and has visible ghosting), also the secondary M.2 slot does not have an anchor point and instead relies on tension between the PCB and bottom panel to keep it in place, causing the SSD to bend. The reviews that were thrown in from the previous models mask these criticisms and have boosted the product from a 3 egg aggregate to a 4.5 egg aggregate, thus masking the actual review of the current model.

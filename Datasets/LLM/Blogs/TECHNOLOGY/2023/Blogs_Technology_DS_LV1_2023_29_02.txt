@@ -1,5 +1,0 @@
-It’s 2023, and I’ve been thinking a lot about what it means to build a language from scratch, free from the weight of legacy code. Recently, a colleague asked me: if we could redesign C today, what would we change?
-
-My mind went straight to namespacing—imagine no more global scope collisions! Then there’s cleaner type declaration syntax, something more intuitive than the old C-style. Defer statements for automatic cleanup? Yes, please. And let’s not forget slices for safer, more flexible array handling.
-
-It’s refreshing to dream without constraints. Sometimes, looking back at languages like C reminds me how far we’ve come—and how much further we could go with a clean slate.

@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract in the field of physics:
-
-"Accelerating QM/MM Simulations on Heterogeneous GPU Architectures"
-
-In this study (2023), we present an optimized implementation of Quantum Mechanics/Molecular Mechanics (QM/MM) simulations on AMD and NVIDIA Graphics Processing Units (GPUs). Leveraging high-performance computing techniques, our approach achieves substantial speedups in molecular dynamics simulations. By harnessing the parallel processing capabilities of modern GPUs, we significantly enhance the computational efficiency of QM/MM simulations. Our results demonstrate the potential of GPU-accelerated QM/MM simulations to advance research in molecular physics and chemistry, enabling more accurate and timely insights into complex molecular systems.

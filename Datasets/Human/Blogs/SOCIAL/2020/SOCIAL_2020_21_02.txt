@@ -1,5 +1,0 @@
-Year: 2020
-Author: DoNotEatMySoup
-URL: https://www.reddit.com/r/EngineeringStudents/comments/hsq8je/can_someone_tell_me_whats_the_difference_between/
-
-Hi, So I took an online quiz in my undergrad Physics of Electricity and Magnetism class and this set of questions about RMS voltage really caught me off guard. It basically went like this: Reading an oscilloscope gives you: \*RMS voltage \*Instantaneous voltage &#x200B; Reading a multimeter gives you: \*Instantaneous voltage \*RMS voltage &#x200B; and I picked the wrong (first) answer both times. I was under the assumption that rms voltage was just the peak voltage in AC, and a multimeter shows you the voltage currently in the circuit so that must be instantaneous. An oscilloscope just shows you a series of peaks and valleys so it should make sense that you can see the peak AC voltage from the oscilloscope. &#x200B; TL;DR - Why is the voltage shown on a multimeter considered RMS voltage?

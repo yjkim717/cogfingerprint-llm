@@ -1,1 +1,0 @@
-This study develops optimization methods for proper scoring rules that maximize forecaster payoff under binary effort constraints. We characterize optimal rules in tractable settings and propose efficient approximation algorithms for broader applicability.

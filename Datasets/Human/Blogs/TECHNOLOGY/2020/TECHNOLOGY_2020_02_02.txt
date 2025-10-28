@@ -1,5 +1,0 @@
-Year: 2020
-Author: phaze08
-URL: https://www.reddit.com/r/EmulationOnAndroid/comments/khifjs/how_to_deal_with_scoped_storage/
-
-Morning everyone, Like many galaxy device owners I got the "One UI 3.0" update to Android 11 last week. I noticed my citra was acting weird but now I'm noticing that all my emulators ( drastic, citra, my boy!, etc ) are all having issues accessing my sd card - where I keep my 18 gb of roms stored. Does anyone know of ways to fix this? Citra mmj was updated 20 days ago, I doubt apps like my boy will be updated any time soon. I'm reading the developer has to specifically target Android 11 apis but I'm wondering if there's a way around it Also I should note that the citra app listed does not work either.

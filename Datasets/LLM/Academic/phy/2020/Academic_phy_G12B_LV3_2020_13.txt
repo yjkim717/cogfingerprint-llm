@@ -1,5 +1,0 @@
- here:
-
-Here's an academic abstract inspired by the provided summary and keywords, suitable for a physics publication (circa 2020):
-
-"Quantum thermodynamics faces fundamental challenges in reconciling quantum information processing with the laws of thermodynamics. This work presents an experimental demonstration of energy and entropy fluctuations directly linked to the operational dynamics of two-qubit quantum gates. Through detailed reconstruction of these fluctuations, we establish a quantitative relationship between gate fidelity and thermodynamic cost, providing insights into the energetic overhead inherent in quantum computation. Notably, our results provide direct evidence supporting Landauer’s principle at the single-quantum level, showcasing the erasure of quantum information during gate operations and its associated energy dissipation. These findings are crucial for optimizing quantum device design and addressing the thermodynamic constraints that limit the scalability of quantum technologies."

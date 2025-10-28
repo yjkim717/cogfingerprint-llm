@@ -1,5 +1,0 @@
-Year: 2023
-Author: karl100589
-URL: https://www.reddit.com/r/premiere/comments/126wv1g/cannot_open_premiere_elements/
-
-Hey there. I ran into a problem earlier today with Elements which I cannot get to the bottom of. For whatever reason when I try to open Elements up I get the popup asking me to choose between Organiser and Video Editor, but when I click on Video Editor a blue bar will appear to symbolise it's loading, then stop partway through. Any suggestions for fixes? I got a popup saying I was running low on memory, so I deleted a few files but since then I haven't been able to get back on.

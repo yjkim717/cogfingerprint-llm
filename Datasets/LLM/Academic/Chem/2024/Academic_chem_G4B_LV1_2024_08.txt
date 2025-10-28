@@ -1,5 +1,0 @@
-Here’s an original academic abstract informed by the provided summary, suitable for a 2024 publication in chemistry:
-
-**Abstract**
-
-The interplay between vibrational dynamics and chemical kinetics within optical cavities presents a compelling area for investigation. This work reports on a quantum mechanical study employing time-dependent density functional theory to elucidate the impact of vibrational strong coupling on reaction pathways. Specifically, we model a chemical system immersed in a dissipative solvent, utilizing an optical cavity to confine and manipulate the relevant excited states. Our simulations demonstrate that strong coupling between vibrational modes and the electronic states significantly alters the rate constants of key reaction steps. Notably, resonant reactivity enhancements are observed at specific frequencies, correlating with increased population of the coupled vibrational state. These findings provide a mechanistic understanding of how solvent environment and cavity design can be leveraged to tune chemical reactivity at the quantum level, with implications for developing novel photochemical and catalytic systems.

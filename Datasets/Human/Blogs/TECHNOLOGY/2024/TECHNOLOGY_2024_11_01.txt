@@ -1,5 +1,0 @@
-Year: 2024
-Author: schizophrenic_yuppie
-URL: https://www.reddit.com/r/OGAvatarTrading/comments/1b1kldw/rca_3rdparty_developers/
-
-Hi there, is there a community on Reddit, a Reddit chat group, a Discord, or an independent forum where RCA developers chat with each other? I have some annoyances on my website that I feel would be best solved by using either blockchain or Reddit API to solve. For example, I'd like my "Mint Number" to automatically update (right now it's manual entry which is obviously yucky) but I don't know where to start. Thanks for any advice. P.S. I am generally competent with this stuff, but feel kind of intimidated for some reason and hoping for a teensy bit of hand holding lol

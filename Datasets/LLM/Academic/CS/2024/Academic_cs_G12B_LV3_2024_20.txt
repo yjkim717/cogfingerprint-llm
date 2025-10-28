@@ -1,5 +1,0 @@
-Here's a formal academic-style abstract inspired by the provided summary and keywords, suitable for a computer science publication in 2024:
-
-**Abstract:**
-
-Cellular image analysis in microscopy frequently suffers from image degradation impacting subsequent segmentation accuracy. This paper introduces Cellpose3, a novel deep learning framework addressing this challenge by integrating image restoration directly into the segmentation pipeline. Unlike traditional approaches, Cellpose3 trains restoration models not to produce ground-truth images, but rather to generate perceptually faithful images optimized for robust performance with generalist segmentation algorithms. This strategy effectively mitigates the effects of noise, blur, and undersampling commonly encountered in microscopy data. Preliminary results demonstrate improved segmentation fidelity and reduced sensitivity to image artifacts, offering a promising avenue for advancing automated cellular analysis workflows.

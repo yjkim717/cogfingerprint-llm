@@ -1,8 +1,0 @@
-Author: O. Rainio
-Title: Image augmentation with conformal mappings for a convolutional neural network
-Paper ID: 43f594e6979e1cf56a96c49565ac738fb057e283
-Year: 2022
-Author Index: 10
-
-Abstract:
-For augmentation of the square-shaped image data of a convolutional neural network (CNN), we introduce a new method, in which the original images are mapped onto a disk with a conformal mapping, rotated around the center of this disk and mapped under such a Möbius transformation that preserves the disk, and then mapped back onto their original square shape. This process does not result the loss of information caused by removing areas from near the edges of the original images unlike the typical transformations used in the data augmentation for a CNN. We offer here the formulas of all the mappings needed together with detailed instructions how to write a code for transforming the images. The new method is also tested with simulated data and, according the results, using this method to augment the training data of 10 images into 40 images decreases the amount of the error in the predictions by a CNN for a test set of 160 images in a statistically significant way ( $$p=0.0360$$ p = 0.0360 ).

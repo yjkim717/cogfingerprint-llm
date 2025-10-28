@@ -1,5 +1,0 @@
-Year: 2020
-Author: FIREATWlLL
-URL: https://www.reddit.com/r/webdev/comments/gwd8vv/can_you_include_js_files_in_js_files_instead_of/
-
-In my current situation I have multiple pages that have overlapping functionality (loading, inserting child elements into container divs, certain interfaces, etc). Instead of including each required file via HTML, it would be great if I could include all required JS files for a page into a JS page file (e.g. a JS file for index, which imports all necessary functionality from other JS files in this file, and any other unique JS can be written in here too). If this is possible, would the files importing code be pre-imported so that it doesn't do it every time that JS file is called for?

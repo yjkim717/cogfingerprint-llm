@@ -1,5 +1,0 @@
-Title: Surface-Mediated Formation of Complex Organic Molecules via Carbon Atom Diffusion on Interstellar Ice
-
-Abstract:
-
-The formation of complex organic molecules (COMs) in interstellar environments is a crucial aspect of astrochemistry. Recent studies have elucidated the role of surface diffusion in facilitating the reactions that yield COMs. This work investigates the diffusion of carbon atoms on interstellar ice surfaces as a key driver of COM formation. Using a combination of theoretical simulations and laboratory experiments, we demonstrate that the mobility of carbon atoms on icy grain surfaces enables the efficient formation of COMs through barrierless reactions. Our results indicate that the surface diffusion of carbon atoms is a critical step in the synthesis of complex organic species, providing a mechanistic explanation for the observed abundance of COMs in interstellar space. The findings have significant implications for our understanding of the origins of interstellar COMs and the astrochemical processes that govern their formation. (2023)

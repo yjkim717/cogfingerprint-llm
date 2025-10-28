@@ -1,3 +1,0 @@
-## Starting Fresh with Rubrik – A Reboot Revelation
-
-So, I'm diving into Rubrik for the first time, setting up a whole new cluster. It’s exciting, but also a little daunting! I realized early on I needed a clean slate – a factory reset on one of the nodes to essentially wipe and rebuild the configuration. It's a surprisingly powerful reset button, and honestly, a bit nerve-wracking. But seeing it all come back online, fresh and ready to go? That’s a good feeling.

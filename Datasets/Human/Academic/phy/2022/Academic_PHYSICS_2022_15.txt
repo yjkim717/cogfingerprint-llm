@@ -1,8 +1,0 @@
-Author: Liting Yang
-Title: Atomic Short‐Range Order in a Cation‐Deficient Perovskite Anode for Fast‐Charging and Long‐Life Lithium‐Ion Batteries
-Paper ID: c043fe7b16e9ef55ee6e6f3200e400797177afc6
-Year: 2022
-Author Index: 15
-
-Abstract:
-Perovskite‐type oxides are widely used for energy conversion and storage, but their rate‐inhibiting phase transition and large volume change hinder the applications of most perovskite‐type oxides for high‐rate electrochemical energy storage. Here, it is shown that a cation‐deficient perovskite CeNb3O9 (CNO) can store a sufficient amount of lithium at a high charge/discharge rate, even when the sizes of the synthesized particles are on the order of micrometers. At 60 C (15 A g−1), corresponding to a 1 min charge, the CNO anode delivers over 52.8% of its capacity. In addition, the CNO anode material exhibits 96.6% capacity retention after 2000 charge–discharge cycles at 50 C (12.5 A g−1), indicating exceptional long‐term cycling stability at high rates. The excellent cycling performance is attributed to the formation of atomic short‐range order, which significantly prevents local and long‐range structural rearrangements, stabilizing the host structure and being responsible for the small volume evolution. Moreover, the extremely high rate capacity can be explained by the intrinsically large interstitial sites in multiple directions, intercalation pseudocapacitance, atomic short‐range order, and cation‐vacancy‐enhanced 3D‐conduction networks for lithium ions. These structural characteristics and mechanisms can be used to design advanced perovskite electrode materials for fast‐charging and long‐life lithium‐ion batteries.

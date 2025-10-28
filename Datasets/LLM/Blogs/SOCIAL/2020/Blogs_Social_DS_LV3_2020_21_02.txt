@@ -1,7 +1,0 @@
-It was March 2020, and my makeshift home lab was a tangle of wires and frustration. Stuck inside, I’d decided to finally understand my electronics coursework. I was measuring a simple AC circuit, but my readings made no sense. My multimeter showed a steady 120 volts, yet my borrowed oscilloscope displayed a wild, dancing sine wave.
-
-“Why doesn’t this thing just show me the voltage right now?” I muttered to my cat, my only lab partner in those isolated days. I felt so lost.
-
-It took a deep dive into online forums to have my eureka moment: the multimeter wasn’t lying. It was giving me the RMS value—a kind of average that tells you the AC’s real power, the useful work it can do, not just a fleeting instantaneous snapshot.
-
-That moment of clarity was about more than circuits. In a year of constant, chaotic change, I learned the value of looking for the steady, meaningful signal beneath the noise. It was a lesson in finding substance in the spin.

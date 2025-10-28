@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-Daytime napping is a common behavioral trait with ambiguous implications for cardiometabolic health. To elucidate its genetic architecture and causal relationships, we conducted the first large-scale genome-wide association study (GWAS) of self-reported daytime napping in 452,633 individuals from the UK Biobank. Our analysis identified 123 independent genetic loci significantly associated with napping propensity, revealing novel biological pathways involved in sleep homeostasis and circadian rhythms. Leveraging these genetic variants as instrumental variables, we performed Mendelian randomization analyses to infer causality. Our findings provide evidence for a potential causal effect of increased daytime napping on adverse cardiometabolic outcomes, specifically elevated systolic blood pressure and larger waist circumference. These results suggest that frequent napping may not be a benign activity but could represent a behavioral marker or contributor to cardiometabolic risk. This study provides a genetic foundation for understanding napping behavior and underscores the need for further investigation into its health consequences.
-
-(Word count: 180)

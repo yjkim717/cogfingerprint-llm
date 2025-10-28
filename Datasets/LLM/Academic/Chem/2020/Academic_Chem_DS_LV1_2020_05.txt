@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The hydrogenation of carbon monoxide (CO) on interstellar dust grain analogues is a cornerstone reaction in the formation of complex organic molecules (COMs) in the interstellar medium. While the synthesis of formaldehyde (H₂CO) and methanol (CH₃OH) is well-established at cryogenic temperatures (<20 K), the persistence of this solid-state chemistry at higher temperatures relevant to warmer astronomical environments remains a subject of active investigation. This study examines the non-diffusive hydrogenation of CO embedded within amorphous solid water (ASW) matrices at temperatures up to 70 K. We demonstrate that the reaction proceeds with significant efficiency, contrary to models that assume hydrogen atom diffusion is thermally quenched in this regime. We posit that a network of transient, nanoscale pores and cracks within the ASW matrix, inherent to its deposition and thermal processing, provides conduits for H-atom transport. This "crack-assisted diffusion" mechanism enables hydrogenation to proceed without requiring bulk diffusion through the ice, which has a significantly higher activation barrier. Our results necessitate a revision of current astrochemical models, indicating that CO hydrogenation can be a viable pathway to COMs within a broader range of protostellar and protoplanetary environments than previously considered.

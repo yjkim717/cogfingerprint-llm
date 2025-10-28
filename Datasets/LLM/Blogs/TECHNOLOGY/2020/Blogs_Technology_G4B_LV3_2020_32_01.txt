@@ -1,9 +1,0 @@
-Okay, here’s a blog post inspired by the provided summary, aiming for that reflective, conversational, and relatable tone, and set in 2020:
-
----
-
-**The Day My Email Just… Stopped**
-
-It’s funny how quickly tech can throw you for a loop, isn’t it? Back in 2020, I was wrestling with a particularly frustrating issue at work – my Exchange Server just stopped delivering emails. At first, it seemed like a complete mystery. Then, a tech guy explained it all: a sudden, unexpected shift to IPv6 queries was causing chaos. 
-
-It felt bizarre, like a tiny, digital hiccup had brought the whole system grinding to a halt. The relief when we realized it was simply a matter of limiting those DNS queries and restarting the transport services was immense. It was a stark reminder that even the most complex systems rely on these tiny, often invisible connections.  Sometimes, the biggest problems have the simplest solutions – and a little troubleshooting can save the day (and your inbox!).

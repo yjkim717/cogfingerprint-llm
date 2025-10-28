@@ -1,1 +1,0 @@
-Remember that frantic night in 2022, trying to gracefully disable ParentVMs with PowerCLI before our Horizon maintenance window? It was like defusing a bomb in vCenter. That quiet victory when the instant clones behaved—no angry tickets. Sometimes the real magic isn't in the code, but in the calm we create with it.

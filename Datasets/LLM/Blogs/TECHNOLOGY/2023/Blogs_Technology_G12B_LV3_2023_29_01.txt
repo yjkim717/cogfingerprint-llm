@@ -1,6 +1,0 @@
-)
-## The Trap of "That Worked For Them..."
-
-It's 2023, and we're all swimming in an ocean of design advice. Especially in tech. I was chatting with a seasoned language designer the other day, and something they said really stuck with me. They warned against the temptation to just copy solutions from other languages, assuming what worked brilliantly for Rust or Python will automatically solve a problem in, say, a new embedded systems language.
-
-It’s a natural instinct – learn from the best! – but it misses a crucial point: context. Every language is born from a specific set of needs, constraints, and philosophies. What’s elegant in one environment can be a clunky liability in another. Let's be thoughtful about adaptation, not just replication. Our own designs deserve that much, don’t they?

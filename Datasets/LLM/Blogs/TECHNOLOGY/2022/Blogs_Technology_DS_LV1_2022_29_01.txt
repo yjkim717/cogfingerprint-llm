@@ -1,1 +1,0 @@
-This year, I tackled Advent of Code in C3, a modern evolution of C. At first, it felt familiar, like slipping on an old jacket. But then I used its elegant slices—so much cleaner than manual memory juggling. It’s not just C with a facelift; it’s a thoughtful reimagining. Sometimes progress isn’t a revolution, but a quiet refinement.

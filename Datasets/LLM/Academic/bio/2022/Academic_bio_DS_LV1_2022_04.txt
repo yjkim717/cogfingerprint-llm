@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary.
-
-***
-
-**Title:** P300 Evoked Potentials as a Neurophysiological Biomarker for Cognitive Impairment in Iron-Deficiency Anemia and its Reversal with Iron Repletion
-
-**Abstract**
-
-Iron-deficiency anemia (IDA) represents a significant global health burden, with well-documented but mechanistically elusive associations with cognitive dysfunction. Conventional neuropsychological testing often lacks the sensitivity to detect subtle, early deficits. This systematic review and meta-analysis, contextualized within 2022, synthesizes evidence investigating the P300 component of event-related potentials (ERPs) as an objective, electrophysiological index of cognitive processing in IDA. A comprehensive search of databases (e.g., PubMed, Scopus, Web of Science) was conducted for studies comparing P300 latency and amplitude in IDA patients versus healthy controls, and pre- versus post-iron supplementation. Our analysis of 15 eligible studies reveals a consistent phenotype: individuals with IDA exhibit significantly prolonged P300 latency and reduced amplitude, indicative of delayed stimulus evaluation and attenuated attentional resource allocation. Crucially, longitudinal and interventional data demonstrate that iron supplementation normalizes these neurophysiological parameters, with P300 metrics showing significant improvement concurrent with hematological recovery. These findings substantiate the hypothesis that cerebral iron deficiency impairs neural efficiency, detectable via ERPs prior to overt clinical manifestations. We conclude that the P300 waveform serves as a sensitive, non-invasive biomarker for monitoring the neurocognitive sequelae of IDA. Its utility extends to early detection of subclinical impairment and the objective assessment of therapeutic efficacy, advocating for its integration into future clinical trials and refined patient management strategies.

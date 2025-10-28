@@ -1,5 +1,0 @@
-Year: 2020
-Author: SincSohum
-URL: https://www.reddit.com/r/civ/comments/fs0naz/can_you_play_civ_5_on_geforce_now/
-
-I recently made the mistake of updating my mac os to catalina and no longer can play cross platform with my buddies. Is it possible to play with them using geforce now? If not, what other options do I have other then reverting my OS back to Mojave.

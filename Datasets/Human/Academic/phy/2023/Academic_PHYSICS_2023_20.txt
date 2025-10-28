@@ -1,8 +1,0 @@
-Author: Sungwoo Hong
-Title: Introduction to Generalized Global Symmetries in QFT and Particle Physics
-Paper ID: 01e7c4ed20a97e6e2077b0870c28e5f40ebce588
-Year: 2023
-Author Index: 20
-
-Abstract:
-Generalized symmetries (also known as categorical symmetries) is a newly developing technique for studying quantum field theories. It has given us new insights into the structure of QFT and many new powerful tools that can be applied to the study of particle phenomenology. In these notes we give an exposition to the topic of generalized/categorical symmetries for high energy phenomenologists although the topics covered may be useful to the broader physics community. Here we describe generalized symmetries without the use of category theory and pay particular attention to the introduction of discrete symmetries and their gauging.

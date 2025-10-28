@@ -1,8 +1,0 @@
-Author: M. Tsuge
-Title: Carbon Atom Condensation on NH3-H2O Ices. An Alternative Pathway to Interstellar Methanimine and Methylamine.
-Paper ID: ef0c3b740d7ff64e880ec2e5a7630944d68702eb
-Year: 2024
-Author Index: 9
-
-Abstract:
-The recent discovery of the nature and behavior of carbon atoms interacting with interstellar ices has prompted a number of investigations on the chemistry initiated by carbon accretion on icy interstellar dust. In this work, we expand the range of processes promoted by carbon accretion to the chemistry initiated by the interaction of this atom with ammonia (NH3) using quantum chemical calculations. We found that carbon addition to the ammonia molecule forms a rather stable radical, CNH3, that is easily hydrogenated. The complete hydrogenation network is later studied. Our calculations reveal that while conversion to simpler molecules like HCN and HNC is indeed a possible outcome promoted by H-abstraction reactions, methylamine is also easily formed (CH3NH2). In fact, the stability of methylamine against hydrogen abstraction makes this molecule the preferred product of the reaction network. Our results serve as a stepping stone toward the accurate modeling of C-addition reactions in realistic astrochemical kinetic models.

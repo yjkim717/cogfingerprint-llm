@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, formatted for a chemistry-focused audience and reflecting a 2020 context:
-
-**Abstract**
-
-Laboratory simulations of interstellar environments reveal a pathway for the efficient formation of formaldehyde (H₂CO) and methanol (CH₃OH) within icy grain mantles. This study, conducted in 2020, explores the hydrogenation of carbon monoxide (CO) embedded in amorphous solid water (ASW) at temperatures up to ∼70 K. Results demonstrate that hydrogen atom diffusion through microstructural imperfections and cracks within the ASW matrix facilitates significant CO hydrogenation. This mechanism highlights the potential for complex organic molecule synthesis on dust grains in cold, dense molecular clouds, contributing to our understanding of the chemical evolution of protoplanetary disks and the delivery of prebiotic molecules to early Earth.

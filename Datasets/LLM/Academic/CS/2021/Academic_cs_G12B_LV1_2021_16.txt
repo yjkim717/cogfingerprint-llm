@@ -1,9 +1,0 @@
-## IndicBART: Efficient Multilingual Neural Generation for Low-Resource Indic Languages via Transfer Learning
-
-The proliferation of neural machine translation (NMT) models has largely focused on high-resource languages, leaving a significant gap in support for the diverse family of Indic languages. This paper introduces IndicBART, a novel sequence-to-sequence model designed to facilitate natural language generation (NLG) tasks across 11 Indic languages (Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Nepali, Odia, Punjabi, Tamil, Telugu) alongside English. Built upon the BART architecture, IndicBART leverages transfer learning to achieve competitive performance despite a comparatively smaller parameter count than contemporary large-scale multilingual models.
-
-We explore the effectiveness of pre-training on a combined corpus of Indic and English data, followed by fine-tuning for specific NLG tasks, including extreme summarization and machine translation. Experimental results demonstrate that IndicBART consistently delivers strong performance, particularly in low-resource settings within the Indic language family, showcasing the efficacy of transfer learning for adapting pre-trained models to resource-constrained environments.  Our findings suggest that efficient, specialized models like IndicBART offer a practical and effective path toward expanding NLG capabilities for the world’s diverse linguistic landscape, contributing to increased accessibility and inclusivity in NLP technologies.
-
-
-
-**Keywords:** Indic Languages, Sequence-to-Sequence Models, Neural Machine Translation, Extreme Summarization, Transfer Learning, Multilingual NLG, BART.

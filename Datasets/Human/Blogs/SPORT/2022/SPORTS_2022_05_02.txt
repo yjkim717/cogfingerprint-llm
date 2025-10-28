@@ -1,5 +1,0 @@
-Year: 2022
-Author: aviatorbassist
-URL: https://www.reddit.com/r/Bass/comments/z06n03/jazz_bass_modification_questions/
-
-So I’m thinking about flipping my Fender PJ for a jazz bass. I want to add a third pickup to it. I was thinking about adding an EB-0 mud bucker to the neck. I’m not set on the mud bucker though, I’ve also considered a T-Bird pickup or maybe a thundertron. I’m looking for a pickup that will produce lots of bottom end. I’m also debating on the switching, I’ve considered going with one volume knob and replacing the second Volume Knob with a 5 way rotary switch and having a configuration of Neck, Middle, Bridge, Neck and Bridge and Middle and Bridge. I’ve also considered routing in a selector switch on the top horn and having the second volume switch be used to adjust the volume on two pickup settings. If any has any recommendations for pickups, or wiring configurations, I’m all ears. Also if you have any videos of similar builds please link them.

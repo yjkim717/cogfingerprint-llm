@@ -1,5 +1,0 @@
-Year: 2024
-Author: Nuoji
-URL: https://www.reddit.com/r/C_Programming/comments/1ay3mws/a_discord_for_c_programming_only/
-
-There are plenty of programming language discords, but C doesn't have one. The closest one I know of is a C/C++ discord, and that one is balanced about 5-95 in C++'s favour. I've kept waiting for someone to create a dedicated C discord but no one did. So finally I decided to just start one: *The C Programmer* discord. As the question ("Is there a C language discord?") pops up here on a semi-regular basis, I figured I'd post the invite here: Welcome!

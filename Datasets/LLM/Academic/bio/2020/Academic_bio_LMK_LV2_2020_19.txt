@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract in the field of materials science/chemistry (related to bio through energy applications), based on the given summary:
-
-Title: Enhanced Oxygen Evolution Reaction Catalysis through FeOOH Decoration on LaNiO3 Perovskite
-
-Abstract:
-The development of efficient catalysts for the oxygen evolution reaction (OER) is crucial for sustainable energy applications. Here, we report that decorating LaNiO3 perovskite with FeOOH significantly enhances its OER catalytic activity. The FeOOH decoration promotes lattice oxygen oxidation, a key mechanism underlying the improved OER catalysis. Moreover, the decoration weakens the Ni-O bond, facilitating the release of oxygen. Our results demonstrate that the optimized LaNiO3-FeOOH catalyst exhibits improved water oxidation performance. This work highlights the potential of surface decoration as a strategy to enhance the OER activity of perovskite-based catalysts, with implications for the design of efficient energy storage and conversion systems. The findings are consistent with recent advances in OER catalysis research (2020).

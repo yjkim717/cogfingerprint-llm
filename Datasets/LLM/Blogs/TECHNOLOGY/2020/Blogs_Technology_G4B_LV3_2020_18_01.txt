@@ -1,7 +1,0 @@
-Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational style, set in 2020:
-
----
-
-**Feeling Restricted? Let’s Talk Office 365 and Boundaries**
-
-Remember 2020? Working remotely was the new normal, and suddenly, my Office 365 setup felt… limiting. I was trying to use geo-fencing to restrict access to sensitive files, but it kept hitting a wall with my E3 licenses. It made me think about digital boundaries – do we *really* need to control everything, or are we just building unnecessary walls?  The licensing complexities alone were a headache!  It highlighted the need to balance security with genuine flexibility, especially when everyone was scattered across different locations.

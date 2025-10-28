@@ -1,9 +1,0 @@
-
-## Plasma Phosphorylated Tau 217 as a Potential Biomarker for Alzheimer's Disease: A Multi-Cohort Observational Study
-
-**Abstract**
-
-The identification of reliable, accessible biomarkers for Alzheimer's disease (AD) is crucial for early diagnosis and therapeutic intervention. This study investigates the utility of a recently developed plasma immunoassay measuring phosphorylated tau at residue 217 (p-tau217) in detecting AD pathology across three independent observational cohorts. Utilizing longitudinal data, we assessed the correlation between plasma p-tau217 levels and established AD diagnostic criteria, including amyloid PET imaging and cerebrospinal fluid biomarkers. Preliminary findings suggest a strong association between elevated plasma p-tau217 and AD pathology, demonstrating potential for its use in clinical trials and as a screening tool for at-risk individuals. Further validation within diverse populations is warranted to establish its clinical utility.
-
-
-

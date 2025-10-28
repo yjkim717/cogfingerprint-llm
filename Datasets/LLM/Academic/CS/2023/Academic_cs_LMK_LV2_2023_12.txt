@@ -1,6 +1,0 @@
-Here's a formal abstract:
-
-Title: Accelerating Vision Transformers via Mimetic Initialization of Self-Attention Layers
-
-Abstract: 
-The vanilla Transformer architecture, despite its success in natural language processing, has seen limited adoption in vision tasks due to its inferior training efficiency and accuracy compared to convolutional neural networks (CNNs). This paper investigates the efficacy of initializing self-attention layers to mimic pre-trained models in enhancing the performance of Transformers on vision tasks. We propose a mimetic initialization technique that leverages pre-trained models to guide the initialization of self-attention layers. Our experiments demonstrate that this approach significantly accelerates the training process and improves the accuracy of vanilla Transformers on various vision benchmarks. By bridging the gap between pre-trained models and vision Transformers, our method offers a promising direction for improving the efficiency and effectiveness of Transformer-based architectures in computer vision applications. Results are validated on standard datasets.

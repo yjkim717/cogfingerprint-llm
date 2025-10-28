@@ -1,5 +1,0 @@
-Here’s an abstract inspired by the provided summary, aiming for a formal academic tone and approximately 146 words:
-
-**Abstract**
-
-Following ionizing radiation exposure, DNA double-strand breaks (DSBs) trigger complex repair pathways, with Non-Homologous End-Joining (NHEJ) frequently implicated in aberrant outcomes. This study presents a novel computational model investigating the heterogeneous dynamics of DNA repair post-irradiation, specifically incorporating the influence of anomalous diffusion on repair protein mobility. We hypothesize that long-range, stochastic movements of these proteins contribute to misrepair events and the formation of dicentric chromosome lesions – a hallmark of severe DNA damage.  The model simulates DSB progression, accounting for the inherent limitations of NHEJ and the potential for protein clustering and hindered access. Preliminary results suggest that increased anomalous diffusion correlates with a heightened propensity for pathway deviations and the generation of chromosome aberrations.  Further refinement will explore the impact of cellular context and repair factor availability on lesion resolution and genomic stability.

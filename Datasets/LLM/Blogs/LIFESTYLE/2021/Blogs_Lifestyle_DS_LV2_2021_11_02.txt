@@ -1,5 +1,0 @@
-It’s 2021, and I’m still getting used to the quiet hum of my home office. For years, I lived in the world of cables and routers as a network engineer—tangible, predictable. Then came the shift: AWS certifications, cloud architecture diagrams, and the dream of working from anywhere.
-
-I won’t lie—the journey’s been humbling. Studying for the Solutions Architect exam felt like learning a new language while running a marathon. But with every practice test and late-night lab, something shifted in me. It wasn’t just about career growth; it was about redefining my lifestyle. Trading rush-hour traffic for morning coffee with my dog? Priceless.
-
-Now, as I look toward roles like cloud engineer or network specialist in a remote setting, I’m reminded that sometimes the biggest leaps start with small, intentional steps. To anyone else navigating a similar pivot—you’re not just changing your job. You’re redesigning your life, one certification, one connection at a time.

@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract**
-
-The chemical evolution of interstellar ices represents a critical area of investigation for understanding the origin of complex organic molecules. This study presents a quantum chemical analysis of the reaction pathway between carbonaceous material and ammonia ices, specifically focusing on the formation of methylamine (CH₃NH₂). Utilizing high-level computational methods, we assessed the thermodynamic stability of various reaction intermediates and products, confirming methylamine as the kinetically and thermodynamically favored outcome. These quantum chemical calculations are integrated into refined astrochemical models, allowing for a more accurate prediction of methylamine abundance in interstellar environments.  The results suggest that carbon accretion onto ammonia ices provides a significant, yet previously underestimated, route to methylamine synthesis, impacting our understanding of prebiotic chemistry and the delivery of complex molecules to planetary systems.

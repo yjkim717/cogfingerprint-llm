@@ -1,8 +1,0 @@
-Author: Oscar Fuentealba
-Title: Asymptotic Symmetry Algebra of Einstein Gravity and Lorentz Generators.
-Paper ID: 6d0711cc4d9df2414606d781d20819e2030a6bf4
-Year: 2023
-Author Index: 16
-
-Abstract:
-The asymptotic symmetry algebra of four-dimensional Einstein gravity in the asymptotically flat context has been shown recently to be the direct sum of the Poincaré algebra and of an infinite-dimensional Abelian algebra (with central charge) that includes the Bondi-Metzner-Sachs supertranslations. This result, obtained within the Hamiltonian formalism, yields a supertranslation-invariant definition of the Lorentz generators (angular momentum and boosts). Definitions of Lorentz generators free from the "supertranslation ambiguities" have also been proposed recently at null infinity. We prove the equivalence of the two approaches for redefining the charges.

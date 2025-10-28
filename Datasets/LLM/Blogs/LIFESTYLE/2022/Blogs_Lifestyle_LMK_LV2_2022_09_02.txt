@@ -1,1 +1,0 @@
-get_user_input(input="Write a blog post about seeking authentic Regency Romances")

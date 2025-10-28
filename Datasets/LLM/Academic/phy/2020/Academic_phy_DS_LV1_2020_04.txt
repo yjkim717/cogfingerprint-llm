@@ -1,5 +1,0 @@
-**Abstract**
-
-We demonstrate that the holographic dictionary in quantum gravity imposes a fundamental constraint on the topology of spacetime's Euclidean path integral. Specifically, the consistency of AdS/CFT correlators with the factorization puzzle necessitates that the Hilbert space of baby universes be one-dimensional. This result provides a non-perturbative mechanism to suppress off-shell configurations containing multiple disconnected wormhole ends, which would otherwise violate boundary unitarity. Consequently, the semiclassical sum over topologies is dynamically projected onto an effective single-universe sector, resolving the apparent tension between replica wormholes and the lack of an ensemble description for individual holographic CFTs. Our analysis establishes this as a swampland condition: any purported theory of quantum gravity permitting a baby universe Hilbert space of dimension greater than one is inconsistent with a unitary holographic dual. This framework naturally excludes pathological ensemble averages for isolated black holes.
-
-*(Year: 2020)*

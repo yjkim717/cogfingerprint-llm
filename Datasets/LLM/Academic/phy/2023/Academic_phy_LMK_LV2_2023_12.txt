@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-"Accelerating QM/MM Molecular Dynamics Simulations on AMD GPUs"
-
-Abstract:
-
-We present an optimized implementation of Quantum Mechanics/Molecular Mechanics (QM/MM) simulations on AMD Graphics Processing Units (GPUs). By leveraging the massively parallel architecture of modern GPUs, we achieve significant accelerations in QM/MM molecular dynamics simulations. Our implementation efficiently partitions the QM and MM computations, minimizing data transfer between the host and GPU. Benchmarks demonstrate substantial speedups over traditional CPU-based implementations. The optimized QM/MM framework enables large-scale simulations of complex systems, facilitating advancements in fields such as materials science and biophysics. Our results underscore the potential of GPU acceleration for high-performance QM/MM simulations in 2023.

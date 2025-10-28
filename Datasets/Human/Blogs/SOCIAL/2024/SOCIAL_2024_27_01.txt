@@ -1,5 +1,0 @@
-Year: 2024
-Author: caseyfrazanimations
-URL: https://www.reddit.com/r/GoogleMaps/comments/1burq6n/how_to_reroute_when_road_is_closed/
-
-Google maps took me to a closed road and kept trying to loop me back to the closed road. How do I tell Google Maps to go a different route? Edit: If you're having trouble like me I might be able to help. When you search for your destination before pressing **Start** select another route (brighter blue highlighted road) and see if it navigates you a different route.

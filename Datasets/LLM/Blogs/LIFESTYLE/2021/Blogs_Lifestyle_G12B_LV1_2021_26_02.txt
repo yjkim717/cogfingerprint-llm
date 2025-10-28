@@ -1,7 +1,0 @@
-## The Quiet Hum of Productivity (and a Little Bit of Gaming)
-
-Okay, so I’ve been on a bit of a tech quest lately. As a student juggling web development projects and, you know, *actual* coursework, my trusty laptop was starting to feel… tired. I needed something reliable, something that could handle Ubuntu and Windows equally well, and wouldn't completely bankrupt me. 
-
-Enter the ThinkPad rabbit hole. I’ve always admired their understated durability. After weeks of searching, I finally landed on a 14-inch model – no numpad, which is surprisingly important for coding! It’s been a game changer. The keyboard is fantastic, Ubuntu runs smoothly, and even light gaming (Stardew Valley, anyone?) is surprisingly enjoyable. 
-
-It all came in just under CAD 1200, a price point that felt justifiable for the boost in productivity. It’s funny how a good laptop can really shift your whole workflow. Now, if you’ll excuse me, I have some code to write!

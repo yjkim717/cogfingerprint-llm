@@ -1,1 +1,0 @@
-As I navigated the challenges of learning C# in 2020, I realized that having a study buddy made all the difference. That's when I thought, "Why not create an app that connects like-minded learners?" A platform where we can hold each other accountable and grow together in our software development journey - now that's a study buddy system worth building!

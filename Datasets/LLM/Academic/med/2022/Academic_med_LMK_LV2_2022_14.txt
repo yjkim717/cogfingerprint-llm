@@ -1,9 +1,0 @@
-Title: Dental Extraction Causes Among Syrian Refugee Children in Jordan: A Cross-Sectional Study
-
-Abstract:
-
-The oral health status of refugee populations is a pressing concern, particularly among children. This cross-sectional study aimed to investigate the causes of dental extraction among Syrian refugee children residing in Jordan. A total of [sample size] children, aged [age range], were examined at [number] dental clinics in [locations] between January and June 2022. The primary outcome measure was the reason for dental extraction, categorized as dental caries, periodontal disease, trauma, or other causes. Secondary measures included oral hygiene status, toothbrushing frequency, and demographic characteristics.
-
-The results showed that dental caries was the predominant reason for dental extraction, accounting for [percentage]% of all extractions. The mean DMFT (Decayed, Missing, and Filled Teeth) score was [value], indicating a high prevalence of dental caries. Toothbrushing frequency was low, with [percentage]% of children brushing their teeth less than once daily. Oral hygiene status was generally poor, with [percentage]% of children presenting with visible plaque.
-
-Multivariate analysis revealed a significant association between dental caries and toothbrushing frequency (p < 0.001), as well as between dental caries and oral hygiene status (p < 0.01). The findings suggest that poor oral hygiene practices and inadequate access to dental care contribute to the high prevalence of dental caries among Syrian refugee children in Jordan. The study highlights the need for targeted oral health interventions, including education on proper toothbrushing techniques and regular dental check-ups, to mitigate the risk of dental caries and promote optimal oral health among this vulnerable population. The results of this study have implications for the development of oral health policies and programs for refugee populations.

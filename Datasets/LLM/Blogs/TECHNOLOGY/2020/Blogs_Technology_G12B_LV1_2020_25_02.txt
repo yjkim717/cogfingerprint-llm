@@ -1,3 +1,0 @@
-## The Ghost of Devices Past
-
-Remember 2020? Everything felt…connected, yet strangely isolating. I was wrestling with school device management then, trying to enforce policies through the Google Admin console. Students' phones, tablets – a chaotic swarm syncing data we didn't want. It felt like chasing shadows, a constant battle against unintended connections. Now, looking back, it’s a reminder that technology, for all its promise, needs careful tending.

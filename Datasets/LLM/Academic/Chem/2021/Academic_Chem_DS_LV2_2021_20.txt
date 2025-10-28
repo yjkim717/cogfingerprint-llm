@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and keywords, contextualized for 2021.
-
-***
-
-**Abstract**
-
-Vibrational polariton chemistry, established through vibrational strong coupling (VSC) in optical cavities, presents a paradigm shift for controlling chemical reactivity. While empirical evidence has demonstrated significant suppression of reaction rates under VSC, the precise mechanistic origin has remained a subject of intense debate. This study provides a theoretical framework elucidating this suppression by integrating non-Markovian dynamics with the physical picture of a caging effect. We demonstrate that the formation of vibrational polaritons, hybrid light-matter states, alters the reaction potential energy landscape. Crucially, the cavity environment induces strong memory effects, rendering the system's dynamics inherently non-Markovian. This non-Markovianity, dependent on the cavity frequency, impedes energy dissipation along the reaction coordinate. The interplay of these dynamics effectively cages reactant molecules, hindering their progression over the activation barrier. Our model quantitatively links the degree of reaction rate suppression to specific cavity parameters, resolving the role of resonant coupling versus off-resonant effects. These findings not only clarify the fundamental mechanism of VSC-mediated rate control but also establish a foundation for the rational design of cavity-modified chemical processes.
-
-(Word Count: 220)

@@ -1,5 +1,0 @@
->## The Eternal DWM Quest (and Why I Might Finally Be Giving Up?)
-
-Okay, fellow Linux nerds, let's be honest. How many of us have spent *way* too much time tweaking DWM? I know I have. There's a certain satisfaction in crafting the absolute *perfect* minimalist window manager, isn't there? But lately, I've been wondering if that satisfaction outweighs the sheer effort.
-
-I saw a post on Reddit the other day echoing my own thoughts – wanting that DWM feel (speed, tiling goodness!) but with a bit more… *oomph*. Something a little more modern, maybe with some built-in conveniences I haven't felt like coding myself. 2021, and I'm feeling a little tired of the constant configuration. Maybe it’s time to explore some alternatives. Anyone have any recommendations for a tiling WM that's a bit more ready-to-go? Let's chat!

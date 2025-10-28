@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract:
-
-"Optimal Subsidy Allocation under Income Shocks: An Algorithmic Approach. 
-In 2020, the increasing frequency of economic shocks necessitated efficient subsidy allocation mechanisms. This paper presents a novel welfare model integrating income, wealth, and income shocks to identify vulnerable agents. We formulate the subsidy allocation problem as an optimization problem, where the objective is to minimize the number of agents below a certain welfare threshold. Leveraging algorithmic techniques, we develop efficient solutions to this NP-hard problem. Our empirical analysis demonstrates the efficacy of the proposed algorithms in distributing resources effectively, thereby informing data-driven policy interventions."

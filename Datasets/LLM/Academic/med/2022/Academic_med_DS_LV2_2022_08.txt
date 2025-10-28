@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and context.
-
-***
-
-**Abstract**
-
-The management of advanced gastric cancer (GC) has evolved significantly with the integration of molecularly targeted agents and immunotherapies. This review synthesizes the 2022 National Comprehensive Cancer Network (NCCN) guidelines for metastatic GC, with a specific focus on the critical role of comprehensive biomarker profiling in guiding therapeutic selection. We underscore the paradigm shift from a one-size-fits-all approach to a precision oncology framework, wherein treatment is contingent upon the identification of specific biomarkers, including HER2 amplification, microsatellite instability-high (MSI-H) status, PD-L1 expression, and Claudin 18.2 positivity. The guidelines mandate early and systematic biomarker testing via next-generation sequencing and immunohistochemistry to identify candidates for targeted therapies and immune checkpoint inhibitors. Furthermore, we emphasize the necessity of a multidisciplinary tumor board to interpret complex molecular data and formulate individualized treatment plans that integrate systemic therapy, localized interventions, and best supportive care. Adherence to these evidence-based, biomarker-driven strategies is paramount for optimizing clinical outcomes and survival in this challenging patient population.

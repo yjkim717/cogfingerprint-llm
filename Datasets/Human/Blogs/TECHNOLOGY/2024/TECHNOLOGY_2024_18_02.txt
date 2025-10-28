@@ -1,5 +1,0 @@
-Year: 2024
-Author: kbbtech
-URL: https://www.reddit.com/r/sysadmin/comments/1agkzdy/office_365_authentication_token_question/
-
-Hi all I'm trying to determine if a user had their authentication token stolen as it looks like there was a sign in from the other side of the world. We have MFA turned on for our users. I'm just starting to dig in to sort out what has happened, but my understanding is the tokens can be stolen and if they are, they bypass MFA. Would changing the password on the account invalidate the stolen token? Thanks in advance.

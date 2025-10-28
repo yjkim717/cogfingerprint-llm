@@ -1,4 +1,0 @@
-)
-## When Tech Gets Tricky: A Horizon Remote Assistance Hiccup
-
-Anyone who's relied on VMware Horizon for remote support knows the frustration of a seemingly simple task going sideways. Recently, a colleague hit a snag – our support team couldn't download those crucial remote assistance files through the View Console, and it was impacting everyone using Chrome or Edge. Turns out, a tweak to Chrome's security settings did the trick! It’s a good reminder that even in the age of sophisticated tech, sometimes a little configuration adjustment is all it takes to get things flowing smoothly again.

@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and keywords.
-
-***
-
-**Abstract**
-
-The 2022 Highly Pathogenic Avian Influenza (HPAI) epidemic in Europe represented an unprecedented epizootic event, establishing itself as the most extensive and severe outbreak on record. This review synthesizes current epidemiological data to analyze the scale, drivers, and consequences of this crisis. The primary etiological agent, the H5N1 virus of the Gs/GD lineage, demonstrated exceptional persistence and transmissibility, leading to mass mortality across both domestic poultry populations and wild avifauna. A critical development in the 2022 epidemic was the paradigm shift from a seasonally-limited disease to a year-round endemic threat, largely fueled by the virus's successful establishment within resident wild bird populations. This new ecological reservoir facilitated widespread and continuous viral dissemination across previously unattained geographical latitudes, complicating predictive modeling and containment efforts.
-
-Molecular surveillance revealed the continuous emergence of novel virus genotypes through reassortment, indicating an accelerated evolutionary trajectory. These new genotypes posed a significant and evolving risk to the poultry sector, challenging existing biosecurity protocols. While the primary focus remains on animal health, the sporadic but severe zoonotic transmissions underscore the persistent pandemic potential of this HPAI strain, necessitating enhanced One Health surveillance. The 2022 epidemic conclusively highlighted the inadequacy of conventional biosecurity measures alone. Our analysis concludes that mitigating future threats requires an integrated approach, combining enhanced genomic surveillance in wild birds, the development of next-generation vaccines, and the implementation of adaptive, risk-based biosecurity frameworks tailored to this new era of endemic HPAI circulation.

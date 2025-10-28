@@ -1,8 +1,0 @@
-Author: G. Hooft
-Title: Quantum clones inside black holes
-Paper ID: d42f0bebc72438d18794f62dc74b9043ea777600
-Year: 2022
-Author Index: 1
-
-Abstract:
-A systematic procedure is proposed for better understanding the evolution laws of black holes in terms of pure quantum states. We start with the two opposed regions I and II in the Penrose diagram, and study the evolution of matter in these regions, using the algebra derived earlier from the Shapiro effect in quantum particles. Since this spacetime has two distinct asymptotic regions, one must assume that there is a mechanism that reduces the number of states. In earlier work we proposed that region II describes the angular antipodes of region I, the `antipodal identification', but this eventually leads to contradictions. Our much simpler proposal is now that all states defined in region II are exact quantum clones of those in region I. This indicates more precisely how to restore unitarity by making all quantum states observable, and in addition suggests that generalisations towards other black hole structures will be possible. An apparent complication is that the wave function must evolve with a purely antisymmetric, imaginary-valued Hamiltonian, but this complication can be well-understood in a realistic interpretation of quantum mechanics.

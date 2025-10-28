@@ -1,5 +1,0 @@
-Year: 2022
-Author: jfarbzz
-URL: https://www.reddit.com/r/iMovie/comments/wilx3e/recover_library_files_after_emptying_trash/
-
-To free up storage on my Macbook, I deleted a bunch of files from the iMovie library, basically I showed the library package contents and deleted most of them, but after emptying the trash I realized that I wanted some of those projects back so I can edit them if I wanted to, but now in the main iMovie screen I just see black screens with "0s null," probably because I deleted their project files for good. Any help to recover them so I can edit them again? Thanks!

@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary, aiming for a conversational tone and around 106 words, set in 2023:
-
----
-
-**The Quirks of Elixir Pipes – and Why Wrapping Matters**
-
-Been wrestling with Elixir lately, and I stumbled onto something really interesting. You know how pipes are supposed to be so clean and efficient? Well, sometimes, when you’re feeding a complex calculation – especially one with non-commutative operations – things get…wonky. 
-
-I recently had to wrap arguments in anonymous functions to force the right order of operations. It felt a little clunky, like a tiny workaround. But it highlighted a crucial point: even elegant systems need careful consideration of argument placement.  It’s a reminder that even in 2023, understanding the ‘why’ behind the syntax is just as important as knowing *how* to use it.

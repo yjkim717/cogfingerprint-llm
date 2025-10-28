@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft based on your summary and instructions:
-
----
-
-**The Ghost in the Browser**
-
-Remember when we thought every tech promise would be delivered? I still feel a little punch of frustration thinking about Firefox and WebBluetooth. It felt *so* exciting – a direct connection to devices, right from the browser. But then the silence. A decision made, and quietly dropped. It’s a reminder that even the most passionate developers face tough calls, and sometimes, brilliant ideas just don’t quite land.  #webtech #firefox #bugzilla

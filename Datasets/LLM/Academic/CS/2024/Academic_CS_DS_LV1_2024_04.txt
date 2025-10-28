@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The proliferation of autonomous pricing algorithms in digital marketplaces introduces the risk of tacit algorithmic collusion, a phenomenon where machine-learning agents independently converge on supra-competitive pricing without explicit communication. This paper addresses the regulatory challenge of distinguishing collusive outcomes from parallel, competitive behavior. We first formalize a condition of *Algorithmic Non-Collusion*, defined as the absence of inter-algorithmic signaling and the presence of pricing strategies that remain optimal even when competitors undercut. Building upon this definition, we propose a novel statistical audit framework designed for ex-post detection. This methodology analyzes high-frequency price series to identify anomalous convergence patterns and tests for the presence of adaptive signaling mechanisms, such as trigger strategies or price-matching responses that are unexplainable by demand shocks. Our simulation results, calibrated to a oligopolistic market model, demonstrate the framework's efficacy in detecting collusive equilibria with high precision, thereby providing regulators with a critical tool for enforcing competition law in increasingly automated economies.
-
-**(Word Count: 178)**

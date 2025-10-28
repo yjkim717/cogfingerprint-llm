@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Disentangling Forest Microclimate Dynamics: A High-Resolution Analysis of Sub-Canopy Temperature Regimes
-
-Abstract:
-Forest understories play a crucial role in maintaining biodiversity, yet their microclimatic conditions remain poorly understood. This study presents a comprehensive analysis of sub-canopy temperature regimes across European forests, leveraging high-resolution temperature maps to quantify the divergence between sub-canopy and free-air temperatures. Our results reveal significant spatial and temporal variability in sub-canopy temperatures, with deviations from macroclimatic conditions reaching up to several degrees Celsius. These findings have important implications for understanding the impacts of climate change on forest ecosystems, as sub-canopy temperatures can decouple from regional climate trends. By elucidating the complex interactions between forest structure, microclimate, and macroclimate, this research provides critical insights into the mechanisms underpinning forest biodiversity and resilience in a changing climate (2021).

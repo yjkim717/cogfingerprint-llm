@@ -1,9 +1,0 @@
->Okay, here's a blog post draft based on your instructions and the provided keywords/summary. I've aimed for a relatable, conversational tone and a reflective feel, keeping the 2020 context in mind.  I've included a title suggestion too.
-
-**Title: Lost in the Loops (and Suddenly a Junior!)**
-
-Remember 2020? The year the world felt like it was buffering? It's funny, but my coding journey felt that way too. I started as a bright-eyed CS freshman, thrown into a 2+3 program (meaning five years total, starting college classes early – a bit intense, I know!).
-
-Suddenly, I’m staring down the barrel of internship season. It’s hitting me hard that those introductory Python classes feel *ages* ago. Everyone’s talking interviews and projects, and I’m scrambling to brush up on data structures and algorithms. 
-
-It's a weird feeling, this blend of excitement and feeling completely behind. I'm trying to focus on building a solid resume, one line of code at a time.  The online courses are helpful, but nothing beats the feeling of finally cracking a problem.  Anyone else feeling this imposter syndrome vibe right now? Let’s navigate this together! #CSMajor #Internships #CodingLife #FreshmanYear

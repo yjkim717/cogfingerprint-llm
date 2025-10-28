@@ -1,1 +1,0 @@
-This study demonstrates that surface Fe sites and Sr vacancies in perovskite catalysts synergistically enhance the oxygen evolution reaction by promoting lattice oxygen oxidation, offering a novel strategy for designing efficient electrocatalysts in sustainable energy conversion.

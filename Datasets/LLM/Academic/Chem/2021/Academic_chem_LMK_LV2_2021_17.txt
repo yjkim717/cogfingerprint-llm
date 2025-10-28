@@ -1,9 +1,0 @@
-Here is a formal academic-style abstract in the field of chemistry:
-
-Title: Investigating the Morphological Evolution of H2O, CO2, and CO Ices on Refractory Grains via Transmission Electron Microscopy
-
-Abstract:
-
-The morphology of ices formed on refractory grains is a crucial factor influencing the physicochemical processes occurring in molecular clouds and protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to investigate the crystallization and morphological evolution of H2O, CO2, and CO ices on refractory substrates. Our results demonstrate that the morphology of the ices is highly dependent on the composition and temperature of the system. At cryogenic temperatures, the ices exhibit amorphous structures, whereas crystallization occurs upon warming to temperatures above 120 K. The crystalline structures formed are influenced by the presence of CO2 and CO, which act as nucleation sites for the crystallization of H2O ice. Furthermore, our TEM observations reveal that the ices form distinct morphological features, including nanoparticles and thin films, which are shaped by the interplay between intermolecular forces and substrate interactions. These findings have significant implications for our understanding of the role of ice morphology in astrophysical environments, particularly in the context of grain surface chemistry and the formation of planetary bodies. By elucidating the complex relationships between ice composition, temperature, and morphology, this study provides new insights into the complex physicochemical processes governing the evolution of molecular clouds and protoplanetary disks.
-
-Year: 2021.

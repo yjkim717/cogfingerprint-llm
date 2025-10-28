@@ -1,7 +1,0 @@
-'s response:
-
-## The YouTube Black Hole & My Firefox Frustration (2022 Edition)
-
-Okay, tech folks, let’s be real. We’ve all been *there*, right? Staring at a screen, willing a website to load, only to be met with the dreaded error message. Lately, I’ve been battling a particularly stubborn one: YouTube refusing to load in Firefox. 
-
-I’ve tried everything – disabling extensions, nuking my profile data, even a full reinstall. Seriously, *everything*. It's maddening, especially when I'm just trying to unwind after a long day. Windows 11 seems to be playing a part too, adding another layer of complexity. It’s a stark reminder that even our trusty tech can throw a curveball, leaving you feeling utterly defeated. Anyone else experiencing similar Firefox woes?

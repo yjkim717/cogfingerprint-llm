@@ -1,5 +1,0 @@
->## The Unexpected Calm of Upgrading My PC
-
-Okay, so this might sound weird, but last weekend I found a surprising amount of peace in swapping out the CPU cooler on my computer. I finally upgraded to an Intel LGA1700 processor, which meant a new cooler was a must. I went with a Corsair iCUE H100i Elite – it looked sleek, and the reviews were good.
-
-But the installation… that was a journey. I spent a good hour triple-checking compatibility, researching part numbers like CW-8960091 and 8960093 (seriously, who needs to know that?!).  It was oddly meditative, though. Lost in the small, precise movements. Now, the system runs smoother, quieter, and honestly?  It feels like a little victory in a chaotic 2021. Sometimes, the most unexpected projects bring the most unexpected calm.

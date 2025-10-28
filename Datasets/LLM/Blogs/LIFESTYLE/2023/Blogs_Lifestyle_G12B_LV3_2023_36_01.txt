@@ -1,3 +1,0 @@
->## When Tech Gets Tricky: A Wyze Cam & 2FA Lesson
-
-Okay, so I finally took the plunge and added a Wyze cam to my home security setup. Felt good, right? Safety and peace of mind! Then, the 2FA kicked in… and the email codes just *weren't* arriving. Frustrating, to say the least. After a bit of digging (and a minor panic!), I stumbled upon a solution: switching to TOTP for my secondary authentication. It was a surprisingly simple fix, and a good reminder that sometimes, the tech we rely on needs a little nudge. Anyone else have a recent tech hiccup they overcame? Let's share the struggle – and the solutions!

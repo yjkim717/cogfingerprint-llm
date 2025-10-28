@@ -1,5 +1,0 @@
- here's a blog post draft based on your request:
-
-## The Quiet Work of Horizon and PowerCLI
-
-Remember those moments when a critical ESXi host needs a little TLC? Lately, I’ve been wrestling with VMware Horizon deployments and the delicate dance of getting things into maintenance mode. Turns out, disabling those pesky ParentVMs can be a real headache. Thankfully, a little PowerCLI scripting smoothed the way – a reminder that sometimes, the most impactful work is the quiet automation behind the scenes.

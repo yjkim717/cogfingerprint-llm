@@ -1,8 +1,0 @@
-Author: J. Lembrechts
-Title: SoilTemp: A global database of near‐surface temperature
-Paper ID: fd589d740c4c532cbc70a907b2aa406938d76487
-Year: 2020
-Author Index: 20
-
-Abstract:
-Current analyses and predictions of spatially explicit patterns and processes in ecology most often rely on climate data interpolated from standardized weather stations. This interpolated climate data represents long‐term average thermal conditions at coarse spatial resolutions only. Hence, many climate‐forcing factors that operate at fine spatiotemporal resolutions are overlooked. This is particularly important in relation to effects of observation height (e.g. vegetation, snow and soil characteristics) and in habitats varying in their exposure to radiation, moisture and wind (e.g. topography, radiative forcing or cold‐air pooling). Since organisms living close to the ground relate more strongly to these microclimatic conditions than to free‐air temperatures, microclimatic ground and near‐surface data are needed to provide realistic forecasts of the fate of such organisms under anthropogenic climate change, as well as of the functioning of the ecosystems they live in. To fill this critical gap, we highlight a call for temperature time series submissions to SoilTemp, a geospatial database initiative compiling soil and near‐surface temperature data from all over the world. Currently, this database contains time series from 7,538 temperature sensors from 51 countries across all key biomes. The database will pave the way toward an improved global understanding of microclimate and bridge the gap between the available climate data and the climate at fine spatiotemporal resolutions relevant to most organisms and ecosystem processes.

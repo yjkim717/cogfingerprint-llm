@@ -1,5 +1,0 @@
-Year: 2024
-Author: prois99
-URL: https://www.reddit.com/r/appdev/comments/1hkulfc/wysiwyg_type_apps_and_be_communication/
-
-Hello, I have been looking for answer to this question for some time, and cannot find it. When talking about WYSIWYG type apps, where "live" edit content, without clicking the save button, how does the communication with the BE preferably work? Is it the best to send patch requests for the particular, lets say edited note, or task straight away or is there some communication with session storage which sends updates in some periods to the BE? Feel free to provide only a source I can study, that will be more than enough! Thank you very much.

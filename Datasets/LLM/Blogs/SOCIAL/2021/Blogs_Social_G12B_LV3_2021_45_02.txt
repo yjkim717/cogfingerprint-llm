@@ -1,6 +1,0 @@
-raunchy
-Okay, here's a blog post draft inspired by the provided summary and keywords, aiming for a conversational, relatable tone and a 2021 context:
-
-## My Apple Watch & the Handwashing Battery Drain (Seriously!)
-
-Anyone else noticing their Apple Watch battery draining *fast* lately? I recently discovered a weird culprit: the handwashing detection feature in watchOS 7.2. Apparently, it's a bit of a power hog! Disabling it gave my Series 4 a serious battery life boost. It's those little unexpected quirks that make you go "huh?" – a reminder that even our tech has its own little habits.

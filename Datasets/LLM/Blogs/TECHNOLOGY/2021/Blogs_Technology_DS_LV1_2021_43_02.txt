@@ -1,1 +1,0 @@
-Remember wrestling with JavaScript’s flexibility in 2021? I kept thinking, "If it walks like a duck..." TypeScript’s duck typing finally brought order to that chaos. It felt like the Monty Python punchline finally made sense—no longer a silly quest for a waterfowl, but a practical path to robust code. Sometimes, humor is the best teacher in tech.

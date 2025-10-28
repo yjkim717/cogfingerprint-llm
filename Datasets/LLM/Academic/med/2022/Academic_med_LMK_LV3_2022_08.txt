@@ -1,6 +1,0 @@
-Here is a generated abstract inspired by the given summary and keywords:
-
-Title: Optimizing Gastric Cancer Management: The Role of HER2 Status in Guiding Targeted Therapies
-
-Abstract:
-The 2022 NCCN Clinical Practice Guidelines for Gastric Cancer underscore the critical importance of biomarker testing in identifying patients with unresectable locally advanced, recurrent, or metastatic gastric cancer who may benefit from targeted therapies. Specifically, assessment of HER2 status has emerged as a crucial determinant in guiding treatment decisions. Patients with HER2-positive gastric cancer are eligible for trastuzumab-based therapies, which have demonstrated significant improvements in overall survival. The integration of HER2 testing into clinical practice has thus become a cornerstone of personalized medicine in gastric cancer management. This review examines the current evidence supporting the use of HER2 status as a biomarker for targeted therapies in gastric cancer, highlighting the implications for clinical practice and future research directions. By aligning treatment strategies with tumor biology, clinicians can optimize patient outcomes and improve the overall quality of care.

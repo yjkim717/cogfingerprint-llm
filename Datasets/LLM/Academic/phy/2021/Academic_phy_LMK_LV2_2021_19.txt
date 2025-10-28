@@ -1,1 +1,0 @@
-"We propose a compact optical quantum circuit for on-chip multi-photon split state tomography utilizing a waveguide array. This integrated design enables efficient characterization of multi-photon states, providing a scalable solution for quantum information processing applications in 2021's advancing quantum optics landscape."

@@ -1,6 +1,0 @@
-
-Here's an academic abstract inspired by the provided keywords and summary, written in a formal style suitable for a physics publication (circa 2021):
-
-**Abstract**
-
-We report the design and experimental demonstration of a compact optical quantum circuit leveraging a segmented waveguide array for high-fidelity generation and complete tomography of multi-photon entangled states. This integrated photonic architecture enables efficient spatial splitting of single photons, facilitating the creation of complex superpositions crucial for quantum information processing. Utilizing a novel waveguide geometry, we minimize propagation losses and maximize the coherence of generated entangled states. The implemented scheme allows for complete state tomography of a two-photon split state, showcasing the platform's potential for foundational quantum optics research and its scalability towards more complex multi-photon quantum circuits. Our results provide a pathway towards robust and miniaturized quantum devices.

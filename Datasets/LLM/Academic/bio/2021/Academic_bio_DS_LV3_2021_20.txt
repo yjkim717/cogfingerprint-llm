@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract inspired by the provided summary and keywords, contextualized for 2021.
-
-***
-
-**Abstract**
-
-Accurate microclimate data are critical for predicting species distributions and ecological responses to climate change, yet the profound thermal buffering provided by forest canopies is often overlooked in macroclimate models. This study introduces the ForestTemp framework, a continental-scale analysis for Europe that quantifies the spatiotemporal dynamics of sub-canopy temperature. We leveraged a large network of microclimate sensors and high-resolution remote sensing data to train a machine learning model, which predicts near-ground temperature conditions at a 1 km² resolution. Our results demonstrate a substantial and seasonally variable macroclimate offset across European forests. During summer, the forest understory exhibits a pronounced cooling effect, with temperatures averaging 3.2°C (±1.1°C SD) below free-air temperatures, thereby providing critical thermal refugia for understory biodiversity. Conversely, in winter, a weaker but consistent insulating effect was observed, with sub-canopy temperatures marginally higher than the free-air baseline. These offsets are not uniform, being modulated by canopy structure, topography, and latitude. By integrating these fine-scale microclimate predictions, we significantly enhance the accuracy of species habitat suitability models for a range of understory plants and poikilothermic animals. The ForestTemp model provides an essential tool for ecologists and conservation planners, enabling a more mechanistic understanding of climate change impacts on forest biodiversity and informing targeted management strategies in an era of rapid global change.
-
-(Word Count: 199)

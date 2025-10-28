@@ -1,5 +1,0 @@
-**Abstract**
-
-In this work, we establish a quantitative connection between the universal features of operator growth in the Krylov space and the diagnostic measures of quantum chaos. By analyzing the statistical fluctuations of the Lanczos coefficients, \( b_n \), generated from the energy spectrum of a quantum system, we demonstrate that their variance serves as a robust indicator of underlying chaotic dynamics. For the paradigmatic stadium billiard model, we compute these variances and find a strong positive correlation with the system's classical Lyapunov exponent. Furthermore, we show that this variance aligns with the spectral rigidity characterized by the Brody distribution parameter in the adjacent gap ratio. Our results posit the variance of the Lanczos sequence as a unifying measure, directly linking the framework of Krylov complexity to both the classical instability and the random matrix theory description of quantum chaos. This provides a computationally accessible pathway for characterizing chaotic signatures in few-body and many-body quantum systems.
-
-*(Word Count: 149)*

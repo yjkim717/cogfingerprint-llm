@@ -1,7 +1,0 @@
-## The Headaches of Head Tags: A Next.js Revelation
-
-Okay, so I hit a wall this week. A frustrating, blinking cursor kind of wall. I was building out a new Next.js project – 2021, and still wrestling with the nuances of server-side rendering! – and ran into a bizarre issue with my meta tags. 
-
-I was diligently using `getInitialProps` to fetch data and populate my `<Head>` component in `_app.tsx`, expecting those tags to render on the server. But nope. They stubbornly refused to appear until the client-side kicked in. It felt like déjà vu; I'd seen this work perfectly in a smaller project!
-
-Hours of debugging later, I realized the devil was in the details. It's a common enough problem, really, but the frustration of chasing a seemingly simple thing across a complex framework is *real*.  It's a good reminder that even with powerful tools like Next.js, a little extra scrutiny of your component lifecycle can save you a whole lot of headache. Anyone else been down this rabbit hole?

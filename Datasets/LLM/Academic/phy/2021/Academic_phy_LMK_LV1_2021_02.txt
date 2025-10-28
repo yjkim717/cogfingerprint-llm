@@ -1,3 +1,0 @@
-"Exploring the Frontier of Electroweak Symmetry Breaking: A Muon Collider's Potential. 2021. 
-Abstract: 
-The high-energy muon collider offers a promising avenue for probing the intricacies of electroweak symmetry breaking and uncovering new physics beyond the Standard Model. By operating at the TeV scale, it can directly test weak scale naturalness and potentially reveal dark matter candidates. This facility's unique capabilities enable precise measurements of Higgs boson properties and facilitate the discovery of novel phenomena, thereby advancing our understanding of the universe's fundamental laws and the origins of mass."

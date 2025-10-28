@@ -1,8 +1,0 @@
-Author: C. Vafa
-Title: 8d supergravity, reconstruction of internal geometry and the Swampland
-Paper ID: c56979aac21ac90bffb00bc6c8f4e41a2084a7ee
-Year: 2021
-Author Index: 4
-
-Abstract:
-We sharpen Swampland constraints on 8d supergravity theories by studying consistency conditions on worldvolume theory of 3-brane probes. Combined with a stronger form of the cobordism conjecture, this leads to the reconstruction of the compact internal geometry and implies strong restrictions on the gauge algebra and on some higher derivative terms (related to the level of the current algebra on the 1-brane). In particular we argue that 8d supergravity theories with g2\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\mathfrak{g}}_2 $$\end{document} gauge symmetry are in the Swampland. These results provide further evidence for the string lamppost principle in 8d with 16 supercharges.

@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2023 publication:
-
-**Abstract**
-
-Recent advancements in large language models (LLMs) have spurred novel approaches to information extraction (IE). This paper introduces CodeIE, a methodology leveraging Code-LLMs, such as Codex, to address challenges in named entity recognition (NER) and relation extraction (RE) within code-centric applications.  We frame these traditionally supervised IE tasks as code generation problems, enabling the LLM to produce structured output directly representing extracted information.  Specifically, CodeIE employs a prompt engineering strategy to guide the model’s code generation, optimizing for both accuracy and efficiency. Preliminary results demonstrate CodeIE’s efficacy in few-shot scenarios, exhibiting competitive performance compared to established IE techniques.  Future research will explore scaling CodeIE to larger datasets and investigating its adaptability to diverse codebases, contributing to a more automated and robust approach to knowledge discovery from source code.

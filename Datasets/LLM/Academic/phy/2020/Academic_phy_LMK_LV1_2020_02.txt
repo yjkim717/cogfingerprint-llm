@@ -1,4 +1,0 @@
-Title: Unveiling the EFT-Hedron: Geometrical Constraints on Effective Field Theories
-
-Abstract:
-In the context of effective field theory (EFT), we investigate the interplay between causality, unitarity, and positivity to constrain low-energy expansions. By leveraging the geometric properties of positive geometries, we introduce the EFT-hedron, a novel, convex, compact space encoding consistent EFTs. Utilizing the EFT-hedron's geometry, we derive non-trivial bounds on Wilson coefficients, imposing stringent constraints on possible UV completations. Our findings provide a systematic framework for analyzing EFTs, shedding light on the intricate relationships between IR and UV physics, as of 2020.

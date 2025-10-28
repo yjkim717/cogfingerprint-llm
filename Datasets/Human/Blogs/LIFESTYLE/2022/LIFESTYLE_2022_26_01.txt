@@ -1,5 +1,0 @@
-Year: 2022
-Author: Bayweather4129
-URL: https://www.reddit.com/r/ZephyrusG14/comments/xhqj2t/2_issues_with_my_g14/
-
-I used amoury crate to set to silent mode for simple tasks ie web browsing, however it stopped working yesterday and the fans would ramp up and down running really hot despite no heavy usage. I replaced amoury crate with the atrofac software here and the problem still persists. I have attempted to revert back to amoury crate but it gets stuck in the installation phase and keeps asking me to restarts. Edit: only when plugged in, it stays silent on battery. Also when I tried following the steps to disable CPU boosting here, nothing happens in the windows power plan and it looks like this. Any input is appreciated, thank you.

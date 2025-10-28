@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In 2020, analyzing single-cell multiomics data posed significant challenges. This study introduces a novel method to infer cell states by integrating protein and RNA quantification from multimodal experiments. By extending the concept of RNA velocity to protein velocity, our approach enables the characterization of dynamic cell states. We demonstrate the efficacy of our method in capturing cellular heterogeneity and predicting cellular trajectories, thereby enhancing our understanding of complex biological processes."

@@ -1,5 +1,0 @@
-Year: 2022
-Author: DoNotEatMySoup
-URL: https://www.reddit.com/r/riskofrain/comments/tbm6z8/is_void_fields_completely_worthless_now/
-
-It might just be me but it seems like the damage is just so brutally punishing that unless you have fantastic healing items you won't survive it. On top of this the clock keeps running while you're in there now, and while having a choice of three items is nice, it actually works against you since the time is running and it punishes you for making an informed choice on which one you're taking and wasting those valuable seconds. The main thing for me is still the damage change though, because I have tried to do void fields three times now, twice as railgunner and once as commando, at varying points in my runs, and the damage over time always kills me. On top of this, armor plating and tougher times no longer give you any slack. If this is a skilled issue and there's an easy fix, let me know because it just seems utterly pointless to do void fields now.

@@ -1,7 +1,0 @@
-## The Quiet Hum of Progress: Building a PC for a Changing Life (2020)
-
-Remember 2020? The world felt… different. For me, it meant a lot more time at home, and a growing need to manage the sheer volume of video I was creating. Suddenly, editing wasn't just a hobby; it was a necessity. That’s when the idea of building a PC really took root.
-
-I wasn't aiming for a flashy gaming rig. My priority was a solid workhorse, something that could chew through video transcoding in Handbrake without making me want to throw my laptop out the window. The Ryzen 3600 kept popping up in recommendations, and honestly, the thought of pairing it with a decent GPU and a motherboard with Wi-Fi 6 felt… empowering. 
-
-It’s been a surprisingly meditative process, this building thing. Choosing components, researching bottlenecks, anticipating future upgrades – it’s a tangible way to feel in control, even when the world feels chaotic. And the quiet hum of the PC now, diligently rendering, is a comforting soundtrack to a life in transition. It’s more than just a machine; it’s a symbol of adapting and creating, even amidst the uncertainty.

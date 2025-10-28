@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The white-rot fungus *Pleurotus ostreatus* is a model organism for studying the enzymatic machinery of lignin depolymerization, a process critical for global carbon cycling and biotechnological applications. While lignin-modifying enzymes (LMEs) like manganese peroxidases (MnPs) and versatile peroxidases (VPs) are strongly implicated in this process, direct genetic evidence for their essential, non-redundant roles *in vivo* has been lacking. In this study, we employed CRISPR/Cas9 genome editing to generate targeted gene knockouts of key LME-encoding genes in *P. ostreatus*. Phenotypic and biochemical analyses of these isogenic mutants revealed a significant impairment in their ability to degrade natural lignin substrates. Our results provide definitive genetic evidence that MnPs and VPs are indispensable for the native lignin-degrading capacity of this fungus, with no other enzyme systems fully compensating for their loss. These findings not only resolve a long-standing question in fungal biology but also establish a robust genetic platform for engineering hyper-degrading fungal strains for consolidated bioprocessing and bioremediation.
-
-(Word Count: 159)

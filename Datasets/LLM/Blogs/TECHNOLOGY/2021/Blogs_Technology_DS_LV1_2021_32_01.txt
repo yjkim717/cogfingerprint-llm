@@ -1,5 +1,0 @@
-It’s 2021, and I’m deep in my homelab rabbit hole again. My MikroTik CRS354 switch had been running RouterOS for months, and while it’s powerful, I felt like I was wrestling with it every time I needed to tweak a VLAN. The CLI was precise, but for quick changes across dozens of ports? Exhausting.
-
-Then I took the leap and switched to SwOS. What a difference. Suddenly, managing multiple interfaces and VLANs felt almost… simple. The web interface is clean, intuitive, and just works. No more digging through submenus or second-guessing my firewall rules.
-
-Sometimes, the "pro" solution isn’t the right one for the job. SwOS reminded me that in tech—and maybe in life—there’s wisdom in choosing the tool that meets your needs without unnecessary complexity. My homelab has never felt more streamlined.

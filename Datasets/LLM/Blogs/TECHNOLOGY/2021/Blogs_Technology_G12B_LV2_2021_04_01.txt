@@ -1,5 +1,0 @@
-## Exodus, Fees, and the Crypto Rollercoaster
-
-Okay, let's be honest, navigating the crypto world can feel like a constant balancing act. Lately, I've been playing around with the exchange feature within the Exodus Wallet, trying to streamline things. But wow, the transaction fees! Swapping some Bitcoin for Cardano felt surprisingly steep. 
-
-It really got me thinking – is the convenience of in-wallet exchanges *really* worth it when external exchanges often offer significantly lower fees? It’s a trade-off, isn't it? I love the idea of a simplified experience, but those fees definitely gave me pause. Anyone else feeling this way, or am I missing something? Let's chat!

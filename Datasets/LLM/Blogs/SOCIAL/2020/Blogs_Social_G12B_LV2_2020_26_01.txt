@@ -1,5 +1,0 @@
-Okay, here's a blog post draft based on your prompt, aiming for that reflective, relatable, and conversational tone, and set in 2020:
-
-## Back to Basics: Why I'm Building Logic Before Lines of Code
-
-This year’s been… a lot, right? As I gear up to introduce programming to my 7th graders, I realized something. It’s not about the syntax right away. It’s about the *thinking*. We’re building logical foundations – algorithms, problem-solving – before even touching a line of code. Feels right, somehow, in a world that desperately needs a little more clear thinking.

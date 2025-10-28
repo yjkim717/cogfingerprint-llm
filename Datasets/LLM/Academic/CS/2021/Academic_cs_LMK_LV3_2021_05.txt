@@ -1,4 +1,0 @@
-Title: Rethinking Algorithmic Fairness through the Lens of Power Dynamics
-
-Abstract: 
-Traditional notions of algorithmic fairness have been criticized for oversimplifying the complexities of societal inequalities. This paper proposes a novel framework that recontextualizes fairness in terms of power distribution and causal inference. By examining the relational dynamics between decision-makers, algorithms, and stakeholders, we reveal how algorithmic decision-making perpetuates existing inequalities. Our analysis, grounded in 2021 data, demonstrates that a nuanced understanding of power dynamics is essential for developing equitable algorithmic systems that address the root causes of social disparities.

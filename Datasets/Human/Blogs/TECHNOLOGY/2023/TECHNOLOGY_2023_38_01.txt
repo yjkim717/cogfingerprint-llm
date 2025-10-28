@@ -1,5 +1,0 @@
-Year: 2023
-Author: statius9
-URL: https://www.reddit.com/r/datascience/comments/13uljnn/is_there_a_tool_like_pandasai_but_for_r/
-
-Hi all, PandasAI came out lately. For those who don't know, it's a python AI tool that is similar to ChatGPT except it generates figures and dataframes. I don't know if it also can run statistical tests or build regression models. I was wondering if there is a similar tool for R or if anyone is developing one for R. Thank you! Here's the link to the repo for PandasAI if anyone's interested: gventuri/pandas-ai: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational (github.com)

@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Re-evaluating Plasticiser Safety in Food Contact Materials: An EFSA Risk Assessment Update
-
-Abstract:
-
-In 2022, the European Food Safety Authority (EFSA) Panel on Food Contact Materials conducted a comprehensive prioritization of plasticisers used in food packaging, driven by concerns over their potential health impacts. Phthalates, a class of widely employed plasticisers, have been subject to intensified scrutiny due to their endocrine-disrupting properties and potential toxicity. This study outlines the EFSA's risk assessment strategy, which prioritized plasticisers based on their recent evaluation history and hazardous characteristics. The resulting risk assessment framework aims to enhance the safety of food contact materials and mitigate potential health risks associated with plasticiser exposure. By re-evaluating the safety profile of these substances, this research contributes to the ongoing development of evidence-based regulatory policies governing the use of plasticisers in food packaging, ultimately informing consumer safety and public health initiatives.

@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft based on that summary, aiming for a reflective and conversational tone:
-
----
-
-**The Ecto Schema Tango**
-
-Anyone else feel like sometimes refactoring feels less like building and more like…a frantic dance? I was wrestling with an Ecto schema overhaul last week, trying to break down those pesky changesets for a public API. It’s easy to get bogged down in the details, but realizing the need for modularization felt like finally spotting the music.  Elixir’s flexibility is amazing, but structure is key – especially when you’re trying to keep things sane in 2023!

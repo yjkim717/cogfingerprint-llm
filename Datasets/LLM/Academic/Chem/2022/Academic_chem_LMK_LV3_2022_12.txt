@@ -1,4 +1,0 @@
-Title: Quantum Dynamics of Vibrational Polaritons: Implications for Chemical Reactivity in Infrared Cavities
-
-Abstract:
-In 2022, the field of vibrational polariton chemistry witnessed significant advancements. This study employs an exact quantum dynamics approach to investigate the effects of vibrational strong coupling on chemical reactivity within infrared cavities. Our results demonstrate that vibrational strong coupling induces substantial modifications in rate constants, primarily due to quantum mechanical state splittings and resonances. These findings underscore the potential of vibrational polariton chemistry to modulate chemical reactivity, offering novel avenues for controlling reaction rates and outcomes. The implications of these results for cavity-modified chemistry are discussed.

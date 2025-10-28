@@ -1,8 +1,0 @@
-Author: M. Goldman
-Title: A user guide for the online exploration and visualization of PCAWG data
-Paper ID: 5ca98cc747216547c99bc77bc3225a6f002d0328
-Year: 2020
-Author Index: 8
-
-Abstract:
-The Pan-Cancer Analysis of Whole Genomes (PCAWG) project generated a vast amount of whole-genome cancer sequencing resource data. Here, as part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium, which aggregated whole genome sequencing data from 2658 cancers across 38 tumor types, we provide a user’s guide to the five publicly available online data exploration and visualization tools introduced in the PCAWG marker paper. These tools are ICGC Data Portal, UCSC Xena, Chromothripsis Explorer, Expression Atlas, and PCAWG-Scout. We detail use cases and analyses for each tool, show how they incorporate outside resources from the larger genomics ecosystem, and demonstrate how the tools can be used together to understand the biology of cancers more deeply. Together, the tools enable researchers to query the complex genomic PCAWG data dynamically and integrate external information, enabling and enhancing interpretation. The Pan-Cancer Analysis of Whole Genomes project generated a vast array of data. In this article, the authors describe five different online resources to enable readers to explore and visualize the data.

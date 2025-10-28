@@ -1,5 +1,0 @@
-Year: 2021
-Author: apatheticonion
-URL: https://www.reddit.com/r/vmware/comments/njy7kx/how_can_i_configure_vmware_workstation_windows_to/
-
-I'm not an advanced user but I need my guests to have static IPs on NAT networking. I have tried setting the IPs as static from within my guests but sometimes when the OSes boot I need to disable then enable the guest's network adapter. I have read that you can configure the VMWare DHCP server to assign certain static IPs to specific Mac addresses but I am not sure exactly how to do that in Windows 10

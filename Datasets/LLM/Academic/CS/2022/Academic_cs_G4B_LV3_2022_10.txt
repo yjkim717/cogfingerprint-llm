@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-This research investigates a novel image augmentation technique designed to mitigate overfitting in Convolutional Neural Networks (CNNs).  Traditional data augmentation methods can introduce distortions detrimental to model generalization. To address this, we propose a conformal mapping-based augmentation strategy, leveraging geometric transformations to preserve statistically relevant image features during data manipulation.  Experimental results, conducted on a benchmark dataset, demonstrate a substantial reduction in CNN prediction error compared to standard augmentation techniques such as rotations and flips.  Specifically, the conformal mapping approach resulted in a statistically significant (p < 0.01) improvement in accuracy metrics.  These findings suggest that incorporating conformal mapping as a data transformation strategy offers a promising avenue for enhancing the robustness and performance of CNNs, particularly in scenarios with limited training data.

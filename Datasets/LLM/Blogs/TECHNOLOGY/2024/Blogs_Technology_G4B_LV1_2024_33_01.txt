@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft inspired by that Reddit thread summary, aiming for a conversational tone and around 97 words:
-
----
-
-**The Ghost Data Problem**
-
-It’s weird, right? I was wrestling with a similar issue last week – a cloud instance I’d shut down, only to find my storage bills skyrocketing. Turns out, even after termination, remnants of the boot volume lingered, hoarding space. It’s a frustrating reminder that ‘off’ doesn’t always mean ‘gone’ in the cloud.  Seriously, double-check those free tier limits and how instance termination truly clears things out.  Lesson learned: always a little paranoid about ghost data!

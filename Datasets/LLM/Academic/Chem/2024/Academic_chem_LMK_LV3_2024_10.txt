@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Recent quantum chemical calculations (2024) elucidate the interstellar formation of methylamine via carbon atom condensation on NH3-H2O ices, followed by a complex hydrogenation network. The proposed astrochemical kinetics model reveals that methanimine serves as a crucial intermediate in this process. Our results demonstrate that the condensation of carbon atoms on icy grain surfaces can efficiently yield methylamine, a key precursor to complex organic molecules. These findings have significant implications for understanding the origins of prebiotic chemistry in interstellar environments."

@@ -1,3 +1,0 @@
-It’s 2020, and I’m juggling remote work like everyone else, trying to keep our digital doors locked tight. A colleague asked me recently if we could set up geo fencing with our Office 365 E3 licenses—you know, only allowing logins from certain countries. It felt like a simple yes-or-no, but oh, was I in for a lesson.
-
-Turns out, that extra Conditional Access magic needs P1 licenses, which aren’t part of E3. Suddenly, it wasn’t just about tech specs; it was about balancing security with budget realities. It reminded me that in this scattered world, even the best tools have their limits. Sometimes, the gap between what we want and what we have is where the real thinking begins.

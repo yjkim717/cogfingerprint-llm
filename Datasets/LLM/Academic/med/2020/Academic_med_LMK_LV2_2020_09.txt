@@ -1,4 +1,0 @@
-Title: Investigating the Causal Relationship Between Daytime Napping and Cardiometabolic Health Using Mendelian Randomization
-
-Abstract:
-Daytime napping is a ubiquitous behavior with unclear implications for cardiometabolic health. To elucidate the causal links between daytime napping and cardiometabolic traits, we conducted a genome-wide association study (GWAS) to identify genetic determinants of daytime napping. Our GWAS meta-analysis identified novel loci associated with daytime napping, shedding light on the underlying genetic architecture. Using a two-sample Mendelian randomization (MR) approach, we explored the causal effects of daytime napping on cardiometabolic health outcomes, including blood pressure, lipid profiles, and glucose metabolism. Our MR analysis revealed a

@@ -1,5 +1,0 @@
-Title: Mechanistic Insights into Formaldehyde Formation via Water-Catalyzed Reaction of Carbon Atoms with Amorphous Solid Water
-
-Abstract:
-
-The formation of formaldehyde (H2CO) in interstellar clouds is a complex process involving the reaction of carbon atoms with water molecules. In this study (2021), we investigated the reactivity of C(3P) atoms with amorphous solid water (ASW) using a combination of experimental and theoretical approaches. Our results show that the reaction proceeds via a water-catalyzed proton transfer mechanism, leading to the formation of H2CO. The reaction is initiated by the adsorption of C(3P) atoms onto the ASW surface, followed by the formation of a HCOH intermediate. The subsequent proton transfer, facilitated by the surrounding water molecules, yields H2CO. Our findings provide new insights into the mechanistic details of H2CO formation in interstellar environments, highlighting the crucial role of ASW in catalyzing this reaction. The implications of our results for understanding the astrochemical processes governing formaldehyde formation are discussed.

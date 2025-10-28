@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Enhanced Electrocatalytic Activity of LaNiO3 Perovskite via FeOOH Surface Modification for Oxygen Evolution Reaction"
-
-The development of efficient electrocatalysts for the oxygen evolution reaction (OER) is crucial for renewable energy applications. In this study, we demonstrate a surface modification strategy to enhance the OER catalytic activity of LaNiO3 perovskite using FeOOH decoration. The FeOOH-modified LaNiO3 perovskite exhibits significantly improved electrocatalytic performance, attributed to the promotion of lattice oxygen oxidation. Our results show that the FeOOH decoration facilitates the formation of active oxygen species, thereby enhancing the OER kinetics. The modified perovskite achieves a low overpotential of 320 mV at 10 mA cm-2 and a high turnover frequency of 0.1 s-1. This work highlights the potential of surface modification strategies to improve the electrocatalytic activity of perovskite oxides for OER, paving the way for the design of efficient energy storage and conversion systems (2020).

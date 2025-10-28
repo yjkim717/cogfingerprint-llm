@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-Recent advancements in genome editing technologies have spurred investigation into non-genetically modified (non-GM) approaches for crop and fungal improvement. This study reports the successful implementation of CRISPR/Cas9 mediated genome editing within *Pleurotus ostreatus* (oyster mushroom), facilitating targeted mutagenesis and gene disruption. Utilizing a modified Cas9 system, we achieved efficient and precise alterations within the fungal genome, demonstrating a viable route for directed evolution.  The methodology allows for the creation of stable mutant lines exhibiting altered phenotypes, potentially leading to enhanced traits such as increased yield or improved substrate utilization.  These non-GM editing techniques circumvent traditional genetic modification protocols, offering a novel strategy for accelerating breeding programs and tailoring fungal characteristics. Further research will focus on characterizing the phenotypic consequences of these induced mutations and validating their heritability.

@@ -1,5 +1,0 @@
-Year: 2020
-Author: tonyboy101
-URL: https://www.reddit.com/r/PFSENSE/comments/ia2m96/supermicro_lcd_display/
-
-Trying to install the drivers/libraries for the Supermicro MCP-210-00007-01 LCD display. It seems like a standard LCD display running off USB 1.1. From what I can tell, no has posted anything recently about it now Supermicro has created freeBSD libraries. I have tried using LCDproc to drive this display, and I am stuck. Not sure if anyone else has attempted the same thing or know of any successful posts or resources. This bezel is pretty sweet since the display can be removed with the HDD guard and I would like to use this display if possible.

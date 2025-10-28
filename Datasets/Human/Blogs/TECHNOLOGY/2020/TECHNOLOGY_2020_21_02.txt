@@ -1,5 +1,0 @@
-Year: 2020
-Author: pnwstarlight
-URL: https://www.reddit.com/r/admincraft/comments/f8oy0h/smp_how_to_punish_players_for_dying_but_not_make/
-
-Hi folks, I run a small minecraft server for friends and family. The problem: We have lots of casual players on there who have little experience with video games and it happened a few times that some just went into the nether, fell into lava and lost absolutely everyhing which was super frustrating. I can do some basic coding with java, so to make death less harsh, I turned on keepInventory and simply made players respawn with low health and food bar and take some of their xp, but this alone doesn't seem to be enough of a punishment and doesn't incentivize them to travel back to the point of death. Do you guys know any creative ways what I could do to players on death?

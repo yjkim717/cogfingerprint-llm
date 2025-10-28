@@ -1,8 +1,0 @@
-Author: J. Maldacena
-Title: Comments on magnetic black holes
-Paper ID: e244b77214234121cb0f74641102a4c11595686d
-Year: 2020
-Author Index: 3
-
-Abstract:
-We discuss aspects of magnetically charged black holes in the Standard Model. For a range of charges, we argue that the electroweak symmetry is restored in the near horizon region. The extent of this phase can be macroscopic. If Q is the integer magnetic charge, the fermions lead to order Q massless two dimensional fermions moving along the magnetic field lines. These greatly enhance Hawking radiation effects.

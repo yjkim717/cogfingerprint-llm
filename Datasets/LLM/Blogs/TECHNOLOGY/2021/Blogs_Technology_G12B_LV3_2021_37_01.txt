@@ -1,3 +1,0 @@
-## That Portrait Mode Frustration (and a VLC Wish)
-
-Anyone else constantly battling aspect ratios on their phone? I recently stumbled upon a brilliant feature in the mobile VLC player – it automatically crops videos to *fit* the screen when you’re holding it in portrait. Why isn't that on the PC version?! It's a small thing, but it would save so much fiddling around. Here's hoping VLC adds it soon – a little screen-filling joy goes a long way!

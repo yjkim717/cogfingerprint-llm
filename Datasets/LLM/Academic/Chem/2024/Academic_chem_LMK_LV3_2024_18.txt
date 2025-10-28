@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract: 
-Recent laboratory experiments (2024) have elucidated a novel astrochemical pathway for the formation of methylamine on interstellar ices. The condensation of carbon atoms onto ammonia-rich ice surfaces initiates a complex hydrogenation network, yielding methanimine as a key intermediate. Subsequent hydrogenation reactions facilitate the efficient conversion of methanimine to methylamine. This mechanistic insight sheds new light on the astrochemical origin of methylamine, a precursor to more complex organic molecules. The findings have significant implications for our understanding of interstellar chemistry and the delivery of prebiotic species to early Earth.

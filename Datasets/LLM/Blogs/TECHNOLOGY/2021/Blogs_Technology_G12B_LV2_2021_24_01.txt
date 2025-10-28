@@ -1,5 +1,0 @@
->## The Ghost of Competitive Edge
-
-It's weird how a game can highlight the gaps in your own understanding. Lately, I've been bouncing between CS:GO matchmaking and Faceit, and the difference in my performance is jarring. I *thought* I'd cracked the code of adjusting my crosshair placement and reaction time for the lower tick rate of matchmaking (128 vs Faceit's 1024). I really did. 
-
-But something's still missing. It feels like a phantom competitive edge, born from the tighter, more precise gameplay of Faceit, haunts my matchmaking attempts. I'm slower to react, my peeks are predictable… It’s a frustrating reminder that skill isn't just about raw mechanics; it's about the ecosystem you're playing in. Makes you wonder what other subtle things we miss when jumping between platforms.

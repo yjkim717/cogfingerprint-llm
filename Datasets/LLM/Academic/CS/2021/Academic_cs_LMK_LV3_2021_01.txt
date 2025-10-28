@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Pose-Guided Scene Synthesis with Generative Adversarial Networks"
-Abstract:
-This paper presents a novel generative adversarial network (GAN) framework for pose-conditioned scene generation, leveraging the StyleGAN2 architecture. By conditioning on human pose analysis, our model generates realistic scenes that are compatible with the given pose, addressing the challenge of scene compatibility. Trained on a large-scale dataset, our approach demonstrates the effectiveness of incorporating human pose information into scene generation. Experimental results show that our method outperforms existing state-of-the-art models in generating coherent and diverse scenes, with potential applications in computer vision and graphics. (2021)

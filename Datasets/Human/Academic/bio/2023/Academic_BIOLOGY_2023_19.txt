@@ -1,9 +1,0 @@
-Author: Jiawei Zhao
-Title: Visualization of the surface reconstruction and dynamic catalytic sites of Ni–Fe catalysts for the oxygen evolution reaction by in situ Raman measurements
-Paper ID: 10c728a98f2d6581885bfa81ccd7900ba2a10f85
-Year: 2023
-Author Index: 19
-
-Abstract:
-
- In situ spectroscopic characterization has been considered as a key method to study catalytic mechanisms.

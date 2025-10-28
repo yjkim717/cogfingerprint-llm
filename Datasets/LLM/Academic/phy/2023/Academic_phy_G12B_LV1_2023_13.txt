@@ -1,9 +1,0 @@
- here:
-
-## Abstract: Defect Statistics in Slowly-Driven Long-Range Quantum Systems: A Kibble-Zurek Mechanism Perspective
-
-The emergence of topological defects during continuous phase transitions is a fundamental phenomenon in condensed matter physics. While the Kibble-Zurek (KZ) mechanism provides a compelling explanation for defect formation in systems with short-range interactions, its applicability to systems exhibiting long-range correlations remains less explored. This work presents an analytical investigation of defect statistics in slowly-driven quantum systems characterized by long-range interactions, specifically focusing on transitions induced by a gradual modification of a global parameter. Employing a theoretical framework rooted in quantum field theory and utilizing techniques from full counting statistics, we demonstrate the existence of a purely quantum mechanism for defect generation that is distinct from, yet complementary to, the classical KZ scenario. Our analysis reveals a universal scaling behavior of defect densities near quantum critical points, dependent solely on the exponent governing the decay of the interaction range. Critically, we find that the resulting defect statistics are significantly impacted by the inherent quantum fluctuations present in these long-range systems, offering insights into the dynamics of order formation and potential implications for emergent phases of matter.
-
-
-
-**Keywords:** Quantum Defects, Kibble-Zurek Mechanism, Long-Range Interactions, Quantum Critical Points, Full Counting Statistics, Quantum Phase Transitions

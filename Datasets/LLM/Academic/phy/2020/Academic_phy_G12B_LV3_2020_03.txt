@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, formatted for the field of physics and adhering to the specified constraints:
-
-**Abstract**
-
-This study investigates the theoretical implications of magnetically charged black holes within the framework of the Standard Model. Utilizing a near-horizon analysis, we propose a scenario wherein electroweak symmetry is dynamically restored, resulting in a macroscopic phase transition. This restoration profoundly impacts the black hole’s quantum properties, specifically enhancing Hawking radiation. The presence of massless fermions, arising from the restored symmetry, significantly alters the radiation spectrum. Our findings suggest a potential avenue for observing deviations from standard Hawking radiation predictions, opening new avenues for probing fundamental physics and quantum gravity effects in extreme astrophysical environments. (2020)

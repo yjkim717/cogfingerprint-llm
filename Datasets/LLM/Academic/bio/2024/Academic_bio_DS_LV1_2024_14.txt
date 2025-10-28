@@ -1,5 +1,0 @@
-Here is an original abstract inspired by the provided summary:
-
-**Abstract**
-
-The faithful repair of DNA double-strand breaks (DSBs) is critical for genomic integrity. While the non-homologous end-joining (NHEJ) pathway is a primary repair mechanism, its fidelity is challenged by the spatiotemporal dynamics of broken DNA ends. In this study, we employ single-particle tracking in live cells to characterize the motion of DSB foci induced by ionizing radiation. We demonstrate that this motion is not purely Brownian but is best described by a heterogeneous anomalous diffusion model. The dominant mode is fractional Brownian motion with subdiffusive characteristics (α < 0.5), consistent with confined exploration of the nuclear volume. Crucially, we identify rare, directed long-range movements that correlate temporally with the formation of dicentric chromosome lesions, a hallmark of misrejoining. Our findings establish that these transient, high-mobility events are a key determinant of NHEJ infidelity, providing a mechanistic link between chromatin dynamics and the formation of severe chromosomal aberrations following genotoxic stress.

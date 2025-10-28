@@ -1,6 +1,0 @@
-)
-## That Late-Night Alert & The Weight of Security
-
-It’s 2 AM, and my admin instincts are tingling. A login attempt from halfway across the world in our Office 365? With Multi-Factor Authentication *already* enabled? My heart skips a beat. It’s a stark reminder that even the strongest defenses can be tested. 
-
-The question swirling in my head: does a simple password reset truly wipe out a potentially compromised authentication token? It's a small action with potentially huge implications for our security. It's a constant learning curve, isn't it? Keeping up with these digital threats – a never-ending, vital puzzle.

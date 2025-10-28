@@ -1,4 +1,0 @@
-Title: Correlators of Supergraviton Modes in Extremal Supersymmetric Black Holes
-
-Abstract:
-In this paper, we investigate correlation functions for extremal supersymmetric black holes utilizing exact supergravity solutions. By analyzing the dynamics of supergraviton modes under the action of supercharges, we derive time-independent correlators. Employing a systematic approach, we compute the correlators of supergraviton modes, elucidating their properties in the near-horizon geometry. Our results provide insight into the holographic description of supersymmetric black holes, shedding light on the underlying structure of these systems. (2022)

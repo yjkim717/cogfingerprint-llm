@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary, aiming for a conversational tone and around 106 words, set in 2020:
-
----
-
-**Chasing Ghosts in 480p**
-
-It’s strange, isn’t it? In 2020, I’m spending my evenings trying to *make* something feel old. I’ve built a little setup – an Intel NUC, RetroArch, and a whole lot of tweaking – to get a genuinely retro feel. I’m feeding the output through a VGA cable to a CRT TV.  There’s something about the scanlines and the slightly imperfect colors that just… transports you. It’s a deliberate contrast to the razor-sharp, perfectly rendered world of modern gaming.  A little bit of digital archaeology, I guess.

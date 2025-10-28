@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a university researcher and adhering to your specifications:
-
-**Abstract**
-
-The efficient functional analysis of complex metabolic pathways in filamentous fungi remains a significant challenge. Here, we present a novel genetic engineering approach for targeted, high-frequency mutagenesis in *Pleurotus ostreatus*, a model organism for lignocellulose degradation. Employing a polycistronic tRNA/CRISPR-Cas9 system, we demonstrate the successful induction of multiple-gene mutations with substantially improved efficiency compared to traditional methods. This strategy facilitates rapid and precise manipulation of genes involved in the degradation of lignocellulose, enabling detailed investigation into the synergistic effects of individual enzymatic components. The methodology offers a powerful tool for metabolic engineering and optimization of fungal biocatalysts for sustainable biofuel production, reflecting a key advancement in fungal biotechnology in 2022.

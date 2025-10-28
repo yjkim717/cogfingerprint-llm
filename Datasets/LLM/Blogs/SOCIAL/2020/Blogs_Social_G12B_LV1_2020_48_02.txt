@@ -1,5 +1,0 @@
->## Where Did All the Boston Brains Go?
-
-It's 2020, and I'm still puzzling over something. Growing up in Boston, I always felt surrounded by brilliant minds – MIT, Harvard, countless startups bubbling with potential. Yet, when I look at the tech landscape today, the Bay Area undeniably dominates. Why? 
-
-We have the talent here, the grit, the academic rigor. But something feels…missing. Is it the sheer density of capital? The ingrained "fail fast" culture? Or maybe it's simply the gravitational pull of an established ecosystem. It makes you wonder, doesn't it? What does it *really* take to build a thriving tech hub, beyond just smart people?

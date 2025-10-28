@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication in computer science:
-
-**Abstract**
-
-This paper investigates revenue approximation in multi-buyer auctions, addressing the limitations of existing single-buyer mechanisms when faced with ‘buy-many’ constraints. We introduce a novel sequential item pricing mechanism designed for environments characterized by multiple bidders (multi-buyer), each possessing unit-demand for the auctioned goods.  Our approach leverages mechanism design principles to iteratively adjust prices, aiming to closely match the theoretical revenue benchmark.  Empirical analysis demonstrates that this mechanism achieves an approximation ratio of *O*(*log m*), where *m* represents the number of participating buyers – a significant improvement over previously established single-buyer strategies.  The logarithmic dependence on the number of buyers underscores the scalability of our design.  This research contributes to the optimization of dynamic pricing strategies within complex procurement scenarios, offering a practical solution for maximizing revenue in multi-buyer auctions.

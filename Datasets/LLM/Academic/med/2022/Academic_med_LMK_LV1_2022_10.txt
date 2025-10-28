@@ -1,9 +1,0 @@
-Title: Automated Segmentation of Pediatric Brain Tumors using Deep Learning on Multi-Parametric MRI: A Novel Approach
-
-Abstract:
-
-Pediatric brain tumors pose a significant challenge in neuro-oncology due to their diverse histological and molecular characteristics. Accurate tumor segmentation is crucial for diagnosis, treatment planning, and follow-up assessment. Manual segmentation, however, is time-consuming and prone to inter-rater variability. This study presents a deep learning-based approach for automated segmentation of pediatric brain tumors using multi-parametric Magnetic Resonance Imaging (MRI).
-
-Our proposed method leverages a convolutional neural network (CNN) architecture to integrate information from multiple MRI sequences, including T1-weighted, T2-weighted, and fluid-attenuated inversion recovery (FLAIR) images. A dataset comprising 100 pediatric brain tumor patients (2020-2022) with varying tumor types and grades was used to train and validate the model. The CNN was trained using a combination of cross-entropy loss and Dice similarity coefficient to optimize tumor segmentation accuracy.
-
-The performance of the proposed method was evaluated using a hold-out test set, demonstrating a mean Dice score of 0.88 ± 0.05 and a mean Hausdorff distance of 2.35 ± 1.12 mm. Comparative analysis with existing segmentation methods revealed superior performance of our approach, particularly in cases with complex tumor morphology. The proposed automated segmentation method has the potential to enhance clinical workflow efficiency and support accurate diagnosis and treatment planning for pediatric brain tumor patients. Future studies will focus on further validating the method using larger datasets and exploring its applicability to other brain tumor types.

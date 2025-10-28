@@ -1,9 +1,0 @@
-**Mapping Elegance: Bringing Scala 3 to the Rescue**
-
-As I sat sipping my coffee in early 2021, I found myself pondering the intricacies of mapping Entity Models to Data Transfer Objects (DTOs) in our REST services. This isn't a new problem; Java developers have been relying on libraries like MapStruct to simplify this tedious task for years. But, as a Scala enthusiast, I wondered: could Scala 3 bring a more elegant solution to the table?
-
-In our project, we were working with a complex domain model, and manually mapping entities to DTOs was becoming a maintenance nightmare. I began exploring Scala 3's features, hoping to find a more idiomatic way to handle this mapping. With its improved type system and concise syntax, Scala 3 seemed like the perfect candidate to simplify our mapping woes.
-
-As I dug deeper, I discovered that Scala 3's type classes and givens could be leveraged to create a robust and flexible mapping mechanism. By defining a simple type class for mapping, we could derive instances for our entity and DTO types, eliminating the need for boilerplate code. The result was a concise, readable, and maintainable mapping solution that left our Java counterparts (and their MapStruct dependencies) in the dust.
-
-Embracing Scala 3's expressive power allowed us to write more elegant, composable code. Our REST services became easier to understand and maintain, with a clear separation of concerns between entity models and DTOs. As I looked back on our journey, I realized that sometimes, the right language choice can be a game-changer – and Scala 3 had truly delivered.

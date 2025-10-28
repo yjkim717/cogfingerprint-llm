@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on your summary and instructions:
-
----
-
-**The Ghost in the App**
-
-Late 2022 felt like a year of chasing digital ghosts. I was relying heavily on Blockfolio to track my crypto investments, and it *mostly* worked. Then, BAM – a cryptic error message and suddenly, weeks of meticulously entered purchase history vanished. 
-
-It was infuriating! I spent hours trying to manually re-enter everything, a frustrating exercise in tech’s unpredictable nature. It really highlighted how much we trust these apps, and how easily our data can disappear.  Anyone else experienced this digital panic?

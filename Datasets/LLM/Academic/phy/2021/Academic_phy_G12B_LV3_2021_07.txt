@@ -1,8 +1,0 @@
- Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a physics research paper and contextualized for 2021:
-
-**Abstract**
-
-The classical scattering of point masses, a foundational problem in gravitational physics, receives a refined treatment within the framework of General Relativity. This work extends prior investigations by employing a variation-of-constants method to systematically compute radiative contributions to the scattering amplitude. We achieve an accuracy reaching fourth and a half post-Newtonian (4.5 PN) order in the post-Newtonian expansion, surpassing existing results and enabling a more precise description of gravitational interactions at strong field regimes. A primary focus is the determination of previously unconstrained parameters within fifth-post-Newtonian (5 PN) dynamics. Our analysis yields explicit, analytical expressions for these parameters, crucial for improving the accuracy of numerical simulations and observational tests of General Relativity, particularly in the context of compact binary systems and gravitational wave astronomy. These findings contribute to a more complete understanding of radiation-reaction phenomena and represent a significant step towards refining our ability to model gravitational interactions to the highest achievable order.
-
-
-

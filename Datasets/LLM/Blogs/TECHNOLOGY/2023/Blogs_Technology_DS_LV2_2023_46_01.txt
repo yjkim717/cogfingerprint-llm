@@ -1,5 +1,0 @@
-It was one of those gray Tuesday afternoons in 2023 when the ticket landed in my queue: "Need all members from every AD group containing 'EUROPE' in the name." Simple enough, I thought, firing up PowerShell.
-
-But Active Directory, in its infinite wisdom, loves nesting groups within groups. My first export missed half the users—like trying to count a forest by only looking at the tallest trees. The recursive lookup was trickier than anticipated, each Get-ADGroupMember call peeling back another layer of organizational complexity.
-
-After an hour of trial and error, the script finally ran clean. Watching that CSV populate felt like solving a digital Russian nesting doll. It struck me how much our technical work mirrors human systems—the visible surface rarely tells the whole story. Whether it's code or colleagues, what matters most often lies beneath the obvious, waiting for someone curious enough to look deeper.

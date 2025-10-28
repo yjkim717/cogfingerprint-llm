@@ -1,5 +1,0 @@
-Year: 2024
-Author: Cybyss
-URL: https://www.reddit.com/r/NoMansSkyTheGame/comments/1aylzc5/vr_controls_any_way_to_get_world_relative_that/
-
-Hello, I know VR locomotion best-practices are still a bit of a wild west at the moment. Head-oriented locomotion makes me dizzy, since I like to look around as I walk but I can't keep a straight line when doing so if my head controls my direction. For me, controller-oriented (what NMS calls "world relative") is best. However, I often have to point my right-hand in a different direction than I want to go - e.g, when reaching for my multi-tool for fighting sentinels. By contrast, my left hand doesn't need to move much in this game. It would be so convenient if I could control my locomotion solely via that hand. Is there any way to do that?

@@ -1,9 +1,0 @@
-Title: Multi-Dimensional Online Contention Resolution Schemes for Revenue Maximization with Subadditive Buyers
-
-Abstract:
-
-Revenue maximization in online markets with subadditive buyers remains a challenging problem, particularly when dealing with multi-dimensional settings where buyers have complex valuations over multiple items. This paper addresses this challenge by presenting a novel multi-dimensional Online Contention Resolution Scheme (OCRS) tailored for subadditive buyers. Our OCRS framework generalizes existing single-item OCRSs to accommodate the complexities of multi-item environments, where buyers' valuations are subadditive, indicating that the value of a bundle of items is at least the sum of the values of its constituent parts.
-
-We introduce a sequential item pricing mechanism that leverages our multi-dimensional OCRS to maximize revenue in environments with subadditive buyers. Our mechanism is designed to handle the intricacies of buyer valuations across multiple items, ensuring that the allocation and pricing rules are incentive-compatible and yield high revenue. The proposed OCRS is oblivious to the specific valuation distributions of the buyers, relying solely on the subadditivity property, thereby enhancing its applicability across various market settings.
-
-We establish that our multi-dimensional OCRS achieves a constant-factor approximation to the optimal revenue for a broad class of subadditive valuations. Our theoretical results are complemented by empirical evaluations demonstrating the efficacy of our mechanism in practical scenarios. This work contributes to the growing literature on online mechanisms for revenue maximization, providing a robust framework for managing complex, multi-dimensional markets with subadditive buyer valuations. The proposed OCRS and sequential item pricing mechanism are poised to inform the design of future online marketplaces.

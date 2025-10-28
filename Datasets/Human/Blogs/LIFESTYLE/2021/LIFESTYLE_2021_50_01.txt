@@ -1,5 +1,0 @@
-Year: 2021
-Author: prois99
-URL: https://www.reddit.com/r/AskProgramming/comments/qqe9gi/how_to_search_excel_content_on_builtwithcom_and/
-
-Hi, I have an excel list of eshops, which I would love to search one by one on builtwith.com and scrape the eCommerce it shows up. What would be the best technology to approach this? I do not want anyone to code for me here, just point me in the right direction. Thanks:)

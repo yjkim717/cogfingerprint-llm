@@ -1,7 +1,0 @@
-**Abstract**
-
-The topology of spacetime surrounding black holes is a fundamental area of investigation in general relativity, profoundly influencing the dynamics of orbiting matter. This study examines the influence of scalar hair – a hypothetical form of intrinsic field configuration – on timelike circular orbits within diverse black hole models. Utilizing a topological approach, we demonstrate that scalar hair, under typical parameter regimes, exerts a negligible effect on the underlying topology of these orbits. 
-
-Specifically, we analyze configurations exhibiting timelike circular orbits, characterized by their inherent ‘winding number,’ a topological invariant quantifying the number of rotations performed by an observer traversing the orbit. Our analysis reveals that alterations to scalar hair density and distribution do not fundamentally change the connected components of the orbit space, nor do they induce nontrivial topological transitions. 
-
-This finding supports the prevailing understanding that the topology of these orbits is predominantly determined by the black hole’s mass and angular momentum, effectively relegating scalar hair to a secondary influence.  The absence of a topological impact suggests a robust decoupling between the scalar field’s properties and the global geometric structure surrounding the black hole.  Future research will explore scenarios where stronger scalar coupling might induce subtle topological modifications, potentially revealing new insights into the interplay between gravity and scalar field dynamics.

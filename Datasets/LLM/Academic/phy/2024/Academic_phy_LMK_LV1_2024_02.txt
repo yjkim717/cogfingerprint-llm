@@ -1,6 +1,0 @@
-Title: Unifying Split Factorizations in Scattering Amplitudes through Binary Geometry and Topological Expansion
-
-
-#### Abstract
-
-This study elucidates the genesis of split factorizations in particle and string scattering amplitudes by leveraging the geometric underpinnings of binary geometry and the curve integral formulation. By examining the topological expansion to all orders, we generalize split factorizations beyond leading order, revealing a universal framework applicable to multi-soft limits. Our findings demonstrate that the intricate interplay between binary geometry and topological invariants gives rise to a unified description of scattering amplitudes, thereby advancing our understanding of the underlying structure of particle and string interactions in 2024 theoretical physics research.

@@ -1,3 +1,0 @@
-"Breathing Life into Your Media Server: Optimizing Plex on Raspberry Pi"
-
-Are you tired of buffering wheels and sluggish playback on your Plex media server running on a Raspberry Pi 4B? You're not alone. As we dive into 2024, many of us are turning to DIY media solutions for our entertainment needs. I've been there too - frustrated with performance issues. The good news is that with a few tweaks, you can significantly boost your Plex performance. From adjusting settings to exploring alternative configurations, I'll share my journey of troubleshooting and optimizing Plex on Raspberry Pi, helping you enjoy seamless streaming."

@@ -1,5 +1,0 @@
-Title: Radiation-Reaction Effects in Gravitational Scattering: A Post-Newtonian Analysis
-
-Abstract:
-
-We investigate the impact of radiation-reaction on gravitational scattering within the framework of General Relativity. Employing a variation-of-constants method, we derive the radiation-reaction effects on the scattering of compact objects to third post-Newtonian (3PN) order, thereby extending the classical scattering problem. Our analysis utilizes a post-Newtonian expansion to systematically capture the conservative and dissipative effects governing the dynamics. We demonstrate that the radiation-reaction force contributes significantly to the scattering angle and momentum losses at 3PN order, modifying the classical scattering trajectory. Our results are consistent with previous studies and provide a more comprehensive understanding of gravitational scattering in the context of General Relativity. The presented findings have implications for the accurate modeling of gravitational wave emission from compact binary systems, a crucial aspect of gravitational wave astronomy.

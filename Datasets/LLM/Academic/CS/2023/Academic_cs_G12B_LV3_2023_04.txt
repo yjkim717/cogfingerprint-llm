@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2023:
-
-**Abstract:**
-
-This paper presents a novel algorithmic approach to pen testing, addressing the inherent complexities of combinatorial resource allocation and online operational constraints. We introduce a framework integrating deferred-acceptance auctions with the concept of virtual values to achieve provably efficient solutions. Our methodology transforms the pen testing problem into a series of strategic bidding interactions, allowing for optimal resource assignment while satisfying diverse operational requirements. We demonstrate that this approach yields approximation guarantees with an overhead of at most $(1+o(1)) \ln n$, where *n* represents the number of testing resources.  Furthermore, the framework’s adaptability supports both offline and dynamic online environments.  Experimental results and theoretical analysis validate the efficacy of our approach, offering a significant advancement in the design of scalable and practically relevant pen testing strategies for modern cybersecurity infrastructure.

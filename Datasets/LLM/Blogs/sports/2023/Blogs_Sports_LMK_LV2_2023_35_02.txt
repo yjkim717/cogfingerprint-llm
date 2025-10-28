@@ -1,1 +1,0 @@
-get_blog_post(keywords=["running photos", "photo friday", "winter running", "running route", "race photo"], summary="The author highlights top running photos from the previous 'Photo Friday' and invites readers to share their own running photos.")

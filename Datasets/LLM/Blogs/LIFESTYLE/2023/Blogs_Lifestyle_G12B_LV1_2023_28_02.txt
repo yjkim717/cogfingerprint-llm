@@ -1,5 +1,0 @@
->## The Unexpected Joy of Tiny Projects
-
-This year, I stumbled into CNC routing. It started with a Genmitsu 3020 Pro Max – a surprisingly compact machine – and a desire to learn something *completely* different. Honestly, I expected frustration, a lot of scrapped wood, and a hefty learning curve. 
-
-But there's a peculiar satisfaction in tweaking Fusion 360, figuring out optimal feed rates, and watching a digital design slowly materialize in front of you. It's a mindful escape, a tiny project yielding tangible results. Who knew crafting little wooden boxes and personalized keychains could be so… calming? It's a welcome change of pace in a world demanding constant hustle.

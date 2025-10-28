@@ -1,8 +1,0 @@
-Author: S. Gherardini
-Title: Third Law of Thermodynamics and the Scaling of Quantum Computers.
-Paper ID: 4a75da964b5fddbbda295c5609ee021d72cde538
-Year: 2022
-Author Index: 13
-
-Abstract:
-The third law of thermodynamics, also known as the Nernst unattainability principle, puts a fundamental bound on how close a system, whether classical or quantum, can be cooled to a temperature near to absolute zero. On the other hand, a fundamental assumption of quantum computing is to start each computation from a register of qubits initialized in a pure state, i.e., at zero temperature. These conflicting aspects, at the interface between quantum computing and thermodynamics, are often overlooked or, at best, addressed only at a single-qubit level. In this Letter, we argue how the existence of a small but finite effective temperature, which makes the initial state a mixed state, poses a real challenge to the fidelity constraints required for the scaling of quantum computers. Our theoretical results, carried out for a generic quantum circuit with N-qubit input states, are validated by test runs performed on a real quantum processor.

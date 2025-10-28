@@ -1,5 +1,0 @@
-Title: Spin-Decoupled Metasurface for Simultaneous Detection of Spin and Orbital Angular Momenta via Photonic Momentum Transformation
-
-Abstract:
-
-The simultaneous detection of spin and orbital angular momenta (SAM and OAM) of light is crucial in various applications, including optical communication and quantum information processing. In this study, we propose a spin-decoupled metasurface that enables the simultaneous detection of SAM and OAM via photonic momentum transformation. By exploiting the momentum transformation property of the metasurface, we demonstrate that the SAM and OAM of the incident light can be decoupled and detected independently. The proposed metasurface is designed to recognize vortex beams carrying different SAM and OAM states, and the detection is achieved through the spatial separation of the transformed momentum states. Our results demonstrate the potential of spin-decoupled metasurfaces for advancing photonic technologies and facilitating the manipulation of complex optical fields. (2021)

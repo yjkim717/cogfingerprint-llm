@@ -1,5 +1,0 @@
-Year: 2023
-Author: mikaball
-URL: https://www.reddit.com/r/crypto/comments/16ui4zg/discussing_previous_foundations_on_frosttss/
-
-After analyzing the FROST \[1,2\] protocol I came to the conclusion that I was on the right track on my idea described here, but it was kind of tossed out by the community. I realized that FROST (compared to my proposal) only has some additional steps to verify the shares of the commitments; and to that regard I was already thinking in a solution that could be even better than what is applied in FROST. The interlaced signature scheme (applied to each commitment share) can be used not just by the aggregator but also by every participant in order to validate the commitments. The end result would be the same for the signature verification. I feel disappointed on not trusting more on my own work... I could be highly recognized by such results. What do you think of these ideas?

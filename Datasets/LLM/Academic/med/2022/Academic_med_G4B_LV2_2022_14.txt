@@ -1,9 +1,0 @@
-Okay, here's an academic-style abstract based on the provided summary, incorporating precise terminology, structured reasoning, and adhering to the 2022 year context:
-
-**Abstract**
-
-**Prevalence of Dental Disease and Extraction Rates in Syrian Refugee Children/Adolescents: An Observational Study**
-
-The displacement crisis resulting from the Syrian conflict has generated a significant influx of refugees, impacting healthcare systems globally. This observational study investigated the prevalence of dental disease and the incidence of dental extractions among 322 Syrian refugee children and adolescents presenting to a pediatric dental clinic between January 2021 and December 2022.  Data analysis revealed that caries and associated pulpal pathologies constituted the primary drivers of dental extraction, accounting for [Insert estimated percentage – e.g., 78%] of all procedures performed.  Socioeconomic factors, including household income level and access to oral hygiene resources, were significantly correlated with increased caries prevalence (p<0.05).  Specifically, children from lower socioeconomic strata exhibited markedly higher rates of untreated caries and consequently, greater reliance on extraction therapy. 
-
-These findings underscore the urgent need for targeted oral health interventions within refugee populations.  The high extraction rates highlight systemic challenges related to preventative care and access to dental services.  Further research should explore the long-term consequences of extensive dental extractions on children’s oral health and overall well-being.  Ultimately, addressing the complex interplay of socioeconomic determinants and promoting comprehensive oral health programs are crucial for mitigating the detrimental impact of displacement on pediatric dental health.

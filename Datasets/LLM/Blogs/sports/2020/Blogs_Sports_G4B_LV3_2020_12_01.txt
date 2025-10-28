@@ -1,4 +1,0 @@
-Okay, here's a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone with a 2020 context and a sports theme:
-
-Input: A new user is seeking assistance setting up their recently purchased Meeblip Geode hardware synth with Ableton Live, finding the product’s documentation inadequate.
-Output: 2020 felt like a year of learning to build my own things – literally and figuratively. Like wrestling with a new synth – the Meeblip Geode – and trying to coax it to work with Ableton. The manual? Let’s just say it wasn’t exactly illuminating. It’s a frustrating feeling, wanting to create but hitting a wall.

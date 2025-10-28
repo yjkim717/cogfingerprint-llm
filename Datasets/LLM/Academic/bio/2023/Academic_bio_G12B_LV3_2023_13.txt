@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a 2023 publication:
-
-**Abstract**
-
-Spatial metabolomics, coupled with single-cell analysis, represents a burgeoning frontier in tissue systems biology. This study introduces scSpaMet, a novel analytical framework designed to integrate spatial metabolomics data with high-resolution protein profiling at the single-cell level. We demonstrate the utility of scSpaMet in dissecting metabolic reprogramming events within complex human tissues, focusing specifically on the interplay between immune and cancer cells. The framework allows for the identification of cell-type specific metabolic signatures and the characterization of spatial interactions that govern cellular behavior. By simultaneously profiling both proteomic and metabolic landscapes, scSpaMet facilitates a deeper understanding of tissue organization and its impact on disease progression. This approach promises to reveal novel therapeutic targets and inform strategies for personalized medicine, contributing significantly to our ability to analyze and interpret heterogeneous tissue environments.

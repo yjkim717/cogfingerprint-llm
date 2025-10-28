@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract:
-
-Data-independent acquisition (DIA) proteomics has revolutionized the field of quantitative proteomics, enabling the comprehensive analysis of complex biological samples. However, the computational analysis of DIA data remains a bottleneck due to the requirement for sophisticated algorithms and computational resources. To address this challenge, we present MSFragger-DIA, a fast and sensitive approach for DIA data analysis integrated into the FragPipe platform. Leveraging the MSFragger search engine, MSFragger-DIA enables streamlined and reproducible analysis of DIA proteomics data. Our results demonstrate that MSFragger-DIA outperforms existing methods in terms of speed and sensitivity, facilitating the identification and quantification of thousands of proteins in a single run. The integration of MSFragger-DIA into FragPipe provides a user-friendly interface for researchers to analyze DIA data, promoting the widespread adoption of DIA proteomics in biomedical research (2023).

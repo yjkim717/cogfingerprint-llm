@@ -1,5 +1,0 @@
->## The Mystery Component and the Unexpected Reset
-
-Okay, so I was tinkering with an old DC motor driver the other day - a project I’d abandoned months ago. It was a casualty of a slightly overzealous power surge, and the resulting burn marks were… dramatic. Among the charred remains, I found this tiny, unmarked component, just stamped with "DE." Was it a capacitor? A diode? Maybe a particularly brave zener diode? 
-
-It felt like a puzzle, a little piece of forgotten technology. And honestly, staring at it, I realized something bigger. Sometimes, projects (and even aspects of *life*) just need to be scrapped and started fresh. That burned-out driver was a lesson in letting go. Now, with a clear head and a new perspective, I'm ready to tackle a different, more manageable project. Anyone have a clue what "DE" might indicate on an old component?

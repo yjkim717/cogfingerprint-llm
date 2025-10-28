@@ -1,2 +1,0 @@
-Input: A user is seeking recommendations for a better book reading app, frustrated with the interfaces of existing services like Deezer and looking for a more visually appealing and navigable platform.
-Output: There’s something deeply satisfying about getting lost in a good book, right? Lately, I’ve been wrestling with my reading app – it feels like navigating a cluttered attic! Like Spotify’s interface, it’s just… overwhelming. I crave a cleaner, more intuitive space to discover new stories.  Anyone have a favorite reading app recommendation for 2023?

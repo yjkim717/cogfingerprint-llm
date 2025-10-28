@@ -1,1 +1,0 @@
-"In 2022, I embarked on a quest to safely generate WASM IR from a custom DSL. I turned to Rust, leveraging its strong type system. After exploring various libraries, I stumbled upon pest.rs, a parser generator that simplifies DSL processing. Now, I'm excited to generate WASM IR without the risks of string concatenation."

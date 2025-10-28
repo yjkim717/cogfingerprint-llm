@@ -1,5 +1,0 @@
->## The Startup Dream & My Coding Journey
-
-It's officially summer 2023, and the internship hunt is *on*. As a Computer Science freshman, I'm laser-focused on landing a spot at a startup. There's something incredibly appealing about being part of a small, dynamic team, contributing to something from the ground up. 
-
-I've been brushing up on my Python and Java – feeling pretty solid with those – and dabbling in some web technologies too. The sheer volume of possibilities is a little overwhelming, but exciting! It feels like just yesterday I was struggling with basic loops, and now I'm hoping to build something real. Wish me luck! Anyone else out there hunting for a summer tech gig? Let's connect!

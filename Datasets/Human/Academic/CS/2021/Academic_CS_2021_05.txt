@@ -1,8 +1,0 @@
-Author: Rediet Abebe
-Title: Fairness, Equality, and Power in Algorithmic Decision-Making
-Paper ID: 97c13c17f0651ccf43f81ea1feb92fd14f2a7e47
-Year: 2021
-Author Index: 5
-
-Abstract:
-Much of the debate on the impact of algorithms is concerned with fairness, defined as the absence of discrimination for individuals with the same "merit." Drawing on the theory of justice, we argue that leading notions of fairness suffer from three key limitations: they legitimize inequalities justified by "merit;" they are narrowly bracketed, considering only differences of treatment within the algorithm; and they consider between-group and not within-group differences. We contrast this fairness-based perspective with two alternate perspectives: the first focuses on inequality and the causal impact of algorithms and the second on the distribution of power. We formalize these perspectives drawing on techniques from causal inference and empirical economics, and characterize when they give divergent evaluations. We present theoretical results and empirical examples which demonstrate this tension. We further use these insights to present a guide for algorithmic auditing and discuss the importance of inequality- and power-centered frameworks in algorithmic decision-making.

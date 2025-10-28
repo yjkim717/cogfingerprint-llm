@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2022.
-
-***
-
-**Abstract**
-
-The identification of blood-based biomarkers capable of detecting Alzheimer's disease (AD) pathology in its preclinical stages is a critical objective for enabling early intervention and enriching clinical trials. This study investigated the performance of two novel plasma phosphorylated tau biomarkers, p-tau231 and p-tau217, in detecting early amyloid-β (Aβ) pathology. We conducted a cross-sectional analysis of cognitively unimpaired individuals from a prospective cohort, classifying them as Aβ-positive or Aβ-negative via amyloid-PET imaging. Our results demonstrate that both plasma p-tau231 and p-tau217 accurately differentiate Aβ-positive from Aβ-negative individuals, with p-tau217 exhibiting superior diagnostic performance. Elevations in these biomarkers were detectable at the earliest stages of Aβ accumulation, indicating their high sensitivity to incipient pathology. These findings substantiate that plasma p-tau231 and p-tau217 are robust and accessible tools for identifying preclinical AD. Their implementation could significantly improve the screening efficiency for prevention trials, ensuring the enrollment of individuals with underlying AD pathology and thereby enhancing the statistical power to detect a disease-modifying effect.
-
-(Word count: 189)

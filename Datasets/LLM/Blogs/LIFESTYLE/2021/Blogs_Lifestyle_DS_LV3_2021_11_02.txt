@@ -1,5 +1,0 @@
-The hum of servers used to be the soundtrack of my career. As a network engineer, my world was defined by physical hardware and office walls—until 2021 reshuffled the deck entirely. Watching colleagues transition to cloud roles and work from anywhere sparked something in me.
-
-Passing the AWS Cloud Practitioner felt like unlocking a door. Suddenly, concepts that seemed abstract became tangible pathways toward freedom. My desk at home, once just for evenings, now held the blueprints for a new future. I’d sip my morning coffee visualizing not just network diagrams, but cloud architectures—designing systems in virtual space instead of tracing cables in a server room.
-
-Now, with my sights set on the Solutions Architect and Network Specialist certifications, I’m not just studying for exams. I’m learning the language of flexibility. The cloud isn’t just technology—it’s the promise of crafting a career that fits life, not the other way around. And honestly? That shift in perspective feels like the most valuable certification of all.

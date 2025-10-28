@@ -1,9 +1,0 @@
- Here's a formal academic-style abstract, suitable for a chemistry-related publication, based on the provided summary and adhering to the specified constraints:
-
-**Abstract**
-
-The chemical complexity observed in interstellar ices is a significant challenge to astrophysical models of molecular evolution. Understanding the fundamental processes driving molecular synthesis at cryogenic temperatures is therefore crucial. This study investigates the low-temperature surface diffusion of individual carbon atoms (C) on water ice (H₂O) surfaces, a key step in the formation of complex organic molecules relevant to interstellar environments. Using controlled deposition and temperature-programmed desorption techniques, we experimentally determined the diffusion rates of C atoms across the ice surface at temperatures ranging from 10 K to 30 K. Our findings demonstrate that C atom diffusion is thermally activated, exhibiting a measurable diffusion coefficient even at these extremely low temperatures. Analysis of the temperature-dependent desorption behavior allows for the estimation of an activation energy for surface diffusion, revealing a relatively low barrier for C atom migration.  This observation supports the hypothesis that surface diffusion, alongside reactive pathways, plays a significant role in facilitating C-C bond formation and the subsequent build-up of increasingly complex organic structures in interstellar ices. These results contribute to a growing body of evidence emphasizing the importance of surface kinetic processes in the chemical evolution of molecular clouds and protoplanetary disks.
-
-
-
-I aimed for precision in terminology (diffusion coefficient, temperature-programmed desorption, activation energy), a clear statement of the research question and methodology, and a concise discussion of the implications for interstellar chemistry.

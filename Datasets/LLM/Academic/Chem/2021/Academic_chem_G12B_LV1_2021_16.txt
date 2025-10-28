@@ -1,9 +1,0 @@
-Here's an original abstract inspired by the provided keywords and summary, written in a formal academic style and appropriate for a 2021 publication:
-
-**Abstract**
-
-The burgeoning field of polariton chemistry explores the interplay between light and matter at the molecular level, with vibrational strong coupling (VSC) emerging as a particularly promising avenue for controlling chemical reactivity. While initial investigations suggested enhanced reaction rates through VSC, recent experimental observations have indicated a more nuanced picture. This work presents a theoretical framework elucidating the role of cavity frequency in modulating reaction dynamics within VSC systems. Utilizing a non-Markovian master equation approach, we demonstrate that the cavity frequency acts as a key parameter governing the timescale of energy redistribution between vibrational and photonic degrees of freedom. Specifically, we find that deviations from adiabaticity, inherently linked to the cavity frequency, lead to a phenomenon termed “dynamical caging.” This caging effect arises from the prolonged trapping of molecules in high-vibrational states due to the non-perturbative nature of the VSC interaction and the resulting complex energy flow. Consequently, the observed suppression of reaction rate constants, frequently reported in recent experiments, can be directly attributed to this dynamical caging, rather than simply enhanced reactivity. Our simulations highlight a critical design principle: precise control over the cavity frequency is paramount for manipulating reaction pathways, with frequencies tuned away from the bare vibrational mode exhibiting a pronounced propensity for dynamical caging and reaction rate retardation.
-
-
-
-I hope this abstract meets your requirements! Let me know if you'd like any modifications.

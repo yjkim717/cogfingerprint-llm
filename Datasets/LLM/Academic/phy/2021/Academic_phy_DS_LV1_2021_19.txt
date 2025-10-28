@@ -1,1 +1,0 @@
-We demonstrate a segmented coupled waveguide array enabling on-chip multi-photon split state tomography. This non-reconfigurable architecture achieves optimized fidelity and scalability for integrated quantum information processing.

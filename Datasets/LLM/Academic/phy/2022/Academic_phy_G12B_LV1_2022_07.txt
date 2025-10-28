@@ -1,7 +1,0 @@
-
-## Reconciliation of Post-Minkowskian and Numerical Relativity Predictions for Black Hole Scattering via Effective-One-Body Formalism
-
-The coalescence of compact objects, particularly black holes, provides a stringent testbed for general relativity. While numerical relativity (NR) simulations offer highly accurate solutions to Einstein’s field equations in the strong-field regime, analytical approximations, such as post-Minkowskian (PM) calculations, provide valuable insights into the dynamics at larger separations. Discrepancies between these approaches have historically presented a challenge to our understanding of binary black hole interactions. This work investigates the consistency between PM and NR results for black hole scattering events, leveraging the effective-one-body (EOB) formalism to bridge the gap. We demonstrate a high degree of agreement between PM predictions for scattering angles, extrapolated to late times using EOB radial potentials, and corresponding data obtained from NR simulations. This concordance suggests that the EOB framework effectively captures the essential physics underpinning both analytical and numerical approaches, lending further credence to the accuracy of both methodologies. The implications of this alignment extend to improved waveform modeling for gravitational wave astronomy, particularly in the regime of weak to moderate field interactions following a scattering event.
-
-
-

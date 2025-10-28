@@ -1,1 +1,0 @@
-In 2020, research on the triangular ratio metric in the unit disk revealed sharp bounds, thereby elucidating the Hölder continuity of quasiconformal mappings and advancing the field of complex analysis through novel insights into distortion properties.

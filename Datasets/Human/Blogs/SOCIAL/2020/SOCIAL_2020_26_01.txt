@@ -1,5 +1,0 @@
-Year: 2020
-Author: ScawedyCat
-URL: https://www.reddit.com/r/Teachers/comments/ifda1g/does_anyone_have_any_intro_to_programming/
-
-I’m teaching a 7th grade intro to programming class and I need to teach them logical thinking and how to make algorithms before even attempting to code... doesn anyone have any good resources for that?

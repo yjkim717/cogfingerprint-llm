@@ -1,5 +1,0 @@
-Title: Unveiling the Role of Carbon Atom Surface Diffusion in Interstellar Complex Organic Molecule Formation
-
-Abstract:
-
-The formation of complex organic molecules (COMs) in interstellar environments is a pivotal aspect of astrochemistry. Recent laboratory experiments have elucidated the activation energy for C-atom surface diffusion on interstellar ice analogues, thereby uncovering a previously underappreciated chemical pathway. Our study integrates these findings, demonstrating that C-atom mobility on interstellar ices facilitates the synthesis of COMs through previously overlooked reaction mechanisms. By quantifying the temperature-dependent surface diffusion rates of C atoms, we establish a kinetic framework that underscores the significance of C-atom driven chemistry in interstellar environments. This research advances our understanding of interstellar chemistry, highlighting the critical role of C-atom surface diffusion in the formation of COMs. The results have significant implications for modeling astrochemical networks and understanding the origins of extraterrestrial organic complexity.

@@ -1,4 +1,0 @@
-Title: Unpacking Social Engineering in Cyberspace: A Systematic Review of Frameworks and Countermeasures
-
-Abstract: 
-In the ever-evolving landscape of cyberspace, social engineering attacks remain a pervasive threat, leveraging psychological manipulation to subvert technological security measures. This systematic literature review synthesizes existing research on social engineering concepts, frameworks, and awareness strategies. By examining 2023 and prior studies, we identify key vulnerabilities and evaluate the efficacy of proposed countermeasures. Our analysis provides a comprehensive understanding of the current state of social engineering research, informing the development of robust frameworks to mitigate cybercrimes.

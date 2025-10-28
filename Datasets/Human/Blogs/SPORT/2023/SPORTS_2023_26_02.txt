@@ -1,5 +1,0 @@
-Year: 2023
-Author: peakelyfe
-URL: https://www.reddit.com/r/Blogging/comments/10s978o/using_ai_for_planning_vs_writing/
-
-Hey everyone - I've seen a lot of debate about using AI copy for writing blog posts, due to fears Google will eventually be able to detect and penalize it. What do you think about using AI for getting blog post ideas and outlines? Should that be ok if you then edit / write the post yourself? Today, the tool I use for scheduling social posts (tailwind) has launched capabilities to suggest blog post ideas and turn them into outlines. It usually takes me about an hour a week to come up with post ideas and then 1/2 hour to an hour per post to create a solid outline, so maybe 3-4 hours per week total for this work. I'd love to save that time, but I want it to be safe. Thoughts?

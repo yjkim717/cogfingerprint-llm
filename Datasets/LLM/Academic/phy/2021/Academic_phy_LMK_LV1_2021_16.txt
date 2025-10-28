@@ -1,5 +1,0 @@
-Here is an original abstract inspired by the given summary:
-
-"Asymptotic Symmetries in Five-Dimensional Asymptotically Flat Spacetimes: A Hamiltonian Perspective"
-
-In this paper, we investigate the asymptotic structure of five-dimensional asymptotically flat spacetimes using Hamiltonian methods. By analyzing the nonlinear deformation of the asymptotic symmetry algebra, we reveal a nontrivial extension of the Bondi-Metzner-Sachs (BMS) group in five dimensions. Our results demonstrate that the BMS algebra is deformed by nonlinear terms, leading to a richer asymptotic symmetry structure. The implications of this deformation are discussed in the context of gravitational physics, shedding new light on the nature of asymptotic symmetries in higher-dimensional spacetimes (2021).

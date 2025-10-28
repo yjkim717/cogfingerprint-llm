@@ -1,8 +1,0 @@
-Author: N. Korabel
-Title: Dynamics of intracellular clusters of nanoparticles
-Paper ID: b1da47eb1037e781ee8cd6d867ade1f046c64c97
-Year: 2022
-Author Index: 1
-
-Abstract:
-Background Nanoparticles play a crucial role in nanodiagnostics, radiation therapy of cancer, and they are now widely used to effectively deliver drugs to specific sites, targeting whole organs and down to single cells, in a controlled manner. Therapeutic efficiency of nanoparticles greatly depends on their clustering distribution inside cells. Our purpose is to find the cluster density using Smoluchowski’s coagulation equation with injections. Results We obtain an exact cluster density of nanoparticles as the steady-state solution of Smoluchowski’s equation describing clustering due to the fusion of endosomes. We also analyze the unsteady cluster distribution and compare it with the experimental data for time evolution of gold nanoparticle clusters in living cells. Conclusions We show the steady cluster density is in good agreement with experimental data on gold nanoparticle distribution inside endosomes. We find that for clusters containing between 1 and 20 nanoparticles, the exact cluster density provides a better description of the existing experimental data than the well-known approximate asymptotic power-law distribution $$x^{-3/2}$$ x - 3 / 2

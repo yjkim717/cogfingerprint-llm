@@ -1,3 +1,0 @@
-"Reclaiming Space: A Lesson in Oracle's Free Tier" 
-
-In 2024, I dove into Oracle's Free Tier, eager to explore its capabilities. But after terminating an instance, I faced a frustrating issue - the occupied storage space wasn't reclaimed. I was stuck with a boot volume still hogging precious space. After some digging, I discovered the solution: deleting the lingering boot volume. I learned a valuable lesson: when working with cloud services, it's essential to tidy up after yourself. Don't let abandoned resources waste your storage. Take control, and reclaim that space.

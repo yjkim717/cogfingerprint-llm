@@ -1,3 +1,0 @@
-## Starting Big, Thinking Small (and Future-Proofing Our Code)
-
-Remember that feeling of wanting *all* the features, *right now*? As a small team in 2023, we learned to embrace the monolith first. It felt simpler to build initially. But, we always kept an eye on the horizon, designing with a potential shift to microservices in mind. It’s about building a solid foundation, then strategically evolving – a lesson in patience and planning that applies beyond just software!

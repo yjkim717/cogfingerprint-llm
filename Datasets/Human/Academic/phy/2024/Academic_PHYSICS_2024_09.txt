@@ -1,8 +1,0 @@
-Author: H. Peiris
-Title: Data-space Validation of High-dimensional Models by Comparing Sample Quantiles
-Paper ID: ca2f840621baa0b73c3f6062d1050f86d1a46b58
-Year: 2024
-Author Index: 9
-
-Abstract:
-We present a simple method for assessing the predictive performance of high-dimensional models directly in data space when only samples are available. Our approach is to compare the quantiles of observables predicted by a model to those of the observables themselves. In cases where the dimensionality of the observables is large (e.g., multiband galaxy photometry), we advocate that the comparison is made after projection onto a set of principal axes to reduce the dimensionality. We demonstrate our method on a series of two-dimensional examples. We then apply it to results from a state-of-the-art generative model for galaxy photometry (pop-cosmos) that generates predictions of colors and magnitudes by forward simulating from a 16-dimensional distribution of physical parameters represented by a score-based diffusion model. We validate the predictive performance of this model directly in a space of nine broadband colors. Although motivated by this specific example, we expect that the techniques we present will be broadly useful for evaluating the performance of flexible, nonparametric population models of this kind, and other settings where two sets of samples are to be compared.

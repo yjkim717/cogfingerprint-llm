@@ -1,8 +1,0 @@
-Author: Shao-Wen Wei
-Title: Topology of black hole thermodynamics
-Paper ID: e187e3921ffe2c3ffe4e2aed74e2a20f25635624
-Year: 2021
-Author Index: 14
-
-Abstract:
-A critical point is an important structure in the phase diagram of a thermodynamic system. In this work, we introduce topology to the study of the black hole thermodynamics for the first time by following Duan's topological current $\phi$-mapping theory. Each critical point is endowed with a topological charge. We find that critical points can be divided into two classes, the conventional and the novel. Further study shows that the first-order phase transition can extend from the conventional critical point, while the presence of the novel critical point cannot serve as an indicator of the presence of the first-order phase transition near it. Moreover, the charged anti-de Sitter black hole and the Born-Infeld anti-de Sitter black hole have different topological charges, which indicates they are in different topological classes from the viewpoint of thermodynamics. These give the first promising study on the topology of the black hole thermodynamics. Such approach is also expected to be extended to other black holes, and much more topological information remains to be disclosed.

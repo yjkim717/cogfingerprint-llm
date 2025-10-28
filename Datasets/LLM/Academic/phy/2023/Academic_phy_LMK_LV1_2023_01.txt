@@ -1,4 +1,0 @@
-Title: Resolving the Black Hole Information Paradox via Kruskal-Szekeres Coordinates and Binary Symmetry
-
-Abstract:
-In this study (2023), we re-examine the black hole information paradox through the lens of Kruskal-Szekeres coordinates, revealing an inherent binary symmetry that underlies the spacetime geometry. By exploiting this symmetry, we demonstrate that the information paradox is an artifact of inadequate coordinate representation. Our analysis, grounded in general relativity, shows that the binary symmetry ensures the preservation of quantum information within the black hole's interior, thereby resolving the paradox and shedding new light on the nature of quantum black holes.

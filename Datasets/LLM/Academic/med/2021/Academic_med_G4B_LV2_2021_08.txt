@@ -1,9 +1,0 @@
-**Abstract**
-
-**Nivolumab as Adjuvant Therapy Following Resection of Esophageal or Gastroesophageal Junction Cancer: A Phase II Clinical Trial**
-
-The management of esophageal and gastroesophageal junction (GEJ) cancers following surgical resection remains a significant clinical challenge, with high rates of recurrence necessitating intensive adjuvant strategies. This study investigated the efficacy and safety of nivolumab, a programmed cell death protein 1 (PD-1) inhibitor, as adjuvant therapy in patients with resected esophageal or GEJ cancers. A Phase II, randomized, placebo-controlled clinical trial was conducted, enrolling patients who underwent complete surgical resection and met established pathologic criteria. Participants were randomized 1:1 to receive either nivolumab (240 mg every two weeks) or placebo for a period of up to five years. 
-
-Primary endpoint analysis revealed a statistically significant improvement in median disease-free survival (DFS) in the nivolumab arm compared to placebo (13.2 months vs. 7.8 months, respectively; hazard ratio 0.48, 95% confidence interval [CI]: 0.32-0.73; *p* < 0.001). Furthermore, overall survival data, while preliminary, suggested a trend towards improved outcomes in the nivolumab cohort.  Adverse events were generally manageable, with the most frequently reported events being immune-mediated pneumonitis, colitis, and pruritus. 
-
-These findings demonstrate that adjuvant nivolumab significantly enhances DFS following surgical resection of esophageal or GEJ cancers.  Further investigation, including a pivotal Phase III trial, is warranted to confirm these benefits and establish nivolumab as a standard of care in this challenging patient population.  (Year: 2021)

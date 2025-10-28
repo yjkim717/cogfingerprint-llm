@@ -1,7 +1,0 @@
-## The Lingering Ghost of Macros in My Code
-
-It's 2020, and I’m knee-deep in a C project – a throwback, I know! – and I’ve found myself wrestling with macros. Specifically, those used for variable declarations. There's a certain… efficiency to them, a way to shorten lines and seemingly streamline the code. But the more I use them, the more uneasy I feel.
-
-I keep circling back to the same question: are they *really* helping? Often, they just create this layer of abstraction that makes debugging a nightmare. Suddenly, I'm chasing implicit variables, trying to trace where a value *really* comes from.
-
-It feels like a holdover from an earlier era of programming, when memory was precious and every keystroke counted. Now, with the luxuries of modern compilers and IDEs, I wonder if we’ve traded readability and maintainability for a few saved characters. I'm genuinely curious – are others still leaning on macros for declarations? Or have we collectively moved on to better, clearer ways to define our variables? Let's discuss!

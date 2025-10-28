@@ -1,7 +1,0 @@
-"Building a Home Lab Server: The RAM Puzzle"
-
-As I embarked on building my home lab server in 2023, I thought I was prepared. I'd chosen Proxmox as my hypervisor and ZFS as my file system, and was excited to dive into the world of virtualization and storage. But as I set up my 29TB RAIDZ1 array, a nagging question kept me up at night: how much RAM do I really need?
-
-I've read the recommendations - 1GB per TB of storage, so that's 29GB of RAM right there. But is that just a rough estimate? I started digging into the world of ZFS and its memory requirements, and was surprised by the complexity of it all. It turns out, the amount of RAM needed depends on various factors, including the number of drives, the type of workload, and the level of deduplication.
-
-As I navigated this uncertainty, I realized that building a home lab is not just about throwing hardware together - it's about understanding the intricacies of the technology and making informed decisions. And that's what makes it so rewarding.

@@ -1,7 +1,0 @@
-Okay, here's a blog post draft based on your summary, aiming for a reflective, conversational tone and around 88 words:
-
----
-
-**The Regex Mystery That Stole My Afternoon**
-
-Okay, tech friends, let me confess: I wrestled with regex this week. Specifically, why `/^\s+$/g` just *refuses* to obliterate leading and trailing spaces in JavaScript. It felt like a tiny, frustrating roadblock in a sea of code.  It’s weird, right?  Sometimes the simplest things throw you a curveball.  It reminded me that even experienced developers hit these walls – and that’s totally okay! #regex #javascript #codingstruggles

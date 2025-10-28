@@ -1,2 +1,0 @@
-Input: A user is inquiring about the possibility of setting up home internet independently by purchasing a modem and router instead of relying on an ISP technician.
-Output: Remember that feeling when you just *needed* to connect? Back in 2021, tackling internet setup felt like a mini-adventure.  I spent a frustrating afternoon wrestling with a modem and router, convinced I’d need an ISP hero. Turns out, a little DIY can be incredibly satisfying!

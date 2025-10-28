@@ -1,5 +1,0 @@
-Year: 2024
-Author: apatheticonion
-URL: https://www.reddit.com/r/TradingView/comments/1gd409l/can_tradingview_trading_send_order_confirmations/
-
-Hey all, I am trying to receive notifications from my broker/trading platform when I buy/sell (with a breakdown of purchase size, commission, etc) so I can pipe that into my journaling software. Ideally, I could get a webhook or email when I place an order (buy/sell). I'm using TradingView as my trading platform and Pepperstone as my interactive broker, they also have an integration with ctrader. Pepperstone sends me an email via ctrader a day or two after I make a trade but it doesn't have enough information to fill out my journaling forms. So I am wondering if I can do this from TradingView directly, skipping the interactive broker (and allowing me to have journaling with any interactive broker) Does TradingView support these sorts of events?

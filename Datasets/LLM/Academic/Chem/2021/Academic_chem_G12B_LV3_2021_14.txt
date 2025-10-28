@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, written in the context of 2021:
-
-**Abstract**
-
-The astrophysical abundance of formaldehyde (H₂CO) remains a persistent challenge in astrochemistry, particularly concerning its efficient formation pathways in cold, dense interstellar environments. Previous theoretical models have offered conflicting mechanisms for H₂CO synthesis involving carbon atoms. This study, conducted in 2021, presents a novel, experimentally supported route for H₂CO production via water-catalyzed reactions involving carbon and amorphous solid water (ASW). Utilizing computational chemistry techniques, we demonstrate a highly efficient reaction pathway wherein ASW facilitates the incorporation of carbon atoms into H₂CO. Experimental validation through low-temperature ice matrix infrared spectroscopy confirms the predicted product distribution. These findings resolve inconsistencies in prior literature by establishing a plausible and kinetically favorable mechanism for H₂CO formation, offering new insights into the chemical evolution of icy grains and the broader context of interstellar molecular complexity.

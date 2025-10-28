@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2021.
-
-***
-
-**Abstract**
-
-The edible basidiomycete *Pleurotus ostreatus* (oyster mushroom) is a species of significant agricultural and biotechnological value. However, the development of improved strains has been hampered by the lack of efficient and precise genetic tools. This study establishes a robust CRISPR/Cas9-mediated genome editing system for *P. ostreatus*. We designed sgRNAs to target specific loci and delivered the ribonucleoprotein (RNP) complex into protoplasts, achieving highly efficient targeted mutagenesis primarily via non-homologous end joining (NHEJ). Furthermore, we demonstrated the feasibility of precise gene replacement by co-delivering a donor DNA template to facilitate homology-directed repair (HDR). A critical outcome of this methodology is the generation of mutant strains that are transgene-free, as the RNP complex is transiently active and does not integrate into the genome. This advancement provides a powerful platform for functional genomics and, crucially, enables a novel non-GM breeding strategy for the rapid development of *P. ostreatus* cultivars with enhanced agronomic traits.

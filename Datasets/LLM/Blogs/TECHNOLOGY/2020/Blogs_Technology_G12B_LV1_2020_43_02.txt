@@ -1,5 +1,0 @@
-## My Django Project's New Best Friend: Pre-Commit
-
-Remember the frantic debugging sessions, right before a merge, only to find a stray syntax error? Yeah, those were rough. This year, I finally embraced pre-commit hooks in my Django project, and it's been a game-changer. 
-
-Suddenly, linting, formatting (black, hello!), and even basic type checking run *before* code even touches Git. It's like having a little quality control guardian. Seriously, automating these checks has drastically reduced merge conflicts and made the whole development pipeline smoother. Worth the initial setup, absolutely.

@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, adhering to the requested style and length:
-
-**Abstract**
-
-Recent theoretical efforts to reconcile general relativity with quantum physics have increasingly centered on Loop Quantum Gravity (LQG), a background-independent approach investigating the quantum structure of spacetime. This 2021 review examines the core tenets of LQG, specifically its application to modeling spacetime geometry under extreme conditions – such as those encountered within black holes or during the early universe. LQG posits that spacetime is not continuous at the Planck scale, but rather granular, composed of discrete ‘quanta’ of area and volume.  Consequently, gravitational interactions are fundamentally quantized.  The paper explores the implications of this quantization for established concepts within general relativity, including the singularity problem and the dynamics of cosmological expansion.  Further investigation into LQG promises to illuminate the fundamental nature of spacetime and offer a potential framework for a complete theory of quantum gravity.

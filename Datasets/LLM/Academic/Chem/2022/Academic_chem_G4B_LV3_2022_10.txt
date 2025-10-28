@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-The interstellar medium (ISM) represents a chemically complex environment where radical reactions drive the formation of diverse molecular species. This research examines the pivotal role of H and OH radicals in mediating the transformation of hydrocarbon precursors – specifically acetylene, ethylene, and ethane – within this context. Utilizing computational modeling and kinetic analysis, we demonstrate significant rate constants for reactions leading to vinyl and ethyl-bearing molecules.  These pathways, dominated by radical abstraction processes, highlight the importance of ethyl radical formation as a key intermediate.  Furthermore, the study quantifies the influence of ethyl and vinyl radicals on subsequent chemical networks, suggesting their contribution to the observed isotopic fractionation of organic molecules prevalent in interstellar clouds.  These findings provide crucial insights into the chemical evolution of star-forming regions and the origins of complex organic compounds.

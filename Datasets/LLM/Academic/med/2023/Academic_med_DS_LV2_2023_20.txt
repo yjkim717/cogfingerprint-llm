@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and keywords.
-
-***
-
-**Abstract**
-
-The 2023 update to the American Society of Clinical Oncology/College of American Pathologists (ASCO-CAP) guidelines for human epidermal growth factor receptor 2 (HER2) testing in breast cancer represents a significant, nuanced evolution in diagnostic standardization. This guideline reaffirms the foundational algorithm for HER2 status determination, which relies on a combination of immunohistochemistry (IHC) for protein overexpression and in situ hybridization (ISH) for gene amplification. The established categories of IHC 3+ (positive), 2+ (equivocal), and 1+/0 (negative) remain central to clinical decision-making for traditional anti-HER2 therapies, such as trastuzumab. However, the emergence of novel antibody-drug conjugates (ADCs), specifically those targeting HER2, has fundamentally recalibrated the clinical relevance of the lowest IHC expression levels. These potent therapeutic agents have demonstrated efficacy in tumors previously classified as HER2-negative, particularly those falling within the IHC 1+ category and even some with ultra-low expression (IHC 0 with faint staining). Consequently, the 2023 ASCO-CAP update formally acknowledges this paradigm shift. It underscores the critical importance of precise and reproducible distinction between IHC 0 and 1+ results, a delineation that was previously of limited therapeutic consequence. This heightened scrutiny ensures accurate patient selection for ADC clinical trials and therapy, thereby optimizing oncologic outcomes. The guideline thus reinforces existing testing protocols while mandating a new level of diagnostic rigor at the lower end of the HER2 expression spectrum, directly reflecting the evolving landscape of targeted cancer therapeutics.
-
-(Word Count: 224)

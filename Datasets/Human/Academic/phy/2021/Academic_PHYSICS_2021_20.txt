@@ -1,8 +1,0 @@
-Author: Sungwoo Hong
-Title: New anomalies, TQFTs, and confinement in bosonic chiral gauge theories
-Paper ID: b99d6aa28db9a638c9dd6fd410dbd58b374be166
-Year: 2021
-Author Index: 20
-
-Abstract:
-We study a class of 4-dimensional SU(N) chiral gauge theories with fermions in the 2-index symmetric and antisymmetric representations and classify their infrared phases. The choice N = 4ℤ corresponds to gauging the fermion number and makes the theory purely bosonic. We examine the most general background fields of the centers of the gauge, non-abelian flavor, and U(1)-axial groups that can be consistently activated, thereby determine the faithful global continuous and discrete symmetries of the theory. This allows us to identify new mixed 0-form/1-form ‘t Hooft anomalies on both spin and nonspin manifolds. If the theory confines, the absence of composite fermions implies that continuous symmetries must be broken down to anomaly-free subgroups. Anomalies associated with discrete symmetries can be saturated either by breaking the symmetry or by a symmetry-preserving topological quantum field theory (TQFT). The latter, however, is obstructed on spin manifold. The interplay between these features greatly restricts the possible infrared physics. We present two examples that demonstrate our approach. We argue that if the theory confines, the zoo of anomalies and TQFT obstruction greatly restrict the viable infrared condensates. We also discuss the possibility that some theories flow to a conformal fixed point.

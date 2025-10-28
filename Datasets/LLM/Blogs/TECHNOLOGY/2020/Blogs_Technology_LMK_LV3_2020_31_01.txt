@@ -1,1 +1,0 @@
-"Designing a seamless user experience is key. In 2020, I found that using CSS graphics for elements like 404 pages not only enhanced visuals but also prevented image copying. By making graphics non-selectable, we can protect our creative work while maintaining an engaging and interactive web design."

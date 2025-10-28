@@ -1,5 +1,0 @@
-Title: Unveiling a Novel Formation Pathway of Formaldehyde via Carbon Atom Reactivity with Amorphous Solid Water: An Astrochemically Relevant Process
-
-Abstract:
-
-The formation of formaldehyde (H2CO) in interstellar environments has garnered significant attention in astrochemistry. In this study, we propose a novel reaction pathway for the synthesis of formaldehyde via the reactivity of carbon atoms with amorphous solid water (ASW). Utilizing a combination of computational simulations and experimental techniques, we demonstrate that carbon atoms react with ASW to form formaldehyde through a mechanism facilitated by the hydrogen bonding network within the ASW. Our results indicate that this reaction is barrierless and proceeds via a highly exothermic pathway, rendering it a viable mechanism for formaldehyde formation in astrochemically relevant conditions. The findings presented herein contribute to our understanding of the complex chemistry governing interstellar environments and shed new light on the role of carbon atom reactivity in the formation of key interstellar molecules, as reported in 2021.

@@ -1,5 +1,0 @@
-Year: 2024
-Author: CosmicRamen
-URL: https://www.reddit.com/r/goodreads/comments/1ag5coo/how_do_i_update_progress_on_mobile/
-
-With any other site I would consider this an embarrassing question, but since it’s Goodreads it’s just another pile of garbage on the landfill of terrible UI decisions. I can mark books as “Currently reading” but I can’t seem to actually input what page I’m on. Is this even a feature on the mobile site?

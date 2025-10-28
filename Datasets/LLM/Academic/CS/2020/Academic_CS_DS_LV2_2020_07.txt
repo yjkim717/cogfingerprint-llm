@@ -1,5 +1,0 @@
-**Abstract**
-
-This work establishes a fundamental trade-off between memorization capacity and generalization performance in machine learning. We demonstrate that for broad classes of natural prediction problems, the ability to achieve high test accuracy is contingent upon a learning algorithm's capacity to memorize a non-trivial portion of its training data, even when such data points are statistically irrelevant to the underlying task. Through a theoretical framework grounded in information complexity, we analyze the sample complexity of learning algorithms and prove that any algorithm which avoids memorizing a sufficient number of training examples will necessarily incur a substantial loss in predictive accuracy on certain problem distributions. This result challenges the conventional wisdom that memorization is purely a symptom of overfitting and instead positions it as an essential component of effective learning. Our findings have significant implications for the design of robust training algorithms and the theoretical understanding of generalization in overparameterized models.
-
-**(174 words)**

@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract: 
-In the realm of computational microscopy, cellular segmentation remains a challenging task due to image degradation. This paper presents Cellpose3, a novel one-click framework that integrates image restoration with cellular segmentation. By leveraging a generalist approach, Cellpose3 effectively restores microscopy images, thereby enhancing segmentation accuracy. Our experiments demonstrate that Cellpose3 outperforms existing methods, achieving state-of-the-art performance on diverse microscopy datasets. As of 2024, Cellpose3 offers a robust solution for high-throughput cellular analysis, underscoring the potential of integrated image restoration and segmentation techniques in advancing biomedical research.

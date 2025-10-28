@@ -1,5 +1,0 @@
-Year: 2021
-Author: ihatebeinganonymous
-URL: https://www.reddit.com/r/MachineLearning/comments/p03jvh/d_legal_aspects_in_using_pretrained_networks/
-
-In my naïve view, a pre-trained network is very similar to a compiled (exe) program. Are there any "protections", preventing e.g. commercial use of such "weights". How do code licenses (MIT etc..) work here? And of course, what about an "empty" (i.e. not pre-trained) architecture? Any pointer to relevant discussions is appreciated. Thanks a lot

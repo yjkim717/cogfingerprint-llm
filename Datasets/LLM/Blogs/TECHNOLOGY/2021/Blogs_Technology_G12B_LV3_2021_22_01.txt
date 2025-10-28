@@ -1,5 +1,0 @@
-raunchy
-
-## The VDI Catch-Up Game: A Teams Admin's Reality
-
-Okay, let's be honest, managing Microsoft Teams in a VDI environment in 2021 feels like constantly playing catch-up. We're all excited about the latest Teams features – new meeting tools, enhanced collaboration – but rolling them out to our VDI users? It's a different story. It feels like they're experiencing Teams in slow motion while everyone else enjoys the latest and greatest. It’s a frustrating dance of deployments and delayed updates, and I know I'm not the only one feeling it!

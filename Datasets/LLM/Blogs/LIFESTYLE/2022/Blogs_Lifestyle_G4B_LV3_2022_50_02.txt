@@ -1,9 +1,0 @@
-Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone:
-
----
-
-**The Frustration of a Silent Compiler**
-
-2022 felt like a year of wrestling with tiny, infuriating bugs. I was diving into C programming – specifically, working with strings – and hit a wall. I kept trying to use `strcpy()` and `printf()` like the textbook showed, but my code just sat there, stubbornly refusing to compile. It was maddening! 
-
-It made me realize how easy it is to get lost in the details, to blindly copy examples without truly understanding *why* they work.  That silent compiler became a surprisingly effective teacher, forcing me to slow down and debug, one line at a time.  Sometimes, the biggest breakthroughs come from facing those frustrating silences.

@@ -1,9 +1,0 @@
-Okay, here's a reflective blog post inspired by the provided summary, aiming for a conversational tone and approximately 135 words, set in 2020:
-
----
-
-**Lost in the Code, Found in the Process**
-
-Okay, real talk. As a sophomore CS major this year, I’m staring down the barrel of internships and, let’s be honest, a slightly panicked resume. My path hasn’t been the typical linear one – a straight shot through AP Computer Science and a shiny new degree. It’s been a bit of a scramble, and I’m feeling a *little* behind everyone else. 
-
-I spent last weekend obsessing over interview questions and trying to make my resume scream "hire me!" But then I realized, the best code – and the best applications – are built step-by-step. It’s about the process, not just the destination.  Right now, I'm focusing on building small projects, learning new languages, and just… showing up.  Anyone else feeling this weird mix of excitement and overwhelm?

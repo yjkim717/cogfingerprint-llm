@@ -1,5 +1,0 @@
-It’s 2024, and I’m still amazed by how much of my work as a developer feels like being a digital architect—not just of code, but of human connection. Recently, I found myself wrestling with Socket.IO rooms, trying to carve out private spaces and public hubs, each with its own unique vibe and properties.
-
-I wanted rooms to feel alive, not just anonymous channels. But the thought of juggling parallel state made me cringe—it felt like building a house while sketching the blueprint in the sand. Then it hit me: what if the rooms themselves could hold their own stories? Their access rules, their custom quirks.
-
-It wasn’t just about efficiency; it was about crafting digital environments where people could truly connect. Sometimes, the most technical challenges lead us back to the most human solutions.

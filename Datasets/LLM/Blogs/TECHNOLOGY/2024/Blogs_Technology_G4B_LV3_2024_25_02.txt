@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone:
-
----
-
-**The Ghosts in the Shopify Numbers**
-
-It’s funny how reliant we’ve become on data, right? I’ve been wrestling with Shopify lately – specifically, how accurately it’s tracking sales from organic search. I’m noticing a disconnect between what Google Ads is showing me and what Shopify’s reporting. It’s unsettling, like there are little ghosts in the numbers, skewing the reality of my business.  Do you ever feel that way about your tech?

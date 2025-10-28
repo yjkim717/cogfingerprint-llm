@@ -1,5 +1,0 @@
-## Chasing Ghosts of Pixels: My Quest for Retro Authenticity
-
-There's something magical about retro gaming, isn't there? But it's not just *playing* those old games; it's the *feeling* of them. Lately, I’ve been down a rabbit hole trying to recapture that – the slightly blurry, warm glow of a CRT TV. 
-
-So, I built a mini-PC – an Intel NUC – and loaded it up with RetroArch and Lakka. Now, the fun part: connecting it to a vintage CRT via a VGA-to-RCA adapter. It’s all about chasing that authentic pixel experience, tweaking settings, and obsessing over dithering and input lag. It’s a nerdy pursuit, sure, but the nostalgia is *real*. Anyone else wrestling with recreating the past?

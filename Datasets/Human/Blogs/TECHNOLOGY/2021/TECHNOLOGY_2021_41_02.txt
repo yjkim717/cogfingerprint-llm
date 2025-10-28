@@ -1,5 +1,0 @@
-Year: 2021
-Author: cecil721
-URL: https://www.reddit.com/r/CYBERPOWERPC/comments/r51fz3/error_with_build_cpsupport/
-
-I recently received a build from CyberPowerPC, and I am encountering a weird problem. I have a Phantex P500a, with a ThermalTake Water 3.0, the three included case fans, and an extra exhaust fans. My issue is, the fans connected to the CPU_OPT header (nothing to the CPU_FAN header) are connected using DC power. My fans go burrrrr, constantly. Why would they do this when the fans support PWM???

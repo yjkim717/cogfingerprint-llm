@@ -1,8 +1,0 @@
-
-## Mimetic Initialization for Enhanced Transformer Convergence in Vision Applications
-
-The recent proliferation of Transformer architectures has demonstrated remarkable success across a range of vision tasks. However, training Transformers, particularly in resource-constrained settings, often suffers from instability and slow convergence. This work proposes Mimetic Initialization (MI), a novel, learning-free pre-training strategy designed to accelerate Transformer training in vision by leveraging knowledge implicitly encoded within existing pre-trained models. MI initializes the self-attention layers of a target Transformer by mimicking the learned weight distributions observed in the corresponding layers of a separately pre-trained model (e.g., a convolutional neural network or a different Transformer). This initialization effectively transfers valuable inductive biases without requiring fine-tuning or adversarial training.  We demonstrate empirically that MI facilitates faster convergence and achieves improved classification accuracy on benchmark image classification datasets, including ImageNet, compared to standard initialization schemes like Xavier and Kaiming.  Our results suggest that MI significantly reduces the reliance on extensive training data and computational resources, offering a practical pathway toward deploying efficient and performant Transformer models in diverse vision applications.
-
-
-
-

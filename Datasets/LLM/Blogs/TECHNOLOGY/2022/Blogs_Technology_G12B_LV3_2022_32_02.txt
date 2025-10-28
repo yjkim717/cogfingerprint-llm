@@ -1,9 +1,0 @@
-'s response:
-
-## The Day Active Directory Held My Breath (and What I Learned)
-
-Let's be honest, as a small business owner, you wear a *lot* of hats. And sometimes, one of those hats is "IT Administrator," even if you're not a dedicated tech person. I learned this the hard way last fall. We’re a team of 20, relying heavily on Active Directory for everything – logins, permissions, the whole shebang. 
-
-Then, the unthinkable happened. Both myself and my colleague, the other designated AD admin, got locked out. Simultaneously. Talk about a cold sweat! The panic started to set in – how would we access anything? The temptation of a shared password loomed, but that felt like trading one disaster for another.
-
-It really highlighted a gap in our security plan. We desperately needed a solid dual control system, a failsafe for these "what if" scenarios. Now, we’ve implemented emergency access procedures and are seriously reviewing our password management policies. It's a reminder that even small businesses need robust IT security – because when things go wrong, they *really* go wrong. Anyone else had a similar tech scare? Let’s share some lessons learned!

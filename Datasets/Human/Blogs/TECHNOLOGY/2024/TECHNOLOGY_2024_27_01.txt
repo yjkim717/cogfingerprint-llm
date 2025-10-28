@@ -1,5 +1,0 @@
-Year: 2024
-Author: Joboy97
-URL: https://www.reddit.com/r/3d6/comments/1eu59zq/2024_phb_dance_bard_seems_very_strong/
-
-The new dance subclass seems to be great. If you use a bardic inspiration in combat, you can make an unarmed attack with dex as part of that action or bonus action. Considering the buffs to bardic inspiration, that's a pretty consistent bonus action after level 5. Plus, spell slots for bardic inspiration let's you use your low-level slots to keep it up if you go through all 5 inspiration uses between short rests. Inspiration die for teamwide initiative boost is so much value for the die. Bard magical secrets buffs at level 10 too make for a very well-rounded supportive melee character. Evasion for you and a friend at level 14. It's late for evasion, but that tradeoff is well worth the upside.

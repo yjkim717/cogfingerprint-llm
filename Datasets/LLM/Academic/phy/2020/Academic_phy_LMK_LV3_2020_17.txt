@@ -1,4 +1,0 @@
-Title: Crosstalk Mitigation in Photonic Integrated Circuits via Optimized Subwavelength Structures
-
-Abstract: 
-In 2020, advancements in photonic integrated circuits were hindered by crosstalk between adjacent optical waveguides. This study proposes a novel crosstalk reduction strategy employing nonuniform subwavelength silicon strips, optimized using particle swarm optimization. By tailoring the geometry and distribution of these strips, significant suppression of crosstalk is achieved. Simulation results demonstrate a substantial reduction in inter-waveguide crosstalk, enhancing the performance and scalability of photonic integrated circuits. This approach offers a promising solution for the development of high-density photonic integrated systems.

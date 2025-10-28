@@ -1,8 +1,0 @@
-Author: Jihua Zhang
-Title: Polarization Engineering of Entangled Photons from a Lithium Niobate Nonlinear Metasurface.
-Paper ID: cb11a316870ba77349f419618794d921dcaff91b
-Year: 2023
-Author Index: 19
-
-Abstract:
-Complex polarization states of photon pairs are indispensable in various quantum technologies. Conventional methods for preparing desired two-photon polarization states are realized through bulky nonlinear crystals, which can restrict the versatility and tunability of the generated quantum states due to the fixed crystal nonlinear susceptibility. Here we present a solution using a nonlinear metasurface incorporating multiplexed silica metagratings on a lithium niobate film of 300 nm thickness. We fabricate two orthogonal metagratings on a single substrate with an identical resonant wavelength, thereby enabling the spectral indistinguishability of the emitted photons, and we demonstrate in experiments that the two-photon polarization states can be shaped by the metagrating orientation. Leveraging this essential property, we formulate a theoretical approach for generating arbitrary polarization-entangled qutrit states by combining three metagratings on a single metasurface, allowing the encoding of the desired quantum states or information. Our findings enable miniaturized optically controlled quantum devices by using ultrathin metasurfaces as polarization-entangled photon sources.

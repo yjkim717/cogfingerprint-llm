@@ -1,1 +1,0 @@
-I’ll admit, I was bracing myself for the VMware Horizon renewal email this year. With all the licensing chatter, I expected a painful surprise. But there it was—Universal licensing, vSphere, vSAN, all bundled in, and the price tag? Actually manageable. It’s a rare moment in tech when things just…work out. A small relief, but in 2024, I’ll take every win I can get.

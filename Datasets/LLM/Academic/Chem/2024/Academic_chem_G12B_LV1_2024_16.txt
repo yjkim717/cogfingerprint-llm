@@ -1,8 +1,0 @@
-
-## Resonant Cavity Modification Alters Chemical Reaction Dynamics Under Non-Equilibrium Solvent Conditions
-
-The burgeoning field of cavity quantum electrodynamics (cQED) offers unprecedented opportunities to manipulate chemical reaction dynamics. This work investigates the impact of resonant cavity modification on the vibrational strong coupling regime of a model chemical reaction, specifically considering the influence of a dissipative solvent environment. Employing time-dependent quantum dynamical simulations, we demonstrate that the presence of a high-finesse optical cavity profoundly alters reaction pathways, inducing significant deviations from conventional, non-cavity dynamics. Our simulations reveal that the strong coupling between a reactant vibrational mode and the cavity field, coupled with solvent-induced dissipation, leads to a non-equilibrium population distribution and a modified reaction rate compared to thermally-relaxed systems. Critically, we observe the emergence of novel transient species and altered product branching ratios sensitive to cavity detuning and solvent polarity. These findings highlight the potential for precisely engineering chemical reactivity through the strategic application of resonant cavity modification, opening avenues for tailored chemical synthesis and fundamental studies of non-equilibrium chemical processes. Furthermore, the inclusion of a dissipative solvent provides a more realistic representation of experimental conditions, suggesting viable experimental protocols for observing and controlling these cavity-modified reaction dynamics.
-
-
-
-**Keywords:** Cavity Quantum Electrodynamics, Chemical Kinetics, Vibrational Strong Coupling, Non-Equilibrium Dynamics, Dissipative Solvent, Quantum Dynamics.

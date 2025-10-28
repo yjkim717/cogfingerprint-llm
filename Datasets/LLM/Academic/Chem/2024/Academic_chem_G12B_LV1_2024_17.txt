@@ -1,8 +1,0 @@
-
-## Abstract: Methylamine Dominance in Icy Grain Mantles: A Quantum Chemical Investigation of Carbon Accretion Pathways
-
-The formation of complex organic molecules within interstellar ices is a crucial step in understanding the chemical origins of life. This study investigates the impact of carbon atom accretion onto ammonia-water ices, prevalent in the mantles of interstellar dust grains, using high-level quantum chemical calculations. We explored a comprehensive hydrogenation network initiated by C(0) addition to NH₃-H₂O ices at 10 K, mapping the subsequent reaction pathways and energetics. Our findings demonstrate a significant preference for methylamine (CH₃NH₂) formation compared to alternative products such as hydrogen cyanide (HCN) and its isomer, cyanogen (HNC). This dominance is attributed to a kinetically favorable pathway involving sequential hydrogenation steps following initial carbon addition, leading to a relatively stable methylammonium intermediate. Isotopic effects were considered, showing minimal influence on the overall product distribution. These results provide valuable insights into the complex chemical processes occurring in interstellar environments and reinforce the potential of icy grain surfaces as efficient sites for the synthesis of biologically relevant nitrogen-containing molecules.
-
-
-
-**Keywords:** Astrochemistry, Interstellar Ices, Methylamine, Quantum Chemistry, Carbon Accretion, Hydrogenation Networks, Grain Surface Chemistry.

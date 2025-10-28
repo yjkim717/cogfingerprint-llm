@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Advancements in Multilingual Neural Machine Translation: A Survey of Transfer Learning Paradigms
-
-Abstract:
-
-The increasing demand for multilingual translation systems has spurred significant research in multilingual neural machine translation (MNMT). By leveraging transfer learning and multilingual parallel corpora, MNMT models can learn to translate multiple languages within a single end-to-end framework. This survey provides a comprehensive overview of recent advancements in MNMT, with a particular focus on transfer learning paradigms. We categorize existing approaches into three primary categories: (1) multilingual parameter sharing, (2) language-specific parameterization, and (3) hybrid architectures. Our analysis highlights the strengths and weaknesses of each approach, as well as the challenges associated with training and deploying MNMT models. Furthermore, we identify key research directions for future work, including the development of more effective transfer learning strategies and the incorporation of linguistic knowledge into MNMT models. By providing a structured review of the current state-of-the-art, this survey aims to inform and inspire future research in MNMT. (2020)

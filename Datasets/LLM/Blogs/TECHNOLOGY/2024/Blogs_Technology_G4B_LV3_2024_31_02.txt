@@ -1,5 +1,0 @@
-Okay, here’s a blog post draft based on your summary and style guidelines:
-
----
-
-“I’ve been wrestling with a nagging worry about AI – specifically, where our data goes. It’s exciting to see LLM services popping up, letting us actually *use* massive document collections. But what if those queries, our private questions, get used to train the models?  It’s a crucial need: secure document querying, hosted and private, feels like the next big step for responsible tech.”

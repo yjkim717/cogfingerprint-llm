@@ -1,7 +1,0 @@
-Okay, here's an original abstract, written in a formal academic style, inspired by your summary and incorporating the provided keywords and the 2021 year context:
-
----
-
-**Abstract**
-
-The proliferation of Internet of Things (IoT) devices has introduced novel vulnerabilities to network security, notably increasing susceptibility to Distributed Denial-of-Service (DDoS) and Denial-of-Service (DoS) attacks. This research investigates the evolving threat landscape of these attacks specifically targeting the heterogeneous architecture of IoT ecosystems.  Analysis reveals a significant correlation between the resource constraints and inherent design weaknesses of many IoT devices and their elevated risk of compromise.  We examine the layered security model of IoT – encompassing device, network, and application layers – to categorize attack vectors and assess the efficacy of existing mitigation strategies.  Furthermore, we propose a preliminary framework incorporating adaptive intrusion detection and rate limiting techniques, demonstrating potential improvements in resilience.  Future work will focus on quantifying the economic impact of IoT DDoS attacks and exploring blockchain-based solutions for enhanced security authentication and distributed defense.

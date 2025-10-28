@@ -1,3 +1,0 @@
-There I was, in late 2021, feeling like a digital wizard ready to conquer the world of dual-booting. My Windows C: drive was practically bursting at the seams, and I was determined to carve out a cozy new home for Linux. I bravely used the partition-shrinking tool, watching the gigabytes drop like magic. Success! Or so I thought.
-
-But when I opened fdisk, my heart sank. That beautiful, freed-up space wasn't the unallocated promised land I’d dreamed of. It was just… sitting there, useless. All my grand plans for a seamless setup evaporated. It’s funny how technology can make you feel so brilliant one moment and so utterly humbled the next. The journey to a dual-boot system, it turns out, was going to require a little more patience—and a lot more Googling.

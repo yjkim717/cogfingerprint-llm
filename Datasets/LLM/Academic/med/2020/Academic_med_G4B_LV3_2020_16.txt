@@ -1,5 +1,0 @@
-Here's an academic abstract based on the provided summary and keywords, reflecting a 2020 context:
-
-**Abstract**
-
-The rapid global emergence of COVID-19 has prompted investigations into its neurological sequelae. This study examines the emerging evidence of central nervous system (CNS) injury following infection, utilizing readily accessible plasma biomarkers. Analysis of patient data revealed significantly elevated levels of both neurofilament light chain (NfL) and glial fibrillary acidic protein (GFAP) in individuals with moderate to severe COVID-19. These findings suggest a robust inflammatory response and potential neuronal microstructural damage within the CNS.  Specifically, increased NfL reflects axonal degeneration, while elevated GFAP indicates astrocyte activation – both hallmarks of acute injury.  Further research is warranted to determine the predictive value of these plasma biomarkers for identifying patients at risk of long-term neurological impairment, and to explore potential therapeutic interventions targeting glial activation in the context of COVID-19.

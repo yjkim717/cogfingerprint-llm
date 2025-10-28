@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by your provided summary.
-
-***
-
-**Abstract**
-
-The formation of complex organic molecules (COMs) within interstellar ices is a cornerstone of prebiotic astrochemistry. While hydrogenation reactions are recognized as key drivers, the role of carbon atom addition remains less quantified. This investigation employs high-level quantum chemical calculations to elucidate the reaction mechanism and kinetics of carbon accretion onto ammonia (NH₃) in the condensed phase of interstellar ice analogues. We demonstrate that the barrierless addition of a ground-state carbon atom ([³P]) to NH₃ forms the aminomethyl radical (•CH₂NH₂), which subsequently undergoes rapid hydrogenation to form methylamine (CH₃NH₂). Our computed energy profiles and rate constants reveal this pathway as highly efficient under dark molecular cloud conditions. The integration of these results into a comprehensive astrochemical kinetic model demonstrates a significant enhancement in the predicted interstellar abundance of methylamine, reconciling longstanding discrepancies between observational data and theoretical predictions. This work establishes carbon addition as a critical, non-diffusive formation route for amines in icy grain mantles.
-
-(Word Count: 152)

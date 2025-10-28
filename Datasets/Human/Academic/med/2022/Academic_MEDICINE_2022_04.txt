@@ -1,8 +1,0 @@
-Author: W. Gradishar
-Title: Breast Cancer, Version 3.2022, NCCN Clinical Practice Guidelines in Oncology.
-Paper ID: 1689ba762c5db97c7092aaefc3496cb673681194
-Year: 2022
-Author Index: 4
-
-Abstract:
-The therapeutic options for patients with noninvasive or invasive breast cancer are complex and varied. These NCCN Clinical Practice Guidelines for Breast Cancer include recommendations for clinical management of patients with carcinoma in situ, invasive breast cancer, Paget disease, phyllodes tumor, inflammatory breast cancer, and management of breast cancer during pregnancy. The content featured in this issue focuses on the recommendations for overall management of ductal carcinoma in situ and the workup and locoregional management of early stage invasive breast cancer. For the full version of the NCCN Guidelines for Breast Cancer, visit NCCN.org.

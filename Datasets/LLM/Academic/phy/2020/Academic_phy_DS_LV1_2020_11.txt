@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary, framed within the context of 2020.
-
-***
-
-**Abstract**
-
-The non-linear stability of horizonless ultracompact objects remains a pivotal question in gravitational physics, with direct implications for the weak cosmic censorship conjecture and the nature of possible black hole mimickers. This investigation contrasts the dynamical evolution of two such families of solutions in anti-de Sitter spacetime: black resonators and gravitational geons. Through numerical simulations of the Einstein equations, we demonstrate that black resonators are afflicted by a powerful superradiant instability, driven by the amplification of linear perturbations within their ergoregion, leading to their eventual decay. Conversely, our analysis of the linear spectrum for a broad class of geonic solutions indicates an absence of unstable modes. This intrinsic linear stability suggests that geons can persist as long-lived, low-energy excitations in the gravitational sector of the gauge/gravity duality. Consequently, geons represent more robust candidates for fundamental objects in a holographic description of thermal states, distinguishing them from the transient, unstable nature of black resonators.
-
-**(Word Count: 180)**

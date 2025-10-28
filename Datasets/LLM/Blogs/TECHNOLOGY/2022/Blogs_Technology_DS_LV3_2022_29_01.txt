@@ -1,1 +1,0 @@
-Last year, I dove into Advent of Code, using its puzzles to test C3—a language that’s like C’s evolved cousin. Slicing through challenges with its intuitive slices, I built a repository of examples that truly shaped C3’s unique flavor. It’s amazing how hands-on coding breathes life into a language’s journey.

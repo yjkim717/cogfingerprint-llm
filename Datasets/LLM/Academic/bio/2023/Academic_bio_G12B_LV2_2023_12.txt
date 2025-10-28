@@ -1,9 +1,0 @@
-Here's a formal academic-style abstract, suitable for a 2023 publication, based on the provided summary and aiming for ~178 words:
-
-**Abstract**
-
-Single-cell RNA sequencing (scRNA-seq) has revolutionized our ability to characterize cellular heterogeneity, yet inherent stochasticity in gene expression and technical noise present significant challenges for accurate biological interpretation. This study introduces a novel framework for modeling scRNA-seq data that explicitly incorporates both biological stochasticity arising from underlying cellular processes and technical variation introduced during the sequencing pipeline. We leverage generating functions to represent the probability distributions of RNA transcription rates within individual cells, allowing for a rigorous quantification of the impact of stochasticity on observed expression levels.  Our approach provides a principled manner to disentangle biological signal from technical artifacts, thereby improving the accuracy of downstream analyses such as cell type identification and differential expression studies. By bridging stochastic systems biology with the complexities of scRNA-seq data, this framework offers a valuable tool for researchers seeking a deeper mechanistic understanding of cellular heterogeneity and gene regulatory dynamics. Validation and application of this methodology are demonstrated through simulated and empirical datasets, highlighting its potential for advancing the field of single-cell genomics.
-
-
-
-I aimed for clarity, precision, and a logical flow appropriate for an academic abstract. Let me know if you'd like any adjustments!

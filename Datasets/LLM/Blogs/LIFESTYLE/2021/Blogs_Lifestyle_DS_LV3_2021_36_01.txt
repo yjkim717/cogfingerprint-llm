@@ -1,3 +1,0 @@
-It’s 2021, and I’ve been living that dual-boot life for a while now—juggling Linux Mint and Windows like a digital acrobat. But let’s be real: my old NTFS setup for documents and media felt sluggish, like wading through digital molasses. I craved something faster, more resilient, with built-in error checking to keep my files safe and sound.
-
-That’s when I dove into the world of filesystems, and Btrfs caught my eye. It promised performance and peace of mind, a step up for my Linux-driven workflow. Switching felt like decluttering my digital home—streamlined, efficient, and tailored just for me. Sometimes, the smallest tech tweaks bring the biggest lifestyle wins.

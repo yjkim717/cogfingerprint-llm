@@ -1,3 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords:
-
-“This study presents a novel magneto-optical trap (MOT) architecture for strontium atoms, leveraging polarization-multiplexed metasurfaces to achieve efficient atom trapping. Employing topology optimization techniques, we designed and fabricated a metasurface splitter and metagratings, enabling operation with minimal input beam requirements – specifically, two. This approach demonstrates enhanced control over atomic polarization within the MOT, facilitating precise manipulation and potential advancements in quantum state preparation. Results obtained in 2023 suggest a pathway towards compact and versatile atomic trapping systems.”

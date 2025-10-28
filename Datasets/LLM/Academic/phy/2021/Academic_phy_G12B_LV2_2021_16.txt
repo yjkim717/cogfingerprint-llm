@@ -1,9 +1,0 @@
- Here's a formal academic-style abstract, suitable for a physics publication, based on your provided summary and adhering to the specified context and constraints:
-
-**Abstract**
-
-We investigate the structure of asymptotic symmetries in five-dimensional asymptotically flat spacetimes using Hamiltonian methods. Building upon established techniques for extracting boundary charges and conserved quantities, we demonstrate the existence of a novel algebra of asymptotic symmetries beyond the standard Lorentz algebra. Specifically, we uncover a nonlinear deformation of the Lorentz algebra, characterized by nontrivial central charges. This result significantly enriches the known landscape of asymptotic symmetries in higher-dimensional gravity. Our analysis leverages a covariant phase space formalism, allowing for a systematic exploration of boundary conditions and the associated symmetry transformations. The emergence of this nonlinear structure suggests potential implications for the holographic dictionary and the construction of consistent boundary theories dual to five-dimensional gravitational systems. Further investigation into the physical origin and constraints on this deformation is warranted, potentially providing new insights into quantum gravity and the nature of spacetime at large distances. The findings presented here represent a substantial advancement in our understanding of asymptotic symmetry algebras in higher-dimensional spacetimes, offering new avenues for theoretical exploration.
-
-
-
-I aimed for a balance of clarity, precision, and academic tone, including key terms and outlining potential implications.

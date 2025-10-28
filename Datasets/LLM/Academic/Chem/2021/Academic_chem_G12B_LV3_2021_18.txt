@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract**
-
-The formation of formaldehyde (H₂CO) in interstellar environments remains a critical challenge in astrochemistry. Previous investigations of carbon atom (C) reactivity within icy grain surfaces have yielded inconsistent mechanistic proposals. This study, conducted in 2021, presents a combined computational and experimental investigation into the water-catalyzed formation of H₂CO from C in amorphous solid water (ASW). Density functional theory calculations, complemented by low-temperature infrared spectroscopy experiments simulating astrophysical conditions, demonstrate a highly efficient reaction pathway involving initial C insertion into a water network, followed by sequential proton and hydrogen atom transfer events. These findings resolve discrepancies observed in prior literature and provide a robust, experimentally supported mechanism for H₂CO synthesis on icy grains, contributing to a refined understanding of formaldehyde’s abundance in star-forming regions.

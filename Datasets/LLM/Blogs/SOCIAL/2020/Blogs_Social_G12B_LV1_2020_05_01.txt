@@ -1,3 +1,0 @@
->## The Glitch in the Matrix (and My Monitor)
-
-It's 2020, and I finally upgraded to an RTX 3080 – glorious! The 4K 120Hz on my new monitor was stunning, thanks to HDMI 2.1. Then, *poof*, G-Sync vanished from the NVIDIA control panel. Hours of troubleshooting later, I felt a kinship with everyone battling tech quirks. It’s a weird feeling, right? Relying on these systems, then having them glitch, reminding you it's all just code. A frustrating, but oddly relatable, digital hiccup.

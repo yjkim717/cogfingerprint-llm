@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract in the field of Computer Science, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The accurate segmentation of individual cells from microscopy images is a foundational task in computational biology, yet it remains challenging due to the vast heterogeneity in cell morphology, imaging modalities, and signal-to-noise ratios. Prevailing deep learning approaches are typically specialized, requiring extensive task-specific training data and manual parameter tuning for each new dataset, which limits their broad applicability and scalability. To address this critical limitation, we introduce Cellpose, a generalist algorithm for cellular segmentation. Built upon a U-Net architecture, our model is trained on a extensive, diverse corpus of annotated microscopy images to learn a universal, shape-based representation of cellular boundaries. A key innovation is its parameter-free operation; the algorithm generalizes robustly across disparate cell types and imaging conditions without requiring retraining or user-adjusted parameters. We demonstrate state-of-the-art performance on a wide range of 2D datasets and further present a 3D extension, validating its utility as a versatile and powerful tool for the quantitative analysis of cellular images. This work significantly lowers the barrier to high-throughput, accurate biological image analysis.

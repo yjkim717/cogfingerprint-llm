@@ -1,5 +1,0 @@
- Here's an academic-style abstract based on the provided summary and keywords, written in the style of a chem. research paper abstract, and reflecting a 2022 context:
-
-**Abstract**
-
-The chemical complexity observed within the interstellar medium (ISM) necessitates a deeper understanding of radical formation pathways. This study, conducted in 2022, explores the role of radical-radical reactions in the generation of vinyl (C₂H₃) and ethyl (C₂H₅) species, key precursors to larger organic molecules. Through detailed kinetic modeling incorporating gas-phase and surface-catalyzed processes on dust grains, we demonstrate that hydrogen (H) and hydroxyl (OH) radicals, via addition reactions, efficiently transform abundant parent molecules like ethane, ethylene, and acetylene. These transformations significantly contribute to the observed abundance of vinyl and ethyl radicals, highlighting the crucial role of these reactive species in the interstellar organic chemistry network.

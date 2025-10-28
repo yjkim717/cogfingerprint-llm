@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The calibration of the extragalactic distance scale remains a central challenge in modern astrophysics. This study leverages the empirically observed consistency in the near-infrared J-band luminosity of carbon-rich asymptotic giant branch (C-AGB) stars to establish a novel, independent distance measurement technique. We present deep, high-resolution JHK photometry of a significant population of C-AGB stars within the Large Magellanic Cloud (LMC), a critical anchor for the cosmic distance ladder. Crucially, the geometric distance to the LMC, as recently refined by detached eclipsing binary (DEB) systems, provides the absolute calibration for our J-band period-luminosity relation. Applying this newly calibrated relation to C-AGB stars identified in the nearby spiral galaxy NGC 253, we derive a distance modulus of μ = 27.65 ± 0.08 mag. This result demonstrates the viability of the C-AGB J-band technique as a precise extragalactic standard candle, offering a valuable complement to existing methods like Cepheid variables and the Tip of the Red Giant Branch, particularly in dust-obscured stellar populations where optical wavelengths are compromised.

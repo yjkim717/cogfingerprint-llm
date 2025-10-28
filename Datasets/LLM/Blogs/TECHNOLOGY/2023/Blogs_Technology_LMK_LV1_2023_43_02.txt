@@ -1,5 +1,0 @@
-"Embracing Change with Starlite 2.0: A New Era for ASGI API Frameworks"
-
-As we dive into 2023, the tech landscape continues to evolve at a breakneck pace. One of the most exciting updates I've come across recently is the release of Starlite v2.0, a significant milestone for this fast and flexible ASGI API framework. The new version not only brings a refreshed logo but also marks a commitment to strict SemVer adherence, ensuring that future updates are predictable and reliable.
-
-What's more, Starlite 2.0 is built with SQL Alchemy 2.0, a testament to the framework's dedication to staying current with the latest advancements in database management. For those invested in the v1.51.* series, a maintenance version will be available, providing a smooth transition path. As someone who's seen the impact of well-managed updates, I'm heartened by Starlite's approach. It's a great example of how embracing change can lead to a more stable and innovative tech ecosystem.

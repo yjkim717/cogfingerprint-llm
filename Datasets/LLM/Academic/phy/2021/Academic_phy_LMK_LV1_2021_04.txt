@@ -1,3 +1,0 @@
-"Refining Swampland Constraints in 8D Supergravity via 3-Brane Probes and Cobordism" 
-
-In this work, we revisit the Swampland constraints on 8D supergravity theories through the lens of 3-brane probes and the cobordism conjecture, thereby sharpening the gauge algebra consistency conditions. By leveraging the string lamppost principle, we establish a precise connection between the cobordism conjecture and the allowed gauge algebras in 8D supergravity. Our findings significantly narrow the landscape of consistent 8D supergravity theories, providing a refined understanding of the Swampland boundaries in 2021's theoretical landscape.

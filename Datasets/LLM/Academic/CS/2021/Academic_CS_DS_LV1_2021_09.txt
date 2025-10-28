@@ -1,5 +1,0 @@
-**Abstract**
-
-The proliferation of heterogeneous Internet of Things (IoT) devices has expanded the attack surface for network-based threats, with Distributed Denial-of-Service (DDoS) attacks representing a critical vulnerability. This paper presents a systematic analysis of the IoT ecosystem's susceptibility to such incursions, examining attack vectors across the perceptual, network, and application layers. We contend that inherent constraints in device computational power, memory, and energy, combined with widespread deployment of default credentials and unpatched firmware, render IoT networks uniquely vulnerable to being co-opted into botnets. Our survey synthesizes contemporary DDoS prevention and mitigation mechanisms, evaluating their efficacy against protocol exploitation, such as UDP and ICMP floods, and amplification attacks. We conclude that a multi-layered defense strategy, integrating lightweight cryptographic protocols at the device level with network-level anomaly detection and blockchain-assisted access control, is paramount for enhancing the resilience of IoT infrastructures against increasingly sophisticated DDoS campaigns.
-
-*(Word Count: 149)*

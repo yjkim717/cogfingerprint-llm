@@ -1,1 +1,0 @@
-Remember staring at that daunting IT budget last quarter? We took a leap, shifting our VMware Horizon to a SaaS subscription. Suddenly, the horizon felt universal. With vSphere and vSAN now accessible, we achieved a true renewal—powerful tools that fit our budget. It wasn't just an upgrade; it was a strategic breath of fresh air.

@@ -1,3 +1,0 @@
-It’s 2021, and Scala 3 has finally arrived—bringing with it a type system that feels like a playground for the curious mind. I found myself wrestling with self types and intersection types, trying to build a type-safe join operation for a small database abstraction. At first, it felt like assembling a puzzle in the dark. But then, Selectable trait stepped in, offering a way to dynamically access fields without sacrificing type safety.
-
-Reflecting on it now, I realize how much these features empower us to write expressive, yet robust code. It’s moments like these that remind me why I love Scala: the journey from confusion to clarity is always worth it.

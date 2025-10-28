@@ -1,5 +1,0 @@
-Remember those late-night coding sessions in 2021, wrestling with C macros? I’d stare at a wall of #defines, feeling like I was deciphering ancient runes. They were powerful, sure, but clarity often got lost in translation.
-
-Then I dove into C3 and its approach to typedef and aliases. It wasn’t just about creating a new name for a type; it was about crafting intentional, readable code. I started thinking of it as giving a helpful alias to a complex idea, much like how a good friend simplifies a complicated concept over coffee.
-
-This journey made me realize that the best tools don’t just add power—they bring understanding. Moving beyond the preprocessor’s cryptic macros to something more transparent felt less like a technical upgrade and more like learning to communicate more clearly, both with the machine and my future self.

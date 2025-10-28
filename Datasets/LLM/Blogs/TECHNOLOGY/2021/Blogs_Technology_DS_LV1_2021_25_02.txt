@@ -1,1 +1,0 @@
-Back in 2021, I was staring at two firmware versions for our Aruba 3810M switches—16.10.0013 and 16.09.0015. It felt like choosing between two paths in the woods. That moment reminded me how technology's constant evolution is less about the destination and more about the journey of learning and adaptation.

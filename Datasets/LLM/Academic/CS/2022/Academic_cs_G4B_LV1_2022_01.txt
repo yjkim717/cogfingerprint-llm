@@ -1,7 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a 2022 publication in computer science:
-
-**Abstract**
-
-Self-Supervised Learning (SSL) techniques, particularly non-contrastive approaches like SimSiam, have demonstrated remarkable efficacy in learning robust representations. However, a prevalent issue – dimensional collapse – frequently hinders the transferability of these learned embeddings to downstream tasks. This work addresses this limitation by introducing a novel metric, termed Collapse Predictability Score (CPS), designed to quantify the propensity for collapse within non-contrastive SSL frameworks. We hypothesize that representations exhibiting severe collapse lack the discriminative power necessary for effective adaptation. 
-
-Employing a Siamese representation learning architecture, we evaluate CPS across diverse SimSiam variants and datasets.  Our analysis reveals a strong correlation between CPS values and subsequent performance on downstream image classification benchmarks. Furthermore, we present a mitigation strategy – a regularization term incorporated during training – that demonstrably reduces CPS scores while preserving representation quality.  These findings contribute to a deeper understanding of collapse dynamics in non-contrastive SSL and offer a practical tool for enhancing the utility of these methods in continual learning scenarios.

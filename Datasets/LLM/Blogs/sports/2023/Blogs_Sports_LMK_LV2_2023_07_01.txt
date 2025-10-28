@@ -1,1 +1,0 @@
-reflect_on_sports(topic="trying new strategies in a game", year=2023, tone="conversational", length=96)

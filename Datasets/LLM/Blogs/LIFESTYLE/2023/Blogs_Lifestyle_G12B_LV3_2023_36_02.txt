@@ -1,6 +1,0 @@
-)
-## The Upgrade Roadblock I Didn't See Coming
-
-So, I’m finally upgrading my PC! Been planning it for months, excited about the AM5 platform and the potential. But then… a weird realization. Apparently, many of these new motherboards don’t support M.2 SATA SSDs. Seriously? In 2023? 
-
-It’s a frustrating limitation. I’m already tight on space, and adding another SATA drive feels clunky. It’s making me seriously consider an Intel build instead. It’s a small thing, but it highlights how even the most anticipated upgrades can throw unexpected curveballs, right? Anyone else wrestling with similar upgrade dilemmas?

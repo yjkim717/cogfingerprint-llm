@@ -1,7 +1,0 @@
->## The Digital Brick Wall
-
-Isn't it just *infuriating* when technology decides to have a moment? I spent a good chunk of yesterday wrestling with a baffling problem: Firefox just wouldn't load YouTube. Seriously, nothing. Just a spinning wheel of doom.
-
-I've been a Firefox loyalist for years – a little rebellion against the Chrome crowd, you know?  Tried everything - clearing cache, restarting, the whole nine yards. Even considered a full reinstall! Windows 11 is still pretty new to me, and I started wondering if *that* was the culprit. 
-
-Finally, a simple browser update fixed it.  It's a silly reminder that sometimes, the most complex problems have the most straightforward solutions. And it makes you appreciate the internet – until it decides to throw a digital brick wall in your path!

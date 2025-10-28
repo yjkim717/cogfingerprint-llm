@@ -1,1 +1,0 @@
-As I dove into developing custom MCP Clients in 2024, I hit a roadblock - the lack of an official SDK. I'm now turning to the community for a TypeScript or Python solution, hoping to tap into collective expertise and get my project back on track.

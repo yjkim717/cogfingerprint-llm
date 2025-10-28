@@ -1,4 +1,0 @@
-Title: Unitarity of String Amplitudes via Novel Partial Wave Coefficients
-
-Abstract:
-We derive a new representation for partial wave coefficients of string amplitudes, enabling a direct proof of unitarity in spacetime dimensions D ≤ 6. By re-expressing the scattering amplitudes in terms of these coefficients, we demonstrate that the optical theorem is manifestly satisfied. Our result provides a crucial consistency check for superstring theories, reinforcing their viability as ultraviolet-complete theories of quantum gravity. The proposed framework paves the way for further exploration of string theory dynamics in various dimensionalities. (2022)

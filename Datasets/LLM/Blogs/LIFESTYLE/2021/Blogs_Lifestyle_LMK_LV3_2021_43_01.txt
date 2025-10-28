@@ -1,5 +1,0 @@
-"Embracing the Cloud for a Smoother Development Workflow"
-
-As developers, we're always on the lookout for ways to streamline our workflow and stay productive. In 2021, I found myself pondering an unconventional approach: using Google Colab as a temporary development environment. Colab's cloud-based infrastructure offers a tantalizing prospect - spinning up a dev environment in seconds, without the hassle of local setup. But I couldn't shake the feeling that I might be pushing the boundaries of fair usage.
-
-Is it abuse to use Colab for development, or is it just leveraging the cloud to get work done? I'd love to hear from fellow devs: have you experimented with ephemeral dev environments? Do you think Colab is intended for this use case, or should we stick to traditional local development? As we navigate the ever-changing landscape of software development, it's worth considering how cloud tools can enhance our workflow - and what that means for our workstyle.

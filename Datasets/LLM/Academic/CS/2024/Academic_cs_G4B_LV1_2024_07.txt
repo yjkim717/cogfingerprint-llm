@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a 2024 computer science publication:
-
-**Abstract**
-
-This work investigates the learnability of distribution classes with limited data, specifically addressing the Ashtiani conjecture regarding the inherent difficulty of learning such classes under differential privacy constraints. We present a novel algorithm capable of approximating the underlying distribution from finite samples, yet demonstrably fails to achieve this learnability when differential privacy is enforced.  Our analysis leverages total variation distance to quantify distributional divergence, and employs epsilon-delta arguments to formalize the limitations imposed by privacy guarantees.  These findings suggest a fundamental trade-off between sample efficiency and privacy preservation in distribution learning.

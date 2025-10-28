@@ -1,1 +1,0 @@
-We demonstrate a dielectric-metasurface pulse shaper for femtosecond pulses, enabling arbitrary polarization and complex wavefront control. This platform facilitates advanced spatiotemporal light manipulation, offering a compact, high-efficiency alternative to conventional systems for applications in nonlinear optics and ultrafast spectroscopy.

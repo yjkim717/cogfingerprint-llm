@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a chemistry-focused publication in 2022:
-
-**Abstract**
-
-This study investigates the application of spray-deposited aluminum oxide (Al₂O₃) as a novel separator material for lithium-ion batteries (Li-ion). Traditional polypropylene separators present limitations in interfacial contact and electrochemical stability. We demonstrate the feasibility of utilizing a precisely controlled Al₂O₃ deposition technique, directly assembling layered battery components. Electrochemical testing reveals that the resultant separator exhibits enhanced ionic conductivity and reduced interfacial impedance compared to conventional separators. Specifically, Li-ion cells utilizing the Al₂O₃ separator demonstrate a marked improvement in cycle life – achieving 85% capacity retention after 500 cycles – alongside increased energy density. These findings suggest that optimized Al₂O₃ deposition strategies offer a viable pathway toward improved Li-ion battery performance and simplified manufacturing processes, warranting further investigation into electrolyte compatibility and long-term stability.

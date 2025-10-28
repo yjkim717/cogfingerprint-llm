@@ -1,3 +1,0 @@
-## That Little Buzz That Shouldn't Be There...
-
-Okay, tech folks, let's talk UPS units. I saw something unsettling pop up on Reddit recently – apparently, some APC UPS models have a potential fire hazard due to how their aluminum transformers are wired. Soldered copper connections? Not a great combo! It's a stark reminder that even seemingly reliable tech can have hidden flaws. Always double-check those specs and listen for anything unusual – a little preventative awareness can go a long way in 2023.

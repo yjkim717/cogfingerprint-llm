@@ -1,7 +1,0 @@
-**Abstract: Personalized Systemic Therapy in Metastatic Breast Cancer: The Role of Multi-Biomarker Stratification**
-
-The evolving landscape of metastatic breast cancer (MBC) treatment necessitates increasingly precise patient stratification. Recent advancements in genomic profiling have illuminated the potential for tailoring systemic therapy regimens based on individual tumor characteristics. This 2022 update to the American Society of Clinical Oncology (ASCO) guidelines underscores the critical role of comprehensive biomarker testing in optimizing treatment outcomes for MBC patients. 
-
-Specifically, the updated recommendations advocate for the routine evaluation of *PIK3CA* mutations, *BRCA* mutations, and NTRK gene fusions. *PIK3CA* mutations are frequently associated with response to targeted therapies, notably ALK inhibitors, while *BRCA* mutations often predict sensitivity to platinum-based chemotherapy and PARP inhibitors. The inclusion of NTRK mutations expands the potential for receptor tyrosine kinase inhibitor (RTKI) utilization. 
-
-Integrating these molecular markers into clinical decision-making allows oncologists to select systemic therapies with a higher probability of efficacy and minimize the use of ineffective treatments, thereby reducing unnecessary toxicity and improving patient quality of life. Further research is warranted to fully elucidate the predictive value of these biomarkers across diverse patient populations and treatment regimens, ultimately refining our approach to personalized MBC management.

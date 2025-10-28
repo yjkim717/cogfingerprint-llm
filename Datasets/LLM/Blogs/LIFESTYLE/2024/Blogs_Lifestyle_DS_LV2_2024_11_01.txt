@@ -1,5 +1,0 @@
-It’s funny how life’s little frustrations—like wrestling with a finicky Intel X520-DA2 card in my Proxmox server, convinced the SFP+ ports were just decorative—often mirror bigger lessons.
-
-I spent hours with ethtool, scowling at blinking lights that refused to cooperate. I was ready to declare the hardware a lost cause. But stepping back, I realized how quick I was to blame the tools instead of my own approach. Isn’t that just like life? We point fingers outward when things stall—at circumstances, at others—before considering if we’re missing a simple fix, a different perspective.
-
-In 2024, it’s easy to feel like everything should just work instantly. But sometimes, the solution isn’t a replacement; it’s patience, a deep breath, and a willingness to troubleshoot with curiosity, not frustration. My server’s humming now, and so am I.

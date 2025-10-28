@@ -1,1 +1,0 @@
-"In 2022, a seminal result established that binary-labeled concept classes are privately PAC learnable if and only if they are online learnable, with Littlestone dimension serving as a crucial characterizer of both properties, thereby bridging differential privacy and online learnability in a fundamental way."

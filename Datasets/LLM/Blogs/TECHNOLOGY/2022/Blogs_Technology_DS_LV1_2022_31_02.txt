@@ -1,9 +1,0 @@
-Of course. Here is an original blog post inspired by your summary.
-
-***
-
-**My Data-Scraping Summer**
-
-Remember 2022? The market was a rollercoaster, and my internship hunt felt just as volatile. I knew I wanted a grad quant role, but my resume was… theoretical. So, I built my own project.
-
-I scraped financial news and used semantic analysis to gauge market sentiment, then modeled it against asset prices. It was messy, the code was far from perfect, but it worked. That tangible forecast, born from web data, taught me more than any textbook. It wasn't just a project; it was my first real investment.

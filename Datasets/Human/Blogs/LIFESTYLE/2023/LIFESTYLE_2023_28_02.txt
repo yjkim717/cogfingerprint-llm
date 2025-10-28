@@ -1,5 +1,0 @@
-Year: 2023
-Author: van_Vanvan
-URL: https://www.reddit.com/r/hobbycnc/comments/121ty05/fusion_360_profile_for_genmitsu_3020pro_max/
-
-Hello, Fusion 360 does not come with supplied profiles for these routers. I'd like to have the profile filled out as complete as possible. What are the maximum feed rates for the axes of the 3020 and what is the resolution? (same as 3018 I imagine?). What is the max block processing speed? I think what this number means is how fast the gerbil can eat G codes so that that Fusion doesn't flood it forcing the router to pause while processing.

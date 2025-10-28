@@ -1,5 +1,0 @@
-Title: Unveiling the Formation of Methylamine in Interstellar Ices via Carbon Atom Condensation with Ammonia: A Quantum Chemical Investigation
-
-Abstract:
-
-The formation of complex organic molecules in interstellar ices is a crucial aspect of astrochemical research. In this study, we employ quantum chemical calculations to investigate the interaction between carbon atoms and ammonia (NH3) in interstellar ices, shedding light on a potential pathway to the formation of methylamine (CH3NH2). Our computations reveal that the condensation of carbon atoms with ammonia can lead to the formation of a methylamine precursor via a barrierless reaction pathway. The reaction mechanism involves the initial formation of a singlet methylene (CH2) species, which subsequently reacts with ammonia to form methylamine. Our findings, obtained using density functional theory (DFT) and coupled-cluster singles and doubles (CCSD) methods, provide new insights into the astrochemical synthesis of methylamine in interstellar ices, contributing to our understanding of the origins of complex organic molecules in the interstellar medium.

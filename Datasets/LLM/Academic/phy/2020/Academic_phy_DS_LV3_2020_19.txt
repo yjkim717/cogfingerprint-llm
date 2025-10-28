@@ -1,1 +1,0 @@
-This study demonstrates dielectric metasurfaces implementing non-Hermitian transformations for single-shot polarization monitoring. This approach achieves amplified polarization ratios, enabling precise detection of deviations from arbitrary polarization states.

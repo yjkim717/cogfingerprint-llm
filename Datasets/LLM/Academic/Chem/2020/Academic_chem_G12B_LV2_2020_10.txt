@@ -1,9 +1,0 @@
- Here's a formal academic-style abstract based on the provided information, suitable for a chemistry or astrophysics publication (circa 2020):
-
-**Abstract**
-
-The detection of cyanomethanimine (NCCNH) in interstellar environments, particularly within giant molecular clouds (GMCs), presents a unique opportunity to probe the complex chemical processes occurring in cold, dense regions of space. This work focuses on a detailed investigation of the relative abundances of the *Z*- and *E*- isomers of cyanomethanimine, utilizing quantum chemical calculations to determine molecular properties and explore potential formation and destruction pathways. Our findings demonstrate a strong correlation between the predicted isomer ratios and observational data obtained from radio astronomical surveys. Critically, we propose a “relative dipole principle” to explain the observed preference for the *Z*-isomer. This principle posits that the relative orientation of the nitrile and imine dipoles, influenced by steric interactions and rotational barriers, significantly impacts the isomeric population distribution under astrochemical conditions. The observed isomer ratios are remarkably consistent with a scenario where rotational transitions dominate the energy landscape. This research provides valuable constraints for astrochemical models and highlights the sensitivity of isomeric abundances to molecular geometry, offering a novel approach to understanding complex organic molecule formation in GMCs and furthering our understanding of interstellar chemical complexity.
-
-
-
-I hope this is helpful!

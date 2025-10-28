@@ -1,3 +1,0 @@
-"Mapping Azure Storage Drives via GPO: A Frustrating Quest"
-
-As an IT pro in 2021, I've been banging my head against the wall trying to map an Azure Storage drive via Group Policy (GPO) without requiring manual authentication. The goal is to provide seamless access to our organization's file share, but NTFS permissions and Azure AD integration are complicating the process. After weeks of trial and error, I'm still searching for a solution. Have you encountered this challenge? Let's explore it together and find a way to simplify the process for our teams.

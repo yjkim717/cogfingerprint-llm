@@ -1,8 +1,0 @@
-Author: A. Ashtekar
-Title: Space-like singularities of general relativity: A phantom menace?
-Paper ID: 3171cec3443ba7b2cfe92463b026a7f260863daf
-Year: 2022
-Author Index: 6
-
-Abstract:
-The big bang and the Schwarzschild singularities are space-like. They are generally regarded as the ‘final frontiers’ at which space–time ends and general relativity breaks down. We review the status of such space-like singularities from three increasingly more general perspectives. They are provided by (i) A reformulation of classical general relativity motivated by the Belinskii, Khalatnikov, Lifshitz conjecture on the behavior of the gravitational field near space-like singularities; (ii) The use of test quantum fields to probe the nature of these singularities; and, (iii) An analysis of the fate of these singularities in loop quantum gravity due to quantum geometry effects. At all three levels singularities turn out to be less menacing than one might a priori expect from classical general relativity. Our goal is to present an overview of the emerging conceptual picture and suggest lines for further work. In line with the Introduction to Current Research theme, we have made an attempt to make it easily accessible to all researchers in gravitational physics.

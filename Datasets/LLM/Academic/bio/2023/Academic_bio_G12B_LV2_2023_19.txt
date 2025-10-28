@@ -1,5 +1,0 @@
-)Here's a formal academic-style abstract based on your provided information, suitable for a 2023 publication:
-
-**Abstract**
-
-Understanding the catalytic mechanisms of the oxygen evolution reaction (OER) is crucial for developing efficient water splitting technologies. This study employs *in situ* spectroscopic techniques to probe the behavior of Ni–Fe catalysts during OER. Results reveal dynamic surface reconstruction phenomena and elucidate key intermediates involved in the reaction pathway. These findings contribute to a more comprehensive understanding of Ni–Fe catalyst activity and offer insights for optimizing OER performance through rational material design.

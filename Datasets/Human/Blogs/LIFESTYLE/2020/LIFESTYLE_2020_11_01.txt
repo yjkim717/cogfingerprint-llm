@@ -1,5 +1,0 @@
-Year: 2020
-Author: forwardslashroot
-URL: https://www.reddit.com/r/System76/comments/ji4dn1/headphone_jack_issue/
-
-I am not exactly sure what to look for. I have a System76 Lemur Pro with Fedora 32. The 3.5mm headphone jack is not functioning correctly. I have a couple of ear phones and headphones with both of them are getting static sounds and low volume depending on media source. If I play any YouTube videos, the sounds is very low like a bubble with little static. If I play any LinuxAcademy videos, all I get is a very loud sound mixed with static sound. On Emby, the background is loud but the voices are very low. However, with a Bluetooth headphone, it works just fine. Any ideas?

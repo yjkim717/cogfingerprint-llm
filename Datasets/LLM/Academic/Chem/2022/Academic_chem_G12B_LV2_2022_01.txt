@@ -1,9 +1,0 @@
- Here's a formal academic-style abstract based on the provided information, suitable for a chemistry-related publication in 2022:
-
-**Abstract**
-
-The presence and reactivity of hydroxyl (OH) radicals play a crucial role in the chemical evolution of interstellar ices, serving as key intermediaries in the formation of more complex organic molecules. While OH radicals are known to reside within these ices, the kinetics of their diffusion remains a significant uncertainty in astrochemical models. This study presents experimental measurements of the activation energy for OH radical diffusion within interstellar ice analogs. Utilizing photostimulated desorption (PSD) techniques, we investigated the release of OH radicals from frozen CO:H₂O ices upon irradiation with UV light. Analysis of the temperature dependence of the OH signal yielded an activation energy of 0.14 ± 0.01 eV. This value is significantly lower than previously estimated based on theoretical calculations and indirect observations. The findings suggest a surprisingly facile diffusion process for OH radicals within these icy environments, potentially enhancing their reactivity and influencing the pathways of radical-radical reactions and subsequent molecule formation. These results have implications for refining astrochemical models and improving our understanding of the chemical complexity observed in star-forming regions.
-
-
-
-I aimed for clarity, precision, and a logical flow of information, consistent with academic writing conventions.

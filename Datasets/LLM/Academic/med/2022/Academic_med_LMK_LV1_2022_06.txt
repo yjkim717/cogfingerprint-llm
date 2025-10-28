@@ -1,9 +1,0 @@
-Title: Biomarker-Driven Systemic Therapy for Metastatic Breast Cancer: An Update on Emerging Paradigms
-
-Abstract:
-
-The management of metastatic breast cancer (MBC) has undergone significant transformation with the advent of precision medicine. The 2022 update of the American Society of Clinical Oncology (ASCO) guidelines underscores the importance of biomarker testing in guiding systemic therapy for MBC. Specifically, the recommendation emphasizes the utility of testing for PIK3CA, BRCA1/2, and PD-L1 expression to inform treatment decisions. The integration of circulating tumor DNA (ctDNA) testing has also emerged as a valuable tool in detecting actionable mutations, enabling clinicians to tailor therapy to individual patient profiles.
-
-The ASCO guideline update highlights the role of PARP inhibitors in the treatment of MBC, particularly in patients harboring germline BRCA1/2 mutations. Furthermore, the guideline recommends PIK3CA testing to identify patients eligible for targeted therapy with PI3K inhibitors. PD-L1 testing is also advocated to determine suitability for immunotherapy.
-
-By incorporating biomarker-driven approaches into clinical practice, healthcare providers can optimize treatment selection and improve patient outcomes. The evolving landscape of MBC management necessitates ongoing evaluation of emerging biomarkers and therapeutic strategies. As the field continues to advance, the judicious use of biomarker testing and targeted therapies is poised to further refine the treatment paradigm for MBC, ultimately enhancing patient care and prognosis.

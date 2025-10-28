@@ -1,8 +1,0 @@
-
-## Dynamic Metal-Organic Frameworks: Towards Spatiotemporally Resolved Structural Evolution
-
-Metal-organic frameworks (MOFs), crystalline materials constructed from metal ions and organic linkers, have garnered significant attention for their tunable porosity and potential applications in gas storage, catalysis, and sensing. While traditional MOF research has largely focused on static structural properties, the burgeoning field of dynamic MOFs seeks to harness stimuli-responsive structural rearrangements, opening avenues for adaptive materials with unprecedented functionality. This perspective explores the current state of research in four-dimensional (4D) MOF systems, those exhibiting structural evolution across time and space. We delineate key challenges in achieving controlled spatiotemporal dynamics, including the design of responsive linkers, the precise control of external stimuli (e.g., light, temperature, chemical gradients), and the development of robust characterization techniques capable of resolving these changes. Furthermore, we discuss emerging strategies—such as incorporating photochromic units, utilizing thermally reversible linkers, and exploiting diffusion-controlled processes—that offer promise for engineering MOFs with tailored dynamic behavior. Ultimately, realizing the full potential of dynamic MOFs necessitates a deeper understanding of the underlying structural dynamics and the development of advanced materials capable of responding to complex environmental cues.
-
-
-
-**Keywords:** Metal-Organic Frameworks, Dynamic MOFs, 4D Materials, Structural Dynamics, Stimuli-Responsive Materials, Spatiotemporal Control

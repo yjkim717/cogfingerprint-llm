@@ -1,5 +1,0 @@
-## That Sinking Feeling: Tokens, MFA, and the Reset Button
-
-It's 2024, and we're all juggling layers of security – MFA, strong passwords, the works. But a recent admin query really stuck with me: if someone steals an authentication token, even *with* MFA enabled, does a password reset invalidate it? 
-
-The short answer? Usually, yes. But it’s a stark reminder that digital security isn't foolproof. That sinking feeling when you consider a compromised token… it highlights how crucial it is to stay vigilant and understand the nuances of our protective tech. It’s a constant evolution, isn't it?

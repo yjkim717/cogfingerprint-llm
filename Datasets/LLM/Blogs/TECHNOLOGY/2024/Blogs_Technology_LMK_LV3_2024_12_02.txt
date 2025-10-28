@@ -1,9 +1,0 @@
-"Relying on AI for Coding: A Double-Edged Sword"
-
-As I sat in front of my screen in early 2024, staring at lines of code, I couldn't help but wonder if Large Language Models (LLMs) like ChatGPT were the solution to my productivity woes. As a developer, I'd heard rave reviews about these AI tools and their ability to simplify coding tasks. So, I gave it a try.
-
-At first, it was exhilarating. ChatGPT churned out code snippets with ease, and I was able to complete tasks at a pace I'd never experienced before. But as I continued to rely on LLMs, I began to feel a creeping sense of unease. I realized that I was no longer learning or problem-solving; I was simply executing. The more I used these tools, the more I felt like I was losing touch with the underlying logic of coding.
-
-As I reflect on my experience, I'm struck by the limitations of LLMs. While they're undoubtedly powerful, they're not a replacement for human ingenuity and critical thinking. For beginners, relying too heavily on these tools can hinder the learning process, making it difficult to develop a deep understanding of programming concepts.
-
-In my opinion, the key to maximizing productivity lies in striking a balance between leveraging AI tools and honing our coding skills. By using LLMs judiciously, we can augment our abilities without sacrificing our capacity for problem-solving and creativity. As we move forward in this AI-driven era, it's essential to recognize both the potential and the limitations of these technologies, ensuring that we use them to enhance, rather than replace, our skills.

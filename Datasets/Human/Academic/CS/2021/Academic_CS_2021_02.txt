@@ -1,8 +1,0 @@
-Author: Ilias Diakonikolas
-Title: The Optimality of Polynomial Regression for Agnostic Learning under Gaussian Marginals
-Paper ID: 77c044bf4fc8ead6483da56e800fe6ec0048a651
-Year: 2021
-Author Index: 2
-
-Abstract:
-We study the problem of agnostic learning under the Gaussian distribution. We develop a method for finding hard families of examples for a wide class of problems by using LP duality. For Boolean-valued concept classes, we show that the $L^1$-regression algorithm is essentially best possible, and therefore that the computational difficulty of agnostically learning a concept class is closely related to the polynomial degree required to approximate any function from the class in $L^1$-norm. Using this characterization along with additional analytic tools, we obtain optimal SQ lower bounds for agnostically learning linear threshold functions and the first non-trivial SQ lower bounds for polynomial threshold functions and intersections of halfspaces. We also develop an analogous theory for agnostically learning real-valued functions, and as an application prove near-optimal SQ lower bounds for agnostically learning ReLUs and sigmoids.

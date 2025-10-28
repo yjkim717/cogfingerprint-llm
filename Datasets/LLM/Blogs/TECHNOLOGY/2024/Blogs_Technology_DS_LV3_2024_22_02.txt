@@ -1,1 +1,0 @@
-Sometimes our tech setups need a clean slate, just like we do. Resetting my Rubrik cluster to factory settings felt daunting, but it was a chance to rebuild with clarity—a fresh start for better configuration in 2024.

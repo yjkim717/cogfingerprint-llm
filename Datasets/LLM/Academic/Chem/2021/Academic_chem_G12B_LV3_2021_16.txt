@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, written in the requested style and context:
-
-**Abstract**
-
-Recent advances in polariton chemistry have demonstrated intriguing alterations in chemical reactivity under vibrational strong coupling (VSC) conditions. While the phenomenon of VSC is well-established, the underlying mechanisms governing ground-state reactivity modifications remain a subject of intense investigation. This work, conducted in 2021, provides a theoretical framework elucidating these effects, positing that non-Markovian dynamics of the cavity radiation mode play a pivotal role. Specifically, we demonstrate that the finite lifetime and spectral diffusion of the cavity frequency dynamically cage the reaction coordinate, leading to a frequency-dependent suppression of reaction rate constants. These findings highlight the importance of considering non-Markovian effects when interpreting experimental observations in polariton chemistry and offer a pathway toward rational design of reaction pathways through tailored cavity photon engineering.

@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The formation of complex organic molecules (COMs) in the cold, dense regions of the interstellar medium (ISM) is a topic of intense astrochemical research. While hydrogenation reactions on icy grain mantles are recognized as a key formation pathway, the specific mechanisms for nitrogen-bearing COMs like methylamine (CH₃NH₂) remain inadequately constrained. This study employs high-level quantum chemical calculations to elucidate the reaction network initiated by carbon atom accretion onto solid-phase ammonia (NH₃). Our results demonstrate that the C + NH₃ reaction proceeds via a low-energy barrier pathway, with subsequent hydrogenation steps overwhelmingly favoring the formation of methylamine over isomeric or fragmentation products. The derived activation barriers and reaction rates were integrated into a comprehensive astrochemical kinetic model. The model confirms that this carbon-addition mechanism is a dominant, non-diffusive source of methylamine in quiescent molecular clouds, significantly enhancing its predicted interstellar abundance and providing a robust explanation for its recent observational detection.
-
-*(Word Count: 150)*

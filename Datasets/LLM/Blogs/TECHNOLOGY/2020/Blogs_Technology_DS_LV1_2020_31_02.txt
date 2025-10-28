@@ -1,3 +1,0 @@
-Remember back in 2020, when we were all suddenly building more complex web apps from our home offices? I’d stare at my HTML file, a mess of script tags stretching to infinity. Each new feature meant another line, another dependency to manually track. It felt like stacking cards in a breeze.
-
-Then I discovered JavaScript modules. Suddenly, my code had structure. I could import utilities cleanly, declare dependencies right where they were used, and watch my projects become scalable and sane. It wasn’t just about writing less HTML—it was about thinking in systems, not scripts. A small change that made a world of difference in a chaotic year.

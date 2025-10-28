@@ -1,5 +1,0 @@
-Looking back at the early days of the pandemic in 2020, I remember diving into this browser game where you’d build custom ships by snapping modular parts together. It was all about sockets, blueprints, and this clever node composer tool—simple at first, but with a dizzying potential for complexity.
-
-It struck me how much it mirrored our sudden shift to remote work. We were all handed these digital "components"—Zoom, Slack, cloud docs—and told to assemble our own workflows. At first, it felt empowering, like crafting the perfect ship. But soon, the "complexity explosion" hit. Endless notifications, overlapping tools, and that nagging feeling that our carefully designed systems were becoming as tangled as a messy blueprint.
-
-That game taught me something real: the most elegant designs aren’t the ones with the most parts, but the ones that balance flexibility with simplicity. Maybe we all needed a better node composer for our lives back then.

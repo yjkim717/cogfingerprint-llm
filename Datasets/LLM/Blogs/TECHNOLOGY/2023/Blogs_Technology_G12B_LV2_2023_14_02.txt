@@ -1,7 +1,0 @@
-## The Lora Lottery: My SDXL Training Adventures (and Frustrations!)
-
-Okay, folks, let's be honest. Diving into the world of Stable Diffusion XL (SDXL) and LoRA training has been… a journey. Specifically, a journey through Kohya’s interface, wrestling with training settings, and feeling like I’m playing a bizarre lottery.
-
-I’m trying to create some custom LoRAs – little snippets of learned style – to inject into my SDXL generations. Sounds cool, right? It *is* cool, in theory. But the reality has been a frustrating dance of inconsistent results. One run produces something vaguely resembling what I wanted, the next? Forget about it. 
-
-I've been scouring forums, tweaking network alphas, and obsessing over training steps. Anyone else experiencing this? It feels like a delicate balance, and I’m clearly off. I’m hoping someone out there has cracked the code and can share their winning SDXL LoRA training settings. Send help (and wisdom!) my way. This AI art thing is addictive, but sometimes, it just wants to test your patience.

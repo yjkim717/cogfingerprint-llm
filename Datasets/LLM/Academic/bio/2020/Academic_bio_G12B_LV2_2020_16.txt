@@ -1,8 +1,0 @@
- Here's a formal academic-style abstract, suitable for a bio-focused publication, based on the provided information and adhering to the specified constraints:
-
-**Abstract**
-
-Lignin, a complex aromatic polymer, represents a significant recalcitrant barrier to biomass utilization. White-rot fungi (WRF) are recognized for their capacity to depolymerize lignin through oxidative mechanisms, making them promising candidates for biotechnological applications. This study, conducted in 2020, employed a comparative transcriptome analysis to elucidate the transcriptional regulation of lignin degradation in *Pleurotus ostreatus*, a widely studied WRF species. Mutant strains exhibiting altered ligninolytic activity were subjected to RNA sequencing to identify differentially expressed genes (DEGs) associated with this metabolic process.  Bioinformatic analyses revealed significant shifts in gene expression patterns, particularly within clusters encoding for known lignocellulolytic enzymes, including lignin peroxidases, manganese peroxidases, and laccases. Furthermore, we identified novel transcripts with predicted roles in lignin modification and secondary metabolism, suggesting previously uncharacterized regulatory elements. These findings provide valuable insights into the molecular mechanisms governing lignin degradation in *P. ostreatus* and offer potential targets for metabolic engineering aimed at enhancing fungal biomass conversion efficiency.
-
-
-

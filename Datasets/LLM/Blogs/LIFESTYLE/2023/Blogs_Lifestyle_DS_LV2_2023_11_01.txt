@@ -1,5 +1,0 @@
-It’s funny how life sometimes mirrors tech glitches. Last month, my OPNsense VM on Proxmox kept freezing every few days with cryptic "arpresolve" errors—just like how I’d hit a wall in my own routine, feeling unresponsive and disconnected.
-
-I’d be juggling work, family, and side projects, and suddenly, everything would stall. No warnings, just silence. It took me a while to realize I was trying to "passthrough" too much at once, overloading my mental NIC.
-
-Fixing the firewall meant stepping back, reconfiguring, and accepting limits. Similarly, I’ve learned to build buffers into my days—quiet moments to reset before the system crashes. Sometimes, the most resilient setups, whether digital or personal, need a little breathing room to stay connected.

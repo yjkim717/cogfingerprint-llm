@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and keywords.
-
-***
-
-**Abstract**
-
-The basidiomycete *Pleurotus ostreatus* (oyster mushroom) has emerged as a preeminent model organism in mycological research, bridging fundamental genetics with applied biotechnology. This review synthesizes recent advances that underscore its utility, focusing on its well-annotated genome, tractable life cycle, and potent lignocellulolytic enzymatic arsenal. We explore the application of contemporary genome editing technologies, particularly CRISPR-Cas systems, which have enabled precise functional genomics and the engineering of metabolic pathways in *P. ostreatus*. These genetic tools are pivotal for protein engineering initiatives aimed at enhancing the catalytic efficiency and stability of its native enzymes, such as laccases and peroxidases, for industrial biocatalysis. Furthermore, we discuss the mushroom's expanding role in material science, where its mycelium serves as a sustainable platform for producing biodegradable materials and its enzymes facilitate the valorization of lignocellulosic waste. By integrating molecular genetics with bioprocess engineering, this review highlights *P. ostreatus* as a versatile and indispensable chassis for advancing the frontiers of mushroom science and the circular bioeconomy.

@@ -1,4 +1,0 @@
-Title: Thermodynamic Analysis of Quantum Logic Gates: A Non-Equilibrium Perspective
-
-Abstract: 
-The burgeoning field of quantum thermodynamics has led to a deeper understanding of energy fluctuations in quantum systems. In this context, we investigate the energetics of a two-qubit quantum gate, a fundamental component of quantum circuits. By applying non-equilibrium quantum thermodynamics principles, we characterize the energy exchange and dissipation associated with the gate operation. Our analysis reveals a connection between the gate's thermodynamic properties and Landauer's principle, providing insight into the fundamental limits of quantum computation. The results contribute to the development of thermodynamically optimized quantum logic gates.

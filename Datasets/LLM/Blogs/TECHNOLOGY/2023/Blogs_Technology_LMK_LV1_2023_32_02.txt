@@ -1,9 +1,0 @@
-"Building a Redundant Network: A Quest for Reliability
-
-As I sat in front of my home lab setup, I couldn't help but feel a sense of excitement and frustration at the same time. My goal was to create a fully redundant network configuration for my NAS/SAN and hypervisors, but I was struggling to find the right switch to make it happen. I wanted something affordable and easy to manage, but it seemed like a tall order.
-
-I've been working with virtualization and storage technologies for a while now, and I've come to realize the importance of having a reliable network infrastructure. Downtime can be catastrophic, especially when you're working with critical data. That's why I was determined to build a redundant network that could withstand failures and keep my data flowing.
-
-After some research, I stumbled upon VRRP (Virtual Router Redundancy Protocol) routers, which seemed like the perfect solution. By using VRRP, I could create a highly available network that would automatically failover to a backup router in case of a failure. But I still needed a switch that could handle the demands of my NAS/SAN and hypervisors.
-
-I'm still on the hunt for the perfect switch, but I'm confident that with the right hardware and a solid understanding of VRRP, I'll be able to build a redundant network that will give me the reliability I need. Wish me luck - it's going to be a fun journey!"

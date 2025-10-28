@@ -1,5 +1,0 @@
-## The Regex Regression That Made Me Question Everything (and Java Versions)
-
-Okay, so I've been there, right? That moment when you're *sure* your code is solid, it's been running flawlessly for ages, and then…bam! Something breaks. Recently, we hit a particularly frustrating snag migrating a Java application from 8 to 11. A perfectly good regex pattern – one that had been happily munching on data for years – suddenly decided it didn’t want to play anymore.
-
-At first, I panicked. Was it a typo? A rogue character? Hours were spent debugging, only to find nothing obviously wrong. Then the unsettling truth dawned: it was the JVM. Apparently, the regex engine's behavior subtly shifted between Java 8 and 11. A stark reminder that even seemingly small version bumps can have surprising consequences. It's a humbling experience, and a good lesson in always thoroughly testing across environments!

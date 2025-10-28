@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract in the field of chemistry:
-
-Title: Cavity-Modulated Ground State Reactivity via Non-Markovian Dynamics in the Vibrational Strong Coupling Regime
-
-Abstract:
-
-The vibrational strong coupling (VSC) regime has emerged as a fertile ground for exploring the manipulation of ground state chemical reactivity. In this work, we theoretically elucidate the cavity modification of reaction rate constants within the VSC framework. By incorporating non-Markovian dynamics and the dynamical caging effect, we demonstrate that the cavity radiation mode induces a non-negligible influence on the reaction coordinate. Our results show that the cavity-mediated non-Markovian dynamics leads to a modulation of the reaction rate constant, which can be attributed to the interplay between the cavity mode and the vibrational modes of the reactant. The present study provides a comprehensive understanding of polariton chemistry in the VSC regime, highlighting the crucial role of non-Markovian effects in shaping ground state reactivity. Our findings contribute to the ongoing discussion on cavity-controlled chemistry and offer insights into the rational design of VSC-mediated chemical reactions. (2021)

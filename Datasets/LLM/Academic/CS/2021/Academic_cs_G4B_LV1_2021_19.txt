@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a 2021 publication in computer science:
-
-**Abstract**
-
-Recent advances in deep learning for low-level vision tasks necessitate robust training methodologies to mitigate data scarcity. This work investigates the efficacy of copy-blend data augmentation – a novel technique leveraging low-level image enhancement – as a means of improving model performance and reducing reliance on extensive labeled datasets. We hypothesize that strategically applying copy-blend operations, which preserve textural consistency while introducing subtle variations, can effectively expand the effective training set.  Experimental results, conducted on a benchmark dataset for edge detection, demonstrate a statistically significant improvement in both accuracy and F1-score compared to standard augmentation methods. Furthermore, we observed a demonstrable reduction in the required training data volume to achieve comparable performance levels.  These findings suggest copy-blend represents a promising and computationally efficient approach for enhancing the generalization capabilities of low-level vision models.

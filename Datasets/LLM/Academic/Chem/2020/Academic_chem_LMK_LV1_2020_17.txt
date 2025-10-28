@@ -1,5 +1,0 @@
-Title: Investigating Diffusive Hydrogenation Reactions of CO in Amorphous Solid Water: Implications for Interstellar Dust Grain Chemistry
-
-Abstract:
-
-The hydrogenation of carbon monoxide (CO) embedded in amorphous solid water (ASW) is a crucial process in the chemistry of interstellar dust grains. This study explores the diffusive hydrogenation reactions of CO in ASW at elevated temperatures, providing insights into the formation of complex molecules in the interstellar medium. Using a combination of experimental and theoretical approaches, we examine the reaction kinetics and mechanisms of CO hydrogenation in ASW. Our results show that the reaction rate is significantly enhanced at temperatures above 20 K, where CO molecules become mobile within the ASW matrix. The formation of HCO and subsequent reaction products is observed, highlighting the importance of ASW as a catalyst for hydrogenation reactions. These findings have significant implications for understanding the chemical evolution of interstellar dust grains and the origin of complex organic molecules in the universe.

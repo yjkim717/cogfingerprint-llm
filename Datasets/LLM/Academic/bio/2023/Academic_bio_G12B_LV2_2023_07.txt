@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, suitable for a bio-focused publication, based on your provided summary and adhering to your specifications:
-
-**Abstract**
-
-Understanding microclimatic conditions within European forests is crucial for predicting species distributions and ecosystem responses to ongoing climate change. This paper presents a novel, freely available dataset of high-resolution bioclimatic variables specifically tailored for microclimate temperature modelling across European forested landscapes. Derived from gridded temperature data, the dataset incorporates key variables relevant to forest microhabitats, facilitating improved ecological model parameterization. This resource addresses a critical gap in existing climate data, which often lacks the spatial resolution necessary to capture the heterogeneous conditions within forests. The dataset’s open-access nature promotes collaborative research and enables more accurate projections of forest ecosystem dynamics under future climate scenarios. We anticipate broad utility for researchers employing process-based and species distribution models.

@@ -1,7 +1,0 @@
-)
-## Abstract
-
-This study investigates the correlation between technology leadership, professional development initiatives, and the extent of teacher technology integration within the context of Palestinian public schools. Employing a quantitative, correlational research design, data were collected and analyzed to examine the relationships among these constructs. Findings reveal a statistically significant positive association between robust technology leadership practices and enhanced teacher technology integration (p < 0.05). Furthermore, the study demonstrates that targeted professional development programs act as a significant mediator in this relationship, amplifying the impact of technology leadership on pedagogical technology use. These results highlight the critical role of both leadership and ongoing professional support in fostering effective technology integration, offering actionable insights for policymakers and educational administrators aiming to leverage technology to improve learning outcomes in Palestinian educational settings.
-
-
-

@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a 2020 publication:
-
-**Abstract**
-
-Integrating temporal dynamics across multiomic layers represents a crucial advancement in single-cell biology. This work introduces a novel framework leveraging RNA velocity – initially developed for transcriptomic profiling – to reconstruct protein velocity profiles within single-cell multiomics datasets. Utilizing data encompassing transcriptomics, proteomics, and epigenetic markers, we demonstrate the capacity to infer past and prospective cell states with enhanced temporal resolution.  Specifically, we employ a Bayesian inference approach to correlate changes in RNA expression with corresponding proteomic shifts, effectively capturing the dynamic transitions between distinct cell states.  These findings provide a powerful methodology for elucidating cellular trajectories and identifying key regulatory events driving cell fate decisions.  Further validation through experimental perturbation confirms the predictive utility of this integrated velocity analysis, offering a refined perspective on cellular temporal organization.

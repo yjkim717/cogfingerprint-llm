@@ -1,3 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a bio-focused researcher:
-
-"This 2023 study employs *in situ* Raman spectroscopy to investigate the catalytic mechanisms of Ni–Fe catalysts during the oxygen evolution reaction (OER). Observed surface reconstructions and dynamic site identification underscore the crucial role of real-time spectroscopic analysis in elucidating complex catalytic processes. These findings highlight the necessity of *in situ* characterization for optimizing OER performance and advancing electrocatalyst design."

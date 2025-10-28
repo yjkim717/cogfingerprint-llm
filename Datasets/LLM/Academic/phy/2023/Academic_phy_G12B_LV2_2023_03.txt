@@ -1,6 +1,0 @@
-## Abstract: Quantum Simulation of Black Hole Information Processing in an Emergent Spacetime
-
-Recent theoretical developments in emergent gravity suggest a potential connection between black hole thermodynamics and underlying quantum systems. This paper investigates a simplified quantum mechanical model comprising coupled oscillators and Majorana fermions proposed as a phenomenological representation of a black hole existing within an emergent universe scenario. We analyze the system's behavior, focusing on the potential for information storage and retrieval, drawing parallels to qubit functionality. Specifically, we explore the feasibility of encoding quantum information within the system's fermionic degrees of freedom and assess the required number of constituent fermions to achieve a functionally relevant qubit count. Our analysis provides preliminary estimates for the qubit requirements needed to simulate key aspects of black hole information processing, contributing to the ongoing exploration of holographic principles and the quantum nature of spacetime. These findings offer a pathway towards testing emergent gravity models through quantum simulation techniques.
-
-
-

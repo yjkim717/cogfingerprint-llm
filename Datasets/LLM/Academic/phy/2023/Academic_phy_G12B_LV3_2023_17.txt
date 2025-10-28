@@ -1,5 +1,0 @@
- Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a physics-related publication (circa 2023):
-
-**Abstract**
-
-This work presents a novel optical encryption paradigm leveraging meta-optic functionalities to implement a vector visual cryptography (VVC) scheme. Addressing limitations in traditional optical encryption techniques—specifically, concerns regarding device size, cryptographic robustness, and computational overhead—our approach exploits the spatial degrees of freedom and vectorial nature of light propagation through engineered meta-optical elements. The proposed strategy facilitates secure information encoding and enables rapid, spatially distributed decryption without complex digital processing. This methodology demonstrates a promising avenue for enhanced information security and anti-counterfeiting applications, offering a physically secure alternative with potential for miniaturization and increased resilience against adversarial attacks.

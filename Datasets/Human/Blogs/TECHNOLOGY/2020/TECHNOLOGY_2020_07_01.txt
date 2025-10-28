@@ -1,5 +1,0 @@
-Year: 2020
-Author: EverydayMustBeFriday
-URL: https://www.reddit.com/r/ecommerce/comments/g75wh1/is_not_having_multicurrency_checkout_a_big/
-
-Hi, We've been using Shopify for quite some time after being on woocommerce for a year before, but Shopify doesn't support multicurrency checkouts. We are therefore forced to only use EUR as a checkout currency, which could be a problem for some countries where EUR is not their local currency (Croatia, Sweden, Denmark, Norway, UK, US). We have quite some customers from those countries. How big of a deal do you think such a thing is conversion wise? Shopify is really showing boasting their multicurrency on Shopify Payments, but it is not supported in our country. I'm considering moving back to woo because of it. Thanks :) Edit: I guess I should note that we are able to show prices in different currencies, it's only the checkout that changes to EUR

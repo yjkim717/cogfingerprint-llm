@@ -1,7 +1,0 @@
-Here is a formal academic abstract based on your summary:
-
-**Abstract**
-
-The development of advanced separator membranes is critical for enhancing the safety and electrochemical performance of lithium-ion batteries. Conventional polyolefin separators exhibit limited thermal stability and poor electrolyte wettability, which can lead to thermal runaway and capacity fading. This work introduces a novel, spray-deposited separator composed of alumina (Al₂O₃) particles fabricated via a sequential deposition process. This technique enables the single-operation fabrication of multilayer battery architectures, integrating the separator directly with the electrodes. Electrochemical evaluation confirms that the Al₂O₃-based separator significantly improves thermal stability, suppressing dimensional shrinkage at elevated temperatures. Furthermore, the cell demonstrates enhanced cycling performance, attributed to superior electrolyte uptake and robust interfacial contact, which promotes homogeneous lithium-ion flux and mitigates dendrite formation. The spray-deposition method presented herein offers a scalable and efficient manufacturing pathway for producing high-safety, high-energy-density lithium-ion batteries, presenting a promising alternative to conventional separator technologies.
-
-(Word Count: 149)

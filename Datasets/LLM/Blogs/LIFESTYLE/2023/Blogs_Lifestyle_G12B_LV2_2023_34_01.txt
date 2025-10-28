@@ -1,5 +1,0 @@
->## The Unexpected Lessons from a Go-Kart Suspension
-
-Okay, so I’ve been wrestling with a project lately – designing a go-kart suspension entirely in Fusion 360. Sounds fun, right? It *is*, but it’s also been surprisingly frustrating. Specifically, that darn pipe tool keeps creating these phantom planes I can’t seem to wrangle! 
-
-It’s a weird parallel, actually. Life feels a bit like that lately, doesn't it? So many unexpected planes – challenges and distractions – popping up and messing with your initial design. You start with a clear vision, a smooth path, and then *bam* – you're dealing with something you didn't anticipate. I guess it’s all about learning to manage those unexpected elements, and figuring out how to build something awesome *around* them. Still working on it, both with the go-kart and in life. Wish me luck!

@@ -1,7 +1,0 @@
-The joys of running a homelab in 2023! As tech enthusiasts, we're always looking for ways to tinker, experiment, and push the boundaries of what's possible. For me, that meant setting up Nginx Proxy Manager with SSL certs from Let's Encrypt, all tied together with Duck DNS. Sounds simple, right? Well, not quite.
-
-I've lost count of how many hours I spent wrestling with Nginx Proxy Manager, trying to get those elusive SSL certs to work. The documentation was thorough, but it assumed a level of expertise I just didn't have. And when you're trying to troubleshoot at 11 PM, with a cup of cold coffee by your side, it can get pretty frustrating.
-
-Duck DNS, in theory, was supposed to make things easier. And it did, once I figured out the right configuration. But that was a journey in itself. The forums were filled with people having similar issues, but the solutions were often cryptic or specific to their setup.
-
-In the end, it was a combination of trial and error, along with some digging into the Nginx Proxy Manager logs, that got me up and running. And when that SSL cert finally clicked into place, it was a great feeling. It's moments like those that remind me why I love playing with tech – the process might be frustrating at times, but the sense of accomplishment is unbeatable. If you're struggling with a similar setup, I feel your pain. But don't give up – with persistence and patience, you'll get there.

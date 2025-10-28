@@ -1,8 +1,0 @@
-Author: F. Dellaert
-Title: Factor Graphs: Exploiting Structure in Robotics
-Paper ID: d4b684f5d672e2a161c99971269f08f1224fdc5c
-Year: 2021
-Author Index: 8
-
-Abstract:
-Many estimation, planning, and optimal control problems in robotics have an optimization problem at their core. In most of these optimization problems, the objective to be maximized or minimized is composed of many different factors or terms that are local in nature—that is, they depend only on a small subset of the variables. A particularly insightful way of modeling this locality structure is to use the concept of factor graphs, a bipartite graphical model in which factors represent functions on subsets of variables. Factor graphs can represent a wide variety of problems across robotics, expose opportunities to improve computational performance, and are beneficial in designing and thinking about how to model a problem, even aside from performance considerations. I discuss each of these three aspects in detail and review several state-of-the-art robotics applications in which factor graphs have been used with great success.

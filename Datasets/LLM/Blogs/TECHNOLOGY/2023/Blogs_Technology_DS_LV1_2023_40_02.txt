@@ -1,3 +1,0 @@
-It’s funny how the smallest details can pull you into a rabbit hole. Just last week, I was tweaking my bspwm setup and found myself staring at the man pages, puzzling over the cryptic syntax for node selection. Dots, hashes, brackets—it felt like deciphering an ancient language.
-
-But then it hit me: this is what makes open-source tools so beautifully intricate. That arcane EBNF-style grammar isn’t just arbitrary; it’s a compact, precise way to define behavior. In 2023, where so much software hides behind glossy UIs, there’s something grounding about wrestling with text-based configuration. It reminds me that beneath every sleek interface lies a world of logic, patiently waiting for anyone curious enough to look.

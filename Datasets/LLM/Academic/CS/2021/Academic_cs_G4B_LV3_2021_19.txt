@@ -1,5 +1,0 @@
-Here's an academic abstract based on the provided summary and keywords, adhering to the requested style and context:
-
-**Abstract**
-
-Recent advancements in deep learning for low-level vision tasks increasingly rely on robust training datasets. However, acquiring and annotating such datasets can be computationally expensive and time-consuming. This research explores the application of copy-blend data augmentation, a novel technique leveraging low-level image manipulation, to mitigate these challenges. Specifically, we demonstrate that incorporating copy-blend operations – effectively replicating and subtly modifying image regions – substantially improves performance on deblurring and image enhancement benchmarks.  Experimental results, conducted in 2021, reveal that models trained with copy-blend augmentation exhibit comparable, and in some instances superior, accuracy to those trained on expanded datasets.  Furthermore, the technique demonstrably reduces the reliance on large, meticulously curated datasets, representing a pragmatic approach to enhancing model generalization within constrained resource environments.

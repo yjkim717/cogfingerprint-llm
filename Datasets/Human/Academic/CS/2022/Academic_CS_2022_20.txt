@@ -1,8 +1,0 @@
-Author: C. Stringer
-Title: Cellpose 2.0: how to train your own model
-Paper ID: 0980e47ee671041f51460c2371543b2b2de7d071
-Year: 2022
-Author Index: 20
-
-Abstract:
-Generalist models for cellular segmentation, like Cellpose, provide good out-of-the-box results for many types of images. However, such models do not allow users to adapt the segmentation style to their specific needs and may perform sub-optimally for test images that are very different from the training images. Here we introduce Cellpose 2.0, a new package which includes an ensemble of diverse pretrained models as well as a human-in-the-loop pipeline for quickly prototyping new specialist models. We show that specialist models pretrained on the Cellpose dataset can achieve state-of-the-art segmentation on new image categories with very little user-provided training data. Models trained on 500-1000 segmented regions-of-interest (ROIs) performed nearly as well as models trained on entire datasets with up to 200,000 ROIs. A human-in-the-loop approach further reduced the required user annotations to 100-200 ROIs, while maintaining state-of-the-art segmentation performance. This approach enables a new generation of specialist segmentation models that can be trained on new image types with only 1-2 hours of user effort. We provide software tools including an annotation GUI, a model zoo and a human-in-the-loop pipeline to facilitate the adoption of Cellpose 2.0.

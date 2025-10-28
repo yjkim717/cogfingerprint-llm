@@ -1,9 +1,0 @@
-Title: Evaluating Attendance Patterns among Undergraduate Medical Students during Psychiatric Clinical Postings: A Mixed-Methods Study from Central India
-
-Abstract:
-
-The imperative to enhance undergraduate medical education in psychiatry is underscored by the burgeoning mental health needs of the populace. As part of their clinical training, undergraduate medical students in India are mandated to undertake a psychiatric clinical posting. However, anecdotal evidence suggests suboptimal attendance during these postings, potentially compromising the efficacy of psychiatric training. This mixed-methods study, conducted in 2021, aimed to investigate the attendance patterns of undergraduate medical students during their psychiatric clinical postings in central India and elucidate the underlying reasons for low attendance.
-
-A retrospective analysis of attendance records of 250 undergraduate medical students from three medical colleges in central India was conducted. Additionally, a survey and focus group discussions were carried out among a subset of 100 students to gather qualitative insights into their perceptions regarding psychiatric training and factors influencing their attendance.
-
-The results revealed a significant variability in attendance rates across the three institutions, with an overall average attendance of 65.4%. The qualitative analysis identified several factors contributing to low attendance, including lack of perceived relevance of psychiatry to general medical practice, inadequate teaching methodologies, and limited exposure to interactive clinical sessions. The findings of this study underscore the need for revamping psychiatric training curricula and pedagogies to enhance student engagement and attendance. The insights garnered from this study can inform targeted interventions to improve the efficacy of psychiatric training among undergraduate medical students in India.

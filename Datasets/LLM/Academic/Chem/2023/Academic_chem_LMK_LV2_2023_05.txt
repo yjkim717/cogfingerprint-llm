@@ -1,6 +1,0 @@
-Here's a formal academic-style abstract:
-
-Title: Investigating the Role of Surface Diffusion in the Formation of Complex Organic Molecules on Interstellar Ice via Carbon Atom Mobility
-
-Abstract:
-The formation of complex organic molecules (COMs) in interstellar environments is a longstanding enigma in astrochemistry. Recent studies have highlighted the significance of surface diffusion processes on interstellar ice grains at low temperatures. This study focuses on the mobility of carbon atoms on interstellar ice surfaces, a crucial precursor to COM formation. Utilizing a combination of theoretical modeling and laboratory experiments, we investigate the surface diffusion mechanisms of carbon atoms on amorphous water ice, a prevalent component of interstellar ices. Our results demonstrate that carbon atom mobility is facilitated by quantum tunneling at low temperatures (<20 K), enabling the formation of COMs via subsequent reactions with other surface-bound species. The findings provide new insights into the astrochemical processes governing COM formation, shedding light on the origins of the complex molecular inventory observed in interstellar space. (2023)

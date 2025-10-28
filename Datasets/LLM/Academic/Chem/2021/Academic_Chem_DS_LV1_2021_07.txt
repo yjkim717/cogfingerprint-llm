@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The integration of multiple, unconventional functionalities within a single porous framework represents a frontier in advanced materials science. Herein, we report the design and synthesis of a novel series of isoreticular metal-organic frameworks (MOFs) derived from the DUT-49 archetype, engineered to concurrently exhibit negative gas adsorption (NGA) and intrinsic fluorescent functionality. These soft porous crystals undergo a structurally monitored, pressure-induced network contraction upon reaching a specific gas adsorption threshold, resulting in a spontaneous release of adsorbate and a pronounced pressure amplification effect characteristic of NGA. Critically, the judicious selection of conjugated organic linkers imparts robust luminescent properties, enabling the direct spectroscopic interrogation of the framework's electronic state. A combination of *in situ* fluorescence spectroscopy and grand canonical Monte Carlo (GCMC) simulations reveals a direct correlation between the NGA-driven structural transition and a quantifiable shift in the emission profile. This work establishes a new paradigm for multifunctional stimuli-responsive materials, where a macroscopic mechanical instability is coupled to an optical readout, opening avenues for the development of advanced chemical sensors and micro-actuators. (189 words)

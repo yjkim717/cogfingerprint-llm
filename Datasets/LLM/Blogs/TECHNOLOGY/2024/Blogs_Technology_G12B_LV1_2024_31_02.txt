@@ -1,5 +1,0 @@
->## The Quiet Search for Privacy in the Age of AI
-
-It's 2024, and AI is *everywhere*. I've been wrestling with a specific need: sifting through a large archive of documents – think research papers, old reports – but wanting to do it privately. No local servers humming in my apartment, no fear of my data being used to train some future AI. 
-
-Finding a service that offers that – secure, powerful LLM querying without the hosting headache or data repurposing – feels surprisingly tricky. It highlights a growing tension: access to AI's power versus control over our information. It's a challenge I suspect many will face.

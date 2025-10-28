@@ -1,5 +1,0 @@
-**Abstract**
-
-The pursuit of physics beyond the Standard Model necessitates innovative experimental approaches. This work advocates for the utilization of a muon collider as a compelling tool for exploring fundamental symmetries and potential dark matter candidates. Leveraging the high muon energy density, the collider offers a unique environment for probing electroweak symmetry breaking (EWSB) with enhanced precision, exceeding the capabilities of current hadron colliders. Specifically, the enhanced radiative environment facilitates the study of simplified dark matter models, characterized by specific mediator interactions and decay channels. 
-
-The proposed muon collider strategy minimizes background contamination through the inherent properties of muons, thereby maximizing signal sensitivity. Furthermore, the facility’s potential for precision measurements of W and Z boson properties provides stringent tests of the Standard Model.  This research underscores the muon collider’s strategic value in addressing key open questions within high-energy physics, particularly in the context of 2021’s evolving theoretical landscape and ongoing experimental searches.

@@ -1,7 +1,0 @@
-Okay, here’s an academic abstract inspired by the provided summary and keywords, suitable for a Computer Science journal in 2021, aiming for approximately 157 words:
-
----
-
-**Abstract**
-
-Current approaches to algorithmic fairness frequently rely on statistical parity and disparate impact measures, neglecting the complexities of systemic inequality and the inherent power imbalances embedded within data collection and algorithmic design.  This paper contends that a purely distributional understanding of fairness is insufficient to address the emergent harms of algorithmic decision-making. We introduce a framework utilizing causal inference techniques to identify and mitigate the propagation of existing societal biases through algorithmic pipelines. Specifically, we propose an ‘algorithmic audit’ methodology focused on tracing causal pathways of disparity, moving beyond simple correlation to examine the root causes of unfair outcomes.  This necessitates incorporating contextual awareness and acknowledging the influence of power structures on algorithmic performance.  Our analysis suggests that robust algorithmic auditing demands a shift from reactive mitigation to proactive intervention, emphasizing the disentanglement of algorithmic design from reinforcing pre-existing social inequalities.  Future work will explore the scalability of this approach.

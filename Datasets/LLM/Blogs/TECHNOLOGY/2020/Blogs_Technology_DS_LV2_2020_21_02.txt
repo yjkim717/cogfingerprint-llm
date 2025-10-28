@@ -1,5 +1,0 @@
-Looking back to 2020, when our worlds shrank to the size of our screens, I found myself tinkering with a Minecraft server for my friends. We were all just casual players seeking an escape, and I wanted our little digital world to be a gentle one.
-
-The big question was what to do when someone died. The classic "keepInventory" setting felt too hollow, like there were no stakes. But the default—losing everything—was too harsh for our after-work unwind.
-
-I spent hours brainstorming creative death punishments, trying to find that sweet spot between fairness and fun. It was a small puzzle, but in a year of so much loss, it felt important to craft a space where a little failure didn't ruin the whole adventure.

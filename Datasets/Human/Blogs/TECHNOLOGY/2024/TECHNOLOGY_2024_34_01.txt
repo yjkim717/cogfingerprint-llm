@@ -1,5 +1,0 @@
-Year: 2024
-Author: AgsMydude
-URL: https://www.reddit.com/r/PixelWatch/comments/1csimcp/pw2_battery_terrible_all_the_sudden/
-
-I've had mine since November and usually get at least 24 hrs. A few days ago it completely changed and randomly starts draining FAST. For example, I had it 100 charged last night and woke up to 16% left. It's on bedtime mode at night so AOD settings shouldn't even impact the battery on that case. I've restarted it z couple times but no idea what to do now?

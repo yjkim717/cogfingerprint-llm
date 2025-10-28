@@ -1,1 +1,0 @@
-We demonstrate dielectric metasurfaces implementing optimized non-Hermitian transformations to directly measure polarization state deviations in a single shot. This approach enables highly sensitive monitoring of polarization ratios, surpassing conventional methods in speed and accuracy for integrated photonic systems.

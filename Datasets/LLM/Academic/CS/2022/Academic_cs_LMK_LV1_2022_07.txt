@@ -1,1 +1,0 @@
-We establish a fundamental equivalence between private PAC learnability and online learnability for binary-labeled concept classes. Specifically, we prove that a class is privately PAC learnable if and only if it is online learnable, with a characterization via Littlestone dimension, thereby resolving a longstanding question in the field (2022).

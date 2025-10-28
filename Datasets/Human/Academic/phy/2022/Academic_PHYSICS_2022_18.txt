@@ -1,8 +1,0 @@
-Author: Lu Chen
-Title: Synthesizing ultrafast optical pulses with arbitrary spatiotemporal control
-Paper ID: fb57551615ab7dd5275cad291dace4bbfe477762
-Year: 2022
-Author Index: 18
-
-Abstract:
-The ability to control the instantaneous state of light, from high-energy pulses down to the single-photon level, is an indispensable requirement in photonics. This has, for example, facilitated spatiotemporal probing and coherent control of ultrafast light-matter interactions, and enabled capabilities such as generation of exotic states of light with complexity, or at wavelengths, that are not easily accessible. Here, by leveraging the multifunctional control of light at the nanoscale offered by metasurfaces embedded in a Fourier transform setup, we present a versatile approach to synthesize ultrafast optical transients with arbitrary control over its complete spatiotemporal evolution. Our approach, supporting an ultrawide bandwidth with simultaneously high spectral and spatial resolution, enables ready synthesis of complex states of structured space-time wave packets. We expect our results to offer unique capabilities in coherent ultrafast light-matter interactions and facilitate applications in microscopy, communications, and nonlinear optics.

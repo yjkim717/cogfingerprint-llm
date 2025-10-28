@@ -1,3 +1,0 @@
-It was one of those Monday mornings in 2020, the kind where my coffee was the only thing running smoothly. Then came the ticket: a student had logged in, but not through our carefully crafted Active Directory. No, they’d waltzed right in with a personal Microsoft account, bypassing every GPO I’d painstakingly set up.
-
-My first thought? A grudging respect for the kid’s ingenuity. My second? A sinking feeling. All our controls, our digital hall passes, were suddenly useless. It was a stark reminder that in this new remote-learning world, the old castle walls weren’t enough. The perimeter had dissolved, and I was left wondering how to secure an identity landscape that was no longer just within our four walls.

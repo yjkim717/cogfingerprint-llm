@@ -1,9 +1,0 @@
-The glow of my new M.2 drive felt like pure potential. I’d just finished the great PC upgrade of 2022, a ritual of swapping parts and promising myself a faster, smoother digital life. The cloning process went off without a hitch, a perfect digital copy of my old boot drive. I felt like a tech wizard.
-
-Then I pressed the power button.
-
-Instead of the swift Windows hello, I was greeted by a black screen and a blinking cursor. That sinking feeling hit—the kind you get when you realize you’ve outsmarted yourself. I dove headfirst into the UEFI BIOS, a labyrinth of settings I usually avoid. Boot priority. It sounded so simple, yet there I was, an hour deep, scrolling through menus that felt like they were written in another language. My sleek new drive was invisible to the system, a ghost in the machine.
-
-It was a humbling reminder that sometimes the biggest hurdles aren't the hardware swaps, but the quiet, unseen settings. All that raw speed was locked behind my own confusion. After what felt like a small eternity of forum-searching and cautious tweaking, I found the right sequence. The familiar startup chime finally played, a sound of pure relief.
-
-Now, the boot is lightning fast. But the real upgrade wasn’t the speed; it was the lesson in patience. It’s funny how a quest for a quicker startup can teach you to slow down and appreciate the small, stubborn puzzles that make the final victory so much sweeter.

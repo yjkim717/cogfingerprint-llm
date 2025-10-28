@@ -1,5 +1,0 @@
-It’s 2020, and I’m staring at a blank C++ file, dreaming of a 2D multiplayer world. I wanted to build it all from scratch—networking, Steam integration, the works. I dove into open-source engines, thinking, "How hard could it be?"
-
-Turns out, pretty hard. Late nights were spent wrestling with Steam’s API, debugging network lag that felt like an eternity. But in those quiet moments, something clicked. It wasn’t just about code; it was about creating shared experiences, even from my lonely desk.
-
-Now, with a basic prototype running, I see the magic in those tiny packets of data connecting players across the globe. Sometimes, the biggest adventures start with a single, stubborn line of code.

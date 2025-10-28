@@ -1,8 +1,0 @@
-Author: Gennady Gorin
-Title: Studying stochastic systems biology of the cell with single-cell genomics data
-Paper ID: 46468db9b852faa29b9aa1946a2792257367a7c5
-Year: 2023
-Author Index: 12
-
-Abstract:
-Recent experimental developments in genome-wide RNA quantification hold considerable promise for systems biology. However, rigorously probing the biology of living cells requires a unified mathematical framework that accounts for single-molecule biological stochasticity in the context of technical variation associated with genomics assays. We review models for a variety of RNA transcription processes, as well as the encapsulation and library construction steps of microfluidics-based single-cell RNA sequencing, and present a framework to integrate these phenomena by the manipulation of generating functions. Finally, we use simulated scenarios and biological data to illustrate the implications and applications of the approach.

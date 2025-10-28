@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The mobility of reactive radicals on interstellar ice grain surfaces is a critical, yet poorly constrained, parameter in astrochemical models governing molecular complexity in star-forming regions. This study presents a quantitative experimental determination of the diffusion energy barrier for hydroxyl (OH) radicals on an amorphous solid water (ASW) ice analogue under ultra-high vacuum conditions. By monitoring the kinetics of a prototypical diffusion-limited reaction, OH + CO → CO₂, across a controlled temperature gradient (20–50 K), we extracted the diffusion activation energy (Eₐ) via application of the Arrhenius equation. Our results yield a precise Eₐ of 0.14 ± 0.02 eV, corresponding to an onset of significant OH mobility at approximately 36 K. This finding provides a fundamental kinetic parameter for astrochemical networks, implying that OH-radical-mediated surface chemistry becomes efficient in warmer regions of molecular clouds and protostellar envelopes, thereby influencing the inventory of complex organic molecules.
-
-*Year: 2022*

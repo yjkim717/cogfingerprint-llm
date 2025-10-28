@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-Early detection of amyloid pathology is paramount in Alzheimer’s disease (AD) management; however, accurate and reliable plasma biomarkers remain a significant challenge. This study evaluated the robustness of several plasma markers – including glial fibrillary acidic protein (GFAP), phosphorylated total tau (p-tau181), and amyloid-beta 42/40 ratio – in predicting amyloid burden as assessed by amyloid positron emission tomography (Amyloid PET). Results demonstrate that GFAP and p-tau181 exhibited sustained performance characteristics across multiple assays, indicating considerable robustness despite inherent inter-assay variability. Conversely, the Aβ42/40 ratio displayed substantial sensitivity to variations in analytical methods, limiting its consistent diagnostic utility. These findings underscore the potential of GFAP and p-tau181 as reliable adjunct biomarkers, while highlighting the need for standardized assay protocols to mitigate inter-assay variability and enhance the clinical applicability of plasma-based AD diagnostics in 2022.

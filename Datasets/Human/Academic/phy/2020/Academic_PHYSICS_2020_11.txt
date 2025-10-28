@@ -1,8 +1,0 @@
-Author: Keiju Murata
-Title: Superradiant instability of black resonators and geons
-Paper ID: 7d688c8fb1d6c35fd510e6cc3e8d5c76696f6f74
-Year: 2020
-Author Index: 11
-
-Abstract:
-Black resonators and geons in global AdS are rapidly rotating, low-energy solutions with a helical Killing field. We study the linear mode stability of equal angular momenta, five-dimensional black resonators and geons under scalar, electromagnetic, and gravitational perturbations. We find that black resonators are unstable to the superradiant instability, in agreement with previously known results. Perhaps surprisingly, many geons appear linearly stable, despite having an ergoregion. This apparent stability implies that geons are important long-lived, low-energy states in the dual gauge theory. However, we do find that geons are unstable within a certain range of parameter space. We comment on the nature of this instability and to its possible endpoints. We also report on new non-spinning oscillating geons, which we construct within a cohomogeneity two ansatz. Given the existing arguments that suggest our linear stability results may be extended nonlinearly, our findings indicate that most geons are generic and long-lived solutions.

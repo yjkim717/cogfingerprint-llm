@@ -1,5 +1,0 @@
-Year: 2021
-Author: 720hp
-URL: https://www.reddit.com/r/HomeNetworking/comments/q3cqp7/dual_wan_with_asus_rt_ac86u/
-
-Hi all, We have Spectrum and their cable modem and I was going to add Google Fiber to test it out while leaving Spectrum up. My router has a dual WAN setting/setup but I am curious how well this actually works. I know mileage may vary but I am curious if anyone has any suggestions or caveats in setting this up before the Google guy shows up at my door next week. Thanks!

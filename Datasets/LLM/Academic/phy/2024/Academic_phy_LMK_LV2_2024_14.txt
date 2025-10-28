@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Topological Defects in Black Hole Thermodynamics: A Universal Classification Framework
-
-Abstract:
-
-Recent advances in black hole thermodynamics have underscored the significance of topological classifications in understanding the thermodynamic properties of black holes. In this study, we investigate the topological structure of black hole states as defects in the thermodynamic parameter space. By analyzing the Hawking temperature and its relation to the thermodynamic parameters, we establish a universal classification framework for black hole states. Our results demonstrate that the topological defects in the thermodynamic parameter space provide a robust characterization of black hole thermodynamics, shedding light on the intricate interplay between gravity, thermodynamics, and quantum mechanics. This framework offers a novel perspective on the long-standing quest for a quantum theory of gravity, and has far-reaching implications for our understanding of black hole physics in the context of modern theoretical physics (2024).

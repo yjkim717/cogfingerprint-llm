@@ -1,5 +1,0 @@
-Year: 2022
-Author: pnwstarlight
-URL: https://www.reddit.com/r/NiceHash/comments/rtrq57/cheapest_way_to_withdraw_balance_to_binance/
-
-I read that lots of people withdraw their BTC directly to external wallets. I was wondering: Wouldn't it be cheaper to first onvert BTC to another currency with low fees (such as XLM), then send the funds to Binance and then convert back to BTC? How do you do it? Is my math wrong?

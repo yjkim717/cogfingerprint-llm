@@ -1,7 +1,0 @@
-raunchy
-
-Okay, here's a blog post draft inspired by your summary and keywords, aiming for a conversational, relatable tone, and set in a 2021 context:
-
-## The Great Partition Panic of '21
-
-So, I dove into the dual-boot world – Windows *and* Linux, living side-by-side. Seemed straightforward enough, right? I shrunk my C: drive in Windows to make space, ready for the Linux installation. But then… disaster. That lovely unallocated space just *vanished* from Windows' Disk Management. Anyone else wrestle with partition nightmares? It’s a humbling reminder that tech can be tricky, even when you think you've got it figured out. Wish me luck getting it sorted!

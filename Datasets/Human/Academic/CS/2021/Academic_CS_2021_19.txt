@@ -1,8 +1,0 @@
-Author: S. S. Sengar
-Title: Evaluating COPY-BLEND Augmentation for Low Level Vision Tasks
-Paper ID: 073af7c28987c49ab4ff76b95ee93bd793384a9d
-Year: 2021
-Author Index: 19
-
-Abstract:
-Region modification-based data augmentation techniques have shown to improve performance for high level vision tasks (object detection, semantic segmentation, image classification, etc.) by encouraging underlying algorithms to focus on multiple discriminative features. However, as these techniques destroy spatial relationship with neighboring regions, performance can be deteriorated when using them to train algorithms designed for low level vision tasks (low light image enhancement, image dehazing, deblurring, etc.) where textural consistency between recovered and its neighboring regions is important to ensure effective performance. In this paper, we examine the efficacy of a simple copy-blend data augmentation technique that copies patches from noisy images and blends onto a clean image and vice versa to ensure that an underlying algorithm localizes and recovers affected regions resulting in increased perceptual quality of a recovered image. To assess performance improvement, we perform extensive experiments alongside different region modification-based augmentation techniques and report observations such as improved performance, reduced requirement for training dataset, and early convergence across tasks such as low light image enhancement, image dehazing and image deblurring without any modification to baseline algorithm.

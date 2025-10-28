@@ -1,5 +1,0 @@
-Year: 2020
-Author: drowningfish
-URL: https://www.reddit.com/r/MicrosoftTeams/comments/h7xvrb/teams_cache/
-
-Quick question, does anyone know what exactly is being written to the cache directories for Teams, and does any of it tie into audio and video data during an active meeting? I'm seeing considerable AV performance issues and not sure how the cache may be factoring in on the issues I am having.

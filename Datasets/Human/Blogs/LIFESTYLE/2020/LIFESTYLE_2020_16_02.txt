@@ -1,5 +1,0 @@
-Year: 2020
-Author: Jack1eto
-URL: https://www.reddit.com/r/overclocking/comments/fev6mj/can_you_overclock_i56500_on_a_gigabyte_z170md3h/
-
-I've been investigating and it seems like that you can OC this proccessor but it depends on the motherboard, anyone have any info on mine? I've been looking around the BIOS but I can't see any option there to do anything, the bios version is F6 with date 03/07/2016 &#x200B; Thanks

@@ -1,5 +1,0 @@
-Title: A Novel Swampland Condition for Black Hole Phase Transitions
-
-Abstract:
-
-We propose a new Swampland condition that constrains the parameter space of effective field theories (EFTs) coupled to gravity, based on a phase transition in black hole physics occurring at a scale below the Planck and species scales. By analyzing the thermodynamic properties of black holes, we identify a critical scale, dubbed the "black hole scale," where a phase transition occurs, signaling a breakdown of the EFT description. We argue that this scale is bounded from above by the species scale, $\Lambda_s$, and from below by a new scale, $M_{\text{BH}}$, satisfying $M_{\text{BH}} < \Lambda_s < M_{\text{Pl}}$. The proposed Swampland condition implies that EFTs with $M_{\text{BH}} > \Lambda_s$ are inconsistent with a theory of quantum gravity. Our result provides a novel constraint on the landscape of EFTs and sheds light on the interplay between black hole physics, quantum gravity, and the Swampland program. (2024)

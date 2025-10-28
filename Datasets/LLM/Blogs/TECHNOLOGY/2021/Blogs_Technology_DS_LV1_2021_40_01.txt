@@ -1,5 +1,0 @@
-It’s 2021, and I’ve spent the last month wrestling with tiling window managers. I started with dwm—the minimalist’s dream—but quickly realized I didn’t want to spend hours patching in basic features. I craved something that felt modern right out of the box: a clean status bar, system monitoring tools, and intuitive hot keys that didn’t require a PhD in configuration.
-
-I’m not alone in this hunt. So many of us want efficiency without the endless tweaking. We want to focus on our work, not on building our environment from scratch. It’s a delicate balance—the allure of customization versus the need for practicality.
-
-In the end, I’ve come to appreciate that the “perfect” setup isn’t about having every feature imaginable, but about finding tools that adapt to our workflow seamlessly. Sometimes, modern means knowing when to stop tinkering and start creating.

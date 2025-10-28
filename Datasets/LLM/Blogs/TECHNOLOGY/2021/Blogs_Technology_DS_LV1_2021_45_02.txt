@@ -1,7 +1,0 @@
-It’s funny how a single language feature can reshape your entire approach to a problem. That’s what happened to me in 2021, wrestling with the age-old chore of mapping entity models to data transfer objects (DTOs). In my Java days, I’d reached for MapStruct—a solid tool, but one that always felt like a separate, clunky apparatus bolted onto my code.
-
-Then I started working with Scala 3. At first, I was just enjoying the cleaner syntax, but its new record types were the real game-changer. Instead of relying on an external library to generate mappers, I began experimenting with writing small, expressive functions. The compiler started doing more of the heavy lifting, inferring types and ensuring safety in a way that felt organic, not imposed.
-
-This wasn't just about replacing one tool with another; it was a shift in philosophy. I was no longer configuring a mapper; I was simply writing clear, functional code. Dynamic mapping scenarios, which used to require verbose configuration, became elegant, composable operations. The boundary between my "business logic" and "plumbing code" began to blur in the best way possible.
-
-It reminded me that the most powerful tools aren’t always the most complex. Sometimes, they’re the language features that let you express your intent so directly that the machinery just… disappears. It felt less like I was using a framework and more like I was just thinking in code again.

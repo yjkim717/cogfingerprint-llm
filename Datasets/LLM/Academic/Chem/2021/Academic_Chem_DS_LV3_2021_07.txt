@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract inspired by the provided summary and keywords, contextualized for the year 2021.
-
-***
-
-**Abstract**
-
-The advent of stimuli-responsive metal-organic frameworks (MOFs) exhibiting negative gas adsorption (NGA) has unveiled unprecedented phenomena in porous materials science. These systems undergo sudden lattice contractions upon reaching a critical gas pressure, leading to a counterintuitive release of adsorbate. While the pressure amplification inherent to materials like DUT-140 is well-documented, the underlying microscopic mechanisms governing these drastic structural transitions remain partially obscured by a lack of in-situ, molecular-level probes. This work addresses this critical gap through the strategic design and synthesis of a novel DUT-140 analogue, wherein a tailored fluorescent ligand is isostructurally integrated into the framework backbone. We demonstrate that this incorporation preserves the characteristic NGA behavior while bestowing intrinsic fluorescence sensitivity to the framework's mechanical state. By correlating in-situ fluorescence spectroscopy with high-resolution gas adsorption manometry, we achieve real-time, non-invasive monitoring of the adsorption-induced structural transition. Our findings reveal distinct spectroscopic shifts directly linked to the framework's collective lattice strain and electronic reorganization during the NGA event. This synergistic approach not only provides a fundamental understanding of the dynamic processes in flexible MOFs but also establishes a versatile platform for the optical interrogation of host-guest interactions and material stability under operational conditions, paving the way for advanced smart sensors and actuators.
-
-(Word Count: 217)

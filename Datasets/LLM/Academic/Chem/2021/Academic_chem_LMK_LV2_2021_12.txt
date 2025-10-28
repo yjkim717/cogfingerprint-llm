@@ -1,4 +1,0 @@
-Title: Non-Markovian Rate Theory for Vibrational Strong Coupling-Induced Modification of Ground-State Reactivity
-
-Abstract:
-The vibrational strong coupling (VSC) regime has been observed to significantly alter ground-state reactivity, a phenomenon attributed to polariton chemistry. In this work, we present a theoretical framework to elucidate the cavity modification of chemical reaction rates within the VSC regime. Employing non-Markovian rate theory, we investigate the influence of cavity frequency on the reaction rate constant. Our analysis reveals that the non-Markovian dynamics of the cavity-coupled system play a crucial role in determining the modification of the reaction rate. By incorporating the effects of cavity frequency and non-M

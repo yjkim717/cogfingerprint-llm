@@ -1,3 +1,0 @@
-It’s funny how life can pull two seemingly unrelated passions together. For years, I juggled video editing and tinkering with code, treating them as separate hobbies. Then, in 2023, I stumbled upon FFmpeg while trying to automate a tedious video task. Suddenly, a lightbulb went off—what if I could merge these skills?
-
-Without a formal CS degree, I used to feel like an imposter in the tech world. But now, I see my unique blend of creative and technical skills as my greatest asset. I’m teaching myself to build tools that bridge video and web development, carving out a niche that feels authentically mine. It’s not just a career transition; it’s about crafting a lifestyle where my diverse interests finally make sense together.

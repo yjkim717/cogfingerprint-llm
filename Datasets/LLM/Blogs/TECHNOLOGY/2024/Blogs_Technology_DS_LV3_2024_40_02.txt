@@ -1,1 +1,0 @@
-It’s 2024, and I’m still wondering why my Firefox browser can’t connect to my smart devices via WebBluetooth. I saw the old Bugzilla thread marked resolved, but the silence on actual support leaves me curious—what’s the real story behind this choice? Sometimes, the tech we take for granted is the very puzzle we’re left to solve.

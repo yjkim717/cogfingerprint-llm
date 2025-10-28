@@ -1,9 +1,0 @@
-Title: Unprecedented Avian Influenza Outbreak in European Poultry: Assessing the 2021-2022 HPAI Epidemic Season
-
-Abstract:
-
-The 2021-2022 Highly Pathogenic Avian Influenza (HPAI) epidemic season in Europe was characterized by an unprecedented magnitude of outbreaks, underscoring the need for enhanced biosecurity measures and vigilance in poultry farming. Between June and September 2022, a total of 788 detections of HPAI virus, predominantly of the H5N1 subtype, were reported across the continent. This surge in cases represents the largest HPAI epidemic season recorded in Europe to date, highlighting the ongoing threat posed by avian influenza viruses to poultry health and the poultry industry.
-
-Phylogenetic analysis of the circulating H5N1 viruses revealed a high degree of genetic similarity with strains previously identified in Europe, suggesting continued circulation and evolution of the virus within the region. The widespread distribution of outbreaks across different European countries emphasizes the importance of coordinated surveillance efforts and the implementation of stringent biosecurity protocols to mitigate the risk of virus transmission.
-
-This study underscores the critical need for continued monitoring of avian influenza viruses in European poultry populations, as well as the development of effective countermeasures to prevent and control future outbreaks. Enhanced collaboration between national veterinary authorities, research institutions, and the poultry industry will be essential in addressing the ongoing challenges posed by HPAI viruses and reducing the economic and animal health impacts of future epidemics.

@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2023:
-
-**Abstract:**
-
-Recent advancements in supramolecular chemistry have focused on achieving precise control over metal-ligand interactions, particularly in the construction of complex architectures. This work details a novel strategy employing pd(II) cage systems to realize this control. Utilizing ancillary ligand pairings, we demonstrate a method for heteroleptic assembly, facilitating the directed incorporation of low-symmetry ligands. The strategic selection of these ancillary ligands dictates the spatial arrangement and orientation of the central metal core.  Specifically, the pd(II) cage acts as a templating unit, enabling the formation of assemblies with non-intuitive geometries.  These results provide a significant step forward in designing tailored metallosupramolecular complexes with applications ranging from catalysis to advanced materials science, highlighting the potential of ligand pairing to unlock intricate structural possibilities.

@@ -1,5 +1,0 @@
-Year: 2022
-Author: Jack1eto
-URL: https://www.reddit.com/r/hoi4/comments/xihgar/how_can_i_play_this_scenario_soviet_union_vs_all/
-
-I tried setting the ingame historical paths, germany and all central europe (minus Italy because it doenst have a democracy path). But then UK went fascist even tho I had historical focuses on, then allied with italy and started their own war vs allies (france + free uk and dominions). So it basically ruined the whole thing, because I want to be the the only big bad boss agains the world. Are there mods or something to get there?

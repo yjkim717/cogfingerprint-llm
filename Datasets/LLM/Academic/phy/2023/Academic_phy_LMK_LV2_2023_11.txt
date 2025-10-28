@@ -1,3 +1,0 @@
-"Exploring the Interplay between Krylov Complexity and Quantum Chaos"
-
-In this study, we investigate the relationship between Krylov complexity and quantum chaos in various quantum systems. By analyzing the Lanczos coefficients, we establish a correlation with classical Lyapunov exponents, indicative of chaotic behavior. Our results demonstrate that the growth rate of Krylov complexity is intimately linked with the Lyapunov exponent, providing insight into the quantum-classical correspondence. This work sheds new light on the intricate dynamics of quantum systems, advancing our understanding of the complex interplay between quantum mechanics and chaos theory, as of 2023.

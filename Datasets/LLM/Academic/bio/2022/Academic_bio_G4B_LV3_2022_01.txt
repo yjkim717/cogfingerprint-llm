@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-Nanoparticle behavior within intracellular environments presents a critical area of investigation for understanding cellular processes and targeted drug delivery. This study examines the dynamics of gold nanoparticle clustering within endosomes, employing a modified Smoluchowski coagulation equation to model cluster formation.  The equation’s application allowed for quantitative prediction of endosomal nanoparticle density, correlating with observed distributions via fluorescence microscopy.  Specifically, we demonstrate a statistically significant agreement between the model’s output and experimental data obtained from cultured cells in 2022.  These findings suggest that Smoluchowski’s principle provides a robust framework for characterizing nanoparticle aggregation in complex biological systems. Further research will explore the influence of endosomal pH and lipid composition on these clustering phenomena, potentially informing the design of more effective nanoscale therapeutics.

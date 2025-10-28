@@ -1,5 +1,0 @@
->## The Curious Case of My SUI and Scallop
-
-Okay, so I've been diving deeper into the world of SUI staking, and it's fascinating! I recently stumbled across Scallop, a liquid staking platform for SUI, and it got me thinking. The whole concept - essentially locking up your SUI and receiving an 'sSUI' token representing your stake – is pretty neat. But it sparked a question that's been bouncing around my head: Does sSUI *really* hold its value, regardless of what happens to the price of SUI itself?
-
-It feels a bit like magic, doesn't it? You're still technically "staked," earning rewards, but you also have this liquid token you can potentially move around. I've been following the conversations around it, especially how it handles price volatility. It's a clever way to balance participation in the network with maintaining some level of liquidity. Still, a little voice in the back of my mind keeps wondering about those edge cases and what happens when things get *really* bumpy. Anyone else wrestling with this?

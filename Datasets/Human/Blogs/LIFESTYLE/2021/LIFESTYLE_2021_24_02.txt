@@ -1,5 +1,0 @@
-Year: 2021
-Author: R1ch0C
-URL: https://www.reddit.com/r/CryptoCurrency/comments/qq99a3/blockchain_learning_resources/
-
-Hi guys, Does anyone have any interesting resources for learning & keeping track of the current blockchain/cryptoverse and ecosystem? I've been really enjoying learning a lot about all the different technologies and how they link together but the way I'm learning is a bit all over the place. I wondered if there was a handy resource to try and keep up with the rapid changes and new tech while also getting a cool overview of the whole space and how it's all connected. Any recommendations would be appreciated :)

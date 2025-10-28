@@ -1,1 +1,0 @@
-It’s 2024, and I’m still waiting for Firefox to embrace WebBluetooth. That old Bugzilla thread marked "WONTFIX" feels like a ghost in the machine—a reminder that even in a connected world, some bridges between browsers and devices remain unbuilt. Progress isn’t always a straight line.

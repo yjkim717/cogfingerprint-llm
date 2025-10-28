@@ -1,9 +1,0 @@
-Of course, here is an original blog post inspired by your request.
-
-***
-
-**Finding My Orbit in 2020**
-
-It’s funny how a year spent mostly indoors made me dream of outer space. Stuck in my apartment during the lockdowns, the four walls started to feel smaller each day. My computer engineering coursework was all theory, and I was itching to build something tangible, something that felt like it had a purpose bigger than just getting a grade.
-
-So, I started a side project. Nothing grand, just a small program to simulate satellite trajectories. My desk became mission control; debugging code was my launch sequence. In a year when the world felt like it had shrunk, this little project gave me a universe to explore. It was my quiet rebellion against the inertia, a reminder that even from my tiny room, I could still reach for the stars.

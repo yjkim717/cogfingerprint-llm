@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2022:
-
-**Abstract**
-
-The interstellar medium is characterized by extremely low temperatures and necessitates a thorough understanding of radical diffusion processes. This research investigates the activation energy governing the diffusion of hydroxyl (OH) radicals on water ice – a prevalent constituent of interstellar ices – under conditions representative of interstellar temperatures. Utilizing a novel experimental technique, we determined an activation energy of 0.14 eV for OH diffusion on water ice. This experimentally derived value presents a notable divergence from prevailing theoretical models, suggesting potential refinements in current diffusion pathway assumptions. These findings contribute critical data for simulating chemical evolution within interstellar clouds and inform the study of complex organic molecule formation in cold, ices-rich environments.

@@ -1,9 +1,0 @@
-## CodeIE: Information Extraction via Code-Style Prompting with Large Language Models
-
-**Abstract:** Recent advances in large language models (LLMs) have demonstrated remarkable capabilities in natural language processing, yet their application to structured information extraction (IE) remains an active area of research. Traditional IE pipelines rely on complex feature engineering and supervised training, often proving brittle and domain-specific. This paper introduces CodeIE, a novel approach to IE that exploits the code generation capabilities of contemporary code-LLMs. CodeIE frames IE tasks – specifically, named entity recognition (NER) and relation extraction (RE) – as code generation problems, employing meticulously crafted "code-style prompts." These prompts instruct the LLM to generate code snippets that directly output the desired structured information in a pre-defined format, such as JSON or CSV.
-
-Our methodology bypasses the need for explicit training data for IE, leveraging the LLM’s pre-existing knowledge and reasoning abilities. We evaluate CodeIE on several benchmark datasets for NER and RE, demonstrating competitive performance compared to fine-tuned supervised models, particularly in low-resource settings. Furthermore, CodeIE exhibits significantly improved generalization across different domains and entity types compared to traditional methods.  A key contribution is the exploration of prompt engineering strategies tailored for code generation, identifying specific patterns that maximize information extraction accuracy. We analyze the impact of prompt complexity, output format specifications, and the inclusion of few-shot examples within the prompt itself.  Our results suggest that code-style prompting provides a promising paradigm shift for IE, offering a potentially more flexible and scalable solution than conventional approaches, especially as code-LLMs continue to evolve.
-
-
-
----

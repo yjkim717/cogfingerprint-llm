@@ -1,1 +1,0 @@
-Staring at my scikitlearn output, I wondered: are these coefficients just derivatives? It was 2022, and I was deep-diving into the chain rule. That moment of connection—between abstract calculus and tangible code—felt like finding a secret passage in a familiar house. Sometimes, the deepest insights come from asking the simplest questions.

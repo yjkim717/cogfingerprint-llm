@@ -1,7 +1,0 @@
-It’s 2020, and like many of you, I’ve been living on video calls. My iPad on iOS 13 has become my trusty sidekick for everything from work Zooms to virtual happy hours. But recently, I hit a strange snag.
-
-I was listening to a podcast through my Bluetooth headphones, and the audio was crystal clear—rich, full, and immersive. Then, my calendar reminder pinged: time for my weekly team Zoom. I joined the meeting, and suddenly, my expensive headphones sounded like a tin-can telephone from the 1800s. The voices were thin, muffled, and distant.
-
-At first, I thought it was a connection issue, but it happened again on Google Meet. Music and podcasts? Perfect. The moment I entered a video call, the quality plummeted. After some frantic Googling, I discovered iOS 13’s “voice call mode,” which apparently prioritizes connection stability over audio fidelity for certain apps. My high-quality Bluetooth device was being forced into a low-bandwidth mode, all in the name of keeping my voice clear for others.
-
-It’s a weird trade-off in our hyper-connected world: my colleagues hear me perfectly, but I’m straining to understand them through the audio fog. A small, frustrating reminder that even our smartest technology still has its own quirky logic.

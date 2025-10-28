@@ -1,9 +1,0 @@
-)
-
-**Abstract**
-
-Inferring dynamic cellular trajectories remains a central challenge in developmental biology and disease research. RNA velocity, a computational method utilizing spliced mRNA abundance and nascent RNA transcription rates, has emerged as a powerful tool for predicting cellular fate. However, reliance solely on RNA data presents limitations, as transcriptional changes often precede protein abundance shifts. Here, we introduce Protaccel, a novel extension of RNA velocity that integrates single-cell RNA and protein abundance measurements to enhance trajectory inference. By incorporating protein levels, Protaccel provides a more comprehensive representation of cellular state and dynamics, enabling improved predictions of both past and future cellular states. We demonstrate Protaccel’s efficacy through simulations and application to experimental datasets, highlighting its ability to resolve complex developmental transitions and potentially reveal previously obscured regulatory relationships. This integrated multiomic approach offers a significant advancement in the field of single-cell temporal analysis, promising a deeper understanding of cellular differentiation and responses to stimuli.
-
-
-
-

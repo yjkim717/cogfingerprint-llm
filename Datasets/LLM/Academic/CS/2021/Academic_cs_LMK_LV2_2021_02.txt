@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-"Title: Agnostic Learning of Threshold Functions under Gaussian Distribution: Statistical Query Lower Bounds
-
-Abstract:
-
-Agnostic learning under Gaussian distribution is a fundamental problem in machine learning and statistics. In this work, we investigate the complexity of agnostic learning for threshold functions and polynomial regression under Gaussian input. We develop a novel methodology to construct hard instances for agnostic learning, leveraging the properties of Gaussian distributions. Our main contribution is a tight statistical query (SQ) lower bound for agnostic learning of threshold functions, resolving an open problem in the field. Specifically, we prove that any SQ algorithm requires at least $\Omega(d)$ queries to learn threshold functions in $d$ dimensions to constant accuracy, matching the upper bound achieved by polynomial regression. Our results have implications for the design of efficient algorithms and the understanding of the limits of agnostic learning under Gaussian distributions. (2021)"

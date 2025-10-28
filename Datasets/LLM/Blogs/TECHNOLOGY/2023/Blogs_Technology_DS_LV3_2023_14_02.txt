@@ -1,3 +1,0 @@
-There I was, deep into 2023, wrestling with Kohya's SS Gui to train a custom SDXL Lora. I'd spent hours tweaking settings, hoping for that perfect character render. But my results were a frustrating cycle of either a blurry, undertrained mess or an overtrained, oversaturated nightmare. Each failed attempt meant another day lost to the grueling training process.
-
-It’s in these moments you realize the true challenge of AI art isn't just the tech—it's the patience. You're essentially teaching a digital brain to see what you see, and sometimes it just doesn't get it. So, I’m turning to you all. Has anyone else cracked the code for consistent, high-quality Loras? I could really use some advice from those who’ve walked this rocky path before me.

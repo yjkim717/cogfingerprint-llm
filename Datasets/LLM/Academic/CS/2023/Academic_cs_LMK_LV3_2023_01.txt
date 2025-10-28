@@ -1,4 +1,0 @@
-Title: Decomposing CLIP Representations for Enhanced Image Segmentation via Zero-Shot Learning
-
-Abstract:
-This study undertakes a granular analysis of the CLIP image encoder, dissecting its representation into constituent components to elucidate its efficacy in image segmentation tasks. By leveraging text representations for interpretability, we unveil the underlying mechanisms driving CLIP's zero-shot learning capabilities. Our findings demonstrate that decomposing CLIP representations significantly enhances model understanding and facilitates improved performance in image segmentation applications. This research contributes to the advancement of transformer-based models in computer vision, offering insights into the intricate dynamics of multimodal representations in 2023.

@@ -1,5 +1,0 @@
->## The Ghost in the Machine (and My Growing Respect for Projectiles)
-
-Okay, so I’ve been deep down a rabbit hole lately – Warframe, if you’re unfamiliar. Specifically, their new Kitgun weapon. It’s wild! You build it from salvaged parts, each affecting its performance. I was obsessing over making it *perfect*, aiming for pinpoint hitscan accuracy. 
-
-But something clicked while watching a streamer absolutely *wreck* with a Rattleguts build – basically a projectile-spamming monstrosity. Suddenly, the elegance of precise aiming felt…cold. There's a raw power, a satisfying *thump*, to watching those chunky projectiles find their mark. Maybe sometimes, a little chaos and unpredictability are more compelling than sterile precision. It's weird, but it's made me rethink how I approach automation in *everything*. Maybe embracing the "projectile" approach isn't so bad.

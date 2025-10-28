@@ -1,2 +1,0 @@
-Input: Reddit post discussing potential radiation treatment of cannabis flower sold in dispensaries, prompting a search for information on growing practices and regulations.
-Output: Remember that wild rumor about radiation treating cannabis back in 2022? It sparked a deep dive into the whole cannabis industry—the growers, the rules, the sheer complexity of it all. Makes you realize how much we don’t truly know, right?

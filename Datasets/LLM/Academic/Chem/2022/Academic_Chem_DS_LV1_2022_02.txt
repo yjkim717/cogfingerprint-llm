@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2022.
-
-***
-
-**Abstract**
-
-The formation of complex organic molecules (COMs) in the cold, tenuous environment of the interstellar medium (ISM) presents a significant challenge to astrochemical models, as traditional thermally activated pathways are inefficient. This investigation explores the critical role of gas-phase radical-mediated reactions as non-equilibrium synthetic routes. We focus specifically on the sequential addition of atomic hydrogen (H•) and hydroxyl (OH•) radicals to small, abundant unsaturated hydrocarbons, namely acetylene (C₂H₂) and ethylene (C₂H₄). Computational kinetics and spectroscopic analysis confirm that the initial step involves a barrierless or low-barrier radical addition, yielding vinyl (C₂H₃•) and ethyl (C₂H₅•) radical intermediates, respectively. Subsequent hydrogen abstraction (H-abstraction) or further radical addition to these nascent intermediates is posited as a key mechanistic step, efficiently propagating molecular complexity. Our results demonstrate that these pathways provide a robust, low-temperature mechanism for constructing the molecular backbones of observed interstellar COMs. This work underscores the fundamental importance of radical-chain reactions in interstellar synthesis and provides critical kinetic parameters for inclusion in next-generation astrochemical networks.
-
-**(Word Count: 199)**

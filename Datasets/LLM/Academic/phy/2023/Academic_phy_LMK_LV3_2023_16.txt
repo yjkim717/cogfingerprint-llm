@@ -1,1 +1,0 @@
-This study demonstrates the equivalence of asymptotic symmetry algebras in four-dimensional Einstein gravity under redefined Lorentz generators, resolving supertranslation ambiguities. By reconciling disparate approaches, we establish a unified framework for understanding the interplay between Poincaré algebra and Bondi-Metzner-Sachs supertranslations in 2023.

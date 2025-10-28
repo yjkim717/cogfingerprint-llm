@@ -1,5 +1,0 @@
-Year: 2020
-Author: nightlovell12
-URL: https://www.reddit.com/r/buildapc/comments/j119dy/quick_question_about_my_new_graphics_card/
-
-Hey guys i have a amd 570 rn and just got my rx 5700 xt in, do i need to install the new graphics drivers before or after i put it in? Sorry im new to all of this, so if its a dumb question sorry in advance haha

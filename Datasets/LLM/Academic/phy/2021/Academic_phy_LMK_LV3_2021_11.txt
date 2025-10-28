@@ -1,4 +1,0 @@
-Title: Thermodynamic Constraints on Chaotic Dynamics: A Hamiltonian Perspective
-
-Abstract:
-In 2021, the study of chaotic systems remains an active area of research. We investigate the chaos energy bound conjecture, positing that the Lyapunov exponent's growth is linearly bounded by total energy in high-energy regimes. By analyzing out-of-time-order correlators within Hamiltonian mechanics, we establish a thermodynamic consistency framework that supports this conjecture. Our results demonstrate that known chaotic systems adhere to this bound, reinforcing the conjecture's validity. This work contributes to the understanding of chaotic dynamics, highlighting the intricate relationship between energy, Lyapunov exponents, and thermodynamic principles.

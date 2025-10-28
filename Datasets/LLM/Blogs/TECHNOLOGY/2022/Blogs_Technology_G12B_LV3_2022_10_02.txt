@@ -1,9 +1,0 @@
->## The Ghosts of Gear Past (and a Windows Revival!)
-
-Okay, fellow musicians, let's be honest – we've all been there. You snag a sweet piece of gear, visions of sonic glory dancing in your head, only to be met with a frustrating wall of incompatibility. That's precisely what happened to me recently with my resurrected Line 6 Pod XT.
-
-I was so excited to dust this thing off and rediscover the magic, especially the legendary "Big Bottom" amp simulation – seriously, that bass tone is *chef's kiss*. But 2022 macOS? Forget about it. The drivers were a nightmare, the software refused to install, and I spent a solid afternoon wrestling with it. 
-
-It felt like battling a digital ghost from a bygone era. Finally, out of sheer desperation (and a growing pile of frustration), I pulled out my old Windows 10 machine. And wouldn't you know it? Everything *just worked*. 
-
-It’s a bit of a throwback, needing a separate computer just for this one piece of gear, but hey, at least I'm getting that Big Bottom sound! Anyone else dealing with legacy gear and the quirks of modern operating systems? Share your stories in the comments – misery loves company, right?

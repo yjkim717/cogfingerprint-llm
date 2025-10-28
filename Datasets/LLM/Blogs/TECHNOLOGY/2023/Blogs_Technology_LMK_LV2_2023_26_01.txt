@@ -1,1 +1,0 @@
-"Revisiting my Linux experiment: I once bought an MSI MEG Ace X570 for GPU passthrough, but it didn't quite work out. Now, I'm selling it. Reflecting on this journey, I'm reminded that tech endeavors often involve trial and error - and sometimes, it's okay to admit defeat and move on."

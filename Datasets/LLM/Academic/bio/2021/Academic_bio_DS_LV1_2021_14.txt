@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-Intracellular transport is a complex process governed by the dynamic interplay of cargo, molecular motors, and the viscoelastic cytoskeletal network. While the anomalous diffusion of intracellular cargos is well-established, a comprehensive understanding of the underlying physical mechanisms within heterogeneous populations remains elusive. Here, we quantitatively analyze the trajectories of fluorescently labeled endosomes in living cells, employing mean squared displacement (MSD) analysis and velocity auto-correlation functions. Our results reveal that both slow and fast-moving endosome subpopulations exhibit heterogeneous fractional Brownian motion (FBM). Crucially, we identify distinct local anomalous diffusion exponents (α) and diffusion coefficients (D) between these populations, indicating differing modes of engagement with the cytoskeletal environment. This persistent anti-correlated motion suggests that internal cytoskeletal dynamics, rather than simple thermal fluctuations, are the primary drivers of endosome transport heterogeneity. These findings, from 2021, provide a refined physical framework for understanding intracellular logistics and its dysregulation in disease.

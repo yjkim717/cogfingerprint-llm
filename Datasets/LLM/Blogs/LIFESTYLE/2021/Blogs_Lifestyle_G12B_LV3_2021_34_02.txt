@@ -1,9 +1,0 @@
-## The Beast That Wouldn't Cooperate (and What It Taught Me About Patience)
-
-Okay, so maybe "beast" is a bit dramatic, but my 2001 Ford F350 with the 7.3L diesel definitely felt like one this past month. It started with a weird hesitation, a complete loss of throttle response whenever the glow plugs kicked in. Now, I’m no mechanic, but I know enough to be dangerous, and I *really* wanted to figure this out myself.
-
-It became a bit of an obsession, honestly. Hours spent researching online forums, watching YouTube videos, and crawling under the truck in the drizzling rain of a 2021 autumn. I replaced glow plugs, tested the PCM, even wrestled with the dreaded ICP sensor and its harness. Each dead end felt like a punch to the gut. 
-
-Turns out, it *was* the ICP sensor harness, a tiny, brittle piece of wiring causing a massive headache. The fix was relatively simple, but the journey… the journey was a lesson in patience. It reminded me that sometimes, the biggest challenges aren't about brute force, but about methodical troubleshooting and accepting that you might not have all the answers right away. 
-
-And you know what? That applies to more than just diesel engines. It applies to life. Sometimes you just gotta keep digging, keep learning, and trust that you’ll eventually find your way. Now, if you’ll excuse me, I’m going for a drive. A *responsive* drive.

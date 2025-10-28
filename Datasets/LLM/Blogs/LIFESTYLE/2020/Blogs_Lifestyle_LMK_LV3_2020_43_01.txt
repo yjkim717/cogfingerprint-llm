@@ -1,9 +1,0 @@
-As I sat down to think about my experience with web development in 2020, I couldn't help but wonder: do we really need routing in our non-trivial web applications? As someone who's worked extensively with Single Page Applications (SPAs) and React, I've often found myself questioning the necessity of this fundamental concept.
-
-At first glance, routing seems like an essential part of web development. It helps us navigate between different views or pages within an application, creating a seamless user experience. But, as I reflected on my own projects, I realized that I've often relied on routing out of habit rather than necessity.
-
-In SPAs, the entire application is loaded on a single page, and React makes it easy to manage state changes and updates without requiring a full page reload. So, in many cases, routing can feel like an added layer of complexity that doesn't necessarily enhance the user experience.
-
-As I pondered this, I began to see parallels between routing in web development and the way we navigate our daily lives. Just as a well-designed application can guide users through a series of steps, a clear plan and structure can help us navigate our own daily routines. By streamlining our workflows and eliminating unnecessary detours, we can create a more seamless and efficient experience – both online and offline.
-
-In the end, I realized that routing is just a tool – and like any tool, its value lies in how we use it. By being mindful of when and how we apply routing, we can create more intuitive and user-friendly applications that, in turn, inspire us to simplify and streamline our own lives.

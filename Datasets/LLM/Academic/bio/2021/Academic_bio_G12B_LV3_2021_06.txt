@@ -1,8 +1,0 @@
->Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-The oxygen evolution reaction (OER) represents a critical bottleneck in numerous electrochemical energy conversion and storage technologies. This study investigates the influence of surface-confined carboxylate ligands on the OER electrocatalytic performance of hybrid catalysts comprised of metal-organic frameworks (MOFs) and nickel-iron layered double hydroxides (NiFe-LDHs). Our findings demonstrate that the presence of carboxylate ligands, acting as surface modifiers, fundamentally alters the electronic structure and proton transport characteristics of the composite material. Specifically, we observe that surface-adsorbed carboxylates induce a favorable electron redistribution within the NiFe-LDH active sites, leading to a downward shift in the d-band center – a key descriptor correlating with enhanced catalytic activity. Density functional theory calculations corroborate these experimental observations, revealing facilitated proton transfer pathways mediated by the carboxylate functionalities. This mechanism accelerates the formation of key OER intermediates and lowers the activation energy barrier for oxygen evolution. The strategic incorporation of carboxylate ligands within MOF/NiFe-LDH architectures presents a promising avenue for designing high-performance, earth-abundant OER electrocatalysts, contributing to the development of sustainable energy solutions.
-
-
-

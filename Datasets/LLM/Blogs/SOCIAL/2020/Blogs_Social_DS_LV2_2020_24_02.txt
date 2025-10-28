@@ -1,5 +1,0 @@
-Looking back at the spring of 2020, when the world felt like it was holding its breath, I found myself drawn to a strange digital campfire: a new subreddit dedicated to predicting the stock market. It was a chaotic time, and the market was a wild rollercoaster none of us had chosen to ride.
-
-The idea was simple yet profound. What if, instead of relying on a single "expert," we pooled our collective observations? We'd share news snippets, gut feelings about consumer behavior, and odd trends we spotted. A machine learning model would then sift through our chatter, looking for the signal in our collective noise.
-
-It felt less like financial analysis and more like a social experiment. In a time of intense isolation, we were building something together, trying to find order and maybe even a little wisdom, in our shared uncertainty. It was a humble, powerful reminder that we’re smarter together than we are alone.

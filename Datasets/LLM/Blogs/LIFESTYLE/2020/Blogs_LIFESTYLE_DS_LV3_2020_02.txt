@@ -1,9 +1,0 @@
-It’s funny how a global slowdown made me speed up in the most unexpected ways. Stuck at home in 2020, the four walls of my apartment started to feel smaller each day. My saving grace? A pile of Raspberry Pis and a stubborn desire to finally understand Kubernetes.
-
-You see, I’d been running a few Docker containers for years—a little media server here, a notes app there. They were my digital pets. But the isolation made me ambitious. I wanted a cluster. A tiny, buzzing data center on my desk, built from credit-card-sized computers.
-
-Let me tell you, the journey was humbling. I quickly learned that the real magic—and the real headache—isn’t just in getting the software running; it’s in the connective tissue. Networking. I spent an entire weekend just trying to wrap my head around VLANs, segmenting my little digital kingdom so my smart lights wouldn’t chatter with my file server. It felt less like IT and more like urban planning for a miniature city.
-
-Then came the storage question. I had terabytes of family photos and movie files. An old external hard drive wouldn't cut it. So, I ventured into the world of NFS, setting up a central storage repository that all my tiny nodes could access. The first time a pod spun up on one Pi and seamlessly read data from another, it was a genuine eureka moment. It wasn't just about technology; it was about creating a resilient, interconnected system.
-
-This project became my pandemic meditation. It was no longer about escaping the confines of my home, but about building a more interesting world within it. Tinkering with this small-scale enterprise stack taught me about patience, structure, and the quiet satisfaction of making scattered pieces work in harmony. My lifestyle didn’t change by going out, but by building in.

@@ -1,2 +1,0 @@
-Input: A user is troubleshooting a customization issue with their BASH prompt in Pop OS, encountering an unexpected user@prompt display despite modifying their .bash_profile.
-Output: Remember that frustrating feeling of tweaking something, only for it to stubbornly revert? Like trying to nail a perfect shot in a 2020 tournament – you adjust your stance, your grip, but the result’s still off. It’s a reminder to keep experimenting, keep learning, and sometimes, just start fresh.

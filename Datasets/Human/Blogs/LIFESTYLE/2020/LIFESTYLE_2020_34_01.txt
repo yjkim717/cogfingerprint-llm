@@ -1,5 +1,0 @@
-Year: 2020
-Author: merc123
-URL: https://www.reddit.com/r/3Dprinting/comments/k3ijb1/enclosures_and_pla/
-
-I have a Creator Pro 2 and it says with PLA to leave the door open. I'd like to cut the fan noise down some and close the door. According to my iPhone it cuts it about 3db which is pretty significant really. I'm not understanding exactly why the door needs to be open; ambient temps inside the enclosure too hot, material cooling, etc. If it's just a matter of blowing cool air into the enclosure, my idea was to create a door handle filler (see below) and make a fan duct around the side of the machine. I have some old PC fans laying around and could get them connected to an external power source and switch to blow cooler air into the enclosure with the door closed creating ventilation. Would it work?

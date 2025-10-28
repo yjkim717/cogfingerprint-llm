@@ -1,5 +1,0 @@
-Year: 2021
-Author: Durahl
-URL: https://www.reddit.com/r/klippers/comments/qhwq6f/about_setting_up_pressure_advance/
-
-I've been using Klipper for a while now on my 350 **Voron 2.4** and among others have been doing the ADXL345 Resonance Calibration and Pressure Advance Tuning - The latter has always kind of struck me as an odd thing to set up because of the values to be set in the Slicer. According to the Manual we're supposed to use "*high speed (eg, 100mm/s)*" for the testing which sounds reasonable if I'd usually be 3D Printing at speeds of like **sub** 100mm/s. That though is, to put it mildly, pretty darn slow on a Voron where most of *my* speeds are situated in the **250-350mm/s** ( can't go any higher because the prints will not be dimensionally accurate anymore ) Are we, for the PA Tuning, actually supposed to be using *our* high speeds we generally would like to print with ( in my case 3-400mm/s ) to get a more accurate representation on the Square Tower we're using for the assessment or is it strictly those 100mm/s? 🤔

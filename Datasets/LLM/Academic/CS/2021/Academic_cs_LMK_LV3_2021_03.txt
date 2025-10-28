@@ -1,4 +1,0 @@
-Title: Approximation Algorithms for Pandora's Box Problem under Correlated Distributions
-
-Abstract:
-We investigate the Pandora's Box problem, a classic stochastic optimization problem, under correlated distributions. By establishing an approximation-preserving equivalence with the Uniform Decision Tree problem, we derive a novel approximation algorithm that leverages the min-sum set cover framework. Our algorithm achieves a guaranteed approximation ratio, improving upon existing solutions. Furthermore, we demonstrate the robustness of our approach by analyzing its performance under various correlated distribution settings. Our results contribute to the understanding of stochastic optimization problems and provide a foundation for future research in this area. Published: 2021.

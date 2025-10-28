@@ -1,3 +1,0 @@
-Here's an original abstract:
-
-"Unveiling the mechanisms of oxygen evolution reaction (OER) is crucial for efficient energy conversion. In 2022, research highlights the pivotal role of perovskite catalysts' surface structure and lattice oxygen oxidation in enhancing OER activity. Specifically, surface Fe sites and Sr vacancies modulate the redox properties, facilitating lattice oxygen oxidation and boosting OER performance. This study elucidates the intricate interplay between surface architecture and oxygen electrochemistry, providing insights into designing high-performance perovskite catalysts."

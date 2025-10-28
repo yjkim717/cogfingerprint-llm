@@ -1,1 +1,0 @@
-As a video editor in 2024, my workflow was a mess of tiny project files and massive 4K clips. My old SATA SSD groaned under the pressure. On a whim, I tried using a sliver of my RAM as a cache for the small stuff and a speedy NVMe drive for the heavy lifting. The difference wasn't just technical—it gave me back my creative flow, turning frustrating lag into seamless editing.

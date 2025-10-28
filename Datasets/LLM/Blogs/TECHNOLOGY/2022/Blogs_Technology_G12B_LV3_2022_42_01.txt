@@ -1,5 +1,0 @@
-## The Web App Width Woes: A React Native Developer's Tale (and a Plea for Simplicity)
-
-Okay, let's be honest, 2022 has been *the* year I've wrestled with responsive design in React Native. Specifically, getting my Expo-powered app to play nice on the web. I'm using Drawer Navigation, which is fantastic for mobile, but on a larger screen? Suddenly, my content feels crammed, desperately needing some breathing room. 
-
-I’m chasing that elusive Twitter/Telegram feel – those subtle left and right margins that give everything a clean, spacious look. It shouldn’t be this hard, right? I’m searching for a standard, reliable way to achieve this. Anyone else battling similar width issues with React Native Web? Let's share strategies – I'm all ears!

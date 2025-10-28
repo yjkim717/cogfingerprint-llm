@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-Intracellular transport is a complex, heterogeneous process critical to cellular function, yet quantitative analysis of the dynamics of endocytic organelles remains challenging due to the stochastic nature of their motion and the brevity of experimental trajectories. To address this, we developed a deep learning-based neural network framework capable of classifying the diffusional states of intracellular cargo. Our model leverages the principles of fractional Brownian motion, utilizing the Hurst exponent as a key physical descriptor to characterize the anomalous diffusion regimes present within short tracks. This approach enables the dynamic segmentation of trajectories, precisely identifying transitions between directed, confined, and passive transport states without a priori assumptions. The method provides a robust, high-resolution tool for deciphering the underlying mechanisms of intracellular trafficking, offering significant insights into cargo-specific transport regulation in living cells.

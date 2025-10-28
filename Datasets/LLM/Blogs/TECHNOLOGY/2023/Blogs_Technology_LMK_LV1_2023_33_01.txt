@@ -1,9 +1,0 @@
-**Taming the SSL Beast in My Homelab**
-
-As I sat in front of my home lab setup, staring at the rows of humming servers and blinking routers, I couldn't help but feel a sense of pride. My little corner of the internet was finally starting to take shape. But, as I soon discovered, with great power comes great complexity. My latest hurdle? Getting SSL certs to work with my Nginx Proxy Manager (NPM) and Duck DNS.
-
-I've been using NPM to manage my home lab's services, and it's been a game-changer. But, when I tried to obtain SSL certs using Let's Encrypt, things got hairy. My services were exposed to the internet via Duck DNS, but NPM refused to play nice with the certs. I spent hours wrestling with configuration files, DNS settings, and Let's Encrypt's rate limits.
-
-The breakthrough came when I realized I was overcomplicating things. A simple tweak to my Duck DNS settings, combined with a more nuanced understanding of NPM's configuration options, got the certs working in no time. My services were now secure, and I could finally breathe a sigh of relief.
-
-The experience was a humbling reminder that, even in 2023, setting up a secure home lab can be a challenge. But, with persistence and a willingness to learn, even the most daunting tasks can be tamed. If you're struggling with similar issues, take heart – you're not alone. And, if you're feeling adventurous, join me in the world of home labs, where the rewards are well worth the frustrations.

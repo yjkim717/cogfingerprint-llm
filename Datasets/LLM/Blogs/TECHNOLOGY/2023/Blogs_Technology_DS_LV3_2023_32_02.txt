@@ -1,5 +1,0 @@
-It’s 2023, and I’m still haunted by that moment when a simple network change brought my entire NAS and hypervisors to their knees. One minute, everything was humming along—virtual machines running, storage accessible—and the next, silence. Just a dropped connection, but it felt like the digital floor had vanished beneath me.
-
-That’s when I dove headfirst into the world of redundant networking. I knew I needed a setup that wouldn’t flinch during upgrades or failures, something both affordable and manageable. My journey led me through switch redundancy and rethinking my whole network topology. It wasn’t just about adding extra cables; it was about building resilience, creating pathways so that if one route faltered, another stood ready.
-
-Now, with redundancy in place, I can breathe easier. My NAS and SAN stay online, my hypervisors stable, even during maintenance. It’s a lesson in foresight—because in tech, as in life, it’s not about avoiding change, but building a foundation strong enough to handle it.

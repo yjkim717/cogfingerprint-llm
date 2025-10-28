@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, written with a formal tone and adhering to the specified constraints:
-
-**Abstract**
-
-Intracellular transport of endosomes is increasingly recognized as a complex process deviating from classical Brownian motion. This study (2021) investigates the anomalous diffusion characteristics of endosomes, partitioning them into distinct subpopulations exhibiting subdiffusive and superdiffusive behaviors. Our analysis reveals a spectrum of local anomalous exponents and generalized diffusion coefficients within each group, suggesting that a heterogeneous fractional Brownian motion (fBM) model provides a more accurate description than traditional diffusion models. These findings highlight the inherent heterogeneity of the intracellular environment and its profound impact on endosomal dynamics, potentially influencing cellular signaling and overall physiological function.

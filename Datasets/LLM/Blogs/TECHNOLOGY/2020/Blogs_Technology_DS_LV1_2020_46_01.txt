@@ -1,5 +1,0 @@
-It’s 2020, and I’m staring at my screen, wondering how to monitor a new child domain halfway across the world in APAC. The network team tells me there’s a two-way transitive trust in place—great, but that doesn’t make the distance any less intimidating.
-
-Do I spin up a whole new SCOM management group, with all the overhead that entails? Or do I lean on gateway servers to bridge the gap? I remember thinking: in tech, sometimes the hardest part isn’t the "how," but the "why." Why complicate things when simplicity might serve just as well?
-
-In the end, I chose gateways. They felt like extending a hand rather than building a new house. And you know what? It worked. Sometimes, the most elegant solutions are the ones that connect, not divide.

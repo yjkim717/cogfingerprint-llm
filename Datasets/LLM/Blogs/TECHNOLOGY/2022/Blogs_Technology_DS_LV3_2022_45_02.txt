@@ -1,1 +1,0 @@
-As a developer in 2022, I wanted to parse my custom DSL into WebAssembly without messy string manipulation. I dreamed of a Rust library that could safely generate WASM IR using structured opcodes—something clean and reliable. It felt like searching for a trustworthy guide in a dense forest, hoping to build something meaningful without getting lost in the weeds.

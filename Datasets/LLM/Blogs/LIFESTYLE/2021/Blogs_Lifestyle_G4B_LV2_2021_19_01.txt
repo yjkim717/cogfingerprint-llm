@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft based on your summary and instructions:
-
----
-
-**The Great Component Anxiety of 2021**
-
-Remember that feeling? Late 2021, staring at a mountain of PC parts, utterly paralyzed? I was there. I was building my first desktop, convinced I needed *everything*, and utterly baffled by the LGA1700 thing. It felt like a secret language, a hurdle just to get a decent CPU cooler.  Turns out, a little research and a Corsair AIO solved it all.  It’s funny how a simple build can trigger a surprising amount of anxiety – a tiny reminder that sometimes, the biggest challenges are just in our own heads.

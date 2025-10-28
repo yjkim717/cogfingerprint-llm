@@ -1,3 +1,0 @@
-## Lost in Translation (and Email Marketing!)
-
-It’s 2021, and we’re all trying to be more global, right? I was wrestling with how to personalize our Shopify store's Klaviyo emails – specifically, how to automatically tag customers based on their language preference. Seems simple, but it's surprisingly tricky! It highlighted how much tech still needs to catch up to truly seamless, multilingual experiences. A little automation goes a long way, though.

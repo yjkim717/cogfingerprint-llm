@@ -1,5 +1,0 @@
-Year: 2022
-Author: Wobblycogs
-URL: https://www.reddit.com/r/UKPersonalFinance/comments/wb8hav/are_there_any_standard_classification_codes_for/
-
-A while back I wrote a little application to scrape my transaction records from my banks website (they are stuck in the dark ages and there's no download option). I would like to classify each transaction with some sort of code / tag so that I can see spending by type over time. Is there a standard for classifications like this even if it's a de facto standard? Before I go and code something up that does this, what do people use to track their spending across multiple accounts? I've had a look around and all the solutions seem far more involved than I want. What I have at the moment is a database and I issue SQL queries against it. That gets boring quickly though. Thanks

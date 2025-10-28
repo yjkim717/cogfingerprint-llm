@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The development of high-performance dielectric metasurfaces for the ultraviolet (UV) spectral regime has been impeded by material limitations, specifically optical losses and fabrication challenges. This work demonstrates that tantalum pentoxide (Ta₂O₅) is a preeminent material platform for overcoming these barriers. We present the design and nanofabrication of Ta₂O₅-based metasurfaces, engineered to function as efficient phase-gradient metagratings. A critical advancement is the optimization of a highly anisotropic reactive ion etching process, which enables the realization of high-aspect-ratio, subwavelength nanostructures with smooth sidewalls and minimal line-edge roughness, a prerequisite for low-loss operation. Spectroscopic characterization confirms that these metasurfaces achieve experimental diffraction efficiencies exceeding 80% for targeted wavelengths within the near-UV spectrum (350-400 nm), a performance that aligns closely with numerical simulations. Furthermore, we leverage the tailored dispersion properties of these structures to demonstrate dynamic structural color generation in the visible range, controlled via the incident angle of illumination. These findings establish Ta₂O₅ as a versatile and scalable material for advanced UV nano-optics, with immediate applications in compact spectroscopy, secure encoding, and high-resolution imaging systems.

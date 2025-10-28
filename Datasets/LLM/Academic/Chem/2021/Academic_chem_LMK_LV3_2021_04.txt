@@ -1,4 +1,0 @@
-Title: Non-Markovian Dynamics in Vibrational Strong Coupling: A Theoretical Framework for Polariton Chemistry
-
-Abstract:
-In 2021, the field of polariton chemistry witnessed significant advancements in understanding vibrational strong coupling (VSC) effects on ground-state reactivity. This work presents a theoretical framework attributing VSC-induced modifications to non-Markovian dynamics and dynamical caging. By incorporating the cavity radiation mode into the system-bath Hamiltonian, we demonstrate that non-Markovian effects significantly influence the reaction rate constant. Our results provide a mechanistic understanding of VSC's impact on chemical reactivity, shedding light on the underlying principles governing polariton chemistry and offering a robust theoretical foundation for future experimental investigations.

@@ -1,5 +1,0 @@
-Year: 2020
-Author: supernasty
-URL: https://www.reddit.com/r/pcmasterrace/comments/j0jfri/do_lg_c9s_support_gsync_at_4k_120hz_hdmi_21/
-
-I just got my 3080 set up and am running HDMI 2.1, but once I changed my resolution to 4K 120hz my G-Sync enable option disappeared via the NVIDIA control panel. Does this not exist at this refresh rate? I can’t seem to get it to appear again no matter what I do. Been at it for hours

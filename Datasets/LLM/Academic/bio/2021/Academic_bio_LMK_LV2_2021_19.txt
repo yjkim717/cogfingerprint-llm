@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract in the field of bioinorganic chemistry/materials science:
-
-Title: Unveiling the Role of Carboxylate Ligands in Enhancing Oxygen Evolution Reaction Electrocatalytic Activity in Metal-Organic Frameworks and Layered Double Hydroxides
-
-Abstract:
-The development of efficient electrocatalysts for the oxygen evolution reaction (OER) is crucial for sustainable energy conversion. In this study, we investigate the role of carboxylate ligands in enhancing the OER electrocatalytic activity of metal-organic frameworks (MOFs) and layered double hydroxides (LDHs). Using a combination of spectroscopic techniques and density functional theory (DFT) calculations, we reveal the underlying mechanisms by which carboxylate ligands modulate the electronic structure and surface properties of MOFs and LDHs. Our results demonstrate that the strategic incorporation of carboxylate ligands can significantly enhance the OER electrocatalytic activity of these materials. These findings provide valuable insights into the design of high-performance electrocatalysts for energy-related applications. (2021)

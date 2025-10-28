@@ -1,8 +1,0 @@
-Author: A. Kasprzak
-Title: The State-of-the-Art Mechanisms and Antitumor Effects of Somatostatin in Colorectal Cancer: A Review
-Paper ID: 5dc48cc88223eef37dacfb99bccc55776d266a64
-Year: 2024
-Author Index: 2
-
-Abstract:
-Somatostatin, a somatotropin release inhibiting factor (SST, SRIF), is a widely distributed multifunctional cyclic peptide and acts through a transmembrane G protein-coupled receptor (SST1-SST5). Over the past decades, research has begun to reveal the molecular mechanisms underlying the anticancer activity of this hormonal peptide. Among gastrointestinal tract (GIT) tumors, direct and indirect antitumor effects of SST have been documented best in gastroenteropancreatic neuroendocrine tumors (GEP-NETs) and less well in non-endocrine cancers, including sporadic colorectal cancer (CRC). In the latter, the signaling pathways involved in the antitumor function of SST are primarily MAPK/ERK/AKT and Wnt/β–catenin. Direct (involving the MAPK pathway) and indirect (VEGF production) antiangiogenic effects of SST in CRC have also been described. The anti-inflammatory role of SST in CRC is emphasized, but detailed molecular mechanisms are still being explored. The role of SST in tumor genome/tumor microenvironment (TME)/host’s gut microbiome interactions is only partially known. The results of SST analogues (SSAs)’ treatment of sporadic CRC in monotherapy in vivo are not spectacular. The current review aims to present the state-of-the-art mechanisms and antitumor activity of endogenous SST and its synthetic analogues in CRC, with particular emphasis on sporadic CRC.

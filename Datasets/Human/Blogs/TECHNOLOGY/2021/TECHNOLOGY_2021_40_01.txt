@@ -1,5 +1,0 @@
-Year: 2021
-Author: gman1230321
-URL: https://www.reddit.com/r/linuxquestions/comments/ojh7zy/any_suggestions_for_a_tiling_wm/
-
-I tried DWM and I rly liked the hot keys and tiling but i felt like it was a bit too simplistic for me. I really want a WM that can function like DWM but is a bit more modern, even if it has some “bloat”. I just want some more built in features that I don’t have to spend an entire weekend researching and implementing myself. I see the appeal of that, but it’s just not for me. I want something that just works. You know, little things like a system clock, maybe even RAM and CPU usage on some sort of status bar. And generally I just kinda want something that looks a bit more modern. I don’t really care if it’s a fork or patch of DWM, or a completely different WM, but any suggestions would be great. Thanks!

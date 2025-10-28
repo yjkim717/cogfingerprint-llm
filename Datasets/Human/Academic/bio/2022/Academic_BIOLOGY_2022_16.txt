@@ -1,8 +1,0 @@
-Author: T. Nakazawa
-Title: Introducing multiple-gene mutations in Pleurotus ostreatus using a polycistronic tRNA and CRISPR guide RNA strategy.
-Paper ID: cd6daf3f33832db35092bc25684d5fae34f62c90
-Year: 2022
-Author Index: 16
-
-Abstract:
-The white-rot fungus Pleurotus ostreatus is an agaricomycete that is frequently used in molecular genetics studies as many useful tools are applicable to the fungus. In particular, efficient gene targeting using homologous recombination and CRISPR/Cas9 enables the introduction of a mutation in the gene of interest for functional analysis. Multiple genes encoding various lignocellulose-degrading enzymes are predicted to be present in the genome; therefore, analyses of multiple-gene mutants are required to elucidate the mechanisms underlying lignocellulose degradation by P. ostreatus. Conventional tools for generating multiple-gene mutations in P. ostreatus are laborious and time-consuming. Therefore, more efficient and practical methods are needed. In this study, we introduced CRISPR/Cas9-assisted multiple-gene mutations using a polycistronic tRNA and CRISPR guide RNA approach. The frequency (triple-gene mutation in fcy1, vp2, and 62 347) was only 3.3% when a tetracistronic tRNA-sgRNA containing four different sgRNAs targeting fcy1, vp2, vp3, or 62 347 was expressed. It increased to 20% (triple-gene mutation in vp1, vp2, and vp3) after a tricistronic tRNA-sgRNA was expressed with replaced/modulated promoter and tRNA sequences. This study demonstrated, for the first time, the applicability of a strategy to induce multiple-gene mutations in P. ostreatus in a transformation experiment.

@@ -1,8 +1,0 @@
-)
-## What If Our Tech Had a Gender Swap?
-
-It's funny how a random Reddit thread can get you thinking, isn't it? I stumbled upon one the other day discussing what *Mortal Kombat* would be like if all the characters were gender-swapped. Sounds silly, right? But it got me pondering something deeper about technology.
-
-We build these tools, these digital extensions of ourselves, often without really questioning the underlying assumptions baked into them. Are our algorithms inherently masculine in their drive for efficiency? Are our design aesthetics unconsciously reflecting a particular, often male, gaze? 
-
-It's a thought experiment, like that *Mortal Kombat* thread. But maybe, just maybe, imagining a "gender swap" for our tech – re-thinking its purpose, its design, its very function – could lead to a more inclusive and ultimately, more human future. What do you think?

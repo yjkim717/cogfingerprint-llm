@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a university researcher and formatted for a 2020 publication:
-
-**Abstract**
-
-The oxygen evolution reaction (OER) remains a critical bottleneck in electrochemical water splitting, necessitating the development of efficient and robust electrocatalysts. This study investigates a novel surface modification approach for enhancing OER performance utilizing FeOOH nanocluster deposition onto a LaNiO₃ perovskite scaffold. Characterization revealed that the heterostructure facilitates lattice oxygen oxidation, a key mechanistic step, alongside a discernible weakening of Ni-O bonds within the LaNiO₃ framework. Consequently, the modified catalyst exhibits significantly improved OER activity and kinetics compared to the pristine perovskite. These findings highlight the potential of tailored nanostructure engineering to optimize OER catalysis through synergistic effects, contributing to advancements in sustainable energy technologies.

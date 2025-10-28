@@ -1,5 +1,0 @@
-## The Ghost in the Wiring: Bridging the Gap in an Old Home
-
-There's something wonderfully frustrating about living in a century-old house, isn't there? Charm and character abound, but modern tech? That’s a different story. I recently stumbled upon a fellow homeowner wrestling with a familiar problem: blazing-fast 500Gb fiber internet, but a router stuck downstairs. The solution? MoCA adapters! 
-
-It’s a clever trick, using existing coax cables to extend the network. Paired with a wireless access point upstairs, it’s a lifeline for a new home office. It just goes to show, sometimes the best tech solutions are hidden in plain sight, waiting to breathe new life into our historic spaces.

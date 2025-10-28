@@ -1,5 +1,0 @@
-Here’s an academic-style abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract**
-
-The formation of ices within complex astrophysical environments, specifically molecular clouds and protoplanetary disks, presents a compelling area for chemical investigation. Utilizing transmission electron microscopy (TEM) in 2021, this research explored the intricate relationship between ice morphology, composition, and substrate influence.  Analysis revealed that refractory grains exhibit markedly diverse crystalline structures, predominantly polyhedral carbon dioxide (CO2) and highly ordered polyhedral carbon monoxide (CO) ices. These distinct morphologies are demonstrably dependent on both the specific ice constituent and the nature of the underlying substrate.  Furthermore, the observed nano-crystalline CO2 structures suggest potential pathways for ice nucleation and growth under conditions prevalent in circumstellar disks.  Future work will focus on elucidating the kinetic mechanisms driving these phase transitions and their implications for the delivery of volatile compounds to nascent planetary systems.

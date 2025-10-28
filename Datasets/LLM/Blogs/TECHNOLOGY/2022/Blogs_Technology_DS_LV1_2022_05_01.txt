@@ -1,5 +1,0 @@
-It’s 2022, and I’m staring at my screen, wondering if my workshop paper at NeurIPS is “done” or just a draft in disguise. I poured weeks into it—ran the experiments, wrote it up, even got encouraging feedback. But now, the big question looms: should I leave it as a workshop piece or expand it for a main conference submission?
-
-In machine learning, the line feels blurry. Workshops foster lively discussion, but they don’t always carry the weight of a full conference publication. I’ve heard peers say, “Workshops are for works in progress,” yet seeing my ideas out there already makes me hesitate. Is it a final contribution or a stepping stone?
-
-Maybe that’s the beauty—it’s both. A chance to share early, refine later, and keep the conversation going. For now, I’ll let it breathe and see where the journey takes it next.

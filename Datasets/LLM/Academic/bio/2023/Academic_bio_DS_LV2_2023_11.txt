@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The progressive dysregulation of the plasma proteome is a hallmark of the aging process, yet a comprehensive, high-throughput characterization of these alterations is critical for defining robust biomarkers of biological age. This study leveraged the SomaScan® platform, an aptamer-based proteomic technology, to perform a large-scale analysis of plasma protein concentrations across a human cohort with a broad age distribution. Our investigation identified a signature of 273 plasma proteins whose expression levels are significantly associated with chronological aging. We developed a multivariate model based on this proteomic signature that accurately predicts chronological age in an independent validation set. Crucially, to assess its relevance to physiological aging, we validated this model in a cohort of exceptionally long-lived individuals, including centenarians. The model's predictions in this cohort demonstrated a significant deviation from their chronological age, indicating that this proteomic signature captures aspects of biological, rather than merely temporal, aging. These findings establish a high-fidelity proteomic clock that reflects systemic aging processes. The identified proteins, many implicated in inflammation, cellular senescence, and tissue homeostasis, provide a molecular framework for understanding the physiological decline associated with aging. This work provides a foundation for future research into mechanisms of aging and the evaluation of interventions aimed at modulating the human healthspan.
-
-**(Word Count: 199)**

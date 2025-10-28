@@ -1,7 +1,0 @@
-Okay, here’s an original academic abstract, formatted for a medical/food safety context, drawing upon the provided summary and incorporating the specified keywords and year:
-
-**Abstract**
-
-The escalating volume of post-consumer polyethylene terephthalate (PET) waste necessitates robust strategies for its effective and safe reintegration into food contact material applications.  European Food Safety Authority (EFSA) has recently published updated guidance (Regulation (EU) 2022/1616) emphasizing the critical role of rigorous process evaluation in mitigating potential risks associated with recycled PET. This review examines the evolving landscape of mechanical pet recycling for this purpose, specifically addressing the paramount importance of comprehensive decontamination protocols.  A structured safety assessment framework is proposed, prioritizing demonstrable removal of residual contaminants and potential migration pathways.  
-
-Central to this evaluation is the quantification of decontamination efficiency, moving beyond qualitative assessments to incorporate validated analytical techniques.  Furthermore, predictive modelling of dietary exposure, considering both acute and chronic scenarios, is advocated.  This necessitates detailed characterization of the recycled PET material, coupled with thorough toxicological evaluation.  Ultimately, adherence to EFSA’s guidelines represents a vital step towards ensuring consumer protection and fostering sustainable practices within the PET recycling sector.

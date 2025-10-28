@@ -1,5 +1,0 @@
-Year: 2024
-Author: Cantfrickingthink
-URL: https://i.redd.it/oejy5xoo9hlc1.jpeg
-
-Every time I try to print wall art or anything that requires supports, this issue occurs. I've been working on it for about three hours now. I even put in a new nozzle, but it still happens. However, when I printed the calibration cube, it worked just fine

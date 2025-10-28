@@ -1,5 +1,0 @@
-"Upgrading My Gaming Rig: A CPU Conundrum"
-
-As I sat in front of my trusty gaming PC, I couldn't help but feel a pang of frustration. With my Nvidia GeForce 2070 Super, I was expecting silky smooth performance, but some games were still stuttering. I turned to the usual suspects: RAM, GPU, and CPU. My Asrock H470 board was still going strong, but was my Intel i5 holding me back? I began to research a potential CPU upgrade.
-
-As I dove into the world of CPU benchmarks and motherboard compatibility, I realized that upgrading wasn't as straightforward as I thought. Would a new CPU even make a difference in gaming performance? And what about memory speed - would I need to upgrade that too? I'm still weighing my options, but one thing's for sure: I'm excited to breathe new life into my rig and get back to gaming.

@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, formatted for the CS field and adhering to the specified constraints:
-
-**Abstract**
-
-This paper introduces IndicBART, a novel sequence-to-sequence pre-trained model designed to address the challenges of low-resource Neural Machine Translation (NMT) and extreme summarization within the Indic language family. Developed in 2021, IndicBART incorporates transfer learning techniques to effectively model eleven Indic languages alongside English. Our experiments demonstrate that this compact multilingual model achieves competitive performance relative to significantly larger architectures, particularly when data scarcity presents a limitation. The findings highlight the efficacy of tailored pre-training strategies for improving cross-lingual transfer and facilitating advancements in NMT and summarization for under-represented linguistic contexts.

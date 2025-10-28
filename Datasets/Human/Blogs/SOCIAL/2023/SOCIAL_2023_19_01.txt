@@ -1,5 +1,0 @@
-Year: 2023
-Author: d0aflamingo
-URL: https://www.reddit.com/r/ClipStudio/comments/1506lp0/holding_shift_straight_line_not_working/
-
-Hello everyone, i remember Pressing shift in any brush would show a outline in straight line and you can move it freely in any direction to create it, however its not happinging anymore. Im on latest csp v2. What works is only putting a point, then holding shift then puttting the end point, csp joins both points and create a line. Can anyone tell me why option no.1 doesnt work now ? i've even changed the modifier key settings 'shift' trick

@@ -1,5 +1,0 @@
-Year: 2021
-Author: chewy747
-URL: https://www.reddit.com/r/sysadmin/comments/mund4b/can_someone_explain_the_difference_between_aruba/
-
-For Aruba 3810M switches I see 16.10.0013 and 16.09.0015 as the latest firmwares available for that model. But Im not sure what is the difference between them is. Are they difference release channels or something? Currently we are on 16.08.0009

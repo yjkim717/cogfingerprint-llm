@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Theoretical Foundations of Dynamic Benchmarking: Benefits, Limitations, and Future Directions
-
-Abstract:
-
-The proliferation of dynamic benchmarks has transformed the landscape of machine learning research, enabling the evaluation of models on evolving datasets and tasks. However, the theoretical underpinnings of dynamic benchmarking remain poorly understood. This paper initiates a rigorous study of dynamic benchmarking, with a focus on its benefits and limitations. We examine the interplay between model fitting, data collection, label noise, and hierarchical dependency in dynamic benchmarking settings. Our analysis reveals that dynamic benchmarking can mitigate label noise and promote adaptability in models, but is also susceptible to biases arising from data selection and hierarchical dependency. We establish theoretical bounds on the performance of dynamic benchmarking and discuss implications for the design of robust and reliable benchmarking protocols. Our findings provide a foundation for future research on dynamic benchmarking and its applications in machine learning. (2022)

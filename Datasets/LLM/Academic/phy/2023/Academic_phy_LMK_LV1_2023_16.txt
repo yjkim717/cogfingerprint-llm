@@ -1,4 +1,0 @@
-Title: Equivalence of Asymptotic Lorentz Generators in Einstein Gravity
-
-Abstract:
-In the framework of Einstein gravity, we investigate the asymptotic symmetry algebra, focusing on the interplay between Lorentz generators and Bondi-Metzner-Sachs supertranslations. Employing the Hamiltonian formalism, we examine two distinct approaches to redefine the Lorentz generators, ensuring their consistency with the asymptotic symmetry algebra. We rigorously prove the equivalence of these redefinitions, demonstrating that both yield identical algebraic structures. This result reinforces our understanding of the asymptotic symmetries in Einstein gravity, providing a robust foundation for further research in gravitational physics (2023).

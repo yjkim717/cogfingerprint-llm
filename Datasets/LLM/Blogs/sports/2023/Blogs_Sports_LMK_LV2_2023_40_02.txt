@@ -1,7 +1,0 @@
-**The Grinding Truth: My Zwift Hub Saga**
-
-As I rolled into the new year, 2023, I was excited to dive back into indoor cycling with my trusty Bianchi C-Sport bike and Zwift Hub trainer. But, little did I know, a frustrating saga was about to unfold. It started with a strange grinding noise and a nagging feeling that something was off. At first, I thought it was just a minor issue, but as the rides went on, the noise persisted, and I began to feel like I was fighting an uphill battle – or should I say, an uphill grind.
-
-As I dug deeper, I suspected that the problem lay with the cassette compatibility between my bike and the Zwift Hub. Specifically, I wondered if the cog sizes were the culprit. My bike has an 11-32 cassette, but was the Hub expecting something different? I started to tinker with the derailleur adjustment, trying to find the sweet spot, but the noise remained.
-
-After some research and troubleshooting, I discovered that the Zwift Hub is quite particular about its cassette compatibility. It seems that some cog sizes can cause issues, leading to that dreaded grinding noise. Armed with this new knowledge, I'm now on a mission to resolve the issue. Will I need to swap out my cassette or tweak my derailleur further? Only time will tell. One thing's for sure, though – I'll be back on the virtual roads, grinding (silently) in no time.

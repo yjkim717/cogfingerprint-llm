@@ -1,5 +1,0 @@
-Year: 2021
-Author: d0aflamingo
-URL: https://www.reddit.com/r/huion/comments/mraezh/kamvas_13_thunderbolt_extender_works_on_windows/
-
-So as we all know the issue with recessed port is we need to use huion cable. Since i live in India, cables cannot be returned once bought, only replaced. so i did not want to take any chance. I bought the huion one. It works fine when plugged direcly. Since i connect my laptops to my 50inch tv , i'd need an extender. So i got a reliable one (based on reviews). Kamvas 13 turns on but the driver doesnt detects the tablet on MacOS. On windows it works flawless. So it seems the extender does not have any problem. I need some help as i cant even now return the extender.

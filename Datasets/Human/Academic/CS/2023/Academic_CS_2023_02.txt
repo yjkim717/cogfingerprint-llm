@@ -1,8 +1,0 @@
-Author: Ilias Diakonikolas
-Title: Algorithmic High-Dimensional Robust Statistics
-Paper ID: bee2bd61abdc9307c04221fcb9bff0bf44f98b24
-Year: 2023
-Author Index: 2
-
-Abstract:
-Robust statistics is the study of designing estimators that perform well even when the dataset significantly deviates from the idealized modeling assumptions, such as in the presence of model misspecification or adversarial outliers in the dataset. The classical statistical theory, dating back to pioneering works by Tukey and Huber, characterizes the information-theoretic limits of robust estimation for most common problems. A recent line of work in computer science gave the first computationally efficient robust estimators in high dimensions for a range of learning tasks. This reference text for graduate students, researchers, and professionals in machine learning theory, provides an overview of recent developments in algorithmic high-dimensional robust statistics, presenting the underlying ideas in a clear and unified manner, while leveraging new perspectives on the developed techniques to provide streamlined proofs of these results. The most basic and illustrative results are analyzed in each chapter, while more tangential developments are explored in the exercises.

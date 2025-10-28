@@ -1,5 +1,0 @@
-Year: 2022
-Author: mikaball
-URL: https://www.reddit.com/r/rust/comments/svf0qm/rust_lib_to_generate_wasm_ir/
-
-Searched and didn't find any. Is there a rust lib to generate WASM IR in a safer manner? Like using "OpCode::Local\_Get(...)" instead of concatenating "local.get $value" into a string. My point is, I want to parse a DSL and generate the WASM file. I like to use "pest.rs \+ <gen lib>".

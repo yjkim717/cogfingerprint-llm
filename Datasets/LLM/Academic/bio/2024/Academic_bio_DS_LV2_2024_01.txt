@@ -1,5 +1,0 @@
-Here is a formal academic abstract based on the provided summary:
-
-**Abstract**
-
-The dynamics of DNA double-strand breaks (DSBs) are critical for understanding genomic instability following ionizing radiation. While non-homologous end-joining (NHEJ) is a primary repair pathway, the physical motion of breaks prior to ligation significantly influences repair fidelity. This study introduces a heterogeneous anomalous diffusion model to characterize DSB dynamics. We demonstrate that the motion is predominantly subdiffusive, accurately described by fractional Brownian motion, which confines breaks and promotes correct end-joining. However, this baseline subdiffusion is punctuated by rare, long-range movements that deviate from this pattern. These transient excursions substantially increase the probability of encounters between non-corresponding DNA ends, thereby facilitating misrepair and the formation of chromosomal translocations. Our findings establish a direct mechanistic link between the anomalous physical dynamics of DSBs and the biological outcome of repair, providing a quantitative framework to assess cancer risks associated with radiation exposure.

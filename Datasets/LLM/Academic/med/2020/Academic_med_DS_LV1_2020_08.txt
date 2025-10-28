@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Title:** The Hippo Pathway Effector YAP1 is a Master Regulator of Peritoneal Carcinomatosis and Stemness in Gastric Adenocarcinoma
-
-**Abstract**
-
-Peritoneal carcinomatosis (PC) represents the predominant pattern of metastatic spread in gastric adenocarcinoma (GC) and is a leading cause of mortality, with limited therapeutic options. The molecular drivers of this aggressive phenotype remain incompletely elucidated. This study investigates the role of the transcriptional coactivator YAP1, a key effector of the Hippo signaling pathway, in orchestrating GC peritoneal dissemination and tumorigenicity. Utilizing a panel of patient-derived xenograft (PDX) models established from malignant ascites, we demonstrate that YAP1 is consistently overexpressed and nuclear-localized in PC-derived tumors compared to primary GCs. Genetic and pharmacological inhibition of YAP1 significantly attenuated tumor burden in vivo and impaired the formation of peritoneal metastases. Mechanistically, we found that YAP1 directly promotes a cancer stem cell (CSC) state. YAP1 knockdown in GC cell lines and PDX-derived organoids led to a marked reduction in canonical CSC markers (e.g., CD44, ALDH1 activity) and abrogated tumorsphere-forming capacity. Furthermore, transcriptomic analysis revealed that YAP1 drives a pro-metastatic gene signature enriched for extracellular matrix remodeling and cell-migration pathways, crucial for peritoneal implantation. Our findings establish YAP1 as a critical oncogenic driver of PC in GC, functionally linking it to the maintenance of CSCs. These results position YAP1 and the Hippo pathway as promising therapeutic targets for a stratified intervention against metastatic gastric cancer, aiming to disrupt the CSC reservoir and prevent lethal peritoneal recurrence.

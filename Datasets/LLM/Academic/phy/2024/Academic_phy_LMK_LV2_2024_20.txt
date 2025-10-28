@@ -1,5 +1,0 @@
-Title: Conformal Freeze-In Dark Matter via Neutrino Portal Interactions
-
-Abstract:
-
-We investigate a novel framework for dark matter production through the conformal freeze-in mechanism, where a dark sector described by a conformal field theory (CFT) interacts with the Standard Model (SM) via the neutrino portal. The CFT, being a strongly coupled theory, is characterized by a set of primary operators that couple to the SM neutrinos, facilitating the production of dark matter. We demonstrate that the conformal freeze-in process can generate the observed dark matter relic abundance, while remaining consistent with existing experimental constraints. The conformal symmetry of the dark sector ensures that the dark matter production is governed by a limited set of parameters, making the framework predictive and testable. Our results highlight the potential of the neutrino portal as a probe of CFT-driven dark matter scenarios, offering a new avenue for exploring the interplay between dark matter and the SM in the context of 2024 particle physics research.

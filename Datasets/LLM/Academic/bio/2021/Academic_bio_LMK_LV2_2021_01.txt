@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Unraveling the Heterogeneity of Endosomal Motion: A Single-Particle Tracking Analysis
-
-Abstract:
-The intracellular transport of endosomes is a complex process governed by a multitude of factors, resulting in heterogeneous motion patterns. To elucidate the underlying dynamics, we analyzed endosome trajectories in eukaryotic cells using single-particle tracking. By segregating the trajectories into slow and fast moving ensembles, we investigated the anomalous diffusion characteristics of each subpopulation. Our analysis revealed that both ensembles exhibit subdiffusive behavior, well-described by fractional Brownian motion. The slow moving ensemble displayed more pronounced subdiffusion, indicative of a more constrained environment, whereas the fast moving ensemble showed a higher degree of persistence. Our findings provide new insights into the complex motion patterns of endosomes, shedding light on the intricate mechanisms governing intracellular transport. The results contribute to a deeper understanding of the spatiotemporal organization of endosomal trafficking in eukaryotic cells (2021).

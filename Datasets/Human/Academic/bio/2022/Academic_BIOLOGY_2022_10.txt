@@ -1,8 +1,0 @@
-Author: Fengchao Yu
-Title: MSBooster: improving peptide identification rates using deep learning-based features
-Paper ID: 43df9d34a14f2922ae8e34bc05390a9199097320
-Year: 2022
-Author Index: 10
-
-Abstract:
-Peptide identification in liquid chromatography-tandem mass spectrometry (LC-MS/MS) experiments relies on computational algorithms for matching acquired MS/MS spectra against sequences of candidate peptides using database search tools, such as MSFragger. Here, we present a new tool, MSBooster, for rescoring peptide-to-spectrum matches using additional features incorporating deep learning-based predictions of peptide properties, such as LC retention time, ion mobility, and MS/MS spectra. We demonstrate the utility of MSBooster, in tandem with MSFragger and Percolator, in several different workflows, including nonspecific searches (immunopeptidomics), direct identification of peptides from data independent acquisition data, single-cell proteomics, and data generated on an ion mobility separation-enabled timsTOF MS platform. MSBooster is fast, robust, and fully integrated into the widely used FragPipe computational platform.

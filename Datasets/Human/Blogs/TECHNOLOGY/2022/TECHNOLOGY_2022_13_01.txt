@@ -1,5 +1,0 @@
-Year: 2022
-Author: therealscooke
-URL: https://www.reddit.com/r/france/comments/rvuuwk/what_does_a_french_company_need_in_terms_of_info/
-
-Bonjour, Je suis un web développeur avec un auto-entreprise au Canada (sole proprietorship, avec une licence business), pas dans la France. Quelqu'un m'a demandé pour aider, mais il m'a aussi demandé sur mon business, et comment il peut payer. J'ai un compte Business avec wise.com, et aussie avec Stripe (mais c'est un compte particulier) et je peut donc recevoir des paiements en euros. Je n'ai pas un SIRET, bien sûr, parce que mon business est dans Canada. Alors, sur le reçu quel type d'info est necessaire? Il hésite à payer correctement, mais mon entreprise canadienne ne paie-t-elle pas de la même manière que tout autre achat en ligne (en dehors de l'UE) ? Merci!

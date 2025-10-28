@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on your summary and instructions:
-
----
-
-**Lost in the Blocks: Why I Spent Months Building a Minecraft Archive**
-
-It’s funny, isn’t it? In 2020, when everything felt… uncertain, I found myself utterly consumed by Minecraft. Not just playing, but obsessively archiving my builds and experimenting with theorycrafting. I built this little tool, “Constantiam,” to preserve everything – kits, maps, the whole chaotic mess. 
-
-Honestly, it took months.  There were frustrating bugs, late nights, and a whole lot of “echests” (don't ask!). But it wasn’t about the tool itself. It was about capturing a little piece of my creativity, a reminder of a strange, comforting escape.  What digital obsessions have you built around lately?

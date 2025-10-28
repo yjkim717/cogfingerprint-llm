@@ -1,5 +1,0 @@
- Here's a blog post draft based on your request:
-
-## The Ghost in the Machine (and a Very Frustrated Admin)
-
-Anyone else ever feel like your tech is actively fighting you? This week, I hit a wall. Attempting a clean macOS reinstall on an M1 MacBook Pro – a routine task, right? – turned into a frustrating battle with disk access. Apparently, Jamf and a stubborn kernel weren’t playing nice. After wrestling with "disk0" errors, I realized even the newest tech can throw curveballs. It’s a good reminder to breathe and remember that even seasoned admins face moments of digital bewilderment.

@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract based on the provided summary, suitable for a computer science conference or journal in 2024:
-
-**Abstract**
-
-The intersection of distribution learning and differential privacy remains a critical area of investigation. This work examines the limits of private learnability, specifically concerning distribution classes. We demonstrate the existence of a distribution class that is demonstrably learnable from a finite number of samples, yet provably resistant to learning under standard differential privacy constraints. This result directly contradicts a widely held conjecture, often referred to as the Ashtiani conjecture, which posited a fundamental trade-off between learnability and privacy. Our findings highlight the necessity for nuanced approaches to private distribution learning and suggest avenues for exploring alternative privacy mechanisms or modified learnability criteria.

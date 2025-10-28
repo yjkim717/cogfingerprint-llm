@@ -1,5 +1,0 @@
-As I sat down to code in my favorite C-like language in 2021, I couldn't help but wonder: are we making our syntax clearer or just more complicated? I was pondering the recent suggestions for new compound literal and cast syntax. On one hand, the intentions behind these proposals are good - to simplify our code and make it more readable. 
-
-However, as I dug deeper, I started questioning their potential clarity and usefulness. The more I read about it, the more I felt like we were just putting old wine in a new bottle. Take compound literals, for instance. While they do make the code more concise, they can also make it harder to understand for those not familiar with the syntax. And then there's the cast syntax - does the new proposal really make it more intuitive?
-
-As developers, we often get caught up in the excitement of new features and forget to consider the bigger picture. As we move forward, let's take a step back and ask ourselves: are we enhancing syntax clarity or just changing it for the sake of change? I'm eager to hear your thoughts - are these new syntax suggestions a step forward or a step back?

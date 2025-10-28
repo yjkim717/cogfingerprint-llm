@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The universal chaos bound, λ_L ≤ 2πT/ℏ, constrains quantum chaos at finite temperature but its implications for isolated systems with a well-defined energy, E, remain less explored. We derive a general **chaos energy bound** for classical and quantum systems governed by few-body **Hamiltonian mechanics**. By analyzing the energy dependence of **out-of-time-order correlators** (OTOCs), we demonstrate that the associated Lyapunov exponent, λ_L(E), scales at most linearly with energy in the high-energy limit: λ_L(E) ∝ E. This linear scaling is shown to be saturated by paradigmatic models like the inverted harmonic oscillator. Crucially, we establish the **thermodynamic consistency** of this bound by bridging the microcanonical and canonical ensembles, showing that the linear energy-bound implies the finite-temperature MSS bound. Our result provides a fundamental constraint on information scrambling and dynamical complexity in high-energy states, with implications for systems ranging from condensed matter to quantum gravity.
-
-(Word count: 149)

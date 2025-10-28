@@ -1,3 +1,0 @@
-It’s 2023, and I still find myself wrestling with C code, marveling at its raw power but wincing at its rough edges. Just last week, I spent hours untangling a naming collision that namespacing could have solved in seconds. And don’t get me started on manual resource cleanup—oh, for a simple 'defer' statement!
-
-It got me thinking: if we could rebuild C today, unshackled from legacy, what would we change? Better type safety? Modern error handling? It’s a thrilling thought experiment, one that reminds me why I fell in love with programming: the endless pursuit of crafting tools that not only work brilliantly but feel right in our hands.

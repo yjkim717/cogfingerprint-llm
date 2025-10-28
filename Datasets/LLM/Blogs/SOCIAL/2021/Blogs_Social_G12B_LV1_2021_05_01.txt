@@ -1,9 +1,0 @@
->## The Digital Disconnect: When Your Internet Just Doesn't *Get* You
-
-It's 2021, and we're all living increasingly online. Everything from connecting with family across the country to ordering groceries to, well, *everything* relies on a stable, speedy internet connection. So, imagine my frustration when mine decided to stage a constant rebellion. 
-
-I’m paying for a 600mbps plan – a number that sounds incredibly futuristic and capable. Yet, consistently, I'm getting around 30mbps. Thirty! It’s like trying to stream a movie through a garden hose. 
-
-The weirdest part? A quick router and modem restart would temporarily boost things back up, a fleeting moment of digital bliss before the slow crawl returned. I spent a solid afternoon troubleshooting, convinced I was doing something wrong. Turns out, it wasn't me. It was likely a combination of factors – maybe an outdated cable (thinking I need to invest in some Cat6!), or an issue with the provider. 
-
-It really highlighted how much we take for granted. That invisible connection that fuels our lives can be surprisingly fragile, and when it falters, it throws everything off. Anyone else battling the digital disconnect lately?

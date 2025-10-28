@@ -1,4 +1,0 @@
-Title: Quantum Dynamical Insights into Collective Vibrational Strong Coupling Regimes
-
-Abstract:
-In 2024, we investigate the impact of vibrational strong coupling (VSC) on chemical kinetics within optical cavities using advanced quantum dynamical methods. Focusing on the collective VSC regime, our study elucidates the cavity-modified reactivity by probing the intricate interplay between molecular vibrations and cavity photons. Through rigorous simulations, we demonstrate the significant influence of VSC on reaction rates and pathways, shedding light on the underlying mechanisms that govern cavity-modified chemical kinetics. Our findings provide a fundamental understanding of VSC's role in shaping molecular reactivity.

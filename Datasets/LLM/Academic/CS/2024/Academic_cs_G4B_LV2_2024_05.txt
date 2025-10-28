@@ -1,9 +1,0 @@
-Okay, here’s an academic-style abstract based on the provided summary, aiming for approximately 146 words and suitable for a 2024 publication in a computer science or related field:
-
----
-
-**Abstract**
-
-Algorithmic prediction techniques are increasingly employed for resource allocation, yet their efficacy remains contingent on underlying systemic conditions. This research investigates the limitations of prediction-centric approaches, demonstrating that their effectiveness diminishes substantially when societal inequality is elevated. Utilizing unit-level statistical analysis, we reveal a critical threshold: optimal performance of predictive models in resource allocation is only realized with both a substantial intervention budget and comparatively low levels of existing inequality. 
-
-Specifically, our findings highlight a non-linear relationship, where predictive accuracy plateaus and subsequently declines as inequality increases.  This suggests that biased data, inherent in highly unequal societies, compromises the reliability of algorithmic forecasts.  Consequently, the study advocates for a cautious implementation of algorithmic resource allocation, emphasizing the need for complementary strategies that directly address structural inequities alongside predictive modeling.

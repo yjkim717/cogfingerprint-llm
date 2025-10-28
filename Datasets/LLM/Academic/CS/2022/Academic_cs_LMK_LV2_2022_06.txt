@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Risk Management, Market Competition, and Bank Efficiency: An Empirical Analysis of Ownership Structure in Bangladeshi Commercial Banks
-
-Abstract:
-
-This study investigates the nexus between risk management, market competition, and efficiency in Bangladeshi commercial banks, with a particular focus on the moderating role of ownership structure. Employing a dynamic panel data approach and utilizing GMM estimators to address potential endogeneity concerns, we analyze a sample of 30 commercial banks operating in Bangladesh over the period 2010-2020. Our findings suggest that risk management and market competition significantly influence bank efficiency, with the impact varying across different ownership structures. Specifically, we observe that banks with higher risk-taking capacities and those operating in a more competitive market environment tend to exhibit improved efficiency. Moreover, our results indicate that state-owned banks outperform their private counterparts in terms of efficiency. The study's insights have important implications for policymakers and bank managers seeking to enhance the efficiency and stability of the Bangladeshi banking sector in 2022.

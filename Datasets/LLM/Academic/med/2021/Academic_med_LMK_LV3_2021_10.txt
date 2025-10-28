@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Non-Invasive Estimation of Tumor Acidity in Glioblastoma using Dynamic Susceptibility Contrast-Enhanced MRI and Principal Component Analysis
-
-Abstract:
-Glioblastoma is characterized by a highly heterogeneous tumor microenvironment, with acidity being a key factor influencing tumor aggressiveness. This study investigates the feasibility of estimating tumor acidity non-invasively using dynamic susceptibility contrast-enhanced (DSC) MRI and principal component analysis (PCA). DSC-MRI data from 30 glioblastoma patients (2021 cohort) were analyzed using PCA to extract features correlated with pH-sensitive imaging biomarkers. The resulting PCA-derived model demonstrated significant correlation with tumor acidity, as validated against pH-sensitive imaging data. The proposed method offers a promising non-invasive approach for assessing tumor acidity, potentially informing treatment strategies and improving patient outcomes. By leveraging DSC-MRI and PCA, this technique obviates the need for invasive procedures, enabling longitudinal monitoring of tumor acidity and facilitating personalized medicine in glioblastoma management.

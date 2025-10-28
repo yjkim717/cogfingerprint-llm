@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Evaluating Multimodal Neural Networks as Cognitive Models for Cross-Situational Word Learning
-
-Abstract:
-Cross-situational word learning is a fundamental cognitive process that enables humans to acquire linguistic knowledge. Recent advances in multimodal neural networks have led to their investigation as potential cognitive models for this task. In this study, we assess the ability of multimodal neural networks to capture key phenomena associated with cross-situational word learning, including the acquisition of word-referent mappings and the mutual exclusivity constraint. Using a comprehensive evaluation framework, we demonstrate that while multimodal neural networks successfully model certain aspects of cross-situational word learning, such as learning word-referent mappings, they fail to fully capture other crucial phenomena, including the mutual exclusivity bias. Our findings suggest that while multimodal neural networks show promise as cognitive models, further refinements are necessary to fully replicate the complexities of human cross-situational word learning. This research contributes to the ongoing discussion on the suitability of multimodal neural networks as cognitive models for language acquisition.

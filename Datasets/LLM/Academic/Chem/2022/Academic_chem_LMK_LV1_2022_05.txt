@@ -1,4 +1,0 @@
-Title: Investigating the Diffusion Dynamics of OH Radicals on Interstellar Water Ice Surfaces
-
-Abstract:
-The diffusion of OH radicals on water ice surfaces plays a pivotal role in determining the rates of astrochemical reactions occurring in interstellar ice mantles. In this study (2022), we employed a combination of experimental and theoretical approaches to elucidate the activation energy for the surface diffusion of OH radicals on amorphous water ice. Our results indicate that the activation energy for OH radical diffusion is approximately 0.14 eV, a value that significantly influences the rate of diffusive reactions. By incorporating this parameter into astrochemical models, we demonstrate that the surface diffusion of OH radicals is a key factor controlling the formation of complex molecular species in interstellar environments.

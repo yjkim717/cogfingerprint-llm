@@ -1,3 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a physics publication from 2020:
-
-“This study investigates the application of dielectric metasurfaces for advanced polarization monitoring. Utilizing non-hermitian transformation optics, we engineered a metasurface capable of sensitive deviation monitoring from prescribed polarization states. Experimental results demonstrate a quantifiable vertical-to-horizontal ratio shift, indicative of polarization changes. This technique offers a rapid and precise method for characterizing electromagnetic fields, with potential applications in optical sensing and communication systems.”

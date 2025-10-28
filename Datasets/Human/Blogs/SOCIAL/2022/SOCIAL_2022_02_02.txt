@@ -1,5 +1,0 @@
-Year: 2022
-Author: Cybyss
-URL: https://www.reddit.com/r/noita/comments/y2j465/it_just_occurred_to_me_how_to_make_both_wand/
-
-So... I'm guessing we all know by now the trick to increase your max health to insane levels, via a Master of Wounding + a little Ambrosia? If you use the Master of Wounding, then drink a flask of blood or cast a new wand, when his effects wear off that tiny little health boost will turn into a massive one.

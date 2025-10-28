@@ -1,7 +1,0 @@
-## Resonant Cavity Modification of Chemical Kinetics via Vibrational Strong Coupling: A Quantum Dynamical Perspective
-
-Recent advances in cavity quantum electrodynamics have enabled the exploration of vibrational strong coupling (VSC) phenomena in molecular systems, prompting investigations into its potential to influence chemical kinetics. This study, employing quantum dynamical methods, investigates the impact of VSC on chemical reactivity under both equilibrium and, crucially, non-equilibrium conditions. Our simulations demonstrate that while subtle equilibrium modifications can arise from altered vibrational energy level structures, the most significant alterations to reaction rates and product distributions occur when the system is driven far from equilibrium. Specifically, we observe a pronounced “collective regime” where the coupled vibrational mode and optical field exhibit coherent oscillations, leading to substantial deviations from traditional chemical kinetic predictions. These findings highlight the potential of resonant cavity modification as a powerful tool for controlling chemical reactions, particularly in scenarios involving transient species or pulsed excitation, and underscore the necessity of considering non-equilibrium dynamics when assessing the true impact of VSC on chemical processes.
-
-
-
-**Keywords:** cavity-modified chemical kinetics, vibrational strong coupling, quantum dynamical methods, collective regime, resonant cavity modification.

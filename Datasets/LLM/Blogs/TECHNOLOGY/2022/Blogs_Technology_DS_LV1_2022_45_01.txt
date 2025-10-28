@@ -1,5 +1,0 @@
-It’s 2022, and I’ve spent the last few months wrestling with frontend state. Every time the backend tweaked a data structure, I’d scramble to update my UI logic. It felt like building on shifting sand.
-
-Then it hit me: what if the backend could just tell the frontend exactly what to show? I started exploring libraries that use DTO projections to sync state automatically. The beauty is in the separation—the server holds all the business rules, while the frontend becomes a nimble, reactive layer.
-
-It’s not just about less code; it’s about clarity. My components now feel like they’re listening, not guessing. And honestly? That’s the kind of harmony every full-stack developer dreams of.

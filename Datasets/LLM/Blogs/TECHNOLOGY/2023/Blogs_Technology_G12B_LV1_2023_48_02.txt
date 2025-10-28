@@ -1,9 +1,0 @@
->Okay, here's a blog post inspired by the provided keywords and summary, aiming for a conversational, reflective tone and a ~150 word count, set in 2023:
-
-## The Frontend Feels: A Bit of a Preference
-
-Lately, I've been doing a lot of thinking about where I want my frontend journey to go. You know how it is – the tech landscape shifts constantly. I really enjoy Vue. It's a framework I feel comfortable with, and I love its flexibility.
-
-But I've realized something: I’m increasingly drawn to projects where the backend isn’t steeped in TypeScript. Don't get me wrong, TypeScript has its place, but I’ve found myself craving the simpler elegance of a well-crafted Rails or Python backend. There's a certain satisfaction in that dynamic.
-
-I'm actively searching for frontend roles that play nicely with those stacks. It’s not about avoiding TypeScript entirely, but more about finding a team where the focus remains on clean, intuitive frontend experiences, regardless of the backend language. Anyone else feel this pull towards specific backend pairings? Curious to hear your thoughts!

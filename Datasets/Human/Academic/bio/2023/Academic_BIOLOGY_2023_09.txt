@@ -1,8 +1,0 @@
-Author: B. Tijms
-Title: Large-scale cerebrospinal fluid proteomic analysis in Alzheimer's disease patients reveals five molecular subtypes with distinct genetic risk profiles.
-Paper ID: fbdbac462037814f987d879e1cfe4a81336c25a2
-Year: 2023
-Author Index: 9
-
-Abstract:
-Alzheimer's disease (AD) is heterogenous on the molecular level. Understanding this heterogeneity is critical for AD drug development. We aimed to define AD molecular subtypes by mass spectrometry proteomics in cerebrospinal fluid (CSF). Of the 3863 proteins detected in CSF, 1058 proteins had different levels in individuals with AD (n=419) compared with controls (n=187). Cluster analyses of AD individuals on these 1058 proteins revealed five subtypes: subtype 1 was characterized by neuronal hyperplasticity; subtype 2 by innate immune activation; subtype 3 by RNA dysregulation; subtype 4 by choroid plexus dysfunction; and subtype 5 by blood-brain barrier dysfunction. Distinct genetic profiles were associated with subtypes, e.g., subtype 1 was enriched with TREM2 R47H. Subtypes also differed in brain atrophy and clinical outcomes. For example, survival was shorter in subtype 3 compared to subtype 1 (5.6 versus 8.9 years). These novel insights into AD molecular heterogeneity highlight the need for personalized medicine.

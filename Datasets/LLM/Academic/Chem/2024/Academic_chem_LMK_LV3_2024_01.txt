@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Recent quantum chemical calculations (2024) elucidate an alternative astrochemical pathway for the formation of interstellar methylamine (CH₃NH₂) via carbon atom condensation on NH₃-H₂O ices. The reaction proceeds through the formation of a stable CNH₃ radical, which subsequently reacts to yield methanimine (CH₂NH) and ultimately methylamine. This mechanism underscores the significance of surface chemistry in interstellar environments, highlighting the role of ices as catalysts in the synthesis of complex organic molecules. Our results provide new insights into the astrochemical kinetics governing the formation of nitrogen-bearing species in interstellar space."

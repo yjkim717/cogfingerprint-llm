@@ -1,5 +1,0 @@
-Year: 2022
-Author: forwardslashroot
-URL: https://www.reddit.com/r/linuxquestions/comments/v2tiv7/need_to_secure_the_contents_of_my_root/
-
-Hi, I have a Debian NAS and I would like to move the content of the /root to an encrypted disk (e.g. /dev/sdb1). My /dev/sda is not encrypted by LUKS, but all the data disks are encrypted. I have /dev/sdb1 mounted as /mnt/disk2. I am thinking to copy all the files from /root to /mnt/disk2/root then add a line in fstab "/mnt/disk2/root /root xfs defaults 0 0" Would this work or is it a bad idea?

@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a chemistry-related publication in 2022:
-
-**Abstract**
-
-Understanding the behavior of reactive species within interstellar ices is crucial for modeling astrochemistry. This study, conducted in 2022, investigates the surface diffusion kinetics of hydroxyl (OH) radicals adsorbed on astrophysically relevant water ice analogs. Employing photostimulated desorption coupled with resonance-enhanced multiphoton ionization (REMPI), we experimentally determined the activation energy (E<sub>a</sub>) for OH radical diffusion to be 0.14 ± 0.01 eV. This measured value demonstrably surpasses previously considered theoretical estimates, suggesting that reaction activation pathways for OH radicals in interstellar ices may occur at unexpectedly low temperatures, around 36 K. These findings refine our understanding of reaction rates and chemical evolution within cold, dense interstellar environments.

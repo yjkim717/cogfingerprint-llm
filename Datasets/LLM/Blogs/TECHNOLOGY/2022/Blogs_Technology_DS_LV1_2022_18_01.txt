@@ -1,1 +1,0 @@
-Back in 2022, juggling mobile security felt like a high-wire act. We wanted to quarantine risky devices, yet still empower a few trusted ones. It struck me: true control in tech isn't about blanket locks, but selective keys.

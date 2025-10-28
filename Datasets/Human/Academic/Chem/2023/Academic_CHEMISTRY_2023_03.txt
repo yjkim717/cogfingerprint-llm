@@ -1,8 +1,0 @@
-Author: J. Evans
-Title: A Lantern-Shaped Pd(II) Cage Constructed from Four Different Low Symmetry Ligands with Positional and Orientational Control: an Ancillary Pairings Approach.
-Paper ID: b6547f2fcf551c5fdd48823b3c80440bd967f3b0
-Year: 2023
-Author Index: 3
-
-Abstract:
-One of the key challenges of metallo-supramolecular chemistry is to maintain the ease of self-assembly but, at the same time, create structures of increasingly high levels of complexity. In palladium(II) quadruply-stranded lantern-shaped cages, this has been achieved through either 1) the formation of heteroleptic (multi-ligand) assemblies, or 2) homoleptic assemblies from low-symmetry ligands. Heteroleptic cages formed from low symmetry ligands. A hybid of these two approaches would add an additional rich level of complexity but no examples of these have been reported. Here we use a system of ancillary complementary ligand pairings at the termini of cage ligands to target heteroleptic assemblies: these complementary pairs can only interact (through coordination to a single Pd(II) metal ion) between ligands in a cis position on the cage. Complementarity between each pair (and orthogonality to other pairs) is controlled by denticity (tridentate to monodentate or bidentate to bidentate) and/or hydrogen bonding capability (AA to DD or AD to DA). This allows positional and orientational control over ligands with different ancillary sites. Using this approach, we have successfully used low-symmetry ligands to synthesise complex heteroleptic cages, including an example with four different low symmetry ligands.

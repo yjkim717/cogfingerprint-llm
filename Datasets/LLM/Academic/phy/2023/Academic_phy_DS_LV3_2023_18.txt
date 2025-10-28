@@ -1,1 +1,0 @@
-This 2023 study demonstrates a compact magneto-optical trap for strontium atoms using polarization-multiplexed metasurfaces. Our topology-optimized design replaces conventional bulk optics with planar components, achieving six-beam confinement from only two input beams while maintaining robust atomic trapping performance.

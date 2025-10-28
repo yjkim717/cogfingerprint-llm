@@ -1,7 +1,0 @@
-## The Ghosts in My Server Rack
-
-It's funny the rabbit holes you fall down when you're trying to keep a server humming along. Lately, I've been wrestling with a Supermicro MCP-210 LCD display attached to one of my older machines. It's a relic, really, running FreeBSD – a system I love, but one that occasionally throws curveballs.
-
-The goal? Display some basic system stats on the little LCD. Sounds simple, right? Not so much when you're battling ancient USB 1.1 limitations and trying to coax LCDproc into cooperating. Hours have been spent poring over forums, tweaking configurations, and generally feeling like I'm talking to ghosts of the early 2000s.
-
-It’s a stark reminder that even in our shiny, cloud-centric world, a lot of infrastructure still quietly ticks along, powered by legacy hardware and a stubborn dedication to keeping things running. And sometimes, the most rewarding tech experiences are the ones that involve a little bit of digital archaeology.

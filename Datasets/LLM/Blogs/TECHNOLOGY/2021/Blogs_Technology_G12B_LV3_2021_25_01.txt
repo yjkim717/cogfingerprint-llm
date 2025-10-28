@@ -1,4 +1,0 @@
-)
-## That M1 Wipe Headache (and a Lesson in Patience)
-
-Okay, so, anyone else wrestling with the quirks of the new M1 MacBooks? I recently spent a frustrating afternoon trying to wipe and reinstall macOS on an M1 MacBook Pro – prepping it for a fresh start. Got smacked with a 'volume couldn't be unmounted' error, kernel-related, naturally. Jamf wasn't thrilled either! It was a good reminder that even with all the shiny new tech, sometimes you just need to take a deep breath and troubleshoot. Anyone else had similar experiences?

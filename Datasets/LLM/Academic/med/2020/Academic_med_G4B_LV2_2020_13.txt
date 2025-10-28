@@ -1,9 +1,0 @@
-Okay, here’s an academic-style abstract based on the provided summary, aiming for approximately 230 words and reflecting a 2020 context within the field of medical risk assessment:
-
-**Abstract**
-
-The European Food Safety Authority (EFSA) faces an escalating challenge in ensuring the safety of food contact materials (FCMs) within the European Union.  EU Regulation 10/2011 mandates the establishment of specific migration limits (SMLs) for substances present in FCMs, yet a significant number of substances remain without defined limits. This paper details EFSA’s operational approach to address this critical lacuna, specifically focusing on a prioritization exercise concerning 451 substances identified as lacking established SMLs.  
-
-Implemented in 2020, this regulatory review process leveraged a tiered prioritization system to facilitate resource allocation and strategic risk assessment.  The methodology employed a multi-faceted evaluation, considering factors including chemical hazard potential, exposure routes, and the prevalence of the substance within the FCM regulatory landscape.  
-
-The prioritization wasn't solely based on hazard alone; pragmatic considerations such as data availability and the potential for rapid, cost-effective evaluation were integrated.  This approach sought to identify substances posing the highest risk necessitating expedited toxicological assessment and subsequent SML determination.  The successful implementation of this prioritization framework represents a vital step in bolstering consumer protection and fulfilling the obligations outlined within EU regulatory frameworks, ultimately informing evidence-based decisions regarding FCM safety.

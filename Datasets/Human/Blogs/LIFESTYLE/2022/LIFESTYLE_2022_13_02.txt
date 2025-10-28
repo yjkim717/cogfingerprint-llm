@@ -1,5 +1,0 @@
-Year: 2022
-Author: apatheticonion
-URL: https://www.reddit.com/r/rust/comments/y48t1s/what_bindings_do_i_need_for_making_a_modern/
-
-MacOS; I have to call the AppKit API. I can use a library like this which offers Rust bindings for AppKit - otherwise I can write my own maybe? Linux; I have QT and GTK4/Adwaita which has a lot of documentation on usage With MacOS and Linux, at least the GUI library targets are obvious - with Windows I don't even know where to go to find information on GUI building. I know the Win32 API is used to make applications that look like notepad.exe but if I want to create an application using the new Windows 11 styling - how do I do that and are there any existing bindings for Rust?

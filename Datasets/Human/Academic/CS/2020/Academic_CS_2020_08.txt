@@ -1,8 +1,0 @@
-Author: F. Dellaert
-Title: Shonan Rotation Averaging: Global Optimality by Surfing SO(p)n
-Paper ID: 4c5b26e39b4581e94f12a623f8eeade722a74713
-Year: 2020
-Author Index: 8
-
-Abstract:
-Shonan Rotation Averaging is a fast, simple, and elegant rotation averaging algorithm that is guaranteed to recover globally optimal solutions under mild assumptions on the measurement noise. Our method employs semidefinite relaxation in order to recover provably globally optimal solutions of the rotation averaging problem. In contrast to prior work, we show how to solve large-scale instances of these relaxations using manifold minimization on (only slightly) higher-dimensional rotation manifolds, re-using existing high-performance (but local) structure-from-motion pipelines. Our method thus preserves the speed and scalability of current SFM methods, while recovering globally optimal solutions.

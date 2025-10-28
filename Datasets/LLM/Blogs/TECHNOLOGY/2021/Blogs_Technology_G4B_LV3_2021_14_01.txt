@@ -1,5 +1,0 @@
-Okay, here’s a blog post draft based on your summary and style guidelines:
-
----
-
-“I spent a frustrating afternoon wrestling with hex values and gaming resolutions last week. Trying to force widescreen custom resolutions into a simple conversion felt… wrong. It’s a reminder that sometimes, the most complex tech problems boil down to a basic misunderstanding.  Maybe I just needed to step back and appreciate the *why* behind the numbers.”

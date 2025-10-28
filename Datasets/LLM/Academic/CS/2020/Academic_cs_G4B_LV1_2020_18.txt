@@ -1,9 +1,0 @@
-Okay, here’s an original academic-style abstract, drawing upon the provided summary and aiming for a formal tone suitable for a 2020 publication in a relevant field (likely pharmaceutical sciences or biomedical modeling), approximately 202 words in length:
-
----
-
-**Abstract**
-
-Accurate characterization of drug disposition is paramount for optimizing therapeutic efficacy and minimizing adverse events. This work presents the development and validation of a population pharmacokinetic (PK) model designed to elucidate the influence of gastric emptying rate on the concentration-time profile of losartan and its primary circulating metabolite. Utilizing delay differential equations, the model incorporates a physiologically-based pharmacokinetic (PBPK) approach, accounting for the mechanistic interplay between gastric transit and systemic drug absorption. 
-
-The model was parameterized using data from a cohort of healthy human subjects, and its predictive performance was evaluated against observed concentration-time data. Specifically, we investigated the impact of varying gastric emptying rates on the resultant concentration-time profiles, demonstrating a significant correlation between these parameters and the observed drug exposure.  Furthermore, the model’s ability to generate population-level PK estimates was assessed, highlighting the potential for informing dosage adjustments across diverse patient subgroups.  This approach represents a valuable tool for personalized pharmacotherapy and contributes to a more nuanced understanding of drug disposition variability. Future research will focus on integrating additional physiological covariates and extending the model to simulate drug-drug interactions.

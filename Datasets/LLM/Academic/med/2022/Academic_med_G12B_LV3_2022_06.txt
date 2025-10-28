@@ -1,8 +1,0 @@
->Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a 2022 publication:
-
-**Abstract**
-
-The evolving landscape of metastatic breast cancer (MBC) treatment necessitates a paradigm shift towards precision medicine, increasingly reliant on robust biomarker testing to inform systemic therapy selection. This review synthesizes recommendations from the 2022 updated ASCO guideline concerning biomarker assessment in MBC, emphasizing the critical role of molecular profiling in optimizing patient outcomes. The guideline underscores the importance of comprehensive genomic testing, including assessment of *ESR1*, *PIK3CA*, *HER2*, and *BRCA1/2* mutations, alongside evaluation of human epidermal growth factor receptor 2 (HER2) expression and progesterone receptor (PR) and estrogen receptor (ER) status. Furthermore, emerging biomarkers such as *AKT1*, *PTEN*, and circulating tumor DNA (ctDNA) are discussed regarding their potential utility in predicting response and guiding treatment decisions. The updated guidance advocates for a tiered testing approach, prioritizing established biomarkers initially and expanding to less well-validated assays based on clinical context and patient characteristics. Consideration of genomic heterogeneity within and between tumors is also highlighted, with implications for sequential biomarker assessment throughout the disease trajectory. Ultimately, the ASCO guideline reinforces the necessity for multidisciplinary collaboration between medical oncologists, pathologists, and molecular diagnosticians to ensure appropriate biomarker testing and facilitate the implementation of targeted therapies, thereby improving the efficacy and personalization of MBC treatment strategies.
-
-
-

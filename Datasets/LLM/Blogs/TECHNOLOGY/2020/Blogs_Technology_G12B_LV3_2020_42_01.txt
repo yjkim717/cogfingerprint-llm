@@ -1,7 +1,0 @@
->## That Little Dot on the Map & Why I'm Rethinking My Website Stats
-
-It's 2020, and the internet feels… different, doesn't it? We’re all a little more aware of our digital footprints. Lately, I’ve been wrestling with a question that’s popped up for many website developers: how do you collect website stats ethically, especially with GDPR looming large?
-
-I used to be all about those detailed analytics – pinpointing visitor locations, tracking browser types, even seeing the rough location gleaned from an IP address. It felt like the key to understanding my audience. But now? It feels… intrusive. 
-
-The conversation around privacy is shifting, and rightfully so. Do I *really* need to know someone's ISP to improve my site? Should I be tracking their location down to the city? Maybe just a general region is enough. It’s a balancing act, and honestly, it’s making me rethink how I approach website data altogether. It's about respect, isn't it?

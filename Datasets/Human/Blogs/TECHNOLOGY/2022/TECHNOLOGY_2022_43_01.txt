@@ -1,5 +1,0 @@
-Year: 2022
-Author: Goldziher
-URL: https://www.reddit.com/r/golang/comments/tybpwf/a_generics_based_goutils_library/
-
-Hi Gophers! Last week I published this open source package: The package offers a lot of helper functions, e.g. `Map`, `Filter`, `Union` for working with slices and maps. The package uses generics, it has 100% test coverage and I worked hard on providing proper docs (go-doc and this very nice website --> I'm working on extending it with some generic utilities of strings and numbers. I'd be happy for input, users, starts and collaborators!

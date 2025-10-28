@@ -1,8 +1,0 @@
-Author: J. Evans
-Title: Sequential Deposition of Integrated Cathode–Inorganic Separator–Anode Multilayers for High Performance Li-Ion Batteries
-Paper ID: 179dcbfed0c271e04e1d44d5480321397694c7c8
-Year: 2022
-Author Index: 7
-
-Abstract:
-A porous, spray-deposited Al2O3-based separator was developed to enable the direct deposition of an electrode/separator/electrode Li-ion battery full cell assembly in a single operation. The optimized sprayed separator consisted of 50 nm Al2O3 particles, 1 wt % poly(acrylic acid), and 5 wt % styrene–butadiene rubber, deposited from an 80:20 vol % suspension of water and isopropanol. Separators between 5 and 22 μm thick had consistent and similar porosity of ∼58%, excellent wettability, thermal stability to at least 180 °C, adequate electrochemical stability and high effective ionic conductivity of ∼1 mS cm–1 at room temperature in an EC/DMC electrolyte, roughly double that of a conventional polypropylene separator. A sequentially deposited three-layer LiFePO4/Al2O3/Li4Ti5O12 full cell, the first of its kind, showed similar rate performance to an identical cell with a conventional polypropylene separator, with a capacity of ∼50 mAh g–1 at 30 C. However, after cycling at 2 C for 400 cycles, Al2O3 separator full cells retained 96.3% capacity, significantly more than conventional full cells with a capacity of 79.2% remaining.

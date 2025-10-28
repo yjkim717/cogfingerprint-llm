@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The CLIP model, while a cornerstone of vision-language reasoning, exhibits complex internal representations that are not fully understood. This paper presents a novel analytical framework for interpreting CLIP's vision encoder by examining *second-order effects*—the interactions between neurons rather than their individual activations. Our analysis reveals that a significant subset of neurons are *polysemantic*, responding to disparate, often non-visually similar concepts. This polysemanticity provides a mechanistic explanation for CLIP's robustness but also reveals its vulnerabilities. We demonstrate that by exploiting these entangled feature spaces, we can construct highly effective *adversarial examples* that induce misclassifications with minimal perturbation. Conversely, by leveraging this refined understanding of neuron functionality, we develop a method to disentangle these representations. This leads to a state-of-the-art, model-based approach for *zero-shot segmentation*, outperforming prior methods by more accurately localizing semantic concepts without task-specific training. Our work establishes second-order analysis as a critical tool for interpreting and improving large-scale multimodal models.
-
-(Word Count: 180)

@@ -1,3 +1,0 @@
-Here's a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract: "Asymptotic Symmetries in Non-Minimal Supergravity Models" (2024). This study investigates the asymptotic symmetries of U(1)-gauge fields non-minimally coupled to scalar fields within supergravity frameworks. We demonstrate that non-minimal couplings significantly alter asymptotic properties, exhibiting distinct duality symmetries compared to minimal couplings. Our analysis reveals novel insights into the interplay between asymptotic symmetries and non-minimal couplings, shedding light on the underlying structure of supergravity models.

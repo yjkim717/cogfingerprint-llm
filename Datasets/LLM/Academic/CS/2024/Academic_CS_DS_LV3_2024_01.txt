@@ -1,1 +1,0 @@
-This study employs second-order lens analysis to demonstrate that polysemantic CLIP neurons encode multiple semantic concepts. We show this enables both adversarial example generation and enhanced zero-shot segmentation through automated neuron interpretation, revealing fundamental tradeoffs in multimodal representation learning.

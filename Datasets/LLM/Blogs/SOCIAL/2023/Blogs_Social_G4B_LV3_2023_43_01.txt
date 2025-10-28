@@ -1,2 +1,0 @@
-Input: Raspberry Pi mirror, DIY gift, beginner resources.
-Output: It’s funny, isn’t it?  I’ve been spending evenings tinkering with a Raspberry Pi, building a little mirrored surprise for my partner. It’s a surprisingly rewarding project – a tiny act of DIY love!  There’s something deeply satisfying about learning something new, especially when it's a gift that shows you truly *see* them.  I’m digging through beginner tutorials, hoping to make it run smoothly – wish me luck!

@@ -1,8 +1,0 @@
-Author: V. Karalis
-Title: Robust Neutralizing Antibody Responses 6 Months Post Vaccination with BNT162b2: A Prospective Study in 308 Healthy Individuals
-Paper ID: aa077f2849801021f06185489826f83d1dfa83da
-Year: 2021
-Author Index: 18
-
-Abstract:
-Elucidating long-term immunity following COVID-19 vaccination is essential for decision-making regarding booster shots. The aim of this study was to investigate the kinetics of neutralizing antibodies (Nabs) against SARS-CoV-2 up to six months after the second vaccination dose with the BNT162b2 mRNA vaccine. Nabs levels were measured on days 1 (before the first vaccine shot), 8, 22 (before the second shot), 36, 50, and 3 and 6 months after the second vaccination (NCT04743388). Three hundred and eight healthy individuals without malignant disease were included in this study. At six months, 2.59% of the participants had a Nabs value less than 30%, while 11.9% had Nabs values of less than 50%. Importantly, 58% of the subjects had Nabs values of more than 75%. Nabs were initially eliminated at a relatively slow rate, but after three months their elimination was 5.7 times higher. Older age was inversely associated with Nabs levels at all examined timepoints. Interestingly, a population modeling analysis estimated that half of the subjects will have Nabs values less than 73.8% and 64.6% at 9 and 12 months, respectively, post vaccination completion. In conclusion, we found a persistent but declining anti-SARS-CoV-2 humoral immunity at six months following full vaccination with BNT162b2 in healthy individuals, which was more pronounced among older persons. These data may inform the public health policies regarding the prioritization of booster vaccine shots.

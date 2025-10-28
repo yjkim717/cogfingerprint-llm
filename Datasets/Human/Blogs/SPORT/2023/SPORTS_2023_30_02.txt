@@ -1,5 +1,0 @@
-Year: 2023
-Author: musicnothing
-URL: https://www.reddit.com/r/nba/comments/126w002/oc_a_look_at_division_records_which_division_has/
-
-Division|Record|Home|Away :--|:--|:--|:-- Atlantic|225-156|123-67|102-89 Central|188-194|108-82|80-112 Southeast|170-212|97-92|73-120 Northwest|196-185|115-77|81-108 Pacific|206-176|121-72|85-104 Southwest|160-222|104-87|56-135 Take a quick look at the division records. 50% of them have winning records (makes sense). All of them have winning records at home (although the Southeast Division barely squeaked by here). Only the Atlantic Division has a winning away record, and that's with the Raptors only winning 1/3 of their away games. In spite of the Pacific having all of their teams in the top 8, their record as a whole is 20 wins worse than the Atlantic Division.

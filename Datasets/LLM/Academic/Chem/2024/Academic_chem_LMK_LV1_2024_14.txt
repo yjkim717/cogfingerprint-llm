@@ -1,5 +1,0 @@
-Title: Quantum Chemical Investigation of Carbon Atom Reactions with Ammonia on Interstellar Ice Surfaces: Implications for Methylamine Formation
-
-Abstract:
-
-The formation of complex organic molecules in interstellar environments is a topic of significant interest in astrochemistry. In this study, we employ quantum chemical calculations to investigate the reaction of carbon atoms with ammonia on interstellar ice surfaces. Our results indicate that the reaction proceeds via a barrierless pathway, yielding methylamine as the preferred product. The computed reaction mechanism involves the initial formation of a H2NCH intermediate, which subsequently undergoes hydrogenation to form methylamine. The calculated energetics and reaction rates suggest that this pathway is feasible under interstellar conditions. Our findings provide new insights into the potential role of interstellar ices in facilitating the formation of complex organic molecules, and highlight the importance of considering the chemistry of carbon atoms in astrochemical models. The results have implications for understanding the origins of methylamine in interstellar space.

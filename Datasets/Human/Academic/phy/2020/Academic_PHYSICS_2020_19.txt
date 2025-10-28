@@ -1,8 +1,0 @@
-Author: Jihua Zhang
-Title: Optimal Monitoring of Deviations from Target Polarization with Metasurfaces
-Paper ID: b42ca900bb59333527097365ee1ce865ea43d0c4
-Year: 2020
-Author Index: 19
-
-Abstract:
-We reveal that dielectric metasurfaces can perform tailored non-Hermitian transformations optimized for monitoring of deviations around arbitrarily linear, circular, or elliptical polarizations, delivering the amplified vertical-to-horizontal polarization ratios for sensitive single-shot detection.

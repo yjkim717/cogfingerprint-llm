@@ -1,5 +1,0 @@
-Year: 2021
-Author: phaze08
-URL: https://www.reddit.com/r/EmulationOnAndroid/comments/o7tkoa/good_controller_for_dolphincitra_and_xbox_game/
-
-With my note20 ultra I want to emulate alot of GameCube and 3ds, since it can do it better than my old note 10. Also I think game pass is awesome to stream games to my phone. I bought this controller: It worked in the Xbox game pass of course, but in dolphin it acted like a 'phone controller' instead of a 'game controller' - what I mean is when I pressed B, in dolphin, it acted like I pressed back on android. It opened the blue side menu. When I moved the joystick, it moved the cursor in android. Instead of controlling the game. I ended up returning the controller. Can anyone recommend good controller(s) for this use case?

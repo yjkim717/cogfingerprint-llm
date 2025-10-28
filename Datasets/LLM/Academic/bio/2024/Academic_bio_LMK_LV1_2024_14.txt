@@ -1,4 +1,0 @@
-Title: Anomalous Diffusion Dynamics of DNA Double-Strand Breaks in Non-Homologous End-Joining Repair Pathway
-
-Abstract:
-The non-homologous end-joining (NHEJ) pathway is a crucial mechanism for repairing DNA double-strand breaks (DSBs). We propose a heterogeneous anomalous diffusion model to elucidate the dynamics of DSB repair via NHEJ. Our model incorporates fractional Brownian motion to capture the subdiffusive behavior of DSBs. Simulations reveal that the anomalous diffusion exponent (α) is correlated with the efficiency of DSB repair. Our results demonstrate that the NHEJ pathway is sensitive to the spatiotemporal dynamics of DSBs, and that α serves as a predictive indicator of repair outcomes. (2024)

@@ -1,3 +1,0 @@
-It’s 2024, and my old workstation setup just couldn’t keep up anymore. I’d been wrestling with my Dell T5820—a solid machine, but as my virtualization projects grew, so did the bottlenecks. I needed something with real muscle: more storage bays for my expanding data, better performance for running multiple VMs, and room to grow.
-
-It got me thinking about how our tech needs evolve. What starts as a powerhouse today can feel limiting tomorrow. Now I’m on the hunt for a workstation or server that balances raw power with expandability—because in tech, planning for the future isn’t a luxury; it’s a necessity.

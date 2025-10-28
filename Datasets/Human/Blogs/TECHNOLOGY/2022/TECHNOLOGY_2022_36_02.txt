@@ -1,5 +1,0 @@
-Year: 2022
-Author: theodiousolivetree
-URL: https://www.reddit.com/r/firefox/comments/zpqsmw/firefox_doesnt_open_youtubecom_website/
-
-Firefox doesn't open youtube.com website. At first deactived all extension. No success. At second I deleted appdata\\local\\mozilla and appdata\\roaming\\mozilla but Firefox doesn't open youtube. I reinstalled and reinstalled Firefox. It's still not to open youtube. Firefox Release: 108.0.1, December 16, 2022 Windows 11 Professionnel, release 22H2 CPU: AMD Ryzen 7 5700G with Radeon Graphics GC : Nvidia GeForce GTX 1050 ti I don't know what to do because Firefox can open any website except youtube. Weird

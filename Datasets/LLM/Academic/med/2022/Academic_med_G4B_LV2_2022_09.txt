@@ -1,9 +1,0 @@
-Here’s an academic abstract based on the provided summary, suitable for a medical research publication in 2022:
-
-**Abstract**
-
-The bidirectional relationship between sleep disturbances and mental health disorders remains a subject of ongoing investigation. This study employed a Mendelian randomization (MR) framework to explore potential causal pathways between insomnia, restless leg syndrome (RLS), and suicidal behavior. Leveraging genetic association data, we hypothesized that insomnia would exert a causal influence on suicidal ideation and attempts, while RLS would not demonstrate a comparable effect. 
-
-Our MR analysis, utilizing multiple robust statistical methods to mitigate potential pleiotropy, revealed a statistically significant, positive causal association between insomnia and suicidal behavior (p<0.05). This suggests a plausible causal pathway wherein chronic insomnia may contribute to an increased risk of suicidal thoughts and behaviors. Notably, the genetic evidence did not support a significant causal link between RLS and suicidal behavior. 
-
-These findings align with prior observational studies suggesting a vulnerability in individuals with insomnia to mental health challenges.  Further research is warranted to elucidate the underlying biological mechanisms mediating this potential causal relationship, including exploring shared genetic variants and neurobiological pathways.  Understanding these connections could inform targeted preventative interventions for individuals at elevated risk, particularly those experiencing persistent sleep difficulties.  This study highlights the utility of MR in disentangling complex biological relationships within the context of mental health.

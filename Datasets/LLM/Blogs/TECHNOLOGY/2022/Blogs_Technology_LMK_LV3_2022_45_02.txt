@@ -1,1 +1,0 @@
-"As I dove into building my latest project in 2022, I realized generating WASM IR in Rust was cumbersome. I'm now on the hunt for a safer, more efficient way - perhaps leveraging pest.rs for DSL parsing. Simplifying this process could be a game-changer for developers like me, freeing us to focus on innovation."

@@ -1,5 +1,0 @@
-Okay, here's a blog post inspired by the provided keywords and summary, aiming for a conversational tone and a 2020 context:
-
-## The Expanding Proton Ecosystem (and My Wishlist)
-
-It’s 2020, and privacy feels… vital. I’ve been using ProtonMail for a while, loving the encrypted email. Then I added ProtonVPN. It's great, but navigating all their services – Calendar, Drive, Pass – feels a little scattered. Wouldn’t it be amazing if Proton had a single, central page listing *everything* for subscribers? Just a quick overview. Makes sense, right? Hoping they build it soon!

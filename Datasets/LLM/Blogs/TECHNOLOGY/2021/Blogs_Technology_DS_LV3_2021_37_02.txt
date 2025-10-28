@@ -1,1 +1,0 @@
-It’s 2021, and I’m staring at a row of blank icons on my Windows 10 desktop. I’ve cleared the icon cache, run scripts, checked file properties—everything tech support suggests. Yet, they persist. It’s a small, stubborn glitch, a quiet reminder that even in our digital lives, some mysteries refuse a simple fix.

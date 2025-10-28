@@ -1,5 +1,0 @@
-Title: Quantum Dynamics of Vibrational Polariton Chemistry: Insights into Cavity-Modified Reaction Kinetics
-
-Abstract:
-
-The emerging field of vibrational polariton chemistry has garnered significant attention owing to its potential in manipulating chemical reactivity through vibrational strong coupling. By employing an exact quantum dynamics approach, we investigate the impact of infrared cavities on the kinetics of cavity-modified chemical reactions. Our simulations reveal substantial alterations in rate constants, attributable to quantum mechanical effects arising from the strong coupling between molecular vibrations and cavity modes. The results demonstrate that the cavity-modified reaction kinetics are sensitive to the cavity frequency, molecular vibrational frequencies, and the strength of the light-matter interaction. Our study provides a fundamental understanding of the underlying quantum dynamics governing vibrational polariton chemistry, shedding light on the intricate interplay between molecular reactivity and quantum fluctuations in infrared cavities, and offering new avenues for controlling chemical reactions. (Year: 2022)

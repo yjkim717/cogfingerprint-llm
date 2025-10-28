@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords:
-
-**Abstract**
-
-Recent evaluations by the European Food Safety Authority’s (EFSA) Chemical Safety Unit (CEP) Panel have prompted a critical reassessment of bisphenol A (BPA) exposure limits. In 2023, a revised tolerable daily intake (TDI) was established following emerging evidence of BPA’s immunomodulatory effects. Specifically, research indicates heightened sensitivity within the Th17 cell population, a key component of the adaptive immune response, suggesting a potential link between BPA exposure and immune dysregulation.  This re-evaluation underscores a substantial disparity between estimated dietary intake and the previously determined TDI.  The EFSA’s findings necessitate a more cautious approach to BPA risk assessment, highlighting the importance of considering subtle immunological impacts alongside traditional toxicological endpoints. Further investigation into the mechanisms driving BPA’s effects on immune cell function is warranted to refine risk management strategies and ensure consumer protection.

@@ -1,5 +1,0 @@
-Year: 2022
-Author: vortexmak
-URL: https://www.reddit.com/r/GalaxyS9/comments/vwym45/phone_wiped_itself_automatically/
-
-I was recently using maps or some other app, it froze and the phone rebooted and I realized it had wiped all my accounts and app data. The apps themselves were there and the data on local storage but I had to basically set up the phone again. Does anyone know what happened or what could have caused this?

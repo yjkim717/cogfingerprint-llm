@@ -1,3 +1,0 @@
-It was one of those late 2023 nights, the kind only developers truly know. I was refactoring some Kotlin code, confidently using an infix function to set generic properties. The syntax felt clean, modern—until runtime errors surfaced. The compiler had remained silent, even with a clear type mismatch in my generic parameters.
-
-It made me reflect: our tools are brilliant, yet they have blind spots. We dance with abstractions, trusting the checks, but sometimes it’s our human intuition that catches what machines overlook. A humbling reminder in an age of smart code.

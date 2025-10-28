@@ -1,5 +1,0 @@
-Year: 2023
-Author: encom81
-URL: https://www.reddit.com/r/WeAreTheMusicMakers/comments/12ccojp/detuning_midi_note_to_528hz_in_ableton/
-
-Hi, I'm trying to mess around with Solfeggio frequencies. I have a nice lush pad sound from a midi track using Vital synth, a bunch of EQ and reverb. So my question is, how can I modify the pitch of a midi note to match something like 528Hz or 423Hz? I can find a pitch option in a audio clip but not in the midi note editor, and even that it only does semitones. Thanks for any help. BTW I'm trying to do this in Ableton Live Lite. 😬

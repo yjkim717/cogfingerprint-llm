@@ -1,5 +1,0 @@
-Year: 2024
-Author: Purple___Flame
-URL: https://www.reddit.com/r/learnjavascript/comments/1at4ldc/question_about_regex_anchors_usage/
-
-Hello, been doing fcc legacy course on regexes, long story short - need to remove spaces from beginning and an end of a string, the solution being `/^\s+|\s+$/g` My question is - why `/^\s+$/g` does nothing, or more specifically, why are anchors so difficult to use simultaneously

@@ -1,3 +1,0 @@
-## Building Blocks Before the Code
-
-It's 2020, and everyone's talking about coding! But my 7th graders? They need something *before* the Python. This year, I'm focusing on logic and algorithms – puzzles, sequencing activities, even card games. It’s amazing how excited they get when they crack a problem using pure reasoning. Building those mental muscles feels like laying a solid foundation for future coding success. Who knew logic could be so much fun?

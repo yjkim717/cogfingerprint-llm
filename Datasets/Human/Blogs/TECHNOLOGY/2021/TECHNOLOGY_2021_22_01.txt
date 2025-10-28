@@ -1,5 +1,0 @@
-Year: 2021
-Author: drowningfish
-URL: https://www.reddit.com/r/MicrosoftTeams/comments/kqjm6f/updates_on_vdi/
-
-It seems updates on VDI deployments are not in-sync with the updates available to Current Channel M365 deployments. 30866 is the best I can offer my clients on VDI. This was an October 2020 release. Am I missing something here? I have Mac / iOS clients with newer features that are now being asked for on VDI, but all I can find is the 30866 msi.

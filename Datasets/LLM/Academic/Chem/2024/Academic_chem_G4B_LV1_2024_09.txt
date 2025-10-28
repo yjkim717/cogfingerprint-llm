@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a 2024 publication in a chemistry journal:
-
-**Abstract**
-
-The formation of complex organic molecules within interstellar environments hinges critically on the condensation of simple precursor molecules onto icy substrates. This work presents a quantum chemical investigation into the carbon atom condensation process on ammonia-water ices, focusing on the potential for methylamine (CH₃NH₂) formation. Utilizing density functional theory (DFT) calculations, we examined the energetics of carbon atom addition to ammonia and water ice surfaces, considering vibrational and rotational effects. Our results demonstrate that methylamine emerges as a thermodynamically stable intermediate product, representing a plausible pathway for organic synthesis in cold interstellar ices. Furthermore, astrochemical kinetics modeling suggests that this process could contribute significantly to the abundance of methylamine observed in molecular clouds. These findings provide valuable insights into the chemical evolution of star-forming regions and the delivery of prebiotic molecules to planetary systems.

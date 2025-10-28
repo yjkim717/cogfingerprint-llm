@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The proliferation of dynamic benchmarks, while essential for tracking progress in machine learning, introduces significant theoretical challenges not present in static evaluation. This paper provides a formal theoretical analysis of performance dynamics under iterative data collection and model fitting cycles. We demonstrate that sequential model updates, where each iteration trains on data labeled by the previous best model, are fundamentally constrained by the accumulation of label noise and confirmation bias, leading to an asymptotic performance plateau. Conversely, we prove that a hierarchical benchmarking design, which maintains a stratified data structure with fixed, gold-standard validation tiers, circumvents these limitations. This architecture ensures robust performance estimation by decoupling the evaluation target from the iterative training loop. Our findings establish a theoretical foundation for dynamic evaluation, offering principled design guidelines to prevent benchmark degradation and ensure reliable measurement of genuine model capability.
-
-(174 words)

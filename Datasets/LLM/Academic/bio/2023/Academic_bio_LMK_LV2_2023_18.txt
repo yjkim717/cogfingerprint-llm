@@ -1,9 +1,0 @@
-Title: Emergence and Spread of Highly Pathogenic Avian Influenza A(H5N1) Virus in European Wild and Domestic Bird Populations: A Threat to Poultry Production and Public Health
-
-Abstract:
-
-The recent outbreak of highly pathogenic avian influenza (HPAI) A(H5N1) virus in European bird populations has raised significant concerns regarding the zoonotic potential of this virus and its impact on poultry production. Between December 2022 and March 2023, a total of 24 European countries reported cases of HPAI A(H5N1) infection in both domestic and wild birds. The rapid spread of the virus across the continent highlights the complex dynamics of avian influenza transmission and the need for enhanced surveillance and control measures.
-
-The HPAI A(H5N1) virus has been identified as a significant threat to poultry production due to its high mortality rates and potential to cause significant economic losses. Moreover, the virus's zoonotic potential poses a risk to public health, as evidenced by sporadic cases of human infection reported in various parts of the world. The role of wild birds in the transmission and dissemination of the virus is a critical factor in understanding the epidemiology of HPAI A(H5N1).
-
-This study aims to investigate the emergence and spread of HPAI A(H5N1) virus in European bird populations, with a focus on the virus's transmission dynamics, genetic characteristics, and potential risks to poultry production and public health. By examining the available data and literature, this research seeks to inform the development of effective strategies for mitigating the impact of HPAI A(H5N1) on animal and human health. The findings of this study will contribute to a better understanding of the complex interactions between avian influenza viruses, their hosts, and the environment, ultimately informing evidence-based policies for disease control and prevention.

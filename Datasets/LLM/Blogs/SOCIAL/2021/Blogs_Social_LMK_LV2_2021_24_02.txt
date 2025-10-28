@@ -1,7 +1,0 @@
-As I sat in front of my screen in 2021, I couldn't help but think about the countless hours I'd spent building and exploring Minecraft worlds. But as much as I loved the game, I was frustrated with the limitations of playing on a local server. I wanted to create a more immersive experience for myself and my friends, so I decided to set up a Minecraft server on an Ubuntu machine.
-
-The catch was that this server didn't have a GUI - just a command-line interface accessible through SSH. I'd heard of datapacks being used to customize world generation, but I had no idea how to install them on a headless server. After scouring the internet for tutorials and guides, I finally found a solution that worked.
-
-As I watched the server generate new worlds with custom biomes and structures, I felt a sense of pride and accomplishment. It wasn't just about playing a game - it was about creating a shared experience with my friends, and exploring the endless possibilities of the Minecraft universe.
-
-Looking back, I realize that setting up that server was more than just a technical challenge. It was about connecting with others, and creating a space for us to explore and be creative together. In a year marked by social distancing and isolation, it was a reminder that technology can be a powerful tool for building community and connection.

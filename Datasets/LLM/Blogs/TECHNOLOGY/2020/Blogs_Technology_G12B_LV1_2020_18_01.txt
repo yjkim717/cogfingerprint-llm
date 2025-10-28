@@ -1,7 +1,0 @@
->## The Perimeter of Productivity: Geo-Fencing and the Evolving Office
-
-It’s 2020, and “work from anywhere” isn’t just a buzzword anymore – it’s reality for a lot of us. As we navigate this new normal, security is paramount. Lately, I’ve been wrestling with how to best secure our Office 365 environment. Specifically, I'm diving into geo-fencing with Conditional Access. 
-
-The idea is simple: only allow access to sensitive data from trusted locations. But the licensing question is surprisingly complex! Do we *need* to upgrade beyond our existing E3 licenses to fully leverage this? Or can we creatively utilize our P1 licenses to achieve a similar level of protection?
-
-It's a rabbit hole of policy configurations and Microsoft documentation. This whole process really highlights how quickly the landscape of workplace security is shifting, and how we, as IT professionals, need to constantly adapt to keep our data safe. Stay tuned for updates on my findings!

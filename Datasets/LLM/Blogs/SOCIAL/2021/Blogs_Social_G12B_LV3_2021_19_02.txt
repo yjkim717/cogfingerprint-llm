@@ -1,5 +1,0 @@
->## The Thunderbolt Tango and My Creative Workflow (A Mac vs. Windows Tale)
-
-Okay, so I’m officially throwing my hat into the ring of tech frustration. Anyone else ever feel like your gear just *decides* to be difficult when you least expect it? I recently invested in a Thunderbolt extender to clean up my desk – a serious win for aesthetics and sanity, right? – and paired it with my Huion Kamvas 13 drawing tablet. Everything was sunshine and rainbows on my Windows machine. Smooth sailing.
-
-Then I plugged it into my Mac. Crickets. The tablet just… wasn’t recognized. After a deep dive into forums and troubleshooting, I discovered it’s a common issue with MacOS and some extenders. It's a real bummer, especially since returns aren't really an option anymore. I'm in India, and shipping costs are… well, let’s just say they’re a factor. Anyone else dealt with this? Any MacOS-specific Kamvas 13 and Thunderbolt extender wisdom to share? I'm all ears!

@@ -1,9 +1,0 @@
->## The Hum That Followed Me Home
-
-It’s funny how seemingly small changes can ripple outwards, isn’t it? I recently moved my PC – my trusty battle station for gaming and creative work – from a tucked-away corner to a spot right beside my desk. Suddenly, something I'd barely noticed before became… noticeable. A persistent hum. 
-
-It wasn't a jarring noise, not initially. But constantly present, it started to grate. It was the sound of my CPU cooler working overtime, struggling to keep my Ryzen 5 3600x cool enough. Living with it was starting to impact my focus, and honestly, my enjoyment of just *being* in the room.
-
-So, I dove down the rabbit hole of PC upgrades. I'd put it off for ages, thinking it wasn't necessary. But this unexpected relocation forced me to confront the noise. After a bit of research, I landed on the be quiet! Pure Rock 2. The reviews raved about its quiet performance, and let’s be honest, “be quiet!” is a pretty attractive promise.
-
-The install was surprisingly straightforward, and the difference is *remarkable*. The hum is practically gone. It’s a small victory, sure, but it’s also a reminder that sometimes, the things we overlook – the subtle annoyances – can have a bigger impact than we realize. And sometimes, a little upgrade can bring a surprising amount of peace to your space. Now, if you’ll excuse me, I’m going to enjoy the quiet.

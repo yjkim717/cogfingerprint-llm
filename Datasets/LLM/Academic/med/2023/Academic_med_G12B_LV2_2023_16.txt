@@ -1,4 +1,0 @@
-
-## Abstract
-
-Current Alzheimer's disease (AD) research increasingly relies on plasma biomarkers for early detection and disease monitoring. However, a critical gap exists regarding the quantification of biological variation in these biomarkers within cognitively normal individuals. This study addresses this limitation by examining the inherent variability of key plasma biomarkers associated with AD pathology in a healthy control cohort. Understanding the extent of this variation is crucial for establishing reliable reference ranges, improving diagnostic accuracy, and minimizing false positives in future clinical trials and population-based screening efforts. Findings contribute to refining biomarker interpretation and advancing AD research.

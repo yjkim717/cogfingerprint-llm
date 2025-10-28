@@ -1,5 +1,0 @@
-**Abstract**
-
-The surface mobility of hydroxyl (OH) radicals on water ice is a critical, yet poorly constrained, parameter governing the chemical complexity of interstellar ices. This study presents an experimental determination of the activation energy (Ea) for the diffusion of OH radicals on an amorphous solid water (ASW) surface at astrophysically relevant conditions. Through a controlled temperature-programmed desorption (TPD) methodology, we quantified the diffusion kinetics, yielding an Ea of 0.14 ± 0.02 eV. This relatively low energy barrier implies that OH radical diffusion becomes significant at temperatures around 36 K in cold molecular clouds and protoplanetary disk midplanes. These results provide a fundamental kinetic parameter for astrochemical models, demonstrating that OH-driven surface reactions, including the formation of complex organic molecules (COMs), can be activated in warmer regions of interstellar ices previously considered inert, thereby reshaping our understanding of reaction networks in star-forming regions.
-
-(149 words)

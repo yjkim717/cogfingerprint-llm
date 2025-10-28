@@ -1,5 +1,0 @@
-Title: P300 Evoked Potentials as a Cognitive Biomarker in Iron-Deficiency Anemia: A Systematic Review
-
-Abstract:
-
-Iron-deficiency anemia (IDA) has been linked to cognitive impairments, particularly in women. This systematic review investigates the efficacy of P300 evoked potentials as a cognitive assessment tool in females with IDA. A comprehensive analysis of existing literature reveals that IDA is associated with impaired P300 potentials, indicative of compromised cognitive processing. Notably, iron supplementation has been shown to ameliorate P300 latencies and amplitudes, suggesting a reversible cognitive deficit. The findings underscore the utility of P300 as a sensitive biomarker for monitoring cognitive changes in IDA. Furthermore, the results imply that early iron intervention may mitigate the risk of mild cognitive impairment in this population. As of 2022, these findings have significant implications for the diagnosis and management of IDA-related cognitive decline, highlighting the need for further research into the neurophysiological mechanisms underlying IDA-induced cognitive impairment.

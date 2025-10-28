@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In 2022, research highlighted the pivotal role of perovskite catalysts' surface structure in modulating the oxygen evolution reaction (OER) via lattice oxygen oxidation. Focusing on surface Fe sites and Sr vacancies, this study elucidated the mechanistic interplay between surface configurations and OER activity. Our findings underscore the significance of tailored surface engineering in optimizing perovskite catalysts for enhanced electrocatalytic performance, shedding new light on the design of efficient OER catalysts."

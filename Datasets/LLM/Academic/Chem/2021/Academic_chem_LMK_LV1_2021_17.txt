@@ -1,5 +1,0 @@
-Title: Investigating the Crystalline Structure of Mixed Ices on Refractory Grains via Transmission Electron Microscopy
-
-Abstract:
-
-The morphology of ices formed on refractory grains is crucial in understanding their role in protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to examine the crystalline structure of mixed ices composed of H2O, CO2, and CO. Our results show that the crystallization process is significantly influenced by the composition of the ice mixture. Specifically, the presence of CO2 enhances the formation of crystalline H2O ice, while CO inhibits it, leading to the formation of amorphous ice structures. TEM imaging revealed distinct ice morphologies, including hexagonal and cubic crystalline structures, as well as amorphous phases. These findings have important implications for our understanding of ice formation and evolution in protoplanetary disks, shedding light on the complex interactions between ice composition, crystallization, and morphology. This research contributes to the ongoing investigation of the role of ices in planetary formation and the origins of our solar system.

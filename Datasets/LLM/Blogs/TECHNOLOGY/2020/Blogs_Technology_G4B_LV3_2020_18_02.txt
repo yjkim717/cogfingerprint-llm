@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone, suitable for 2020:
-
----
-
-**The Ghost in the Directory**
-
-It’s funny how a simple login script can suddenly feel like a huge mystery. I was wrestling with one last week – mapping network drives based on office location in Active Directory for a Server 2012 R2 environment.  The strangest thing? The office identifiers just… vanished. Like a ghost in the directory. 
-
-It made me realize how reliant we’ve become on things working *automatically*.  Sometimes, the most frustrating tech problems aren’t about the software itself, but about the underlying data and how it’s organized. A little reminder that even in 2020, a solid understanding of the basics is key.

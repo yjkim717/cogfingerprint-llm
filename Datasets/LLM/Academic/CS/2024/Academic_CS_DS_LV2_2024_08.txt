@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-Accurate state estimation remains a critical challenge for autonomous robot navigation. Traditional evaluation metrics, often based on the SE(3) Lie group, primarily assess pose error, neglecting the significance of linear velocity in dynamic systems. This paper introduces a novel, unified evaluation framework grounded in the SE2(3) Lie group, which explicitly incorporates linear velocity into the state error metric. This formulation provides a more holistic and physically meaningful measure of estimation quality for agile platforms. To enable this analysis, we address the practical issue of obtaining high-fidelity ground truth velocity data. We propose a method leveraging Chebyshev interpolation and pseudospectral parameterization to generate a smooth, analytically differentiable trajectory from discrete pose measurements. This approach allows for the precise computation of linear and angular velocities, mitigating noise inherent in numerical differentiation. Our 2024 experimental results demonstrate that the proposed SE2(3) metric, combined with our robust trajectory generation, yields a more discriminative and reliable benchmark for comparing state estimation algorithms, particularly in high-dynamic scenarios.

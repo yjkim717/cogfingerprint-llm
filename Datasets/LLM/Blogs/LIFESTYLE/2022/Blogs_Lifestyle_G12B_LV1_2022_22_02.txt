@@ -1,5 +1,0 @@
->## The Quiet Hum of Progress
-
-It's funny, isn't it, how hobbies bleed into life? I’ve been completely consumed by building PCs lately. Specifically, I’m wrestling with cooling solutions for my latest project: a compact powerhouse with a Ryzen 5800X3D and a hefty 3090. Trying to keep that thing running cool and quiet in a Meshify 2 Compact has been a surprisingly meditative exercise. 
-
-It's forced me to slow down, to research, to really *think* about the components and how they interact. It’s a far cry from the instant gratification of scrolling through social media. There's a quiet satisfaction in problem-solving, in optimizing something for peak performance. Maybe it's a metaphor for life – finding the right balance, keeping things cool under pressure. And hoping I can snag a decent AIO for under $100!

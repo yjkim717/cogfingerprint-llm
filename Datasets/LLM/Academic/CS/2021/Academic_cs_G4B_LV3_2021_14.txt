@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, adhering to the specified style and context:
-
-**Abstract**
-
-Recent advancements in autonomous vehicle technology necessitate robust collision avoidance strategies. This research investigates the efficacy of reinforcement learning (RL) approaches for centralized control within multi-agent systems, specifically targeting rear-end collision mitigation. We evaluate Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC) algorithms, leveraging simulated environments to assess their performance.  Experimental results demonstrate a significant advantage for SAC, achieving a 91% success rate in preventing simulated collisions compared to PPO’s 84%.  The comparative analysis highlights SAC’s superior exploration capabilities and stability in complex, dynamic traffic scenarios.  These findings contribute to the growing body of literature on decentralized control and adaptive behavior in autonomous driving, suggesting SAC as a promising candidate for real-world deployment in 2021 and beyond. Further research will explore scalability and transferability to diverse operational design domains.

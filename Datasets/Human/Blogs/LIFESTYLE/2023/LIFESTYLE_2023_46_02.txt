@@ -1,5 +1,0 @@
-Year: 2023
-Author: Durahl
-URL: https://www.reddit.com/r/Machinists/comments/128z6gk/mitutoyo_quantumike_29314030_data_port/
-
-Greetings! I've recently purchased a from Japan imported ***Mitutoyo*** *Digital Micrometer QuantuMike MDE25MX (293-140-30)* off eBay and while I have no particular complains with them there's but one thing that is kinda ringing an Alarm Bell - The lack of Pins/Contacts in the Data Port: None towards the Front... Golden Band towards the Inside? None towards the Back... I also happen to have a ***Mitutoyo*** *Digimatic (500-161-30)* also equipped with a Data Port, and *they* have Pins/Contacts inside them: Contacts\/Pins towards the Back. I don't *actually* have any particular need for the Data Port ( as such I don't have a Cable to test with ) but it being an eBay Purchase I was requested to leave a Feedback and yea... I'd like to give a proper one. Am I looking at a possible Counterfeit? 🤔🤨

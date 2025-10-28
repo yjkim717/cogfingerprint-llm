@@ -1,7 +1,0 @@
-## Wrestling with Whitespace: My React Native Web Adventure
-
-Okay, so I’ve been diving deep into React Native for Web lately, trying to build a single codebase that works beautifully on mobile *and* desktop. It's been a fun challenge, but also a source of some unexpected frustrations!
-
-Specifically, I ran into a weird issue with my drawer navigation. On mobile, it looked perfect. But when I scaled it up to desktop, the entire app felt stretched out, with huge margins eating up valuable screen real estate. 
-
-Turns out, React Native’s default styling doesn't always translate seamlessly to the web. After a bit of digging (and a few Expo-related head-scratches!), I finally figured out a clever way to adjust those margins using some inline styles and conditional rendering. Small victory, but a reminder that cross-platform development is all about those little adjustments! Anyone else battling similar UI quirks?

@@ -1,7 +1,0 @@
-**Abstract**
-
-The escalating prevalence of mild cognitive impairment (MCI) and the associated risk of Alzheimer’s disease necessitate refined diagnostic and risk stratification strategies. Current diagnostic approaches often rely on cerebrospinal fluid or amyloid PET imaging, procedures exhibiting significant cost and logistical limitations. This study introduces a novel, two-step workflow leveraging plasma p-tau217 as a primary screening biomarker for amyloid beta (Aβ) positivity in individuals with MCI. 
-
-Employing a cohort of MCI patients, we evaluated the efficacy of p-tau217 in identifying Aβ-positive cases. Preliminary findings demonstrate a high sensitivity in efficiently differentiating Aβ-positive MCI patients from those without Aβ deposition, effectively reducing the reliance on more resource-intensive confirmatory assays. Specifically, p-tau217 exhibited a significantly elevated level in individuals subsequently confirmed via standard Aβ measurement techniques. 
-
-This streamlined approach facilitates rapid and cost-effective risk stratification within MCI populations, potentially enabling earlier intervention and improved patient outcomes. Further research is warranted to validate these findings across diverse populations and to explore the potential of p-tau217 as a standalone biomarker for predicting disease progression. The observed correlation between plasma p-tau217 and p-tau217 isoforms (e.g., p-tau217) highlights the potential of this biomarker in capturing early pathological changes.

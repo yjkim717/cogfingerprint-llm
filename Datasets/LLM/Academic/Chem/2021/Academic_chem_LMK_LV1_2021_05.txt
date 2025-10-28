@@ -1,5 +1,0 @@
-Title: Investigating the Crystallization and Morphology of H2O, CO2, and CO Ices on Refractory Grains using Transmission Electron Microscopy
-
-Abstract:
-
-The crystallization and morphology of ices comprising H2O, CO2, and CO on refractory grains are crucial in understanding their role in protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to investigate the microstructure and phase transitions of these ices. Amorphous ice samples were prepared by deposition onto cryo-cooled substrates, followed by in situ TEM analysis. Our results show that the morphology of the ices is strongly influenced by the composition and temperature. Crystallization of amorphous H2O ice was observed to occur at temperatures above 140 K, whereas CO2 and CO ices remained amorphous up to 50 K. The presence of refractory grains was found to affect the ice morphology, promoting the formation of crystalline structures. These findings have significant implications for our understanding of ice formation and evolution in protoplanetary disks, and the potential for these ices to influence the chemistry and physics of planetary formation. (2021)

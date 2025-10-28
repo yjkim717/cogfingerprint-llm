@@ -1,3 +1,0 @@
-It’s 2024, and sometimes I feel like a digital gardener, tending to sprawling ecosystems of code. Recently, I’ve been wrestling with a project for RCA developers—specifically, automating mint number updates. The idea was simple: use the Reddit API or even a blockchain ledger to track each new release automatically. But the reality? A tangle of third-party development hurdles.
-
-It made me reflect on our constant push to automate. We build bridges between platforms, hoping for efficiency, yet often creating new layers of complexity. In the quiet hum of my server, I’m reminded that technology isn't just about solving problems—it's about understanding the new ones we create in the process.

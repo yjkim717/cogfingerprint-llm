@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a physics publication in 2024:
-
-**Abstract:**
-
-We present a novel dark matter model incorporating a Conformal Field Theory (CFT) sector coupled to the Standard Model (SM) through a neutrino portal. This framework proposes a mechanism wherein the CFT undergoes a conformal freeze-in transition, leading to a confined phase and potentially generating a stable dark matter relic abundance. Notably, the interaction structure naturally provides a pathway for generating active neutrino masses, alleviating the established fine-tuning problem. We explore the parameter space of this model, evaluating its consistency with current X-ray observational constraints and relic density measurements. Preliminary results suggest viable regions where the dark matter candidate fulfills observational requirements, offering a compelling alternative to traditional weakly interacting massive particle (WIMP) scenarios and providing a unified explanation for both dark matter and neutrino mass origins.

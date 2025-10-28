@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational style:
-
----
-
-**Building Things with Rust – A Surprisingly Complex Journey**
-
-2022 felt like a year of diving into new technical challenges. I’d been tinkering with Rust for GUI development, hoping to build cross-platform apps – Mac, Linux, and even dipping my toes into Windows. But let me tell you, it’s a steeper climb than I anticipated! 
-
-There’s a frustrating lack of straightforward advice, especially when it comes to getting those beautiful Windows 11 styling details right. It highlighted a broader truth: sometimes the most rewarding projects are the ones that force you to learn, adapt, and really wrestle with the details.  It’s a reminder that building anything worthwhile takes persistence.

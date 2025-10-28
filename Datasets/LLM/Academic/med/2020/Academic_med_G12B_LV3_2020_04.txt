@@ -1,5 +1,0 @@
- Here's an abstract inspired by the provided summary and keywords, written in a formal, academic style suitable for a medical research context:
-
-**Abstract**
-
-The management of recurrent and stage IV breast cancer underwent significant refinement as reflected in the 2020 National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines in Oncology. This update underscores a treatment paradigm increasingly driven by the intrinsic molecular characteristics of the tumor, specifically hormone-receptor status and HER2 expression. Contemporary systemic therapy options have expanded considerably, offering improved clinical outcomes and necessitating a personalized approach. The guidelines emphasize a careful integration of tumor biology with patient-specific factors and disease characteristics to optimize treatment selection. This shift reflects ongoing advancements in targeted therapies and immunotherapies, ultimately aiming to prolong survival and enhance quality of life for patients with metastatic breast cancer.

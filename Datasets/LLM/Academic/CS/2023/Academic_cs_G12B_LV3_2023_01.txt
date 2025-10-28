@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2023:
-
-**Abstract**
-
-Recent advances in contrastive language-image pre-training (CLIP) have demonstrated remarkable zero-shot learning capabilities. This work investigates the internal representations learned by the CLIP image encoder through a novel decomposition strategy. We leverage CLIP's text encoder to interpret the resulting image representation components, enabling the identification of property-specific roles within individual attention heads. Our analysis reveals emergent spatial localization patterns within the encoder, suggesting a hierarchical understanding of visual features. Furthermore, we demonstrate the ability to selectively remove spurious features identified via this decomposition, resulting in improved model robustness and performance on downstream tasks. This research contributes to a deeper understanding of CLIP’s internal mechanisms and provides a methodology for targeted intervention and refinement of large-scale vision-language models.

@@ -1,8 +1,0 @@
-Author: N. Arkani-Hamed
-Title: On unitarity of tree-level string amplitudes
-Paper ID: 0654e8a4c56ad2597afd144c9192c7db080ed417
-Year: 2022
-Author Index: 2
-
-Abstract:
-Four-particle tree-level scattering amplitudes in string theory are magically consistent with unitarity, reflected in the non-trivial fact that beneath the critical dimension, the residues of the amplitudes on massive poles can be expanded in partial waves with all positive coefficients. While this follows (rather indirectly) from the no-ghost theorem, the simplicity of the statement and its fundamental importance for the physical consistency of string theory begs for a more direct and elementary understanding. In this note we take a step in this direction by presenting a new expression for the partial wave coefficients of string amplitudes, given by surprisingly simple double/triple contour integrals for open/closed strings. This representation allows us to directly prove unitarity of all superstring theories in D ≤ 6 spacetime dimensions, and can also be used to determine various asymptotics of the partial waves at large mass levels.

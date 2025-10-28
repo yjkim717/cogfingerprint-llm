@@ -1,9 +1,0 @@
-The Frustrating Reality of Account Lockouts in a Hybrid World
-
-As a sysadmin, I've grown accustomed to troubleshooting the occasional hiccup in our organization's IT infrastructure. However, nothing is more frustrating than dealing with frequent account lockouts. It's 2023, and we're living in a hybrid environment where Microsoft credentials are the key to accessing multiple services and applications. In theory, this should streamline our workflow and improve productivity. In reality, it's often a recipe for disaster.
-
-Every time a user reports being locked out of their account, it's like a mini-panic sets in. Was it a misplaced password attempt? A rogue application trying to authenticate? Or perhaps a malicious actor trying to gain unauthorized access? The possibilities are endless, and the investigation can be a time-consuming and maddening process.
-
-The root cause often lies in the complex interplay between our on-premises Active Directory and the various Microsoft services we use in the cloud. When multiple applications and services attempt to verify user credentials simultaneously, it can lead to authentication issues and, ultimately, account lockouts. It's a classic case of too many cooks in the kitchen, where each service is trying to authenticate the user, but sometimes, they're using outdated or incorrect credentials.
-
-To mitigate this issue, we're exploring ways to simplify our authentication processes and reduce the number of unnecessary authentication attempts. By implementing a more streamlined approach to credential management, we hope to minimize the frustration and wasted time associated with account lockouts. It's a challenge, but one that's worth tackling to create a more seamless and efficient hybrid environment.

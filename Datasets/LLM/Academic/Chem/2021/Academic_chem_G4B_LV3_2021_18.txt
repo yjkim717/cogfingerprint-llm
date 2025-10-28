@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract**
-
-Recent investigations into the mechanistic pathways of formaldehyde formation have highlighted inconsistencies across existing literature. This study reports on a newly identified catalytic process wherein carbon atoms engage with amorphous solid water (ASW), ultimately yielding formaldehyde. Utilizing a combination of density functional theory (DFT) calculations and experimental kinetic isotope effect (KIE) measurements, we demonstrate that hydrogen bonding within the ASW network facilitates this reaction. Specifically, the observed KIE suggests a concerted mechanism involving carbon-hydrogen bond activation.  Our findings challenge prevailing models and propose a distinct route, contingent upon the unique structural properties of ASW.  These results contribute to a more comprehensive understanding of carbon atom reactivity and offer potential insights into the role of hydrated materials as catalysts in organic synthesis, with implications for formaldehyde production and related industrial processes.

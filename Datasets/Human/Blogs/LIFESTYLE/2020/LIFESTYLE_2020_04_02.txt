@@ -1,5 +1,0 @@
-Year: 2020
-Author: alliterativehyjinks
-URL: https://www.reddit.com/r/agilecoaching/comments/elmozg/my_team_fails_at_scrum_any_advice/
-
-I took over a team from a scrum master who was a really poor leader for the team and allowed all kinds of terrible habits to form. Sitting, multitasking, and showing up late to scrum, are my biggest peeves. Folks often leave their desks late and still mosey to grab a cup of coffee on their way... And it is not one or two people. Sometimes I am waiting in the room with remote team members on the phone for upwards of 5 minutes before anyone from the team joins! Also we start a 5 after the hour to allow people time if they are coming from another meeting. I am hitting reset next week, telling them the expectations for the multitasking, standing, and side convos, but any suggestions to get people to be more prompt?? What about recentering to get them to own scrum for themselves?

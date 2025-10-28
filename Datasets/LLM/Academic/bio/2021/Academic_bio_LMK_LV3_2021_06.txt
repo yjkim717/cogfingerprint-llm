@@ -1,6 +1,0 @@
-Here is a generated abstract inspired by the given summary and keywords:
-
-Title: Enhanced Electrocatalytic Activity of Metal-Organic Frameworks via Carboxylate Ligand Modulation for Oxygen Evolution Reaction
-
-Abstract:
-In 2021, our research demonstrated that metal-organic frameworks (MOFs) functionalized with carboxylate ligands exhibit significantly enhanced electrocatalytic activity for the oxygen evolution reaction (OER). By modulating the interfacial electron distribution and optimizing the Gibbs free energy of intermediates, carboxylate ligands play a crucial role in boosting the OER performance of MOFs. Comparative studies with layered double hydroxides (LDHs) further underscored the efficacy of carboxylate ligands in MOFs, highlighting their potential as promising electrocatalysts for sustainable energy applications.

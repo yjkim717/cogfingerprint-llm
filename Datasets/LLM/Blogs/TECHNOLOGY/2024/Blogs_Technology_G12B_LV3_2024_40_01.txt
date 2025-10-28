@@ -1,7 +1,0 @@
->## Beyond Arduino: My Dip into the Raspberry Pi Pico
-
-Okay, so I've been happily chugging along with Arduino for *years*. It's been my gateway drug into the world of embedded systems, you know? But lately, I’ve been feeling a little… restless. I wanted something more. Something with a bit more oomph, and a richer debugging experience.
-
-A recent Reddit thread sparked my curiosity – folks were discussing the Raspberry Pi Pico. It's tiny, surprisingly powerful, and seemingly overflowing with GPIO pins. Plus, the library support is really starting to take off in 2024. 
-
-The thought of moving beyond the familiar Arduino IDE is a little daunting, I won’t lie. But the potential for more complex projects, combined with the promise of easier debugging (a *real* debug port!), is incredibly enticing. I think it’s time to take the plunge and see what this little Pico can really do. Anyone else made the switch? Let me know your experiences!

@@ -1,9 +1,0 @@
-
-## Accelerating Density Functional Theory Calculations for Large Molecular Systems via GPU-Enabled Octree Partitioning
-
-Computational cost remains a significant bottleneck in Density Functional Theory (DFT) calculations, particularly when applied to complex systems like proteins and large organic molecules. This work presents a novel implementation of DFT within the QUICK electronic structure code, leveraging the parallel processing capabilities of Graphics Processing Units (GPUs) to achieve substantial performance gains. The core innovation lies in the integration of an octree partitioning scheme to efficiently manage the long-range Coulomb interactions inherent in DFT.  Traditional direct summation methods for the electron-electron interaction scale poorly with system size, limiting applicability. Our octree approach recursively subdivides space, concentrating computational effort on regions of high electron density while accurately approximating interactions in sparsely populated areas.
-
-The GPU implementation utilizes CUDA to exploit massive parallelism, specifically targeting the evaluation of the exchange-correlation potential and the long-range Coulomb interaction. Benchmarking against CPU-only calculations demonstrates significant speedups across a range of molecular systems, including peptides and extended organic structures.  Performance scaling analyses reveal near-linear efficiency with increasing GPU core count. These results highlight the potential of this GPU-accelerated, octree-partitioned DFT implementation to enable routine calculations on substantially larger and more complex molecular systems than previously feasible, thereby facilitating advancements in fields such as drug discovery and materials science.
-
-
-

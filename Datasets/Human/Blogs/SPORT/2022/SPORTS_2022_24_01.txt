@@ -1,5 +1,0 @@
-Year: 2022
-Author: 720hp
-URL: https://www.reddit.com/r/GamingLaptops/comments/yewmon/differences_between_razer_alienware_and_legion_vs/
-
-I need a new laptop. My Tuf series is being held together by tape and wishes at this point. In shopping, I see that Razer, Alienware, and Legion 7s are more expensive than an equally equipped Asus, MSI, or Gigabyte. Is there a reason for this? Is the aluminum chassis of these devices a reason for the higher costs? I am looking a system with the following specs: i9 12th genupgradeable to 32/64 GB RAM2 NVMe slots3060 or higher2550x1440 or denser (2500x1600, 4k, etc...) EDIT -- this will be used to game (COD, Crysis (yes I'm still playing it) as well as run Lightroom, Photoshop, Premiere, Vegas, Protools, Ableton, Reaper, Line6 Pod Go Edit, and sometimes Cubase. I also need to run VMware Workstation, Docker containers in Windows, as well as Visual Studio. So you can say it needs to be versatile but not ridiculously bulky.

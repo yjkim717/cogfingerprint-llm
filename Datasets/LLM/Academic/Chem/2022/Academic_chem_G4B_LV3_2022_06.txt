@@ -1,5 +1,0 @@
-Here’s an academic abstract informed by the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-The interstellar medium (ISM) represents a fundamental laboratory for prebiotic chemistry, necessitating investigation into the formation of complex organic molecules. This study examines proposed chemical pathways leading to vinyl and ethyl functionalities within the ISM, with particular emphasis on the catalytic roles of highly reactive hydrogen (H) and hydroxyl (OH) radicals. Utilizing a kinetic modeling approach, we explore the abstraction of hydrogen from acetylene and ethylene, subsequently initiating radical reactions that yield vinyl and ethyl radicals. These intermediates are then proposed to undergo further fragmentation and recombination, ultimately contributing to the observed abundance of simple organic precursors.  Specifically, we detail the significance of H abstraction in driving these transformations, acknowledging the influence of ethyl radical stabilization and the broader implications for the delivery of these building blocks to nascent planetary systems.

@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Clarifying Measures of Association in Clinical Research
-
-Abstract: 
-In clinical research, the accurate interpretation of statistical measures is crucial. This paper delineates the distinctions between risk ratios, odds ratios, and hazard ratios, highlighting their appropriate applications. By examining the underlying assumptions and mathematical derivations of these measures, we provide guidance on their correct usage, facilitating informed decision-making in medical research and practice, as of 2020.

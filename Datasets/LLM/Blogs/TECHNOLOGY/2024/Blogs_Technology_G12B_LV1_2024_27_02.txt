@@ -1,5 +1,0 @@
->## The Deck Felt Stacked, and It Made Me Think About AI
-
-I've been utterly hooked on this card game, Balatro, lately. It’s deceptively simple, but the deck building gets *intense*. I ran into a persistent issue though - the "checkered deck." It just felt… overpowered. Suddenly, runs were too easy, and higher stakes felt less like a challenge and more like a foregone conclusion. 
-
-It struck me as odd. Why would a game designer intentionally include something that shifts the balance so dramatically? And it got me thinking about AI. We’re constantly tweaking algorithms, trying to fine-tune them. Sometimes, a seemingly small change can create an unforeseen advantage, skewing the entire system. Just like that checkered deck, it’s a reminder that even in carefully crafted systems, unintended consequences can emerge.

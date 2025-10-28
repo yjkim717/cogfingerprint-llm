@@ -1,8 +1,0 @@
-Author: V. Karalis
-Title: The Integration of Artificial Intelligence into Clinical Practice
-Paper ID: fd38e97fc6757fddac57720d1030046332e3afb9
-Year: 2024
-Author Index: 18
-
-Abstract:
-The purpose of this literature review is to provide a fundamental synopsis of current research pertaining to artificial intelligence (AI) within the domain of clinical practice. Artificial intelligence has revolutionized the field of medicine and healthcare by providing innovative solutions to complex problems. One of the most important benefits of AI in clinical practice is its ability to investigate extensive volumes of data with efficiency and precision. This has led to the development of various applications that have improved patient outcomes and reduced the workload of healthcare professionals. AI can support doctors in making more accurate diagnoses and developing personalized treatment plans. Successful examples of AI applications are outlined for a series of medical specialties like cardiology, surgery, gastroenterology, pneumology, nephrology, urology, dermatology, orthopedics, neurology, gynecology, ophthalmology, pediatrics, hematology, and critically ill patients, as well as diagnostic methods. Special reference is made to legal and ethical considerations like accuracy, informed consent, privacy issues, data security, regulatory framework, product liability, explainability, and transparency. Finally, this review closes by critically appraising AI use in clinical practice and its future perspectives. However, it is also important to approach its development and implementation cautiously to ensure ethical considerations are met.

@@ -1,4 +1,0 @@
-Title: Advancements in Cardiac Perfusion Analysis using Carimas: A Tomography Imaging Processing Tool
-
-Abstract:
-In 2023, the field of medical imaging continues to evolve with advancements in data processing tools. Carimas, a research-oriented software, has emerged as a pivotal platform for analyzing cardiac perfusion through tomography imaging. By leveraging Carimas' capabilities in visualization, analysis, and modeling, researchers can now quantify myocardial blood flow with enhanced accuracy. This paper presents a comprehensive evaluation of Carimas' efficacy in processing tomography images, highlighting its potential to improve diagnostic precision in cardiac perfusion assessment, thereby contributing to the development of more effective treatment strategies.

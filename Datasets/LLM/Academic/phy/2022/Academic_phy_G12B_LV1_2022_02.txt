@@ -1,9 +1,0 @@
- here:
-
-**Abstract:**
-
-The calculation of scattering amplitudes in string theory remains a central challenge, particularly concerning the verification of fundamental principles like unitarity. This work introduces a novel approach to computing partial wave coefficients for tree-level string amplitudes, leveraging a simplified mathematical framework. Departing from conventional summation techniques, we derive an explicit expression for these coefficients that inherently reflects the underlying unitarity constraints. Crucially, our method allows for a direct proof of unitarity in string theory for dimensions *D ≤ 6*. This result holds significance for superstring theories, where unitarity is paramount for ensuring consistency with quantum field theory. The simplification achieved in our formalism not only facilitates the unitarity check but also offers a potentially more tractable route for exploring higher-genus amplitudes and incorporating interactions beyond the minimal bosonic string. We present a detailed derivation and analysis of this expression, demonstrating its robustness and highlighting its implications for future investigations into the non-perturbative aspects of string theory and its connection to quantum gravity.
-
-
-
----

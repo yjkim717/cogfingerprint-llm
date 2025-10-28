@@ -1,8 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2022:
-
-**Abstract**
-
-The increasing prevalence of Language Model-as-a-Service (LMaaS) platforms presents a challenge in eliciting optimal performance from large pre-trained models without direct access to model parameters. This paper addresses this challenge by introducing a novel framework for prompt tuning within black-box LMaaS settings. Our approach leverages derivative-free optimization techniques to efficiently search a randomly generated subspace of continuous prompts, circumventing the limitations of traditional prompting strategies such as manual prompt engineering and in-context learning. Unlike gradient-based methods, our technique avoids the need for model gradient information, making it particularly well-suited for closed-box deployments. Empirical evaluation demonstrates that our framework consistently achieves superior performance compared to established prompt optimization methods. These results highlight the potential of black-box optimization and continuous prompt tuning for effectively harnessing the capabilities of large language models in resource-constrained and access-restricted environments.
-
-
-

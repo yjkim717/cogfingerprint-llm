@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-In data-dependent acquisition (DDA) mass spectrometry-based proteomics, the co-fragmentation of multiple peptides remains a significant challenge, limiting the sensitivity and depth of proteomic analyses. Traditional database search engines predominantly identify only the most abundant peptide per spectrum, leaving a substantial fraction of chimeric spectra uninterpreted. To address this, we introduce MSFragger-DDA+, a novel algorithm integrated within the FragPipe platform that implements a comprehensive 'hybrid-search' strategy. Our method systematically interrogates DDA spectra for the presence of co-fragmented peptides by concurrently searching for multiple precursor candidates within a single fragmentation event. A critical innovation is its refined false discovery rate (FDR) control framework, which employs advanced decoy database strategies and non-parametric mixture modeling to accurately estimate and control the error rates at both the peptide-spectrum match (PSM) and peptide levels. Benchmarking on complex proteomic datasets demonstrates that MSFragger-DDA+ significantly increases peptide identifications by over 30% compared to conventional search engines, without compromising statistical rigor. This enhanced sensitivity facilitates a more complete characterization of proteomes, including low-abundance and post-translationally modified peptides, thereby advancing the capabilities of discovery proteomics in 2024.

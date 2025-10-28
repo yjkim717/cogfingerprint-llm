@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a physics research paper published in 2023:
-
-**Abstract:**
-
-Recent advancements in surface engineering leverage controlled etching techniques to manipulate catalytic materials. This study investigates the impact of gaseous etching using carbon monoxide on Pt-Ni nano-octahedra, specifically examining their performance in the oxygen reduction reaction (ORR). Selective removal of nickel atoms, facilitated by CO, dramatically alters the electronic structure and surface morphology of the Pt-Ni framework. Electrochemical analysis reveals a substantial enhancement in mass activity, attributed to increased Pt surface area and modified active site density. Furthermore, durability testing indicates improved long-term stability compared to pristine Pt-Ni catalysts. These results suggest a promising route for tailoring electrocatalysts through precisely controlled etching, offering potential for optimized performance in fuel cell technology and related electrochemical applications.

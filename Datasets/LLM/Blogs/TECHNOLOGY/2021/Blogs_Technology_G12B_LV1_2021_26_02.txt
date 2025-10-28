@@ -1,5 +1,0 @@
->## The Unexpected Calm of a Headless Build
-
-It's funny, isn't it? How much we obsess over aesthetics in tech. RGB this, sleek design that. But lately, I've been diving into building a headless server – no monitor, just pure functionality. 
-
-I recently snagged a Corsair CX750M PSU for a steal (seriously, $75 with all the cables!), and the whole process has been surprisingly… relaxing. No chasing perfect cable management for visual appeal, no obsessing over case colours. Just focusing on the nuts and bolts of making something *work*. It's a quiet, efficient kind of satisfaction, and I'm oddly hooked. Maybe less is more, even in the world of computing.

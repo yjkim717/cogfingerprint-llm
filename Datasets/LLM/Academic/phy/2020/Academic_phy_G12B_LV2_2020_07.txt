@@ -1,8 +1,0 @@
- Here's a formal academic-style abstract, suitable for a physics publication, based on the provided summary and context:
-
-**Abstract**
-
-We present a calculation of gravitational scattering amplitudes incorporating the radiative contribution arising from gravitational wave emission, employing a post-Minkowskian approach within the framework of general relativity. Classical calculations of scattering in the Newtonian regime are known to suffer from logarithmic divergences when considering the emitted gravitational radiation. This work addresses this issue by deriving a $G^3$ correction to the scattering amplitude, thereby regularizing the divergent behavior. Utilizing a direct integration approach in the closed-form post-Minkowskian limit, we explicitly compute the amplitude, demonstrating that the inclusion of this radiative correction yields a finite and physically meaningful result. These findings provide valuable insights into the dynamics of interacting massive systems in strong gravitational fields and offer a crucial step towards a complete treatment of radiation-reaction effects within scattering processes, relevant to astrophysical scenarios involving compact object binaries.
-
-
-

@@ -1,5 +1,0 @@
-Here's a formal academic-style abstract based on your provided information, suitable for a medical research context and reflecting a 2024 timeframe:
-
-**Abstract**
-
-Early and accessible biomarkers are crucial for Alzheimer's disease (AD) diagnosis and clinical trial recruitment. This cohort study, conducted in 2024, investigates the utility of a novel plasma phosphorylated tau 217 (p-tau217) immunoassay as a peripheral biomarker for AD pathology. Utilizing observational cohort data, we assessed the assay’s performance in reflecting underlying AD-related brain changes. Preliminary findings suggest a strong correlation between plasma p-tau217 levels and established AD diagnostic criteria, indicating its potential as a valuable tool for disease detection and monitoring in future longitudinal studies.

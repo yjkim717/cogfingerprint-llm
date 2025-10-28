@@ -1,1 +1,0 @@
-It’s 2021, and I’m still puzzled: why do VDI deployments feel like they’re stuck in time? While M365’s Current Channel races ahead with updates, VDI clings to that October 2020 MSI release. It’s like watching a high-speed train from the platform of an old station—you know where you want to be, but you’re just not on board yet.

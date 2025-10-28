@@ -1,8 +1,0 @@
-Author: Gennady Gorin
-Title: Protein velocity and acceleration from single-cell multiomics experiments
-Paper ID: c324852e1af0b6d10ccc92ddd133e530a0ed2429
-Year: 2020
-Author Index: 12
-
-Abstract:
-The simultaneous quantification of protein and RNA makes possible the inference of past, present, and future cell states from single experimental snapshots. To enable such temporal analysis from multimodal single-cell experiments, we introduce an extension of the RNA velocity method that leverages estimates of unprocessed transcript and protein abundances to extrapolate cell states. We apply the model to six datasets and demonstrate consistency among cell landscapes and phase portraits. The analysis software is available as the protaccel Python package.

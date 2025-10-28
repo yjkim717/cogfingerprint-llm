@@ -1,1 +1,0 @@
-Back in 2021, staring at Aruba 3810M firmware versions felt like choosing between two paths in a dark forest. 16.10.0013 or 16.09.0015? Each promised stability, but which held hidden bugs? It’s a reminder that in tech, every update is a leap of faith, trusting the roadmap will lead us somewhere better.

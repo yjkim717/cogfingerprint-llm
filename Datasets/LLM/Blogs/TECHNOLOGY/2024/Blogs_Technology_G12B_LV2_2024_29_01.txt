@@ -1,5 +1,0 @@
-## Finding My Tribe in the Code
-
-It's funny how niche communities bloom online. Lately, I've been really diving back into C programming – a love from my early days – and realized something was missing. Most programming spaces seem heavily skewed toward C++. Don't get me wrong, C++ is fantastic, but the focused C energy felt…sparse. 
-
-So, I did a thing. I built a Discord server, "The C Programmer." It’s still small, but seeing people connect, share snippets, and genuinely *get* the quirks of C has been incredibly rewarding. It’s a reminder that sometimes, the best tech experiences come from carving out a space for your specific passion.

@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-Tumor-infiltrating lymphocytes (TILs) represent a promising therapeutic avenue, particularly within the context of lung cancer. This review synthesizes emerging evidence regarding TIL therapy, focusing on its application in patients with non-small cell lung cancer (NSCLC) exhibiting resistance to conventional immune checkpoint inhibitors (ICIs). While ICIs have revolutionized cancer treatment, a subset of patients demonstrate limited response, suggesting a role for harnessing the body’s own anti-tumor immune response via TILs. Current clinical trials are investigating TIL expansion strategies, including autologous TIL transfer and combinatorial approaches with ICIs, to overcome challenges associated with TIL persistence and effective delivery to the tumor microenvironment.  Further research is critically needed to optimize TIL generation, enhance their functional activity, and fully elucidate the mechanisms underlying TIL-mediated anti-tumor immunity in diverse NSCLC subtypes.

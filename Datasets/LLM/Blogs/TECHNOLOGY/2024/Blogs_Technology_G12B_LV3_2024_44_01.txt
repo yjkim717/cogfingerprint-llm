@@ -1,7 +1,0 @@
->## My Little Pi Media Server and the Quest for Smooth Streaming
-
-Okay, let's be honest, who *hasn't* dabbled in the world of DIY home media servers? I certainly have! My current project? A Plex server running on a Raspberry Pi 4b. It’s a wonderfully compact and surprisingly capable little machine, right? But lately, I've been wrestling with some frustrating slowdowns. A stutter here, a buffering wheel there… it's enough to make you want to just fire up Netflix again.
-
-It got me thinking – this is a common issue, isn't it? The Pi is fantastic, but it's not exactly a powerhouse. So, I've been deep-diving into troubleshooting and optimization. Things like checking network speeds, tweaking the Plex transcoding settings, and even considering a bit of lightweight Linux tuning. 
-
-It's a learning curve, for sure, but the satisfaction of getting this little guy to reliably stream my movie collection to the living room? Totally worth the effort. Anyone else battling the Pi Plex performance blues? Let's share tips!

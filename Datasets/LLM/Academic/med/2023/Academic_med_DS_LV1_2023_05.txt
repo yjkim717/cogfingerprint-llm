@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The management of squamous cell carcinoma of the anal canal (SCCA) continues to evolve, emphasizing a multidisciplinary paradigm as detailed in the National Comprehensive Cancer Network (NCCN) guidelines. The cornerstone of definitive treatment for localized disease remains concurrent chemoradiation therapy (CRT), typically employing a fluoropyrimidine-sensitizing regimen with mitomycin C or cisplatin. Recent guideline iterations have integrated refinements in staging, incorporating both anatomical and prognostic biomarkers to enhance risk stratification. For metastatic or recurrent SCCA not amenable to salvage therapy, systemic treatment strategies have advanced, with evidence supporting the use of immune checkpoint inhibitors alongside traditional cytotoxic chemotherapy. This review synthesizes the 2023 NCCN guideline updates, underscoring the critical integration of medical, surgical, and radiation oncology to optimize oncologic outcomes and preserve sphincter function across the disease spectrum.

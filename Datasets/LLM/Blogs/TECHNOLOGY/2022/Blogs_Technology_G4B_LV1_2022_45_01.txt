@@ -1,7 +1,0 @@
-Okay, here's a reflective blog post inspired by the provided summary, aiming for a conversational tone and around 106 words, set in 2022:
-
----
-
-**The Sticky Middle Ground**
-
-2022 felt like a year of wrestling with the “sticky middle” in our web apps. I was really digging into Angular, trying to build a truly reactive UI, but I kept hitting a wall – the frontend needed constant updates based on backend data.  Suddenly, DTOs (Data Transfer Objects) and thoughtful state management felt less like a nice-to-have and more like a *necessity*. Separating the backend logic from the frontend’s presentation layer felt crucial, and it genuinely shifted my approach. It’s a reminder that elegant code isn’t just about fancy frameworks; it’s about clear boundaries.

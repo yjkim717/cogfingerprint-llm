@@ -1,4 +1,0 @@
-Title: Unitarity in Superstring Theories: A Partial Wave Analysis
-
-Abstract:
-In this work, we derive a novel expression for the partial wave coefficients of string amplitudes, facilitating a direct demonstration of unitarity in superstring theories for spacetime dimensions D ≤ 6. By re-examining the structure of scattering amplitudes, we establish a rigorous framework for analyzing unitarity in superstring theories. Our results provide a significant advancement in understanding the fundamental principles governing superstring interactions, shedding new light on the theoretical foundations of string theory. (2022)

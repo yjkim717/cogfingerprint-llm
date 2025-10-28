@@ -1,5 +1,0 @@
-Year: 2024
-Author: TKInstinct
-URL: https://www.reddit.com/r/computertechs/comments/1ccdrcz/any_suggestions_on_battery_diagnostic_battery/
-
-So I have software called BatteryMon that works but is a bit old and the UI is clunky. Are there any decent battery diagnostic and analysis software? Software that will allow me to run a test on the battery to test its strength and longevity?

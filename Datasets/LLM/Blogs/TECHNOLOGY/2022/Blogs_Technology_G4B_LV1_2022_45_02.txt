@@ -1,7 +1,0 @@
-Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 85 words:
-
----
-
-**WASM Dreams & Rust’s Quirks**
-
-Late 2022 found me wrestling with WebAssembly – specifically, getting it compiled efficiently. I stumbled across a fascinating idea: using Rust to generate WASM IR, favoring OpCode generation over the messy business of string concatenation.  I was hunting for a good library for this, leaning heavily into the `pest.rs` crate. It felt like a surprisingly elegant solution to a complex problem!  Anyone else exploring this space?

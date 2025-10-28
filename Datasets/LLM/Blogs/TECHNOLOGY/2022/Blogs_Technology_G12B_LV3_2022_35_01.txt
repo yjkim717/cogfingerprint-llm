@@ -1,7 +1,0 @@
-ravely.
-
-## When NumPy Threw Me a Curveball (and What I Learned About Linear Algebra)
-
-Okay, confession time. Last week I was wrestling with eigenvectors and eigenvalues in NumPy – fascinating stuff, right? – and got completely tripped up. I was just playing around with matrices, not even *trying* to perform a transformation, and `np.linalg.eig()` was spitting out transformation results! It felt like the code was doing something it shouldn't. 
-
-It was a humbling reminder that even with powerful tools like NumPy, a little bit of linear algebra intuition goes a *long* way. Anyone else had a similar "wait, what?" moment with code recently?

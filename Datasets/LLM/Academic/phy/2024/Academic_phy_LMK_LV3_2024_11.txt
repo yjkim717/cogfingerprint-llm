@@ -1,9 +1,0 @@
-Title: Simulating Quantum Field Theories in Curved Spacetimes via Spin Systems and Majorana Fermions
-
-Abstract:
-
-The simulation of quantum field theories (QFTs) in curved spacetimes has garnered significant attention in recent years, driven by the quest to unify quantum mechanics and general relativity. In this work, we establish a correspondence between spin models and QFTs in two-dimensional curved spacetimes, leveraging the capabilities of quantum simulators. By mapping the dynamics of Majorana fermions onto a system of quantum spins or qubits, we demonstrate the feasibility of simulating complex QFT phenomena using controlled quantum systems.
-
-Our approach relies on the identification of an effective Hamiltonian that captures the essential features of the QFT in curved spacetime, which is then mapped onto a spin system. The resulting spin model is amenable to simulation using existing quantum simulator architectures, enabling the exploration of QFT phenomena in regimes inaccessible to traditional computational methods.
-
-The correspondence between spin models and QFTs established in this work opens up new avenues for investigating the interplay between quantum mechanics, spacetime curvature, and matter. By harnessing the power of quantum simulators, we can gain insight into the behavior of QFTs in curved spacetimes, shedding light on the fundamental principles governing the universe. This research has far-reaching implications for our understanding of quantum gravity, black hole physics, and the early universe, and paves the way for future investigations into the intersection of quantum mechanics and general relativity. (2024)

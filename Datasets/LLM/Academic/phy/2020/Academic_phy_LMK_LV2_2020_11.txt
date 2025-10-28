@@ -1,4 +1,0 @@
-Title: Stability Analysis of Black Resonators and Geons: A Study on Superradiant Instability and Linear Mode Stability
-
-Abstract:
-This study investigates the stability of black resonators and geons under various perturbations, focusing on the role of superradiant instability and ergoregion instability. We examine the linear mode stability of these spacetimes, revealing that black resonators are prone to superradiant instability due to the presence of an ergoregion. In contrast, geons exhibit conditional stability, dependent on the specific perturbation modes. Our analysis demonstrates that the stability properties of these objects are intricately linked to their geometric and topological features. The findings of this research contribute to our understanding of the stability of compact objects in general relativity, shedding light on the complex interplay between gravity, geometry, and perturbation modes. (2020)

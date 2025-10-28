@@ -1,5 +1,0 @@
-Year: 2024
-Author: cecil721
-URL: https://www.reddit.com/r/HomeNetworking/comments/1fif3wy/old_home_networking_problem/
-
-I live in an old home (1900) and recently moved upstairs for work (wfh) due to wife being at home with twins. The router sits connected in my old office (downstairs, opposite side of house). The outlets in my new office are not on the same circuit. There are coax ports in my bedroom (across the hall), and my current proposed solution would be to install a new coax port on my router, and run it to the cable splitter which sits *outside*. We don't use cable at all, we have 500gbs fiber (in fact, the main cable line snapped in a storm a bit back and we have never replaced it lol). So, I'm currently planning on running a new coax line to the splitter from my router, using Moca adapters, and putting a WAP in my bedroom. I have been considering getting a small Moca compliant splitter, and using only the two coax cables I care about. Any suggestions or things I should be worried about?

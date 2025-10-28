@@ -1,5 +1,0 @@
- Here's an abstract inspired by the provided summary and keywords, written in a formal academic style suitable for a physics publication, and contextualized to 2021:
-
-**Abstract**
-
-This work explores the implications of Swampland conjectures for 8-dimensional supergravity (8d SUGRA) theories, leveraging the analysis of 3-brane probe dynamics and a refined formulation of the cobordism conjecture. Our investigation reconstructs internal geometries consistent with 8d SUGRA and imposes stringent constraints on permissible gauge algebras.  Specifically, we demonstrate that 8d SUGRA models exhibiting G2 gauge symmetry are demonstrably excluded from UV-complete string theory constructions, thereby residing within the Swampland. These findings provide further support for the string lamppost principle, suggesting that globally consistent 8d SUGRA theories are likely to be dynamically generated from higher-dimensional string compactifications, rather than arising as fundamental, isolated frameworks.

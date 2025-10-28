@@ -1,1 +1,0 @@
-Remember that late-night search about a health worry? In 2024, trusting an LLM with private queries feels just as vulnerable. We want smart answers from public data, but we desperately need our secrets kept safe in the cloud.

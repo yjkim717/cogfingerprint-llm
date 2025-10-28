@@ -1,7 +1,0 @@
-
-## Abstract: Experimental Determination of OH Radical Diffusion Activation Energy on Interstellar Ice Analogues
-
-The diffusion of reactive species within interstellar ice mantles plays a crucial role in astrochemistry, influencing reaction rates and the overall chemical evolution of molecular clouds. Hydroxyl radicals (OH) are particularly significant due to their involvement in numerous grain-surface reactions. This study, conducted in 2022, presents an experimental determination of the activation energy (Ea) for OH radical diffusion on water ice analogues. Employing a photostimulated desorption (PSD) technique, we investigated the release of OH radicals from frozen mixtures of water ice and CO, mimicking conditions prevalent in dense interstellar environments. By analyzing the temperature dependence of the OH desorption rate, we extracted the Ea using an Arrhenius-type relationship. Our results indicate an activation energy of 0.14 ± 0.01 eV for OH radical diffusion within the ice matrix. This relatively low Ea suggests significant mobility of OH radicals at astrophysically relevant temperatures, potentially facilitating efficient reaction networks. The findings contribute to a refined understanding of grain-surface chemistry and provide valuable constraints for models predicting the abundance and distribution of key molecular species in star-forming regions.
-
-
-

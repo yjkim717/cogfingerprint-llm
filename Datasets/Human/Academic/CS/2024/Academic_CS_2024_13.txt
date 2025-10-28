@@ -1,8 +1,0 @@
-Author: B. Lake
-Title: Overcoming classic challenges for artificial neural networks by providing incentives and practice
-Paper ID: ae25846dddc53ecc60c4aba270d1c90d260d8f47
-Year: 2024
-Author Index: 13
-
-Abstract:
-Since the earliest proposals for artificial neural network (ANN) models of the mind and brain, critics have pointed out key weaknesses in these models compared to human cognitive abilities. Here we review recent work that uses metalearning to overcome several classic challenges, which we characterize as addressing the Problem of Incentive and Practice -- that is, providing machines with both incentives to improve specific skills and opportunities to practice those skills. This explicit optimization contrasts with more conventional approaches that hope the desired behaviour will emerge through optimizing related but different objectives. We review applications of this principle to addressing four classic challenges for ANNs: systematic generalization, catastrophic forgetting, few-shot learning and multi-step reasoning. We also discuss how large language models incorporate key aspects of this metalearning framework (namely, sequence prediction with feedback trained on diverse data), which helps to explain some of their successes on these classic challenges. Finally, we discuss the prospects for understanding aspects of human development through this framework, and whether natural environments provide the right incentives and practice for learning how to make challenging generalizations.

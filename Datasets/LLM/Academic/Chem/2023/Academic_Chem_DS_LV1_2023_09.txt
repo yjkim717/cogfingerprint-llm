@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Title:** A Kinetic Study of Carbon Atom Surface Diffusion as a Primary Driver of Molecular Complexity in Interstellar Ices
-
-**Abstract:**
-
-The genesis of complex organic molecules (COMs) in the interstellar medium remains a pivotal question in astrochemistry. While thermal and non-thermal processes on icy grain mantles are acknowledged, the specific mechanisms initiating carbon-carbon (C–C) bond formation—the foundational step toward chemical complexity—are inadequately constrained. This study investigates the surface diffusion of atomic carbon (C) on low-temperature water-dominated ices as a critical, rate-limiting process. Through a combination of ultra-high-vacuum cryogenic experiments and kinetic Monte Carlo simulations, we quantify the diffusion barriers and hopping rates of C atoms. Our results demonstrate that C atoms become significantly mobile on amorphous solid water at temperatures exceeding 22 K, with an experimentally determined diffusion barrier of \( E_{\text{diff}} = 275 \pm 15 \) K. This mobility facilitates frequent encounters with co-adsorbed radicals and simple organic species, leading to efficient C-addition reactions. We identify a non-trivial reaction network initiated by this process, wherein mobile C atoms bypass traditional, slower pathways like hydrogenation, directly forming reactive intermediates such as CCH and l-C\(_3\). We conclude that carbon atom diffusion is not merely a contributing factor but a fundamental driver of chemical complexity, providing a robust, temperature-dependent mechanism for COM synthesis in translucent clouds and protostellar envelopes.

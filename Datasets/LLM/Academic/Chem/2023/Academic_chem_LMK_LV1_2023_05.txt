@@ -1,5 +1,0 @@
-Title: Unveiling the Role of Carbon Atom Diffusion in Interstellar Ice: A Pathway to Complex Organic Molecule Formation
-
-Abstract:
-
-The formation of complex organic molecules (COMs) in interstellar environments is a topic of significant interest in astrochemistry. Recent studies have highlighted the crucial role of surface diffusion processes on interstellar ice grains. Here, we investigate the diffusion of carbon atoms on interstellar ice surfaces and its implications for COM formation. Utilizing advanced computational simulations, we demonstrate that C atoms exhibit significant mobility on interstellar ice surfaces above 22 K, facilitating C-C bond formation. Our results show that this diffusion-driven process enables the synthesis of complex organic species, thereby enhancing the chemical complexity of interstellar ices. The findings of this study provide new insights into the mechanistic pathways underlying COM formation, shedding light on the molecular precursors to life in the interstellar medium. This research contributes to our understanding of the astrochemical processes governing the evolution of organic matter in the universe.

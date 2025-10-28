@@ -1,9 +1,0 @@
-def generate_blog_post(keywords, summary):
-    # Using the given keywords and summary to generate a blog post
-    blog_post = f"As we navigated the ups and downs of the 2022 college football season, one thing was clear - the College Football Belt was still clutched tightly by the Oregon Ducks. With a well-deserved bye week, they had the chance to rest and recharge before taking on their next challenge: the UCLA Bruins. Baylor and BYU had given them a run for their money earlier in the season, but Oregon had held strong. Now, as they prepared to defend their title, the question on everyone's mind was: could anyone stop them? The Ducks' impressive performance so far had earned them the right to a breather, and they were ready to get back to work. With their sights set on UCLA, Oregon was ready to put on a show." 
-    return blog_post
-
-keywords = ["college football belt", "oregon", "baylor", "byu", "ucla"]
-summary = "Oregon retains the College Football Belt due to a bye week and prepares to defend it against UCLA."
-
-print(generate_blog_post(keywords, summary))

@@ -1,1 +1,0 @@
-"In this study, we investigate the triangular ratio metric in the unit disk of the complex plane, establishing sharp bounds and examining its Hölder continuity. Our results are then applied to quasiconformal mappings, yielding novel insights into their properties, as presented at a 2020 mathematical analysis conference."

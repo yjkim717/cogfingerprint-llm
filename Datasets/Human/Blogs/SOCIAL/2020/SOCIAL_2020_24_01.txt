@@ -1,5 +1,0 @@
-Year: 2020
-Author: BrennanBetelgeuse
-URL: https://www.reddit.com/r/civ/comments/ju3yom/constant_multiplayer_desyncs_since_september/
-
-Hi! The multiplayer worked just fine up until september, when the desyncs started to appear almost every turn. All the classic remedies like restarting the router or rehosting the save did not work. Disabling all mods didn't help either. Is this issue caused by the september update and is there anything we can do to fix it? Thank you in advance!

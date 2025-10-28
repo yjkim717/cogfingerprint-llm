@@ -1,5 +1,0 @@
-Year: 2024
-Author: pnwstarlight
-URL: https://www.reddit.com/r/webhosting/comments/1aj19w7/best_free_control_panel_for_easily_managing/
-
-I've been a Plesk user for around 5 years, but since I recently had issues with it and I find it somewhat expensive for the simple things I'm doing with it, I'm looking for a free control panel that runs on Debian or Ubuntu that I can use instead and has a GUI for the following: * Create multiple domains and subdomains (virtual hosts) * Select PHP version per virtual host * Host a bunch of LNMP stack websites (nginx + mysql + php) * Create mysql databases + phpMyAdmin * (optional) LetsEncrypt integration * (optional) Manage Docker containers * (optional) Configure firewall

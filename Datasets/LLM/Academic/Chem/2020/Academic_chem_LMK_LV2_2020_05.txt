@@ -1,5 +1,0 @@
-Title: Efficient Hydrogenation of Carbon Monoxide in Amorphous Solid Water: Implications for Interstellar Dust Grain Chemistry
-
-Abstract:
-
-The hydrogenation of carbon monoxide (CO) embedded in amorphous solid water (ASW) is a crucial process in the chemistry of interstellar dust grains. Our study demonstrates that CO hydrogenation reactions proceed efficiently in ASW at temperatures up to approximately 70 K. The reaction kinetics were investigated using a combination of experimental and theoretical approaches, revealing a complex interplay between CO diffusion, H-atom tunneling, and reaction thermodynamics. Our results indicate that the ASW ice mantle plays a pivotal role in facilitating CO hydrogenation, thereby influencing the chemical evolution of interstellar environments. The findings have significant implications for understanding the formation of complex organic molecules in the interstellar medium and their delivery to planetary systems. This research contributes to the ongoing exploration of the astrochemical processes governing the molecular complexity of the universe. (2020)

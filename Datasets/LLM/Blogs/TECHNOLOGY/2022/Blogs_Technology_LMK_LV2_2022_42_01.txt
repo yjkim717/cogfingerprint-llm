@@ -1,3 +1,0 @@
-"Designing for the Big Screen: A React Native Web App Dilemma" 
-
-As I worked on my React Native web app in 2022, I hit a snag - it looked great on mobile, but on desktop, it stretched across the entire screen, looking more like a mobile app on steroids than a refined web application. I wanted to add some breathing room with left and right margins, but using Expo and Drawer Navigation complicated things. After some trial and error, I discovered a simple solution that made my app look polished on any screen size. Here's how I did it.

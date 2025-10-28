@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: A Global Compilation of Soil and Near-Surface Temperature Data: The SoilTemp Database
-
-Abstract:
-
-Understanding the complex interactions between microclimate, soil temperature, and ecosystem processes is crucial for predicting the impacts of climate change on organisms and ecosystems. Despite its importance, the lack of comprehensive and globally representative data on soil and near-surface temperature has hindered research in this area. To address this knowledge gap, we present the SoilTemp database, a global compilation of soil and near-surface temperature data. As of 2020, the database aggregates data from numerous sources, providing a robust and spatially extensive dataset that captures the variability in microclimate across diverse ecosystems. By integrating data from various sources, the SoilTemp database enables researchers to investigate the relationships between soil temperature, near-surface temperature, and ecosystem processes at multiple spatial scales. This dataset has the potential to significantly advance our understanding of the complex interactions between microclimate, climate change, and ecosystem functioning.

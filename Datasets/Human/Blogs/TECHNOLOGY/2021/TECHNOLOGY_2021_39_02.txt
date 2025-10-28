@@ -1,5 +1,0 @@
-Year: 2021
-Author: decebaldecebal
-URL: https://www.reddit.com/r/Yield_Farming/comments/nh52mq/best_place_to_stake_bnb_without_fee_or_high_roi/
-
-Hey guys, What is the best way to stake some BNB without a % fee tax?From what farms I saw, they all have a tax. Or maybe if you know ones with high ROI. Currently I have some on Beefy, but the APY is like 10%, and was around 25%. Thinking of going to Pantherswap, the BNB-USDT pool doesn't have a fee, but I am reluctant to sell my BNB to USDT right now. Any other ideas with decent ROI and no fee, or with high ROI and a % fee?

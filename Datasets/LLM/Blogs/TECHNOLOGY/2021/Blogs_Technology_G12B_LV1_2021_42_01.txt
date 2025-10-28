@@ -1,7 +1,0 @@
-## The Quiet Resilience of the Old Guard
-
-It’s 2021, and the tech world is practically vibrating with the hum of deep learning. Neural networks dominate headlines, and XGBoost feels like the go-to for almost every machine learning task. But lately, I've been thinking about the quiet resilience of older techniques. Specifically, Support Vector Machines.
-
-Remember when SVMs, especially with clever kernel tricks, were *the* thing? It feels like they've faded a bit, overshadowed by the flashier newcomers. Yet, I’ve been digging around, and I'm surprised to see them still holding their own in some niches. 
-
-Are there situations where a well-tuned SVM, with its inherent interpretability and sometimes surprising efficiency, can genuinely outperform a more complex model like XGBoost? It's a question that keeps popping up in academic circles, and honestly, it's refreshing to see a little love for the established veterans of the machine learning landscape. Maybe there's room for both the new and the tried-and-true.

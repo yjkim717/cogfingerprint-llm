@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The construction of discrete heteroleptic metallo-supramolecular architectures presents a significant synthetic challenge, particularly when moving beyond high-symmetry, self-complementary ligands. Herein, we report a robust strategy for the rational assembly of low-symmetry, heteroleptic Pd(II) coordination cages. Our approach circumvents the statistical disorder that typically plagues such systems by employing a precisely designed library of complementary, low-symmetry ditopic ligands. These ligands are engineered with differentiated binding angles and steric profiles, enabling them to function as orthogonal pairs during the self-assembly process with Pd(II) ions. This methodology allows for the predictable formation of a single, well-defined cage complex incorporating four chemically distinct ligands in a specific spatial arrangement, as unequivocally confirmed by multi-nuclear NMR spectroscopy and mass spectrometry. The successful implementation of this complementary pairing strategy demonstrates a critical advance in supramolecular design, providing a generalizable pathway to intricate, multi-component functional materials with tailored internal cavities and chemical environments. This work significantly expands the toolbox for constructing complex, non-symmetric systems with potential applications in molecular recognition, catalysis, and compartmentalization.
-
-(Word Count: 215)

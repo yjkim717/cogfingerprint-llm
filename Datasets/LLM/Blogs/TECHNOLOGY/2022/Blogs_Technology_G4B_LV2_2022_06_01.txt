@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on that summary, aiming for a reflective and conversational tone, around 104 words:
-
----
-
-**The Ghosts of 60fps**
-
-There’s something deeply frustrating about a gorgeous, high-Hz monitor just… not performing. I spent a good chunk of 2022 chasing the elusive 60fps in Fallout 4 – a beautiful game, but a demanding one! Endless tweaking of Nvidia Control Panel settings, a desperate attempt to cap the frame rate, and battling phantom mouse lag. 
-
-It felt like wrestling with digital ghosts.  I wanted to *feel* the world, not fight to keep it from stuttering.  Ultimately, it wasn't about hitting a number, but finding a comfortable balance.  Sometimes, chasing perfection just makes you miss the joy of the game itself.

@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a physics publication in 2023:
-
-**Abstract:**
-
-Recent developments in Loop Quantum Gravity (LQG) offer a framework for investigating the nature of black holes beyond classical General Relativity. This work presents a detailed analysis of regular black hole solutions within the LQG formalism, focusing on the implications of quantum spacetime effects on singularity resolution. Specifically, we demonstrate how LQG’s discrete structure fundamentally alters the causal structure surrounding the event horizon, potentially mitigating the formation of a true singularity.  Our investigation reveals emergent invariants – geometric quantities preserved under LQG transformations – that provide a novel description of horizon properties. Furthermore, we explore the theoretical consequences of Hawking evaporation within this modified spacetime, suggesting a departure from standard thermal radiation and hinting at observable deviations from classical predictions.  These findings contribute to a deeper understanding of black hole physics and the broader implications of quantum gravity.

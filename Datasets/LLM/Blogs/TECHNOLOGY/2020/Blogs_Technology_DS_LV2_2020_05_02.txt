@@ -1,1 +1,0 @@
-Back in 2020, I remember diving into Tacotron 2, mesmerized by how code could craft human-like voices from text. Scouring GitHub repos and tutorials, I felt both awe and a bit of unease—such powerful tech at our fingertips. It was a moment of pure, curious exploration, wondering where synthetic voices would take us next.

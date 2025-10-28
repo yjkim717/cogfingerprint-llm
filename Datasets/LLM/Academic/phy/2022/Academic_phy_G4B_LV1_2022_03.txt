@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a physics publication in 2022:
-
-**Abstract**
-
-We investigate the correlation functions within extremal supersymmetric black holes, employing a novel approach to address the complexities arising from strong coupling regimes. Utilizing a supersymmetric framework, we derive precise analytical expressions for the two-point function of a supergraviton mode within these spacetime geometries. Specifically, we focus on obtaining time-independent correlators, a crucial feature for characterizing the black hole's internal dynamics and stability.  Our calculations leverage techniques applicable in the strong coupling limit, offering insights into the collective behavior of the gravitational field.  The resulting formulas provide a foundational element for further theoretical explorations, including potential applications within holographic duality and the study of quantum gravity effects near event horizons.  This work contributes to a deeper understanding of the fundamental properties of extremal black holes and the role of supersymmetry in their correlation structure.

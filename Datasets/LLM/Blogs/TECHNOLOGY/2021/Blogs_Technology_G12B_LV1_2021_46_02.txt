@@ -1,7 +1,0 @@
->## The Lingering Headache of Cloud File Access
-
-Okay, so I've been wrestling with a surprisingly persistent challenge lately: getting seamless access to Azure file shares for our users. We’re heavily invested in Azure, naturally, and our users are loving the flexibility. But the constant need for Azure AD authentication when mapping file shares via GPO? It’s a real productivity killer. 
-
-You'd think in 2021, we’d have a smoother solution. The current method, while functional, requires users to repeatedly authenticate, disrupting their workflow. It feels like a disconnect – we're embracing modern cloud identity, yet relying on a somewhat clunky process for file access.
-
-I’ve been digging into storage account keys and exploring various GPO configurations, trying to find a configuration that allows for more persistent, user-based access. It's a reminder that even with the most powerful cloud platforms, achieving truly seamless integration can be surprisingly intricate. The search continues! Hopefully, I can share a more elegant solution soon.

@@ -1,7 +1,0 @@
->## The Ghost in the Machine (and My Monero Hashrate)
-
-Okay, so, technology is *supposed* to make things easier, right? I thought I was onto something brilliant – a dedicated mining rig running Monero, accessible remotely. Picture it: passively earning crypto while I’m at work! Sounds idyllic, doesn’t it? 
-
-Except… the hashrate has been behaving like a moody teenager. One minute it's humming along nicely, the next it’s plummeted to near zero. I've been wrestling with it for days. Remote access adds a whole new layer of complexity, trying to diagnose the issue from across town. 
-
-It's frustrating, definitely. But it’s also a weirdly compelling lesson in the fragility of these systems. You build something, you *think* it’s stable, and then… the ghost in the machine appears.  I'm digging into logs and configs now, hoping to exorcise whatever gremlin is messing with my mining. Wish me luck! 2021 is proving to be a year of unexpected tech curveballs.

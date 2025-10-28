@@ -1,5 +1,0 @@
-Year: 2024
-Author: ljsr_
-URL: https://www.reddit.com/r/FalloutMods/comments/1cu9nf2/fo4_individual_bug_fixing_mods_that_cover_game/
-
-I'm upgrading from my old gaming laptop to a proper build and with that comes a new playthrough where I'll put my new setup to the test. I was thinking on remopving the unofficial patch because I've heard that even the pre NG version of the mod causes some issues so I wanted to remove it and see what happens. I've noticed the reported stutering to a certain degree on my laptop but didn't believe it was due to this mod. Basically, just want to know if there are individual mods that fix certain critical issues that I can run instead of the patch.

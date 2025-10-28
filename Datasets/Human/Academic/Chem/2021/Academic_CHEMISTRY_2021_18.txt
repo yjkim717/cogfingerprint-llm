@@ -1,8 +1,0 @@
-Author: G. Molpeceres
-Title: Carbon Atom Reactivity with Amorphous Solid Water: H2O-Catalyzed Formation of H2CO
-Paper ID: 6456ebd989204d7668562c11ca8cf13fe820f5a2
-Year: 2021
-Author Index: 18
-
-Abstract:
-We report new computational and experimental evidence of an efficient and astrochemically relevant formation route to formaldehyde (H2CO). This simplest carbonylic compound is central to the formation of complex organics in cold interstellar clouds and is generally regarded to be formed by the hydrogenation of solid-state carbon monoxide. We demonstrate H2CO formation via the reaction of carbon atoms with amorphous solid water. Crucial to our proposed mechanism is a concerted proton transfer catalyzed by the water hydrogen bonding network. Consequently, the reactions 3C + H2O → 3HCOH and 1HCOH → 1H2CO can take place with low or without barriers, contrary to the high-barrier traditional internal hydrogen migration. These low barriers (or the absence thereof) explain the very small kinetic isotope effect in our experiments when comparing the formation of H2CO to D2CO. Our results reconcile the disagreement found in the literature on the reaction route C + H2O → H2CO.

@@ -1,5 +1,0 @@
-Year: 2024
-Author: Goldziher
-URL: https://www.reddit.com/r/nextjs/comments/1gotmmf/thoughts_on_serverlogic/
-
-Hi, I'd like to hear your thoughts on have database logic as part of the NextJS server (e.g. server side react, server actions, or edge runtime). Basically these aspects of NextJS, allow for real fullstack applications - with the business logic that would usually be handled by a backend api, being handled in the server side components of the frontend. I see a lot of benefits to this in terms of prototyping speed, and I can see how it can save on developer bandwidth and debugging. I am though suspicious of this pattern - I dont know how well it scales. I am not sure how easy it is to monitor and observe in production. And I am in general apprehensive about coupling backend and frontend unnecessarily. Please give me some insights from your experience. I'm especially keen to learn how well this works in real world applications that see rapid growth.

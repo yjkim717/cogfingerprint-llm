@@ -1,5 +1,0 @@
-**Abstract**
-
-We propose a novel mechanism for the generation of small neutrino masses within a framework of generalized global symmetries. By gauging the difference between lepton family numbers, \( L_\mu - L_\tau \), we introduce a \( Z' \) boson and, crucially, a noninvertible 1-form symmetry. This generalized symmetry structure naturally protects the neutrino masses, enforcing their vanishing values at the classical level. The symmetry is broken by the presence of lepton family magnetic monopoles, which are topological defects associated with the gauged flavor group. This breaking activates quantum gravitational effects that explicitly violate the associated global charge, thereby generating small, calculable Majorana masses for the neutrinos radiatively. The mass scale is set by the monopole mass and the gauge coupling, providing a dynamical origin for the observed neutrino mass hierarchy without introducing additional sterile states or high-energy scales. This work establishes a concrete connection between noninvertible symmetries, topological defects, and the long-standing puzzle of neutrino mass generation.
-
-(Word Count: 180)

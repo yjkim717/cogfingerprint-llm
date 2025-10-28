@@ -1,9 +1,0 @@
-## Feeling Behind in the Code Race? You're Not Alone.
-
-Okay, so here's the thing. I'm a freshman, diving headfirst into computer science, which is amazing, right? Except… my path is a little different. I’m in this 2+3 program, meaning I’ll be spending two years here before transferring to finish my degree. It’s a cool opportunity, but it also means I’m starting a bit later than some of my peers who’ve been coding since high school.
-
-Honestly, it’s been a little daunting. Everyone seems to be talking about internships and acing coding challenges, and I’m just trying to keep up with the fundamentals. The interview prep feels like a whole other beast! 
-
-I know I shouldn't compare myself, but it's hard not to. 2020 has been a weird year for everyone, and the tech world feels like it's moving at warp speed. But I'm reminding myself that everyone starts somewhere. I'm focusing on building a solid foundation, tackling those coding problems one step at a time, and reaching out for help when I need it. 
-
-Anyone else feeling a little behind the curve? Let's connect and share tips – we're all in this together!

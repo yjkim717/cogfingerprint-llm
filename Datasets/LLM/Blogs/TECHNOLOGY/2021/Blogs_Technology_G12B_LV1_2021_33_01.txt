@@ -1,5 +1,0 @@
->## The Krunker Conundrum and My Browser Battles
-
-It's 2021, and you'd think getting a smooth FPS in a browser game would be a breeze, right? Wrong. I've been wrestling with KrunkerIO lately, a surprisingly addictive little shooter. My frame rates were all over the place, even after disabling every limiter and flipping the hardware acceleration switch in Brave. 
-
-It's a frustrating little microcosm of the broader tech experience, isn't it? We chase optimization, tweak settings, and still sometimes end up with something glitchy. Makes you wonder how much control we *really* have, and how much is just down to the whims of code and hardware compatibility. Back to the drawing board, I guess!

@@ -1,7 +1,0 @@
-Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone:
-
----
-
-**The Labyrinth of AI Art – When Training Goes Wrong**
-
-There’s something incredibly frustrating about chasing a perfect image with AI, right? I’ve been diving deep into the world of SDXL and Kohya, trying to train custom Loras – and let me tell you, it’s felt like wandering a digital labyrinth. I’ve battled under-training, then over-training, and consistently gotten outputs that just… fell flat. It’s a reminder that even with powerful tools like sdxl, achieving consistent results takes patience and a whole lot of tweaking settings.  Anyone else feel this struggle in 2023?

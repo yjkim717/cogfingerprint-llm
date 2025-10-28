@@ -1,5 +1,0 @@
-Year: 2024
-Author: Bayweather4129
-URL: https://www.reddit.com/r/solana/comments/1d0k3mw/how_to_seeexport_more_than_1000_txn_on_solscan/
-
-Can't seem to find the option to anywhere, it doesn't matter what time frame I pick to export as csv it always caps at 1000 txn. If anyone knows how or any other solana blockchain analyzer I am open to suggestions too, thanks!

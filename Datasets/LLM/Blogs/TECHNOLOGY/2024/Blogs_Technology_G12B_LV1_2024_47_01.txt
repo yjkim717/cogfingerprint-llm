@@ -1,5 +1,0 @@
->## The Upgrade Blues: When Your Homelab Dreams Need More Power
-
-So, I'm officially in that upgrade spiral. My trusty Dell T5820, which served admirably for a few years as the heart of my homelab, is starting to show its age. Virtualization, running multiple services, and just generally pushing the limits has finally taken its toll. It's not *broken*, per se, but performance is... well, let's just say it's not inspiring.
-
-It's a funny feeling, isn't it? You invest in this tech, nurture it, and then it's time to move on. Now I’m knee-deep in research, trying to find a replacement that can handle my growing needs – more storage bays are a *must*! The hunt for a powerful server workstation feels a bit daunting, but also exciting. Anyone else feeling the upgrade itch in 2024? Recommendations welcome!

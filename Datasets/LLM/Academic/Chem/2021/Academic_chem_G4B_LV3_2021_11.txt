@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract:**
-
-Metal–organic frameworks (MOFs) are increasingly recognized for their tunable porosity and potential in diverse applications. This study details the synthesis and characterization of a novel fluorescent MOF, designated DUT-140(M), incorporating a strategically designed ligand possessing a luminescent core. The incorporation of this fluorescent moiety facilitates real-time monitoring of structural modifications within the MOF lattice via spectroscopic analysis, particularly through observation of fluorescence intensity shifts. Furthermore, the material’s adsorption behavior was investigated under varying pressures, revealing a pronounced pressure amplification effect. Notably, DUT-140(M) demonstrates negative gas adsorption capabilities, a phenomenon attributed to the ligand’s interaction with target gas molecules. These findings suggest a promising avenue for utilizing fluorescent MOFs in sensing and gas storage technologies, warranting further computational modeling to elucidate the underlying mechanisms.

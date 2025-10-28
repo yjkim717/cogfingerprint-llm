@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The management of recurrent or metastatic esophageal carcinoma (EC) and esophagogastric junction (EGJ) cancer remains a formidable clinical challenge, necessitating a paradigm shift from empiric chemotherapy towards biomarker-driven precision oncology. This review synthesizes the contemporary 2023 National Comprehensive Cancer Network (NCCN) guidelines, which mandate comprehensive molecular profiling as a cornerstone of initial diagnostic workup. For tumors exhibiting HER2 amplification, first-line therapy integrates trastuzumab with platinum/fluoropyrimidine regimens. In the second-line setting and beyond, targeted agents are indicated for specific molecular subsets: anti-PD-1/PD-L1 immunotherapy for tumors with high PD-L1 expression (CPS ≥10) or MSI-H/dMMR status, and trastuzumab deruxtecan for HER2-positive adenocarcinomas. Furthermore, emerging evidence supports the use of fam-trastuzumab deruxtecan-nxki and other novel agents in refractory disease. The guidelines also delineate distinct therapeutic pathways for squamous cell carcinoma (ESCC), emphasizing immune checkpoint inhibitors. This structured, biomarker-informed framework aims to optimize therapeutic efficacy and improve survival outcomes for patients with advanced esophageal and EGJ malignancies.

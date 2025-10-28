@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The white-rot fungus *Pleurotus ostreatus* is a model organism for studying the enzymatic deconstruction of lignocellulose. While its non-selective degradation strategy is well-documented, the transcriptional coordination between ligninolytic and cellulolytic systems remains poorly understood. In this study, we employed comparative transcriptomics to investigate gene expression in wild-type *P. ostreatus* and a novel, lignin-deficient mutant strain cultivated on a lignocellulosic substrate. Our analysis revealed a significant downregulation of key ligninolytic genes, including lignin peroxidases and manganese peroxidases, in the mutant. Concurrently, we observed a marked upregulation of a suite of cellulolytic and hemicellulolytic genes, notably cellobiohydrolases and endoglucanases. These findings suggest the existence of a compensatory transcriptional crosstalk, wherein the impairment of the lignin-degrading machinery triggers an enhanced cellulolytic response. This work, conducted in 2020, provides crucial insights into the hierarchical regulatory networks governing lignocellulose decomposition in basidiomycetes, with implications for optimizing enzyme cocktails in biotechnological applications.

@@ -1,1 +1,0 @@
-This paper presents a polynomial-time algorithm for robustly estimating Gaussian mixture models under adversarial corruptions. By integrating sum-of-squares methods with novel tensor decomposition techniques, we achieve optimal error bounds and establish computational-statistical gaps in high-dimensional robust estimation.
