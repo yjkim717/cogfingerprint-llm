@@ -20,19 +20,19 @@ OPENROUTER_BASE = "https://openrouter.ai/api/v1"
 
 GEMMA_4B = {
     "base_url": OPENROUTER_BASE,
-    "api_key": os.getenv("OPENROUTER_API_KEY"),
+    "api_key": os.getenv("GEMMA_4B_API_KEY") or os.getenv("OPENROUTER_API_KEY"),
     "model": "google/gemma-3-4b-it",  
 }
 
 GEMMA_12B = {
     "base_url": OPENROUTER_BASE,
-    "api_key": os.getenv("OPENROUTER_API_KEY"),
+    "api_key": os.getenv("GEMMA_12B_API_KEY") or os.getenv("OPENROUTER_API_KEY"),
     "model": "google/gemma-3-12b-it",
 }
 
 LLAMA_MAVRICK = {
     "base_url": OPENROUTER_BASE,
-    "api_key": os.getenv("OPENROUTER_API_KEY"),
+    "api_key": os.getenv("LLAMA_MAVRICK_API_KEY") or os.getenv("OPENROUTER_API_KEY"),
     "model": "meta-llama/llama-4-maverick",
 }
 
