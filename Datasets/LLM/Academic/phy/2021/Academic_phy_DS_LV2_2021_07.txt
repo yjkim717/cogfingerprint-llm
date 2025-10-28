@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary and keywords, contextualized for 2021.
-
-***
-
-**Abstract**
-
-This investigation presents a high-precision derivation of radiation-reaction effects within the context of gravitational two-body scattering in General Relativity. While the conservative dynamics of such systems are well-described by the post-Newtonian (PN) formalism, the dissipative effects arising from the emission of gravitational waves introduce a fundamental radiation-reaction force. We systematically compute the changes in the system's 4-momentum, a gauge-invariant measure of the energy and linear momentum carried away to infinity. Our methodology employs a high-order post-Newtonian expansion, extending previously established results to a new level of accuracy. The calculation explicitly yields the reactive contributions to the equations of motion and the resulting scattering angle, bridging the gap between the perturbative two-body problem and the full radiative dynamics. These results are critical for validating effective one-body models and provide essential analytical data for benchmarking numerical relativity simulations of unbound encounters, with implications for understanding hyperbolic encounters of compact objects and their associated transient gravitational-wave signals.
-
-**(Word Count: 195)**

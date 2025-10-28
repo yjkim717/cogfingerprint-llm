@@ -1,5 +1,0 @@
-Year: 2023
-Author: FrankieB86
-URL: https://www.reddit.com/r/sdforall/comments/15dr0b2/what_settings_are_you_using_for_sdxl_kohya/
-
-I've been tinkering around with various settings in training SDXL within Kohya, specifically for Loras. However, I can't quite seem to get the same kind of result I was getting with SD 1.5. I've checked out the guide posted here but in my testing, I've found that many of the results are under trained and a higher network alpha is actually better for my datasets. However, what I'm coming across is either the models being under trained, over trained, or somewhere in the middle where the generations capture the essence of what I'm training, but with low quality results. Because training SDXL takes so long, I wanted to reach out and see what settings others have had success with.

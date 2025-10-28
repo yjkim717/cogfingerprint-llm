@@ -1,8 +1,0 @@
-
-## Abstract: Cavity-Modified Chemical Reactivity: A Quantum Dynamical Investigation of Dissipative Systems Out of Equilibrium
-
-The burgeoning field of cavity quantum electrodynamics (cQED) offers unprecedented opportunities to manipulate and control chemical processes through vibrational strong coupling. This work investigates the impact of strong coupling between a molecular vibrational mode and a confined optical field on chemical reactivity, specifically focusing on systems operating far from equilibrium. Utilizing advanced quantum dynamical methods, we simulate the dynamics of a model chemical reaction within a dissipative solvent environment, where the vibrational mode is strongly coupled to a resonant cavity mode. Our simulations reveal a significant alteration of reaction pathways and rates compared to the non-coupled scenario, demonstrating a clear departure from equilibrium chemical kinetics.  The cavity field effectively modifies the potential energy surface of the reacting molecules, leading to altered transition state geometries and enhanced tunneling probabilities. Furthermore, we explore the role of the dissipative solvent, highlighting its influence on the cavity-mediated modification of reactivity.  The observed effects are fundamentally tied to the non-Markovian nature of the system's dynamics and the breakdown of adiabatic approximations. These findings suggest that cavity-modified kinetics provide a powerful avenue for controlling chemical transformations and designing novel catalytic processes, with implications for fields ranging from photochemistry to materials science.
-
-
-
-

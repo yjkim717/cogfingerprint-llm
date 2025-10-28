@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided concepts.
-
-***
-
-**Abstract**
-
-The fidelity of DNA double-strand break (DSB) repair by non-homologous end-joining (NHEJ) is paramount for genomic stability. While the subdiffusive nature of DSB motion within the nucleus is established, its contribution to the formation of deleterious dicentric chromosomes remains incompletely understood. Here, we integrate single-particle tracking and computational modeling to demonstrate that the spatiotemporal dynamics of radiation-induced DSBs are not purely subdiffusive but are accurately described by a heterogeneous fractional Brownian motion (fBM) framework. This model reveals that persistent co-localization of DSBs, driven by rare but consequential long-range movements, significantly elevates the probability of misrepair. Our findings establish that these kinetic excursions, rather than baseline subdiffusion, are the primary determinant of NHEJ infidelity leading to chromosomal translocations. This work redefines the biophysical principles of DSB misrepair, identifying anomalous diffusion patterns as a critical risk factor in radiogenic genomic instability.
-
-(149 words)

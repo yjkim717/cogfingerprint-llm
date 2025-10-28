@@ -1,5 +1,0 @@
-## The Unexpected Dimension Shift in My LLM Journey
-
-Okay, so I dove into trying out Gemma, that exciting 2B local LLM, and hit a snag! My initial excitement quickly turned to a head-scratching "dimension mismatch." Apparently, the activations (2048) weren't quite playing nice with the Gemma Scope repository’s expected input (2304). 
-
-It's a frustrating feeling, right? Like you're *almost* there, but a tiny detail is blocking your progress. I’m now digging into zero-padding and really understanding those activation dimensions. Anyone else wrestling with this? Let’s troubleshoot together!

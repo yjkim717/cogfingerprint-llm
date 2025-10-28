@@ -1,5 +1,0 @@
-Here's an academic abstract based on the provided summary and keywords, suitable for a 2020 publication:
-
-**Abstract**
-
-Recent advancements in image-to-image translation have been hampered by the reliance on paired training data. This paper presents a novel contrastive learning framework designed to address this limitation, specifically targeting unpaired image-to-image translation tasks. Our approach employs a patch-based strategy, establishing correspondence between image regions within the source and target domains. Critically, we leverage internal image negatives – generated through a masked autoencoder – to augment the feature space and improve representation learning.  This technique mitigates the challenges associated with limited paired data, fostering enhanced translation quality and accelerated training convergence.  Experimental results demonstrate the efficacy of this method, showcasing superior performance compared to existing unpaired techniques, and highlighting the potential of contrastive learning for broader applications within computer vision.

@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-This investigation re-examines the theoretical framework of black hole evaporation by integrating principles from loop quantum gravity (LQG) with semi-classical gravity. We challenge the standard paradigm, which posits a sharp event horizon and a central space-time singularity, by proposing a non-singular quantum geometry at the black hole's core. Our model demonstrates that LQG-induced quantum corrections fundamentally alter the semi-classical evaporation process. The analysis indicates a potential resolution to the information loss paradox, as the evaporation culminates in a stable Planck-scale remnant rather than complete disappearance. This work underscores the necessity of incorporating quantum gravitational effects for a coherent description of late-stage black hole dynamics and provides testable implications for future quantum gravity phenomenology.

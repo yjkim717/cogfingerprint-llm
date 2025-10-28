@@ -1,8 +1,0 @@
-Author: Lu Chen
-Title: Arbitrary Control of Femtosecond Timescale Complex Electrical-field Transients
-Paper ID: 1cf72e4c24108ed59323baea5a025635039282f2
-Year: 2021
-Author Index: 18
-
-Abstract:
-A dielectric-metasurface-enabled pulse shaper able to tailor the temporal instantaneous polarization states within a near-infrared femtosecond pulse is demonstrated. Simultaneous complex wavefront shaping has been implemented by exploiting metasurfaces’ multi-functionalities within a single-pixel.

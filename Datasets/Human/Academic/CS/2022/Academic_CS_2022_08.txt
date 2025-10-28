@@ -1,8 +1,0 @@
-Author: F. Dellaert
-Title: A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors
-Paper ID: 4954bf4f8d9f0ab88c9fba9f5c956a966ad0336b
-Year: 2022
-Author Index: 8
-
-Abstract:
-Quadrupeds are robots that have been of interest in the past few years due to their versatility in navigating across various terrain and utility in several applications. For quadrupeds to navigate without a predefined map a priori, they must rely on SLAM approaches to localize and build the map of the environment. Despite the surge of interest and research development in SLAM and quadrupeds, there still has yet to be an open-source package that capitalizes on the onboard sensors of an affordable quadruped. This motivates the A1 SLAM package, which is an open-source ROS package that provides the Unitree A1 quadruped with real-time, high performing SLAM capabilities using the default sensors shipped with the robot. A1 SLAM solves the PoseSLAM problem using the factor graph paradigm to optimize for the poses throughout the trajectory. A major design feature of the algorithm is using a sliding window of fully connected LiDAR odometry factors. A1 SLAM has been benchmarked against Google's Cartographer and has showed superior performance especially with trajectories experiencing aggressive motion.

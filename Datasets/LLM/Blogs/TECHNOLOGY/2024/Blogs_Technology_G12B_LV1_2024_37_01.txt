@@ -1,5 +1,0 @@
-## Regex Roadblocks and the Ghosts of FCC Legacy
-
-Okay, so I spent a frustrating hour wrestling with JavaScript regex today. I was trying to trim whitespace from a string using anchors (`^` and `$`), a technique drilled into my head during those early FCC legacy challenges. Yet, it stubbornly refused to cooperate! It felt like the regex engine was actively mocking me. 
-
-Turns out, a tiny oversight – forgetting to include the `g` flag for global replacement – was the culprit. A silly mistake, but a potent reminder that even familiar concepts can trip you up. Back to the grind!

@@ -1,5 +1,0 @@
-Year: 2023
-Author: EverydayMustBeFriday
-URL: https://www.reddit.com/r/shopify/comments/13k1ff9/which_payment_processor_for_bancontact_sofort/
-
-Hi, What payment processor is available that is reliable and has options to accept Klarna, Bancontact, SEPA and other popular payments in Europe? Shopify Payments is not available in my country, we have been declined by Mollie, stating that they don’t provide their services to businesses in my country (even though their websites states they do). I am from Slovenia Thanks

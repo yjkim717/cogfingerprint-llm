@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The construction of discrete, heteroleptic supramolecular architectures presents a significant challenge due to the inherent propensity for statistical ligand scrambling. Herein, we report a rational design strategy for the high-fidelity assembly of low-symmetry [Pd<sub>2</sub>L<sub>4</sub>] coordination cages bearing four chemically distinct ligands. Our approach circumvents the formation of isomeric mixtures by employing a pair of complementary, ditopic ligands with programmed geometric and electronic disparities. These ligands are designed to operate as an "ancillary pair," where their differential binding affinities and steric profiles direct the self-assembly process with a cis-blocked palladium(II) cation, inherently favoring the formation of a single heteroleptic isomer. The structural integrity and composition of the resulting cage were unambiguously characterized by a combination of NMR spectroscopy and mass spectrometry. This methodology, which leverages tailored ligand pairings to govern supramolecular complexity, provides a robust and generalizable platform for accessing intricate, multi-component functional materials with precise spatial arrangement of functionalities, with potential applications in catalysis and molecular recognition.

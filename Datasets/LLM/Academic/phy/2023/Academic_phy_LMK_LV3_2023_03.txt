@@ -1,1 +1,0 @@
-"In 2023, we investigate a novel quantum system comprising interacting oscillators and Majorana fermions, conjectured to model black hole dynamics in an emergent universe. Our analysis reveals a profound connection between black hole physics and quantum computing, shedding light on the intricate interplay between quantum mechanics and spacetime geometry."

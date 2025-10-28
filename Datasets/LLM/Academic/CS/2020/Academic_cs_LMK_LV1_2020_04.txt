@@ -1,3 +1,0 @@
-Abstract:
-
-This paper presents a novel optimization framework for proper scoring rules, tailored to elicit accurate forecasts from a forecaster exerting binary effort to refine their posterior belief from a prior distribution. By maximizing the expected payoff increase, we derive a class of scoring rules that incentivize effortful forecasting. We establish approximate optimality guarantees for our proposed rules and demonstrate their efficacy in a series of experiments. Our results contribute to the growing literature on optimizing scoring rules for decision-making under uncertainty, with implications for AI-assisted forecasting and decision-support systems, as of 2020.

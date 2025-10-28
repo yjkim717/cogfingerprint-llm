@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Approximating Revenue in Multi-Item Mechanisms with Unit-Demand Buyers"
-
-In the realm of multi-item mechanism design, a fundamental challenge lies in extending the buy-many constraint to accommodate multiple buyers, a problem that has remained open until now. This paper addresses this gap by introducing a novel sequential item pricing mechanism, tailored for unit-demand buyers, which achieves an $O(\log m)$ approximation to a newly proposed revenue benchmark. Our mechanism leverages a simple yet effective pricing strategy, capitalizing on the inherent structure of buyer preferences to maximize revenue. Through a rigorous analysis, we establish that our mechanism's performance guarantee is robust, even in the face of complex buyer interactions. Our results contribute to the growing literature on multi-item mechanism design, shedding new light on the intricate relationships between buyer behavior, mechanism design, and revenue maximization. (2022)

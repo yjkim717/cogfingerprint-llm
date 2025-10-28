@@ -1,8 +1,0 @@
-Author: S. Gherardini
-Title: Autonomous Dissipative Maxwell’s Demon in a Diamond Spin Qutrit
-Paper ID: 2f1d72e3f5834db3b0969cd97f4a6481bf0bdb5d
-Year: 2021
-Author Index: 13
-
-Abstract:
-Engineered dynamical maps combining coherent and dissipative transformations of quantum states with quantum measurements, have demonstrated a number of technological applications, and promise to be a crucial tool in quantum thermodynamic processes. Here, we exploit the control on the effective open spin qutrit dynamics of an NV center, to experimentally realize an autonomous feedback process (Maxwell demon) with tunable dissipative strength. The feedback is enabled by random measurement events that condition the subsequent dissipative evolution of the qutrit. The efficacy of the autonomous Maxwell demon is quantified by experimentally characterizing the fluctuations of the energy exchanged by the system with the environment by means of a generalized Sagawa-Ueda-Tasaki relation for dissipative dynamics. This opens the way to the implementation of a new class of Maxwell demons, which could be useful for quantum sensing and quantum thermodynamic devices.

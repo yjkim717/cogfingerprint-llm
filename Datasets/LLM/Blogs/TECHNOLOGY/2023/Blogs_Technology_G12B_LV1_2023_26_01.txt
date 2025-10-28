@@ -1,3 +1,0 @@
-## The Unexpected Joy of Linux & My Old X570
-
-It's funny how tech obsessions shift. I recently sold my MSI MEG Ace X570 motherboard – a beast of a board, really. But the real draw, at least for me, was getting GPU passthrough working flawlessly on Linux. It unlocked a whole new level of desktop virtualization I hadn't anticipated. Seeing it go felt a little bittersweet, a reminder of a satisfying tech puzzle solved. Now, onto the next adventure!

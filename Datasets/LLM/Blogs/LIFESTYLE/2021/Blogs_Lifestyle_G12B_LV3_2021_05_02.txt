@@ -1,7 +1,0 @@
->## The Little Machine That Taught Me Patience (and Saved My Aquascape)
-
-Okay, so I'll admit it. I’m a bit of a tinkerer. And lately, that tinkering has been focused on my aquarium. Specifically, building an automated top-off system (ATO). It started as a simple project – preventing evaporation and keeping my delicate aquascape stable. But it quickly became… more.
-
-Like so many DIY projects, the initial build was a little rough around the edges. My first version was cycling on and off constantly, a frantic little pump working overtime. It was a lesson in humility! I’ve since upgraded it, using two float switches – one to start the pump, one to stop it – and the difference is night and day. 
-
-It’s more than just a reliable ATO now. It’s a reminder that even small improvements, born from a little persistence (and a relay!), can make a big difference. Anyone else tackling a DIY project lately?

@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Polariton-Mediated Electron Transfer in the Ultra-Strong Coupling Regime: A Cavity Quantum Electrodynamics Study
-
-Abstract:
-
-The modification of molecular properties within optical cavities has emerged as a promising avenue for controlling chemical reactivity. In this work, we investigate polariton-mediated electron transfer reactions using cavity quantum electrodynamics and quantum dynamical simulations. By explicitly treating the light-matter interaction, we examine the effects of ultra-strong coupling on electron transfer dynamics. Our simulations reveal that the hybridization of molecular and photonic states significantly influences the electron transfer rate, leading to enhanced or suppressed transfer rates depending on the cavity parameters. The results demonstrate the potential of cavity quantum electrodynamics to control electron transfer reactions, paving the way for the development of novel quantum technologies. Our findings highlight the importance of considering the quantum nature of light-matter interactions in the design of cavity-modified chemical reactions, as reported in 2020.

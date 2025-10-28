@@ -1,5 +1,0 @@
-Year: 2022
-Author: FIREATWlLL
-URL: https://www.reddit.com/r/cscareerquestions/comments/szfq2z/good_projects_to_get_grad_quant_positions/
-
-I have always been interested in investment, but I have never worked on any projects oriented on investment. What are some good projects that I could work on to demonstrate interest in the field? I think the answer to this is not simple, it could be from semantic analysis and web scraping to forecasting, transactions to infrastructure. Maybe someone knows what type of project would be hot at the moment? Thanks!

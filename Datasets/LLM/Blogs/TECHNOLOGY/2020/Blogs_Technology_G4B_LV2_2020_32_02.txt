@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft based on that summary, aiming for a reflective and conversational tone with a 2020 feel:
-
----
-
-**The Ghost in the Machine (and My Supermicro Display)**
-
-Remember 2020? Everything felt…fragile, right? Even my little tech setups. I was wrestling with a Supermicro LCD display connected to my pfSense firewall, and it was a frustrating battle. Hours spent digging through FreeBSD libraries and LCDproc – it felt like chasing a ghost. 
-
-Honestly, there’s something humbling about staring down a stubborn piece of hardware. It’s a reminder that even the most sophisticated tech can be stubbornly simple, and sometimes, you just need a fresh pair of eyes (or a helpful forum thread!).  It wasn’t about the display itself, but the quiet persistence needed to get it working.

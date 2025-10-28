@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-**Title:** Refining Therapeutic Paradigms in IDH-Mutant Gliomas: A Contemporary Review of Risk-Adapted Management
-
-The contemporary neuro-oncological management of isocitrate dehydrogenase (IDH)-mutant gliomas is undergoing a significant paradigm shift, moving away from a uniform, aggressive treatment model towards a risk-adapted approach. This evolution is predicated on the integration of molecular classification, which provides superior prognostic stratification compared to histologic grade alone. For patients with favorable risk profiles—characterized by factors such as gross total resection, lower genomic risk scores, and favorable clinical status—there is growing evidence supporting the safe deferral of upfront radiotherapy and alkylating chemotherapy. This strategy mitigates the risk of long-term neurotoxicity without compromising overall survival. Concurrently, the advent of targeted therapeutic agents, specifically small-molecule IDH inhibitors, offers a novel and less toxic alternative for patients with progressive or unresectable disease, potentially delaying the need for conventional cytotoxic regimens. This review synthesizes current evidence to propose a comprehensive, risk-stratified framework for clinical decision-making in 2024, emphasizing the judicious sequencing of maximal safe resection, active surveillance, and targeted therapies to optimize long-term functional and oncological outcomes for patients with IDH-mutant gliomas.

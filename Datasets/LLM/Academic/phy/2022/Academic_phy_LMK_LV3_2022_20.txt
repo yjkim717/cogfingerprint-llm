@@ -1,4 +1,0 @@
-Title: Neutrino Mass Generation via Generalized Symmetry Breaking in Gauged Lepton Family Symmetries
-
-Abstract:
-In the pursuit of understanding neutrino masses beyond the Standard Model (2022), we investigate the role of generalized symmetry breaking in theories featuring gauged lepton family symmetries. By introducing noninvertible symmetries, we demonstrate a novel mechanism for generating neutrino masses. Our analysis reveals that the interplay between generalized symmetry breaking and lepton family symmetries provides a robust framework for explaining the observed neutrino mass hierarchy. This framework offers a promising avenue for exploring physics beyond the Standard Model, with potential implications for our understanding of lepton flavor phenomenology.

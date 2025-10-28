@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-Intracellular transport, a fundamental process for cellular function, is often characterized by anomalous diffusion. The Hurst exponent (H), a metric derived from fractional Brownian motion (fBM) models, is critical for classifying these dynamics as sub- or super-diffusive. However, robust estimation of H from experimental trajectories of endocytic organelles, such as endosomes and lysosomes, is confounded by short, noisy time series inherent to live-cell imaging. To address this, we developed a deep convolutional neural network (CNN) architecture specifically designed for the analysis of heterogeneous intracellular transport. Trained on simulated fBM trajectories, our network directly infers H values from single-particle tracking data, bypassing the limitations of conventional statistical methods. Validation on experimental datasets demonstrated superior performance, yielding accurate and robust estimations even for short trajectories (<100 points). This approach provides a powerful computational tool for dissecting the complex motility patterns of vesicles, offering new insights into the regulation of intracellular trafficking pathways in health and disease.
-
-(149 words)

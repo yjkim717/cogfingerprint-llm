@@ -1,5 +1,0 @@
-Okay, here's a blog post draft inspired by the summary and keywords, aiming for that reflective, conversational style:
-
----
-
-It’s funny how we rely on tech to capture life’s moments, isn’t it? I’ve been wrestling with this lately – trying to meticulously document iPad screen recordings for work. The built-in recorder is… fine, I guess. But it just doesn’t give me the crucial details I need: precise timestamps, the actual video length.  I’m chasing that perfect metadata, hoping to leverage computer vision to pull even more value from these recordings. It’s a little obsessive, maybe, but a tidy record feels important in 2024.

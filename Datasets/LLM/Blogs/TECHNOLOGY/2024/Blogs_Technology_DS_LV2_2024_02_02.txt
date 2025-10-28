@@ -1,5 +1,0 @@
-It’s funny how a single line of code can feel like an old friend—until one day, it doesn’t. For years, I leaned on PowerShell’s Send-MailMessage like a trusty sidekick, firing off automated emails without a second thought. But in 2024, with cybersecurity tighter than ever, that old friend started feeling more like a liability.
-
-I remember the moment it hit me: I was setting up notifications for a medical facility, where data sensitivity isn’t just a checkbox—it’s a promise. Suddenly, Send-MailMessage’s lack of modern security felt glaring. It was like realizing your favorite coffee mug has a crack; you can’t unsee it.
-
-So began the hunt for alternatives—exploring SMTP with TLS, diving into modules like MailKit, and embracing secure connections as the new norm. It wasn’t just about swapping tools; it was a shift in mindset. In our interconnected world, even the smallest scripts carry weight. And honestly? Upgrading felt less like a chore and more like honoring that trust we place in technology to keep things safe.

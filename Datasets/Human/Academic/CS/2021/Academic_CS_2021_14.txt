@@ -1,8 +1,0 @@
-Author: Syafiq Fauzi Bin Kamarulzaman
-Title: Comparison of PPO and SAC Algorithms Towards Decision Making Strategies for Collision Avoidance Among Multiple Autonomous Vehicles
-Paper ID: 679e1797f5e2c2da5ac90aaddbe3d01b8ca50c30
-Year: 2021
-Author Index: 14
-
-Abstract:
-Multiple vehicle collision avoidance strategies with safe lane changing strategy for vehicle control using learning base technique are the most crucial concern in autonomous driving system. Statistics shows that the latest autonomous driving systems are usually prone to rear-end collision. Rear-end collisions often result in severe injuries as well as traffic jam and the consequences are much worse for multiple-vehicle collision. Many previous autonomous driving research focused solely on collision avoidance strategies for two consecutive vehicles. This study proposes a centralised control strategy for multiple vehicles using reinforcement learning focused on partner consideration and goal attainment. The system depicted as a group of vehicles are communicate and coordinate each others by a set of rays and maintain a short following move away. In order to address this challenge, a simulation was implemented in the Unity3D game engine and two state-of-the-art RL algorithms PPO (Proximal Policy Optimization) and SAC (Soft Actor-Critic) were trained by an agent using Unity ML-Agents Toolkit. In terms of success rate, performance, training speed and stability two algorithms are comparable. The potency of algorithms has been assessed by the traffic flow (1) change in vehicle speed, (2) differ in the vehicle beginning positions, and (3) switch to next lane. The agent performed similarly at a 91% success rate in PPO or SAC applications

@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Investigating Radical-Mediated Formation of Vinyl- and Ethyl-Bearing Molecules in Interstellar Environments
-
-Abstract:
-
-The interstellar medium (ISM) is characterized by a complex chemistry involving radical reactions that drive the formation of diverse molecular species. This study (2022) focuses on the radical addition and H abstraction reactions in C2H2, C2H4, and C2H6 systems to elucidate the mechanistic pathways underlying the formation of vinyl- and ethyl-bearing molecules. Using a combination of theoretical and experimental approaches, we investigate the kinetics and dynamics of these reactions, providing insights into the role of radical chemistry in shaping the molecular composition of the ISM. Our results highlight the significance of vinyl radical (C2H3) and ethyl radical (C2H5) intermediates in the formation of complex organic molecules. The findings contribute to a deeper understanding of interstellar chemistry and have implications for the interpretation of observational data from astrochemical surveys.

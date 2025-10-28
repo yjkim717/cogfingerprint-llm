@@ -1,1 +1,0 @@
-Remember March 2020? Suddenly managing hundreds of student devices remotely, I felt like a digital shepherd. That frantic search in the Google Admin console for sync settings wasn't just tech support—it was my first real lesson in scalable empathy.

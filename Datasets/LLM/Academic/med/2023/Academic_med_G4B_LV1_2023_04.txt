@@ -1,5 +1,0 @@
-Here’s an original academic abstract inspired by the provided summary, adhering to the specified criteria:
-
-**Abstract**
-
-The National Comprehensive Cancer Network (NCCN) guidelines represent a cornerstone of evidence-based practice in oncology. This report details a critical review of recent updates to NCCN recommendations for systemic therapy regimens in patients diagnosed with metastatic breast cancer (mStage IV or M1 disease) during 2023.  Current NCCN protocols increasingly emphasize the integration of targeted therapies and immunotherapy alongside traditional chemotherapy, reflecting evolving understanding of the disease’s heterogeneous nature.  Specifically, the guidelines now advocate for tailored treatment approaches based on biomarker status, including HER2 expression and PIK3CA mutations.  Furthermore, the document outlines refined strategies for managing treatment-related toxicities and underscores the importance of multidisciplinary care teams.  Continued adherence to these updated NCCN guidelines is essential for optimizing patient outcomes and improving survival rates in this challenging patient population.

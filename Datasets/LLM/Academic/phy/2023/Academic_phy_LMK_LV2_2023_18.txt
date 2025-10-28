@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In this study, we demonstrate a compact magneto-optical trap for neutral strontium atoms utilizing transmissive metasurfaces. A metasurface splitter and metagratings enable the creation of six beams from two input beams, eliminating the need for bulk optics. This innovative approach enhances the efficiency of atom trapping, paving the way for advancements in quantum technologies (2023)."

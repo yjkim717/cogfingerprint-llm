@@ -1,6 +1,0 @@
-Here is a generated abstract inspired by the given summary and keywords:
-
-Title: Enhanced Lithium-Ion Storage in Sodium Niobate with Expanded Interlayer Spacing
-
-Abstract:
-The burgeoning demand for high-performance lithium-ion storage materials has sparked intense research into novel electrode materials with optimized structural properties. Here, we report the development of sodium niobate (NaNb13O33) with an enlarged interlayer spacing, exhibiting exceptional lithium-ion storage capabilities. The expanded lattice enables rapid Li+ ion diffusion, yielding superior rate performance and cyclic stability. Notably, the material demonstrates remarkable low-temperature adaptability, retaining a significant proportion of its room-temperature capacity at -20°C. Our findings suggest that the tailored interlayer spacing in NaNb13O33 plays a crucial role in modulating its electrochemical properties, paving the way for the design of advanced lithium-ion storage materials. The results underscore the potential of sodium niobate as a promising candidate for next-generation energy storage applications. (2023)

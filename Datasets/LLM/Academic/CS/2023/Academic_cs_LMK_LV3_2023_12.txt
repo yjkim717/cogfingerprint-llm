@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"In this work, we introduce 'mimetic initialization', a novel initialization scheme for self-attention layers in Transformers. By mimicking the behavior of established neural architectures, our approach facilitates more efficient training and enhances accuracy on vision tasks. Empirical evaluations on benchmark datasets demonstrate that mimetic initialization accelerates convergence and improves performance. Our findings suggest that this simple yet effective technique can be seamlessly integrated into existing Transformer-based models, paving the way for further advancements in deep learning for computer vision applications (2023)."

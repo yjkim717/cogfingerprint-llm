@@ -1,7 +1,0 @@
-
-## Crosstalk Mitigation in Photonic Integrated Circuits via Nonuniform Subwavelength Gratings Optimized with Particle Swarm Intelligence
-
-**Abstract:** The increasing density of components within photonic integrated circuits (PICs) presents a significant challenge in managing crosstalk, which degrades signal integrity and limits device performance. This work investigates a novel approach to crosstalk reduction in PICs by employing nonuniform subwavelength grating structures strategically integrated alongside waveguides. These gratings, operating in the regime of near-field coupling, are designed to manipulate the evanescent field distribution and suppress unwanted modal interactions between adjacent waveguides. To optimize the complex geometric parameters of these nonuniform gratings, we leverage Particle Swarm Optimization (PSO), a robust metaheuristic algorithm capable of navigating high-dimensional search spaces efficiently. Finite-difference time-domain (FDTD) simulations were utilized to evaluate the performance of PSO-optimized grating designs. Results demonstrate significant crosstalk reduction (up to 6dB) compared to conventional uniform grating structures and bare waveguides, while maintaining acceptable insertion loss. This approach offers a promising pathway toward high-density, low-crosstalk PICs essential for advanced optical communication and signal processing applications. The demonstrated methodology provides a versatile design framework applicable to a range of waveguide geometries and operating wavelengths.
-
-
-

@@ -1,4 +1,0 @@
-Title: Unveiling a Novel Pathway to Methylamine Formation via Carbon Atom Condensation on Interstellar Ices
-
-Abstract:
-In this study (2024), we investigate the astrochemical kinetics of carbon atom condensation with ammonia on interstellar ices using quantum chemical calculations. Our results reveal a previously unreported pathway to the formation of methylamine, a key precursor to complex organic molecules. The reaction mechanism involves the barrierless condensation of carbon atoms with ammonia, followed by hydrogenation. This discovery sheds new light on the astrochemical origins of methylamine, with significant implications for understanding the chemistry of interstellar ices.

@@ -1,5 +1,0 @@
-Here’s an academic-style abstract based on the provided summary, suitable for a 2022 publication:
-
-**Abstract**
-
-The increasing prevalence of Language Model as a Service (LMaaS) necessitates efficient methods for eliciting optimal performance from these complex models. This work presents a novel black-box tuning framework designed to systematically optimize prompts, circumventing the limitations of manual experimentation and traditional gradient-based approaches. Leveraging derivative-free optimization techniques, our methodology explores the prompt space without requiring explicit model gradients. We demonstrate the efficacy of this framework using the RoBERTa language model, achieving statistically significant improvements over baseline prompt selection strategies.  Preliminary results suggest that this approach offers a viable pathway for maximizing utility within LMaaS deployments, reducing development time and enhancing model responsiveness.

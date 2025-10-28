@@ -1,7 +1,0 @@
-## The Backend Knows Best? Rethinking UI State in 2022
-
-Lately, I've been wrestling with a persistent feeling in my Angular projects: are we overcomplicating things with frontend state management? We pour so much effort into NgRx, Akita, or whatever fancy library is trending, but what if there's a simpler path?
-
-I've been toying with an idea – what if the backend took more responsibility for UI state? Imagine: user performs an action, backend processes it, and then *pushes* the relevant UI data back to the frontend as a clean DTO projection. No more complex reducers, no more tangled state trees. Just concise updates triggered by server responses.
-
-It feels almost…retro, in a way. But the more I think about it, the more appealing it becomes. Of course, finding a Java library that seamlessly integrates with various frontend state management solutions is the current hurdle. But the potential for cleaner code and a more robust architecture? Totally worth exploring, right? Anyone else feeling this shift in perspective?

@@ -1,4 +1,0 @@
-
-## The Unexpected Road to AI Art
-
-It's 2024, and everyone's playing with AI image generation. I jumped in, naturally, aiming to fine-tune Stable Diffusion with Kohya. Let me tell you, it's been a *journey*. Error messages about "exit status" and mysteriously missing metadata have become my unwelcome companions. It’s humbling, honestly. This whole process highlights how much is still under the hood, even with these seemingly magical tools. Still, the potential is intoxicating – and I'm determined to wrestle it into submission!

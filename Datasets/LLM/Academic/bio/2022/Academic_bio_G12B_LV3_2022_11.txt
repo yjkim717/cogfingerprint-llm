@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a 2022 publication:
-
-**Abstract**
-
-The pursuit of reliable biomarkers for Parkinson’s Disease (PD) remains a critical challenge in clinical diagnosis and disease monitoring. This study, conducted in 2022, investigated the potential of Aromatic L-Amino Acid Decarboxylase (AADC) as a novel biomarker within the context of cerebrospinal fluid (CSF) and plasma proteomics. Our findings demonstrate a significant upregulation of AADC protein levels in PD patients compared to control groups, suggesting its involvement in the disease's pathophysiology. Furthermore, a positive correlation was observed between CSF AADC levels and clinical symptom severity, as assessed by established motor rating scales. Notably, AADC distinguished PD patients from individuals with other neurological disorders with encouraging accuracy. These results establish AADC as a promising fluid biomarker for PD, warranting further investigation into its utility for early detection, disease progression monitoring, and potential therapeutic targeting within a dopamine-centric framework.

@@ -1,9 +1,0 @@
-## The Tangled Web of API Validation
-
-It's 2023, and we're all building APIs. Lots of them. Lately, I've been wrestling with a nagging feeling about how I structure validation within my Ecto changesets. Initially, it was straightforward – a single, monolithic changeset handling everything. But as the API grew, so did the changeset, becoming a tangled mess of `required?`, `type?`, and custom validations.
-
-I realized I was sacrificing long-term maintainability for initial speed. Now, I’m experimenting with modularizing these validations, breaking them into smaller, reusable components. It's a bit more upfront work, but the clarity and testability are already paying off. Thinking about it like building with Lego bricks instead of a single, giant blob of clay – that’s the goal. It’s a shift, but one I think will be worth it in the long run.
-
-
-
-Hopefully, this meets your request!

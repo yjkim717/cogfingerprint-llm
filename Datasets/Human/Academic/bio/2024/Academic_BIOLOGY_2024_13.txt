@@ -1,8 +1,0 @@
-Author: Mayar Allam
-Title: Spatial Morphoproteomic Features Predict Uniqueness of Immune Microarchitectures and Responses in Lymphoid Follicles
-Paper ID: 4ae286cccab59ccd1dfb9eac7cd94cb12e8900f2
-Year: 2024
-Author Index: 13
-
-Abstract:
-Multiplex imaging technologies allow the characterization of single cells in their cellular environments. Understanding the organization of single cells within their microenvironment and quantifying disease-status related biomarkers is essential for multiplex datasets. Here we proposed SNOWFLAKE, a graph neural network framework pipeline for the prediction of disease-status from combined multiplex cell expression and morphology in human B-cell follicles. We applied SNOWFLAKE to a multiplex dataset related to COVID-19 infection in humans and showed better predictive power of the SNOWFLAKE pipeline compared to other machine learning and deep learning methods. Moreover, we combined morphological features inside graph edge features to utilize attribution methods for extracting disease-relevant motifs from single-cell spatial graphs. The underlying subgraphs were further analyzed and associated with disease status across the dataset. We showed that SNOWFLAKE successfully extracted significant low dimensional embedding from subgraphs with a clear separation between disease status and helped characterize unique cellular interactions in the subgraphs. SNOWFLAKE is a generalizable pipeline for the analysis of multiplex imaging data modality by extracting disease-relevant subgraphs guided by graph-level prediction.

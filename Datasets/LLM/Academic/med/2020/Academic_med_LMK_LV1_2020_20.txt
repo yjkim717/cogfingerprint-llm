@@ -1,5 +1,0 @@
-Title: Optimizing Endocrine Therapy for Male Breast Cancer: A Review of Current Guidelines and Future Directions
-
-Abstract:
-
-Male breast cancer (MBC) is a rare and understudied disease, accounting for approximately 1% of all breast cancer diagnoses. Hormone receptor-positive (HR+) MBC is the most common subtype, and endocrine therapy plays a crucial role in its management. The 2020 American Society of Clinical Oncology (ASCO) guidelines provide evidence-based recommendations for MBC treatment, including the use of tamoxifen as the preferred endocrine therapy. This review examines the current state of endocrine therapy in HR+MBC, with a focus on tamoxifen efficacy and potential alternatives. We discuss the importance of genetic counseling and testing for MBC patients, particularly those with BRCA1/2 mutations. Furthermore, we highlight areas for future research, including the need for prospective studies to inform optimal treatment strategies for MBC. By synthesizing current guidelines and emerging evidence, this review aims to inform clinicians and researchers on best practices for managing HR+MBC and improving patient outcomes.

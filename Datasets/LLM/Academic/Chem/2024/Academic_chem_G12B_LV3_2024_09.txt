@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, suitable for a chemistry publication in 2024:
-
-**Abstract**
-
-The formation mechanisms of methylamine (CH3NH2) within interstellar ices remain a critical area of astrochemical investigation. This study, employing quantum chemical calculations, explores the efficiency of carbon atom (C) condensation on ammonia-water (NH3-H2O) ices as a potential pathway for CH3NH2 synthesis. Our findings demonstrate that sequential C atom accretion leads to the formation of a remarkably stable CNH3 radical intermediate. Subsequent reactions readily yield CH3NH2, suggesting this process represents a significant contribution to methylamine abundance in cold, dense molecular clouds. The implications of these kinetically favorable reactions for interstellar organic chemistry are discussed, highlighting a novel route for the generation of this key precursor molecule.

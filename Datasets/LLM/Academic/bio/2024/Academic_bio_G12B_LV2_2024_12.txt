@@ -1,8 +1,0 @@
-Here's a formal academic-style abstract, suitable for a bio-focused publication in 2024, based on the provided information:
-
-**Abstract**
-
-Single-cell transcriptomics has revolutionized the study of cellular dynamics, yet inferring developmental trajectories from gene expression profiles remains a significant challenge. Traditional trajectory inference methods, relying on pseudotime, often lack biological grounding and fail to account for the inherent biophysical constraints governing cellular differentiation. Here, we introduce Chronocell, a novel computational framework that integrates process time inference with biophysical modeling to enhance the biological relevance of trajectory analysis. Unlike pseudotime-based approaches, Chronocell estimates the actual elapsed time—process time—cells spend in intermediate states along a differentiation trajectory, leveraging stochastic kinetic models to capture cellular state transitions. This approach incorporates cellular branching and heterogeneity more effectively, yielding trajectories that align more closely with known biological processes. We demonstrate the efficacy of Chronocell through simulations and application to experimental datasets, showcasing improved accuracy in identifying key regulatory events and differentiation bottlenecks. Furthermore, we present a comprehensive comparison with established pseudotime methods, highlighting Chronocell’s ability to resolve temporal dependencies and provide a more nuanced understanding of cellular fate decisions. Chronocell represents a significant advancement in trajectory inference, offering a biophysically informed framework for elucidating dynamic cellular processes and advancing the interpretation of single-cell transcriptomic data.
-
-
-

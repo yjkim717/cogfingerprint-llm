@@ -1,3 +1,0 @@
-There’s a certain kind of quiet that only happens in a small IT department after hours. In 2021, with so many of us still working remotely, that silence felt heavier. I remember staring at the work queue, a fresh ticket blinking—a network outage for the entire sales team. My heart hammered. As the sole T1 analyst, there was no senior to ping, no team huddle. Just me, the problem, and the crushing weight of being the only line of defense.
-
-It’s in these moments you realize technical problems are only half the battle. The other half is the sheer, lonely responsibility of being the one everyone is waiting on. You don’t just fix the issue; you learn to steady your own nerves first.

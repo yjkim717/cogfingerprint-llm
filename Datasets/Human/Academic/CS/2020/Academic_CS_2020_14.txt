@@ -1,8 +1,0 @@
-Author: Syafiq Fauzi Bin Kamarulzaman
-Title: Learning-Based Conceptual framework for Threat Assessment of Multiple Vehicle Collision in Autonomous Driving
-Paper ID: 073068995d1c73d38a5072aa18a63dfd7fce3fe4
-Year: 2020
-Author Index: 14
-
-Abstract:
-The autonomous driving is increasingly mounting, promoting, and promising the future of fully autonomous and, correspondingly presenting new challenges in the field of safety assurance. The unexpected and sudden lane change are extremely serious causes of traffic accident and, such an accident scheme leads the multiple vehicle collisions. Extensive evaluation of recent crash data we found a crucial indication that autonomous driving systems are most prone to rear-end collision, which is the leading factor of chain crash. Learning based self-developing assessment assists the operators in providing the necessary prediction operations or even replace them. Here we proposed a Reinforcement learning-based conceptual framework for threat assessment system and scrutinize critical situations that leads to multiple vehicle collisions in autonomous driving. This paper will encourage our transport community to rethink the existing autonomous driving models and reach out to other disciplines, particularly robotics and machine learning, to join forces to create a secure and effective system.

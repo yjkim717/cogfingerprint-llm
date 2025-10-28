@@ -1,8 +1,0 @@
-Author: N. Ashton
-Title: Plasma p-tau231 and p-tau217 as state markers of amyloid-β pathology in preclinical Alzheimer’s disease
-Paper ID: 312b6d52bb9310ea0df76428e77c792b5849550e
-Year: 2022
-Author Index: 16
-
-Abstract:
-Blood biomarkers indicating elevated amyloid-β (Aβ) pathology in preclinical Alzheimer’s disease are needed to facilitate the initial screening process of participants in disease-modifying trials. Previous biofluid data suggest that phosphorylated tau231 (p-tau231) could indicate incipient Aβ pathology, but a comprehensive comparison with other putative blood biomarkers is lacking. In the ALFA+ cohort, all tested plasma biomarkers (p-tau181, p-tau217, p-tau231, GFAP, NfL and Aβ42/40) were significantly changed in preclinical Alzheimer’s disease. However, plasma p-tau231 reached abnormal levels with the lowest Aβ burden. Plasma p-tau231 and p-tau217 had the strongest association with Aβ positron emission tomography (PET) retention in early accumulating regions and associated with longitudinal increases in Aβ PET uptake in individuals without overt Aβ pathology at baseline. In summary, plasma p-tau231 and p-tau217 better capture the earliest cerebral Aβ changes, before overt Aβ plaque pathology is present, and are promising blood biomarkers to enrich a preclinical population for Alzheimer’s disease clinical trials. A comprehensive comparison of Alzheimer’s disease blood biomarkers in cognitively unimpaired individuals reveals that plasma p-tau231 and p-tau217 capture very early Aβ changes, showing promise as markers to enrich a preclinical population for Alzheimer’s disease clinical trials

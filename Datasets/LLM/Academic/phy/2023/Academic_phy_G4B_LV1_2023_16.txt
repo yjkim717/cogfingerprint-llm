@@ -1,5 +1,0 @@
-Here’s an original academic abstract inspired by the provided summary, suitable for a physics publication in 2023:
-
-**Abstract**
-
-Recent developments in asymptotic symmetry algebra (ASA) offer a novel framework for understanding the structure of Einstein gravity. This work investigates the hitherto underexplored connection between Lorentz generators and supertranslations within this context. We demonstrate that a reparameterization of the conventional Lorentz algebra, utilizing the inclusion of supertranslations, yields an equivalent description. Specifically, we show that the supertranslations, when considered at both null infinity and within a Hamiltonian formulation of the theory, fundamentally alter the symmetry group, effectively providing an alternative representation of the underlying Poincaré algebra. This correspondence suggests a deeper, potentially hidden, symmetry within Einstein gravity, warranting further investigation into the implications for black hole physics and cosmological models.

@@ -1,7 +1,0 @@
->## The Quiet Hum of Homegrown Entertainment
-
-It’s funny, isn’t it, how hobbies evolve? A few years ago, I was chasing the latest streaming service, bouncing between subscriptions. Now? I’m utterly captivated by the quiet hum of my home server. 
-
-It started simply, wanting a central place for family photos. Then came movies, then TV shows, all neatly organized and accessible. Now, running Plex on my trusty TS-453Be NAS, it's become the heart of our entertainment. 
-
-I’m even toying with expanding it, adding a TR-004 and a few more drives. It's a bit nerdy, sure, but there's a real satisfaction in building something that just *works*, providing a reliable, personalized experience. In a world of constant change, this little server feels wonderfully constant, a little pocket of digital calm in 2021.

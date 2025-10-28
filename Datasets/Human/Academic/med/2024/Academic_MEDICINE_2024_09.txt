@@ -1,8 +1,0 @@
-Author: Iyas Daghlas
-Title: Mendelian Randomization Applied to Neurology
-Paper ID: acd2ad8796d3085a2eef3c2423567142bd70785d
-Year: 2024
-Author Index: 9
-
-Abstract:
-The Mendelian randomization (MR) paradigm allows for causal inferences to be drawn using genetic data. In recent years, the expansion of well-powered publicly available genetic association data related to phenotypes such as brain tissue gene expression, brain imaging, and neurologic diseases offers exciting opportunities for the application of MR in the field of neurology. In this review, we discuss the basic principles of MR, its myriad applications to research in neurology, and potential pitfalls of injudicious applications. Throughout, we provide examples where MR-informed findings have shed light on long-standing epidemiologic controversies, provided insights into the pathophysiology of neurologic conditions, prioritized drug targets, and informed drug repurposing opportunities. With the ever-expanding availability of genome-wide association data, we project MR to become a key driver of progress in the field of neurology. It is therefore paramount that academics and clinicians within the field are familiar with the approach.

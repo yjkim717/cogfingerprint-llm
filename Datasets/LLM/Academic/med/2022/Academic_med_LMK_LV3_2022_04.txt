@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Optimizing Breast Cancer Management: Adherence to NCCN Guidelines for Invasive Ductal Carcinoma
-Abstract: The National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines for Breast Cancer provide evidence-based recommendations for managing invasive ductal carcinoma, a prevalent subtype of invasive breast cancer. As of 2022, adherence to these guidelines is crucial for ensuring optimal patient outcomes. This review examines the current clinical management strategies for invasive ductal carcinoma, highlighting the importance of NCCN guideline-concordant care in improving treatment efficacy and reducing mortality rates among breast cancer patients.

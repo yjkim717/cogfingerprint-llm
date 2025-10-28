@@ -1,8 +1,0 @@
-Author: B. Lake
-Title: Improving Systematic Generalization Through Modularity and Augmentation
-Paper ID: 69df5b68fbf492341336b39b4cc9fcc74fff4d5f
-Year: 2022
-Author Index: 13
-
-Abstract:
-Systematic generalization is the ability to combine known parts into novel meaning; an important aspect of efficient human learning, but a weakness of neural network learning. In this work, we investigate how two well-known modeling principles -- modularity and data augmentation -- affect systematic generalization of neural networks in grounded language learning. We analyze how large the vocabulary needs to be to achieve systematic generalization and how similar the augmented data needs to be to the problem at hand. Our findings show that even in the controlled setting of a synthetic benchmark, achieving systematic generalization remains very difficult. After training on an augmented dataset with almost forty times more adverbs than the original problem, a non-modular baseline is not able to systematically generalize to a novel combination of a known verb and adverb. When separating the task into cognitive processes like perception and navigation, a modular neural network is able to utilize the augmented data and generalize more systematically, achieving 70% and 40% exact match increase over state-of-the-art on two gSCAN tests that have not previously been improved. We hope that this work gives insight into the drivers of systematic generalization, and what we still need to improve for neural networks to learn more like humans do.

@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In this study (2021), we demonstrate a dielectric metasurface-based pulse shaper capable of tailoring temporal polarization states within a near-infrared femtosecond pulse. By leveraging complex wavefront shaping, the metasurface enables precise control over the pulse's temporal profile, paving the way for advanced ultrafast optics applications."

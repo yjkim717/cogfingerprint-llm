@@ -1,7 +1,0 @@
-Here’s an original text inspired by the provided summary, formatted as a formal academic abstract suitable for a chemistry journal:
-
-**Abstract**
-
-The investigation of hydroxyl radical (OH•) diffusion on water ice remains a critical area of research for understanding the initial steps of astrochemical and icy planetary processes. Utilizing photostimulated desorption techniques, this work experimentally quantified the activation energy governing OH• diffusion across water ice surfaces at cryogenic temperatures. Measurements conducted in 2022 revealed an activation energy of 0.14 eV at 36 K. This value represents a significant parameter for modeling radical transport within icy environments. 
-
-The observed activation energy suggests a primary diffusion mechanism involving vibrational relaxation of the ice lattice, potentially involving O-H bond stretching and subsequent internal conversion. Further investigation employing isotopic substitution and varying ice crystalline orientations is warranted to elucidate the precise nature of this diffusion pathway and refine theoretical models. These findings contribute to a more comprehensive understanding of radical reactivity and chemical evolution in cold, low-temperature systems.

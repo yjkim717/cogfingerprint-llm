@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a CS publication in 2023:
-
-**Abstract:**
-
-The escalating incidence of social engineering attacks represents a significant and persistent threat within the contemporary cybersecurity landscape. This systematic literature review, conducted in 2023, examines the pervasive role of social engineering in facilitating cybercrime and the substantial financial repercussions it generates.  A critical analysis is presented, addressing ambiguities in defining social engineering techniques and evaluating existing frameworks and lifecycle models proposed to understand and mitigate these attacks. The review synthesizes current research to identify gaps in understanding attacker methodologies and the efficacy of preventative measures. Ultimately, this work contributes to a more refined understanding of social engineering's operational dynamics and informs the development of robust, lifecycle-aware cybersecurity strategies.

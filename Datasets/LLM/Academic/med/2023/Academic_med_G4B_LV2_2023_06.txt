@@ -1,7 +1,0 @@
-**Abstract**
-
-The evolving landscape of targeted therapies in breast cancer necessitates continuous refinement of HER2 testing protocols. This abstract summarizes key updates to the 2023 American Society of Clinical Oncology – College of American Pathologists (ASCO-CAP) guidelines pertaining to HER2 immunohistochemistry (IHC) assessment. While established methodologies remain central, recent approvals of trastuzumab deruxtecan – a highly effective antibody-drug conjugate – have underscored the clinical significance of previously considered low-confidence HER2 IHC results. 
-
-Specifically, the updated ASCO-CAP guidelines maintain the classification of IHC 0 and 1+ results as HER2-positive, reflecting the potential for response to targeted therapies. Prior to 2023, these results often prompted consideration of molecular testing (e.g., fluorescence in situ hybridization – FISH) to definitively establish HER2 status. However, the efficacy of trastuzumab deruxtecan in patients with 1+ HER2 IHC scores, particularly those with specific molecular alterations, has shifted the paradigm. 
-
-Consequently, clinicians and pathologists must carefully interpret IHC results within the context of the broader clinical picture and potential for treatment with agents like trastuzumab deruxtecan. Further research is warranted to fully elucidate the optimal utilization of IHC and molecular testing strategies for maximizing patient benefit in diverse breast cancer subtypes.

@@ -1,3 +1,0 @@
-"Finding My Flow: How Video Programming Became My Creative Outlet"
-
-As I sit here in 2023, surrounded by screens and code, I reflect on my journey into video programming. Without a CS degree, I was uncertain about combining my passion for video and programming. But self-learning and ffmpeg became my guides. I discovered that web development and video programming aren't mutually exclusive. In fact, they complement each other beautifully. Through trial and error, I've found a career path that brings me joy. My story is a testament to the power of self-directed learning and the importance of following your curiosity.

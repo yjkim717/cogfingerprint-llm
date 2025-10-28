@@ -1,5 +1,0 @@
- Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a university researcher and adhering to your specifications:
-
-**Abstract**
-
-Intracellular transport processes, particularly within endosomal networks, exhibit complex and often heterogeneous dynamics. This study, conducted in 2020, presents a novel application of deep learning to the analysis of these processes. A feedforward neural network is introduced to accurately model and segment short time-series data characterizing intracellular cargo movement. The methodology allows for the efficient identification of distinct transport regimes and, crucially, the quantification of stochastic behavior via the Hurst exponent. Results demonstrate that the Hurst exponent, a measure of long-range dependence, displays dynamic fluctuations within cellular organelles, suggesting a nuanced regulatory landscape governing intracellular transport efficiency. This approach provides a powerful framework for characterizing and understanding the stochastic nature of intracellular transport.

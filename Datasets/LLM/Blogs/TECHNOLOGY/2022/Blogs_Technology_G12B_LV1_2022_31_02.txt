@@ -1,5 +1,0 @@
->## The Unexpected Joy of Data Dusting
-
-It's funny, isn't it? How much of our digital lives are just…sitting there? I’ve been spending evenings lately not coding cutting-edge AI, but actually *scraping* publicly available financial data. Sounds dull, right? But there's a strangely satisfying thrill in piecing together historical trends, building simple forecasting models, and just generally making sense of the noise.
-
-Applying quantitative techniques to something tangible, even if it's just a spreadsheet full of stock prices, feels incredibly rewarding. It’s a tiny, personal project that’s actually demonstrating practical skills - the kind I hope will stand out when applying for grad positions next year. Who knew data dusting could be so engaging?

@@ -1,7 +1,0 @@
-You know that feeling when you’re so close to solving a tech puzzle you can almost taste it? That was me last week, wrestling with Certbot on my Ubuntu VPS, determined to secure a wildcard Let’s Encrypt certificate for my domain via DuckDNS.
-
-Everything *looked* right. I’d set the tokens, configured the DNS, and crossed my fingers. But each time I ran the command, I’d hit the same frustrating DNS validation error. It felt like trying to unlock a door with the right key, only to find the lock itself was jammed. I checked forums, re-read documentation, and even took a walk to clear my head—nothing.
-
-It’s funny how these moments test your patience. You start questioning every step, wondering if you missed a comma or a setting buried deep in some config file. In 2024, with AI writing code and self-driving cars on the horizon, you’d think something as routine as SSL setup would be seamless. But here I was, stuck in the weeds.
-
-Eventually, after a fresh coffee and one more sanity check, I spotted it—a tiny oversight in my Nginx configuration. The relief was instant. Sometimes, the smallest details hold the biggest keys, reminding me that in tech, persistence is just as important as knowledge.

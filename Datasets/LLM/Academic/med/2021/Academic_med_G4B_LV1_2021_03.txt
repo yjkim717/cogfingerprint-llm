@@ -1,7 +1,0 @@
-**Abstract: The Convergent Role of Vascular Risk Factors in Early Alzheimer’s Disease Progression**
-
-Emerging evidence suggests a complex interplay between cerebrovascular dysfunction and the pathogenesis of Alzheimer’s disease (AD). This longitudinal study, conducted in 2021, investigated the relationship between established vascular risk factors and the progression of AD in a cohort of cognitively unimpaired individuals. Utilizing cerebrospinal fluid (CSF) biomarkers and cognitive assessments, we examined the predictive value of hypertension, hyperlipidemia, and diabetes mellitus on rates of neurodegeneration and cognitive decline. 
-
-Our findings demonstrate a significant, synergistic association between these vascular risk factors and accelerated AD progression. Specifically, elevated levels of both amyloid-beta 42 and total tau in CSF were markedly correlated with the presence of multiple vascular risk factors, indicating an early impact on disease pathology. Furthermore, individuals with a composite score reflecting substantial vascular burden exhibited a demonstrably increased rate of neurofibrillary tangle formation, a hallmark of AD, as quantified through CSF tau ratios. 
-
-These results underscore the critical need to consider vascular health as a modifiable risk factor in the early stages of AD. Targeting vascular risk factors may represent a novel therapeutic strategy to mitigate neurodegenerative processes and potentially delay cognitive decline in individuals at elevated risk.

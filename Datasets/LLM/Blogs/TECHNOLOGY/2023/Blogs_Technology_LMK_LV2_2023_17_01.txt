@@ -1,5 +1,0 @@
-"Lessons from a Backup Fail: How I Learned to Love Restic and USB Drives"
-
-As I sat staring at my homelab's wreckage, I realized my backup strategy was as fragile as the hardware it was meant to protect. A failed disk had swallowed my data whole, and I was left with nothing but a handful of regret. It was 2023, and I had been so caught up in the excitement of tinkering that I'd neglected the one thing that truly mattered: backing up my files. 
-
-That's when I discovered restic, a command-line backup tool that's been a game-changer. By pairing it with removable USB drives, I've created a robust backup system that's both reliable and easy to maintain. Mounting those drives is now a ritual, a reminder that my data is safe. It's a lesson learned the hard way: a good backup system is not just about tech – it's about peace of mind.

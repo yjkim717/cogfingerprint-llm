@@ -1,4 +1,0 @@
-Title: Contemporary Systemic Therapy Approaches for Metastatic Colorectal Cancer: A Review of Current NCCN Guidelines
-
-Abstract:
-The management of metastatic colorectal cancer (mCRC) has evolved significantly, driven by advances in understanding tumor biology and the development of novel therapeutic agents. As of 2024, the National Comprehensive Cancer Network (NCCN) guidelines recommend a tailored approach to systemic therapy, taking into account prior treatment exposure, tumor mutational profile, and individual patient toxicity profiles. This review synthesizes current evidence and guideline recommendations to inform optimal treatment sequencing and selection for patients with mCRC.

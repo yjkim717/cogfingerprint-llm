@@ -1,3 +1,0 @@
-## The Bluetooth Blues: When Tech Dreams Don't Happen
-
-It's frustrating, isn't it? Seeing a promising technology like WebBluetooth in Firefox marked "won't fix." A Reddit thread popped up recently echoing that sentiment, and it got me thinking. We, as users, get excited about possibilities – seamless connections, smart devices humming along. But sometimes, even with passionate developers, certain features just don't make the cut. It’s a reminder that progress isn’t always linear, even in 2024.

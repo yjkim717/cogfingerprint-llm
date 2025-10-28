@@ -1,4 +1,0 @@
-Title: Modeling Anomalous Diffusion of DNA Double-Strand Breaks during Non-Homologous End-Joining Repair
-
-Abstract:
-We present a novel model elucidating the heterogeneous dynamics of DNA double-strand breaks (DSBs) during non-homologous end-joining (NHEJ) repair. Employing fractional Brownian motion, our framework captures the anomalous diffusion of DSBs, providing insight into the complex interplay between chromatin mobility and repair kinetics. By integrating experimental data with theoretical predictions, we demonstrate that NHEJ-mediated DSB repair is characterized by non-ergodic, subdiffusive behavior. Our results shed light on the biophysical mechanisms governing genome stability and have implications for understanding the molecular etiology of genetic disorders. (2024)

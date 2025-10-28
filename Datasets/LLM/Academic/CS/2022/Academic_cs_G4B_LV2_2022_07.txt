@@ -1,5 +1,0 @@
-Here’s an abstract based on the provided summary, aiming for a formal, academic style suitable for a 2022 publication:
-
-**Abstract:**
-
-This work establishes a novel connection between private PAC learnability and online learnability, formalized under the constraint of a finite Littlestone dimension. We demonstrate that achieving private PAC learnability within a concept class implies the existence of an equivalent online learnable algorithm. This equivalence hinges on the restricted dimensionality of the underlying data, suggesting a fundamental limitation on the expressiveness of private learning mechanisms.  Further investigation into this relationship promises to refine our understanding of online learning guarantees and privacy-preserving algorithms in 2022.

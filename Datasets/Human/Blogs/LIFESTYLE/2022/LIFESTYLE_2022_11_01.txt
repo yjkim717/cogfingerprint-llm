@@ -1,5 +1,0 @@
-Year: 2022
-Author: forwardslashroot
-URL: https://www.reddit.com/r/openSUSE/comments/swbtlx/opening_firefox_on_leap_causes_system_to_freeze/
-
-I switched from Tumbleweed to Leap several days ago. I noticed when I rebooted and Firefox is the very first app I opened, the system seems to hang. I could not access the GNOME menu when clicking on Activities or pressing the super key. The drop-down menu on the upper right corner was not working and could not restart the system. The Firefox window was opened and it looked like in low resolution. The only way for me to get out of this mess was to power cycle my laptop. After the system booted up, when I opened any application that is not Firefox, everything seems to work. Then opening Firefox afterward works.

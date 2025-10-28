@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-Recent advancements in natural language generation have increasingly focused on addressing the challenges of low-resource languages. This work introduces IndicBART, a novel pre-trained sequence-to-sequence model specifically designed for eleven Indic languages alongside English. Utilizing a BART architecture and incorporating multilingual training paradigms, IndicBART demonstrates efficacy in neural machine translation and extreme summarization tasks.  The model’s compact design facilitates efficient deployment, particularly beneficial for scenarios with limited computational resources.  Experimental results indicate that IndicBART achieves competitive performance relative to established models, highlighting the potential of transfer learning strategies when applied to diverse linguistic landscapes.  Further investigation into fine-tuning techniques and expanded language coverage remains a key area for future research, contributing to improved accessibility and utility of NLP technologies for under-represented language communities.

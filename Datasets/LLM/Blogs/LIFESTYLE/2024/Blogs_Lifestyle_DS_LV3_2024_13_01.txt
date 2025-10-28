@@ -1,5 +1,0 @@
-There’s something oddly satisfying about closing a trade and knowing, in real time, that it’s logged perfectly. For years, I juggled multiple broker platforms—Pepperstone among them—and my trading journal was a mess of manual entries and missed details. I’d finish a session only to spend another hour piecing together what actually happened.
-
-Then I discovered how to link TradingView alerts to a journaling app using a simple webhook. Suddenly, every fill, every adjustment, flowed seamlessly into my records the moment it executed. No more second-guessing, no more forgotten trades.
-
-It’s 2024, and we have the tools to automate the tedious parts of our passions. For me, that small bit of tech magic didn’t just organize my trading—it gave me back precious time and peace of mind. The real win wasn’t in the charts; it was in the calm.

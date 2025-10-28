@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the provided summary and aiming for a conversational, reflective tone with a 2021 timeframe:
-
----
-
-**Hunting for “Define” in C3**
-
-It’s funny what keeps you up at night in software development. Lately, it’s been this nagging feeling about how we handle types and functions – specifically, how *easily* we can manipulate them. I’ve been diving deep into C3, a language that’s really pushing boundaries, and I’m obsessed with the idea of a “define” keyword. 
-
-You know, like C’s preprocessor, but built-in.  Imagine being able to create aliases for types and functions with a single command. It feels like a step closer to truly expressive code, almost like giving the compiler a little bit of intelligence.  It’s a challenging problem, and frankly, a bit of a holy grail for anyone tired of verbose type declarations.  Anyone else feeling this pull towards more powerful abstraction? 2021 feels like a good time to start experimenting!

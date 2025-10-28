@@ -1,7 +1,0 @@
->## The Unexpected Joy of Letting Go (and Choosing Btrfs)
-
-Okay, so this might sound weird, but I’ve been obsessing over filesystems lately. Seriously. It all started with wanting to optimize my Linux Mint install. I dual boot with Windows, but honestly, Windows compatibility wasn’t my top priority. I wanted *speed* and rock-solid data integrity. Enter Btrfs.
-
-It’s been a surprisingly meditative process. Decluttering my digital life feels a bit like decluttering my physical one. Moving files, deciding what’s truly important, archiving the rest… it’s a surprisingly freeing exercise. 
-
-I realize this isn't exactly a typical 2021 self-improvement journey – no Marie Kondo here. But there's something profoundly satisfying about choosing a system that prioritizes resilience and performance, and then dedicating time to actually *organize* within it. It’s a small thing, a technical detail, but it's making me feel more in control and, dare I say, a little more mindful. And that’s a good feeling.

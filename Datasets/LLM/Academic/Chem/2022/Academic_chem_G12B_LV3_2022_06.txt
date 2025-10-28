@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry publication, and reflecting a 2022 context:
-
-**Abstract**
-
-The interstellar medium (ISM) represents a complex chemical environment where the formation of complex organic molecules is of paramount astrochemical interest. This study, conducted in 2022, elucidates key pathways for the synthesis of vinyl (C₂H₃) and ethyl (C₂H₅) radicals – crucial building blocks for larger organic structures – within dust grain surface chemistry. Through detailed kinetic modeling, we demonstrate that sequential hydrogenation and subsequent reactions of ethane (C₂H₆), ethylene (C₂H₄), and acetylene (C₂H₂) with atomic hydrogen (H) and hydroxyl (OH) radicals adsorbed onto dust grains are demonstrably significant contributors to their observed abundances. These grain-catalyzed radical reactions offer a compelling explanation for the observed prevalence of these species, furthering our understanding of the chemical evolution of the ISM and the potential for prebiotic molecule formation in star-forming regions.

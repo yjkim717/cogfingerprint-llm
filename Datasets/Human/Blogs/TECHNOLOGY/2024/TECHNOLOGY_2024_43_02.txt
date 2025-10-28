@@ -1,5 +1,0 @@
-Year: 2024
-Author: Goldziher
-URL: https://www.reddit.com/r/Kotlin/comments/1aod0we/open_sourcing_the_basemindai_gateway/
-
-Hi all, I'm open sourcing a product I created together with my partner. It's a managed API gateway and client libraries (iOD, Android, Flutter etc.) to use AI services. You can see the actual product live MVP here: And the codebase (MIT license) here: We hope people here will find value in it. I would love it if some of you would like to contribute, maybe help maintain it. I think it can be a great open source project. The readme in the repository has an explanation about what it is and how it's built. I will improve it further in the coming days, but I think it does a good job of answering the basics. I'd be happy to answer any questions, and also - if you wanna be involved with this, you can join our discord:

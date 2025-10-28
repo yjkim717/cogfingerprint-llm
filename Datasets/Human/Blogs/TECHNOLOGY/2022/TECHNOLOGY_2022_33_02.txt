@@ -1,5 +1,0 @@
-Year: 2022
-Author: RetardedManOnTheWeb
-URL: https://www.reddit.com/r/Vanced/comments/vc8hsl/issue_with_comments_not_loading_question/
-
-Currently the comments are fucked. They are unable to load correctly. They either can't load at all or is only able to load one comment. Other users have also reported this issue on the sub but also report the issue also happens in the stock YouTube app and in apps like NewPipe. See this post. This issue seems like it's on YouTube's end rather than ours. Edit: looked at YouTube's down detector page shows that YouTube are having issues.

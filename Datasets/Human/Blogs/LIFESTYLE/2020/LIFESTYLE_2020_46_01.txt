@@ -1,5 +1,0 @@
-Year: 2020
-Author: Durahl
-URL: https://www.reddit.com/r/Minecraft_Earth/comments/eir7p7/still_stuck_at_signing_in_sisuxboxlivecom_screen/
-
-&#x200B; Still Stuck... For, at least, the past 2 weeks or so I've been stuck on this *Signing In... (* *sisu.xboxlive.com* *)* Screen. I tried: * Reloading Desktop and Mobile Websites * Restarting the Game * Restarting the Apple iPad Pro 11" ( iPad OS 13.3 ) * Reinstalling ( *and* Updating ) the Game Nothing gets it past that stuck *Signing In...* Screen...

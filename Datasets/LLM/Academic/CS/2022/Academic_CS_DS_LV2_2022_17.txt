@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The proliferation of Internet of Things (IoT) sensors in precision agriculture has generated vast datasets, necessitating robust analytical methods for optimal resource management. This research presents a comparative analysis of supervised machine learning algorithms for the classification of soil moisture levels within a smart irrigation framework. The primary objective is to identify the most effective model for accurately predicting irrigation requirements, thereby enhancing water-use efficiency. We evaluate the performance of several prominent classifiers, including Support Vector Machines, k-Nearest Neighbors, and Decision Trees, against a benchmark dataset comprising real-time sensor readings. Our empirical findings demonstrate that the Random Forest ensemble method significantly outperforms its counterparts, achieving a peak classification accuracy of 99.98%. This superior performance is attributed to the model's inherent capability to mitigate overfitting through bootstrap aggregation and to model complex, non-linear relationships within the feature space. The results substantiate that ensemble learning techniques, particularly Random Forest, offer a highly reliable computational foundation for autonomous irrigation control systems. This study provides a definitive benchmark for model selection in agricultural IoT, contributing to the development of more sustainable and data-driven farming practices.
-
-(Word Count: 213)

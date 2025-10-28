@@ -1,7 +1,0 @@
-Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The advent of high-plex spatial imaging technologies has generated rich datasets on cellular organization, yet linking complex cellular interaction patterns to disease states remains a significant analytical challenge. To address this, we introduce SNOWFLAKE (Spatial Network-Oriented Workflow for Linkage Analysis and Knowledge Extraction), a novel computational pipeline based on graph neural networks (GNNs). Our method constructs spatial graphs from multiplex imaging data, where nodes represent individual cells and edges encode their spatial proximity. The GNN architecture is then trained to directly predict patient disease status from these topological representations. A key innovation of SNOWFLAKE is its integrated explainability framework, which identifies and extracts statistically significant, disease-relevant cellular interaction motifs from the learned model. We demonstrate that SNOWFLAKE not only achieves high classification accuracy but also elucidates specific multicellular spatial assemblies associated with pathology. This dual capability for prediction and discovery provides a powerful, interpretable tool for uncovering the structural principles of tissue organization in health and disease, with direct implications for biomarker development.

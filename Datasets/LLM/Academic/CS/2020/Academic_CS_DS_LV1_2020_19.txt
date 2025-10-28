@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The persistent vulnerability of unimodal biometric systems to spoofing attacks and intrinsic sensor noise necessitates the development of more robust authentication frameworks. This paper introduces a novel multimodal biometric system that synergistically integrates fingerprint and palmprint modalities using a deep learning architecture. We posit that the distinct, yet complementary, discriminative features from these two dermatoglyphic patterns can significantly enhance security by mitigating the limitations inherent in either modality alone. Our proposed model employs a dual-stream convolutional neural network (CNN) to extract high-level features from each biometric trait independently. The feature vectors are then fused at the score-level, leveraging a fully connected layer for optimal integration and final classification. Evaluated on a composite dataset of 10,000 subjects, our system demonstrates a marked improvement over state-of-the-art unimodal benchmarks. The results indicate a False Acceptance Rate (FAR) of 0.0021% and a Genuine Acceptance Rate (GAR) of 99.4%, confirming the efficacy of our deep learning-based fusion approach in establishing a highly secure and reliable authentication mechanism suitable for critical access control applications.

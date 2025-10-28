@@ -1,6 +1,0 @@
-Here's a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Unveiling Patterns in Terrorist Activities: An Apriori Algorithm-based Analysis of the Global Terrorism Database for Nigeria
-
-Abstract:
-This study leverages the Apriori algorithm to uncover latent patterns in terrorist activities within Nigeria, utilizing the comprehensive Global Terrorism Database (2021). By applying association rule mining, we identify significant correlations between terrorist incidents, target types, and attack modalities. Our analysis reveals insightful trends and hotspots, informing forensic investigation and counter-terrorism strategies. The findings demonstrate the efficacy of data-driven approaches in understanding complex terrorism dynamics, providing policymakers with actionable intelligence to mitigate terrorist threats in Nigeria and beyond.

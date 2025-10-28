@@ -1,7 +1,0 @@
->## The Great Note-Taking File Format Panic of 2020
-
-It’s funny how technology can induce a low-level hum of anxiety. I've been happily scribbling notes on my Samsung Galaxy Tab S7+ – loving the S Pen and the portability. But recently, a nagging thought started creeping in: what happens when I *need* those notes on my Windows machine? 
-
-Suddenly, I was deep in a rabbit hole of file formats. .pdf? .txt? Proprietary app formats that lock me into a single ecosystem? The sheer variety felt overwhelming. It’s 2020, we’re supposed to be about seamless integration, not walled gardens of data!
-
-I realized I wasn't alone in this little panic. There's a whole community wrestling with the same question: how to ensure your digital thoughts aren't trapped on a single device. It’s a good reminder – even with all the bells and whistles, thinking about interoperability is *still* crucial. I'm opting for a .pdf export for now, feeling slightly less trapped, and hoping for more open standards in the future!

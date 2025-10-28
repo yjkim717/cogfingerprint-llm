@@ -1,5 +1,0 @@
-Okay, here's a reflective blog post inspired by the cat littering/behavior prompt, framed as a technology-related piece with a conversational tone and set in 2020, aiming for around 102 words:
-
-## The Algorithm and My Annoyingly Persistent Habit
-
-It's 2020, and we're *all* trying to optimize, right? Productivity apps, smart home devices… I even tried a habit-tracking algorithm for a while. Yet, here I am, still mindlessly scrolling through Twitter when I *should* be writing. It’s like my brain has a preferred “platform” for procrastination, ignoring all the carefully curated suggestions.  It made me think – can we really engineer ourselves out of ingrained behaviors? Maybe some things, like a cat stubbornly choosing the rug over its box, just need a little patience and observation, not just brute-force code.

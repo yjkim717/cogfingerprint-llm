@@ -1,5 +1,0 @@
-Year: 2024
-Author: vortexmak
-URL: https://www.reddit.com/r/androidapps/comments/1fvc6jy/best_app_to_easily_add_calendar_events/
-
-I'm not looking for a calendar. I'm looking for an app that can help me add events to a selected calendar but scanning an image or via voice. Samsung camera can scan an image and you can choose to add an event but it only parses the dates not the time, name and location. Similarly Bixby voice can add it but it's clunky. Google Assistant only adds to Google calendar and you can't select a different calendar to add to. Is there any such app. I'm using a Galaxy S20

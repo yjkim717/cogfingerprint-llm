@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract inspired by the given ideas:
-
-Title: Enhancing Electrocatalytic Oxygen Evolution via Surface Modification of Perovskite LaNiO3 with FeOOH Nanoclusters
-
-Abstract:
-
-The sluggish kinetics of the oxygen evolution reaction (OER) remains a significant bottleneck in electrochemical water splitting. Herein, we report a surface modification strategy to enhance the OER activity of LaNiO3 perovskite by decorating it with FeOOH nanoclusters. Our results show that the FeOOH decoration promotes lattice oxygen oxidation, facilitating the OER via a more efficient pathway. Furthermore, the FeOOH nanoclusters weaken the Ni-O bond, as evidenced by X-ray absorption spectroscopy, thereby enhancing the reactivity of lattice oxygen. Consequently, the optimized LaNiO3/FeOOH composite exhibits a significantly improved OER activity, with a reduced overpotential of 270 mV at 10 mA cm-2. Our findings provide new insights into the design of efficient OER electrocatalysts via surface engineering of perovskite oxides. (2020)

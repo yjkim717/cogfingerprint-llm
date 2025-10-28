@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided concepts.
-
-***
-
-**Abstract**
-
-The efficacy of deep clustering frameworks is critically dependent on the quality of pseudo-labels generated through self-labeling mechanisms. Conventional approaches often leverage Shannon's cross-entropy to align model predictions with these estimated soft labels. However, this objective function exhibits a significant vulnerability: its unbounded nature can lead to pathological training dynamics when the pseudo-label distribution is noisy or miscalibrated, as the loss can be minimized by over-confidently latching onto incorrect, high-probability assignments. To address this fundamental limitation, we introduce Collision Cross-Entropy (CCE), a novel objective function designed for robust learning from uncertain supervisory signals. CCE reformulates the information-theoretic cost by focusing on the "collision" probability—the likelihood of a model prediction matching a target label under a prescribed similarity threshold—rather than the Kullback-Leibler divergence. This formulation inherently bounds the loss contribution of any single sample, conferring a natural resilience to label noise. We integrate CCE into a state-of-the-art self-supervised deep clustering pipeline, where pseudo-labels are iteratively refined. Empirical evaluation on benchmark image and text datasets demonstrates that models trained with CCE achieve a higher clustering accuracy and stability compared to those using Shannon's cross-entropy. The proposed method mitigates confirmation bias in the self-labeling loop, leading to more reliable feature representations and a significant performance gain, particularly in scenarios with high inherent class ambiguity. Our findings establish CCE as a superior alternative for tasks reliant on imperfect, dynamically generated soft labels.
-
-**(Word Count: 248)**

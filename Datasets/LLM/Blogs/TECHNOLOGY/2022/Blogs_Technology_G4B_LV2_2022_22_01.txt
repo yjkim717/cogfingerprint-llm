@@ -1,7 +1,0 @@
-Okay, here's a blog post draft based on your summary, aiming for a reflective and conversational style:
-
----
-
-**The Calm Before the Storm**
-
-There’s something oddly satisfying about meticulously crafting a PowerShell script – especially when it’s designed to orchestrate a smooth transition. Recently, a client needed a way to quietly disable ParentVMs in their VMware Horizon environment before initiating maintenance. It’s a small thing, really, but it felt like building a tiny bridge of calm before the inevitable storm of updates.  Knowing I could automate that process?  That's tech I really appreciate.

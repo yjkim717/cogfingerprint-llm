@@ -1,6 +1,0 @@
-)
-## The Allure of the Tentacle Robot (and My Latest Obsession)
-
-Okay, I'll admit it. I've been completely consumed by the idea of building a tentacle robot. Seriously! It started as a late-night rabbit hole dive into soft robotics, and now I'm sketching designs fueled by copious amounts of coffee. The goal? A pneumatic, air-powered arm that can grip and retract – think octopus, but engineered. 
-
-It feels like a wonderfully complex puzzle, balancing robotics design with practical actuation methods. 2021 feels like a great time to explore this – the possibilities are genuinely exciting! Anyone else ever get completely lost in a crazy tech project?

@@ -1,8 +1,0 @@
-)
-## Abstract: Unveiling the Relationship between Dark Matter Halo Assembly History and Outer Density Profiles via Explainable Artificial Neural Networks
-
-Understanding the formation and evolution of dark matter halos is a central challenge in cosmology. While N-body simulations provide detailed insights, establishing robust, physically interpretable connections between a halo's assembly history and its resulting density profile remains difficult. This study leverages the recent advancements in explainable artificial intelligence (XAI) to address this issue. We employ a convolutional neural network, trained on a large suite of cosmological N-body simulations, to predict the density profiles of dark matter halos directly from their merger trees, effectively linking halo assembly history to their structural properties. Crucially, we utilize XAI techniques, specifically Shapley values, to identify the key merger events and accretion phases that most significantly influence the shape of the halo's outer density profile (r > r<sub>vir</sub>). Our results demonstrate a statistically significant correlation between early, high-mass-ratio mergers and the asymptotic slope of the density profile, suggesting a direct impact of early growth on the halo’s later evolution. This work provides a novel pathway for bridging the gap between simulations and theoretical models, ultimately refining our understanding of dark matter halo formation and its cosmological implications.
-
-
-
-**Keywords:** dark matter halos, density profiles, neural networks, explainable AI, mass accretion rate

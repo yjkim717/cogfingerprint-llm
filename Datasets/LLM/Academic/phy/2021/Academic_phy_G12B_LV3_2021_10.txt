@@ -1,5 +1,0 @@
- Here's an academic-style abstract inspired by the provided summary and keywords, formatted for a physics/materials science audience and reflecting a 2021 timeframe:
-
-**Abstract**
-
-The hydrogen evolution reaction (HER) presents a critical challenge for sustainable energy technologies. This study investigates the dynamic mechanisms governing HER activity on single-layer transition-metal dichalcogenides (TMDs), specifically focusing on the 1T' phase of WSe₂ and WTe₂. Employing grand canonical potential kinetics, we performed atomistic simulations to elucidate the reaction pathways and identify rate-limiting steps. Our findings reveal intricate interplay between adsorption energies and kinetic barriers, suggesting that periodic modulation of the applied potential offers a viable strategy for enhancing catalytic performance. This approach, potentially achievable through nanoscale engineering of the TMD surface, provides a pathway towards improved HER efficiency and contributes to the ongoing development of electrocatalytic hydrogen production technologies.

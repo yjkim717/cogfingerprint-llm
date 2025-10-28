@@ -1,7 +1,0 @@
-Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone, suitable for 2021:
-
----
-
-**The Illusion of Space**
-
-I spent a frustrating afternoon last week wrestling with my computer, trying to set up a dual-boot system for Linux. I was meticulously shrinking my Windows C: drive, hoping to make room. Only, it wasn’t shrinking – it was *growing*.  Suddenly, my drive was bigger than I remembered, and my carefully planned expansion just… vanished. It’s a weird feeling, realizing technology can play tricks on you, creating an illusion of space where there isn’t any.  Definitely a reminder to double-check everything!

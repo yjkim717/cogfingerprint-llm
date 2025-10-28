@@ -1,1 +1,0 @@
-This paper refutes the conjecture that all distribution classes learnable in the statistical sense are also privately learnable. We construct a class of distributions that is learnable under total variation distance with finite samples, yet provably requires an infinite sample complexity under differential privacy, establishing a fundamental separation.

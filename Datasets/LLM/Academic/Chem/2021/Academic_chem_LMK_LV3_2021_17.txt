@@ -1,5 +1,0 @@
-Title: Investigating the Crystallinity of Mixed Ices on Refractory Grains using Transmission Electron Microscopy
-
-Abstract:
-
-The morphology of ices formed on refractory grains is crucial in understanding their role in molecular clouds and protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to investigate the crystallinity of mixed ices comprising H2O, CO2, and CO on refractory substrates. Our results reveal that the crystal morphologies of these ices are highly dependent on their composition and the underlying substrate. TEM analysis showed that ices with a higher H2O content exhibited a more pronounced crystalline structure, whereas those with dominant CO2 and CO components displayed amorphous characteristics. The findings suggest that the crystallinity of mixed ices is influenced by the interplay between molecular interactions and substrate effects. This research provides valuable insights into the microphysical properties of ices in astrophysical environments, shedding light on their potential impact on the formation of planetary systems. Published in 2021.

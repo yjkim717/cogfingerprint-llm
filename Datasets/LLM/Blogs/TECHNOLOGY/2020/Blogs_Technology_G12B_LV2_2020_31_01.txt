@@ -1,5 +1,0 @@
- Here's a blog post draft based on your request:
-
-## That Frustratingly Beautiful 404
-
-Remember that feeling of digital disappointment? Landing on a 404 page always felt a bit…lonely. But lately, I've noticed clever designs, like Postman’s, that turn that frustration into something almost charming. It got me thinking: how do they make those graphics *unselectable*? Such a tiny detail, yet so impactful.

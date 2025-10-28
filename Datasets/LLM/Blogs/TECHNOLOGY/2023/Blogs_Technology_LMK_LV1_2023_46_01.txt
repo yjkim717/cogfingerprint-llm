@@ -1,5 +1,0 @@
-"Stuck on a Powershell Problem: A 2023 Retrospective
-
-As I sat staring at my screen in early 2023, I was struggling to crack a seemingly simple Powershell script. My task was to export the members of Active Directory groups whose names matched a specific string. Easy enough, right? I was trying to use the `Get-ADGroup` cmdlet to fetch the groups and then pipe the results to `Export-CSV`. But, I was stuck. The groups were coming through just fine, but the membership details were nowhere to be seen.
-
-After some trial and error (and a few choice expletives), I landed on a solution. By combining `Get-ADGroup` with `Get-ADGroupMember`, I was able to get the data I needed. The final script was a thing of beauty: `Get-ADGroup -Filter {name -like "*my_string*"} | Get-ADGroupMember | Export-CSV -Path "C:\output.csv" -NoTypeInformation`. It was a small victory, but a reminder that even in 2023, Powershell remains a powerful tool in the right hands."

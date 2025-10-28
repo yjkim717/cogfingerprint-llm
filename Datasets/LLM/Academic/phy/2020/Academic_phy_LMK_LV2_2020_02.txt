@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In this work, we investigate the constraints imposed by causality and unitarity on the low-energy effective field theory (EFT) expansion, leveraging the geometric properties of scattering amplitudes. Introducing the concept of the EFT-hedron, a positive geometry encoding the consistency requirements of EFTs, we derive novel bounds on the Wilson coefficients. Our analysis reveals the intricate interplay between the EFT-hedron and the S-matrix, shedding light on the fundamental principles governing the infrared structure of particle physics. Our results provide a systematic framework for understanding the theoretical underpinnings of EFTs in the context of 2020-era particle physics."

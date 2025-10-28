@@ -1,5 +1,0 @@
-## Regex Roadblocks and the Humbling Power of Anchors
-
-Anyone else ever feel like they’re *almost* there with a regex, then…bam! It just doesn't work? I recently stumbled on a post in r/learnjavascript where someone was wrestling with removing leading/trailing spaces using `/^\s+|\s+$/g` – and it wasn't cooperating. 
-
-It’s a classic reminder that even seemingly simple things in JavaScript (and regex in particular!) demand careful attention. Anchors (`^` and `$`) are powerful, but easily misunderstood. It’s a humbling experience, really, and a good reminder to double-check those little details. We've all been there!

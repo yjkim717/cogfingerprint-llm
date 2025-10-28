@@ -1,5 +1,0 @@
-There’s a strange tension in the way we use technology today. In 2022, my phone is a portal to endless inspiration—tutorials, creators, and communities for any hobby I can imagine. Yet, it’s also a highlight reel of everyone else’s mastery.
-
-I started learning to code, and immediately fell into the comparison trap. Scrolling through elegant portfolios and complex projects, my own clumsy first scripts felt laughable. The same drive that pushed me to improve began whispering that I was already behind.
-
-But I’m trying to reframe it. That programmer I admire wasn’t born writing flawless code. They started with a "Hello, World!" too. My journey isn’t about catching up to someone else’s finish line; it’s about celebrating my own progress, one bug-fix at a time. The real upgrade isn't a faster processor, but a kinder perspective.

@@ -1,8 +1,0 @@
-Author: C. Rovelli
-Title: Bridging the neuroscience and physics of time
-Paper ID: b198c75682165121f2338923696ba858c3ddffda
-Year: 2021
-Author Index: 8
-
-Abstract:
-There are differences between the way a neuroscientist and a theoretical physicist—such as the two authors of this chapter—comprehend time. For a neuroscientist, time is oriented, always pointing towards the future. We can remember the past (but not the future) and we can influence the future (but not the past). The past no longer exists, the future is open; the present is the only real moment—thus the possibility of time travel to the past is limited to fiction because one cannot travel to a moment that does not exist. For a theoretical physicist, time is more complicated: relativity does not permit an objective notion of a global present, the distinction between past and future requires thermodynamics, hence is statistical only. It is far from obvious why we remember the past but not the future, and why we can influence the future but not the past. There is a sense in which it is easier to think about the whole of spacetime as a single four-dimensional entity (the so-called block universe), in which temporal notions are a matter of perspective. Traveling back in time becomes a subject of theoretical investigation.

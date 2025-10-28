@@ -1,5 +1,0 @@
-## The Eerie Beauty of AI Voices – and My Descent into Tacotron 2
-
-Remember when robot voices sounded, well, *robotic*? It feels like a lifetime ago. Lately, I’ve been utterly captivated by the advancements in text-to-speech, specifically Tacotron 2. It’s this incredible AI model that can generate surprisingly human-sounding vocals from just text.
-
-I stumbled across a Reddit thread where someone was asking about getting started, and it sparked something in me. I've been tinkering with some GitHub repositories, and honestly, it's a little unsettling and utterly fascinating all at once. The potential is huge, and the journey to understanding it? Well, that's proving to be a really interesting rabbit hole.

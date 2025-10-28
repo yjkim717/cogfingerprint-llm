@@ -1,5 +1,0 @@
-Year: 2021
-Author: Purple___Flame
-URL: https://www.reddit.com/r/techsupport/comments/my49wi/cant_fix_blank_icons/
-
-Hello OS - W10 20H2 19042.928 Correct icons are only visible in properties. Tried deleting iconcache file and restarting, also tried 2 different bat files Result - 4 files still blank, tried moving them to desktop and clearing cache again, 1 icon was fixed. but immediately went blank again after moving it back into the folder.

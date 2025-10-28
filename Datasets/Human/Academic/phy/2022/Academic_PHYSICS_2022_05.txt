@@ -1,8 +1,0 @@
-Author: W. Freedman
-Title: Current Challenges in Cepheid Distance Calibrations Using Gaia Early Data Release 3
-Paper ID: af2c73746ad4b353a4b304463022279c11230427
-Year: 2022
-Author Index: 5
-
-Abstract:
-Using parallaxes from Gaia Early Data Release 3 (EDR3), we determine multi-wavelength BVI c , JHK s , and [3.6] and [4.5] micron absolute magnitudes for 37 nearby Milky Way Cepheids, covering the period range between 5 and 60 days. We apply these period–luminosity relations to Cepheids in the Large and Small Magellanic Clouds and find that the derived distances are significantly discrepant with the geometric distances according to detached eclipsing binaries (DEBs). We explore several potential causes of these issues, including reddening, metallicity, and the existence of an additional zero-point offset, but none provide a sufficient reconciliation with both DEB distances. We conclude that the combination of the systematic uncertainties on the EDR3 parallaxes with the uncertainties on the effect of metallicity on the Cepheid distance scale leads to a systematic error floor of approximately 3%. We therefore find that the EDR3 data are not sufficiently accurate in the regime of these bright Cepheids to determine extragalactic distances precise to the 1% level at this time, in agreement with a number of contemporary studies.

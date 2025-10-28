@@ -1,7 +1,0 @@
->
-## Abstract: Reconciliation of Quantum and Classical Gravitational Waveform Dynamics via Post-Newtonian Expansion
-
-The ongoing quest to unify quantum mechanics and general relativity necessitates a rigorous examination of their intersection within observable phenomena. This work addresses a critical challenge in gravitational wave physics: the reconciliation of quantum corrections to gravitational waveforms with established classical descriptions derived through the post-Newtonian (PN) expansion. We present a detailed derivation of quantum gravitational waveform contributions, employing a multipole formalism and incorporating dimensional regularization techniques to manage ultraviolet divergences inherent in quantum field theory calculations. Our analysis extends the PN expansion to the 5.0 post-Newtonian order, providing a high-precision comparison between quantum and classical predictions. Crucially, we identify and resolve subtle mathematical ambiguities that have historically hindered agreement between these approaches, specifically concerning the treatment of loop corrections and the renormalization of Newton's constant. The resulting framework demonstrates a consistent and quantitatively accurate correspondence between quantum amplitude calculations and the classical PN waveform, offering a significant step towards a complete theoretical understanding of strong-field gravity and providing valuable insights for future gravitational wave observations and data analysis.
-
-
-

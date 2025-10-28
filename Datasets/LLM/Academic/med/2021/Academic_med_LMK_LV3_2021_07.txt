@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Prognostic Implications of DNA Methylation and IDH1/2 Mutation in Anaplastic Glioma: A Molecular Classification Approach
-
-Abstract:
-Anaplastic gliomas are heterogeneous brain tumors characterized by distinct molecular profiles. Recent studies have highlighted the prognostic significance of IDH1/2 mutations in these malignancies. This study investigates the relationship between genome-wide DNA methylation patterns, copy number variations, and overall survival in IDH1/2-mutant anaplastic astrocytoma patients. Using data from the CATNON trial, we identified specific DNA methylation signatures associated with improved prognosis. Notably, our analysis revealed that IDH1/2 mutation status was a significant predictor of overall survival, independent of other clinical and molecular factors. Furthermore, integration of DNA methylation and copy number variation data enabled the stratification of patients into distinct molecular subgroups with differing prognostic outcomes. Our findings underscore the importance of molecular classification in anaplastic glioma, highlighting the potential for DNA methylation-based biomarkers to inform clinical decision-making and improve patient outcomes. (2021)

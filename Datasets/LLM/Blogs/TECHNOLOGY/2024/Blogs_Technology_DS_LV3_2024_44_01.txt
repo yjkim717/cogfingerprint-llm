@@ -1,3 +1,0 @@
-It’s 2024, and my Raspberry Pi 4B has been a trusty little Plex server for years. But lately, I’ve noticed something strange: occasional slowdowns that make movie night feel like buffering roulette. The Pi isn’t overheating, and my network is solid—so what gives?
-
-It’s a reminder that even with ample resources, technology has its quiet, stubborn moments. I’ve been diving into forums and tweaking settings, learning that performance isn’t just about power; it’s about harmony. Each small fix feels like a conversation with the machine, a step toward smoother streams and fewer interruptions. In troubleshooting, I’m not just solving a problem—I’m reconnecting with the joy of making things work, one tweak at a time.

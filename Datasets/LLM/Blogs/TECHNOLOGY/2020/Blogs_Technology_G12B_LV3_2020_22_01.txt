@@ -1,3 +1,0 @@
-## That Teams Glitch and the Mystery of the Cache
-
-Anyone else feeling like Microsoft Teams is occasionally battling itself during these endless 2020 video calls? I recently stumbled upon a Reddit thread where someone was wondering if Teams even *stores* audio and video – and if so, why it impacts performance. It got me thinking about all the background processes we rarely consider, quietly affecting our digital lives. Maybe a Teams cache clear is in order!

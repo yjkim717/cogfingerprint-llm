@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary, suitable for a physics publication in 2020:
-
-**Abstract**
-
-This study investigates the manipulation of ultrafast near-infrared pulses through the implementation of dielectric metasurfaces. Utilizing a time-domain approach, we demonstrate the capacity of these planar metamaterials to dynamically control the polarization state of the input beam. Specifically, tailored metasurface geometries induce phase shifts dependent on the pulse’s temporal evolution. Characterization via optical spectroscopy reveals significant polarization modification, achieved with femtosecond pulses. These findings suggest a pathway for advanced optical signal processing and potential applications in nonlinear optics, warranting further exploration into metasurface design and control mechanisms.

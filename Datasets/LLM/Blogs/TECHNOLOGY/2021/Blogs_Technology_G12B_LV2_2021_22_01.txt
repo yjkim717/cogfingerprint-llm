@@ -1,5 +1,0 @@
-## The Teams Gap: When Virtual Desktops Feel… Old
-
-Anyone else feeling a little behind the times with their VDI setups? I’ve been wrestling with it lately. Microsoft Teams is constantly rolling out shiny new features in the current channel of M365 – those little improvements that genuinely make collaboration smoother. But when you’re running Teams through a VDI, it feels like you’re viewing it through a slightly blurry window. 
-
-It’s frustrating! You’re stuck with an older version, missing out on those updates. It highlights this wider tech challenge, doesn't it? The gap between what’s *possible* and what’s *actually available* to everyone. Hoping things catch up soon!

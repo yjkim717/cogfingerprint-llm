@@ -1,6 +1,0 @@
-Here is a generated abstract inspired by the given summary and keywords:
-
-Title: Enhanced Electrocatalytic Activity in Cobalt-Doped SrIrO3 Perovskites for Oxygen Evolution Reaction
-
-Abstract: 
-In 2024, advancements in electrocatalytic water splitting have underscored the significance of optimizing perovskite-type catalysts for the oxygen evolution reaction (OER). This study demonstrates that cobalt-doping in SrIrO3 substantially enhances OER activity by activating surface lattice oxygen and modulating IrOx binding energy. The resultant cobalt-doped SrIrO3 perovskites exhibit superior electrocatalytic performance, suggesting a promising avenue for the development of efficient and sustainable energy conversion technologies. The findings provide valuable insights into the design of high-performance OER catalysts, driving innovation in renewable energy applications.

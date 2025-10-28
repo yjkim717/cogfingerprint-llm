@@ -1,5 +1,0 @@
-Year: 2024
-Author: watermelon82
-URL: https://i.redd.it/s9jwrhixxruc1.jpeg
-
-This is a mini-game from steps method.. you start with 3 pawns and need to promote one and eventually win the knight. I am absolutely stuck, I cannot find any combination of moves to win this. It feels impossible. I’ve gotten close by getting two of the pawns up to d5 and e6, but then the knight plants itself on d6 and just jumps back and forth between d6 and e8 and I have no way of advancing at all once I reach that position. What am I even supposed to think about for a mini game like this? I have no clue how to even strategize and what sort of pattern i’m supposed to learn from this.. please help!

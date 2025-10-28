@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-Anaplastic gliomas represent a particularly aggressive and challenging form of gliomas, frequently associated with *IDH1/2* mutations. Predicting patient prognosis remains critical for guiding therapeutic decisions. This study, leveraging data from the CATNON trial (2021), employed genome-wide DNA methylation analysis to delineate prognostic biomarkers within anaplastic astrocytomas carrying *IDH1/2* mutations. Our investigation identified distinct epigenetic signatures correlated with both clinical progression and overall survival. Specifically, alterations in methylation patterns at key genomic loci were associated with reduced patient outcomes. These findings suggest that epigenetic modifications, rather than solely genetic alterations, contribute significantly to the complex pathophysiology of these tumors. Furthermore, the resultant epigenetic classifiers hold considerable promise for refining risk stratification and potentially informing personalized treatment strategies within this patient population.

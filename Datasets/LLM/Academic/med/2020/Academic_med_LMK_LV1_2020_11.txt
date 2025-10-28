@@ -1,6 +1,0 @@
-Here is an original abstract inspired by the given summary:
-
-Title: Radiologic Management of COVID-19: Preliminary Insights from the Iranian Society of Radiology COVID-19 Consultant Group
-
-Abstract:
-The COVID-19 pandemic has presented unprecedented challenges to radiology departments worldwide. As a response, the Iranian Society of Radiology COVID-19 Consultant Group was established to provide guidance on radiologic management of COVID-19. This study shares the preliminary experience of the group in utilizing imaging modalities for COVID-19 diagnosis and management. A multidisciplinary approach was employed, incorporating chest computed tomography (CT) and radiography findings to inform clinical decision-making. Our initial observations suggest that chest CT plays a crucial role in detecting COVID-19 pneumonia, particularly in patients with severe symptoms or inconclusive reverse transcription-polymerase chain reaction (RT-PCR) results. The findings of this study aim to contribute to the development of evidence-based guidelines for radiologic management of COVID-19, ultimately enhancing patient outcomes. This preliminary experience is based on data collected during the early stages of the pandemic in Iran (February-May 2020).

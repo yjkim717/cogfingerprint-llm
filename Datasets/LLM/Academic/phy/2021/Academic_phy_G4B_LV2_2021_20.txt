@@ -1,7 +1,0 @@
-**Abstract**
-
-The investigation of SU(N) chiral gauge theories remains a central challenge in theoretical physics, particularly concerning the intricate interplay between confinement, anomalies, and emergent phenomena in the infrared regime. This work presents novel findings regarding the anomaly structure within these models, specifically focusing on identifying previously uncharacterized obstructions to Topological Quantum Field Theory (TQFT) realization. Our analysis reveals a significant expansion of the anomaly polynomial, intricately linked to the dynamics of the gauge field and its potential for confinement. 
-
-We demonstrate that these anomalies not only preclude a straightforward TQFT description but also profoundly influence the formation of distinct infrared phases. Through a detailed examination of the effective potential and correlation functions, we establish a connection between the anomaly content and the emergence of scale invariance at lower energies. Furthermore, we explore the implications of these constraints on the confinement properties, suggesting a potential suppression of confinement transitions under specific anomaly regimes. 
-
-The identified obstructions offer a crucial framework for understanding the limitations of perturbative approaches to chiral gauge theories and highlight the necessity of non-perturbative techniques for accessing the full spectrum of their behavior. These results, presented in 2021, contribute to a deeper theoretical understanding of strongly coupled gauge systems and their associated phase diagrams.

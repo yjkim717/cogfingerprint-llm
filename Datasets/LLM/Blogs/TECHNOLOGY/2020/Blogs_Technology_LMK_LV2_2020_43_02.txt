@@ -1,1 +1,0 @@
-As I dove into my Django project in 2020, I realized the importance of a pre-commit pipeline. By leveraging git-based pre-commit hooks, I streamlined my Python project's development process. It was a game-changer - catching errors before they made it to the repo, and making my code more maintainable.

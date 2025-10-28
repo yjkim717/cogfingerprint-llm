@@ -1,5 +1,0 @@
-Year: 2020
-Author: R1ch0C
-URL: https://www.reddit.com/r/AppIdeas/comments/jgrex3/buddy_up_and_learn_together/
-
-How about an app where you can look for people who want to learn the same thing as you? For example I'm learning c# (and softdev in general) and I'd love it if I could look for 1/2/3 people who are also starting at the same time to keep me interested/accountable. I'd love to hear something line that already exists so please let me know

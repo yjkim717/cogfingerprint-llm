@@ -1,4 +1,0 @@
-Title: Unifying Particle and String Amplitudes through Binary Geometry
-
-Abstract:
-In 2024, our understanding of scattering amplitudes has been revolutionized by the introduction of binary geometry, providing a unified framework for particle and string tree amplitudes. By deriving all-order splits from curve integral formulations, we establish a conceptual origin for multi-soft limits. This breakthrough enables the systematic computation of scattering amplitudes, revealing novel connections between particle and string theories. Our results demonstrate the power of binary geometry in elucidating the underlying structure of amplitudes, paving the way for further advances in theoretical physics.

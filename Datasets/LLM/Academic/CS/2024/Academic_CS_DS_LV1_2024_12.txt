@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The growing scale and dimensionality of modern datasets present a significant computational bottleneck for causal discovery algorithms, which are essential for inferring causal structures from observational data. While methods like LiNGAM offer identifiable causal models under non-Gaussian assumptions, their reliance on sequential optimization renders them intractable for high-dimensional problems. This paper introduces a novel, massively parallel framework for LiNGAM-based causal discovery, engineered for contemporary GPU architectures. We reformulate the core estimation and independence testing procedures into fine-grained, parallelizable operations, effectively distributing the computational load across thousands of threads. Our empirical evaluation demonstrates that the proposed method achieves up to a 32-fold speedup over state-of-the-art CPU implementations on standard benchmarks, without compromising the statistical guarantees of the original algorithm. Crucially, this performance gain enables causal inference on datasets with thousands of variables, thereby scaling a foundational causal discovery technique to the demands of large-scale data science.
-
-**(Word Count: 149)**

@@ -1,5 +1,0 @@
-Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a computational science context and reflecting a 2020 timeframe:
-
-**Abstract**
-
-This study investigates the pharmacokinetic behavior of losartan and its active metabolite, EXP-3174, utilizing a novel population modeling approach incorporating gastric emptying as a key physiological variable. Employing observed plasma concentration-time data, a physiologically-based pharmacokinetic model was developed and validated, demonstrating the significant influence of inter-individual variability in gastric emptying rates on the observed drug disposition.  Model simulations revealed that accounting for gastric emptying dynamics substantially improved the predictive accuracy of losartan and EXP-3174 plasma concentrations. These findings highlight the importance of incorporating physiologically relevant processes into pharmacokinetic modeling for improved drug exposure predictions and personalized dosing strategies, particularly relevant in the context of complex drug metabolism observed in 2020 and beyond.

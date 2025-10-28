@@ -1,5 +1,0 @@
-Year: 2023
-Author: Brought2UByAdderall
-URL: https://www.reddit.com/r/Frontend/comments/179dc96/so_for_purposes_of_finding_desirable_employment/
-
-With the job market like it is, I can't afford to be too picky, but I suspect I'd do better, both interviewing and not wanting to quit after 6 months in a non-TS culture. Places with Rails and Python backends seem like a pretty good bet but they also also seem pretty rare. At least on LinkedIn. Do Vue teams also tend to go without? I've heard they tend to prefer things a bit leaner. @ TS devs, please don't bother trying to convince me I'm wrong to dislike your favorite crutch here. Plenty of other threads to get into it with me about whether dynamic types are a core desirable feature for languages meant to reason about higher level problems, particularly UI.

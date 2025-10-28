@@ -1,5 +1,0 @@
- Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a physics publication (circa 2023):
-
-**Abstract:**
-
-Recent investigations into the quantum-classical correspondence have explored connections between Krylov complexity and classical chaos. This work examines this relationship further, focusing on the statistical properties of Lanczos coefficients within Krylov subspaces constructed for quantum systems exhibiting chaotic behavior. We demonstrate a quantifiable link between the variances of these Lanczos coefficients and the magnitude of classical Lyapunov exponents, providing a novel probe of quantum chaos. Utilizing the stadium and Sinai billiards as paradigmatic examples, we observe a consistent correlation, suggesting that Krylov complexity offers a sensitive measure of underlying classical dynamics influencing energy level statistics in quantum systems. These findings contribute to a deeper understanding of the emergence of quantum chaos.

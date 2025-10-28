@@ -1,9 +1,0 @@
-Title: Assessing the Impact of the 2021-2022 Highly Pathogenic Avian Influenza Epidemic on European Poultry: Biosecurity Implications and Future Mitigation Strategies
-
-Abstract:
-
-The 2021-2022 Highly Pathogenic Avian Influenza (HPAI) epidemic season in Europe was characterized by an unprecedented scale of outbreaks, significantly affecting both poultry and wild bird populations. This epizootic event underscored the ongoing vulnerability of domestic bird populations to HPAI infection, despite advancements in biosecurity measures. The substantial number of cases reported across various European countries highlighted the complexities of managing HPAI outbreaks, particularly in regions with high densities of poultry farms.
-
-This study examines the epidemiology of the 2021-2022 HPAI epidemic in Europe, with a particular focus on the impact on poultry and the effectiveness of current biosecurity protocols. An analysis of outbreak data and biosecurity practices reveals that while enhanced surveillance and stringent biosecurity measures have been implemented, the virus continues to pose a significant threat to poultry health. The persistence of HPAI in wild bird populations and the risk of transmission to domestic birds remain critical concerns.
-
-The findings of this research emphasize the need for a multifaceted approach to HPAI management, incorporating enhanced biosecurity measures, improved surveillance, and coordinated regional responses. By understanding the dynamics of HPAI transmission and the limitations of current control strategies, this study aims to inform the development of more effective mitigation policies to protect European poultry from future HPAI epidemics.

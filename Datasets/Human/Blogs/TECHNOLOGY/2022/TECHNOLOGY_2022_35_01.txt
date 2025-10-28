@@ -1,5 +1,0 @@
-Year: 2022
-Author: Tyron_Slothrop
-URL: https://www.reddit.com/r/learnmachinelearning/comments/vt9k5g/eigenvectorsvalues_in_numpy/
-
-As far as I understand, Eigenvectors range from -1 to 1, with 1 being the same prior to transformation and -1 being the opposite. Eigenvalues, on the other hand, indicate how far the transformation has moved the Eigenvectors. If I have this right, I'm a little confused on the following numpy command: A = array([[-1, 4], [ 2, -2]]) vec, val = np.linalg.eig(A) result: Eigenvalues = [ 1.37228132, -4.37228132] Eigenvectors = [[ 0.86011126, -0.76454754], [ 0.51010647, 0.64456735]] However, I'm passing the same array A without any transformation into the numpy function. Why would I get results form this function?

@@ -1,8 +1,0 @@
-Author: J. Maldacena
-Title: Looking at supersymmetric black holes for a very long time
-Paper ID: 9a3dd028fa18029943d396b98fd55cb1df9482e1
-Year: 2022
-Author Index: 3
-
-Abstract:
-We study correlation functions for extremal supersymmetric black holes. It is necessary to take into account the strongly coupled nature of the boundary supergraviton mode. We consider the case with {\cal N}=2 supercharges which is the minimal amount of supersymmetry needed to give a large ground state degeneracy, separated from the continuum. Using the exact solution for this theory we derive formulas for the two point function and we also give integral expressions for any nn-point correlator. These correlators are time independent at large times and approach constant values that depend on the masses and couplings of the bulk theory. We also explain that in the non-supersymmetric case, the correlators develop a universal time dependence at long times. This paper is the longer companion paper of arXiv:2207.00407.

@@ -1,3 +1,0 @@
-It’s 2021, and I’m determined to build my first Linux dual-boot setup. I shrink my Windows C: drive, feeling like a digital pioneer—until I realize there’s no unallocated space to show for it. The capacity bar shrank, but the space? Nowhere to be found.
-
-I dive into forums, fdisk commands at the ready, only to find I’m not alone. It’s a quirk of Windows’ partitioning logic, a ghost in the machine that leaves you stranded between two worlds. In that moment, I’m reminded how technology, for all its precision, still holds mysteries that humble even the most eager of us. Sometimes, the gap between intention and execution is just a stubborn partition away.

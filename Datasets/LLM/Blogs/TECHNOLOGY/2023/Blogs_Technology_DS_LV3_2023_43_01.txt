@@ -1,1 +1,0 @@
-Remember sketching system diagrams on whiteboards back in 2023? We’d debate architecture for hours. Now, with clear design docs and shared tools, our team collaborates seamlessly. Those best practices transformed chaotic ideas into elegant solutions, reminding me that great software begins with shared understanding—not just clever code.

@@ -1,5 +1,0 @@
-Title: Evidence-Based Management of Adult Diffuse Gliomas: An Update on EANO Guidelines
-
-Abstract:
-
-Diffuse gliomas represent a heterogeneous group of primary brain tumors characterized by variable prognosis and treatment outcomes. The European Association of Neuro-Oncology (EANO) has developed evidence-based guidelines to standardize the diagnosis, treatment, and follow-up of adult patients with these malignancies. As of 2020, the EANO guidelines provide a comprehensive framework for clinicians to manage diffuse gliomas effectively. The guidelines emphasize the importance of molecular diagnostics, including IDH mutation status and 1p/19q codeletion, in informing treatment decisions. Furthermore, they outline the role of surgery, radiotherapy, and chemotherapy in the management of these tumors. This review summarizes the current EANO guidelines, highlighting the optimal diagnostic and therapeutic strategies for adult patients with diffuse gliomas. By adopting these guidelines, clinicians can improve patient outcomes and promote a more standardized approach to neuro-oncology care.

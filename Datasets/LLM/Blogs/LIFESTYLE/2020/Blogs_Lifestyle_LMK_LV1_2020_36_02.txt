@@ -1,3 +1,0 @@
-"My Digital Dilemma: When OneNote Let Me Down
-
-In 2020, I relied heavily on Microsoft OneNote to keep my life organized. I used the desktop app (version 2010, yes, I know it's old!) to jot down notes, to-do lists, and ideas. But one day, disaster struck - my notebook appeared empty! I was baffled. The weird thing was that my online notebook and phone app were perfectly synced and up-to-date. After some digging, I discovered that special characters in my file names were the culprit. Lesson learned: sometimes, the little things can cause the biggest headaches. Now, I'm more mindful of my file naming habits - and my sanity is intact!"

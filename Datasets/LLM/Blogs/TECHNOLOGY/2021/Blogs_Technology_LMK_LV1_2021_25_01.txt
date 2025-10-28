@@ -1,1 +1,0 @@
-"I still recall the frustration when my M1 MacBook Pro refused to reinstall macOS after a Jamf wipe in 2021. The kernel error and 'disk not writable' issue had me stumped. It was a tough lesson in troubleshooting, but I finally found a solution that got me back up and running."

@@ -1,7 +1,0 @@
-Okay, here's a reflective blog post draft inspired by your summary, aiming for a conversational tone and around 85 words:
-
----
-
-**Is Shopify *Really* Telling Us the Whole Story?**
-
-It’s 2024, and I’m obsessed with tracking everything online. I’ve been wrestling with Shopify’s session source data lately – specifically, how it handles Google Ads traffic. It *looks* like organic search is dominating, but I’m starting to suspect it’s not giving me the full picture.  Are we truly seeing the impact of our campaigns, or is Shopify simplifying things a bit too much?  Anyone else feeling this frustration?

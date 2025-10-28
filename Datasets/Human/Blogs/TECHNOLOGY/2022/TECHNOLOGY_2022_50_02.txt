@@ -1,5 +1,0 @@
-Year: 2022
-Author: encom81
-URL: https://www.reddit.com/r/VLC/comments/xv3f9a/modify_vlc_interface/
-
-Is there any way to modify VLC to make the player more like netflix such as adding jump forward/backward 10 second buttons or click the picture to pause? I love VLC! Just curious if this is possible because I'm so used to these features. Thanks.

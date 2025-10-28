@@ -1,9 +1,0 @@
-"Unraveling the Mystery of Linear Regression: A Calculus Conundrum"
-
-As I dove into the world of machine learning in 2023, I found myself face-to-face with a familiar foe: calculus. Specifically, the mathematical underpinnings of linear regression had me scratching my head. I'd used linear regression models countless times, but I'd never stopped to think about the calculus that powers them.
-
-My journey began with a simple question: how do we actually derive the coefficients in a linear regression model? I knew it involved calculus, but the specifics were fuzzy. As I dug in, I realized that I was rusty on some fundamental calculus rules - namely, the chain rule and power rule. I'd learned these concepts in college, but they had lain dormant for years, collecting dust.
-
-As I reviewed the derivations, it became clear that the chain rule and power rule were the keys to unlocking the mystery of linear regression. The chain rule allowed us to differentiate composite functions, while the power rule helped us handle those pesky polynomial terms. With these rules in hand, the derivative of the cost function - and thus the optimal coefficients - became much more straightforward.
-
-Reflecting on my journey, I'm reminded that even in this age of high-level APIs and abstraction, understanding the underlying math is still essential. It's easy to rely on libraries and frameworks without grasping the underlying concepts. By revisiting calculus and working through the derivations, I gained a deeper appreciation for the math that drives our technological advancements. And who knows? Maybe this newfound understanding will inspire me to tackle even more complex problems in the world of machine learning.

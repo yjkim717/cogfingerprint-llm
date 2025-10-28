@@ -1,5 +1,0 @@
-Year: 2023
-Author: GullibleEngineer4
-URL: https://www.reddit.com/r/ChatGPT/comments/123k98f/how_can_we_use_large_language_models_to_edit/
-
-I am really impressed by the capabilities of GPT 4, especially with regards to programming but I feel like there is a fundamental limitation. It cannot edit existing codebases to add new features. It can generate the code to create an application but there is no way to ask it to edit relevant files or create new files to add new features. You would need to copy the entire codebase to do it as or now which is not a scalable solution since the context window will always have an upper bound regardless of how large is it. I am wondering if there is a way to do it with the current models we have available today? Any thoughts or ideas are appreciated.

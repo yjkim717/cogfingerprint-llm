@@ -1,8 +1,0 @@
-Author: Fengchao Yu
-Title: MSFragger-DDA+ Enhances Peptide Identification Sensitivity with Full Isolation Window Search
-Paper ID: 0917677f3a8e09a55256bb3e1777296d100fd254
-Year: 2024
-Author Index: 10
-
-Abstract:
-Liquid chromatography-mass spectrometry (LC-MS) based proteomics, particularly in the bottom-up approach, relies on the digestion of proteins into peptides for subsequent separation and analysis. The most prevalent method for identifying peptides from data-dependent acquisition (DDA) mass spectrometry data is database search. Traditional tools typically focus on identifying a single peptide per tandem mass spectrum (MS2), often neglecting the frequent occurrence of peptide co-fragmentations leading to chimeric spectra. Here, we introduce MSFragger-DDA+, a novel database search algorithm that enhances peptide identification by detecting co-fragmented peptides with high sensitivity and speed. Utilizing MSFragger’s fragment ion indexing algorithm, MSFragger-DDA+ performs a comprehensive search within the full isolation window for each MS2, followed by robust feature detection, filtering, and rescoring procedures to refine search results. Evaluation against established tools across diverse datasets demonstrated that, integrated within the FragPipe computational platform, MSFragger-DDA+ significantly increases identification sensitivity while maintaining stringent false discovery rate (FDR) control. It is also uniquely suited for wide-window acquisition (WWA) data. MSFragger-DDA+ provides an efficient and accurate solution for peptide identification, enhancing the detection of low-abundance co-fragmented peptides. Coupled with the FragPipe platform, MSFragger-DDA+ enables more comprehensive and accurate analysis of proteomics data.

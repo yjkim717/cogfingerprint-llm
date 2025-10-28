@@ -1,5 +1,0 @@
-Year: 2024
-Author: davidlovescats
-URL: https://www.reddit.com/r/leetcode/comments/1fnbrrz/spending_whole_days_on_leetcode/
-
-I just spent the whole day on LeetCode problems and it’s not the first time. I lose track of time and next thing I know it’s the end of the day. Today I spent over 3 hours on yesterday’s Daily problem and almost got to a solution. Then today’s problem which frustrated me until I saw the editorial. Is there any point in spending so much time and energy on this? I feel satisfied that I broke down the first problem and almost got the solution after 3 hours but I feel unproductive and frustrated.

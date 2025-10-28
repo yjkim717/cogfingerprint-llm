@@ -1,3 +1,0 @@
-## The Unexpected Allure of Metal and Makerspaces
-
-Remember when 3D printing felt like pure science fiction? Now, I'm diving down a rabbit hole of metal FDM printing – yes, really! I've been fascinated by the idea of creating with pewter and even gold alloys, using a modified FDM printer. It's surprisingly tricky though! The biggest hurdle? Thermal conductivity. Metal heats up *fast*, throwing a wrench in the usual printing process. It’s a reminder that even with incredible technology, there’s always a learning curve, a delightful challenge in bringing a creative vision to life.

@@ -1,8 +1,0 @@
-## Abstract: Accelerated Quantum Mechanics/Molecular Mechanics (QM/MM) Simulations on AMD GPU Architectures
-
-The computational demands of simulating complex chemical systems often necessitate the integration of quantum mechanics (QM) and molecular mechanics (MM) methodologies within a QM/MM framework. While traditionally dominated by NVIDIA GPU acceleration, this work investigates the potential of AMD GPU architectures for significantly enhancing the performance of QM/MM simulations, specifically within the context of Amber, a widely adopted biomolecular simulation package. We present a novel implementation optimized for AMD Radeon Instinct GPUs, focusing on efficient parallelization of the Fock matrix construction, a computationally intensive step in QM calculations.
-
-Benchmarking against equivalent simulations performed on NVIDIA GPUs and previous Amber implementations, our results demonstrate substantial performance gains on AMD hardware. Specifically, we observe [mention specific speedup percentage or factor, e.g., a 2x speedup] for [mention specific system size or QM region size, e.g., a 100-atom QM region embedded in a 10,000-atom MM system] using [mention specific AMD GPU model, e.g., the MI250X]. This improvement stems from optimized memory access patterns and efficient utilization of AMD’s compute capabilities.  These findings suggest that AMD GPUs represent a viable and competitive alternative for accelerating QM/MM simulations, broadening the accessibility of computationally demanding research in areas such as drug discovery, materials science, and enzyme catalysis. Further investigation into specific algorithmic optimizations tailored to AMD architectures remains a priority for future work.
-
-
-

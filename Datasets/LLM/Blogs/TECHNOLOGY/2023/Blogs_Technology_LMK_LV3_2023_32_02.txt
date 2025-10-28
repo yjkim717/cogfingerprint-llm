@@ -1,5 +1,0 @@
-"Building a Rock-Solid Network: My Quest for Redundancy"
-
-As I navigated the ever-changing landscape of home labbing in 2023, I realized that a reliable network was the backbone of my setup. With multiple NAS devices and hypervisors humming along, a single connection drop could bring my productivity to a grinding halt. I was determined to achieve a fully redundant network, but I was faced with a daunting question: how to do it affordably and manageably.
-
-My search led me to explore switch management options that could seamlessly handle network changes without disrupting my connections. I wanted a solution that would allow me to breathe easy, knowing that my data was always accessible. As I dug deeper, I discovered that achieving redundancy wasn't just about adding more hardware; it was about creating a robust infrastructure that could adapt to my needs. With the right NAS configuration and hypervisor connectivity, I was well on my way to building a network that was as resilient as it was efficient.

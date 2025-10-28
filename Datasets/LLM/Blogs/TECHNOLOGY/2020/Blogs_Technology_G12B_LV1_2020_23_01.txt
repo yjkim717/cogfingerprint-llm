@@ -1,9 +1,0 @@
->## The Bluetooth Blues of Remote Work
-
-It’s 2020, and my iPad Pro has become my lifeline. Work, connecting with family, even just mindless scrolling – it’s all happening on this sleek little device. I invested in a nice Bluetooth speaker a few months back, envisioning crystal-clear conference calls and enjoyable movie nights. The reality? A frustratingly patchy experience.
-
-Specifically, Zoom and Google Meet have become a source of audio angst. Suddenly, my voice sounds muffled, and the other participants complain of dropouts. It's bizarre – Spotify and podcasts through the same speaker sound perfectly fine! It's like the Bluetooth connection is fighting a losing battle with video conferencing.
-
-I dove down a rabbit hole of forums and tech support articles. Apparently, this is a somewhat common issue, particularly for those running iOS 13. It seems the operating system has quirks with Bluetooth audio codecs when it comes to real-time communication. 
-
-It's a small annoyance, sure, but it highlights how reliant we are on technology, and how even seemingly minor glitches can disrupt our workflow and connections. Now, I’m resigned to using headphones for important calls, a constant reminder of the digital hiccups we all face in this increasingly remote world.

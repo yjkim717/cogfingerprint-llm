@@ -1,5 +1,0 @@
-Year: 2022
-Author: mikaball
-URL: https://www.reddit.com/r/Backend/comments/wk4xmq/automated_frontend_fe_state_management_via/
-
-What I want. Let's suppose you define the FE model as DTOs (projections loaded from the BE). Now, for every user action there's a respective command and call to the BE (POST/PUT). The BE response is a state change of some FE projection. The FE lib should catch those change-requests, update the respective projections and redraw the UI (reacting to the state changes). Is there any BE lib that integrates with a FE state management lib? With such integration I could put all my business logic in the BE and make the FE just presenting, reacting to user actions and changes in projections. Edit: Development stack on the BE should be Java. FE is now Angular, but I'm open to other.

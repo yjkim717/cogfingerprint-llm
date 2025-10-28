@@ -1,5 +1,0 @@
-Year: 2023
-Author: Goldziher
-URL: https://www.reddit.com/r/ExperiencedDevs/comments/12gmp75/system_design_how_to/
-
-Hi All, So I'm interested to know what tools (if any) you use for system design and software architecture? At my company we usually simply draw diagrams and write a design doc, but I'm sure there are some better tools for this. I'm also interested in any guidelines (or guides), templates, best practices of criticism you'll might have regard system design and software architecture.

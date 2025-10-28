@@ -1,1 +1,0 @@
-We demonstrate an on-chip segmented coupled waveguide array enabling optimized multi-photon split state tomography without reconfigurability, achieving enhanced quantum state characterization in integrated photonic circuits.

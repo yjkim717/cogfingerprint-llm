@@ -1,8 +1,0 @@
-Author: C. Stringer
-Title: Cellpose3: one-click image restoration for improved cellular segmentation
-Paper ID: f396860627bf43ffe714d0ae749ac588491e5483
-Year: 2024
-Author Index: 20
-
-Abstract:
-Generalist methods for cellular segmentation have good out-of-the-box performance on a variety of image types. However, existing methods struggle for images that are degraded by noise, blurred or undersampled, all of which are common in microscopy. We focused the development of Cellpose3 on addressing these cases, and here we demonstrate substantial out-of-the-box gains in segmentation and image quality for noisy, blurry or undersampled images. Unlike previous approaches, which train models to restore pixel values, we trained Cellpose3 to output images that are well-segmented by a generalist segmentation model, while maintaining perceptual similarity to the target images. Furthermore, we trained the restoration models on a large, varied collection of datasets, thus ensuring good generalization to user images. We provide these tools as “one-click” buttons inside the graphical interface of Cellpose as well as in the Cellpose API.

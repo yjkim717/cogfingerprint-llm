@@ -1,7 +1,0 @@
-## The Unexpected Upgrade: Finding Joy in the Details
-
-Remember 2020? The year the world collectively paused. For me, that pause manifested in a strange, unexpected place: building a PC. I'd always been a console gamer, perfectly content. But lockdowns and a growing frustration with lag during online design work pushed me towards something… more.
-
-It started small, researching components. Then, a deep dive into CPUs, GPUs, and motherboards - suddenly I was obsessed! The sheer complexity was initially daunting, but the process of carefully selecting each piece, understanding how they’d all work together, was surprisingly therapeutic. 
-
-I ended up with a beast – an AMD Ryzen 9 5900x paired with an RTX 3090, nestled in an ASUS TUF X570-Plus motherboard. It wasn’t just about the performance, though. It was about the meticulousness, the problem-solving, the quiet satisfaction of seeing it all come together.  It’s funny how a high-end machine built to escape reality actually helped me appreciate the present a little more.

@@ -1,5 +1,0 @@
-Title: Investigating the Role of Surface Diffusion of Carbon Atoms in the Formation of Complex Organic Molecules on Interstellar Ice
-
-Abstract:
-
-The formation of complex organic molecules (COMs) in interstellar environments is a crucial aspect of interstellar chemistry. Recent studies have highlighted the significance of surface diffusion processes on interstellar ice in facilitating the formation of COMs. This study investigates the surface diffusion of carbon atoms on interstellar ice analogues using a combination of experimental and theoretical approaches. Our results demonstrate that the surface diffusion of carbon atoms is a key factor in the formation of COMs, enabling the efficient formation of C-C bonds and subsequent molecular complexity. The findings provide new insights into the mechanistic understanding of COM formation and have implications for our understanding of the origins of molecular complexity in interstellar environments. The results are discussed in the context of current understanding of interstellar chemistry and the role of surface diffusion in shaping the molecular composition of interstellar ice.

@@ -1,5 +1,0 @@
-Title: Auditing Algorithmic Collusion in Competitive Markets: A Statistical Framework
-
-Abstract:
-
-The proliferation of pricing algorithms in competitive markets has raised concerns regarding algorithmic collusion, where autonomous agents may tacitly coordinate to manipulate prices. In this paper, we address the pressing need for a robust framework to detect and audit such collusive behavior. We define a plausible notion of algorithmic non-collusion, grounded in the principles of competitive market equilibrium. Building upon this definition, we propose a statistical test to determine whether a given pricing algorithm complies with non-collusive norms. Our test leverages observable market data to identify potential collusion, providing a data-driven approach to regulatory oversight. We establish the theoretical validity of our test under standard market assumptions, demonstrating its efficacy in detecting algorithmic collusion. Our framework offers a crucial tool for ensuring the integrity of competitive markets in the era of algorithmic decision-making. (2024)

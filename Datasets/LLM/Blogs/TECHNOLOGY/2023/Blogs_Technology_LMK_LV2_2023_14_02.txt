@@ -1,1 +1,0 @@
-generate_text(prompt="a reflective blog post on struggling with optimal training settings for SDXL in Kohya for generating quality images with stable diffusion, written in a conversational tone and within 96 words, in the context of 2023")

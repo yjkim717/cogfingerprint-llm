@@ -1,7 +1,0 @@
-Okay, here’s a reflective blog post inspired by the provided text and adhering to your specifications:
-
----
-
-**Two Streams, One Goal**
-
-Honestly, this season felt a little…scattered. Like I was juggling too many plates. I was training hard for my usual soccer spot, but also experimenting with a new, almost obsessive, approach to data speeds – setting up a dual-WAN router with Spectrum and Google Fiber. It sounds weird, I know!  But I was trying to see how simultaneous connections would *actually* impact my training, my research, everything.  It wasn’t about faster downloads, it was about focusing – finding a steady, reliable stream, like a perfectly executed pass.  Sometimes, simplicity wins.

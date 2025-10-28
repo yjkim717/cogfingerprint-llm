@@ -1,9 +1,0 @@
-Title: Asymptotic Symmetries in Rarita-Schwinger Theory: A Hamiltonian Analysis of Supersymmetric Multiplets
-
-Abstract:
-
-In this paper, we investigate the asymptotic structure of the Rarita-Schwinger theory within the framework of the Hamiltonian formalism. By analyzing the asymptotic behavior of the fermionic fields, we reveal the presence of infinite-dimensional fermionic symmetries that form a supersymmetric extension of the Poincaré algebra. Specifically, we demonstrate that the Rarita-Schwinger theory, when coupled to supersymmetric multiplets, exhibits a super-Poincaré algebra as a subalgebra of the asymptotic symmetry algebra.
-
-Employing the Hamiltonian formalism, we derive the asymptotic charges associated with the supersymmetry generators and show that they satisfy the super-Poincaré algebra up to a central extension. Our analysis is performed in the context of asymptotically flat spacetimes, where the Rarita-Schwinger field is assumed to fall off sufficiently fast at null infinity. The asymptotic symmetries are then identified as the supersymmetry transformations that leave the asymptotic form of the fields invariant.
-
-Our results provide a novel insight into the interplay between supersymmetry and the asymptotic structure of spacetimes. The infinite-dimensional fermionic symmetries uncovered in this work have significant implications for our understanding of the holographic principle and the behavior of supersymmetric theories in the infrared. Furthermore, the super-Poincaré algebra, which arises as a subalgebra of the asymptotic symmetry algebra, provides a representation-theoretic framework for classifying the supersymmetric multiplets in the theory. This work sheds new light on the asymptotic symmetries of the Rarita-Schwinger theory and paves the way for further investigations into the supersymmetric structure of gravitational theories.

@@ -1,5 +1,0 @@
-Here’s an original academic abstract informed by the provided summary, suitable for a 2022 publication:
-
-**Early Detection of Amyloid Pathology in Preclinical Alzheimer’s Disease: A Role for Plasma Phosphorylated Tau Biomarkers**
-
-Emerging evidence suggests that preclinical Alzheimer’s disease (AD) represents a critical window for therapeutic intervention.  This study investigates the potential of plasma biomarkers to identify individuals exhibiting early amyloid pathology prior to clinical symptom onset. Specifically, we examined the correlation between plasma levels of phosphorylated tau isoforms, p-tau231 and p-tau217, and amyloid-β deposition as measured by positron emission tomography (PET). Results demonstrate a significant positive correlation between these plasma p-tau markers and PET retention, indicating their ability to reflect underlying amyloid pathology.  These findings support the use of p-tau231 and p-tau217 as promising candidates for non-invasive early detection strategies in preclinical AD populations. Further longitudinal studies are warranted to validate these biomarkers and refine their predictive accuracy.

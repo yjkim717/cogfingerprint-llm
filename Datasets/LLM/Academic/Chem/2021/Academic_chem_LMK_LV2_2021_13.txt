@@ -1,5 +1,0 @@
-Title: Investigating Ice Morphology on Refractory Grains via Transmission Electron Microscopy
-
-Abstract:
-
-The crystallization behavior and morphology of ices comprising H2O, CO2, and CO deposited on refractory grains were examined using transmission electron microscopy (TEM) in 2021. The study focused on understanding the structural evolution of amorphous ices upon thermal annealing. TEM imaging revealed that the morphology of the ices is influenced by the composition and substrate characteristics. The results indicate that the presence of refractory grains affects the crystallization kinetics and ice morphology, with distinct differences observed between pure H2O, CO2, and CO ices and their mixtures. The findings provide insights into the role of substrate-ice interactions in determining the structural properties of ices, shedding light on the complex processes governing ice formation and crystallization in various astrophysical environments. The study's results have implications for understanding ice behavior in interstellar and cometary contexts.

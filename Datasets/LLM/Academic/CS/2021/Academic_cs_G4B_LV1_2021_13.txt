@@ -1,7 +1,0 @@
-Okay, here’s an academic-style abstract, approximately 178 words, drawing upon the provided summary and aiming for a 2021 context, suitable for a Computer Science or Cognitive Science publication:
-
----
-
-**Abstract**
-
-Recent advances in multimodal neural networks have prompted investigation into their capacity to emulate core aspects of human language acquisition, specifically cross-situational word learning. This study explores the extent to which these networks can establish robust word-referent mappings, mirroring the behavioral findings of traditional cognitive models. Utilizing a novel architecture incorporating visual and linguistic input streams, we trained a deep convolutional neural network to associate novel object categories with corresponding lexical labels during a simulated learning paradigm.  Results demonstrate a degree of successful mapping, suggesting the potential for representation learning within these systems. However, critical limitations were observed when presented with scenarios exhibiting mutual exclusivity – instances requiring the negation of multiple referents.  Network performance degraded significantly under these conditions, indicating an absence of explicit reasoning about exclusion, and highlighting the need for incorporating mechanisms beyond simple co-occurrence statistics to achieve truly human-like language understanding.  Future work will focus on integrating constraint satisfaction techniques to address this fundamental deficit.

@@ -1,5 +1,0 @@
-Here’s an abstract based on your summary, aiming for a formal, academic style suitable for 2024:
-
-**Abstract**
-
-Early detection of Alzheimer’s disease (AD) pathology remains a critical challenge. This study investigated the diagnostic potential of a novel plasma phosphorylated tau 217 (p-tau217) immunoassay within three independent cohorts. Utilizing a prospective cohort design, we assessed the assay’s accuracy in identifying individuals exhibiting evidence of amyloid-negative AD. Results demonstrated a strong correlation between p-tau217 plasma levels and established biomarkers of neurodegeneration.  Specifically, elevated p-tau217 concentrations exhibited significant predictive value for AD diagnosis, suggesting its utility as a readily accessible and sensitive measure of underlying tau pathology. Further validation across larger, diverse populations is warranted to refine diagnostic thresholds and establish its clinical utility.

@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Comparative Analysis of Supervised Learning Models: A Statistical Evaluation Framework
-
-Abstract: 
-In the realm of machine learning, evaluating and comparing the performance of supervised learning models is crucial. This study reviews prevalent evaluation metrics and statistical tests employed for model comparison across diverse tasks. We examine the efficacy of metrics such as accuracy, F1-score, and AUC-ROC, in conjunction with statistical tests like the t-test and Wilcoxon rank-sum test. Our analysis provides a comprehensive framework for rigorous model evaluation, enabling informed decisions in machine learning research and applications, as of 2024.

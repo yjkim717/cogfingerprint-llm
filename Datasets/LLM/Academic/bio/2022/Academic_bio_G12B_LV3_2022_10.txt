@@ -1,5 +1,0 @@
-Here's an abstract inspired by the provided summary and keywords, written in a formal, academic style suitable for a bio-related publication, and contextualized for 2022:
-
-**Abstract**
-
-The increasing complexity of proteomic datasets demands innovative approaches to peptide identification. This study introduces MSBooster, a novel computational tool developed in 2022 that integrates deep learning methodologies to predict peptide physicochemical properties, thereby augmenting traditional *de novo* sequencing workflows. By incorporating these predictions within established proteomics pipelines such as FragPipe and MSFragger, MSBooster significantly improves peptide identification rates in liquid chromatography-tandem mass spectrometry (LC-MS/MS) experiments. This advancement promises to enhance the depth and accuracy of proteomic analyses, facilitating more comprehensive characterization of biological systems and accelerating downstream biological discovery.

@@ -1,4 +1,0 @@
-Title: Investigating OH Radical Mobility on Interstellar Ice Analogs via Photostimulated Desorption
-
-Abstract:
-In 2022, our research focused on elucidating the diffusion dynamics of OH radicals on interstellar ice analogs. Employing photostimulated desorption coupled with resonance-enhanced multiphoton ionization, we experimentally derived the activation energy for OH radical surface diffusion. The Arrhenius equation was utilized to analyze the temperature-dependent diffusion rates, yielding an activation energy of 0.14 ± 0.01 eV. Our findings provide critical insights into the mobility and reactivity of OH radicals on interstellar ices, shedding light on the astrochemical processes governing the formation of complex molecules in interstellar environments.

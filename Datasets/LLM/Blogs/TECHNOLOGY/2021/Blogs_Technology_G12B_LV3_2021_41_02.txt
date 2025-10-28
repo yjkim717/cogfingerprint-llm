@@ -1,3 +1,0 @@
-## The Quiet Quest for Cool
-
-Anyone else chasing the elusive silent PC build? I just saw a post about a CyberPowerPC customer battling constant fan noise – turns out, their case fans were running on DC power instead of PWM, even though they *could* use PWM! It’s a frustrating reminder that even with great components, getting optimal cooling (and quiet) takes a little digging.

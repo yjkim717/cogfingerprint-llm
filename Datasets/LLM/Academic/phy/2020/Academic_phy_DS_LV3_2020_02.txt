@@ -1,1 +1,0 @@
-The EFT-hedron framework demonstrates that causality and unitarity impose rigorous geometric constraints on effective field theories. These conditions yield infinitely many linear and nonlinear inequalities that bound Wilson coefficients in photon and graviton scattering amplitudes, revealing profound connections between quantum consistency and positive geometry.

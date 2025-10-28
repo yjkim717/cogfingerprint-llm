@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, suitable for a physics publication, based on your provided keywords and summary, and reflecting a 2020 timeframe:
-
-**Abstract**
-
-Metasurfaces, artificial periodic structures exhibiting subwavelength features, offer unprecedented control over electromagnetic waves. This work investigates the potential of dielectric metasurfaces for sensitive polarization state detection, leveraging the principles of non-Hermitian optics. We demonstrate a design strategy enabling enhanced sensitivity to polarization deviations through optimization of metasurface geometry and material properties. The proposed approach exploits non-reciprocal losses to amplify the response to small changes in incident polarization, leading to a measurable output signal. Numerical simulations reveal a significant improvement in detection sensitivity compared to conventional methods, suggesting a pathway towards compact and highly responsive polarimeters and optical sensing devices utilizing all-dielectric platforms.

@@ -1,5 +1,0 @@
-Year: 2024
-Author: megamanxzero35
-URL: https://www.reddit.com/r/smallengines/comments/1c7g9t8/ranch_king_riding_mower_wont_crank/
-
-I have a Ranch King which is basically a rebranded MTD. Pulled it out and tried to start it and it won’t even try and crank. Battery has charge. I can jump the solenoid at the 2 main posts and it will start. Solenoid is a 3 pole. Tested my ignition switch and it is working. Tested harness and I do have 12v running to ignition switch. Went I test the solenoid at the harness, I am not getting 12v from the wire that runs down to the solenoid. Is there a fuse or relay somewhere along that path that I’m not seeing or thinking of? Solenoid wire at ignition harness is orange and the one running to the solenoid is orange/white and comes out of another harness. So must connect somewhere and change color. Model number is 13AS698H205 under the seat but having trouble finding a wire diagram.

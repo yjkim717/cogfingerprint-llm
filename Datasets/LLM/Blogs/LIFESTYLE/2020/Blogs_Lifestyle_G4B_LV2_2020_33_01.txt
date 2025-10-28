@@ -1,7 +1,0 @@
-Okay, here's a blog post draft based on your summary and instructions:
-
----
-
-**The Panic of the Upload**
-
-Remember 2020? Everything felt… uncertain. I vividly recall that same anxious feeling when I started building my first website. Uploading those PHP files, wondering if it would *actually* work on the hosting server – it was pure panic! It’s a surprisingly common feeling for new web developers, a little digital vertigo before the magic happens.

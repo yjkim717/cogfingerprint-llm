@@ -1,3 +1,0 @@
-## The Kohya Conundrum (and the Frustration of AI Fine-Tuning)
-
-Anyone else wrestling with Kohya and Stable Diffusion in 2024? I'm currently lost in a rabbit hole of error messages – exit status codes and missing metadata mocking my attempts at fine-tuning. It’s humbling, really, to feel so outsmarted by a machine, even while trying to *teach* it. The search for a clear tutorial feels endless!

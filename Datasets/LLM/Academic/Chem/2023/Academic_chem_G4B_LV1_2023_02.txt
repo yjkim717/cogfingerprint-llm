@@ -1,7 +1,0 @@
-Here’s an original academic abstract inspired by the provided summary, suitable for a 2023 publication in a chemistry journal:
-
-**Abstract**
-
-The genesis of complex organic molecules (COMs) within interstellar environments remains a central enigma in astrochemistry. This research posits a novel mechanistic pathway wherein surface diffusion of carbon atoms on icy grain surfaces serves as a critical precursor to COM formation. Utilizing a kinetic model informed by recent spectroscopic observations, we demonstrate that localized carbon atom mobility, facilitated by vibrational energy input from interstellar radiation, promotes C-C bond formation. Specifically, our simulations highlight the preferential accumulation of mobile carbon species on the amorphous ice interfaces of micron-sized grains. 
-
-These localized carbon concentrations then undergo sequential addition reactions, yielding increasingly complex molecular architectures. The observed correlation between surface diffusion rates and the abundance of low-mass COMs, such as glycolaldehyde and glycine analogues, supports this hypothesis.  Further investigation employing advanced radiative transfer models is warranted to fully elucidate the role of ice grain properties and interstellar photon fluxes in this emergent process, ultimately contributing to a more comprehensive understanding of prebiotic chemistry’s origins.

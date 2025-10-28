@@ -1,3 +1,0 @@
-It’s 2022, and I’m knee-deep in a machine learning project, confident in my linear algebra chops—until NumPy hands me eigenvectors that seem to defy intuition. I’d fed it a simple matrix, expecting a neat transformation story, but the output felt abstract, almost disconnected from the geometric shifts I envisioned.
-
-That moment was humbling. It reminded me that technology, for all its power, doesn’t always serve understanding on a silver platter. We chase efficiency with tools like NumPy, yet the real magic lies in bridging code and comprehension. It’s not just about getting answers; it’s about asking why they look that way. In an era of AI acceleration, pausing to reflect on fundamentals keeps our curiosity alive—and our skills sharp.

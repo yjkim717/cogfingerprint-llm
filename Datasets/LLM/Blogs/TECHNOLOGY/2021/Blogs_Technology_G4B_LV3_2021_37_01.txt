@@ -1,2 +1,0 @@
-Input: Users are seeking a way to crop videos in portrait orientation within the VLC media player on PC, mirroring the 'fit to screen' feature found on the mobile version.
-Output: It’s funny, isn’t it? We crave the same simple features across all our devices. I spent ages trying to get VLC to mimic my phone’s “fit to screen” – a small victory, but a satisfying one!

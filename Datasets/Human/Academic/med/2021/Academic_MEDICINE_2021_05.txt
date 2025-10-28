@@ -1,8 +1,0 @@
-Author: A. Venook
-Title: Colon Cancer, Version 2.2021, NCCN Clinical Practice Guidelines in Oncology.
-Paper ID: 0892ed28d2b2e005df18abe8e94760a910afffd5
-Year: 2021
-Author Index: 5
-
-Abstract:
-This selection from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Colon Cancer focuses on systemic therapy options for the treatment of metastatic colorectal cancer (mCRC), because important updates have recently been made to this section. These updates include recommendations for first-line use of checkpoint inhibitors for mCRC, that is deficient mismatch repair/microsatellite instability-high, recommendations related to the use of biosimilars, and expanded recommendations for biomarker testing. The systemic therapy recommendations now include targeted therapy options for patients with mCRC that is HER2-amplified, or BRAF V600E mutation-positive. Treatment and management of nonmetastatic or resectable/ablatable metastatic disease are discussed in the complete version of the NCCN Guidelines for Colon Cancer available at NCCN.org. Additional topics covered in the complete version include risk assessment, staging, pathology, posttreatment surveillance, and survivorship.

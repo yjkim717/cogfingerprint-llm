@@ -1,1 +1,0 @@
-"In this study (2020), we demonstrate the manipulation of near-infrared femtosecond pulses using dielectric metasurfaces, effectively controlling the time-domain polarization state within a single pulse, thereby enabling novel applications in ultrafast optics and polarization-sensitive spectroscopy."

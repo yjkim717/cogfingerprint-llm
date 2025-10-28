@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, written in the context of 2022:
-
-**Abstract**
-
-The 2022 National Comprehensive Cancer Network (NCCN) guidelines reflect a paradigm shift in the management of locally advanced rectal cancer. Significant revisions address both malignant polyps and resectable, non-metastatic disease, with a pronounced emphasis on total neoadjuvant therapy (TNA). Specifically, the guidelines promote the integration of short-course radiation therapy (SCRT) as a crucial component of TNA regimens. Furthermore, a non-operative 'watch-and-wait' strategy is now explicitly endorsed for patients exhibiting complete clinical response following neoadjuvant treatment. This approach represents a move towards less invasive management and aims to minimize morbidity associated with surgery, while maintaining oncologic control. These updates underscore a growing trend towards personalized treatment strategies in rectal cancer management.

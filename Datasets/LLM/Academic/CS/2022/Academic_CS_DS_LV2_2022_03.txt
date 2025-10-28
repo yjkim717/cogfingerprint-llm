@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The design of revenue-maximizing mechanisms in multi-item settings remains a central challenge in algorithmic game theory, particularly under complex demand constraints. This work investigates the performance of simple and practical mechanisms for a multi-buyer environment where agents have unit-demand valuations and are subject to a "buy-many" constraint, which limits their ability to purchase arbitrary bundles. A canonical revenue benchmark in such settings is the optimal revenue achievable by a buy-many mechanism. While complex, randomized mechanisms can theoretically approach this benchmark, their practical implementation is often hindered by their complexity and lack of transparency. In contrast, we analyze the efficacy of *sequential item pricing*, a natural and widely used class of mechanisms. Our main contribution is an analytical proof that, for unit-demand buyers, a carefully constructed sequential item pricing scheme provides an O(log m)-approximation to the optimal buy-many revenue benchmark, where *m* denotes the number of items. This result demonstrates that the simplicity of sequential pricing does not preclude strong performance guarantees, even in multi-agent competitions, thus bridging a significant gap between theoretical optimality and practical mechanism design. Our findings, contextualized in 2022, reinforce the value of simple mechanisms in complex economic environments.

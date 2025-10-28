@@ -1,5 +1,0 @@
-Year: 2021
-Author: aXaxinZ
-URL: https://www.reddit.com/r/GlobalOffensive/comments/li9ozz/cant_seem_to_hold_angles_in_mm_but_able_to_in/
-
-Here me out for a sec. I'm currently MGE in MM and Level 4 in Faceit. I've played against lvl 6-8 people due to Faceit matchmaking and I seem to be able to track their movements out of corners when they wide peek and get a kill. However, in MM, I get that it's 64 tick and people swing wide a lot. But even if I compensate by holding wide from the corner. Doesn't matter if I'm using an awp or not, they just seem to zoom past me before I even have time to shoot.

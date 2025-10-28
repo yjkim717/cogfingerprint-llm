@@ -1,8 +1,0 @@
-Author: A. Venook
-Title: Anal Carcinoma, Version 2.2023, NCCN Clinical Practice Guidelines in Oncology.
-Paper ID: 1c0468a0423ba9bddda7ef046169f0150dd4ce62
-Year: 2023
-Author Index: 5
-
-Abstract:
-This discussion summarizes the NCCN Clinical Practice Guidelines for managing squamous cell anal carcinoma, which represents the most common histologic form of the disease. A multidisciplinary approach including physicians from gastroenterology, medical oncology, surgical oncology, radiation oncology, and radiology is necessary. Primary treatment of perianal cancer and anal canal cancer are similar and include chemoradiation in most cases. Follow-up clinical evaluations are recommended for all patients with anal carcinoma because additional curative-intent treatment is possible. Biopsy-proven evidence of locally recurrent or persistent disease after primary treatment may require surgical treatment. Systemic therapy is generally recommended for extrapelvic metastatic disease. Recent updates to the NCCN Guidelines for Anal Carcinoma include staging classification updates based on the 9th edition of the AJCC Staging System and updates to the systemic therapy recommendations based on new data that better define optimal treatment of patients with metastatic anal carcinoma.

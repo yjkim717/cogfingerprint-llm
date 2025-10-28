@@ -1,3 +1,0 @@
-It’s 2022, and I’m staring at a button in our order system labeled simply “Pause.” It’s a tiny piece of code, but it holds so much meaning. In a world racing toward automation, this little feature reminds me that technology works best when it serves human needs, not just speed.
-
-That pause isn’t a failure—it’s a moment of care. It lets us gently ask a customer for missing details before their order goes awry. In our rush to streamline workflows, we sometimes forget the person on the other end. This button? It’s a digital deep breath. A small, intentional space where efficiency meets empathy. And honestly, that’s the kind of tech I’m grateful for.

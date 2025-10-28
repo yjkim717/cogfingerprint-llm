@@ -1,8 +1,0 @@
-Author: M. Tsuge
-Title: Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice
-Paper ID: 84a007c02ec88e3486239e021af5663d6fa5ff7b
-Year: 2022
-Author Index: 13
-
-Abstract:
-Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of an interstellar ice analog were monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by the recombination of two OH radicals, which is rate-limited by thermal diffusion of OH. The activation energy for surface diffusion was experimentally determined for the first time to be 0.14 ± 0.01 eV, which is larger than or equivalent to those assumed in theoretical models. This value implies that the diffusive reaction of OH radicals starts to be activated at approximately 36 K on interstellar ice.

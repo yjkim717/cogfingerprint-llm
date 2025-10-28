@@ -1,5 +1,0 @@
- here:
-
-Here's an academic abstract inspired by the provided summary and keywords, suitable for a chemistry-focused publication in 2021:
-
-"The observed abundance of formaldehyde (H₂CO) in cold interstellar environments remains a significant challenge in astrochemistry. This work investigates a potentially prolific formation pathway involving carbon atom reactivity within amorphous solid water (ASW), catalyzed by the extensive hydrogen-bonding network characteristic of ASW structures. Through computational modeling and experimental validation, we demonstrate a highly efficient reaction mechanism wherein carbon atoms readily incorporate into ASW, leading to H₂CO production at astrophysically relevant temperatures. Our findings reconcile previous discrepancies regarding H₂CO formation rates and offer a compelling explanation for its prevalence in dense molecular clouds, furthering our understanding of interstellar organic molecule synthesis."

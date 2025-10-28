@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on your summary and instructions:
-
----
-
-**Is My Algorithm Telling Me What’s Affordable?**
-
-Remember when buying a house felt… human? Now, it’s often just a series of spreadsheets and online calculators throwing mortgage rates at you. I’ve been wrestling with this lately – feeling like algorithms are dictating my “affordability,” based on broad numbers and my *after-tax* income. 
-
-It’s easy to get lost in the data. But housing isn't just about a monthly payment; it’s about *real* expenses, the things that truly impact my *net income*.  I'm starting to realize I need a more personalized approach, one that factors in my life, not just a formula.  Anyone else feeling this way in 2023?

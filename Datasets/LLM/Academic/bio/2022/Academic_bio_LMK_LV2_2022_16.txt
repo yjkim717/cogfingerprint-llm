@@ -1,6 +1,0 @@
-Here's a formal academic-style abstract based on the provided summary:
-
-Title: Enhanced Multiple-Gene Mutagenesis in Pleurotus ostreatus via CRISPR/Cas9 with Optimized Polycistronic tRNA-gRNA Configuration
-
-Abstract:
-Pleurotus ostreatus, a white-rot fungus renowned for its lignocellulose degradation capabilities, has garnered significant attention for its potential in biotechnological applications. To expedite strain improvement, we employed a CRISPR/Cas9-assisted mutagenesis strategy to introduce multiple-gene mutations. By optimizing the promoter and tRNA sequences for efficient polycistronic tRNA-gRNA processing, we significantly enhanced the mutation efficiency in P. ostreatus. Our results demonstrate that the refined CRISPR/Cas9 system enables precise and simultaneous editing of multiple target genes, thereby facilitating the elucidation of complex biological processes and metabolic pathways. The improved strain with enhanced lignocellulose degradation capabilities holds promise for industrial applications, including biofuel production and bioremediation. This study showcases the efficacy of CRISPR/Cas9 technology in P. ostreatus and provides a robust platform for future genetic studies and strain development. (2022)

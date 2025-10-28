@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a physics publication from 2021:
-
-**Abstract:**
-
-This work presents an experimental investigation into dissipative dynamics within a nitrogen-vacancy (NV) center’s spin qutrit, demonstrating a novel manifestation of Maxwell demon-like behavior. Utilizing randomized measurement strategies, we induce autonomous feedback control, effectively shaping the system’s energy flow and transitioning it towards a state of enhanced order.  The core of our approach lies in leveraging the NV center’s quantum coherence to explore the interplay between dissipation and information processing.  We quantitatively characterize energy fluctuations through the application of a generalized Sagawa-Ueda-Tasaki relation, revealing previously obscured correlations between system evolution and measurement outcomes. These findings contribute to a deeper understanding of quantum thermodynamics, specifically highlighting the potential for engineered dissipative systems to mimic idealized thermodynamic processes, opening avenues for future research in quantum control and information retrieval.

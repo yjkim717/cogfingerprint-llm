@@ -1,4 +1,0 @@
-Title: Revisiting Gravitational Waveforms through Quantum Amplitude and Post-Minkowskian Formalism
-
-Abstract:
-This study re-examines the derivation of gravitational waveforms emitted during the scattering of two massive objects, juxtaposing quantum-amplitude-based methods with the classical multipolar-post-Minkowskian (MPM) approach. By comparing the scattering amplitude formulation with the MPM formalism within the post-Minkowskian (PM) framework, we elucidate the theoretical underpinnings of gravitational waveform generation. Our analysis, grounded in general relativity, highlights the synergies and discrepancies between these methodologies, providing a refined understanding of gravitational wave physics. The findings contribute to the ongoing discourse on precision gravity, informing future research in gravitational wave astronomy (2024).

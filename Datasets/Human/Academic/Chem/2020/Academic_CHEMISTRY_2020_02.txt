@@ -1,8 +1,0 @@
-Author: G. Molpeceres
-Title: Isomers in Interstellar Environments. I. The Case of Z- and E-cyanomethanimine
-Paper ID: 1c61f14d317055b68129b18af302579e8b10ce52
-Year: 2020
-Author Index: 2
-
-Abstract:
-In this work, we present the results of our investigation into the chemistry of Z- and E-cyanomethanimine (HNCHCN), both of which are possible precursors to the nucleobase adenine. Ab initio quantum chemical calculations for a number of reactions with atomic hydrogen were carried out. We find that the reaction H + Z/E-HNCHCN leading both to H-addition as well as H2-abstraction proceed via similar short-range barriers with bimolecular rate coefficients on the order of ∼10−17 cm3 s−1. These results were then incorporated into astrochemical models and used in simulations of the giant molecular cloud G+0.693. The calculated abundances obtained from these models were compared with previous observational data and found to be in good agreement, with a predicted [Z/E] ratio of ∼3—somewhat smaller than the previously derived value of 6.1 ± 2.4. We find that the [Z/E] ratio in our simulations is due mostly to ion-molecule destruction rates driven by the different permanent dipoles of the two conformers. Based on these results, we propose a general rule-of-thumb for estimating the abundances of isomers in interstellar environments, which we call the “relative dipole principle.”

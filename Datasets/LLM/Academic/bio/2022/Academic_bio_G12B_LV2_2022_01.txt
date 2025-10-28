@@ -1,7 +1,0 @@
-## Abstract: Modeling Nanoparticle Clustering Dynamics within Endosomes via the Smoluchowski Equation
-
-Understanding nanoparticle (NP) behavior within intracellular environments is crucial for optimizing therapeutic delivery and efficacy. While NP aggregation is well-documented, quantitative models describing NP cluster density evolution within cellular compartments remain limited. This study investigates the dynamics of gold nanoparticle (AuNP) clustering within endosomes using the Smoluchowski equation, a well-established framework for describing diffusion-limited aggregation. We developed a theoretical model incorporating Brownian motion and inter-particle interactions to predict AuNP cluster density as a function of time. Notably, simulations based on this model demonstrate strong agreement with experimentally derived data obtained from cellular uptake studies. Our findings highlight the utility of the Smoluchowski equation in characterizing NP clustering processes within endosomes, providing valuable insights for predicting and controlling therapeutic efficiency. This approach offers a powerful tool for rationally designing NP formulations aimed at maximizing drug delivery and minimizing potential off-target effects, ultimately contributing to advancements in nanomedicine.
-
-
-
-**Year:** 2022

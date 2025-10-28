@@ -1,7 +1,0 @@
-def generate_blog_post(keywords, summary, year):
-    # Using the given keywords and summary to generate a blog post
-    blog_post = f"In {year}, I stepped onto the rec league court, a 6'4\" player with a lot to prove. But despite my height, I struggled to assert myself in the post. I'd get pushed around, hesitate, and let my opponents get the best of me. It wasn't just about physical strength; it was a mental game. I lacked the assertiveness and mental toughness to take over. I've been seeking advice from coaches and more experienced players, and I've come to realize that it's not just about being more aggressive - it's about being smart and confident. By focusing on my footwork, practicing my moves, and visualizing success, I'm slowly building my post play. It's a journey, but I'm determined to become a dominant force on the court."
-
-    return blog_post
-
-print(generate_blog_post(["post play", "assertiveness", "rec league", "basketball strategy", "mental toughness"], "A 6'4\" player struggles with assertiveness and mental toughness in the post, seeking advice on overcoming these challenges.", 2023))

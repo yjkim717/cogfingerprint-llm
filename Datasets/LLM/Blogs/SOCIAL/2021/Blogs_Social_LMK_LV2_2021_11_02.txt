@@ -1,1 +1,0 @@
-"As I binge-watched my favorite show on Comcast Xfinity's business line in 2021, frustration mounted with frequent 'T3 time-out' errors and 7% packet loss. It wasn't just a bad connection - it was a streaming nightmare. Has anyone else struggled with unicast maintenance ranging issues, and how did you resolve it?"

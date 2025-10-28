@@ -1,4 +1,0 @@
-Title: Exploring Collective Vibrational Strong Coupling Effects on Chemical Reactivity in Diverse Molecular Regimes
-
-Abstract:
-This study investigates the influence of vibrational strong coupling (VSC) on chemical kinetics within an optical cavity, focusing on the collective VSC regime. By examining cavity-modified reactivity across various molecular limits, we elucidate the role of VSC in modulating reaction rates. Our theoretical framework reveals a nuanced interplay between molecular parameters, cavity photon frequency, and collective coupling strength, yielding insights into the underlying mechanisms governing VSC-altered chemical kinetics. These findings advance our understanding of cavity-controlled chemistry, shedding light on potential applications in quantum chemistry and materials science (2024).

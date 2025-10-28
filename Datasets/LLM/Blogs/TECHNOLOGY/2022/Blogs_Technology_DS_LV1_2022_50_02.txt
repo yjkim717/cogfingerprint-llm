@@ -1,1 +1,0 @@
-Remember when we all tried to make VLC look like Netflix in 2022? I spent an afternoon adding skip buttons, dreaming of a perfect hybrid player. It was a small rebellion against rigid software, a reminder that our tools should adapt to us, not the other way around.

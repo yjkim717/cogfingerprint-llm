@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-Iron-deficiency anemia (IDA) represents a pervasive global health concern, with well-documented but mechanistically complex associations with cognitive dysfunction. This systematic review synthesizes contemporary evidence to evaluate the specific impact of IDA on the P300 component of event-related potentials (ERPs), a neurophysiological index of attentional resource allocation and working memory updating, and to assess the reversibility of these effects following iron supplementation. A systematic search of electronic databases (e.g., PubMed, Scopus) was conducted for studies published up to 2022, focusing on female cohorts to control for sex-specific physiological variables. The analysis reveals a consistent pattern wherein individuals with IDA exhibit significant alterations in P300 metrics, notably prolonged latency and reduced amplitude, compared to iron-replete controls. These electrophysiological deviations correlate with impairments in cognitive domains, including executive function and information processing speed. Crucially, interventional studies demonstrate that iron supplementation is associated with a significant normalization of P300 parameters, concomitant with improvements in hematological indices and cognitive performance. The findings substantiate that IDA directly compromises neurocognitive processes, as objectively quantified by P300. We conclude that the P300 ERP serves as a sensitive, non-invasive biomarker for detecting and monitoring IDA-related cognitive deficits, offering significant utility for early screening and objective assessment of therapeutic efficacy in clinical and public health contexts.
-
-**(Word Count: 237)**

@@ -1,4 +1,0 @@
-Title: Spatiotemporal Engineering of Metal-Organic Frameworks: A Paradigm Shift in Dynamic Materials Research
-
-Abstract:
-The burgeoning field of four-dimensional metal-organic frameworks (4D MOFs) has revolutionized the understanding of structural dynamics in porous solids. By integrating temporal and spatial resolution, researchers can now elucidate the intricate relationships governing the evolution of open frameworks. This advancement enables the design of novel dynamic materials with tailored spatiotemporal properties. As of 2020, the development of 4D MOFs has opened new avenues for the engineering of materials with adaptive functionality, underscoring the potential for transformative applications in fields such as catalysis and gas storage.

@@ -1,8 +1,0 @@
-Author: C. Stringer
-Title: Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation
-Paper ID: c7edc5bf1d811e42c0c7de542ca6f395b82b3264
-Year: 2021
-Author Index: 20
-
-Abstract:
-Advances in microscopy hold great promise for allowing quantitative and precise measurement of morphological and molecular phenomena at the single-cell level in bacteria; however, the potential of this approach is ultimately limited by the availability of methods to faithfully segment cells independent of their morphological or optical characteristics. Here, we present Omnipose, a deep neural network image-segmentation algorithm. Unique network outputs such as the gradient of the distance field allow Omnipose to accurately segment cells on which current algorithms, including its predecessor, Cellpose, produce errors. We show that Omnipose achieves unprecedented segmentation performance on mixed bacterial cultures, antibiotic-treated cells and cells of elongated or branched morphology. Furthermore, the benefits of Omnipose extend to non-bacterial subjects, varied imaging modalities and three-dimensional objects. Finally, we demonstrate the utility of Omnipose in the characterization of extreme morphological phenotypes that arise during interbacterial antagonism. Our results distinguish Omnipose as a powerful tool for characterizing diverse and arbitrarily shaped cell types from imaging data. Omnipose is a deep neural network algorithm for image segmentation that improves upon existing approaches by solving the challenging problem of accurately segmenting morphologically diverse cells from images acquired with any modality.

@@ -1,9 +1,0 @@
-Okay, here's an academic-style abstract based on your summary, incorporating precise terminology, structured reasoning, and adhering to a 2021 year context, aiming for approximately 209 words:
-
-**Abstract**
-
-**Engagement with Psychiatric Training Among Undergraduate Medical Students in Central India: A Preliminary Investigation**
-
-This study investigates the prevalence of engagement with psychiatry training among undergraduate medical students within a cohort of institutions in central India, conducted in 2021. Recognizing the increasing global burden of mental health disorders, adequate training of future physicians is paramount. However, a critical gap often exists between theoretical knowledge and practical application, particularly in disciplines like psychiatry. Utilizing data collected from [Specify Data Collection Method - e.g., student surveys, curriculum audits], we assessed the extent to which MBBS curricula effectively incorporate dedicated psychiatric training components. 
-
-Our findings revealed a notable deficiency in student engagement, with a significant proportion demonstrating limited participation in scheduled psychiatry sessions and reduced exposure to relevant clinical experiences.  Barriers identified included insufficient faculty expertise, a perceived lack of relevance within the broader medical curriculum, and logistical constraints impacting attendance. These observations suggest a systemic challenge impacting the preparedness of medical graduates to address the complex mental health needs of their patient populations. Further research is warranted to delineate specific impediments and develop targeted interventions – potentially encompassing curricular reform and faculty development – to bolster psychiatric training within the MBBS program and ensure a more robust foundation for future clinicians in this underserved region.

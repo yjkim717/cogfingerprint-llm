@@ -1,7 +1,0 @@
-## The Quiet Yearning for Something… More.
-
-It’s late 2021, and I’ve spent a ridiculous amount of time tweaking my desktop environment. I’ve cycled through countless launchers, themes, and extensions, all in pursuit of that elusive feeling: *just right*. Lately, I’ve found myself drawn to the minimalist elegance of DWM, that old-school, intensely configurable tiling window manager. But it feels… incomplete. 
-
-I crave something with a little more baked-in polish. A status bar that doesn't require endless patching, hotkeys that feel intuitive out of the box, and maybe even a system clock that isn’t an eyesore. There’s a quiet yearning for a tiling WM that *feels* modern, not just *functions* like one. 
-
-It's funny, isn't it? In a world obsessed with flashy interfaces, I'm searching for focused simplicity. Maybe 2021 is the year I finally build it myself. Or maybe, just maybe, someone else already has.

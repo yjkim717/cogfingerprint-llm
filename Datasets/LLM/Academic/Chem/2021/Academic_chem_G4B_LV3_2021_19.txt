@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract**
-
-Metal–organic frameworks (MOFs) are increasingly recognized for their tunable porosity and potential in diverse applications. This study details the synthesis and characterization of novel MOFs incorporating fluorescent ligands, designed to probe fundamental material properties. Specifically, these MOFs exhibit enhanced structural flexibility, facilitating investigation via spectroscopic techniques such as fluorescence spectroscopy and X-ray diffraction. Furthermore, the incorporation of these ligands demonstrates the capacity for negative gas adsorption – a counterintuitive phenomenon observed within specific MOF architectures.  Computational modeling, employing density functional theory, provides insights into the mechanisms driving negative adsorption.  Finally, the resultant materials display measurable pressure amplification upon guest molecule inclusion, suggesting potential applications in microfluidic devices and sensing technologies.  These findings contribute to a deeper understanding of MOF design and functionality.

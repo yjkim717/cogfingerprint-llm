@@ -1,5 +1,0 @@
-Year: 2021
-Author: GullibleEngineer4
-URL: https://www.reddit.com/r/GoogleColab/comments/q5jmdx/is_it_fair_to_run_ephemeral_dev_environments_in/
-
-Hi, I am thinking about using Colab as an ephemeral dev environment but I am not sure if that constitutes abuse of resources. I tried to search what constitutes its fair usage but I couldn't find any information. For those of you who don't know, an ephemeral dev environment is a latest trend in software development where you instantiate an ephemeral (for the most part) docker container in a cloud, pull from your source code from git in it, work on it through a remote IDE and then delete it. There are a lot of paid services like Gitpod and Github Codespaces which provide this service. Colab is basically ephemeral dev environment but it is generally popular for AI, however it can be easily repurposed for general development which makes me think it is probably not abuse but I am not sure. I would appreciate any feedback on this. Thanks!

@@ -1,4 +1,0 @@
-)
-## Abstract
-
-The oxygen evolution reaction (OER) is a critical bottleneck in electrochemical water splitting, demanding efficient and robust catalysts. This study, conducted in 2022, examines the synergistic contributions of surface iron sites and strontium vacancies within perovskite materials to enhance OER performance via a lattice oxygen oxidation mechanism. Utilizing advanced characterization techniques, we demonstrate that the presence of surface Fe species, coupled with Sr vacancies, significantly lowers the activation energy for OER by facilitating oxygen insertion-extraction processes. Our findings reveal a direct correlation between the concentration of these defects and catalytic activity, suggesting a pivotal role in promoting efficient oxygen evolution. These insights offer a pathway for rational design of perovskite OER catalysts with improved performance and stability.

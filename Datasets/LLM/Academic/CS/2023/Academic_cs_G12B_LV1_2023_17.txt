@@ -1,7 +1,0 @@
-
-## A Convolutional Neural Network Approach to IoT Device Source Identification via Additive Feature Engineering
-
-**Abstract:** The proliferation of Internet of Things (IoT) devices presents significant challenges in network monitoring and security, particularly in attributing observed network traffic to specific device sources. Traditional methods often struggle with the heterogeneity and dynamic behavior of IoT devices. This paper introduces a novel approach to IoT device source identification leveraging a convolutional neural network (CNN) architecture and a specifically engineered set of additive features. We hypothesize that combining readily available network traffic characteristics – such as packet inter-arrival times, payload size distributions, and protocol-specific flags – into additive features provides a robust representation for device classification. Our proposed method extracts these features and feeds them into a CNN, allowing the model to learn complex patterns indicative of individual IoT device types. Experimental results using a diverse dataset of IoT traffic demonstrate the effectiveness of our approach, achieving a classification accuracy of 99.67%. This performance significantly surpasses existing methods relying on single feature analysis or simpler classification algorithms.  The findings suggest that additive feature engineering, coupled with the powerful pattern recognition capabilities of CNNs, offers a promising direction for accurate and scalable IoT device source identification in contemporary network environments.
-
-
-

@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Transcriptome Profiling of Pleurotus ostreatus Mutants Reveals Divergent Lignocellulolytic Gene Expression. In 2020, a comparative transcriptome analysis was conducted on Pleurotus ostreatus mutants, elucidating the molecular mechanisms underlying lignin degradation. The results showed significant downregulation of ligninolytic genes, including laccases and peroxidases, concomitant with upregulation of cellulolytic and xylanolytic genes. This divergent gene expression pattern suggests a complex regulatory network governing lignocellulolytic enzyme production, with implications for biotechnological applications in lignocellulosic biomass conversion."

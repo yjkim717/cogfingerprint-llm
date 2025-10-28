@@ -1,5 +1,0 @@
-Year: 2023
-Author: gman1230321
-URL: https://www.reddit.com/r/bspwm/comments/118dltc/what_is_the_syntax_that_is_used_in_the_man_pages/
-
-I'll give some examples. `NODE_SEL := NODE_SEL#[.[!]focused][.[!]active][.[!]automatic][.[!]local][.[!]leaf][.[!]window][.[!]STATE][.[!]FLAG[[!]LAYER][.[!]SPLIT_TYPE][.[!]same_class][.[!]descendant_of][.[!]ancestor_of]` I understand that the `[]` means optional, `!` means "not", `()` is required, and `|` means like one of the options. So i get most of it, but like are the `.`s and `#` literals? It looks similar to EBNF with the `:=` and `|` but I don't think the other symbols are a part of that. There's a few other definitions that are a little bit confusing too. Is there a name for this syntax/grammar definition that I can google for to understand it better? Thanks!

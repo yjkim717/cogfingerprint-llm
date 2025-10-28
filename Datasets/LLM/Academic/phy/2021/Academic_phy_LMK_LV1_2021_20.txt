@@ -1,5 +1,0 @@
-Title: Infrared Phases and Anomalies in 4D Chiral Gauge Theories: A TQFT Perspective
-
-Abstract:
-
-In this work, we investigate the infrared phases of 4D SU(N) chiral gauge theories, focusing on the interplay between anomalies, topological quantum field theories (TQFTs), and confinement. By analyzing the 't Hooft anomalies associated with the global symmetries, we classify the possible infrared phases and examine their TQFT descriptions. We demonstrate that the anomalies constrain the infrared dynamics, dictating the emergence of TQFTs that encode the topological properties of the theory. For certain classes of chiral gauge theories, we show that the TQFTs are bosonic, indicating a confinement phase, while others exhibit a more complex infrared behavior. Our results provide a systematic understanding of the infrared phases of 4D chiral gauge theories, shedding light on the intricate relationships between anomalies, TQFTs, and confinement. This analysis has significant implications for our understanding of strongly coupled gauge theories and their role in beyond-the-Standard-Model physics, as of 2021.

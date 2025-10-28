@@ -1,5 +1,0 @@
-## That Feeling When Active Directory Gets Confused…
-
-Okay, tech folks, let's be honest. We've *all* been there. That moment of quiet panic when something in your IT infrastructure just…doesn't look right. Recently, a colleague was wrestling with a tricky Active Directory situation after a domain migration – a double domain showing up in AD Users and Computers! Talk about a head-scratcher. 
-
-Migrating from a .local to a .net domain is a big move, and sometimes things don't transition perfectly. It’s a reminder that even with the best planning, Active Directory, with all its complexities (especially when using ADSI!), can throw you a curveball. Thankfully, a little troubleshooting and some careful manipulation got it sorted. It just goes to show, even in 2022, IT still holds its share of delightful surprises!

@@ -1,5 +1,0 @@
-Year: 2024
-Author: Spontaneous323
-URL: https://www.reddit.com/r/BlueIris/comments/1ejdfdt/will_this_hardware_work_for_my_needs/
-
-I'm new to Blue Iris, IP Cameras, and home automation in general. Right now, I have 3 Amcrest 8mp cameras. I want to run CodeProject/DeepStack on all three to get alerts. Two of the three cameras I want 24/7 continuous recording. Blue Iris and these three cameras is what I will mostly be running. However, I'll also add Home Automation and maybe some other things in the future. What's your recommendation? Budget will be ~$700-800. I was thinking the following: * Synology 2 Bay NAS or might go cheaper with a QNAP 2 Bay DAS * [Seagate 18tb HDD x2] ( * Ryzen 7 Mini PC I'm mostly unsure about the PC. Given I'm using AI, I don't know if I can get away without having a dedicated GPU. Will the Mini PC I linked work for my needs with some room for future stuff? Or should I look at something that is more extensible. Perhaps a used gaming computer or something? I do prefer the smaller profile of a mini PC, but it's not a deal breaker.

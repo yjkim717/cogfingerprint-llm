@@ -1,5 +1,0 @@
-Year: 2020
-Author: chewy747
-URL: https://www.reddit.com/r/k12sysadmin/comments/iqs7ew/how_do_i_turn_off_the_connected_devices_option_in/
-
-Does anyone know where the setting is to turn on the ability to sync android devices in the Google Admin console? We want to turn that off for students but cant find the setting. Oddly it is disabled by enterprise policy for my account but not for a student.

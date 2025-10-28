@@ -1,9 +1,0 @@
-The Frustrating Exchange Server Outage: A Lesson in IPv6 and DNS
-
-In the midst of a chaotic 2020, I found myself wrestling with a particularly vexing problem - our Exchange server had stopped working, and with it, our email delivery. The cause? A DNS query failure that had me scratching my head. As it turned out, the issue was rooted in IPv6, or rather, the lack thereof.
-
-We had disabled IPv6 services, but somehow, our server was still trying to send IPv6 queries, resulting in a failure to resolve DNS queries. It was a classic case of "out of sight, out of mind" - just because we'd disabled IPv6 didn't mean it wouldn't try to use it. The error was causing SMTP delivery to fail, and with it, our email communications.
-
-After some digging, I discovered that specifying a specific DNS server and restarting the transport services was the key to resolving the issue. It was a simple fix, but one that required a good understanding of the underlying technology.
-
-As I reflected on the experience, I realized that this issue was a microcosm of the broader challenges we face in IT. The ever-evolving landscape of technology means that we need to stay vigilant and adapt to new protocols and configurations. The Exchange server outage was a wake-up call, reminding me of the importance of staying on top of our infrastructure and being prepared for the unexpected. Sometimes, it's the simplest issues that can cause the most disruption - but with persistence and the right troubleshooting, even the most frustrating problems can be resolved.

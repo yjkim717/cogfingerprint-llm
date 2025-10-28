@@ -1,3 +1,0 @@
-"Milestones in Coding: Reflecting on C3 Language's Progress"
-
-As I sit here in 2024, I'm thrilled to announce the latest monthly release of the C3 language - version 0.5.4! It's amazing to see how our community has grown, with new users joining in and helping us squash those pesky bugs. Their fresh eyes have been invaluable in our journey towards language completion. I'm grateful for the opportunity to work on this project and appreciate the collective effort that's getting us closer to our goal. Here's to many more releases and continued progress!

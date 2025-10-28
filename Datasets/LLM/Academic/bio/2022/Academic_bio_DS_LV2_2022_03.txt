@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The functional genomic analysis of basidiomycetes, such as the white-rot fungus *Pleurotus ostreatus*, has been hindered by the inefficiency of tools for multiplex gene editing. While CRISPR/Cas9 systems have been adapted for fungi, their application for simultaneous disruption of multiple genetic loci remains challenging. To address this limitation, we developed an optimized CRISPR/Cas9 methodology for *P. ostreatus* that employs a polycistronic tRNA-gRNA (PTG) expression system. This system enables the efficient processing of multiple guide RNA (gRNA) transcripts from a single polymerase II promoter, circumventing the need for multiple, complex expression constructs. We validated this platform by targeting a suite of genes implicated in the lignocellulose degradation pathway. High-efficiency, multiplex gene mutagenesis was confirmed through phenotypic screening and genotypic analysis. The successful implementation of this PTG-based CRISPR/Cas9 system establishes a robust and streamlined reverse-genetics tool for *P. ostreatus*. This advancement significantly accelerates the systematic dissection of complex biological processes, particularly in the regulation of wood-decay mechanisms, with broad implications for both fundamental research and biotechnological applications in biomass conversion.
-
-**(Word Count: 199)**

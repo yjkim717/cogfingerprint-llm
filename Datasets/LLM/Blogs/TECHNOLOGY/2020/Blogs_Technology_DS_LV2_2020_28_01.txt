@@ -1,5 +1,0 @@
-It’s 2020, and I’m staring at my screen, feeling the familiar sting of defeat. My USACO solution *should* work—I even simplified the reverse algorithm, trimmed every loop I could find. But there it is, frozen on test case 7, mocking me with that spinning wheel of doom.
-
-I’ve always believed coding was about elegance, about clever logic. But here, brute force whispers temptingly, even though I know it’ll time out. It’s humbling. In a year when so much feels uncertain, these tiny digital battlegrounds remind me that some problems demand more than just intellect—they require patience, and sometimes, stepping away to breathe.
-
-Maybe tomorrow, with fresh eyes, I’ll spot the inefficiency hiding in plain sight. For now, I’m learning that progress isn’t always linear—and that’s okay.

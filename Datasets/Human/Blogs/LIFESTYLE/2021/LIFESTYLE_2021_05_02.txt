@@ -1,5 +1,0 @@
-Year: 2021
-Author: GordonRammstein
-URL: https://www.reddit.com/r/diyelectronics/comments/msijd0/need_help_improving_aquarium_auto_top_offrelay/
-
-Rather than spending $100+ on an ATO, I built one myself using a cheap float switch, a relay, power cable, and a pump. The design is relatively simple. The float switch triggers when water gets low, that triggers the relay to turn on the pump, and it refills. boom, bam, easy. HOWEVER, the tolerance between triggering on and off is pretty fine. Sometimes it works flawlessly, sometimes it'll trigger on and off constantly until i go and manually push the float down to refill to a good level. The float switch arrived in a 2-pack. So, I'm wondering if I can have one float set lower that only triggers on, and a higher float that only triggers off. I'm not super familiar with these relays, so I don't know how I can wire it to ignore the OFF signal as the water rises and fills past the lower "ON" switch. Here's a video that is nearly identical to the build I did. Could this work or will there be some extra things involved?

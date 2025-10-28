@@ -1,5 +1,0 @@
-Year: 2020
-Author: leung19
-URL: https://www.reddit.com/r/buildapc/comments/k8ucik/newbie_ryzen_3600_questions/
-
-So after a few days of research, I think I'm going to go with the 3600 as my next build. But I have the following questions. I know the 3600 does not have iGPU like the Intel, what happen if I do not pair with any graphic card? Is that mean no graphic at all? I plan on spending about 50% of time on using Handbrake with this new PC. From what I read, the 3600 is better than the 10400 for video transcoding like Handbrake, is that true? Am I picking the right CPU? If the 3600 and the 10400 is the same price, and I will only game about 20% of the time with this new PC, which CPU should I choose? (I plan on doing this build in next 6 months, or so. I'm happy to wait for the right price/stock) For 3600, what is the best GPU I should pair with? Will this chip becomes bottleneck in the near future? (I don't plan on 4k gaming) Last, I need suggesting on MB to go with the 3600? I would prefer something with onboard Wi-Fi, maybe even Wi-Fi 6, so that I don't have to worry about upgrade in the future. &#x200B; Thank you

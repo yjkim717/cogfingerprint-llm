@@ -1,8 +1,0 @@
-Author: Jason D. Hartline
-Title: Bernoulli Factories and Black-box Reductions in Mechanism Design
-Paper ID: 0662374be5a33c06cca0446d97ce90cc74da9098
-Year: 2021
-Author Index: 4
-
-Abstract:
-We provide a polynomial time reduction from Bayesian incentive compatible mechanism design to Bayesian algorithm design for welfare maximization problems. Unlike prior results, our reduction achieves exact incentive compatibility for problems with multi-dimensional and continuous type spaces. The key technical barrier preventing exact incentive compatibility in prior black-box reductions is that repairing violations of incentive constraints requires understanding the distribution of the mechanism’s output, which is typically #P-hard to compute. Reductions that instead estimate the output distribution by sampling inevitably suffer from sampling error, which typically precludes exact incentive compatibility. We overcome this barrier by employing and generalizing the computational model in the literature on Bernoulli Factories. In a Bernoulli factory problem, one is given a function mapping the bias of an “input coin” to that of an “output coin,” and the challenge is to efficiently simulate the output coin given only sample access to the input coin. This is the key ingredient in designing an incentive compatible mechanism for bipartite matching, which can be used to make the approximately incentive compatible reduction of Hartline et al. [18] exactly incentive compatible.

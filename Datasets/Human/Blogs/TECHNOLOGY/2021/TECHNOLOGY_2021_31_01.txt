@@ -1,5 +1,0 @@
-Year: 2021
-Author: FIREATWlLL
-URL: https://www.reddit.com/r/robotics/comments/m76ere/does_there_exist_or_is_it_possible_to_make_a/
-
-Imagine an air filled tentacle that can retract and extend, either by reducing pressure or some other means... I have not had any robotics experience and am struggling searching for components and things like that so thought I'd ask here :)

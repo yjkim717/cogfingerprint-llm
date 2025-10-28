@@ -1,5 +1,0 @@
- Absolutely! Here's a formal academic-style abstract based on your provided summary, tailored for a medical audience and reflecting a 2020 context:
-
-**Abstract**
-
-The management of recurrent or stage IV breast cancer presents a significant clinical challenge, necessitating a comprehensive and guideline-directed approach. This review synthesizes the National Comprehensive Cancer Network (NCCN) guidelines as of 2020, emphasizing the crucial role of tumor biology in guiding systemic therapy decisions. Accurate determination of hormone receptor (estrogen receptor [ER], progesterone receptor [PR]) and human epidermal growth factor receptor 2 (HER2) status remains paramount for patient stratification. The abstract outlines the NCCN's recommendations for initial and subsequent systemic therapies based on these biomarkers, including endocrine therapy, targeted agents (e.g., trastuzumab), and chemotherapy regimens. Furthermore, it addresses considerations for clinical trial enrollment and the integration of palliative care within a holistic treatment strategy.

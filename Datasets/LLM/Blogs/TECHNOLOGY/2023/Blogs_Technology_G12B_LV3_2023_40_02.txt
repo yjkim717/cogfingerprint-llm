@@ -1,4 +1,0 @@
-)
-## Lost in the BSPWM Woods (and a Weird Syntax!)
-
-Okay, tech folks, let's be honest: sometimes we stumble upon things online that just...confuse us. Recently, I dove into bspwm's man pages, and found myself utterly bewildered by a syntax that *looked* like EBNF, but wasn't. It’s like a familiar language with a secret handshake I haven’t learned. Anyone else ever feel that delightful frustration of encountering a niche technical quirk? I'm on the hunt for resources to decode this – any pointers welcome!

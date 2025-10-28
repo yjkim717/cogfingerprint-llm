@@ -1,5 +1,0 @@
-Title: Strategic Assembly of Lantern-Shaped Palladium(II) Cages via Ancillary Ligand Pairings
-
-Abstract:
-
-The realm of metallo-supramolecular chemistry has witnessed significant advancements in the design and synthesis of heteroleptic assemblies, particularly those incorporating low-symmetry ligands. This study reports the successful construction of a lantern-shaped Pd(II) cage, achieved through the deliberate selection and pairing of four distinct low-symmetry ligands. By leveraging the ancillary ligand pairings approach, positional and orientational control were effectively exercised, yielding a complex architecture with predetermined structural attributes. The strategic combination of ancillary ligands facilitated the formation of a stable and discrete Pd(II) cage, underscoring the potential of this methodology in the synthesis of sophisticated supramolecular assemblies. The findings presented herein contribute to the evolving landscape of metallo-supramolecular chemistry, offering insights into the rational design of intricate molecular structures and their potential applications. (2023)

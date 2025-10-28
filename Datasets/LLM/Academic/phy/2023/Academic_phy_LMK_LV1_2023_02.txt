@@ -1,4 +1,0 @@
-Title: Combinatorial Kinematics: Unveiling the Topological Structure of Scattering Amplitudes
-
-Abstract:
-In this work, we present a novel framework for understanding scattering amplitudes of colored scalar particles, leveraging combinatorial ideas in kinematic space. By introducing a topological expansion, we reveal the intricate structure underlying the amplitudes, enabling a more nuanced comprehension of the intricate relationships between kinematic invariants. Our approach, rooted in the geometry of kinematic space, provides a fresh perspective on the long-standing problem of scattering amplitude computation, paving the way for innovative applications in perturbative quantum field theory (2023).

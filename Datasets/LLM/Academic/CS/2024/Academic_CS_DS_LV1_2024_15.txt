@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The propensity of large language models (LLMs) to generate confident yet factually incorrect responses—a phenomenon known as hallucination—presents a significant barrier to their reliable deployment in knowledge-intensive tasks. This paper investigates a targeted alignment strategy to mitigate this issue by explicitly teaching models to express uncertainty. We introduce **IDQA (I Don't Know Answerability)**, a novel dataset for question-answering that categorizes queries not only by correctness but also by their inherent "answerability." By fine-tuning a state-of-the-art LLM on IDQA, we demonstrate a paradigm shift from generative fact-assertion to a reflective response protocol. Our 2024 empirical evaluation shows that models aligned with IDQA significantly reduce factual errors on out-of-domain benchmarks by learning to abstain from answering unverifiable or ambiguous prompts. This work establishes that calibrated refusal, trained via specialized datasets, is a critical mechanism for enhancing the trustworthiness and factual precision of AI assistants, moving beyond mere correctness towards communicative reliability.

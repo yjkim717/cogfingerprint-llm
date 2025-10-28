@@ -1,5 +1,0 @@
-The fall of 2020 felt like a race I’d started a lap behind. As a freshman CS major, my screen was a constant scroll of LinkedIn posts—peers with polished resumes and secured internships, while my own was a barren document with “Intro to Java” as the headline act. The pressure was a low hum in the background of every online lecture.
-
-My academic path was already non-traditional, and now the professional world felt like a fortress guarded by coding challenges and technical interviews I had no idea how to approach. How do you prepare for a whiteboard session when you’re still learning what a linked list is? The gap between my coursework and the “real world” felt like a canyon.
-
-But I’ve started to see it differently. This isn’t a deficit; it’s a blank slate. Every algorithm I struggle with and every line of code I debug is a brick I’m laying myself. The path might be my own, but the destination is the same. I just have to trust the process, one semicolon at a time.

@@ -1,3 +1,0 @@
-## The Quiet Sigh of "Wontfix"
-
-It's a strange feeling, isn't it, when a tech feature you hoped for just... doesn't happen? I was bummed to learn Firefox is shelving WebBluetooth support. It feels like a missed opportunity to seamlessly connect our browsers to the growing world of Bluetooth devices. A "wontfix" decision echoes – a quiet reminder that even in this fast-moving landscape, some paths simply aren't taken. It leaves you wondering, what *could* have been?

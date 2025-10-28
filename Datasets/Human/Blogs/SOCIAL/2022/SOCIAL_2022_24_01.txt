@@ -1,5 +1,0 @@
-Year: 2022
-Author: BrennanBetelgeuse
-URL: https://www.reddit.com/r/oilandgas/comments/wj5ecg/question_about_oil_shale_vs_shale_oil_which_is/
-
-Hey everybody! I have a quick question concerning oil shale and shale oil, as most sources aren't really consistent with the nomenclature. I am wondering, if in-situ retorting used during oil shale extraction is similar to hydraulic fracturing in shale oil, or if those are entirely different processes. I know that in-situ retorting is done to facilitate the pyrolysis of the kerogen and hydraulic fracturing doesn't serve that purpose, but I am wondering if those processes are in any way similar. I'm especially interested, if those processes are similar in their environmental impact. There is a lot of criticism surrounding fracking and I am wondering, if these also apply to in-situ retorting. In short: Is shale oil retorting safer than oil shale fracking?

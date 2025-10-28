@@ -1,8 +1,0 @@
-Author: T. Damour
-Title: Radiative contributions to gravitational scattering
-Paper ID: 57355656db0efb1be8facef5b4cae20d509a23ad
-Year: 2021
-Author Index: 7
-
-Abstract:
-The effects of radiation-reaction on the classical scattering of two point masses, in General Relativity, are derived by a variation-of-constants method. Explicit expressions for the radiation-reaction contributions to the changes of 4-momentum during scattering are given to linear order in the radiative losses of energy, linear-momentum and angular momentum. The polynomial dependence on the masses of the 4-momentum changes is shown to lead to non-trivial identities relating the various radiative losses. At order G our results lead to a streamlined classical derivation of results recently derived within a quantum approach. At order G we compute the needed radiative losses to next-to-next-to-leading-order in the post-Newtonian expansion, thereby reaching the absolute fourth and a half post-Newtonian level of accuracy in the 4-momentum changes. We also provide explicit expressions for the radiation-graviton contribution to conservative O(G) scattering. At orders G and G we derive explicit theoretical expressions for the last two hitherto undetermined parameters describing the fifth-post-Newtonian dynamics. Our results at the fifth-post-Newtonian level confirm results of [Nucl. Phys. B 965, 115352 (2021)] but exhibit some disagreements with results of [Phys. Rev. D 101, 064033 (2020)].

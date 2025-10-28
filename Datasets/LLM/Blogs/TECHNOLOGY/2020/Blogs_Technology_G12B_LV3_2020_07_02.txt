@@ -1,4 +1,0 @@
-)
-## The Little Checkout Hiccup That Cost Me Sanity (and Maybe Sales)
-
-Remember 2020? Everything felt a little chaotic. My Shopify store was no different. I launched with a great discount code, a celebratory "10% off!" to welcome new customers. But I kept getting emails – *so many* emails – from people saying, "Hey, I didn't get my discount!" Turns out, amidst the excitement of a new purchase, folks were forgetting to apply it at checkout. It was a customer service drain and a potential sales killer. I'm now exploring automated solutions – a little tech magic to smooth out that bump in the road.

@@ -1,3 +1,0 @@
-It’s funny how ideas in tech sometimes circle back. Back in 2021, I sketched out a threshold signature scheme with a quirky twist—using commitment shares to boost security. My peers dismissed it as over-engineered. Fast forward to 2023, and along comes FROST, a protocol with echoes of my old concept. It was validating, yet bittersweet.
-
-But here’s the thing: I think there’s still room to refine it. My approach included a lightweight verification step that could make FROST even more robust. Sometimes, the "crazy" ideas just need the right moment. Innovation isn’t always about being first—it’s about persistence and timing.

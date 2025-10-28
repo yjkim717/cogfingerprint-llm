@@ -1,3 +1,0 @@
-It’s 2020, and I’m staring at a login script I inherited—one of those relics built on Server 2012 R2 that somehow still holds our digital world together. Every morning, it runs quietly in the background, mapping network drives based on office codes tucked away somewhere in Active Directory. But where? I’ve combed through OUs, clicked through group policies, and felt like an archaeologist deciphering someone else’s logic.
-
-There’s something oddly personal about untangling another admin’s work. It’s not just about scripts or drive mappings—it’s about understanding the choices they made, the problems they solved. And in that search, I’m not just mapping drives; I’m connecting with the invisible architecture that keeps our team moving, one careful discovery at a time.

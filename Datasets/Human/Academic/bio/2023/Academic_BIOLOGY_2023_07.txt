@@ -1,8 +1,0 @@
-Author: J. Lembrechts
-Title: ForestClim—Bioclimatic variables for microclimate temperatures of European forests
-Paper ID: e673f4ad8332badb3cb1831f546e476f05d461d7
-Year: 2023
-Author Index: 7
-
-Abstract:
-Microclimate research gained renewed interest over the last decade and its importance for many ecological processes is increasingly being recognized. Consequently, the call for high‐resolution microclimatic temperature grids across broad spatial extents is becoming more pressing to improve ecological models. Here, we provide a new set of open‐access bioclimatic variables for microclimate temperatures of European forests at 25 × 25 m2 resolution.

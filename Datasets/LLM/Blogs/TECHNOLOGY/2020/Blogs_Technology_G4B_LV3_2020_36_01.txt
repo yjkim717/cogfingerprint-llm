@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone, suitable for 2020:
-
----
-
-**The Day My Student Account Went Rogue**
-
-It’s weird, right? Being a sysadmin in 2020 – you build these layers of security, meticulously crafting policies with Group Policy Objects (GPOs), trying to keep everything locked down. Then, a student – a bright, eager student – figured out a way around it all. They were using a personal Microsoft account to access school resources. 
-
-It was a jarring reminder that no system is truly impenetrable. It made me think about the trust we place in these tools, and the importance of continually assessing our security protocols.  Honestly, it felt a little unsettling – a small breach that highlighted the need for better awareness and, maybe, a more human approach to digital security.

@@ -1,5 +1,0 @@
-Year: 2023
-Author: GullibleEngineer4
-URL: https://www.reddit.com/r/reactjs/comments/113yhu8/looking_for_a_react_library_that_has_word_cloud/
-
-Hi everyone, I’m working on a project that requires me to visualize some data with word cloud, bar chart and network diagram. I’m looking for a React library that can help me create these charts easily. I’ve searched the web and found some libraries that have some of these charts, but not all of them. The only library which can be used to create all the visualizations is visx but it's quite a low-level library, basically it gives utilities to compose SVG's easily to create highly custom visualizations. Does anyone know of any library that has all the three charts I need? Or do you have any suggestions on how to combine different libraries to achieve my goal? I would appreciate any help or advice. Thank you in advance! Edit: If someone comes across it, this is a library which has all the visualizations.

@@ -1,5 +1,0 @@
->## The Upgrade & The Wait
-
-Okay, so I finally bit the bullet and upgraded to AT&T Fiber. Exciting, right? Absolutely! We were stuck on older cable internet for ages, and the promise of lightning-fast speeds was seriously tempting. They sent over this BGW320-505 modem/router combo – looked intimidating, to be honest. 
-
-I was expecting a *massive* speed jump immediately, ditching my trusty old AC1750 router in the process. But... it hasn’t been quite the seamless experience I envisioned. I’m still tweaking things, battling a few connection quirks, and honestly, wondering if I’m getting the full benefit of the fiber. It's a reminder that even with the best technology, sometimes patience and a little troubleshooting are required. Maybe 2022 is the year I finally master my home network!

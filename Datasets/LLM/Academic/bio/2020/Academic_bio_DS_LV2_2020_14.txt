@@ -1,7 +1,0 @@
-Here is a formal academic abstract reflecting the provided summary and context:
-
-**Abstract**
-
-The characterization of intracellular transport, particularly for endocytic organelles, is often confounded by the heterogeneous nature of their trajectories, which frequently exhibit anomalous diffusion. Traditional analytical methods struggle with the dynamic segmentation of short, experimental particle tracks. To address this, we developed a novel neural network-based computational framework capable of automatically classifying the motion states within these trajectories. Our method quantitatively analyzes the underlying stochastic processes, including fractional Brownian motion, by dynamically estimating parameters such as the Hurst exponent. This approach enables the high-resolution segmentation of complex transport behaviors directly from experimental data, revealing transient phases of directed, diffusive, and confined motion that are otherwise obscured. This advancement provides a robust analytical tool for elucidating the intricate dynamics of vesicular transport and its regulation within the complex cellular environment.
-
-(149 words)

@@ -1,7 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided concepts, framed within the 2022 research context.
-
-***
-
-**Abstract**
-
-The spatial architecture of the tumor immune microenvironment (TIME) is a critical determinant of disease progression and therapeutic response. While transcriptomic analyses have identified immune subtypes, they lack the spatial resolution to decipher the functional organization of infiltrating lymphocytes. In 2022, we introduced SpatialVizScore, a novel computational framework that leverages high-plex imaging mass cytometry (IMC) data to quantitatively map the topography of immune infiltration in non-small cell lung cancer (NSCLC). Moving beyond the cell density metrics of the Immunoscore, SpatialVizScore integrates spatial statistics and graph-based analyses to quantify the proximity, clustering, and exclusion relationships between cytotoxic T cells, regulatory T cells, and tumor cells. Applied to a cohort of 150 NSCLC specimens, this method robustly classified tumors into four distinct spatial immune phenotypes: "immune-rich," "compartmentalized," "immune-desert," and "tertiary lymphoid structure (TLS)-associated." These phenotypes exhibited significant correlations with patient survival and response to immune checkpoint blockade, establishing SpatialVizScore as a powerful tool for refining prognostic models and informing personalized immunotherapeutic strategies.

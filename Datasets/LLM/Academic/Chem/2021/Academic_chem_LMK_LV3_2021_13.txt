@@ -1,5 +1,0 @@
-Title: Investigating the Crystallinity of Interstellar Ice Analogs via Transmission Electron Microscopy
-
-Abstract:
-
-The morphology of ices formed on refractory grains is crucial in understanding their role in molecular clouds and protoplanetary disks. In this study, we employed transmission electron microscopy (TEM) to examine the crystallinity and morphology of H2O, CO2, and CO ices on silicate and carbonaceous substrates. Our results show that the crystal morphologies of these ices are strongly dependent on their composition and the underlying substrate. Notably, the presence of CO2 influences the crystallization of H2O ice, leading to the formation of distinct crystalline structures. These findings have significant implications for our understanding of ice formation and evolution in astrophysical environments. By elucidating the microstructural properties of interstellar ice analogs, this research contributes to a deeper understanding of the complex interactions governing the chemistry of molecular clouds and protoplanetary disks, as observed in 2021 astronomical surveys.

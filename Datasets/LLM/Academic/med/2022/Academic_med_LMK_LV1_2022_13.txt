@@ -1,9 +1,0 @@
-Title: Prioritizing Phthalates and Other Plasticisers in Food Contact Materials for Risk Assessment: A European Food Safety Authority (EFSA) Perspective
-
-Abstract:
-
-The ubiquitous presence of phthalates and other plasticisers in food contact materials (FCMs) has raised concerns regarding their potential impact on human health. As endocrine disruptors, these substances can interfere with normal hormonal functions, potentially leading to adverse health effects. In 2022, the European Food Safety Authority (EFSA) undertook a comprehensive review to identify and prioritize plasticisers used in FCMs for risk assessment. 
-
-Our analysis, aligned with EFSA's objectives, focused on the prevalence and toxicity of phthalates and other plasticisers in FCMs. We examined the existing literature on the migration of these substances into food, their toxicological profiles, and the associated human exposure levels. The results indicate that certain phthalates, such as di(2-ethylhexyl) phthalate (DEHP) and dibutyl phthalate (DBP), are among the most commonly detected plasticisers in FCMs, with a significant potential for human exposure through dietary intake.
-
-The EFSA's prioritization framework, based on a weight-of-evidence approach, enabled the identification of high-priority plasticisers requiring further risk assessment. Our findings support the EFSA's conclusion that a comprehensive risk assessment is warranted for these substances, considering their potential endocrine-disrupting properties and the likelihood of human exposure. The outcome of this evaluation will inform regulatory decisions aimed at minimizing consumer exposure to hazardous plasticisers in FCMs. By providing a robust scientific foundation for risk assessment, this study contributes to the ongoing efforts to ensure the safety of the food supply chain in Europe.

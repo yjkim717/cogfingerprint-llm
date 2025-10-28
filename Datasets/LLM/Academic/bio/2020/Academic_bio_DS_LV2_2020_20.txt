@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract written from the perspective of a researcher in 2020.
-
-***
-
-**Abstract**
-
-Accurately predicting species' responses to anthropogenic climate change is a central challenge in ecology, yet a critical scaling issue persists. While broad-scale climate models (e.g., WorldClim) are widely used, they fail to capture the fine-grained thermal heterogeneity—the microclimate—that organisms actually experience. This resolution gap severely limits the reliability of forecasts for biodiversity redistribution, population dynamics, and ecosystem functioning. To address this, we present the SoilTemp database, a global initiative consolidating in-situ, near-surface temperature time series from over 12,000 sensors across all major biomes. This database provides unprecedented spatiotemporal resolution, enabling the quantification of microclimatic buffering and extremes from the soil subsurface to the forest canopy. By bridging the gap between macroclimate and organismal-scale thermal environments, SoilTemp serves as a foundational resource for refining species distribution models, elucidating physiological tolerances, and advancing our mechanistic understanding of how microclimates modulate ecological and evolutionary processes. This initiative marks a pivotal step towards more robust, physiologically-grounded predictions of ecosystem responses in a rapidly changing world.

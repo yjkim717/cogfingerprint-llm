@@ -1,5 +1,0 @@
-Year: 2024
-Author: 720hp
-URL: https://www.reddit.com/r/Spectrum/comments/1g3zars/xumo_boxes_can_we_just_all_agree_these_are_ewaste/
-
-On my third and hopefully final Xumo box. For comparison. I have a Roku plugged into the same switch and that goes to the same router and firewall. Xumo box costs to gives me connection errors. Freezes up, drops programming and if you simply leave it off long enough it will eventually reconnect on its own- no router nor modem reset needed Even when the box says it is not connected it is sending and receding around 1-4 mbps in data. Meanwhile the Roku just keeps on working- even the Spectrum app. So on Wednesday I am taking this box in and requesting a real cable box. This experiment or whatever they claim this is does not work. I have spent a lot of money upgrading switches, running new network cable, updating my Asus AX3000 router just to be no better off than I was three weeks ago when I got this third Xumo box.

@@ -1,7 +1,0 @@
-Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone:
-
----
-
-**The Sticky Problem of Frontend State**
-
-Remember 2022? It felt like everyone was wrestling with frontend state – that constant, shifting puzzle of data driving our Angular apps. I was definitely there, staring at a tangled mess of component logic.  We were trying to build a system where the backend, our reliable server, would proactively update the frontend, essentially managing the state for us. It felt like a good idea at the time, a way to clean up the frontend, but it highlighted how crucial a clear separation between backend and frontend truly is.

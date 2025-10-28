@@ -1,5 +1,0 @@
-Year: 2024
-Author: cecil721
-URL: https://www.reddit.com/r/idleon/comments/1aype48/carry_capacity_lower_after_patch/
-
-After the patch, I noticed my carry capacity dropped. Before patch i could hold over 100k mats while using ES. After it was less than 100k. Also, when trying to add more food/potions to my player, if the stack already equipped was highet than my new lower cap, it actually took food off my player. I lost gold food bonuses because of this. Was wondering if anyone else had this issue?

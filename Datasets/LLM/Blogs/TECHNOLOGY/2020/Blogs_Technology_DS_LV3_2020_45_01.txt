@@ -1,7 +1,0 @@
-It’s 2020, and I’ll admit, I’ve been wrestling with GraphQL. Don’t get me wrong—it’s brilliant for standardizing how different clients talk to a backend. But sometimes, it feels like wearing someone else’s perfectly tailored suit. What if you just want to build something quickly, without all that ceremony?
-
-That’s why I started tinkering with **FatCoach**, an experimental BaaS framework I’m building in Kotlin. The idea was simple: give front-end developers a clean, intuitive way to interact with SQL databases—without needing to become SQL wizards overnight.
-
-Instead of GraphQL’s type-heavy, interoperability-first mindset, FatCoach offers a flexible query DSL. It feels more like having a conversation with your data. You ask for what you need in a language that’s closer to how you think, not how the database is structured. It’s less “let’s make everything universally accessible” and more “let’s make things simple and powerful for the person building the UI.”
-
-In a year where so much feels out of our control, there’s something grounding about building tools that give developers a little more freedom. FatCoach is my small rebellion against one-size-fits-all solutions—a reminder that sometimes, the right tool isn’t the most popular one, but the one that just feels right in your hands.

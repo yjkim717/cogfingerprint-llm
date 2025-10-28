@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a bio-focused publication and reflecting a 2021 timeframe:
-
-**Abstract**
-
-The application of CRISPR/Cas9-mediated genome editing to commercially relevant fungal species remains underexplored. This study reports the successful implementation of CRISPR/Cas9 technology in *Pleurotus ostreatus*, a widely cultivated edible mushroom, demonstrating its potential for non-genetically modified (non-GM) molecular breeding. We achieved targeted gene disruption and facilitated heterologous gene insertion, providing a robust platform for trait improvement without reliance on traditional genetic modification techniques. These findings showcase a novel approach to enhancing mushroom characteristics, offering an alternative for breeders seeking to optimize yield, nutritional profile, or stress tolerance. This advancement contributes to the burgeoning field of fungal biotechnology and provides a valuable tool for sustainable agricultural innovation within the mycology sector.

@@ -1,9 +1,0 @@
-It’s 2023, and I’m convinced that technology is supposed to make life simpler. But lately, my workdays have been shadowed by a modern-day ghost story: the unexplained account lockout.
-
-Picture this. You’re mid-flow, deep into a critical project, when suddenly you’re unceremoniously logged out. A red error bar flashes: “Your account is locked.” You haven’t mistyped your password. You haven’t even changed your Microsoft credentials recently. It’s as if an invisible force has decided you’ve had enough screen time for the day.
-
-This isn't just my story. Across our hybrid AD-AAD environment, colleagues share knowing, weary glances in the virtual stand-up. We’re all living the same plot twist. The culprit? A silent, automated process in the complex dance between our on-premise Active Directory and Azure Active Directory. Something, somewhere, is interpreting a routine sync or a cached credential as a threat, and the system slams the door shut.
-
-It’s a uniquely frustrating kind of helplessness. You can’t fight what you can’t see. You’re left feeling like a stranger to your own digital identity, locked out of your professional life by a glitch you don’t understand. It’s a stark reminder that in our rush to the cloud, the seams between the old and new world can sometimes fray, and we’re the ones who get tangled in the threads.
-
-So, if you’re also staring at a login screen, wondering what you did wrong, know you’re not alone. It’s the paradox of our interconnected world: the very systems designed to keep us secure can sometimes make us feel the most powerless.

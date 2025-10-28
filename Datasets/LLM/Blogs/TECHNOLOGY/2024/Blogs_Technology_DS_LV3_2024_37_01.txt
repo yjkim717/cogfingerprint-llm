@@ -1,1 +1,0 @@
-Ever wrestled with trimming spaces in JavaScript using regex? I finally grasped how anchors like ^ and $ work together—turning string frustrations into clean, elegant code. It’s the small wins that make coding in 2024 so rewarding.

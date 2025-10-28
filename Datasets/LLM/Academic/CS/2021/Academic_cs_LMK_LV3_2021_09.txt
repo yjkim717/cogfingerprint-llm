@@ -1,3 +1,0 @@
-Here's a formal academic-style abstract inspired by the given summary and keywords:
-
-"As IoT devices proliferate, their vulnerability to DoS/DDoS attacks poses significant cybersecurity threats. This paper examines the security vulnerabilities of IoT devices to such attacks, surveying existing countermeasures. We analyze the efficacy of mitigation strategies, including traffic filtering and device authentication, in preventing IoT-based botnets. Our review highlights the need for robust security protocols to safeguard IoT ecosystems. By evaluating current research, we identify future directions for securing IoT devices against DoS/DDoS attacks, informing the development of resilient cybersecurity frameworks in 2021 and beyond."

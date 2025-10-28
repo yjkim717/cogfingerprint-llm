@@ -1,5 +1,0 @@
-Year: 2021
-Author: RetardedManOnTheWeb
-URL: https://www.reddit.com/r/KrunkerIO/comments/nhs8gg/how_to_uncap_fps/
-
-IM playing in brave browser but it switches between 60 and 120 fps. it doesnt run in between those framerates. I do have --disable-frame-rate-llimiter in the shortcut for the brave shortdut but it only runs in 60 fos or 120 fps. in krunker and brave, i do have the frame cap set to 1200 and hardware acceleration enabled. Its also running on my GPU. &#x200B; brave running on GPU

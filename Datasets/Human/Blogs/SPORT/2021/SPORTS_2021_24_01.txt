@@ -1,5 +1,0 @@
-Year: 2021
-Author: 720hp
-URL: https://www.reddit.com/r/Office365/comments/p4mg5r/remove_onedrive_from_previous_employer/
-
-Hello, I had OneDrive on my personal device that was used for the academic institution I worked for. I am trying to remove it. But after a year of regedits, and various other hacks, I cannot seem to uninstall the OneDrive connected to them and use the OneDrive connected to my new personal account. When I attempt to remove it, I am asked to login and I can't because my account has been closed for two years now. Anyone have a suggestion (short of reimage the PC-- come to think of it--that account is embedded in my image too) Thanks!

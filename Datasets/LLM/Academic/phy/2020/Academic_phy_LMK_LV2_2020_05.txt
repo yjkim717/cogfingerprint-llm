@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract in the field of physics/astrophysics:
-
-Title: Calibrating the Absolute Magnitudes of Carbon-Rich Asymptotic Giant Branch Stars in the Near-Infrared
-
-Abstract: 
-We present a calibration of the absolute magnitude of carbon-rich asymptotic giant branch (AGB) stars using a comprehensive dataset of near-infrared luminosities in the Large Magellanic Cloud (LMC). By leveraging the precisely determined distance modulus to the LMC, we establish a robust relationship between the bolometric magnitudes of these stars and their near-infrared counterparts. Our analysis utilizes a large sample of spectroscopically confirmed carbon-rich AGB stars, ensuring a high degree of accuracy in the derived absolute magnitudes. The results of this study provide a reliable calibration for distance determinations to carbon-rich AGB stars in other galaxies, facilitating further investigations into the properties of these luminous objects. The calibration is based on data obtained in 2020, ensuring its relevance to contemporary astrophysical research.

@@ -1,5 +1,0 @@
->## The Algorithm and the Anxiety
-
-Remember 2020? The year everything felt distilled through a screen. I was wrestling with my PhD application, specifically the dreaded Statement of Purpose. It felt like I was feeding my dreams into an algorithm, hoping it would spit out "Accept." 
-
-But staring at the words, meticulously crafted to showcase my passion for Computer Science, I felt…dry. Detached. Was I conveying genuine excitement, or just ticking boxes? It’s funny, isn't it? We build these incredible technologies to connect us, yet sometimes the process of navigating them – applying for something, proving your worth – feels incredibly isolating. I guess it’s a reminder that even the most sophisticated systems can’t replace a human touch.

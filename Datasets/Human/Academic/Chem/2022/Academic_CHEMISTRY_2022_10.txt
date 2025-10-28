@@ -1,8 +1,0 @@
-Author: G. Molpeceres
-Title: Radical addition and H abstraction reactions in C2H2, C2H4, and C2H6: A gateway for ethyl- and vinyl-bearing molecules in the interstellar medium
-Paper ID: 58971acff66a6b02fcb5eeb4641c572bc0287c81
-Year: 2022
-Author Index: 10
-
-Abstract:
-Recent interstellar detections include a significant number of molecules containing vinyl (C2H3) and ethyl (C2H5) groups in their structure. For several of these molecules, there is not a clear experimental or theoretical evidence that support their formation from simpler precursors. We carried out a systematic search of viable reactions starting from closed shell hydrocarbons containing two carbon atoms (ethane, C2H6; ethylene, C2H4; and acetylene, C2H2) with the goal of determining viable chemical routes for the formation of vinyl and ethyl molecules on top of interstellar dust grains. Our results show that both H and OH radicals are key in converting acetylene and ethylene into more complex radicals that are susceptible to continue reacting and forming interstellar complex organic molecules. The relevant reactions, for example OH additions, present rate constants above 10$^{1}$ s$^{-1}$ that are likely competitive with OH diffusion on grains. Similarly, H atom addition to acetylene and ethylene is a very fast process with rate constants above 10$^{4}$ s$^{-1}$ in all cases, and greatly enhanced by quantum tunneling. Hydrogen abstraction reactions are less relevant, but may play a role in specific cases involving the OH radical. Reactions with other radicals NH2, CH3 are likely to have a much lesser impact in the chemistry of ethyl and vinyl bearing molecules.

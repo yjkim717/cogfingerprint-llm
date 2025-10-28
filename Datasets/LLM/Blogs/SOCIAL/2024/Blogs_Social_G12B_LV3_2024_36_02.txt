@@ -1,3 +1,0 @@
-## The Data Dance: Switching Views in Looker Studio
-
-Ever feel like you're chasing a story in your data? I was just wrestling with that in Looker Studio! I wanted to see the big picture – monthly revenue as a line – but *also* instantly drill down to see which clients were driving it, visualized as a bar graph. It felt like needing two separate dashboards! Thankfully, Looker Studio's drill-down feature made it possible to have both views in one chart. It’s a small win, but a powerful reminder that data visualization is about finding the right perspective.

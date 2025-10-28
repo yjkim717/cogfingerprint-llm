@@ -1,5 +1,0 @@
-
-
-## The Nostalgia of Streaming, and a VLC Wish
-
-Isn't it funny how we build habits around tech? I realized recently I instinctively reach for those little "skip forward 10 seconds" buttons on Netflix. So, when someone asked if VLC could mimic that, and even a picture-in-picture pause? It struck a chord. We're all craving a little bit of polish and convenience, even when using our beloved, open-source players. Maybe customization *is* the future of media consumption.

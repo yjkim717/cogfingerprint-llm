@@ -1,5 +1,0 @@
-Year: 2024
-Author: Atorpidguy
-URL: https://www.reddit.com/r/golf/comments/1e2gid1/my_fellow_golfers_i_created_a_mobile_app_to_track/
-
-It's called Pure and is available on iOS. Click here to download it. It's a no-profit app for community, and I built it to help other golfers who get disappointed after reaching the course and then finding out that the course is going through aeration. I'm open to feedback and improvement of the app, thank you for your time.

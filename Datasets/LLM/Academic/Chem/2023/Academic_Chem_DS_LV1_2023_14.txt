@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by your provided summary.
-
-***
-
-**Abstract**
-
-The non-equilibrium chemistry of cold interstellar environments is a critical frontier in astrochemistry, with the formation of complex organic molecules (COMs) on icy dust grains remaining a subject of intense investigation. While radical-radical and Eley-Rideal mechanisms have been extensively studied, the role of atomic carbon as a primary reactant in diffusive surface chemistry has been comparatively underexplored. This study employs ultra-high vacuum cryogenic experiments coupled with kinetic Monte Carlo simulations to quantify the surface mobility and reactivity of carbon atoms on water-dominated ices. We report a significant diffusion barrier of approximately 22 K, below which carbon atoms remain immobilized. Crucially, above this threshold, we observe rapid, barrierless C–C bond formation between mobile C atoms and pre-adsorbed CO, CH₃OH, and other precursors, leading efficiently to oxygen-bearing COMs like ketene and aldehydes. This newly characterized pathway provides a robust, low-activation-energy route for molecular complexity in star-forming regions, challenging existing models that prioritize heavier atom mobility. Our results necessitate a revision of astrochemical networks to include carbon atom diffusion as a dominant driver of early-stage chemical evolution in warm protostellar environments.
-
-*(Word Count: 198)*

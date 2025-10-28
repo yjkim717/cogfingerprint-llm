@@ -1,5 +1,0 @@
-Year: 2021
-Author: therealscooke
-URL: https://www.reddit.com/r/IoTeX/comments/q2t36l/two_part_question_about_unstaking_and_addresses/
-
-Hi, I used android ioPay to stake in 2020, and then unstaked in recently, and after 3 days my iotex should be "free". But they have not reappeared in my IoPay balance. It's been 3.5 days In the Actions section there is something involving the same amount I staked, but it seems like the amount has been sent elsewhere>??? How is that possible? Do I just need to wait another day or so for the IoTeX to reappear in my IoPay balance? Or... have I been scammed? I went to the official telegram chat and was quickly beset upon by two different ppl, an Ambassador and an Admin. I didn't follow their links, didn't go to the websites, but I did give the first one my iopay iotex address. Now, I didn't think you can do much with just the address... but is it possible this first guy is able to redirect my IoTeX somehow? I've read how to stake, but there isn't anything detailed about unstaking, so I'm just not sure what to do, of what has happened. Thank you!

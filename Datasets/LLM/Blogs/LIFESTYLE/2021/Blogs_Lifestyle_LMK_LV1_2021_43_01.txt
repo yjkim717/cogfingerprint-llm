@@ -1,5 +1,0 @@
-"Embracing the Ephemeral: Can Google Colab be my Dev Playground?
-
-As I navigated the world of software development in 2021, I stumbled upon an intriguing idea - using Google Colab as a temporary dev environment. For the uninitiated, Colab is a cloud-based platform designed for data science and education, offering free access to GPUs and TPUs. But, as a developer, I wondered: can I repurpose it as a disposable sandbox for testing and experimenting with code?
-
-My initial excitement was tempered by concerns over fair usage. Would I be stretching the platform's intended use, or was this a legitimate application? As I pondered this dilemma, I realized that my query wasn't just about Colab, but about the evolving nature of development workflows. In an era where cloud development is becoming the norm, what's the line between creative reuse and resource abuse? I'd love to hear from fellow devs: am I pushing the boundaries, or simply innovating within them?"

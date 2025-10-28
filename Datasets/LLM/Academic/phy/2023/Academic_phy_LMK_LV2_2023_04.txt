@@ -1,5 +1,0 @@
-Title: Constraints on Field Space Regions from the Species Scale in Quantum Gravity
-
-Abstract:
-
-We derive novel bounds on regions in field space characterized by slowly varying positive potentials within the framework of quantum gravity. Utilizing the species scale as a diagnostic tool, alongside the emergent string conjecture, we establish constraints on the moduli space of string compactifications. By analyzing the interplay between the species scale and the potential's gradient, we demonstrate that regions with sufficiently slowly varying potentials are subject to stringent bounds. These bounds are shown to be a consequence of the distance conjecture and the properties of the emergent string. Our results imply that certain regions in field space, previously considered viable for phenomenological models, are in fact inconsistent with quantum gravity. The derived constraints provide a refined understanding of the landscape of string theory vacua and have significant implications for model-building in the context of quantum gravity.

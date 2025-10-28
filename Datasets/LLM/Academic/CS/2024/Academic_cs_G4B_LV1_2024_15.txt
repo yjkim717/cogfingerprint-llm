@@ -1,7 +1,0 @@
-Okay, here’s an academic abstract inspired by the provided summary, aiming for a formal style and approximately 173 words, suitable for a 2024 publication in Computer Science:
-
----
-
-**Abstract:**
-
-Recent advances in large language models (LLMs) have demonstrated remarkable capabilities in open-domain question answering, yet a persistent challenge remains: the propagation of confidently asserted, but ultimately inaccurate, responses – commonly referred to as “hallucinations.” This research addresses this critical limitation by exploring the feasibility of incorporating explicit uncertainty signaling into LLM outputs. We introduce a novel methodology leveraging a curated ‘IDK’ (I Don’t Know) dataset, designed to specifically train models to recognize and articulate instances where their knowledge base lacks sufficient information to provide a reliable answer.  Our approach focuses on prompting strategies aimed at eliciting a nuanced response, prioritizing truthful acknowledgement of limitations over generating potentially misleading content.  Preliminary evaluations suggest that incorporating this dataset significantly improves a model’s ability to detect knowledge gaps, resulting in a demonstrable reduction in hallucinated responses. Future work will explore methods for dynamically adapting the ‘IDK’ dataset and integrating it into real-time question answering systems to enhance trustworthiness and reliability.

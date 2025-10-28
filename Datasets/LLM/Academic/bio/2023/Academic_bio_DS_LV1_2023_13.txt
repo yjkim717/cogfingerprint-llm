@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-Cellular metabolism is a fundamental regulator of function, yet profiling the metabolic state of specific cell types within the complex architecture of human tissues remains a significant challenge. Here, we introduce scSpaMet (single-cell Spatial Metabolomics), an integrated analytical framework that couples high-resolution spatial metabolomics with multiplexed ion beam imaging (MIBI) to achieve unprecedented, cell-type-specific metabolic characterization *in situ*. By co-registering metabolite abundance with a panel of protein markers, scSpaMet enables the deconvolution of tissue-level metabolic heterogeneity and directly links metabolic reprogramming to distinct cellular identities and states within the tumor microenvironment. Applied to human breast cancer specimens, our 2023 analysis revealed novel, spatially restricted metabolic niches and identified unique anabolic pathways active in immunosuppressive myeloid subsets. This work establishes a critical methodology for deciphering the spatial logic of metabolism in health and disease, providing a systems-level view of cellular function within its native tissue context.

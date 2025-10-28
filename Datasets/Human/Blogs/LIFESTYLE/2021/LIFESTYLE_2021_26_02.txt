@@ -1,5 +1,0 @@
-Year: 2021
-Author: Bayweather4129
-URL: https://www.reddit.com/r/thinkpad/comments/oh1uqx/thinkpad_for_ubuntu_and_windows/
-
-Hi, I'm looking for a ThinkPad for student I need it to boot Ubuntu for half a year and then windows the rest. Here are the requirements I'm looking for \- web development \-student work \-light gaming \- price range: 1100 CAD to 1300 CAD \- preferably around 14'', one with no numpads \-ubuntu \-look clean and sleek also I see intel and amd variations of the same model priced differently, why? any input is appreciated, thanks!

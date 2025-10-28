@@ -1,5 +1,0 @@
-Title: Quantum Dynamics of Vibrational Polariton Chemistry: An Exact Approach to Cavity-Modified Chemical Reactivity
-
-Abstract:
-
-The burgeoning field of vibrational polariton chemistry has garnered significant attention in recent years, owing to its potential to manipulate chemical reactivity through vibrational strong coupling (VSC) within infrared cavities. In this study, we employ an exact quantum dynamics approach to investigate the impact of VSC on chemical reactions. By treating both the molecular system and the cavity mode quantum mechanically, we elucidate the role of quantum light-matter interactions in modifying chemical reactivity. Our results highlight the significance of considering the full quantum dynamics of the coupled system, rather than relying on approximate or classical treatments. This work provides a rigorous foundation for understanding the mechanisms underlying cavity-modified chemical reactions and paves the way for further exploration of VSC-mediated chemistry. Our findings underscore the importance of quantum mechanical effects in VSC and their implications for controlling chemical reactivity.

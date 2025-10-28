@@ -1,3 +1,0 @@
-Back in 2021, as our team shifted to hybrid work, we faced a familiar headache: how to seamlessly connect everyone to our Azure file shares without daily login prompts. The promise of Group Policy felt like the answer—automate those drive mappings and let NTFS permissions handle security. But bridging that gap between on-prem GPO and cloud storage with user credentials? Easier said than done.
-
-It made me reflect: technology’s real test isn’t just what it can do, but how invisibly it can do it. When setup fades into the background, that’s when tools truly empower people. We got there in the end, but the journey reminded me that the best IT solutions are the ones you never have to think about.

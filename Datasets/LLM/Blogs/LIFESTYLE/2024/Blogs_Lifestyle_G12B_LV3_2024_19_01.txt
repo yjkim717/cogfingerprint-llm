@@ -1,9 +1,0 @@
->## The Quiet Hum of Security & the Promise of "Smart"
-
-There's something incredibly comforting about knowing your home is… watched over. Not in a creepy, Big Brother way, but in a reassuring, "I can check in anytime" kind of way. I recently dove headfirst into the world of IP cameras and Blue Iris, and wow, it’s been a fascinating rabbit hole.
-
-I’m aiming to set up AI-powered object detection on just three cameras right now, but already I'm dreaming bigger – integrating everything into a broader home automation system. It’s 2024, after all, and the potential feels limitless!
-
-The challenge, of course, is the hardware. I’ve got a budget of around $700-$800, and figuring out the best mini PC (or alternative!) that can handle the processing load – especially with that AI crunching – is proving to be a mini-project in itself. A good GPU is key, and naturally, I’m hoping to leverage a NAS for storage.
-
-It’s more than just security, you know? It's about peace of mind, and the quiet hum of technology working behind the scenes to simplify and enhance daily life. Anyone else battling this tech upgrade journey? Let me know your recommendations!

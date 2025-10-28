@@ -1,5 +1,0 @@
-Year: 2023
-Author: Gaius_Octavius_
-URL: https://www.reddit.com/r/footballmanagergames/comments/10v8klb/net_future_transfer_fees/
-
-Is there a tab/window that shows the net charges for all the partial transfer fees in future seasons? I know the “clauses” tab will show them individually but is there a way to show the net changes of all the pluses and minuses without having to do the maths myself. Similar to how it adds up your future salary commitments. It seems smart to try to keep incoming and outgoings close to balanced (or is it? I am still a novice) so I was hoping it was somewhere I just missed. Thanks. (Still playing FM 22 if that matters)

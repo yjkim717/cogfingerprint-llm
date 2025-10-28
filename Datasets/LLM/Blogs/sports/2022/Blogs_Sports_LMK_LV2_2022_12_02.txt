@@ -1,1 +1,0 @@
-get_blog_post(keywords="klay thompson, fantasy basketball, adp, buy low, fantasy asset", summary="Discussion around Klay Thompson's fantasy basketball value after a slow start, considering whether he's a buy-low target or overrated asset.")

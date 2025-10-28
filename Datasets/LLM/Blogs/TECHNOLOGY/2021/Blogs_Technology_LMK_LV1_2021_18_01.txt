@@ -1,3 +1,0 @@
-"Breathing New Life into Old Tech: My Cisco 2811 Router Experiment (2021 Edition)
-
-As I rummaged through my stash of old networking gear, I stumbled upon a used Cisco 2811 router. I thought, why not breathe new life into it and use it as a backup? The catch? It was running a different IOS version than my primary router. I began to wonder if my existing config would be compatible. After some research, I found that Cisco's IOS is generally backward compatible, but there were some caveats. I decided to take the plunge and upgrade the IOS to match my primary router's version. To my relief, my running config transferred smoothly. With my backup router now up and running, I felt a sense of accomplishment. Who knew old tech could be so useful?"

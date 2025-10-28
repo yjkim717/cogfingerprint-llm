@@ -1,5 +1,0 @@
-Year: 2022
-Author: scarfacesaints
-URL: https://www.reddit.com/r/dyinglight/comments/y5ip7d/love_how_the_game_loads_you_into_a_safe_house/
-
-In the first map on Dying Light 2, there’s a safe house where you have to move a wardrobe to access it. You’d think the game would be smart enough to keep the wardrobe moved so you don’t get stuck behind it when the game decides to respawn you in there.

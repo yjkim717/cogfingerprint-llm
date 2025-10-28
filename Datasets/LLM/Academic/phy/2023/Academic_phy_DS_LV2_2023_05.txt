@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract written in the style of a 2023 physics research paper, based on the provided summary and keywords.
-
-***
-
-**Abstract**
-
-The persistent discrepancy between early-universe measurements of the Hubble constant (H₀) from the Planck cosmic microwave background (CMB) and late-universe measurements from the distance ladder constitutes a pivotal crisis in modern cosmology, potentially indicative of new physics beyond the standard ΛCDM model. This paper presents a comprehensive review of the impact of the James Webb Space Telescope (JWST) in addressing the systematic uncertainties that have historically plagued the calibration of the cosmic distance scale. We focus specifically on JWST's transformative role in refining measurements of Cepheid variables and the Tip of the Red Giant Branch (TRGB) in the anchor galaxies of the distance ladder. JWST's superior infrared resolution and sensitivity mitigate critical systematic errors, such as crowding and metallicity dependencies, which have been significant contributors to the overall uncertainty budget. Our analysis demonstrates that JWST observations yield Cepheid photometry with significantly reduced scatter and provide a more precise and robust calibration of the TRGB standard candle. By cross-calibrating these independent distance indicators with unprecedented accuracy, we assess the residual systematic uncertainties and their influence on the final H₀ value. The results from this JWST-era analysis are pivotal in determining whether the H₀ tension is a consequence of undetected systematics or requires an extension to our standard cosmological model. This work establishes a new benchmark for precision cosmology in the late universe and delineates the path forward for resolving one of the most significant challenges in contemporary astrophysics.
-
-(Word Count: 229)

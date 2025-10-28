@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on your summary and requested style:
-
----
-
-**Pixel & Code: My Unexpected Creative Journey**
-
-It’s 2023, and honestly, my life felt pretty linear for a while – freelance web dev, paycheck, repeat. Then I started tinkering with video editing, specifically using FFmpeg, and something clicked. I realized my programming background – the logic, the problem-solving – actually *fueled* my editing. 
-
-Now I’m exploring ways to blend these skills. It's a weird, exciting career path, leaning into creative tech. It’s less about chasing a grand title and more about building something I genuinely enjoy.  Anyone else finding unexpected overlaps in their work?

@@ -1,5 +1,0 @@
-Year: 2023
-Author: van_Vanvan
-URL: https://www.reddit.com/r/AskElectronics/comments/12ksr4a/de_component_identification/
-
-This came from a DC motor driver that burned out and I have no schematic. I have a cheap tester that identifies this as a capacitor and the capacitance is 530pF, but perhaps a broken diode or zener diode could present that way as well? The only marking is two letters: DE. Dimensions of the housing are 4.3mm x 3.9mm x 1.9mm, which seems to be SMB? What is, or was, this thing? &#x200B; DE

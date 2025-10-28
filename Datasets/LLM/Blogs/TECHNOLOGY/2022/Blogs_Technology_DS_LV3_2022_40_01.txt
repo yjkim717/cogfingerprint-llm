@@ -1,3 +1,0 @@
-It’s 2022, and my Intel NUC running Linux has become my go-to streaming hub for the living room TV. But there was one snag: I didn’t want a clunky keyboard and mouse taking up space on the coffee table. I was determined to find a lightweight remote control solution, something that felt effortless.
-
-My journey led me into the world of Wayland. I’ll admit, I was initially hesitant, but discovering remote input apps that worked seamlessly with the compositor was a game-changer. Now, with just my phone, I can navigate menus and control playback from the couch. It’s a small victory, but it’s these little tweaks that make technology feel like it’s truly working for you, not the other way around.

@@ -1,8 +1,0 @@
-Author: Alexei A. Efros
-Title: Understanding Collapse in Non-contrastive Siamese Representation Learning
-Paper ID: 568e80ac7555266516e24830b0d325daab6fc595
-Year: 2022
-Author Index: 1
-
-Abstract:
-Contrastive methods have led a recent surge in the performance of self-supervised representation learning (SSL). Recent methods like BYOL or SimSiam purportedly distill these contrastive methods down to their essence, removing bells and whistles, including the negative examples, that do not contribute to downstream performance. These"non-contrastive"methods work surprisingly well without using negatives even though the global minimum lies at trivial collapse. We empirically analyze these non-contrastive methods and find that SimSiam is extraordinarily sensitive to dataset and model size. In particular, SimSiam representations undergo partial dimensional collapse if the model is too small relative to the dataset size. We propose a metric to measure the degree of this collapse and show that it can be used to forecast the downstream task performance without any fine-tuning or labels. We further analyze architectural design choices and their effect on the downstream performance. Finally, we demonstrate that shifting to a continual learning setting acts as a regularizer and prevents collapse, and a hybrid between continual and multi-epoch training can improve linear probe accuracy by as many as 18 percentage points using ResNet-18 on ImageNet. Our project page is at https://alexanderli.com/noncontrastive-ssl/.

@@ -1,1 +1,0 @@
-As I sat down to create some digital art in Clip Studio Paint v2, I was stumped. I used to be able to hold down the shift key to draw straight lines with the brush tool, but it wasn't working. After some trial and error, I discovered the culprit: a changed modifier key setting. A simple fix, but a frustrating detour. Has this happened to you too in 2023's creative chaos?

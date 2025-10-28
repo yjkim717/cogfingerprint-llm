@@ -1,4 +1,0 @@
-Title: Revisiting the Metallicity Dependence of the Cepheid Distance Scale: A Comparative Analysis with TRGB Distances
-
-Abstract:
-This study re-examines the metallicity sensitivity of the Cepheid period-luminosity relation zero-point using the TRGB distance scale as a reference. By correcting numerical discrepancies in previous analyses, we reaffirm that the Cepheid Leavitt Law remains insensitive to metallicity variations within the uncertainties. Our results, based on an updated dataset, corroborate the absence of a statistically significant correlation between Cepheid zero-point and metallicity, thereby supporting the robustness of the Cepheid distance scale in extragalactic astrophysics. (2024)

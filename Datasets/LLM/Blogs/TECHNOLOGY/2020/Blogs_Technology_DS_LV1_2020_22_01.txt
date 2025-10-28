@@ -1,1 +1,0 @@
-Back in 2020, as Teams meetings became my new normal, I noticed occasional audio glitches. Curious, I dug into its cache—those hidden folders storing temporary video and audio data. Clearing them felt like a digital spring cleaning, and suddenly, my AV performance smoothed out. Sometimes, a little digital housekeeping is all it takes.

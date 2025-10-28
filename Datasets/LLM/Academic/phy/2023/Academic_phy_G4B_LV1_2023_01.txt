@@ -1,5 +1,0 @@
-Here’s an abstract based on the provided summary, aiming for a formal academic style and adhering to the specified constraints:
-
-**Abstract**
-
-Recent developments in theoretical physics have increasingly focused on reconciling general relativistic descriptions of black holes with the tenets of quantum mechanics, particularly concerning the persistent information paradox. This work investigates a novel approach utilizing Kruskal-Szekeres coordinates to systematically analyze the spacetime geometry surrounding black hole event horizons. Employing this coordinate system, we identify an unexpected exact symmetry within the black hole’s structure, previously obscured by the horizon’s apparent singularity. Preliminary calculations suggest this symmetry may fundamentally alter the conventional understanding of information loss. Specifically, it offers a potential pathway to circumvent the paradox by demonstrating a conserved quantity related to the horizon’s boundary. Further investigation, incorporating quantum field theory within this framework, is warranted to fully elucidate the implications for information preservation in 2023.

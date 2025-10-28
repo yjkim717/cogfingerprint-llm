@@ -1,4 +1,0 @@
-Title: Asymptotic Symmetries in Five-Dimensional Asymptotically Flat Spacetimes
-
-Abstract:
-This study investigates the asymptotic symmetries of five-dimensional asymptotically flat spacetimes using Hamiltonian methods. Our analysis reveals a nonlinear deformation of the Bondi-Metzner-Sachs (BMS) group, indicating a departure from the standard BMS symmetry. The Hamiltonian framework enables the identification of asymptotic symmetry generators, which are shown to form a nonlinear algebra. The results provide insight into the structure of asymptotic symmetries in higher-dimensional spacetimes, shedding light on the underlying physics of gravitational systems in 2021's ongoing research context.

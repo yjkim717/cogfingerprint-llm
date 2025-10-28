@@ -1,5 +1,0 @@
-It’s 2021, and I’m still chasing that elusive "set it and forget it" dream in the cloud. Recently, I tried mapping an Azure file share through a GPO, hoping users could connect seamlessly without wrestling with Azure AD logins every time. Sounds straightforward, right? Oh, the irony.
-
-I pictured a smooth, automated drive mapping, but reality had other plans. We tinkered with storage keys and tweaked NTFS permissions, searching for that sweet spot where security meets simplicity. It felt like trying to solve a puzzle where the pieces kept changing shape.
-
-In the end, it wasn’t just about tech—it was a reminder that even in our automated world, some challenges demand patience and a bit of old-school problem-solving. Sometimes, the cloud feels wonderfully infinite, and other times, wonderfully human.

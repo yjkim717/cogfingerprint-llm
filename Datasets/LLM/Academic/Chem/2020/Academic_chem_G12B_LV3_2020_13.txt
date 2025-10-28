@@ -1,5 +1,0 @@
- here:
-
-**Abstract**
-
-The chemical evolution of interstellar ice mantles remains a critical area of astrochemical research. This study, conducted in 2020, explores the unexpectedly facile hydrogenation of carbon monoxide (CO) to formaldehyde (H₂CO) and methanol (CH₃OH) within amorphous solid water (ASW) ice. Our findings reveal that significant reaction efficiencies are observed at temperatures as low as approximately 70 K, challenging previous assumptions regarding reaction kinetics in these frigid environments. This enhanced reactivity is attributed to the efficient diffusion of hydrogen atoms through the nanometer-scale cracks and voids inherent in ASW’s disordered structure. Spectroscopic analysis and computational modeling suggest that these pathways provide a readily accessible transport mechanism, circumventing the typically low diffusion rates expected within dense ice matrices. The implications of this work extend to understanding the formation pathways of complex organic molecules in star-forming regions and the potential for prebiotic chemistry within icy planetesimals.

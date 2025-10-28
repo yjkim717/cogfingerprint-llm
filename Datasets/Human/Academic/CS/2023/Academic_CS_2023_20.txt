@@ -1,8 +1,0 @@
-Author: C. Stringer
-Title: Rastermap: a discovery method for neural population recordings
-Paper ID: 9d4f6e83b0664a28172ab14c65dc9685d266cffc
-Year: 2023
-Author Index: 20
-
-Abstract:
-Neurophysiology has long progressed through exploratory experiments and chance discoveries. Anecdotes abound of researchers setting up experiments while listening to spikes in real time and observing a pattern of consistent firing when certain stimuli or behaviors happened. With the advent of large-scale recordings, such close observation of data has become harder because high-dimensional spaces are impenetrable to our pattern-finding intuitions. To help ourselves find patterns in neural data, our lab has been openly developing a visualization framework known as “Rastermap” over the past five years. Rastermap takes advantage of a new global optimization algorithm for sorting neural responses along a one-dimensional manifold. Displayed as a raster plot, the sorted neurons show a variety of activity patterns, which can be more easily identified and interpreted. We first benchmark Rastermap on realistic simulations with multiplexed cognitive variables. Then we demonstrate it on recordings of tens of thousands of neurons from mouse visual and sensorimotor cortex during spontaneous, stimulus-evoked and task-evoked epochs, as well as on whole-brain zebrafish recordings, widefield calcium imaging data, population recordings from rat hippocampus and artificial neural networks. Finally, we illustrate high-dimensional scenarios where Rastermap and similar algorithms cannot be used effectively.

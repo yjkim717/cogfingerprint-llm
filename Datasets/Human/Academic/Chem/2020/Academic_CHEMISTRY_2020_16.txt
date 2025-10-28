@@ -1,8 +1,0 @@
-Author: Arkajit Mandal
-Title: Polariton Mediated Electron Transfer via Cavity Quantum Electrodynamics.
-Paper ID: 7b62b73607cc525dc8154e8bb3dce30313908c6b
-Year: 2020
-Author Index: 16
-
-Abstract:
-We investigate the polariton mediated electron transfer reaction in a model system with analytic rate constant theory and direct quantum dynamical simulations. We demonstrate that the photoinduced charge transfer reaction between a bright donor state and dark acceptor state can be significantly enhanced or suppressed by coupling the molecular system to the quantized radiation field inside an optical cavity. This is because the quantum light-matter interaction can influence the effective driving force and electronic couplings between the donor state, which is the hybrid light-matter excitation, and the molecular acceptor state. Under the resonance condition between the photonic and electronic excitations, the effective driving force can be tuned by changing the light-matter coupling strength; for an off-resonant condition, the same effect can be accomplished by changing the molecule-cavity detuning. We further demonstrate that using both the electronic coupling and light-matter coupling helps to extend the effective couplings across the entire system, even for the dark state that carries a zero transition dipole. Theoretically, we find that both the counter-rotating terms and the dipole self-energy in the quantum electrodynamics Hamiltonian are important for obtaining an accurate polariton eigenspectrum, hence, the polariton mediated charge transfer rate constant, especially in the ultra-strong coupling regime.

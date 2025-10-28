@@ -1,2 +1,0 @@
-Input: Social media use impacts mental wellbeing.
-Output: Remember 2022? Scrolling felt endless, and that highlight reel always made me question my own life. It’s a strange thing, isn’t it? Social media can connect us, but it can also leave us feeling… dry. Like our skin, we crave genuine connection and a little moisture.

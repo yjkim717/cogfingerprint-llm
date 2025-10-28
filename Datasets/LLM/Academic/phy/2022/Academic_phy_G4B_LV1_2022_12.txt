@@ -1,7 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a physics publication in 2022:
-
-**Excited-State Dynamics and Quantum Efficiency in Rhodopsin: A Quantum-Classical Perspective**
-
-Rhodopsin, the visual pigment of *Drosophila*, presents a compelling system for investigating the interplay between quantum mechanical phenomena and protein dynamics. Utilizing a combined quantum-classical simulation approach, we examined the excited-state behavior of rhodopsin following photon absorption. Our results demonstrate a significant population splitting within the excited state manifold, a consequence of the molecule’s intricate electrostatic environment within the protein scaffold. This splitting, quantified through time-resolved spectroscopy analogues, directly impacts the efficiency of subsequent isomerization – the crucial step initiating the visual cascade. 
-
-We found that protein electrostatics exert a pronounced influence on the amplitude and lifetime of these excited-state populations. Specifically, favorable electrostatic interactions promote a more uniform distribution, enhancing overall quantum efficiency. Conversely, destabilizing forces broaden the spectral distribution, reducing the probability of efficient excitation transfer. These findings contribute to a deeper understanding of the fundamental mechanisms governing light capture and signal transduction in rhodopsin.

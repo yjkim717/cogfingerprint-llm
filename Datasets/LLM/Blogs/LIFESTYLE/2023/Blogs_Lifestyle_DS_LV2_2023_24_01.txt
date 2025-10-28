@@ -1,5 +1,0 @@
-It’s funny how life nudges you toward change. For years, I was the go-to sysadmin—the one who kept servers humming and networks stable. But somewhere between patching systems and managing backups, I realized my heart wasn’t fully in it anymore. I’d tinker with SQL Server databases in my spare time, feeling that quiet pull toward something different.
-
-In 2023, the buzz around Microsoft Azure and cloud roles was impossible to ignore. I started studying for Azure DBA exams, not as a chore, but as a way to explore. Each module felt like unlocking a piece of a puzzle I didn’t even know I was solving. The more I learned, the more I saw my daily tasks through a DBA’s eyes.
-
-Now, I’m asking myself: am I ready to make the leap? It’s not just about skills; it’s about embracing a new identity. That moment you realize your passion has quietly rerouted your career—that’s when you know it’s time to start job hunting.

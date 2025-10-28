@@ -1,3 +1,0 @@
-"Exploring Black Hole Entanglement through Majorana Fermions and Qubits"
-
-Abstract: We investigate a quantum mechanical system comprising oscillators and Majorana fermions, conjectured to model a black hole's behavior. By deriving an effective Hamiltonian and analyzing its implications on qubit entanglement, we demonstrate a novel connection to the Einstein field equations. Our results, contextualized within the framework of modern quantum gravity (2023), provide insight into the intricate relationships governing black hole physics and the holographic principle.

@@ -1,7 +1,0 @@
-)
-## Abstract: Systemic Therapy for Metastatic Colorectal Cancer: An Overview of Current NCCN Guidelines (2024)
-
-Metastatic colorectal cancer (mCRC) remains a significant clinical challenge, necessitating comprehensive and evolving systemic therapeutic strategies. This manuscript provides a concise overview of current treatment recommendations for mCRC, as detailed within the National Comprehensive Cancer Network (NCCN) Guidelines, updated through 2024. Initial management typically involves combination chemotherapy regimens, often incorporating oxaliplatin, irinotecan, and/or fluorouracil, tailored to performance status and disease burden. Targeted therapies, including anti-epidermal growth factor receptor (anti-EGFR) antibodies and anti-vascular endothelial growth factor (anti-VEGF) agents, are integrated based on *RAS* mutation status. Immunotherapy, specifically anti-PD-1/PD-L1 antibodies, holds promise in patients with high microsatellite instability (MSI-H) or deficient mismatch repair (dMMR). This review summarizes the tiered approach outlined by the NCCN, highlighting considerations for first-line, second-line, and subsequent treatment options, including clinical trial participation. Furthermore, it addresses emerging therapeutic modalities and their role within the evolving mCRC treatment landscape, emphasizing the importance of personalized medicine approaches to optimize patient outcomes.
-
-
-

@@ -1,5 +1,0 @@
-Year: 2020
-Author: tomdawg0022
-URL: https://www.reddit.com/r/chromeos/comments/iozf0q/beta_just_got_updated_to_86/
-
-Just was shoved the update within the last 30 minutes. Makes the icons look different (white ovals with the logo inside) and wifi when not at "strong" shows a half full wifi signal. I'm sure there's a bunch of other stuff as well but that's the first (and notable) differences.

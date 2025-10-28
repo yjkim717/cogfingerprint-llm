@@ -1,8 +1,0 @@
-Author: Nastaran Khalili
-Title: CRISPR/Cas9 revitalizes adoptive T-cell therapy for cancer immunotherapy
-Paper ID: c56aa760cdf524b69cb529beb2c5caed9ba71657
-Year: 2021
-Author Index: 11
-
-Abstract:
-Cancer immunotherapy has gained attention as the supreme therapeutic modality for the treatment of various malignancies. Adoptive T-cell therapy (ACT) is one of the most distinctive modalities of this therapeutic approach, which seeks to harness the potential of combating cancer cells by using autologous or allogenic tumor-specific T-cells. However, a plethora of circumstances must be optimized to produce functional, durable, and efficient T-cells. Recently, the potential of ACT has been further realized by the introduction of novel gene-editing platforms such as the CRISPR/Cas9 system; this technique has been utilized to create T-cells furnished with recombinant T-cell receptor (TCR) or chimeric antigen receptor (CAR) that have precise tumor antigen recognition, minimal side effects and treatment-related toxicities, robust proliferation and cytotoxicity, and nominal exhaustion. Here, we aim to review and categorize the recent breakthroughs of genetically modified TCR/CAR T-cells through CRISPR/Cas9 technology and address the pearls and pitfalls of each method. In addition, we investigate the latest ongoing clinical trials that are applying CRISPR-associated TCR/CAR T-cells for the treatment of cancers.

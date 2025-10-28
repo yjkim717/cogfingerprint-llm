@@ -1,5 +1,0 @@
->## The TSV Puzzle and My Plex Dreams
-
-Okay, tech confessions time. I've been wrestling with a peculiar problem lately. My aging PVR still coughs out recordings in these… *TSV* files. Seriously, who still uses TSV? But here I am, staring at a collection of them, dreaming of effortlessly integrating them into my Plex library. 
-
-It’s a surprisingly frustrating challenge. Anyone out there tackled this before? Any magical scripts or tools that can bridge the gap between old tech formats and modern media servers? Recommendations desperately needed! It feels like I’m chasing a digital ghost.

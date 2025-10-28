@@ -1,5 +1,0 @@
-Title: Reevaluating Cepheid Distance Calibrations with Gaia EDR3: Implications for the Period-Luminosity Relation
-
-Abstract:
-
-The Cepheid distance scale is a cornerstone of modern astrophysics, yet its calibration remains a subject of debate. Leveraging the unprecedented precision of Gaia EDR3 parallax measurements, we reassess the Cepheid distance scale and investigate the impact of metallicity on the period-luminosity relation. Our analysis reveals significant discrepancies between Cepheid distances derived from Gaia EDR3 data and geometric distances, challenging existing calibrations. We quantify the effect of metallicity on the period-luminosity relation and demonstrate that it is a significant source of systematic uncertainty. Our findings have far-reaching implications for the determination of Hubble's constant and the understanding of galaxy evolution. This study underscores the need for a revised Cepheid distance calibration that incorporates the latest Gaia data and accounts for metallicity effects, paving the way for more accurate cosmological inferences in the era of precision astrophysics (2022).

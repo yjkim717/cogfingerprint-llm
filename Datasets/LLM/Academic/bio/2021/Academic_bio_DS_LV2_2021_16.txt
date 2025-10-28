@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2021.
-
-***
-
-**Abstract**
-
-The edible basidiomycete *Pleurotus ostreatus* (oyster mushroom) is a species of significant biotechnological and nutritional importance. However, the absence of a highly efficient and precise genome editing tool has historically impeded targeted genetic improvement and functional genomics in this fungus. In this study, we report the successful establishment of a CRISPR/Cas9 system for high-efficiency genome editing in *P. ostreatus*. Our optimized protocol enables robust Cas9-mediated DNA double-strand breaks, which we demonstrate can be repaired via the endogenous non-homologous end joining pathway to generate targeted gene knockouts. Crucially, we further show that this system facilitates highly efficient homology-directed repair (HDR) when a donor DNA template is co-transformed. This capability allows for the precise introduction of desired nucleotide changes without integrating exogenous selectable marker genes. Consequently, this methodology provides a direct pathway for the development of non-genetically modified (non-GM) strains, as defined by current regulatory frameworks. Our findings establish CRISPR/Cas9 as a transformative tool for *P. ostreatus* research, opening new avenues for both fundamental genetic studies and the commercial development of improved strains.
-
-(189 words)

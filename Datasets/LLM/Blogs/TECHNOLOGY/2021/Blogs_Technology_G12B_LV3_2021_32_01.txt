@@ -1,7 +1,0 @@
-## Escaping the RouterOS Maze: A Switch Management Revelation
-
-Okay, so I’ll admit it. I got a little *too* ambitious with my home lab. I’d built this sprawling network, all VLANs and subnets, running on a MikroTik CRS354. Initially, RouterOS felt powerful, but as the VLAN count climbed – we’re talking a serious number – things started to feel…clunky. Managing those interfaces became a genuine headache. 
-
-Then I stumbled upon SwOS. It’s MikroTik’s bare-bones switch operating system, and honestly, it's been a revelation. The interface is so much cleaner, so much more intuitive for managing a large number of VLANs. It felt like stepping out of a tangled web and into a beautifully organized garden. 
-
-Switching (pun intended!) over wasn't a huge undertaking, and the difference in usability has been remarkable. It’s a reminder that sometimes, less is more. Sometimes, stripping away the extra features and focusing on core functionality can unlock a whole new level of efficiency. Anyone else wrestled with VLAN sprawl? Let me know your solutions!

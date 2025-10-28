@@ -1,9 +1,0 @@
-'s response:
-
-## The Stack Struggle is Real (and a Little Discouraging)
-
-Okay, let's be honest. Anyone else feeling a little lost in the 2023 job market? I've been on the hunt for a frontend role, and the more I look, the more a pattern emerges: TypeScript, TypeScript, and more TypeScript. 
-
-Don’t get me wrong, I understand its popularity. It's powerful! But I've spent years happily building with Vue.js – and sometimes, you just want to stick with what you know. The problem isn't the tech itself, it's the feeling that finding a role that embraces other frameworks *and* values a healthy, collaborative work environment is becoming increasingly rare. 
-
-I keep seeing "must be proficient in TypeScript" plastered everywhere, even for seemingly simple projects. It makes me wonder – are companies sacrificing culture and developer happiness at the altar of the latest shiny tool? I’m hoping there are still teams out there prioritizing a good vibe and diverse skillsets alongside solid Python backends or even a classic Rails setup. Wish me luck!

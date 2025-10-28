@@ -1,5 +1,0 @@
-Year: 2020
-Author: chewy747
-URL: https://www.reddit.com/r/k12sysadmin/comments/jdzrc8/can_someone_test_this_url_on_a_chromebook/
-
-For some reason I cannot get the videos to load from their site on chromebooks. ChromeOS is up to date. The page will load but the video content window will not. I can view the video fine as the same user on a Windows device using Google Chrome. I added the chromebook as an internal exemption in our lightspeed web filter and that still didnt help. Nothing in the developer tools stands out when I load the page. Any other thoughts would be appreciated.

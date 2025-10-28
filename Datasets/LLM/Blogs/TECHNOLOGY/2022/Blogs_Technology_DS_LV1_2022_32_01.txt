@@ -1,9 +1,0 @@
-Of course, here is an original blog post inspired by your summary.
-
-***
-
-### The Ghost in the Machine: My Tangle with a Stubborn Domain
-
-It was supposed to be a clean break. In 2022, we finally retired our ancient `.local` Active Directory domain for a shiny new `.net` one. The migration felt like a success, until I noticed it: a phantom. A duplicate login domain had appeared in our dropdown list, a digital ghost haunting our new setup.
-
-My first instinct was a quick ADSI edit—surely a simple registry tweak would banish it. No such luck. This duplicate was stubborn, a relic clinging to the system's memory. It was a humbling reminder that in IT, especially with complex systems like Active Directory, what seems like a straightforward migration can unearth unpredictable quirks. The machines don't always forget as easily as we'd like. It forced me to look beyond the surface, a small but potent lesson in the lingering complexities of digital evolution.

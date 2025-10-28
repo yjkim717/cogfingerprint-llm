@@ -1,5 +1,0 @@
-**Abstract**
-
-We establish a rigorous correspondence between the asymptotic symmetry algebras derived from Hamiltonian and Bondi–Metzner–Sachs (BMS) frameworks in four-dimensional asymptotically flat spacetimes. By constructing a novel map between the respective phase spaces, we demonstrate that the supertranslation-invariant Lorentz generators obtained via a Hamiltonian formulation at spatial infinity are isomorphic to those defined through a holonomy-free prescription at null infinity. This equivalence resolves the longstanding ambiguity in associating Poincaré charges with gravitational radiative modes, confirming that both approaches yield identical Ward identities linked to soft graviton theorems. Our result unifies the symplectic structures underlying the BMS and Spi groups, providing a consolidated foundation for studying infrared structures in quantum gravity within the celestial holography paradigm.
-
-*(Year: 2023)*

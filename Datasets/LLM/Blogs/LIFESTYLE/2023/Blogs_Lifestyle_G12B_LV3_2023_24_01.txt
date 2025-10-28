@@ -1,9 +1,0 @@
-## Feeling the Pull: Sysadmin to DBA – A Career Shift Reflection
-
-Okay, so here's the thing. I've been a sysadmin for what feels like forever. Years of patching servers, wrestling with firewalls, and generally keeping the digital lights on. And lately? I’ve been feeling this… pull. A quiet whisper suggesting a change. Specifically, a move into the world of SQL Server and becoming a DBA.
-
-It’s a little daunting, honestly. I’m comfortable in my current role, but the idea of diving deep into databases, optimizing queries, and ensuring data integrity… it’s genuinely exciting. But where do I even *start*? 
-
-I'm finding myself spending evenings exploring Microsoft Azure documentation (hello, cloud databases!), and trying to wrap my head around the day-to-day realities of a DBA. Is my sysadmin experience enough of a foundation? Am I ready to actually start looking for those roles? 
-
-2023 feels like a good year to take a leap. It's a time for reinvention, right? I’ll keep you posted on my journey – hopefully, sharing what I learn along the way will help someone else feeling that same career nudge. Wish me luck!

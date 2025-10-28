@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
-
-***
-
-**Abstract**
-
-The synthesis of photorealistic scenes conditioned on human poses presents a significant challenge in computer vision, with applications in virtual reality and content creation. While generative adversarial networks (GANs) have demonstrated proficiency in unconditional image synthesis, their ability to interpret and adhere to the structural constraints of a human pose remains limited. In this work, we introduce a novel framework for pose-conditioned scene generation that builds upon the StyleGAN2 architecture. Our model explicitly encodes input pose keypoints into the generator's latent space, enabling it to learn the nuanced correlations between human posture and the surrounding environment. We propose a dedicated discriminator that assesses both the photorealism of the output and its geometric consistency with the conditioning pose. Quantitative evaluations on established benchmarks, using the Fréchet Inception Distance (FID), demonstrate that our method significantly outperforms existing baseline models in generating diverse and coherent scenes. The results confirm that explicit pose conditioning is critical for synthesizing contextually appropriate and visually plausible imagery.

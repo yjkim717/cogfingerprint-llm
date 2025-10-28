@@ -1,8 +1,0 @@
-)
-## KreolMorisienMT: A Novel Dataset for Machine Translation Evaluation in Mauritian Creole
-
-The development of robust machine translation (MT) systems for low-resource languages remains a significant challenge in computational linguistics. This paper introduces KreolMorisienMT, a newly constructed dataset designed to facilitate the evaluation of MT quality for Mauritian Creole (Kriyo). Kriyo, a vibrant Creole language spoken in Mauritius, exhibits complex linguistic features and limited digital resources, hindering progress in MT research. KreolMorisienMT comprises a parallel corpus of English-Kriyo and French-Kriyo sentence pairs, alongside a substantial monolingual Kriyo corpus, providing a comprehensive resource for both translation and language modeling tasks. The dataset was meticulously curated to ensure linguistic diversity and representativeness of contemporary Kriyo usage. This resource addresses a critical gap in available data for Kriyo and enables more rigorous assessment of MT models, specifically targeting the challenges posed by its unique morphology and syntax. The KreolMorisienMT dataset, publicly available under [mention license if applicable], aims to stimulate further research and development in MT for Kriyo and similar Creole languages, contributing to broader accessibility and linguistic preservation efforts within the region.
-
-
-
-

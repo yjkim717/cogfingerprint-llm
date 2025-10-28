@@ -1,5 +1,0 @@
-The glow of my laptop screen has become a permanent fixture in 2020. Stuck inside, I decided to finally tackle that coding project—a simple program to predict local bird migrations using some basic machine learning. It felt small, almost silly, while the world outside was so chaotic.
-
-But in the quiet hours, something shifted. It wasn't about the code anymore. It was about building a tiny, predictable system in a wildly unpredictable time. Each line of logic was a small anchor, a piece of order I could control.
-
-I thought side projects were for resumes. I was wrong. This one became my sanctuary, a quiet corner of the universe where I could just focus, create, and breathe. Turns out, building a little piece of software helped me rebuild a little piece of myself, too.

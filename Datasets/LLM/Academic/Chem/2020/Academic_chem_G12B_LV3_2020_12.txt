@@ -1,5 +1,0 @@
- Here's an abstract inspired by the provided summary and keywords, written in a formal academic style suitable for a chemistry publication (circa 2020):
-
-**Abstract**
-
-This study explores the burgeoning field of polariton-mediated electron transfer (ET) within the framework of cavity quantum electrodynamics (cQED). We investigate the influence of strong light-matter coupling on photoinduced charge transfer dynamics in molecular systems, demonstrating a nuanced control over reaction efficiency through manipulation of the cavity detuning and coupling strength. Our simulations reveal that even dark states, typically inaccessible via direct excitation, can exhibit significant participation in the ET process under these conditions. Crucially, we emphasize the necessity of incorporating counter-rotating terms and accurate dipole self-energy corrections to achieve reliable predictions within the ultra-strong coupling regime. These findings underscore the potential of cQED to fundamentally alter chemical reaction pathways and provide a platform for engineering novel light-responsive molecular devices.

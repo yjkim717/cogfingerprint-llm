@@ -1,9 +1,0 @@
-**Title:** Optimizing Germline Testing for Breast Cancer: Adherence to ASCO-SSO Guidelines for BRCA1/2 Mutation Identification and Genetic Counseling
-
-**Abstract:**
-
-The American Society of Clinical Oncology (ASCO) and the Society of Surgical Oncology (SSO) have established guidelines for germline testing in breast cancer patients to identify BRCA1/2 mutations and other cancer susceptibility genes. As of 2024, these guidelines recommend BRCA1/2 testing for patients based on specific criteria, including age, personal and family history, and eligibility for targeted therapies. This study examines the adherence to these guidelines in clinical practice and the impact on genetic counseling and cancer management.
-
-A retrospective analysis was conducted on a cohort of breast cancer patients who underwent germline testing between 2022 and 2024. The results show that adherence to ASCO-SSO guidelines significantly improves the detection rate of BRCA1/2 mutations and other pathogenic variants in cancer susceptibility genes. Patients who met the guideline criteria had a higher incidence of BRCA1/2 mutations compared to those who did not meet the criteria.
-
-The findings underscore the importance of genetic counseling for patients with identified BRCA1/2 mutations, enabling personalized cancer risk assessment and management strategies. Furthermore, the study highlights the role of germline testing in informing treatment decisions, including eligibility for PARP inhibitors and risk-reducing surgeries. The results support the continued use of ASCO-SSO guidelines in clinical practice to optimize the identification of breast cancer patients at high risk of carrying BRCA1/2 mutations and to provide targeted genetic counseling and management.

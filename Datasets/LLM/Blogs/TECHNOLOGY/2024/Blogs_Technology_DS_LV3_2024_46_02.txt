@@ -1,5 +1,0 @@
-It started with a simple frustration: the clatter of dice, the shuffled papers, and that one friend who always nudged his miniature just a *little* too far. Our tabletop RPG nights were magical, but the bookkeeping was pulling us out of the story. I wanted the tactile joy of physical miniatures on a hand-drawn map, but with the seamless tracking of a digital app. It felt like an impossible dream.
-
-Then, in 2024, the pieces finally clicked. I found myself hunched over a large touch screen, its surface glowing with a digital version of our game map. The real breakthrough was attaching tiny RFID stickers to the bases of our beloved minis. Now, every time our paladin moves across the "table," the screen senses it instantly, updating hit points and spell effects automatically.
-
-It’s a weirdly beautiful hybrid. We still have the weight of the mini in our hands, the shared space around a table. But now, the technology handles the invisible math, freeing us to get lost in the narrative. We’re not just playing a game; we’re building a story, and the tech has finally learned to be a silent, supportive stagehand.

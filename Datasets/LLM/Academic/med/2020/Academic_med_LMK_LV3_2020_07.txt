@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Contemporary Management of Diffuse Gliomas: An Update on EANO Guidelines
-
-Abstract:
-The diagnosis and treatment of diffuse gliomas have undergone significant transformations in recent years, driven by advances in molecular diagnostics and the evolving CNS tumor taxonomy. In line with these developments, the European Association of Neuro-Oncology (EANO) has released updated guidelines for the management of adult patients with diffuse gliomas. This review aims to summarize the current evidence-based recommendations for the diagnosis, treatment, and follow-up of diffuse gliomas, as outlined in the 2020 EANO guidelines. By integrating the latest research findings and clinical best practices, these guidelines provide a comprehensive framework for neuro-oncology professionals to optimize glioma treatment strategies. This update underscores the importance of a multidisciplinary approach to diffuse glioma management, highlighting the need for continued innovation and collaboration in the field of neuro-oncology.

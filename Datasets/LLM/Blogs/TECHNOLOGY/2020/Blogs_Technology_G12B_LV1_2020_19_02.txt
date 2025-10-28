@@ -1,5 +1,0 @@
- here:
-
-## The Algorithm and the High Ground
-
-Remember when everyone was obsessed with the Obi-Wan vs. Anakin fight in *Revenge of the Sith*? All that talk about the "high ground." It got me thinking about algorithms. We're constantly striving to optimize, to find that metaphorical high ground in the digital landscape. But what happens when we strip away the shortcuts, the clever hacks? Does the core product, the core idea, still stand up in a truly fair fight? It’s a question I’ve been wrestling with as we refine our new app in 2020 – is it *good* or just cleverly marketed?

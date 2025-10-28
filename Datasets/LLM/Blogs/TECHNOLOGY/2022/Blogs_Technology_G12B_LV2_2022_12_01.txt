@@ -1,3 +1,0 @@
-## The Little Things That Annoy (and Why They Matter)
-
-It's 2022, and I’m staring at my Mac Mini, happily humming along, connected to a perfectly good ViewSonic monitor. Yet, I’m battling a surprisingly frustrating issue: adjusting the brightness. Why can't macOS natively control *everything*? It feels like a tiny oversight, a little digital annoyance. But these little things, right? They add up. They remind us that even the sleekest tech still has quirks, and sometimes, you just want a simple slider.

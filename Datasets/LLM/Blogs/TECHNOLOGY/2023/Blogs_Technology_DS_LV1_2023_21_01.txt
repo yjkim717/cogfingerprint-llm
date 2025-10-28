@@ -1,1 +1,0 @@
-As I sifted through my Laravel project in 2023, I realized how much we rely on visuals to tell a story. I needed a way to automatically add crisp white text with shadows to video frames for thumbnails, and it struck me—the seamless integration of Python and Node.js libraries into web apps is quietly revolutionizing how we enhance user experience, one frame at a time.

@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-Data-Independent Acquisition (DIA) mass spectrometry has emerged as a powerful technique for comprehensive proteome profiling, yet its widespread adoption has been hindered by computational challenges in data analysis, particularly the speed and sensitivity of peptide identification. To address this, we introduce MSFragger-DIA, a novel search engine integrated within the widely-used FragPipe computational platform. Unlike conventional library-based and de novo approaches, MSFragger-DIA leverages an open-search strategy to perform an unrestricted, high-speed matching of DIA spectra against a comprehensive protein sequence database. This method enables the direct, confident identification of peptides without the prerequisite for an experimentally derived spectral library. Our 2023 benchmark analyses demonstrate that MSFragger-DIA significantly outperforms existing tools in both processing speed and the depth of proteome coverage, identifying thousands of additional unique peptides. By providing a seamless, efficient, and highly sensitive workflow within FragPipe, MSFragger-DIA substantially lowers the barrier for robust DIA data analysis, promising to accelerate discoveries in systems biology and biomarker research.

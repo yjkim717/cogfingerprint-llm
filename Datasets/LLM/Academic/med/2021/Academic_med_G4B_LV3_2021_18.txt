@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, adhering to the requested style and length:
-
-**Abstract**
-
-The 2021 NCCN Guidelines for Breast Cancer represent a critical update to systemic adjuvant therapy protocols for patients with early-stage, hormone receptor-positive, HER2-negative disease. These guidelines reflect a multidisciplinary consensus and prioritize individualized treatment strategies. Specifically, the revised recommendations advocate for consideration of cyclin-dependent kinase (CDK) 4/6 inhibitors in combination with endocrine therapy as a standard of care.  This approach demonstrates improved disease-free survival outcomes compared to traditional adjuvant endocrine monotherapy. Further research is warranted to refine optimal sequencing and duration of these therapies, acknowledging the heterogeneous nature of hormone receptor-positive breast cancer and the importance of patient-specific risk stratification.

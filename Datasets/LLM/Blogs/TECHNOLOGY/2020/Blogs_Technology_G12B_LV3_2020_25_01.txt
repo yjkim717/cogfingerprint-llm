@@ -1,7 +1,0 @@
-## The Chromebook Conundrum: When Tech Just Doesn't Play Nice
-
-Okay, fellow educators, let's talk tech frustrations. Lately, I’ve been wrestling with something peculiar – videos stubbornly refusing to load on our school Chromebooks. It's baffling! They work perfectly fine on our Windows machines, but on ChromeOS? Nada. 
-
-We’ve even bypassed the web filter, thinking *that* was the culprit, but the problem persists. It feels like chasing a ghost! It’s 2020, we’re trying to embrace the cloud, and yet, these little roadblocks feel huge. 
-
-Anyone else experiencing similar quirks with ChromeOS and video streaming? I'm particularly curious if anyone's had luck with the Lightspeed systems. Throwing out ideas and hoping for some collective wisdom here! Let’s troubleshoot together.

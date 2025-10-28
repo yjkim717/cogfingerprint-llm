@@ -1,1 +1,0 @@
-Back in 2023, our small team faced a classic dilemma: go microservices from the start or build a monolith? We chose the latter, but with a twist—designing it like a modular apartment, not a solid block. It paid off. When we later carved out services, the seams were already there. Sometimes, the best future-proofing is just thoughtful present building.

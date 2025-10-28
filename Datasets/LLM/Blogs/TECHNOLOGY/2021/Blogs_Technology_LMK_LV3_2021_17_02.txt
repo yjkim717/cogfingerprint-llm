@@ -1,7 +1,0 @@
-"Lighting Up My Workspace: Lessons from Building a Custom RGB LED Lamp"
-
-As I embarked on building a custom RGB LED lamp for my home office in 2021, I was excited to dive into the world of electronics and tinkering. My project involved using WS2812B strips, a boost converter, and a logic level shifter - a great opportunity to learn and apply new skills. However, as I began to assemble the components, I hit a roadblock. I was unsure about how to properly ground the DC negative output, and I was concerned about the mounting of sensitive components like the boost converter and logic level shifter.
-
-As I navigated these challenges, I realized that building this lamp was not just about creating a functional piece of lighting, but also about understanding the intricacies of electronics. I learned that proper grounding is crucial to prevent electrical noise and ensure the stability of the circuit. I also discovered that securing components like the boost converter and logic level shifter is vital to prevent damage and overheating.
-
-Through this project, I've gained a deeper appreciation for the complexities of electronics and the importance of attention to detail. The process has been a great learning experience, and I'm excited to apply these lessons to future projects. My custom RGB LED lamp is now a functional and beautiful addition to my workspace, a testament to the rewards of perseverance and creativity in the world of DIY electronics.

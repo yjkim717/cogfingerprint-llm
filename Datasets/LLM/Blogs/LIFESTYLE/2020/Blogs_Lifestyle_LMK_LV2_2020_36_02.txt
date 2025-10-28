@@ -1,3 +1,0 @@
-"Lost in Sync: My Onenote Nightmare"
-
-In 2020, I relied heavily on Onenote to stay organized. But one day, my desktop app showed an empty notebook, while the web and phone versions were up-to-date. After some digging, I discovered that special characters in file names were the culprit. It was a frustrating experience, but a valuable lesson in the importance of being mindful of file naming conventions. Has anyone else encountered a similar issue?

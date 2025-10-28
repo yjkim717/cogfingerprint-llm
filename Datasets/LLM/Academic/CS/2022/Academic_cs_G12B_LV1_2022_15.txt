@@ -1,8 +1,0 @@
-
-## Efficient Prompt Optimization for Large Language Models via Derivative-Free Methods
-
-The increasing prevalence of Language Model as a Service (LMaaS) platforms has democratized access to powerful natural language processing capabilities. However, effectively leveraging these models often necessitates careful prompt engineering, a task that can be computationally expensive and requires specialized expertise. Traditional prompt optimization techniques frequently involve manual iteration or gradient-based methods, which are often infeasible in the LMaaS setting due to the lack of access to model gradients and the high cost of evaluating each prompt. This paper presents a novel, derivative-free optimization framework designed to efficiently tune prompts for large language models deployed via LMaaS. Our approach operates within a lower-dimensional subspace of the prompt embedding space, significantly reducing the search space while maintaining performance. We employ a Bayesian Optimization strategy, specifically utilizing the Expected Improvement acquisition function, to iteratively explore and refine prompt configurations. We demonstrate the efficacy of our framework using the RoBERTa model, evaluating performance on a range of benchmark tasks. Results show that our method achieves comparable or superior performance to manually crafted prompts, while requiring significantly fewer evaluations of the underlying language model. This work offers a practical and scalable solution for prompt optimization in black-box LMaaS environments, enabling broader adoption and improved utilization of these powerful tools.
-
-
-
-**Keywords:** Language Model as a Service, Prompt Engineering, Derivative-Free Optimization, Bayesian Optimization, Prompt Tuning, RoBERTa

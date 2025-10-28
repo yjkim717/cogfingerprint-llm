@@ -1,4 +1,0 @@
-Title: Quantum Dynamics of Collective Vibrational Strong Coupling: Implications for Cavity-Modified Chemical Reactivity
-
-Abstract:
-In 2024, our understanding of vibrational strong coupling (VSC) continues to evolve, particularly in the context of cavity-modified chemical kinetics. This study employs advanced quantum dynamical methods to elucidate the collective VSC regime's impact on chemical reactivity. By examining the intricate interplay between VSC and quantum dynamics, we demonstrate that collective effects significantly influence reactivity, both in and out of equilibrium. Our findings provide new insights into the quantum mechanical underpinnings of cavity-modified chemical kinetics, shedding light on the complex relationships governing VSC-mediated reactivity.

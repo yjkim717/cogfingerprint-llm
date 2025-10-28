@@ -1,8 +1,0 @@
-Author: Yuri Boykov
-Title: Sparse Non-Local CRF With Applications
-Paper ID: 32524a5cafd84036ed3708bd6e7bbe3f39bd7302
-Year: 2024
-Author Index: 11
-
-Abstract:
-CRFs model spatial coherence in classical and deep learning computer vision. The most common CRF is called pairwise, as it connects pixel pairs. There are two types of pairwise CRF: sparse and dense. A sparse CRF connects the nearby pixels, leading to a linear number of connections in the image size. A dense CRF connects all pixel pairs, leading to a quadratic number of connections. While dense CRF is a more general model, it is much less efficient than sparse CRF. In fact, only Gaussian edge dense CRF is used in practice, and even then with approximations. We propose a new pairwise CRF, which we call sparse non-local CRF. Like dense CRF, it has non-local connections, and, therefore, it is more general than sparse CRF. Like sparse CRF, the number of connections is linear, and, therefore, our model is efficient. Besides efficiency, another advantage is that our edge weights are unrestricted. We show that our sparse non-local CRF models properties similar to that of Gaussian dense CRF. We also discuss connections to other CRF models. We demonstrate the usefulness of our model on classical and deep learning applications, for two and multiple labels.

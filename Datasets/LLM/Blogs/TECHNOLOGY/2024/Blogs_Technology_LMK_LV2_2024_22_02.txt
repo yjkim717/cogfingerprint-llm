@@ -1,1 +1,0 @@
-"Rebooting My Rubrik Node: A Fresh Start in 2024. I recently had to factory reset my Rubrik node, wiping out the existing cluster configuration. It was a daunting task, but I was determined to restart from scratch. With the node reset, I felt a sense of renewal, ready to reconfigure and tackle new challenges."

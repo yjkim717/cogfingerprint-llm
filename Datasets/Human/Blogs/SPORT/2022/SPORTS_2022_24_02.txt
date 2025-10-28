@@ -1,5 +1,0 @@
-Year: 2022
-Author: 720hp
-URL: https://www.reddit.com/r/techsupport/comments/wkzzu0/looking_for_ideas_to_fix_usb_boot_issue/
-
-Hi, 2019 Asus Tuf Book FX505 Intel i7 6 core/12 threads BIOS/UEFI updated last month to ver 311 32GB RAM DDR 4 26666 1 TB M.2 NVME SSD 2 TB HDD NVidia 1060 Graphics card Replaced 512GB NVME M.2 Patriot Scorch drive with new Samsung 970 1TB NVME M.2 drive Device boots to USB using Ubuntu USB, Chrome Flex USB but under no circumstances is it booting to a Win10 USB formatted to FAT32 nor to a second USB formatted to NTFS. The UEFI/BIOS sees the USB drives and it also sees the NVME drive as well as the HDD. When booting to a Windows USB, the device only goes to the UEFI/BIOS screen and goes no further. Windows USBs were created using DiskPart while Ubuntu USB was built using Rufus and Chrome Flex was crafted using the Chrome OS plugin for the Chrome browser. Secure Boot is turned off. If I forgot something or you need more info please let me know.

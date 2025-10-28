@@ -1,5 +1,0 @@
-Year: 2023
-Author: drowningfish
-URL: https://www.reddit.com/r/VMwareHorizon/comments/17lefgg/view_admin_console_unable_to_download_remote/
-
-When using Chrome / Edge, my support staff is no longer able to download remote assistance files from the View Console. I have confirmed this behavior across multiple systems. I had to switch everyone over to Firefox for the View Console. Has anyone else seen this issue? Edit: Ok, I dropped the security config in Chrome from Enhanced to Standard and we're able to download RA files again. Checking Edge.

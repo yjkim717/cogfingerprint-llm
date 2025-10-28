@@ -1,5 +1,0 @@
-Okay, here’s a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone, around 72 words, and set in 2020:
-
----
-
-It’s funny how tech, meant to simplify things, can sometimes feel utterly baffling. I was helping a colleague wrestle with the Google Admin Console last year – trying to just *stop* Android devices from constantly syncing with student accounts. Turns out, a tangled web of enterprise policies was the culprit. It really highlighted how deeply intertwined our digital lives have become.

@@ -1,2 +1,0 @@
-Input: The user is inquiring about the current pricing model for Dragonframe, specifically whether it’s now a subscription or if a one-time purchase is still available.
-Output: I get a similar feeling when I think about software subscriptions these days. It’s almost like we’re constantly asked to pay *for* access, rather than for the tool itself.  Is there still room for a solid, straightforward purchase?

@@ -1,5 +1,0 @@
-Year: 2021
-Author: kbbtech
-URL: https://www.reddit.com/r/osx/comments/nqq1p6/10105_to_1011_update_question/
-
-Hi all I've got a client with a macbook running Yosemite 10.10.5. We're trying to update him to at least 10.11. What I've found on line is his macbook should support this and to go to the app store to download 10.11. The problem is, there is nothing available for me to download. Any thoughts on what I need to do? Thanks in advance.

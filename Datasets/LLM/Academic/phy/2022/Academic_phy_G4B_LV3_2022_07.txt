@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract:**
-
-Recent advancements in numerical relativity (NR) provide increasingly accurate simulations of strong-field gravity, specifically black hole scattering events. This work examines the convergence of NR results with post-Minkowskian (PM) theory, a perturbative approach to general relativity. We demonstrate a notable improvement in the agreement between these disparate methodologies through the incorporation of effective-one-body (EOB) radial potentials generated from NR data. These EOB potentials, constructed via a novel analysis of NR scattering trajectories, effectively capture the non-linear gravitational dynamics. Furthermore, we present a reconstruction of a radiation-reacted gravitational potential from the NR simulations, facilitating a direct comparison with PM calculations.  This combined approach offers a valuable pathway for validating and refining PM theory in regimes inaccessible to analytical methods, contributing to a more robust understanding of black hole physics and the fundamental nature of gravity.

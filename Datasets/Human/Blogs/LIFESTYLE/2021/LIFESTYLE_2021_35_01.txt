@@ -1,5 +1,0 @@
-Year: 2021
-Author: leung19
-URL: https://www.reddit.com/r/qnap/comments/quh9ih/ts453be_with_tr004_explain_please/
-
-So I'm currently have 4 x 12TB drive in my TS-453Be, running RAID 5. I mainly use this for my PLEX server. When I run out of room on this NAS, I plan to add a TR-004. Could someone explain or point me to a post/video on how that would work? If I add the TR-004 to my system, what is the best way to set up? &#x200B; I plan to add more 12TB drive as it go on sales, so I will not buy 4 drives all at once. Will it affect how to set up my system? &#x200B; Thanks

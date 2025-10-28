@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, suitable for a medical research context and reflecting a 2020 timeframe:
-
-**Abstract**
-
-The early detection of Alzheimer's Disease (AD) hinges on the identification of robust biomarkers capable of predicting future cognitive decline in cognitively unimpaired (CU) individuals. This study, conducted in 2020, explored the diagnostic and prognostic value of utilizing intermediate amyloid-beta (Aβ) cerebrospinal fluid (CSF) concentrations—defined by a three-range categorization—as predictors of clinical progression to AD. Contrary to prevailing assumptions, we investigated whether individuals exhibiting intermediate Aβ CSF levels possess unique predictive utility. Receiver operating characteristics (ROC) analysis was employed to evaluate the discriminatory power of these intermediate cutoffs. Findings are expected to inform the refinement of biomarker-based diagnostic algorithms and potentially identify individuals at heightened, yet previously unrecognized, risk for AD development, ultimately contributing to earlier intervention strategies.

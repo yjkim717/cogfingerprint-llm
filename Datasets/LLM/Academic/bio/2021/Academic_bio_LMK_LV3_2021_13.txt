@@ -1,4 +1,0 @@
-Title: Unveiling Spatial Heterogeneity in Tonsillitis through Multiplexed Imaging and SpatialViz
-
-Abstract:
-In 2021, advancements in imaging mass cytometry enabled the spatially resolved analysis of multiplexed protein data, revolutionizing the field of single-cell analysis. This study introduces SpatialViz, a novel algorithmic suite designed to dissect the spatial complexities of tissue architectures. By applying SpatialViz to tonsillar tissues, we uncovered distinct cellular organizations and protein expression profiles that differentiate healthy tonsils from those affected by tonsillitis. Our findings demonstrate the utility of SpatialViz in elucidating the spatial heterogeneity underlying diseased states, thereby providing new insights into the pathophysiology of tonsillitis and potentially informing targeted therapeutic strategies.

@@ -1,6 +1,0 @@
-)
-## Abstract
-
-**Adherence to NCCN Guidelines in the Management of Early-Stage Breast Cancer: A Contemporary Review**
-
-This review examines the National Comprehensive Cancer Network (NCCN) guidelines for the management of breast cancer, focusing on the evolving approaches to ductal carcinoma in situ (DCIS) and early-stage invasive breast cancer as of 2022. The NCCN guidelines represent a consensus-driven framework for evidence-based clinical practice, incorporating advancements in surgical techniques, adjuvant therapies, and radiation oncology. This analysis highlights key recommendations regarding risk stratification, surgical options (lumpectomy versus mastectomy), and the utilization of systemic therapies based on hormone receptor status and genomic assays. Furthermore, it considers the integration of novel therapies and the increasing emphasis on shared decision-making between clinicians and patients to optimize individualized treatment strategies and improve patient outcomes in this complex oncological landscape.

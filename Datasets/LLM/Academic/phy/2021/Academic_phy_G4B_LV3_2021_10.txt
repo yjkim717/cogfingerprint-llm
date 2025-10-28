@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a physics publication in 2021:
-
-**Abstract**
-
-This research investigates the dynamics of the hydrogen evolution reaction (HER) on transition metal dichalcogenides (TMDs), specifically 1T’ WSe2 and WTe2, employing grand canonical potential kinetics. Utilizing density functional theory calculations, we elucidate the reaction pathways and critically examine the influence of vacant site configurations on catalytic activity. Our findings demonstrate a strong correlation between the spatial distribution of vacancies and the observed HER kinetics. Notably, optimized vacancy arrangements facilitate lower activation energies, accelerating hydrogen adsorption and subsequent electron transfer. These insights provide a mechanistic understanding of HER on these materials and offer a framework for rational catalyst design.  The study’s results contribute to the broader field of electrocatalysis, informing the development of more efficient hydrogen production strategies, particularly relevant within the context of sustainable energy technologies explored in 2021.

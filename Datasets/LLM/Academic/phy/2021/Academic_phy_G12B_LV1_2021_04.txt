@@ -1,8 +1,0 @@
-
-## Abstract: Probing Internal Geometries and Gauge Algebras in 8D Supergravity via Swampland Constraints
-
-The burgeoning landscape of string phenomenology necessitates robust criteria for identifying effective field theories consistent with quantum gravity. We investigate the application of Swampland constraints, particularly those related to flux stabilization and the cobordism conjecture, to 8D supergravity theories. Utilizing 3-brane probe techniques, we systematically analyze the allowed internal geometries and the resulting restrictions imposed on the associated gauge algebras. Our analysis reveals a strong correlation between the existence of non-trivial internal fluxes and the emergence of gauge algebras that violate known consistency conditions within the Swampland paradigm. Specifically, we demonstrate that certain seemingly viable 8D supergravity models, possessing extended gauge symmetries arising from specific compactifications, are demonstrably inconsistent with the expectation of UV completeness. This work provides a concrete framework for identifying and excluding such models, contributing to the ongoing effort of refining the Swampland program and guiding the construction of phenomenologically relevant string theory models.
-
-
-
-**Keywords:** 8d Supergravity, Swampland Constraints, Cobordism Conjecture, Gauge Algebra, String Phenomenology, Internal Geometry

@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Spin-Decoupled Metasurface for Multidimensional Angular Momentum Detection
-
-Abstract:
-In 2021, advancements in metasurface technology enabled the development of a spin-decoupled metasurface capable of simultaneously detecting spin and orbital angular momenta via photonic momentum transformation. This breakthrough facilitates the recognition of vortex beams with distinct topological charges, thereby enhancing the capacity for high-dimensional optical and quantum information processing. By decoupling spin and orbital angular momenta, this metasurface paves the way for novel applications in optical communication and quantum computing, leveraging the full potential of angular momentum-based encoding.

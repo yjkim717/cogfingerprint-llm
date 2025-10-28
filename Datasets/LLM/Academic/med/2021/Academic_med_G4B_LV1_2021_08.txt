@@ -1,9 +1,0 @@
-Okay, here’s an original academic-style abstract, drawing upon the provided summary and aiming for a formal, precise tone suitable for a 2021 medical publication:
-
-**Abstract**
-
-The management of resected esophageal and gastroesophageal junction (GEJ) cancers remains a significant clinical challenge, with recurrence rates necessitating robust adjuvant therapeutic strategies. Recent advancements in immuno-oncology have explored the potential of checkpoint inhibitors to enhance long-term outcomes. This retrospective cohort study investigated the impact of adjuvant nivolumab, a monoclonal antibody targeting programmed cell death protein 1 (PD-1), on disease-free survival (DFS) in patients undergoing surgical resection for esophageal and GEJ cancers. 
-
-Data were analyzed from a multi-institutional database encompassing patients treated between January 2018 and December 2020. Results demonstrated a statistically significant improvement in median DFS in the nivolumab group (12.8 months; 95% CI: 10.1-15.5) compared to the placebo group (7.3 months; 95% CI: 5.8-8.8) (p < 0.001).  Furthermore, hazard ratio analysis indicated a reduced risk of recurrence and disease progression with nivolumab treatment. 
-
-These findings support the incorporation of adjuvant nivolumab as a promising strategy in the post-surgical management of resected esophageal and GEJ cancers.  Further prospective clinical trials are warranted to define optimal dosing regimens and identify predictive biomarkers for patient response, ultimately aiming to maximize the benefit of this novel checkpoint inhibitor approach.

@@ -1,1 +1,0 @@
-"Stuck in a loop: My M1 MacBook Pro woes. In 2021, I encountered a frustrating kernel error while trying to wipe and reinstall macOS, courtesy of Jamf management. A simple refresh turned into a troubleshooting odyssey. Has anyone else struggled with this? Let's swap stories and find a way out together."

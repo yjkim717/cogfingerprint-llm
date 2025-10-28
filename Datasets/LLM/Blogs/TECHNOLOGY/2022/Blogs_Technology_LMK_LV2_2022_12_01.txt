@@ -1,1 +1,0 @@
-"As I sat in front of my Mac mini in 2022, I wondered: can I adjust my Apple monitor's brightness without digging through the on-screen menu? I discovered that, yes, I can - using MacOS display settings. No more fumbling for the monitor's controls; a simple keyboard shortcut or system preferences did the trick."

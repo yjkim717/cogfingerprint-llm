@@ -1,1 +1,0 @@
-This study investigates how engineered surface Fe sites and Sr vacancies in perovskite catalysts modulate lattice oxygen oxidation pathways to enhance oxygen evolution kinetics. Spectroscopic and electrochemical analyses reveal synergistic electronic effects that lower the overpotential by 120 mV, offering design principles for efficient bio-inspired energy conversion systems.

@@ -1,7 +1,0 @@
-Here's an original academic-style abstract inspired by the provided summary, suitable for a chemistry journal in 2021:
-
-**Abstract**
-
-Recent investigations into the reactivity of formaldehyde have illuminated a previously underappreciated mechanistic pathway involving carbon atoms and amorphous solid water (ASW). This study presents evidence for a catalytic role of ASW’s hydrogen bonding network in facilitating the reaction between elemental carbon and molecular hydrogen, ultimately yielding the formation of hydrogen cyanide (H₂CO). Spectroscopic analysis, employing advanced vibrational techniques, indicates a distinct proton transfer process occurring within the ASW matrix, correlating with the observed carbon activation. 
-
-Specifically, we hypothesize that the highly organized hydrogen bonding structure of ASW stabilizes transition states during this reaction, lowering the activation energy.  Further, the localized polarization of the hydrogen bonds appears to promote the initial carbon-hydrogen bond scission.  These findings challenge conventional models of formaldehyde genesis and suggest a broader utility for ASW as a catalyst in carbon-based chemical transformations.  Further research will focus on quantifying the reaction kinetics and exploring the influence of ASW composition.

@@ -1,3 +1,0 @@
-Back in early 2020, as our team scattered to home offices, I realized our security perimeter had vanished overnight. We were using Office 365 E3, but I kept wondering: could we digitally "fence" access to company data? That's when I discovered geo fencing through Conditional Access—a feature that seemed perfect for our new reality.
-
-But here was the catch: it required Azure AD P1 licenses. Did we need to upgrade every single E3 user? After some digging, I learned it's an all-or-nothing game for policies. This moment crystallized a truth for me: in tech, the gap between standard and advanced tools often hides in licensing fine print, not in the features themselves.

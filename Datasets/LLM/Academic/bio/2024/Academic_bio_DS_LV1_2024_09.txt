@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The pronounced clinical and pathological heterogeneity of Alzheimer's disease (AD) has long confounded the development of effective, universal therapeutics. Recent advances in high-resolution cerebrospinal fluid (CSF) proteomics have enabled a more granular dissection of this complexity. In this study, we performed an unsupervised clustering analysis on CSF proteomic profiles from a large, multi-center cohort, identifying five distinct molecular subtypes of AD. These subtypes exhibit divergent pathophysiological processes, including dysregulation in synaptic plasticity, innate immune activation, protein aggregation, and blood-brain barrier integrity. Crucially, we demonstrate that these proteomically-defined clusters are associated with specific polygenic risk scores and APOE-ε4 allele burden, linking molecular phenotype to genetic architecture. Furthermore, longitudinal analysis revealed subtype-specific trajectories in rates of cognitive decline and brain atrophy. Our findings provide a robust, data-driven framework for stratifying AD, underscoring that the condition is not a monolith but a spectrum of disorders. This paradigm shift is critical for advancing personalized medicine, as it necessitates the alignment of future therapeutic strategies with an individual's specific molecular subtype to improve clinical outcomes.

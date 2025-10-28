@@ -1,5 +1,0 @@
-Year: 2023
-Author: Nuoji
-URL: https://www.reddit.com/r/C_Programming/comments/155jtgi/how_would_you_improve_c_if_you_could_ignore/
-
-I've asked this before, but I was reminded I should ask it again: "If you could improve C, ignoring legacy concerns, what would you add / remove?". Some examples to show what I'm thinking about: - namespacing - better type declaration syntax, esp for functions - defer - slices It would be helpful to know how much you worked with C too (C++ doesn't count!): beginner, intermediate, advanced, expert. Because I conjecture that depending on your level you might have different things you feel is missing. (The question is for a language I am writing)

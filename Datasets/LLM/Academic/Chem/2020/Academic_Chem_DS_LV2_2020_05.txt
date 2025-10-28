@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The formation of complex organic molecules (COMs) on interstellar dust grains is a topic of central importance in astrochemistry, with the hydrogenation of carbon monoxide (CO) being a critical initial step. While traditional models posit that such non-diffusive reactions are quenched at temperatures above ~20 K, recent observational evidence of COMs in cold molecular clouds challenges this paradigm. This study investigates a novel mechanism for the formation of formaldehyde (H₂CO) and methanol (CH₃OH) at elevated temperatures. We demonstrate experimentally that hydrogen atoms can access CO molecules trapped within amorphous solid water (ASW) matrices via surface diffusion through a network of nanopores and cracks inherent to the ASW structure. This "diffusive hydrogenation" pathway remains active at temperatures up to 70 K, significantly higher than previously thought possible. Our results provide a crucial resolution to the longstanding discrepancy between astrochemical models and observations, indicating that the ice mantle's morphology, rather than just its bulk composition, governs reaction efficiency. This porous diffusion model fundamentally alters our understanding of chemical inventory in star-forming regions, suggesting a more ubiquitous and earlier onset of prebiotic molecule synthesis in the interstellar medium.
-
-(199 words)

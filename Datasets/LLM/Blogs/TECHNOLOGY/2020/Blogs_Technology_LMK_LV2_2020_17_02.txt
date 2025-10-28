@@ -1,9 +1,0 @@
-"Securing a Standalone Windows Server 2019: Lessons from the Trenches"
-
-As a software developer, I've seen my fair share of security breaches. So, when a new customer asked me to set up a standalone Windows Server 2019 for their business, I knew I had to get it right. One of their biggest concerns was remote desktop security - and rightly so. With the rise of remote work in 2020, it's more crucial than ever to ensure that our servers are locked down tight.
-
-I started by configuring the server to disable remote desktop connections from the internet. It's a simple step, but one that can make all the difference. Instead, I set up a VPN connection to add an extra layer of security. I also made sure to update the server to the latest version of Windows Server 2019, patching any known vulnerabilities.
-
-Next, I turned my attention to user permissions. I created a new admin account with a complex password and limited access to sensitive areas of the server. I also set up regular password rotations to keep things fresh. And, of course, I made sure to enable Windows Firewall to block any suspicious incoming traffic.
-
-It's funny - securing a server is a bit like locking up your house. You need to think like a burglar and anticipate their next move. By taking a few simple steps, I was able to put my customer's mind at ease. And, as an added bonus, I learned a thing or two about server configuration along the way. If you're setting up a standalone Windows Server 2019, I hope my experience will help you avoid some of the pitfalls.

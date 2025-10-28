@@ -1,5 +1,0 @@
-Year: 2021
-Author: ihatebeinganonymous
-URL: https://www.reddit.com/r/MachineLearning/comments/otgcju/d_is_svmare_kernel_methods_still_relevant/
-
-Hi, I did some research on kernel methods back in 2010-2011 just before deep learning gained momentum. I am wondering whether SVM, especially the non-linear variant(:-|) is still relevant in academia or industry? I have looked in DBLP, and could barely find recent papers other than those just applying SVM to some dataset. Any example (i.e. cases of SVM beating XGboost for example) is more than welcome.

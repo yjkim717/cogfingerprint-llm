@@ -1,9 +1,0 @@
-Okay, here's a blog post draft inspired by the summary, aiming for a conversational tone and around 107 words, set in 2022:
-
----
-
-**Lost in the Ledger: My Francophone Stripe Struggle**
-
-It’s weird, right? As a web developer in 2022, you’d think navigating payment gateways would be straightforward. But I recently found myself wrestling with invoicing a small French company – Siiret, to be exact – and the whole process felt…complicated. They needed specific documentation, and Stripe wasn’t quite cutting it. 
-
-I was thinking about how much simpler things *could* be, and wondering if a sole proprietorship like mine could offer some more tailored solutions. It’s a reminder that tech is amazing, but sometimes the supporting paperwork still feels wonderfully, frustratingly analog.

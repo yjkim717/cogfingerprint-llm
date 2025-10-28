@@ -1,5 +1,0 @@
-Year: 2023
-Author: tmart12
-URL: https://www.reddit.com/r/CFB/comments/148q6br/career_leaders_for_tds_responsible_for_in_cfp_1/
-
-Leveraged the CFP statistics, which have not yet been updated for 2022 Player/Opp|Pass TD|Rush TD|Total TD :---|:--:|:--:|:--: **Stetson Bennett**||| Michigan|3|0|3 Alabama|2|0|2 Ohio St|3|1|4 TCU|4|2|6 Total|12|3|15 ||| **Joe Burrow**||| Oklahoma|7|1|8 Clemson|5|1|6 Total|12|2|14 ||| **Trevor Lawrence**||| Notre Dame|3|0|3 Alabama|3|0|3 Ohio State|2|1|3 LSU|0|1|1 Ohio State|2|1|3 Total|10|3|13 ||| **Deshaun Watson**||| Oklahoma|1|1|2 Alabama|4|0|4 Ohio St|1|2|3 Alabama|3|1|4 Total|9|4|13 ||| **Mac Jones**||| Notre Dame|4|0|4 Ohio St|5|0|5 Total|9|0|9 ||| **Tua Tagovailoa**||| Georgia|3|0|3 Oklahoma|4|0|4 Clemson|2|0|2 Total|9|0|9 ||| **Justin Fields**||| Clemson|1|0|1 Clemson|6|0|6 Alabama|1|0|1 Total|8|0|8

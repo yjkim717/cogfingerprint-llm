@@ -1,9 +1,0 @@
-"Unraveling the Math Behind Linear Regression: A Personal Journey"
-
-As I dove into the world of machine learning in 2023, I became fascinated with the concept of linear regression. On the surface, it seems straightforward – a simple algorithm that predicts a continuous output variable based on one or more input features. But, as I dug deeper, I realized that the underlying math was far more complex. I was determined to understand the calculus that drives linear regression, but it wasn't easy.
-
-My struggles began with the cost function, a crucial component that measures the difference between predicted and actual values. I knew I needed to apply calculus rules to minimize this function, but the chain rule and power rule, which I thought I grasped, suddenly seemed fuzzy. As I worked through the derivations, I found myself getting tangled in partial derivatives and notation.
-
-I spent hours wrestling with the math, feeling like I was making progress, only to hit a roadblock. But with each iteration, the concepts began to click into place. I started to appreciate the beauty of how the chain rule and power rule work together to simplify the optimization process. The partial derivatives, once a source of frustration, became a powerful tool for understanding how the cost function changes with respect to the model's parameters.
-
-As I finally grasped the mathematical underpinnings of linear regression, I felt a sense of accomplishment. It was a reminder that, even in the age of high-level libraries and frameworks, understanding the underlying math is essential to truly mastering machine learning concepts. My journey may have been frustrating at times, but it was worth it – and I hope to continue exploring the fascinating world of ML.

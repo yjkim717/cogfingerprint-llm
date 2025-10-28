@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, suitable for a 2023 publication:
-
-**Abstract**
-
-Recent advancements in neural network architectures, notably the Whisper model, have spurred interest in real-time speech processing. However, achieving low-latency transcription, particularly for streaming applications, remains a significant challenge. This work introduces Whisper-Streaming, a novel system designed to address this limitation. By employing a modified streaming inference pipeline and optimized quantization techniques, Whisper-Streaming leverages the core Whisper model to deliver near-instantaneous transcription and translation. Empirical evaluation demonstrates a substantial reduction in latency compared to standard Whisper processing, facilitating practical applications such as live captioning and remote interpretation.  Further analysis reveals a trade-off between latency and transcription accuracy, informing future research towards enhanced performance and robustness in real-time speech recognition systems.  The results highlight the potential of Whisper-Streaming for diverse communication technologies.

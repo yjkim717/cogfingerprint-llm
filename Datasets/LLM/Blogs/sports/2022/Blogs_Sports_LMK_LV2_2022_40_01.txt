@@ -1,5 +1,0 @@
-def generate_reflective_blog_post():
-    return """As I stepped up to the par-3 on that sunny afternoon in 2022, I had no idea what was about to unfold. Golfing with my buddy, we had been trading stories and jokes all round, but as I took my shot, the focus shifted. The ball soared through the air, landing with a soft thud on the green. I was left stunned, the ball mere feet from the hole. My buddy's jaw dropped as I sunk the birdie putt, my second ever. It was more than just a great shot - it was a reminder that sometimes, everything comes together. The right mindset, the perfect swing, and a dash of luck. As I walked off the green, beaming with pride, I knew this was a golfing memory I'd cherish forever."""
-
-
-print(generate_reflective_blog_post())

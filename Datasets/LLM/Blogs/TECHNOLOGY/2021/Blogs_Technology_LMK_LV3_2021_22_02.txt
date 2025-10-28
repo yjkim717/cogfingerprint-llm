@@ -1,9 +1,0 @@
-**Tackling the Hidden Menace in Your VMware Horizon View Cluster**
-
-As I dug into the logs of our VMware Horizon View cluster in early 2021, I stumbled upon a capacity issue that had been quietly brewing. The error message pointed to a component limit being reached on our vSAN datastore. At first glance, it seemed like a straightforward case of running out of storage space. However, as I began to investigate, I discovered a more insidious problem - a large number of unassociated VMDK files lingering in our environment.
-
-These orphaned files were not only consuming valuable storage capacity but also causing our vSAN to hit its component limit, bringing our cluster to its knees. I was surprised to find that these files were leftovers from past virtual machine provisioning and de-provisioning activities. Over time, they had accumulated, unnoticed, and were now causing a significant headache.
-
-As I worked to identify and remove these unnecessary files, I realized that this issue was not unique to our environment. Many organizations using VMware Horizon View might be facing similar challenges, silently struggling with capacity issues. The key takeaway from my experience is the importance of regular housekeeping and monitoring in virtualized environments. By staying on top of unassociated VMDK files and other digital detritus, we can avoid capacity issues and ensure the smooth operation of our infrastructure.
-
-In reflecting on this experience, I'm reminded that sometimes the most significant problems can arise from the most unexpected places. By sharing my story, I hope to help others avoid similar pitfalls and keep their VMware Horizon View clusters running smoothly.

@@ -1,5 +1,0 @@
-Year: 2024
-Author: forwardslashroot
-URL: https://www.reddit.com/r/Proxmox/comments/1hao87z/did_i_get_faulty_intel_x520da2_cards/
-
-I finally got a chance to work on my MS-01 build. I installed Intel X520-DA2 and installed Proxmox. When I plugged in my SFP+, I didn't see the red light coming out of SFP. The SFP+ is multi-mode so I should see a red light. I plugged the same SFP+ to the built-in 10G ports and I could see the red light from the SFP+. Proxmox could see the X520-DA2, but when I plugged in the SFP+, and ran the `ethtool -m enp1s0f0` I got `netlink error: Input/output error.` I tried to blink the NIC with `ethtool -p enp1s0f0` and nothing. Does this mean that I have faulty X520-DA2 cards? I purchased three of these X520 and only one that blink for me with `ethtool -p` command. On the same card, the second NIC, didn't blink.

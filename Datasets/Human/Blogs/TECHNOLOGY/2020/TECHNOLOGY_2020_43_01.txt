@@ -1,5 +1,0 @@
-Year: 2020
-Author: Goldziher
-URL: https://www.reddit.com/r/AZURE/comments/iooz7b/vpn_to_third_party_service_using_azure/
-
-Hi people, I need some advice - I have a server deployed to azure and I need to securely communicate with a 3rd party service using a tcp socket. That 3rd party service requires I establish a vpn tunnel to it. Is it possible for me to use azure to create a vpn to a 3rd party service? I was looking for the docs but wasnt sure what exactly I am looking for.

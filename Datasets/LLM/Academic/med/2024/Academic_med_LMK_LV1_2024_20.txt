@@ -1,9 +1,0 @@
-Title: Integrating Germline Mutation Testing into Breast Cancer Management: A Paradigm Shift Guided by ASCO-SSO Guidelines
-
-Abstract:
-
-The advent of precision medicine has revolutionized the management of breast cancer, with germline mutation testing emerging as a crucial diagnostic tool. The American Society of Clinical Oncology (ASCO) and the Society of Surgical Oncology (SSO) have issued guidelines recommending BRCA1/2 testing for patients with breast cancer based on specific criteria, including age, personal and family history, and eligibility for targeted therapies. As of 2024, the implementation of these guidelines has significantly impacted clinical practice, enabling healthcare providers to identify individuals at high risk of hereditary breast cancer and tailor treatment strategies accordingly.
-
-Germline mutation testing for BRCA1 and BRCA2 genes has been shown to inform surgical decision-making, facilitate risk-reducing interventions, and improve patient outcomes. Moreover, the expanding panel of cancer susceptibility genes has underscored the importance of comprehensive genetic counseling in the context of germline testing. This involves pre-test risk assessment, post-test interpretation of results, and discussion of implications for patients and their families.
-
-The integration of germline mutation testing into breast cancer management necessitates a multidisciplinary approach, involving oncologists, surgeons, genetic counselors, and other healthcare professionals. As the field continues to evolve, ongoing research is focused on refining testing criteria, elucidating the clinical significance of variants of uncertain significance, and developing novel therapeutic strategies targeting germline mutations. By embracing the principles outlined in the ASCO-SSO guidelines, clinicians can optimize the care of patients with breast cancer and advance the field of precision oncology.

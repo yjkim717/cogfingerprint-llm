@@ -1,5 +1,0 @@
->## The Strange Magic of Hearing a Computer Speak
-
-It's 2020, and I'm diving deep into the world of vocal synthesis. Specifically, Tacotron 2. It feels like something straight out of a sci-fi movie, doesn't it? The idea that you can feed text into a program and *hear* it spoken with a semblance of human emotion… it’s pretty mind-blowing. 
-
-I've been scouring GitHub for beginner-friendly repos, wrestling with the code, and honestly, feeling a little overwhelmed but also utterly fascinated. There's a strange magic in coaxing a machine to mimic the nuances of human speech. It's a journey, and I’m excited to see where it leads! Anyone else exploring this fascinating space?

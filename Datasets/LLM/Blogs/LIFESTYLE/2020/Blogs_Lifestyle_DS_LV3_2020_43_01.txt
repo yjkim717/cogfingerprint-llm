@@ -1,7 +1,0 @@
-It’s 2020, and I’m sitting at my kitchen table, laptop open, building yet another React app. I’ve spent hours meticulously planning the user journey, mapping out every click and hover state. But then I paused, my cursor hovering over the routing logic. Do we really need all these URLs?
-
-I started thinking about my own habits. When was the last time I typed a full URL into my browser’s address bar for a complex web app? Honestly, hardly ever. We live in a world of single-page applications, where a seamless flow from one screen to the next is the expectation. We don’t navigate by typing; we navigate by clicking, scrolling, and tapping. The URL bar often feels like a relic, a vestige of a web that was more about documents than experiences.
-
-Sure, there are moments—like when I want to share a specific article or a friend’s profile—that a direct link is invaluable. But for the daily, organic journey through an app? The path is rarely linear. We meander. We explore. We get lost in the experience, and that’s part of the magic.
-
-So, as I sip my coffee, I wonder if we’re over-engineering for the exception rather than designing for the natural flow of human curiosity. Maybe the real journey isn’t in the address bar, but in the spaces between the clicks.

@@ -1,3 +1,0 @@
-"Type Tango: Unraveling Kotlin's Generic Infix Enigma"
-
-As I dove into Kotlin in 2023, I stumbled upon a head-scratcher: why didn't the compiler enforce type checking for my generic infix function? I crafted a simple example, expecting the compiler to flag a type mismatch. But it didn't. I dug deeper, exploring the nuances of Kotlin's type system and the subtleties of infix functions. This journey not only clarified the 'why' behind this behavior but also taught me to appreciate Kotlin's intricacies. Let's unravel this enigma together and uncover the intricacies of Kotlin's type checking.

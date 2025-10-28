@@ -1,7 +1,0 @@
-It’s 2022, and I’m still wrestling with the same old habit: rushing. In the world of IT, speed often feels like the ultimate goal—push the code, close the ticket, move to the next task. But lately, I’ve noticed the cost of prioritizing quantity over quality.
-
-Just last week, I hurried through a deployment, only to spend the next two days fixing preventable bugs. The irony? I knew better. I’d even set aside time for reflection, but in the moment, urgency took over. Now, I’m left with that familiar pang of regret, replaying the oversight in my mind.
-
-What’s worse is the forgetfulness that comes with haste. I’ll skim documentation or skip double-checking a colleague’s referral, assuming I’ve got it all down. But assumptions in tech are like cracks in a foundation—they don’t stay hidden for long.
-
-So here’s my reminder to myself, and maybe to you: Slow down. Breathe. Quality isn’t just a buzzword—it’s what keeps us from repeating the same mistakes. Because in the rush to move forward, we sometimes forget where we’re really going.

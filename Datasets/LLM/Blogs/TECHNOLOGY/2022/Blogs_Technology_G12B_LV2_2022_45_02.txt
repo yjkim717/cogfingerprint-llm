@@ -1,5 +1,0 @@
-
-
-## The Allure of Low-Level, and the Quest for Safe WASM
-
-There's something deeply satisfying about getting close to the metal, isn't there? Lately, I've been diving into WebAssembly (WASM) and the fascinating world of WASM IR. The challenge? Generating it safely in Rust. I'm toying with the idea of crafting a little DSL and using pest.rs for parsing - a bit ambitious, maybe, but the potential for elegant opcode generation is really exciting! It feels like a journey into the heart of how code *really* works.

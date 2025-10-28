@@ -1,5 +1,0 @@
-It’s funny how a simple upgrade can feel like a crossroads. Last year, I was staring at my trusty H470 motherboard, wondering if I could squeeze just a little more life out of it. My old i5 was starting to wheeze in newer games, but the thought of a full platform swap—new board, new RAM—felt overwhelming and expensive.
-
-So, I dove into the research rabbit hole. The H470, bless its heart, has limits, especially with memory speed. But I found a perfect match: a newer 10th or 11th Gen i5. It wasn’t about chasing the highest benchmark numbers; it was about a smart, budget-friendly boost.
-
-Sliding that new CPU in felt like giving an old friend a second wind. The frames were smoother, the load times quicker. It was a quiet victory, a reminder that sometimes the best upgrade isn’t the flashiest one—it’s the one that fits just right.

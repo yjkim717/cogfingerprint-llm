@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2020 publication in chemistry:
-
-**Abstract:**
-
-The mechanisms governing hydrogen incorporation into carbonaceous materials remain a critical area of investigation, particularly within the context of astrophysical simulations. This work examines diffusive hydrogenation of carbon monoxide (CO) within amorphous solid water (ASW) under elevated thermal conditions. Utilizing a controlled co-hydrogenation experiment, we observed remarkably efficient reaction kinetics commencing at temperatures exceeding 20 K. These enhanced rates are attributed to facilitated hydrogen diffusion – specifically, through pre-existing microcracks and porosity within the ASW matrix.  The observed behavior strongly suggests that ASW, analogous to interstellar dust grains, provides a viable model for simulating early planetary atmospheres and the delivery of hydrogen to nascent planetary bodies. Future research will focus on quantifying hydrogen diffusion pathways and correlating these findings with spectroscopic data obtained from observational astronomy.

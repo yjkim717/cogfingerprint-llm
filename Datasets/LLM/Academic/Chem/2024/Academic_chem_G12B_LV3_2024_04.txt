@@ -1,5 +1,0 @@
- Here's an academic-style abstract, inspired by the provided summary and keywords, written in the style of a 2024 publication:
-
-**Abstract**
-
-Recent advances in cavity quantum electrodynamics (cQED) have enabled the exploration of vibrational strong coupling regimes in chemical systems, presenting opportunities to manipulate reaction dynamics. This work investigates the impact of such strong coupling on chemical kinetics, employing novel quantum dynamical simulations to model reacting species within optical cavities. Our findings demonstrate that while equilibrium rate constants remain largely unaffected by the presence of the cavity, non-equilibrium reactivity is significantly altered. Specifically, resonant cavity modification induces deviations from traditional kinetic trajectories, impacting product distributions and reaction timescales under out-of-equilibrium conditions. These results highlight a crucial distinction between equilibrium and non-equilibrium behavior in coupled vibrational-cavity systems and offer a pathway toward controlled reactivity modification through quantum effects, with implications for areas spanning catalysis and photochemistry.

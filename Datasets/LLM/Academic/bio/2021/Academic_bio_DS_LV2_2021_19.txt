@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract in the field of bio-inspired chemistry, based on the provided summary and contextualized for 2021.
-
-***
-
-**Abstract**
-
-The oxygen evolution reaction (OER) remains a critical bottleneck in electrochemical water-splitting technologies for sustainable hydrogen production. Drawing inspiration from the oxygen-evolving complex in Photosystem II, which utilizes a Mn4CaO5 cluster modulated by organic residues, we investigate the role of carboxylate ligands in enhancing the electrocatalytic activity of inorganic-organic hybrid materials. This study demonstrates that the strategic incorporation of carboxylate-based linkers into metal-organic framework (MOF) and layered double hydroxide (LDH) composite systems significantly boosts OER performance. Through a combination of spectroscopic and electrochemical analyses, we elucidate a multi-faceted enhancement mechanism. The carboxylate ligands facilitate electron redistribution within the metal-oxo clusters, stabilizing high-valence nickel (Ni³⁺/⁴⁺) species that are pivotal as the active sites for OER. Furthermore, the proximal carboxylate groups function as proton-accepting sites, effectively accelerating the proton-coupled electron transfer kinetics. These findings, established in 2021, provide a fundamental design principle for engineering next-generation bio-inspired electrocatalysts, where organic components are not merely structural scaffolds but dynamic participants in the catalytic cycle.

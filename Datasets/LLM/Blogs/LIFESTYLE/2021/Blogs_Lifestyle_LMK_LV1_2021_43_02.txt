@@ -1,1 +1,0 @@
-As I spent hours gaming in 2021, I realized I needed a better way to track my favorite titles. A comprehensive video game dataset with metadata like posters, genres, and developers would be a dream come true. Is there a dataset out there that can keep up with the latest releases?

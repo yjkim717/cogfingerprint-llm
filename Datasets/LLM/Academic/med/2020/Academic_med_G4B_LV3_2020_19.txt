@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords:
-
-**Abstract**
-
-The 2020 NCCN Guidelines represent a critical update to the management of rectal cancer, incorporating refinements in diagnostic criteria and advocating for intensified neoadjuvant chemoradiotherapy regimens for a broader patient population.  A central theme is the increasing integration of biomarker-targeted therapies, driven by advancements in genomic profiling. Specifically, the guidelines highlight the substantial role of *BRAF* V600e mutation status in predicting response to neoadjuvant therapy and informing treatment decisions.  This mutation confers a high likelihood of benefit from targeted therapies, necessitating comprehensive molecular testing prior to initiating neoadjuvant treatment.  Furthermore, the updated recommendations underscore the importance of utilizing NCCN guidelines in conjunction with emerging biomarker data to personalize treatment strategies.  Continued research focusing on identifying additional predictive biomarkers will undoubtedly refine patient stratification and optimize outcomes in this challenging disease.

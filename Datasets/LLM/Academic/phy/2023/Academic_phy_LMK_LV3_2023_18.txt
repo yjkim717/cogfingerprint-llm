@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract:
-
-"In this 2023 study, we demonstrate a compact six-beam magneto-optical trap for neutral strontium atoms using a polarization-multiplexed metasurface and topology-optimized metagratings, simplifying the optical configuration and eliminating bulk optics, thereby advancing the field of atomic physics."

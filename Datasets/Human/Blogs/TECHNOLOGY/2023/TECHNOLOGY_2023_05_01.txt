@@ -1,5 +1,0 @@
-Year: 2023
-Author: tfburns
-URL: https://www.reddit.com/r/MachineLearning/comments/10ezqa8/d_how_much_can_you_addchange_in_a_camera_ready/
-
-Fingers and toes crossed I might have a paper accepted at ICLR, and I'm wondering how much I can add/change in the camera ready version. Typos and exposition for clarity, I assume are fine to add/change. And in some cases I have seen meta-reviews say "please address comments XYZ in the camera ready version", so I assume there is a lot of leeway. But in the absence of such a comment or comments in particular about something you should change, is it okay to change/add stuff? And if so to what degree (while keeping to the page limit).

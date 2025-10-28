@@ -1,5 +1,0 @@
-"Exploring Cavity-Modified Chemical Kinetics under Vibrational Strong Coupling"
-
-Abstract:
-
-In this study, we investigate the impact of vibrational strong coupling (VSC) on chemical kinetics within an optical cavity using quantum dynamical methods. Focusing on the collective VSC regime, our analysis reveals the intricate interplay between cavity modes and molecular vibrations, leading to modifications in reaction rates. By employing a rigorous quantum mechanical framework, we elucidate the underlying mechanisms governing cavity-modified chemical kinetics. Our findings provide insight into the role of VSC in shaping chemical reactivity, shedding light on potential applications in controlling chemical reactions via cavity quantum electrodynamics in 2024 and beyond.

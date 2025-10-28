@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Quantum Dynamics of Collective Vibrational Strong Coupling: Implications for Chemical Kinetics
-
-Abstract: This study explores the impact of vibrational strong coupling (VSC) on chemical kinetics within an optical cavity using quantum dynamical methods. Focusing on the collective VSC regime, we investigate the cavity-modified reaction rates and pathways. Our results demonstrate the significant influence of VSC on chemical reactivity, highlighting the role of quantum fluctuations and correlations. The findings provide new insights into the mechanisms governing VSC-modified chemical kinetics, shedding light on the potential applications of cavity quantum electrodynamics in controlling chemical reactions. (2024)

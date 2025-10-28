@@ -1,5 +1,0 @@
-Of course. Here is an original text inspired by the technical summary.
-
-***
-
-The debugger spat out the dreaded phrase: `Segmentation fault (core dumped)`. I stared at the assembly code, convinced my logic was sound. I was just moving a simple constant into the `%rax` register. After an hour of head-scratching, I realized my folly: I had been assembling without linking, creating an incomplete executable. It was a humbling reminder that in programming, as in life, skipping a fundamental step, no matter how small, can bring everything crashing down.

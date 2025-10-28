@@ -1,8 +1,0 @@
-Author: Arkajit Mandal
-Title: Investigating the collective nature of cavity-modified chemical kinetics under vibrational strong coupling
-Paper ID: d3f4aaa18a4d0ac783fa1bd89b381a64cadcd82b
-Year: 2024
-Author Index: 12
-
-Abstract:
-Abstract In this paper, we develop quantum dynamical methods capable of treating the dynamics of chemically reacting systems in an optical cavity in the vibrationally strong-coupling (VSC) limit at finite temperatures and in the presence of a dissipative solvent in both the few and many molecule limits. In the context of two simple models, we demonstrate how reactivity in the collective VSC regime does not exhibit altered rate behavior in equilibrium but may exhibit resonant cavity modification of reactivity when the system is explicitly out of equilibrium. Our results suggest experimental protocols that may be used to modify reactivity in the collective regime and point to features not included in the models studied, which demand further scrutiny.

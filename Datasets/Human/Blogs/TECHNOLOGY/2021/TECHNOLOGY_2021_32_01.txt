@@ -1,5 +1,0 @@
-Year: 2021
-Author: tonyboy101
-URL: https://www.reddit.com/r/homelab/comments/q73cw1/mikrotik_crs354_swos/
-
-As soon as I found out about this switch, I had to have it. I knew a lot of things about MikroTik's environment and love the home routers. However, as soon as I got my hands on it, I found out the switch only ran RouterOS, at the time. Now it has been a while and SwOS 2.13 has been released and I want to run it. However, I am running it in production as my primary switch. Does anyone have a running MikroTik CRS354 running SwOS? Update Dec. 4, 2021: I have successfully switched the system to SwOS. It is a better interface than RouterOS, for this case. I still like the features of RouterOS, it is just clunky when it comes to managing 52+ interfaces and figuring out how to prevent VLANs from using a port (trunk to hypervisors).

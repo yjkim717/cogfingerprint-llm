@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract reflecting the provided summary and contextualized for 2023.
-
-***
-
-**Abstract**
-
-The increasing demand for trustworthy and reliable machine learning has elevated the importance of formal guarantees on algorithmic behavior. This work establishes a unified framework connecting three pivotal notions in this domain: replicability, differential privacy, and algorithmic stability. While these concepts have been studied independently, their intrinsic relationships and comparative power for solving fundamental statistical problems have remained underexplored. We demonstrate that differential privacy, a rigorous standard for data privacy, directly implies replicability—the property that an algorithm outputs identical results with high probability when run on two different samples from the same distribution. Furthermore, we formalize the connections between these notions and the classical concept of algorithmic stability, which bounds the influence of any single data point on the output.
-
-Leveraging these connections, we provide a suite of statistical reductions, showing how algorithms satisfying one guarantee can be transformed to satisfy another, thereby enabling the porting of positive results across these different paradigms. Crucially, we also identify computational separations, proving that for certain learning tasks, replicable algorithms require computationally harder problems than their differentially private counterparts, assuming standard cryptographic conjectures. These separations delineate the inherent trade-offs between replicability, privacy, and computational efficiency. Our results provide a cohesive landscape for understanding the interplay of these guarantees, offering new pathways for designing algorithms that are simultaneously private, stable, and replicable.

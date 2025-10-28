@@ -1,5 +1,0 @@
->## The M1 Mac and the Ghost of Disk0
-
-It’s funny how a simple task can turn into a multi-hour troubleshooting saga. Last week, I was tasked with a macOS reinstall on a freshly wiped M1 MacBook Pro – standard procedure, right? Not so much. We were using Jamf for management, and despite everything looking correct, the installer kept failing.
-
-The error pointed to disk access, specifically something about "disk0" not being recognized. After a deep dive into forums and Apple support articles, the realization hit: the M1 architecture handles disk management differently. It was a humbling reminder that even with years of experience, new tech throws curveballs. Eventually, a specific boot flag resolved the issue, and we were back on track. A valuable lesson learned about adapting to the ever-evolving world of Apple devices.

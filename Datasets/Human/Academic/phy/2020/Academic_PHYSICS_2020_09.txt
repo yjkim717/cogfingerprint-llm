@@ -1,8 +1,0 @@
-Author: H. Peiris
-Title: Strong Bound on Canonical Ultralight Axion Dark Matter from the Lyman-Alpha Forest.
-Paper ID: 7eaf8f75dc44a8dc63eaa64d15366a6e673dd973
-Year: 2020
-Author Index: 9
-
-Abstract:
-We present a new bound on the ultralight axion (ULA) dark matter mass m_{a}, using the Lyman-alpha forest to look for suppressed cosmic structure growth: a 95% lower limit m_{a}>2×10^{-20}  eV. This strongly disfavors (>99.7% credibility) the canonical ULA with 10^{-22}  eV<m_{a}<10^{-21}  eV, motivated by the string axiverse and solutions to possible tensions in the cold dark matter model. We strengthen previous equivalent bounds by about an order of magnitude. We demonstrate the robustness of our results using an optimized emulator of improved hydrodynamical simulations.

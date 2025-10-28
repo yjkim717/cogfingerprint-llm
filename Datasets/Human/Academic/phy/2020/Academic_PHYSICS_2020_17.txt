@@ -1,8 +1,0 @@
-Author: Yinghui Guo
-Title: Crosstalk reduction of integrated optical waveguides with nonuniform subwavelength silicon strips
-Paper ID: b8a10a875b5bd5c0d00b1abc900dad133c2e759c
-Year: 2020
-Author Index: 17
-
-Abstract:
-Suppression of the crosstalk between adjacent waveguides is important yet challenging in the development of compact and dense photonic integrated circuits (PICs). During the past few years, a few of excellent approaches have been proposed to achieve this goal. Here, we propose a novel strategy by introducing nonuniform subwavelength strips between adjacent waveguides. In order to determine the widths and positions of nonuniform subwavelength strips, the particle swarm optimization (PSO) algorithm is utilized. Numerical results demonstrate that the coupling length between adjacent waveguides is increased by three (five) orders of magnitude in comparison with the case of uniform (no) subwavelength strips. Our method greatly reduces crosstalk and is expected to achieve a highly compact integrated density of PICs.

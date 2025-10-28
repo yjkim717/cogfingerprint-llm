@@ -1,4 +1,0 @@
-Title: Spatiotemporal Engineering of Ultrafast Pulses via Metasurface-Mediated Fourier Synthesis
-
-Abstract:
-We demonstrate a novel metasurface-based approach for synthesizing ultrafast optical pulses with arbitrary spatiotemporal control. By harnessing the capabilities of metasurfaces in a Fourier transform setup, we achieve precise manipulation of structured light. This technique enables the generation of complex optical fields with tailored amplitude, phase, and polarization profiles. Our method leverages the ultrafast response of metasurfaces to control nonlinear optical interactions, paving the way for advancements in ultrafast optics and applications in high-field physics and spectroscopy. The proposed framework offers a versatile platform for exploring the intricacies of spatiotemporal coupling in nonlinear optical phenomena. (2022)

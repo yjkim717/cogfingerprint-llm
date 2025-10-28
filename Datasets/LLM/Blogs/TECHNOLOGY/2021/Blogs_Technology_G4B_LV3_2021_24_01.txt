@@ -1,7 +1,0 @@
-Okay, here’s a blog post draft based on your summary and style guidelines:
-
----
-
-**The Phantom Flicker**
-
-I’ve been wrestling with something frustrating lately in *Apex Legends*. I’m consistently landing good shots, building solid pushes – everything feels right in other games. But in Matchmaking, I’m constantly missing opponents. It’s like they’re… flickering. I’ve been obsessing over tick rate, trying to understand how different servers are messing with my tracking. It’s a weird, unsettling feeling, this disconnect between my skill and the game’s responsiveness. Makes you wonder if we’re truly in sync, doesn’t it?

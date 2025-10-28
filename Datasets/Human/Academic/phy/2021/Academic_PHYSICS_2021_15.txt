@@ -1,8 +1,0 @@
-Author: Liting Yang
-Title: A Low Strain A‐Site Deficient Perovskite Lithium Lanthanum Niobate Anode for Superior Li+ Storage
-Paper ID: 7fec5b4ff76e5b9558283446eb875baa1fd8a12b
-Year: 2021
-Author Index: 15
-
-Abstract:
-The oxide perovskite family holds great promise for diverse applications on account of their unique chemical and physical properties. However, owing to the inadequate Li+‐storage sites, the insertion‐type perovskite anodes for lithium‐ion batteries (LIBs) are limited. A‐site deficient perovskites with rich intrinsic vacancies and ion transport channels are believed to be the desirable hosts of superior Li+ storage. Herein, the perovskite Li0.1La0.3NbO3 (LLNO) is designed and demonstrated as the remarkable anode for LIBs with a high specific capacity, a safe operating voltage, an excellent rate performance, and a long cycling life. More importantly, the outstanding cycling stability of LLNO is originated from its low strain characteristic with a maximum volume change of only 1.17%. The exceptional rate performance can be explained by the unconventional Li+ transport pathways with external → grain boundaries → lattice deficiencies. These results not only reveal that A‐site deficient perovskite LLNO is a promising anode for LIBs but also provide fundamental insights into the Li+ ions transport mechanism, facilitating the development of high‐performance perovskite anodes.

@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, suitable for a 2022 publication in a bio-related field:
-
-**Abstract**
-
-This systematic review examines the relationship between iron deficiency anemia (IDA) and neurocognitive function in adult women. Utilizing data from studies conducted in 2021-2022, we investigated the effect of IDA on event-related potentials (ERPs), specifically focusing on the P300 wave – a key marker of attentional and cognitive processing. Results demonstrate a significant inverse correlation between IDA severity and P300 latency, alongside reduced amplitude.  Furthermore, interventions aimed at correcting IDA, notably through iron supplementation, were associated with demonstrable improvements in P300 parameters. These findings suggest that alterations in P300 dynamics may serve as a sensitive indicator of cognitive impairment associated with IDA.  The study highlights the potential of P300-based cognitive assessments as a non-invasive tool for early detection of cognitive decline, warranting further investigation into the neurobiological mechanisms underlying this association.

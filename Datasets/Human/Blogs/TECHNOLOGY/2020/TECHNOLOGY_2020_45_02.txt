@@ -1,5 +1,0 @@
-Year: 2020
-Author: mikaball
-URL: https://www.reddit.com/r/gameideas/comments/idxo7c/a_browserbased_game_where_you_compose_your_own/
-
-Is there any game in the style of OGame where you can compose your own units by attaching engines, weapons, power sources, etc? The idea is to use sockets that define the rules how those components can be mounted. These components will affect the properties of the ship, such as weight, thrust power, fire power, etc. I thought about using graphs and curves to define the working regime of each component and use a node composer (like blender nodes). This could lead to complexity explosion and very flexible ways of optimizing your units for the envisioned task. The idea is for player to craft their units as blueprints and sell them or produce them at a factory. I have other innovative ideas on how players can even create their own components and sell them, but I cannot disclose this information, since I'm pretty sure it doesn't exists and it's a complete game changer.

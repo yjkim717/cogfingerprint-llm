@@ -1,3 +1,0 @@
-## Are Our Apps *Really* What They Seem?
-
-It’s 2022, and we rely on technology more than ever. But lately, I've been pondering something: how much of what our devices *do* is truly built-in, versus a constant stream of updates, tweaks, and reactive adjustments? Like a cell's proteome – are our apps a direct reflection of their initial code, or a complex product of ongoing "modifications" reacting to our usage? It's a strangely fascinating thought.

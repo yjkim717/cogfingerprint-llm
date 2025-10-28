@@ -1,5 +1,0 @@
-It’s 2021, and I’ll admit it: I’m tired of the minimalist hype. For years, I chased the dream of the perfectly stripped-down tiling window manager, convinced that configuring every status bar and hotkey from scratch was the path to enlightenment.
-
-Then, reality hit. Life got busy. I found myself longing for something that just worked, with modern features baked right in—system monitoring, a clean status bar, sensible defaults. I gave dwm a solid try, but I kept thinking, "Why does convenience have to be the enemy of power?"
-
-So, I’ve started looking for a tiling WM that doesn’t treat usability as a compromise. Something that respects my time while still giving me control. Maybe, in this hybrid world, the real productivity hack isn’t more configuration, but a little more peace of mind.

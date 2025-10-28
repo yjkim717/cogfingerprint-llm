@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords:
-
-**Abstract**
-
-The increasing prevalence of pediatric brain tumors necessitates advancements in diagnostic and therapeutic strategies.  The CBTN-CONNECT-DIPGR-ASNR-MICCAI BraTS-PEDs 2023 challenge represents a critical step toward addressing this need, establishing the inaugural BraTS competition dedicated to the automated segmentation of pediatric brain tumor lesions. Utilizing Multi-parametric Magnetic Resonance Imaging (MP-MRI), this initiative centers on improving the accuracy and robustness of segmentation algorithms – a crucial component of clinical trial design and personalized treatment planning.  Specifically, the challenge focuses on gliomas, the most common pediatric brain tumor subtype.  Success in this competition will contribute directly to enhanced diagnostic precision, facilitating more effective patient stratification and ultimately, improved neuro-oncology outcomes for children.  The results generated will fuel further research into novel segmentation methodologies and inform the development of clinically viable tools.

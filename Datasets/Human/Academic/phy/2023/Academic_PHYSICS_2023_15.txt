@@ -1,8 +1,0 @@
-Author: Liting Yang
-Title: Sodium Niobate with a Large Interlayer Spacing: A Fast‐Charging, Long‐Life, and Low‐Temperature Friendly Lithium‐Storage Material
-Paper ID: f05d7e2b750192e338d4af989060366450861e7a
-Year: 2023
-Author Index: 15
-
-Abstract:
-Niobate Li+‐storage anode materials with shear ReO3 crystal structures have attracted intensive attention due to their inherent safety and large capacities. However, they generally suffer from limited rate performance, cyclic stability, and temperature adaptability, which are rooted in their insufficient interlayer spacings. Here, sodium niobate (NaNb13O33) micron‐sized particles are developed as a new anode material owning the largest interlayer spacing among the known shear ReO3‐type niobates. The large interlayer spacing of NaNb13O33 enables very fast Li+ diffusivity, remarkably contributing to its superior rate performance with a 2500 to 125 mA g−1 capacity percentage of 63.2%. Moreover, its large interlayer spacing increases the volume‐accommodation capability during lithiation, allowing small unit‐cell‐volume variations (maximum 6.02%), which leads to its outstanding cyclic stability with 87.9% capacity retention after as long as 5000 cycles at 2500 mA g−1. Its cyclic stability is the best in the research field of niobate micron‐sized particles, and comparable to that of “zero‐strain” Li4Ti5O12. At a low temperature of −10 °C, it also exhibits high rate performance with a 1250 to 125 mA g−1 capacity percentage of 65.6%, and even better cyclic stability with 105.4% capacity retention after 5000 cycles at 1250 mA g−1. These comprehensively good electrochemical results pave the way for the practical application of NaNb13O33 in high‐performance Li+ storage.

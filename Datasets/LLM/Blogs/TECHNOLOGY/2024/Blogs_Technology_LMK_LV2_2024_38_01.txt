@@ -1,3 +1,0 @@
-"Topic Modeling Troubles: A Journey Through Python Packages" 
-
-As I dove into topic modeling in 2024, I found myself tangled in a web of Python packages. I was on a quest for the perfect tool - one that could measure convergence and metrics over iterations. LDA caught my attention, but I was torn between Gensim and Scikit-learn. After trial and error, I discovered that while both are powerful, Gensim's flexibility won me over. My journey taught me that the right tool is out there; sometimes, it's just about digging deeper. Has anyone else had a similar struggle?

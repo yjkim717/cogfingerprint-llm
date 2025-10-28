@@ -1,7 +1,0 @@
-## The Go-Kart and the Grind: When Passion Meets CAD Frustration
-
-Okay, confession time. I’m diving headfirst into building a go-kart, and let me tell you, it's been a *journey*. I’m loving the challenge, but wrestling with Fusion 360 for the suspension design? That's a whole other level. 
-
-Specifically, working with round tubing and that blasted pipe tool is driving me a little bonkers. It feels like I’m constantly creating planes just to make things *work*. It’s a visualization struggle too – trying to wrap my head around the geometry in 3D is tougher than I anticipated. 
-
-Anyone else ever feel like a passion project reveals a surprising amount about your own problem-solving style? Maybe 2023 is the year I truly master this software, and finally get this kart rolling!

@@ -1,8 +1,0 @@
-Author: N. Korabel
-Title: Modelling Heterogeneous Anomalous Dynamics of Radiation-Induced Double-Strand Breaks in DNA during Non-Homologous End-Joining Pathway
-Paper ID: 44274353df05781237454fea7c35e016d592e0e6
-Year: 2024
-Author Index: 14
-
-Abstract:
-The process of end-joining during nonhomologous repair of DNA double-strand breaks (DSBs) after radiation damage is considered. Experimental evidence has revealed that the dynamics of DSB ends exhibit subdiffusive motion rather than simple diffusion with rare directional movement. Traditional models often overlook the rare long-range directed motion. To address this limitation, we present a heterogeneous anomalous diffusion model consisting of subdiffusive fractional Brownian motion interchanged with short periods of long-range movement. Our model sheds light on the underlying mechanisms of heterogeneous diffusion in DSB repair and could be used to quantify the DSB dynamics on a time scale inaccessible to single particle tracking analysis. The model predicts that the long-range movement of DSB ends is responsible for the misrepair of DSBs in the form of dicentric chromosome lesions.

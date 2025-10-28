@@ -1,3 +1,0 @@
-It’s 2023, and I’ve spent the last week wrestling with SDXL in Kohya, trying to coax out something beautiful. I’ve tweaked the LoRAs, fiddled with the network alpha, and lost hours to training settings that promised the world but delivered blurry, misshapen figures. It feels like tuning an instrument I’ve never played before.
-
-But here’s the thing: this struggle is the story of AI art right now. It’s not just about typing a prompt; it’s about understanding the machine’s language. I’m not just training a model; I’m learning patience, learning to listen. Every failed run is a conversation, a step closer to making the technology sing. The real masterpiece might just be the process itself.

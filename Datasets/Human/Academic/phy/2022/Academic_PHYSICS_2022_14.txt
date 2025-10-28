@@ -1,8 +1,0 @@
-Author: Shao-Wen Wei
-Title: Black Hole Solutions as Topological Thermodynamic Defects.
-Paper ID: 229cba6c2f7eb6329adc0dc3d2a45e545bc43707
-Year: 2022
-Author Index: 14
-
-Abstract:
-In this Letter, employing the generalized off-shell free energy, we treat black hole solutions as defects in the thermodynamic parameter space. The results show that the positive and negative winding numbers corresponding to the defects indicate the local thermodynamical stable and unstable black hole solutions, respectively. The topological number defined as the sum of the winding numbers for all the black hole branches at an arbitrary given temperature is found to be a universal number independent of the black hole parameters. Moreover, this topological number only depends on the thermodynamic asymptotic behaviors of the black hole temperature at small and large black hole limits. Different black hole systems are characterized by three classes via this topological number. This number could help us in better understanding the black hole thermodynamics and, further, shed new light on the fundamental nature of quantum gravity.

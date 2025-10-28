@@ -1,1 +1,0 @@
-"As I scrolled through Reddit in 2020, I stumbled upon mesmerizing vocal synthesis videos and wondered: how are they created? I discovered Tacotron 2, a groundbreaking text-to-speech model. With its machine learning capabilities, generating realistic audio clips is now possible. I dived into GitHub tutorials, uncovering the tech behind these captivating audio experiences."

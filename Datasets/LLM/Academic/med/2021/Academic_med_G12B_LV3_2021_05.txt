@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, aiming for formality, precision, and structured reasoning, framed within a 2021 context:
-
-**Abstract**
-
-The 2021 update to the National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines in Oncology reflects evolving therapeutic landscapes in metastatic colorectal cancer (mCRC). This revision prioritizes a refined approach to systemic therapy, integrating recent advancements in immunotherapy and targeted agents. Notably, the guidelines now incorporate recommendations for checkpoint inhibitor utilization, particularly in microsatellite instability-high (MSI-H) tumors, alongside expanded guidance on biosimilar adoption. Furthermore, emphasis is placed on comprehensive biomarker testing, specifically assessing for HER2 amplification and *BRAF* V600E mutations, to guide targeted therapeutic selection. These modifications underscore a shift toward personalized treatment strategies in mCRC, aiming to optimize patient outcomes through the judicious application of emerging systemic therapies and improved diagnostic stratification.

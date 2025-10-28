@@ -1,5 +1,0 @@
->## WeChat Wonders & Remote Teaching Woes
-
-Okay, so I'm diving headfirst into remote teaching this year, and it's been… a learning curve! I'm trying to leverage WeChat with my students – it's so widely used here. But I’m hitting a snag. I really want to do some live collaborative editing of documents and share my screen dynamically during lessons. 
-
-Does anyone know if WeChat really allows for seamless live screen sharing *and* simultaneous editing? I've been digging, but the info is a bit murky. Any tips from fellow remote educators would be hugely appreciated! It feels like the key to engaging lessons!

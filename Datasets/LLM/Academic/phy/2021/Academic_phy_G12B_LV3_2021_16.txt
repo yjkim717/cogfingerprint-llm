@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a physics publication and reflecting a 2021 context:
-
-**Abstract**
-
-This work explores the structure of asymptotic symmetries in five-dimensional asymptotically flat spacetimes, employing Hamiltonian methods to investigate boundary conditions and conserved quantities. Our analysis uncovers a novel, nonlinear deformation of the asymptotic symmetry algebra. This deformation manifests as a nontrivial extension of the Lorentz algebra, incorporating Abelian factors associated with non-vanishing central charges. The identification of this deformation provides new insights into the consistency of gravitational theories in higher dimensions and offers a potential avenue for exploring quantum corrections to classical gravitational dynamics. These findings, obtained through rigorous application of Hamiltonian formalism, contribute to a deeper understanding of the asymptotic structure of spacetime and its implications for gravitational phenomenology.

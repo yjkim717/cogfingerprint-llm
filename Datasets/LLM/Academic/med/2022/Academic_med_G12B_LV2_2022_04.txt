@@ -1,5 +1,0 @@
-Here's a formal academic-style abstract based on your provided information, suitable for a medical research context and reflecting a 2022 publication timeframe:
-
-**Abstract**
-
-This study analyzes the National Comprehensive Cancer Network (NCCN) guidelines for breast cancer management, specifically focusing on the evolving approaches to ductal carcinoma in situ (DCIS) and early-stage invasive breast carcinoma. Published in 2022, the NCCN guidelines represent a consensus of expert opinion regarding optimal clinical practice in this complex oncological domain. The analysis elucidates recommendations pertaining to surgical interventions, adjuvant therapies (including endocrine and targeted agents), and surveillance strategies tailored to disease stage and patient-specific risk factors. A key area of focus is the stratification of DCIS based on genomic markers to inform treatment decisions, balancing the risk of overtreatment with the need for effective local control. This review underscores the guideline’s emphasis on shared decision-making and personalized approaches to improve patient outcomes and minimize unnecessary morbidity in the context of breast cancer.

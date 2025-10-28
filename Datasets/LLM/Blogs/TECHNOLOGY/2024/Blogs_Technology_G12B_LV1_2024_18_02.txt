@@ -1,5 +1,0 @@
-## The Lingering Ghost of a Token
-
-It's wild how security feels like a constant game of catch-up, isn't it? Just last week, I was helping a colleague troubleshoot a weird login flag – someone potentially accessing an account they shouldn’t. We had MFA firmly in place, which is reassuring, but the question lingered: if someone *did* manage to snag an authentication token, would a simple password reset kill it? 
-
-Turns out, it’s not always a guaranteed clean break. Tokens can be surprisingly persistent. It’s a good reminder that even with layers of protection like MFA, vigilance is key. We’re constantly learning, adapting, and patching up the vulnerabilities that pop up in this ever-evolving digital landscape.

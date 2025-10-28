@@ -1,7 +1,0 @@
->## The Sysadmin Gauntlet: Was That Interview *Really* Necessary?
-
-Okay, so I just finished interviewing for a sysadmin role, and wow. Two and a half to four hours? Five different interviewers? For a *first* sysadmin position? My brain is still processing. 
-
-It got me thinking about the modern hiring process in tech. Are we overdoing it? I get the need to find the right fit, but spending that much time grilling someone feels…intense. Back in the day, a handshake and a whiteboard challenge felt more streamlined. 
-
-Maybe it's just the market in 2022, with everyone scrambling for talent. Still, I hope companies remember that a good interview should be a conversation, not an interrogation.

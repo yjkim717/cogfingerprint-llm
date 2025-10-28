@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary:
-
-Title: Enhancing Cellular Segmentation in Degraded Microscopy Images with One-Click Restoration
-
-Abstract:
-Accurate cellular segmentation in microscopy images is crucial for various biological applications. However, noisy, blurry, or undersampled images often hinder the performance of existing segmentation models. In this work, we present CellPose3, a novel framework that integrates one-click image restoration with a robust segmentation model to improve cellular segmentation in degraded microscopy images. Leveraging a deep learning-based approach, CellPose3 first restores the image quality using a learned degradation model, and then applies a generalist segmentation model to accurately delineate cellular boundaries. Our experiments demonstrate that CellPose3 outperforms state-of-the-art methods on diverse microscopy datasets, achieving superior segmentation accuracy and robustness to various image degradations. By providing a simple and effective solution for image restoration and segmentation, CellPose3 has the potential to facilitate high-throughput cellular analysis in various biomedical applications. (2024)

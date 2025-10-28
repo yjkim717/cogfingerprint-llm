@@ -1,1 +1,0 @@
-"As I navigated my Plex setup in 2023, I stumbled upon a hurdle: making my PVR's TSV files compatible. After some digging, I discovered a simple conversion process that streamlined my media management, and I'm excited to share my findings with fellow tech enthusiasts."

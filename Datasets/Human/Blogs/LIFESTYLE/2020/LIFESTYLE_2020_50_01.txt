@@ -1,5 +1,0 @@
-Year: 2020
-Author: prois99
-URL: https://www.reddit.com/r/csshelp/comments/jcfhxs/how_do_i_create_this_type_of_navbar/
-
-Hi, so I tried Googling and have no idea. I need to make the lines around the button like this, and also overlap the image before and my header with the button a bit. I still have problems with overlapping elements (like text and image etc.), so maybe if I looked into that I would find a way. I looked into Boostrap and did not find anything, Stackoverflow also nothing. If any of you could point me in the right way I would appreciate it. Thank you for your help in advance :)

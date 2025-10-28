@@ -1,1 +1,0 @@
-"Stuck on a firmware fork in the road. As a sysadmin, I stared at two Aruba 3810M switch firmware versions: 'B.02.04' and 'B.02.04.0004'. Which one to choose? I dug into Aruba's release channels and discovered the difference was more than just a minor update. The devil was in the details."

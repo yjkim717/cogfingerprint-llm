@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract**
-
-This study examines the complex chemical pathways governing the interaction between carbon atoms and ammonia ices prevalent in interstellar environments. Utilizing quantum chemical calculations, we investigated the reaction kinetics, revealing methylamine (CH₃NH₂) as the statistically favored product. Crucially, methylamine demonstrates superior resistance to hydrogen abstraction compared to alternative reaction intermediates, a factor significantly impacting astrochemical modeling outcomes.  Our findings suggest that methylamine formation represents a primary disequilibrium process within cold molecular clouds.  Further, the implications of this reaction extend to the observed abundance of nitrogen-bearing species in interstellar ices, necessitating refinements to current astrochemical models to accurately represent these crucial chemical transformations.  These results contribute to a deeper understanding of the chemical evolution of star-forming regions.

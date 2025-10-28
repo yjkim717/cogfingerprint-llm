@@ -1,5 +1,0 @@
-It was just another Tuesday in 2020 when a help desk ticket stopped me cold. A student, clever as they come, had completely bypassed our school's Active Directory login. How? By simply signing in with their personal Microsoft account.
-
-My initial sysadmin pride took a hit. We’d built this digital fortress, and someone found a side door. But then, a grudging respect surfaced. It was a brilliant workaround.
-
-The hunt was on. I dove into Group Policy, determined to close this loophole not with frustration, but with a well-crafted GPO. It was a stark reminder that in our world, the most unpredictable variable isn't the software—it's the ingenious user trying to find an easier way.

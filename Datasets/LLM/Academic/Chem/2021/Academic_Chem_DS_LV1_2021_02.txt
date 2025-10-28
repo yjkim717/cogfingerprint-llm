@@ -1,5 +1,0 @@
-**Abstract**
-
-The reactivity of carbon atoms on interstellar ice analogues remains a pivotal area of astrochemistry for understanding molecular complexity in space. Herein, we investigate the non-thermal reaction dynamics between ground-state carbon atoms and amorphous solid water (ASW) at cryogenic temperatures. Using density functional theory calculations and kinetic modelling, we elucidate a novel pathway for formaldehyde (H₂CO) formation. The mechanism is initiated by carbon insertion into the hydrogen-bonding network of ASW, forming a hydroxymethylene (HCOH) intermediate. Crucially, we demonstrate that proximal water molecules act as efficient proton transfer catalysts, significantly reducing the energy barrier for the isomerization of HCOH to the more stable H₂CO conformer. This water-mediated catalysis, facilitated by the collective reorganization of the local hydrogen-bonding network, provides a low-energy route to a fundamental prebiotic molecule. These findings underscore the catalytic role of water ice in solid-state astrochemical syntheses and have profound implications for the origin of interstellar complex organic molecules.
-
-*(Word Count: 149)*

@@ -1,5 +1,0 @@
-**Abstract**
-
-The investigation of hydroxyl radical (OH•) radical dynamics on water ice remains a critical area of research for understanding the early stages of Martian atmospheric chemistry and icy planetary surface evolution. This study reports experimental measurements of OH• radical diffusion activation energy on water ice, conducted in 2022. Utilizing photostimulated desorption spectroscopy, we quantified the energy barrier required for OH• radicals to traverse the ice lattice. Our findings reveal an activation energy of 0.14 eV, significantly exceeding previously established theoretical models and suggesting a more complex diffusion mechanism than initially anticipated. 
-
-This discrepancy highlights the need for refined kinetic models incorporating ice grain size, impurity effects, and potential secondary processes. The observed activation energy represents a crucial parameter for assessing the plausibility of OH• radical transport within icy environments and warrants further investigation through advanced spectroscopic techniques and computational simulations.

@@ -1,1 +1,0 @@
-It’s 2024, and my trusty Fujitsu laptop got a fresh ChromeOS Flex update to version 128. Everything seemed snappier—until I reopened the lid. The cursor? Gone. Just like that. A quick restart brought it back, but it’s a quirky reminder that even the smoothest tech can throw us a curveball now and then. Anyone else run into this touchpad vanishing act?

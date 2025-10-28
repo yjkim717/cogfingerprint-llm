@@ -1,8 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, written in the style of a chem research abstract:
-
-**Abstract**
-
-The formation mechanisms of complex nitrogen-bearing molecules within interstellar ices remain a critical area of astrochemical investigation. This work explores a novel pathway for methylamine (CH₃NH₂) synthesis within these cold, dense environments, proposing a carbon atom condensation route involving the direct addition of atomic carbon to ammonia (NH₃). Employing high-level quantum chemical calculations, we investigated the energetics and reaction kinetics of this process, demonstrating that methylamine emerges as the thermodynamically favored product compared to alternative reaction pathways. Crucially, our simulations reveal that methylamine exhibits enhanced stability against subsequent hydrogen abstraction, a prevalent degradation mechanism in interstellar ices. These findings challenge existing models and offer a plausible explanation for the observed abundance of methylamine in interstellar spectra. The implications of this carbon atom condensation route are discussed in the context of broader prebiotic chemistry and the formation of complex organic molecules in space.
-
-
-

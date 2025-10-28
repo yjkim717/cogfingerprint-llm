@@ -1,5 +1,0 @@
-**Abstract**
-
-Recent revisions to the National Comprehensive Cancer Network (NCCN) guidelines for rectal cancer management reflect a paradigm shift towards increasingly aggressive, yet tailored, treatment strategies. This document details updated recommendations emphasizing the expanded role of neoadjuvant chemoradiotherapy (CRT) across stage II and III rectal cancers. Specifically, the guidelines now strongly advocate for CRT prior to surgical resection for all patients within these stages, irrespective of tumor grade or microsatellite instability (MSI) status. 
-
-Furthermore, the evolving landscape of rectal cancer necessitates a greater consideration of “watch-and-wait” strategies for select stage II patients with low-risk features.  These updated protocols underscore a risk-adapted approach, prioritizing maximal tumor downstaging via neoadjuvant therapy to improve surgical outcomes and potentially reduce the need for total mesorectal excision.  Continued monitoring and adherence to NCCN guidelines are crucial for optimizing patient care and improving prognosis in this complex disease.

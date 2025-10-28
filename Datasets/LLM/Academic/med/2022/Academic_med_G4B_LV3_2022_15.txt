@@ -1,5 +1,0 @@
-Here's an academic-style abstract based on the provided summary and keywords:
-
-**Abstract**
-
-The COVID-19 pandemic exacerbated pre-existing healthcare disparities within rural communities, highlighting the urgent need for accessible and equitable care models. A 2022 survey-based investigation explored the role of telehealth in mitigating these challenges. Findings suggest telehealth adoption demonstrated substantial potential as a durable strategy for improving healthcare access, specifically among younger adult populations residing in rural locales.  Increased utilization of telehealth correlated with reduced travel burdens and improved timeliness of consultations. However, the study also identified critical barriers, including limited broadband infrastructure and digital literacy gaps, which necessitate targeted interventions.  Ultimately, the research underscores telehealth’s capacity to address rural healthcare inequities; nevertheless, sustained efforts focused on infrastructure development and digital inclusion are paramount to fully realize its transformative effects and promote healthcare equity.

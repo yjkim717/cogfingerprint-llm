@@ -1,5 +1,0 @@
->## The Curious Case of the Stubborn Chromebook Video
-
-It’s 2020, and we’re all spending *so* much time online. Lately, I've been wrestling with a weird tech frustration. My Chromebook, usually a snappy little workhorse, decided it had a personal vendetta against video. YouTube, Vimeo, even just embedded clips – all stubbornly refusing to load. 
-
-The kicker? My Google Chrome on my Windows laptop was perfectly fine. After some digging, it seemed to be related to our school’s Lightspeed Web Filter, even though I'd diligently created exemptions. It’s moments like these that highlight the disconnect between the ideal of seamless technology and the messy reality of networks and configurations. A little reminder that sometimes, tech just *decides* to be difficult.

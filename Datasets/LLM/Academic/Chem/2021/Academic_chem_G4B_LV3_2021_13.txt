@@ -1,5 +1,0 @@
-Here's an academic-style abstract based on the provided summary and keywords, suitable for a chemistry journal publication in 2021:
-
-**Abstract**
-
-The formation of icy mantles on solid precursors within molecular clouds and protoplanetary disks represents a critical stage in the delivery of volatiles to planetary systems. This study investigates the compositional and substrate-dependent variations in ice morphology observed via transmission electron microscopy (TEM) at cryogenic temperatures. Analysis of TEM images reveals a complex interplay between grain composition and surface properties, resulting in a diverse range of crystalline structures. Specifically, we demonstrate that the presence of trace elements within refractory grains substantially impacts ice crystal habit and crystallinity. These findings suggest that ice nucleation and subsequent growth are not solely dictated by temperature, but are profoundly influenced by the chemical environment.  Further research utilizing advanced spectroscopic techniques will be crucial to elucidate the precise mechanisms governing ice formation and its implications for the chemical evolution of planetary systems.

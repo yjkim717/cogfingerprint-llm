@@ -1,7 +1,0 @@
-## The Unexpected Tech Pivot & Grad School Dreams
-
-It’s funny how life throws you curveballs, isn't it? Lately, mine has been shaped like a slightly dusty Ryzen 5 1600AF and a compact MSI B450I Gaming Plus AC motherboard. I’m selling them. Seems random, right?
-
-Well, it's a direct consequence of chasing a dream: grad school. Application fees are… substantial. And while I’m exploring every avenue, parting with some beloved tech felt like a pragmatic step. This setup powered my little home office for a good while, a reliable workhorse for coding and creative projects. 
-
-It’s a bit bittersweet, honestly. There’s a certain satisfaction in building your own machine, tweaking it just right. But the thought of finally pursuing that advanced degree? That’s a far more compelling upgrade. Hopefully, someone out there will give this combo a good home and maybe even try their hand at a Hackintosh build – a little tech adventure of their own. Wish me luck!

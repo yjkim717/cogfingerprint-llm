@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a physics publication and reflecting a 2020 context:
-
-**Abstract**
-
-Motivated by ongoing challenges in constructing a consistent theory of quantum gravity, we investigate the structure of Hilbert spaces describing baby universe states. This work proposes a novel constraint wherein such spaces possess a fundamental one-dimensionality, implying a ‘Gauss's law for entropy’ which potentially reconciles apparent contradictions arising from traversable wormhole geometries and holographic entanglement structures. We leverage quantum-mechanical gauge redundancies to refine the holographic dictionary and explore their implications for consistency conditions analogous to swampland conjectures. Finally, we consider potential deviations from this general framework, particularly in lower-dimensional scenarios, and discuss the influence of ensemble averaging on the emergent thermodynamic properties.

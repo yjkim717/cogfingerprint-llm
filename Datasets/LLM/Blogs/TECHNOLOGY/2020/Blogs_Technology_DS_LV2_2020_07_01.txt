@@ -1,5 +1,0 @@
-It’s 2020, and my online store feels like it’s stuck in a time warp. I remember migrating to Shopify a couple of years ago, drawn by its sleek design and promises of seamless scaling. But lately, I’ve been staring at my analytics, frustrated.
-
-Here in my corner of the world, Shopify still doesn’t support multicurrency checkout. Watching international shoppers hesitate and abandon their carts is a special kind of pain. They see the price in USD, do the mental math, and often just… leave. My conversion rate is paying the price for this limitation.
-
-So, I’m looking back at WooCommerce. It’s not as polished, but the freedom to tailor a truly global checkout is incredibly tempting. Sometimes, the shinier platform isn’t the one that truly helps your business grow where it matters most.

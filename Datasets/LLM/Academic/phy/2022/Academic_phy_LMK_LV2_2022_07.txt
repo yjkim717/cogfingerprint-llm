@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract in the field of physics:
-
-"In this study, we present a comparative analysis of numerical relativity data and post-Minkowskian predictions for binary black hole scattering. Utilizing the effective-one-body framework, we examine the gravitational potential of binary black hole systems. Our results demonstrate a remarkable agreement between numerical relativity simulations and post-Minkowskian predictions, validating the accuracy of the latter in capturing the conservative dynamics of binary black hole scattering. The findings of this work (2022) provide a robust foundation for the application of post-Minkowskian gravity in gravitational physics, enabling more precise modeling of binary black hole interactions."

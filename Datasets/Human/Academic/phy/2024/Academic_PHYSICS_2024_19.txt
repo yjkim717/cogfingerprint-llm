@@ -1,8 +1,0 @@
-Author: Jihua Zhang
-Title: Engineering Quantum Light Sources with Flat Optics
-Paper ID: 68ea8734bcc2cb29e4a0ff859f7bd9ae45a3e676
-Year: 2024
-Author Index: 19
-
-Abstract:
-Quantum light sources are essential building blocks for many quantum technologies, enabling secure communication, powerful computing, and precise sensing and imaging. Recent advancements have witnessed a significant shift toward the utilization of “flat” optics with thickness at subwavelength scales for the development of quantum light sources. This approach offers notable advantages over conventional bulky counterparts, including compactness, scalability, and improved efficiency, along with added functionalities. This review focuses on the recent advances in leveraging flat optics to generate quantum light sources. Specifically, the generation of entangled photon pairs through spontaneous parametric down‐conversion in nonlinear metasurfaces, and single photon emission from quantum emitters including quantum dots and color centers in 3D and 2D materials are explored. The review covers theoretical principles, fabrication techniques, and properties of these sources, with particular emphasis on the enhanced generation and engineering of quantum light sources using optical resonances supported by nanostructures. The diverse application range of these sources is discussed and the current challenges and perspectives in the field are highlighted.

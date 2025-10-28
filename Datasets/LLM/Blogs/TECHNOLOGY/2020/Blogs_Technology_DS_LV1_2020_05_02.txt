@@ -1,1 +1,0 @@
-Remember those early 2020 days, stuck inside and endlessly curious? I fell down a rabbit hole trying to make a computer sing. Tacotron 2 tutorials and GitHub repos became my world. It was humbling—so much brilliant, open-source work, yet turning code into a clear, natural voice felt like magic I could barely grasp. A true lesson in the gap between theory and artistry.

@@ -1,5 +1,0 @@
-Year: 2021
-Author: dudiez
-URL: https://www.reddit.com/r/EpicSeven/comments/nbki2m/anyone_know_the_best_settings_for_bluestacks/
-
-My settings rn are: CPU Medium (2 Cores) RAM Medium (2 GB) Performance (Legacy Mode) Graphics renderer - DirectX (I think this is better than OpenGL? Don't really know the difference.) Display- Landscape 1600 x 900, 240 DPI (Does DPI even matter?) *I don't really notice a difference when I play around with DPI)* I try to run it at 60FPS and display the FPS during gameplay, but it usually hangs around 35-45, sometimes going below 35 in still frames. I was just wondering if this was normal or if anyone else has found the best settings to OPTIMIZE E7 usage. This runs pretty smoothly, but I do notice hiccups every now and them. Anyone willing to share or have figured out the optimal settings? :o

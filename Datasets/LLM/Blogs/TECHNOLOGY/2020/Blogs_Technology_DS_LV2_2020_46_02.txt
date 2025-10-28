@@ -1,5 +1,0 @@
-It’s 2020, and I’m staring at my SCOM dashboard like it’s a Jackson Pollock painting—chaotic, abstract, and frankly, a little stressful. My inbox is a warzone of Exchange 2016 alerts, each one screaming for attention. I remember thinking, "There has to be a better way."
-
-That’s when I dove into the world of SCOM overrides and alert rollup. It wasn’t just about ticking boxes; it was about finding sanity in the noise. I started grouping health sets, consolidating those frantic pings into meaningful summaries. Slowly, the chaos receded. My phone stopped buzzing at 2 a.m., and I could finally breathe.
-
-Looking back, it wasn’t just a technical fix—it was a lesson in clarity. In a year where everything felt overwhelming, simplifying how we monitor our systems became a small victory. Sometimes, the best solutions aren’t about doing more, but about focusing on what truly matters. And my inbox? Grateful for the peace.

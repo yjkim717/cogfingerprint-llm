@@ -1,8 +1,0 @@
-Author: Tianxiang Sun
-Title: Paradigm Shift in Natural Language Processing
-Paper ID: 8a9fd97dafd664b8fd1ae4ed5ca5071adf9f20ba
-Year: 2021
-Author Index: 15
-
-Abstract:
-In the era of deep learning, modeling for most natural language processing (NLP) tasks has converged into several mainstream paradigms. For example, we usually adopt the sequence labeling paradigm to solve a bundle of tasks such as POS-tagging, named entity recognition (NER), and chunking, and adopt the classification paradigm to solve tasks like sentiment analysis. With the rapid progress of pre-trained language models, recent years have witnessed a rising trend of paradigm shift, which is solving one NLP task in a new paradigm by reformulating the task. The paradigm shift has achieved great success on many tasks and is becoming a promising way to improve model performance. Moreover, some of these paradigms have shown great potential to unify a large number of NLP tasks, making it possible to build a single model to handle diverse tasks. In this paper, we review such phenomenon of paradigm shifts in recent years, highlighting several paradigms that have the potential to solve different NLP tasks.

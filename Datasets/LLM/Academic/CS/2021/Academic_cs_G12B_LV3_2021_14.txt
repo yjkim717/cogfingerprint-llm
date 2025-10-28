@@ -1,5 +1,0 @@
- Here's an academic abstract inspired by the provided summary and keywords, suitable for a CS publication in 2021:
-
-**Abstract:**
-
-The increasing deployment of autonomous vehicles (AVs) necessitates robust and scalable collision avoidance strategies. This paper explores the application of reinforcement learning (RL) to develop centralized collision avoidance policies for multi-agent AV systems. Specifically, we evaluate the efficacy of Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC) algorithms in navigating complex traffic scenarios. Through extensive simulations across diverse flow conditions, we demonstrate that both PPO and SAC achieve comparable success rates in preventing collisions, indicating their potential for real-world implementation. A comparative analysis highlights strengths and weaknesses of each approach concerning sample efficiency and policy stability. The findings contribute to the ongoing research in safe and efficient autonomous navigation, suggesting RL-based centralized strategies can offer a viable pathway towards scalable collision avoidance in increasingly complex traffic environments.

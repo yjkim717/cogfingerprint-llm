@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-This study investigates the potential causal relationship between circadian rhythm preference and the risk of major depressive disorder (MDD) utilizing a mendelian randomization (MR) framework. Leveraging genetic variants identified as proxies for individual differences in diurnal preference, we examined whether an earlier chronotype is associated with a decreased susceptibility to MDD. Specifically, we employed summary-level data from genome-wide association studies (GWAS) to infer genetic liability for preference for morningness.  Results indicated a statistically significant inverse association between scores reflecting an earlier diurnal preference and the odds of MDD diagnosis (OR: 0.78, 95% CI: 0.65-0.94). These findings support a potential causal role for sleep timing—as genetically influenced—in the etiology of MDD. Further research employing longitudinal designs and incorporating polysomnographic data is warranted to elucidate the underlying biological mechanisms and confirm these preliminary genetic associations.

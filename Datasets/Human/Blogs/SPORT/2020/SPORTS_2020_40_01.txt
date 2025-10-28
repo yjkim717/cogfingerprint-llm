@@ -1,5 +1,0 @@
-Year: 2020
-Author: factorialite
-URL: https://www.reddit.com/r/chrome/comments/kmfqdv/remove_a_single_autocompleted_entry_from_search/
-
-I once accidentally typed in "amazon/" and hit enter, which took me to an error page. Now, instead of "ama..." autocompleting to amazon.com, it always goes to "amazon/" which is supremely annoying. I don't want to get rid of all of my autocompletes, but I want to get rid of that single one. Is it possible? Thanks.

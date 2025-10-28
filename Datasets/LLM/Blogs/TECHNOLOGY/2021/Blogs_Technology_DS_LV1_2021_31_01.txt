@@ -1,1 +1,0 @@
-Back in 2021, I was obsessed with building a soft robotic tentacle that could extend and retract using air pressure. It was a messy, exhilarating dance with physics—teaching silicone to move like muscle, reminding me that the most elegant tech often starts with a simple, squishy idea.

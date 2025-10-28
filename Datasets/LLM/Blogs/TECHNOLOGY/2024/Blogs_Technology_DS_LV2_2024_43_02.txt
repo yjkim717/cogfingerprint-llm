@@ -1,5 +1,0 @@
-It’s funny—when I first started coding, I never imagined I’d be sharing something like this with the world. But here we are in 2024, and today, I’m open-sourcing a managed API gateway and Kotlin client libraries for AI services.
-
-It all began with late nights wrestling with integrations, thinking, "There has to be a better way." This project is my attempt at that—a bridge to simplify how we connect with AI, built with care and a lot of coffee.
-
-Now, I’m throwing the doors open. I’d love for you to try it, break it, and help make it better. Your insights and contributions could shape what’s next. Let’s build something meaningful, together.

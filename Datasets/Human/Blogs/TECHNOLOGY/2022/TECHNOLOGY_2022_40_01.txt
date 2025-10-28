@@ -1,5 +1,0 @@
-Year: 2022
-Author: gman1230321
-URL: https://www.reddit.com/r/linuxquestions/comments/wteqc2/whats_a_good_way_to_control_a_linux_box_with_my/
-
-I have an intel nuc compute stick that I want to use with my tv for streaming and stuff. I also don’t need full remote access because I’ll be in the room with it and I won’t need video. I just want something that will allow me to type and move the mouse without needing a full separate keyboard and mouse. I won’t be interacting with it too much so it’s not worth the space to get a full KB&M for it and it’s behind my TV so its a bit annoying to get too if I wanna move my keyboard over to it. Any recommendations? E: it’s not actually set up yet but I’m prob gonna use arch or manjaro with i3wm and xorg or I might try sway w wayland cause I’ve been itching to try out wayland

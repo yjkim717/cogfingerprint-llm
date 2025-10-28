@@ -1,9 +1,0 @@
-)
-## Abstract: Quantum Cloning and Unitarity Restoration within Black Hole Spacetimes
-
-The information paradox, stemming from the apparent breakdown of unitarity in black hole evaporation, remains a central challenge in theoretical physics. This work explores a novel perspective on this paradox, drawing upon recent developments in quantum cloning theory and spacetime diagrammatic analysis. We posit that the causal structure of a black hole, as represented by a Penrose diagram, may conceal a non-trivial relationship between regions exhibiting seemingly disparate temporal evolution. Specifically, we propose a scenario wherein region II of a black hole’s spacetime – traditionally associated with the black hole interior – hosts quantum clones of states originating from region I (the exterior). 
-
-These clones, existing in a superposition of states mirroring their region I progenitors, offer a potential mechanism for restoring unitarity. By effectively duplicating information prior to its apparent loss behind the event horizon, the proposed cloning process circumvents the information loss problem.  We discuss the implications for the Shapiro effect in the context of this framework and explore the theoretical possibilities for generalizing existing black hole models toward a more complete description of quantum gravity, acknowledging the significant challenges in experimentally verifying such speculative, high-energy phenomena. This framework necessitates further investigation into the constraints imposed by quantum gravity and the precise nature of the cloning mechanism.
-
-
-

@@ -1,9 +1,0 @@
-Okay, here's a blog post draft based on your summary and instructions:
-
----
-
-**The Ghost in the Machine**
-
-It’s funny how technology can feel *personal*, isn’t it? I was helping a colleague last year wrestle with a frustrating situation – a Jamf-wiped M1 MacBook Pro, stubbornly refusing a fresh macOS install. A locked volume, a “unmountable disk0” error…it felt like the computer was holding its breath, guarding secrets. 
-
-It’s a reminder that even the sleekest machines have a history, a digital ghost lingering after a wipe. Sometimes, you just have to patiently coax the system back to life.  #macOS #Jamf #TechTroubles

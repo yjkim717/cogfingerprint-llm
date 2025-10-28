@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary.
-
-***
-
-**Title:** On the Factorization of Extremal Black Hole Microstates from Holographic n-Point Correlators
-
-**Abstract:** We investigate the structure of time-independent n-point correlation functions in the supersymmetric sector of the AdS/CFT correspondence, dual to extremal, supersymmetric black holes in four-dimensional N=2 supergravity. By leveraging the exact, quantum-entropy-based description of these black hole microstates, we demonstrate a precise factorization of the boundary CFT correlators. This factorization is shown to be governed by the exchange of a single, protected supergraviton mode in the dual bulk description, which dominates the low-energy effective theory. Our results provide a microscopic derivation of the universal, topological character of these correlators, linking the macroscopic black hole entropy directly to the statistical variance of boundary observables. This work establishes a robust framework for extracting fine-grained microstate data from coarse-grained holographic measurements in the extremal limit.
-
-**(Year: 2022)**

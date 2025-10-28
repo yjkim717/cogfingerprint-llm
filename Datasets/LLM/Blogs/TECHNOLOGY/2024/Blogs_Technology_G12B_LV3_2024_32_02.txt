@@ -1,6 +1,0 @@
-)
-## The Little Guy's Big Problem: A Lenovo Tiny Tale
-
-It's funny how the smallest things can sometimes present the biggest headaches, isn't it? I recently dove into a new project for my homelab – a Lenovo Tiny workstation. These little machines are brilliant for space-saving, but I ran into a snag. Turns out, the RAM modules were... well, let's just say they'd seen better days. Severely damaged.
-
-It got me thinking about the reliability of these compact powerhouses. Are small form factor PCs more prone to hardware failure? It's a question I'm pondering as I source replacements. Anyone else experienced similar issues with their Tiny or other mini-PCs? Let's chat about it – maybe we can learn something together!

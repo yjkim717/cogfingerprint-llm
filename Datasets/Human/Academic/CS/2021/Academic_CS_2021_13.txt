@@ -1,8 +1,0 @@
-Author: B. Lake
-Title: Cross-Situational Word Learning With Multimodal Neural Networks
-Paper ID: c9afb36a193918050807f7f6c2a3eada515554c8
-Year: 2021
-Author Index: 13
-
-Abstract:
-In order to learn the mappings from words to referents, children must integrate co-occurrence information across individually ambiguous pairs of scenes and utterances, a challenge known as cross-situational word learning. In machine learning, recent multimodal neural networks have been shown to learn meaningful visual-linguistic mappings from cross-situational data, as needed to solve problems such as image captioning and visual question answering. These networks are potentially appealing as cognitive models because they can learn from raw visual and linguistic stimuli, something previous cognitive models have not addressed. In this paper, we examine whether recent machine learning approaches can help explain various behavioral phenomena from the psychological literature on cross-situational word learning. We consider two variants of a multimodal neural network architecture and look at seven different phenomena associated with cross-situational word learning and word learning more generally. Our results show that these networks can learn word-referent mappings from a single epoch of training, mimicking the amount of training commonly found in cross-situational word learning experiments. Additionally, these networks capture some, but not all of the phenomena we studied, with all of the failures related to reasoning via mutual exclusivity. These results provide insight into the kinds of phenomena that arise naturally from relatively generic neural network learning algorithms, and which word learning phenomena require additional inductive biases.

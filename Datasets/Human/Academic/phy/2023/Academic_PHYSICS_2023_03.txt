@@ -1,8 +1,0 @@
-Author: J. Maldacena
-Title: A simple quantum system that describes a black hole
-Paper ID: 8fb8f254b36df4176ec72135f52c811c985c82de
-Year: 2023
-Author Index: 3
-
-Abstract:
-During the past decades, theorists have been studying quantum mechanical systems that are believed to describe black holes. We review one of the simplest examples. It involves a collection of interacting oscillators and Majorana fermions. It is conjectured to describe a black hole in an emergent universe governed by Einstein equations. Based on previous numerical computations, we make an estimate of the necessary number of qubits necessary to see some black hole features.

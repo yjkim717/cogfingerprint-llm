@@ -1,4 +1,0 @@
-Title: Approximating Optimal Scoring Rules for Multi-Dimensional Effort: A Mechanism Design Approach
-
-Abstract:
-Incentivizing strategic agents to exert multi-dimensional effort is a fundamental challenge in algorithmic mechanism design. We propose a novel framework for designing scoring rules that approximate optimal effort allocation. By reducing the problem to a variant of the knapsack problem, we derive simple scoring rules that achieve constant approximations. Our results demonstrate that, even with multi-dimensional effort, simple scoring rules can be remarkably effective. We provide theoretical guarantees and empirical evidence to support our findings, highlighting the potential for practical applications in crowdsourcing and beyond (2022).

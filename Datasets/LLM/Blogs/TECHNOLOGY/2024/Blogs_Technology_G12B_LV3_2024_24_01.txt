@@ -1,9 +1,0 @@
->## The Ghost in My Aim: CS2 and the Price of Muscle Memory
-
-Okay, so here's a confession from a player who’s logged *way* too many hours in Counter-Strike. I’ve been wrestling with CS2 lately, and it’s… humbling. For years, I’ve built a system. A finely-tuned, almost instinctual dance of mouse movements, perfected through countless hours of aim training and competitive matches. We’re talking serious muscle memory here. It felt like an extension of my own brain – I could flick to a target across the map without really *thinking* about it.
-
-But CS2’s subtick system? It’s thrown a wrench in the whole operation. Suddenly, those ingrained flicks feel… off. Delayed. Like I’m fighting against something. The responsiveness I relied on just isn't there, and I’m consistently missing shots I *know* I should make. 
-
-It’s frustrating, no doubt. It’s a stark reminder that even in a game we love, technology shifts. What was once a strength – years of honed skill – is now a hurdle. I’m starting to realize that adaptation isn't just about learning new strategies; it's about consciously *unlearning* old ones.  
-
-It's a weird feeling, being a beginner again in a game you thought you mastered. But maybe, just maybe, rebuilding that muscle memory – this time with the subtick in mind – will lead to an even stronger, more adaptable skillset. Wish me luck, folks. I’ve got a lot of practice ahead of me.

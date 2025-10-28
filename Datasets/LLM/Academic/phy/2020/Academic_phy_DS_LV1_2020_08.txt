@@ -1,5 +1,0 @@
-**Abstract**
-
-This work formalizes the distinction between relative facts—outcomes realized only in relation to a specific decohering observer—and stable facts, which are observer-independent and emerge from consensus across a network of quantum systems. We demonstrate that this framework circumvents traditional no-go theorems, such as the Bell and PBR theorems, by rejecting the assumption of a single, universal set of definite outcomes. A key result is a derivation showing that stable facts are a necessary consequence of quantum Darwinism, where specific environmental fragments redundantly encode a system's state. This analysis clarifies the role of decoherence, not as a mechanism for wavefunction collapse, but as a prerequisite for the formation of objective, classical reality from quantum substrates.
-
-*(Year: 2020)*

@@ -1,4 +1,0 @@
-Title: Optimizing Prediction-Based Resource Allocations: A Quantitative Analysis
-
-Abstract:
-In 2024, the increasing reliance on algorithmic predictions for resource allocation has sparked intense debate regarding their efficacy. This study examines the impact of between-unit inequality and intervention budgets on prediction-based allocations. Through a rigorous quantitative analysis, we demonstrate that the effectiveness of such allocations is contingent upon low between-unit inequality and substantial intervention budgets. Our findings provide critical insights into the optimal conditions for leveraging prediction-based resource allocations, informing strategies to mitigate inequality and enhance intervention efficacy in complex systems.

@@ -1,3 +1,0 @@
->## Is My Organic Traffic *Really* Organic?
-
-Something’s been bugging me. Running a Shopify store in 2024, I'm seeing surprisingly high sales attributed to organic search. It's fantastic, of course! But a nagging suspicion keeps cropping up – could some of that be bleed-over from Google Ads? Shopify's attribution can be a bit opaque, and I'm starting to wonder if some ad-influenced clicks are getting mislabeled. Anyone else wrestling with this digital attribution puzzle?

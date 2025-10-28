@@ -1,5 +1,0 @@
-Okay, here's a reflective blog post inspired by the provided summary, aiming for a conversational tone and around 95 words, set in 2021:
-
----
-
-It’s funny how quickly things feel…stuck. At work, we’re still wrestling with VDI updates, and it feels like we’re operating on a completely different timeline than the rest of Microsoft 365. We’ve been clinging to the October 2020 30866 MSI release for ages! It’s frustrating to see critical updates lagging behind the broader M365 improvements. Makes you wonder if we’re shouting into the digital void – hoping someone’s listening and prioritizing our VDI needs.

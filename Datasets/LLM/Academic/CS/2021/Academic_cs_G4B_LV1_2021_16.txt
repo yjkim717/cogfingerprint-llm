@@ -1,7 +1,0 @@
-Okay, here's an academic-style abstract, approximately 154 words in length, inspired by the provided summary and keywords, suitable for a 2021 publication in the field of Computer Science:
-
----
-
-**Abstract**
-
-The effective processing of low-resource natural language processing (NLP) tasks within the Indic language family presents a significant challenge. This paper introduces IndicBART, a novel pre-trained sequence-to-sequence model specifically tailored for eleven Indic languages alongside English.  Leveraging transfer learning techniques, IndicBART capitalizes on a foundational pre-training phase to establish robust language representations. We demonstrate the model’s efficacy across two key NLP applications: neural machine translation (NMT) and abstractive text summarization.  Experimental results, evaluated on established benchmark datasets, reveal that IndicBART achieves competitive performance relative to existing state-of-the-art methods.  The model’s architecture, informed by the BART framework, facilitates efficient transfer and adaptation to diverse Indic linguistic structures.  Future research will explore incorporating cross-lingual alignment strategies to further enhance performance and expand the model's applicability to a broader range of Indic languages.

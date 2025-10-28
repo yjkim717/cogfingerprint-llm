@@ -1,7 +1,0 @@
-Okay, here's a blog post inspired by the summary and keywords, aiming for a reflective, conversational tone and around 100 words, set in 2020:
-
----
-
-**Debugging My Own Game**
-
-2020 was… a year for unexpected challenges, right? I started tinkering with a simple sports simulation – tracking my daily runs. At first, it was just a messy script in Python, spitting out errors when I entered invalid distances. It felt frustrating, like a bad pass in a game! But slowly, I started adding input validation, building in error handling – essentially, debugging *myself*. It taught me a valuable lesson: just like a well-designed program, a successful routine needs checks and balances.  Sometimes, the biggest wins come from fixing the little things.

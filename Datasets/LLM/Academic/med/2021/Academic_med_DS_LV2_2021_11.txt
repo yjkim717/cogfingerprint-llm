@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract written in the requested style and context.
-
-***
-
-**Abstract**
-
-The advent of adoptive T-cell therapy, particularly through chimeric antigen receptor (CAR) and T-cell receptor (TCR) engineered T-cells, represents a paradigm shift in cancer immunotherapy. However, limitations persist, including suboptimal effector function, tonic signaling, antigen escape, and the potential for graft-versus-host disease in allogeneic settings. This review synthesizes recent advances demonstrating how the CRISPR/Cas9 system is being leveraged to overcome these hurdles. We detail its application in generating precision knock-outs of endogenous TCRs to enhance safety and efficacy of engineered TCR T-cells, and in disrupting inhibitory immune checkpoints like PD-1 to bolster T-cell persistence within the immunosuppressive tumor microenvironment. Furthermore, we explore strategies for the targeted integration of CAR transgenes into specific genomic loci to achieve more stable and potent antitumor responses. The evidence from pre-clinical and early-phase clinical trials in 2021 strongly indicates that CRISPR/Cas9-mediated genome editing is a transformative tool for creating next-generation "off-the-shelf" allogeneic CAR T-cells and armored autologous T-cells with superior specificity, potency, and durability, thereby expanding the therapeutic landscape for refractory malignancies.

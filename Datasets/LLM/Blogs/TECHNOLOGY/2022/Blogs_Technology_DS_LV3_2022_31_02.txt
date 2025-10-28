@@ -1,1 +1,0 @@
-Back in 2022, I was scraping financial news and running semantic analysis to forecast trends. Those late nights wrestling with code taught me more about quantitative finance than any textbook ever could.

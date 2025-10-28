@@ -1,5 +1,0 @@
-Title: Investigating the Formation of Vinyl-Bearing Molecules on Interstellar Dust Grains via Radical Addition and H Abstraction Reactions
-
-Abstract:
-
-The interstellar medium (ISM) is characterized by a complex chemistry involving the interaction of gas-phase species with interstellar dust grains. This study explores the formation of vinyl and ethyl molecules on these grains through radical addition and H abstraction reactions, crucial processes in the synthesis of complex organic molecules. Employing a combination of theoretical models and laboratory experiments, we examine the reactivity of vinyl-bearing species on dust grain surfaces. Our results indicate that radical addition reactions facilitate the formation of vinyl-bearing molecules, while H abstraction reactions play a pivotal role in their subsequent processing. The findings provide insight into the chemical evolution of the ISM, shedding light on the role of interstellar dust grains in the formation of complex molecular species. This research contributes to our understanding of the astrochemical processes governing the ISM, with implications for the origins of organic matter in the universe. (2022)

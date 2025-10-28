@@ -1,3 +1,0 @@
-## The Quiet Before the Storm: Horizon Instant Clones and Maintenance Mode
-
-It’s 2022, and managing a VMware Horizon environment feels like a constant juggle. Recently, I was facing an ESXi host maintenance window and realized I needed a smoother way to handle those Instant Clone ParentVMs. PowerCLI to the rescue! Crafting a script to gracefully disable or power them off *before* entering Maintenance Mode felt like a small victory – a quiet moment of preparation before the potential storm of updates. Anyone else relate to that feeling of relief when automation clicks?

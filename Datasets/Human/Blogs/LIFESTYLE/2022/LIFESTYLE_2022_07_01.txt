@@ -1,5 +1,0 @@
-Year: 2022
-Author: SunShinesForMe
-URL: https://www.reddit.com/r/amazonecho/comments/zzh79f/import_bookmarks_to_echo_show_15/
-
-I want to use my Show as an electronic cookbook, and I already have a ton of recipes bookmarked that I use fairly regularly. I can’t figure out how to import these to the Silk browser on my new Echo Show 15. I’m using a Mac but have a PC if that will work better. Any ideas?

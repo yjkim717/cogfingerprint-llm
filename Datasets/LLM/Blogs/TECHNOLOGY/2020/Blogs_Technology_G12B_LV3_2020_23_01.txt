@@ -1,5 +1,0 @@
->## The Bluetooth Blues and My Zoom Calls
-
-Anyone else feeling a little frustrated with tech lately? I’ve been wrestling with a weird issue on my iPad Pro – the audio quality through Bluetooth speakers during Zoom and Google Meet calls has just… plummeted. It's muffled, distorted, a real struggle to hear clearly. 
-
-The odd thing? Everything else works perfectly. Music, podcasts, even games through Bluetooth sound fantastic. It's just these video conferencing apps. I've scoured forums, and apparently, I'm not alone. It feels like a sneaky iOS glitch impacting these essential tools we rely on so heavily in 2020. Fingers crossed Apple releases an update soon – clear communication is more crucial than ever these days!

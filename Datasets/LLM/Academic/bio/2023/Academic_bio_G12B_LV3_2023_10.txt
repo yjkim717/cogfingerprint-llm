@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a bio-focused publication in 2023:
-
-**Abstract**
-
-Data-independent acquisition (DIA) mass spectrometry has emerged as a powerful technique for quantitative proteomics, yet efficient and accurate peptide identification remains a computational bottleneck. This study presents MSFragger-DIA, a novel integration of the MSFragger peptide identification algorithm within the FragPipe data analysis platform, designed to address these challenges. Our approach leverages MSFragger’s deep learning-based fragment ion matching to enhance peptide identification accuracy from complex DIA datasets. Benchmarking against established DIA analysis workflows reveals significant improvements in both processing speed and identification rates across a range of proteomic applications, including targeted quantification and discovery proteomics. The implementation of MSFragger-DIA within FragPipe streamlines the DIA proteomics analysis pipeline, offering researchers a robust and efficient tool for maximizing data utilization and accelerating biological discovery in 2023.

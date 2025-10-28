@@ -1,5 +1,0 @@
-Year: 2023
-Author: vortexmak
-URL: https://www.reddit.com/r/Amd/comments/10a80xj/why_do_none_of_the_am5_motherboards_support_sata/
-
-I've looked at every single motherboard and none of them support SATA M.2 SSDs So, it has to be the chipset that dropped support. Very frustrating cause I have multiple high capacity M.2 SATA SSDs and was looking to get AM5 but the high cost plus no support for M.2 SATA has me leaning Intel I have a mini ITX motherboard so no add on cards etc

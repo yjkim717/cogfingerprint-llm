@@ -1,9 +1,0 @@
-def generate_blog_post(keywords, summary, year):
-    blog_post = f"In {year}, the college football scene was abuzz with talent, and one name stood out among the rest: Mac Jones. As I look back on that season, I'm still impressed by Jones' record-breaking performance. He dominated the field with his incredible completion percentage and passing efficiency rating, leaving fans and critics alike in awe. What struck me most was his poise and precision under pressure. Jones' ability to read the game and make accurate throws was unparalleled. His stats were more than just numbers - they told the story of a dedicated athlete who put in the work to master his craft. As we reflect on that season, it's clear that Mac Jones was a force to be reckoned with, and his records will be remembered for a long time to come."
-    return blog_post
-
-keywords = ["mac jones", "completion percentage", "passing efficiency rating", "college football", "quarterback records"]
-summary = "Mac Jones breaks records for completion percentage and passing efficiency rating in the 2021 college football season."
-year = 2021
-
-print(generate_blog_post(keywords, summary, year))

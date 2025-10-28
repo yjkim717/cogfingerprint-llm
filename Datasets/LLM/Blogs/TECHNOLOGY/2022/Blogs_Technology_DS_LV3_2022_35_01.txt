@@ -1,3 +1,0 @@
-It’s 2022, and I’m staring at a screen full of numbers—just another day wrestling with numpy and linear algebra for a machine learning project. At first, eigenvectors and eigenvalues felt like abstract math puzzles, distant and rigid. But then it clicked: numpy’s `eig` function reveals these hidden traits of a matrix without me ever defining a transformation explicitly. It’s like discovering the soul of the data, the directions where everything just “stretches” or “flips,” yet stays true to itself.
-
-That moment was humbling. It reminded me that even in technology, some of the most profound insights emerge not from forcing change, but from listening to what’s already there. A quiet lesson in a noisy digital world.

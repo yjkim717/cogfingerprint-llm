@@ -1,7 +1,0 @@
- concerning the struggles of maintaining consistency in Counter-Strike: Global Offensive between matchmaking and Faceit.
-
-## That AWP Angle Just *Feels* Different, Doesn't It?
-
-Anyone else notice a massive difference in how holding angles feels between a casual CS:GO matchmaking game and a Faceit match? I’ve been racking my brain about it lately. I'm consistently holding those tricky spots on Faceit, landing those clutch AWP shots, feeling *confident*. Then I hop into MM and… suddenly I’m getting peeker's advantage every other round.
-
-It’s not just the tick rate, though that definitely plays a part. It’s something more. Maybe it’s the slightly more predictable player behavior on Faceit, the higher overall skill level, or just the pressure being different. Whatever it is, it’s frustrating! Anyone else have this experience? Let’s commiserate in the comments!

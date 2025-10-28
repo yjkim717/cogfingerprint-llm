@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: The Ghrelin System in Colorectal Cancer Progression: Emerging Implications for Diagnosis and Prognosis
-
-Abstract:
-The ghrelin system, comprising ghrelin, its receptor (GHSR1a), and related peptides, has been increasingly implicated in colorectal cancer (CRC) progression. Recent studies have elucidated the expression and functional roles of ghrelin and its receptor in colon carcinogenesis, highlighting their potential as diagnostic and prognostic biomarkers. Within the gastrointestinal tract, the ghrelin system modulates various physiological processes, including cell proliferation, apoptosis, and inflammation, which are dysregulated in CRC. As of 2022, accumulating evidence suggests that the ghrelin system contributes to CRC progression by promoting cell growth, survival, and metastasis. This review aims to summarize the current understanding of the ghrelin system's role in CRC and its potential applications in diagnosis and prognosis, providing insights into novel therapeutic strategies for CRC management. By elucidating the molecular mechanisms underlying ghrelin-mediated CRC progression, this research may lead to improved patient outcomes.

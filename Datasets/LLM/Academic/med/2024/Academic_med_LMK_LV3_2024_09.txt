@@ -1,4 +1,0 @@
-Title: Leveraging Mendelian Randomization to Elucidate Causal Relationships in Neurological Disorders
-
-Abstract: 
-Mendelian randomization (MR) has emerged as a powerful tool in neurology, enabling researchers to infer causality between genetic variants and disease outcomes. By harnessing genetic associations from genome-wide association studies, MR mitigates confounding and reverse causation, thereby clarifying epidemiologic controversies. As of 2024, the integration of MR with cutting-edge genomic data has significantly advanced our understanding of neurological disorders. This methodological synergy has not only validated novel therapeutic targets but also redefined the landscape of neurological research, paving the way for precision medicine interventions and targeted treatments. Causal inferences derived from MR analyses are revolutionizing neurology.

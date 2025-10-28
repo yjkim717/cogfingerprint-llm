@@ -1,5 +1,0 @@
-Year: 2024
-Author: FrankieB86
-URL: https://www.reddit.com/r/StableDiffusion/comments/1dietsc/kohya_fine_tune_guide/
-
-Does anyone have any guides on how to fine tune with Kohya? I'm not seeing anything in the repo, in the tutorial section, on YouTube, or elsewhere. I get the feeling I'm missing something because Kohya always returns the "returned non-zero exit status 1" error when I try and start the training, and the only value errors I'm seeing is "no metadata".

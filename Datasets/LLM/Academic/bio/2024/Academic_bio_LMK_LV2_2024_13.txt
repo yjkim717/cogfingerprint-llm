@@ -1,6 +1,0 @@
-Here's a formal academic-style abstract based on the provided summary:
-
-Title: Predicting Disease Status in Human B-Cell Follicles using SNOWFLAKE: A Graph Neural Network Framework for Multiplex Imaging Analysis
-
-Abstract:
-The advent of multiplex imaging has revolutionized the field of spatial morphoproteomics, enabling the simultaneous analysis of multiple cellular markers at the single-cell level. Leveraging this technological advancement, we present SNOWFLAKE, a graph neural network (GNN) framework designed to predict disease status from multiplex cell expression and morphology data in human B-cell follicles. By integrating cell-level features and spatial relationships, SNOWFLAKE facilitates the identification of complex patterns and interactions that underlie disease progression. Our framework demonstrates robust performance in predicting disease status, highlighting its potential as a valuable tool for translational research and clinical diagnostics. As a pioneering application of GNNs in multiplex imaging analysis, SNOWFLAKE paves the way for further exploration of the intricate relationships between cellular morphology, expression profiles, and disease pathology. (2024)

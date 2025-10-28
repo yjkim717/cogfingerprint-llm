@@ -1,5 +1,0 @@
-It was one of those moments every IT pro dreads: the ADFS SSL certificate was expiring, and our automated renewal process had hit a wall. The PowerShell command kept failing with a cryptic farm detection error, leaving our team staring at screens in frustration.
-
-Then came the breakthrough—a quiet discovery in the documentation about the `-member` parameter. Instead of letting the system guess, we explicitly told it which server to target. Suddenly, what felt like an impossible puzzle clicked into place. The certificate renewed seamlessly.
-
-In 2022, we often chase complex solutions, forgetting that technology responds best to clear, direct communication. That simple parameter wasn’t just a fix; it was a reminder to meet systems on their terms. Sometimes, the most powerful command isn’t the smartest one—it’s the one that listens.

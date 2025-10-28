@@ -1,5 +1,0 @@
-Year: 2020
-Author: Nuoji
-URL: https://www.reddit.com/r/C_Programming/comments/ht69du/how_often_do_you_use_macros_for_declaration_is/
-
-I'm doing some research for a programming language I'm working on ( The goal is to improve a little on C while staying as close as possible to the syntax and coding style we all love about C. What I'm looking at right now are macros, and after reviewing a lot of papers on alternatives I'd like to do some informal research in the community. I wonder about one particular class of macros, namely those that actually declare new variables in various ways using macros for use outside of the macro. I personally use these on occasion, but at the same time I always worry about the readability when introducing variables implicitly. So I'd like to hear from people: how essential is this use? And what do you use them for? Could the uses be bundled into some other functionality? Examples: #define DECLARE_LIST(name) List name = { .head = NULL }; #define DECLARE_STRING(name, s) char *name##_str = #s Let me hear what you think of this macro usage. Great or horrible? Essential for something? If so what?

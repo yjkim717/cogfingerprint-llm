@@ -1,5 +1,0 @@
- Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a university researcher and adhering to your specifications:
-
-**Abstract**
-
-Understanding the surface dynamics of reactive oxygen species (ROS) within interstellar ice is crucial for modeling astrochemistry. This study, conducted in 2022, investigates the diffusion of hydroxyl (OH) radicals on astrophysically relevant water ice analogs. Utilizing photostimulated desorption coupled with resonance-enhanced multiphoton ionization, we experimentally determined an activation energy (E<sub>a</sub>) of 0.14 ± 0.01 eV for OH radical surface diffusion. This measured value of E<sub>a</sub> represents a notable deviation from previously employed values within theoretical interstellar ice models, suggesting a potential need for refinement in current kinetic descriptions of radical surface processes. These findings contribute to a more accurate representation of chemical evolution in cold, dense astrophysical environments.

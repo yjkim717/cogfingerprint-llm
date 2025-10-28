@@ -1,9 +1,0 @@
-Of course. Here is an original blog post inspired by your summary, written in a reflective, conversational tone.
-
-***
-
-### The Code and The Canvas
-
-I was wrestling with a massive AI model, trying to get it to add a simple feature to my old, cluttered codebase. It kept failing, tripped up by its own limited "context window"—it couldn't hold the entire project in its mind at once.
-
-It struck me how much this mirrors my own life in 2023. I’ve been trying to "add new features"—like a meditation habit or more reading—without clearing out the old, noisy code of my routines. The context window of my day is only so big. The lesson, from GPT-4 to me? Before you can add something new, you have to make space, decluttering the mental workspace to let the real change compile.

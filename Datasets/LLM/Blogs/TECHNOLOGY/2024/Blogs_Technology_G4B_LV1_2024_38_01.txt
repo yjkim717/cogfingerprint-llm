@@ -1,9 +1,0 @@
-Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 103 words:
-
----
-
-**Topic Modeling Headaches (and a Plea for Keras)**
-
-Okay, so 2024 – I’m diving deep into topic modeling, trying to wrangle insights from some messy text data. I’ve bounced between LDA in Gensim, and even poked at sklearn, all in Python, of course. It’s fascinating, but honestly? Tracking progress felt… clunky. 
-
-I desperately need that iterative, visual feedback you get with Keras.  It’s like trying to bake a cake without a thermometer – you’re just guessing!  Anyone else wrestling with this?  Are there better ways to monitor topic coherence than the standard metrics? Let’s troubleshoot together!

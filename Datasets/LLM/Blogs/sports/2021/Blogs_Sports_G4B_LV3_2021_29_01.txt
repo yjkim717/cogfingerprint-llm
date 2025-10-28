@@ -1,2 +1,0 @@
-Input: A Redditor is seeking recommendations for a 75-inch 4K TV under $1000, particularly considering the differences between OLED and QLED technologies.
-Output: 2021 felt like a year of big screens. I was obsessed with watching the Euros, and my old 4K TV just wasn’t cutting it. A 75-inch felt like *essential*, but the budget was tight. Honestly, I wrestled with OLED vs. QLED – both seemed amazing, yet out of reach. It’s a familiar feeling, chasing that perfect viewing experience!

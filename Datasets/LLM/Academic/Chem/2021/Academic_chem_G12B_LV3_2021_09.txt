@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, written in the style of a 2021 publication:
-
-**Abstract**
-
-Understanding the morphology of ices coating refractory grains is crucial for modeling astrochemistry and the evolution of protoplanetary disks. This study, conducted in 2021, employed transmission electron microscopy (TEM) to characterize the morphology of water (H₂O), carbon dioxide (CO₂), and carbon monoxide (CO) ices deposited on various grain analogs. Our findings demonstrate that ice crystal formation is not a universal process; instead, it exhibits significant dependence on both ice composition and the underlying substrate material. Observed variations in morphology—ranging from amorphous layers to distinct crystalline structures—have implications for ice binding energies, surface reactivity, and ultimately, the efficiency of gas-grain chemical reactions within molecular clouds and protoplanetary disk environments. These results contribute to a more nuanced understanding of grain surface processes in space.

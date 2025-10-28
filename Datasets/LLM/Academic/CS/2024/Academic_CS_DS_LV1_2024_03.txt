@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary, contextualized for 2024.
-
-***
-
-**Title:** A Logarithmic Approximation for Revenue Maximization via Sequential Ex Ante Pricing
-
-**Abstract:**
-
-The problem of maximizing revenue when selling heterogeneous items to buyers with complex valuation functions remains a central challenge in algorithmic mechanism design. While significant progress has been made for simpler classes like additive valuations, the case of subadditive buyers—a natural model for items with diminishing marginal utility—has proven more elusive, particularly under the stringent requirement of simple, sequential pricing mechanisms. In this work, we bridge this gap by introducing a novel multi-dimensional Online Contention Resolution Scheme (OCRS) tailored for revenue maximization. Our approach operates in the ex ante relaxation, where we first compute an optimal fractional solution. The core technical contribution is a sequential item pricing mechanism that carefully correlates prices across different items and buyers. We demonstrate that our OCRS, when applied to this relaxation, yields a feasible pricing sequence that achieves an \(O(\log^2 m)\)-approximation to the ex ante optimal revenue, where \(m\) is the number of items. This result significantly improves upon prior mechanisms that either offered weaker approximation guarantees or relied on more complex, non-sequential formats. Our framework establishes a powerful connection between the theory of OCRS, originally developed for prophet inequalities, and the design of simple yet near-optimal sequential mechanisms, providing a versatile tool for a broader class of combinatorial valuation functions beyond subadditivity.

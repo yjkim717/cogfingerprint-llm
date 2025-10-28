@@ -1,8 +1,0 @@
-Author: N. Arkani-Hamed
-Title: All-order splits and multi-soft limits for particle and string amplitudes
-Paper ID: d73c8829608a2fff40f61dd739fe416cbc4fc8cb
-Year: 2024
-Author Index: 2
-
-Abstract:
-The most important aspects of scattering amplitudes have long been thought to be associated with their poles. But recently a very different sort of"split"factorizations for a wide range of particle and string tree amplitudes have been discovered away from poles. In this paper, we give a simple, conceptual origin for these splits arising from natural properties of the binary geometry of the curve integral formulation for scattering amplitudes for Tr$(\Phi^3)$ theory. The most natural way of"joining"smaller surfaces to build larger ones directly produces a choice of kinematics for which higher amplitudes factor into lower ones. This gives a generalization of splits to all orders in the topological expansion. These splits allow us to access and compute loop-integrated multi-soft limits for particle and string amplitudes, at all loop orders. This includes split factorizations and multi-soft limits for pion and gluon amplitudes, that are related to Tr$(\Phi^3)$ theory by a simple kinematical shift.

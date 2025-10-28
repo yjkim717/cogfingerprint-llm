@@ -1,7 +1,0 @@
-Okay, here's a blog post draft inspired by the Reddit sale, aiming for a reflective, conversational tone and around 95 words, set in 2021:
-
----
-
-**The Unexpected Joy of a Secondhand PSU**
-
-Honestly, I was just scrolling through Reddit last week, hunting for a cheap case fan, when I saw it – a used Corsair CX750M PSU going for $75, complete with everything. It felt…random. But I’d been eyeing a headless server for my home lab, and this was a surprisingly smart hardware swap.  It’s funny how a little online serendipity can deliver a perfectly serviceable piece of tech, and remind you that great deals – and good vibes – can be found in the most unexpected places.

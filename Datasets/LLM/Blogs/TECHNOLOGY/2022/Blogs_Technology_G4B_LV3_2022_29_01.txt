@@ -1,5 +1,0 @@
-Okay, here’s a blog post draft based on your summary and style guidelines:
-
----
-
-“I’ve been diving deep into C3 lately, spurred on by the challenge of Advent of Code. It’s fascinating how different it feels compared to C – almost like a distant cousin! Slicing through the code, building little examples, has really driven home the unique quirks of this language. It’s a rewarding process, and a surprisingly engaging way to sharpen my programming skills in 2022.”

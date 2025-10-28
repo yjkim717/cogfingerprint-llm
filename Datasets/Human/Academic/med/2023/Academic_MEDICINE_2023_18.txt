@@ -1,8 +1,0 @@
-Author: W. Gradishar
-Title: NCCN Guidelines® Insights: Breast Cancer, Version 4.2023.
-Paper ID: c314eb13d82e8ce3603bea8234c20f840bd365c4
-Year: 2023
-Author Index: 18
-
-Abstract:
-The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Breast Cancer address all aspects of management for breast cancer. The treatment landscape of metastatic breast cancer is evolving constantly. The therapeutic strategy takes into consideration tumor biology, biomarkers, and other clinical factors. Due to the growing number of treatment options, if one option fails, there is usually another line of therapy available, providing meaningful improvements in survival. This NCCN Guidelines Insights report focuses on recent updates specific to systemic therapy recommendations for patients with stage IV (M1) disease.

@@ -1,3 +1,0 @@
-It’s 2023, and the frontend job hunt feels like navigating a maze. I’ve spent years bouncing between Rails and Python, but lately, I’ve found myself drawn to TypeScript roles. There’s something about that static typing safety net—no more midnight debugging sessions chasing elusive dynamic type errors.
-
-Don’t get me wrong, Vue and Rails are fantastic tools, but in today’s competitive market, I’m prioritizing clarity and scalability. TypeScript just clicks for me; it’s like trading a sketchpad for blueprints. Sure, the learning curve was steep, but now I can’t imagine going back. My advice? Find the tech that not only pays the bills but also brings you peace of mind.

@@ -1,5 +1,0 @@
-Year: 2024
-Author: schizophrenic_yuppie
-URL: https://www.reddit.com/r/sysadmin/comments/1dyp6jt/need_to_exfil_my_domains_from_squarespace/
-
-Hi, I know I am super late to the Google domains migration to Squarespace conversation, and I read past posts but I wanted to cast some necromancy this topic since domain services are always changing and wanted to track down some hot tips. My fallback plan is to switch my registrations to DNSimple. I used Cloudflare for DNS. I also register on Cloudflare for some, but a ton of my clients are Canadian and they don't do \`.ca\` Who are you happy with these days for domain registration? Thanks, friends.

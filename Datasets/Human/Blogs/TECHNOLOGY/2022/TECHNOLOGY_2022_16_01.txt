@@ -1,5 +1,0 @@
-Year: 2022
-Author: Vanals
-URL: https://www.reddit.com/r/ethereum/comments/s25cn8/process_to_unstake_steth_from_lido_to_eth/
-
-Hi, I staked some Eth using the Leger Lido application, but I am not sure I did a good choice. So I would like to unstack them and get them back in ETH. Can someone explain me the steps? I saw some other posts but did not find these steps. I read about curve, but curve does not see the leger account with the STeth. Do I need first SEND the STeth from the 'Lido Staked ETH' leger account to and Etherium leger account(can I move STeth to an ETH account?) and THEN swap them with curve? Can i have eth and STeth in the same leger account? Thank you!

@@ -1,5 +1,0 @@
-It was one of those 2020 mornings—the kind where my coffee had gone cold before my third troubleshooting attempt. The Exchange server had developed a mysterious stutter, with queues backing up like freeway traffic at rush hour. Each "DNS query failed" error felt like a personal affront in our newly remote-work world, where every email delay echoed through silent Slack channels.
-
-I’d almost resigned myself to another long day of cryptic logs when I noticed it: IPv6 queries, quietly hijacking the process. In a year when so much felt out of our control, here was a ghost in the machine I could actually confront. A quick reconfiguration of the DNS settings, a deep breath, and a restart of the transport services—like rebooting not just the system, but my own patience.
-
-Sometimes the smallest settings hold the greatest power. That afternoon, watching queues flow smoothly again, I was reminded that even in complex systems, solutions often lie in returning to the fundamentals—and listening closely to what the technology is trying to tell us.

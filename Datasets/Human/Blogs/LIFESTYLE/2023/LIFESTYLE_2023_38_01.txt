@@ -1,5 +1,0 @@
-Year: 2023
-Author: Atorpidguy
-URL: https://www.reddit.com/r/flutterhelp/comments/17i3f8l/to_go_with_flutter_or_not/
-
-I am planning to develop an app for my client which would: 1. Have a google, Facebook auth 2. Connect to a hardware device which the client would be having, via Bluetooth 3. Use WiFi to control the device like turning it off and on and sending some scheduling data - using MQTT Should I opt for xcode swift only or choose Flutter for this? I am asking on this sub because I am not an experienced app developer, specially when it comes to Flutter. And I've done my research to know the trade offs and stuff between choosing one over the other. But I wanted to ask developers for my specific points that would it be capable of doing so or not?

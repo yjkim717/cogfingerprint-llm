@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The accurate segmentation of cellular structures in microscopy images is a foundational task in computational biology. While generalist segmentation models offer broad applicability, they often underperform on specialized datasets exhibiting unique morphological characteristics or imaging artifacts. This paper introduces a novel human-in-the-loop framework for the rapid generation of specialist cellular segmentation models. Our methodology leverages a pre-trained ensemble model as a robust feature extractor and a powerful initialization prior. We demonstrate that by integrating sparse, iterative user annotations—a process that minimizes expert annotation overhead—the system can fine-tune and distill a specialized model in minutes rather than hours. Empirical evaluation across diverse biological datasets shows that these specialist models significantly outperform both the generalist base model and existing state-of-the-art methods in segmentation accuracy (as measured by average precision) and boundary delineation. This work establishes a new paradigm for efficiently tailoring deep learning solutions to specific experimental contexts in biomedical image analysis.
-
-**(Word Count: 180)**

@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The hydrogenation of carbon monoxide (CO) on interstellar dust grain analogues is a cornerstone reaction in the formation of complex organic molecules (COMs) in the cold, dense regions of the interstellar medium. While the formation of formaldehyde (H₂CO) and methanol (CH₃OH) is well-established, the mechanism enabling these solid-state diffusive hydrogenation reactions at temperatures as high as 70 K remains a subject of active investigation, as hydrogen atom (H) diffusion on a pristine amorphous solid water (ASW) surface is typically quenched below 30 K. In this study, we employ temperature-programmed desorption (TPD) and reflection-absorption infrared spectroscopy (RAIRS) to demonstrate that the microporous network of ASW provides a conduit for the bulk diffusion of H atoms. We propose that H atoms permeate through transient pores and cracks within the water ice matrix, thereby accessing and sequentially hydrogenating embedded CO molecules. This bulk diffusion pathway effectively bypasses the prohibitive activation barrier for surface diffusion, rationalizing the observed efficient formation of H₂CO and CH₃OH at astronomically relevant temperatures up to 70 K. Our findings necessitate a revision of current astrochemical models to incorporate this non-surface-mediated hydrogenation mechanism.

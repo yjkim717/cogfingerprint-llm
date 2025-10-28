@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Enhancing Systematic Generalization in Neural Networks through Meta-Learning for Compositionality
-
-Abstract:
-Achieving human-like generalization capabilities in neural networks remains a fundamental challenge in artificial intelligence. Recent advancements in meta-learning have shown promise in enabling models to learn compositional representations, a crucial aspect of systematic generalization. This paper presents a meta-learning for compositionality (MLC) approach that optimizes neural networks to generalize systematically by leveraging compositional skills. By meta-training on diverse tasks that require compositional reasoning, the proposed MLC framework enables neural networks to capture the underlying structure of data and generalize to unseen combinations of known elements. Our results demonstrate that MLC significantly improves systematic generalization in neural networks, bringing their performance closer to human-like generalization. This work contributes to the development of more robust and generalizable AI systems, with implications for a wide range of applications in natural language processing, computer vision, and beyond. (2023)

@@ -1,3 +1,0 @@
-## The Curious Case of Resolution and Hex Codes
-
-Something weird popped up on Reddit the other day – a discussion about converting screen resolutions to hex values. Apparently, 7680x4320 and 3840x2160 share a surprising similarity in their hex representation! It got me thinking about how we, as tech users, often gloss over the underlying code that makes our displays look so crisp in 2021. It’s a fascinating little rabbit hole!

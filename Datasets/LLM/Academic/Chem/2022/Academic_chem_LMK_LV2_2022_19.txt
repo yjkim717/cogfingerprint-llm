@@ -1,6 +1,0 @@
-Here's a formal academic-style abstract based on the provided summary:
-
-Title: Enhanced Li-ion Battery Performance via Al2O3-Based Inorganic Separator and Spray-Deposited Cathode-Anode Multilayers
-
-Abstract:
-The development of high-performance Li-ion batteries relies heavily on advancements in separator technology and electrode fabrication. This study presents a novel Al2O3-based inorganic separator that enables the direct deposition of cathode-anode multilayers via spray deposition, streamlining the fabrication of Li-ion battery full cells. The Al2O3-based separator exhibits excellent electrochemical stability, facilitating improved ionic conductivity and mitigating thermal runaway risks. The spray-deposited cathode-anode multilayers demonstrate enhanced interfacial contact and reduced charge transfer resistance. Consequently, the assembled Li-ion battery full cells exhibit superior cycling stability and rate capability. The proposed Al2O3-based separator and spray deposition technique offer a promising avenue for the development of high-performance Li-ion batteries. The findings of this research underscore the potential of inorganic separators and advanced deposition techniques in enhancing the electrochemical performance of Li-ion batteries. (2022)

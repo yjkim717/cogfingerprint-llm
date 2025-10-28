@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a chemistry-related publication, and contextualized to 2021:
-
-**Abstract**
-
-Understanding the morphology of ices within interstellar environments is crucial for accurately modeling protoplanetary disk evolution and the formation of complex organic molecules. This study, conducted in 2021, employs transmission electron microscopy (TEM) to characterize the morphology of H₂O, CO₂, and CO ices deposited on refractory grain analogs. Our findings demonstrate that ice crystal growth is not a uniform, layered process, but is instead strongly influenced by both ice composition and the underlying substrate material. These observations challenge existing models of icy grain morphology and highlight the need for refined simulations incorporating composition-dependent nucleation and growth mechanisms to better represent interstellar ices.

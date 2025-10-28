@@ -1,5 +1,0 @@
-Title: Elucidating Ligninolytic Mechanisms in Pleurotus ostreatus: A Comparative Transcriptomic Analysis of Mutant Strains
-
-Abstract:
-
-Pleurotus ostreatus, a white-rot fungus, is renowned for its ability to degrade lignin, a complex aromatic polymer in lignocellulose. To elucidate the molecular mechanisms underlying ligninolysis, we conducted a comparative transcriptomic analysis of wild-type P. ostreatus and ligninolysis-deficient mutant strains. Using RNA sequencing, we identified 427 differentially expressed genes (DEGs) between the wild-type and mutant strains. Notably, several lignocellulolytic genes, including laccases and peroxidases, were downregulated in the mutant strains. Transcriptional analysis revealed significant alterations in the expression of genes involved in lignin degradation pathways, suggesting a regulatory network controlling ligninolysis. Our findings provide insights into the molecular mechanisms governing lignin degradation in P. ostreatus and have implications for the development of biotechnological applications utilizing this fungus for biomass conversion. (2020)

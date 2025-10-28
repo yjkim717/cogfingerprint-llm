@@ -1,1 +1,0 @@
-This work establishes a fundamental equivalence in computational learning theory: a concept class is privately PAC learnable if and only if it is online learnable. We prove that both properties are characterized by a finite Littlestone dimension, thereby unifying the statistical and adversarial models of learning under the constraint of differential privacy.

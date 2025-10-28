@@ -1,5 +1,0 @@
-Year: 2024
-Author: gman1230321
-URL: https://www.reddit.com/r/firefox/comments/1bvg4lj/is_there_any_particular_reason_firefox_still/
-
-I can’t find anything online about this aside from a bugzilla tracker saying the status of “Introduce WebBluetooth Support” is “RESOLVED WONTFIX” which is pretty discouraging. Is it just simply too complicated of a stack to implement and isn’t worth the effort? Or is there some more concrete reason why?

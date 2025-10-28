@@ -1,5 +1,0 @@
-Year: 2021
-Author: Draconic_Flame
-URL: https://www.reddit.com/r/playsavageplanet/comments/lf8gyr/bug_with_sychis_trial/
-
-My friend and I were playing cooperatively when we got to Sychi's trial where you have to survive the lasers. I accidentally went in before him and started the trial while he had to wait below. I died during it and reset back to base, and when we went back we were unable to start it. We tried dying, resetting, exiting the game and entering it again, going back in singleplayer, nothing works. Anybody know how to fix this?

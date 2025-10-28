@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract**
-
-Recent astrochemical modeling efforts have increasingly recognized the critical role of interstellar ices in the chemical evolution of molecular clouds. This study examines the preferential condensation of carbon atoms onto ammonia-water ices, utilizing detailed astrochemical simulations. Our findings demonstrate that methylamine emerges as the thermodynamically favored product of this condensation process, exhibiting superior resistance to hydrogen abstraction compared to ammonia. This stability pathway directly facilitates the formation of interstellar methanimine, a previously underappreciated precursor.  Furthermore, these results are incorporated into updated astrochemical kinetic models, improving the accuracy of predicted abundances of key interstellar species.  The observed selectivity highlights the importance of considering complex ice chemistry within radiative transfer calculations and underscores the need for refined models to represent the intricate chemical networks operating in star-forming regions.

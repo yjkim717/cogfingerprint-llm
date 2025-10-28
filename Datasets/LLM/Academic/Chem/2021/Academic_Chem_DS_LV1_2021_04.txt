@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
-
-***
-
-**Abstract**
-
-The emerging field of vibrational polariton chemistry, wherein molecular ensembles are coherently coupled to confined electromagnetic modes of an optical cavity, has demonstrated the ability to significantly alter chemical landscapes without external reactants. A prominent and puzzling manifestation of this phenomenon is the suppression of fundamental reaction rates under vibrational strong coupling (VSC). While observed experimentally, a complete theoretical framework reconciling the role of cavity parameters remains elusive. Herein, we present a theoretical investigation that attributes the suppression mechanism to the interplay between collective VSC and intrinsic non-Markovian dynamics of the molecular system. We demonstrate that the formation of vibrational polaritons effectively projects the reactive molecular coordinate onto a hybrid light-matter state, imposing a dynamical constraint on the reaction pathway. Crucially, this constraint exhibits a pronounced frequency dependence: maximal suppression of the reaction rate is achieved when the cavity frequency is resonant with the specific vibrational mode governing the reaction coordinate. This resonance condition induces a "caging" effect, where the polaritonic energy exchange with the cavity reservoir non-trivially delays barrier crossing events. Our model, which explicitly treats the cavity environment as a non-Markovian bath, reveals that the memory effects are essential for capturing the observed kinetics. These findings provide a unified explanation for VSC-mediated reaction control, emphasizing the critical roles of cavity frequency tuning and collective quantum dynamics.
-
-**(Word Count: 248)**

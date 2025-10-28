@@ -1,1 +1,0 @@
-"As I dove into Advent of Code 2022, I discovered C3, a language that's both familiar and fresh. With its C roots, C3 brought a new flavor to my coding experience. I explored its unique features through AoC challenges, and was impressed by its potential - a compelling evolution in the world of programming."

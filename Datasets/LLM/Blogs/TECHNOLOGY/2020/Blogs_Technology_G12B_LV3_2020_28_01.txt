@@ -1,3 +1,0 @@
-## The Timeout Blues and the Pursuit of Perfect Code
-
-Okay, confession time: I'm staring down a USACO problem right now, and my code is *timing out*. It's frustrating, right? I thought I'd squeezed every drop of optimization I could, reversing array segments like a pro. But the clock keeps ticking. It’s a stark reminder that even the cleverest algorithms can stumble. Back to the drawing board – and maybe a strong cup of coffee! Anyone else feel this pain?

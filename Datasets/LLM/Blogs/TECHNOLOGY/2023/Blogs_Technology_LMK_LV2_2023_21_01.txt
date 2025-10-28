@@ -1,1 +1,0 @@
-generate_text( topic="automatic video thumbnail generation in Laravel", tone="conversational", length="~76 words")

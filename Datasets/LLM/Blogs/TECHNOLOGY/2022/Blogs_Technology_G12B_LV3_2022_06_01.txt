@@ -1,7 +1,0 @@
->## The Eternal 60fps Quest (and My Fallout 4 Struggles)
-
-Okay, tech nerds, let’s talk about chasing the smooth. I’ve been utterly consumed lately trying to get *Fallout 4* running silky smooth on my new high refresh rate monitor. It should be simple, right? Higher refresh rate means more frames, more fluidity… but it’s been anything but.
-
-I dove down the rabbit hole of tweaking settings, desperately trying to hit a stable 60fps. VSync became my nemesis – turn it on, and I’d get screen tearing and input lag that made aiming feel like wading through molasses. Turn it off, and *boom* – crashes. Seriously, who designs a system like this?!
-
-It’s a frustrating reminder that even with all the advancements in tech, getting older games to play perfectly with modern hardware can feel like a full-time job. I’m still tinkering, still searching for that sweet spot. Anyone else battling similar demons? Let me know your tips in the comments - I'm all ears!

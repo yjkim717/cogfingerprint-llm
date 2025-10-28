@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2021.
-
-***
-
-**Abstract**
-
-The structural characterization of water ice, particularly its amorphous and crystalline phases accreted on refractory grain surfaces, is critical for accurately modeling astrochemical processes in the interstellar medium and protoplanetary disks. Conventional models often presuppose the formation of homogeneous, uniform ice mantles. This study employs high-resolution transmission electron microscopy (TEM) to directly investigate the morphology of water ice deposited under astrophysically relevant conditions onto a variety of silicate and carbonaceous grain analogues. Our findings demonstrate that the resulting ice architecture is not uniform but is fundamentally governed by a complex interplay between the chemical composition of the ice mixture (e.g., the presence of volatiles like CO or CH₃OH) and the nanoscale physicochemical properties of the underlying refractory substrate. We observe distinct variations in amorphous ice stability, crystallization kinetics, and microstructural texture contingent upon the substrate composition and morphology. These results directly challenge the prevailing assumption of homogeneous ice layers in astrochemical models, necessitating a revision to incorporate substrate-specific ice morphology as a key parameter influencing chemical reactivity, desorption behavior, and ultimately, the evolution of molecular complexity in space.

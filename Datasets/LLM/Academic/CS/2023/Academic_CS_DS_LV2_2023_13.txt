@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-A central challenge in artificial intelligence is equipping neural networks with human-like systematic generalization—the capacity to comprehend and produce novel combinations of known elements. While powerful, standard neural models often fail on compositions outside their training distribution, revealing a fundamental gap in compositional reasoning. This paper posits that meta-learning, which optimizes a model's ability to learn new tasks rapidly, provides a principled pathway to this capability. We introduce a framework that explicitly optimizes for compositional skills through dynamic, procedurally generated task distributions. During meta-training, the model is exposed to a curriculum of tasks that continually require the recombination of primitive operations and concepts, thereby learning a learning algorithm that inherently favors compositional solutions. Our 2023 empirical evaluation across several systematic generalization benchmarks—including SCAN and COGS—demonstrates that our meta-learned agent significantly outperforms conventional supervised learning baselines. The results indicate that the inductive biases acquired through meta-learning closely approximate human-like systematicity, suggesting a promising direction for developing more robust and generalizable artificial cognitive systems.

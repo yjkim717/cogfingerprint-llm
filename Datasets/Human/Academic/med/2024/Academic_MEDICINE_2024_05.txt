@@ -1,8 +1,0 @@
-Author: A. Venook
-Title: Colon Cancer, Version 3.2024, NCCN Clinical Practice Guidelines in Oncology.
-Paper ID: f353992b4d2d218bbc15f25763246b58706a08ee
-Year: 2024
-Author Index: 5
-
-Abstract:
-Colorectal cancer (CRC) is the fourth most frequently diagnosed cancer and the second leading cause of cancer death in the United States. Management of disseminated metastatic CRC involves various active drugs, either in combination or as single agents. The choice of therapy is based on consideration of the goals of therapy, the type and timing of prior therapy, the mutational profile of the tumor, and the differing toxicity profiles of the constituent drugs. This manuscript summarizes the data supporting the systemic therapy options recommended for metastatic CRC in the NCCN Guidelines for Colon Cancer.

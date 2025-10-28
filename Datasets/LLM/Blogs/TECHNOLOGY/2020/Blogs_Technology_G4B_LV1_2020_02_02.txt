@@ -1,9 +1,0 @@
-Okay, here's a blog post draft inspired by the summary, aiming for a conversational tone and around 105 words, set in 2020:
-
----
-
-**My Retro Gaming Nightmare: Android 11 and the SD Card Blues**
-
-Okay, confession time. I was *so* hyped for Android 11 – thought it would finally smooth out my Citra emulator experience. Turns out, it threw a massive wrench in things. Suddenly, my SD card, the lifeline for all my old Game Boy Advance and DS roms, was completely inaccessible. 
-
-It’s incredibly frustrating! It feels like a step backwards, especially when I was hoping for seamless emulation.  Anyone else running into this with the latest updates?  Let’s troubleshoot together – maybe we can figure out how to get our digital nostalgia back!

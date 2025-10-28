@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a bio-focused journal publication in 2020:
-
-**Abstract**
-
-Accurate identification of post-translationally modified (PTM) peptides remains a critical challenge in shotgun proteomics. Traditional search algorithms often struggle with the complexity introduced by PTMs, leading to reduced sensitivity and increased false discovery rates. This study presents a novel, localization-aware open search strategy implemented within the MSFragger search engine to address these limitations. Our approach integrates both shifted and regular fragment ions, effectively accounting for mass modifications, coupled with a computationally efficient mass calibration technique. Preliminary benchmarking demonstrates a substantial improvement in the identification of modified peptides compared to conventional search methods, particularly in complex proteomic datasets. This advancement facilitates more comprehensive PTM mapping and enhances the reliability of quantitative proteomics analyses, contributing to a deeper understanding of cellular signaling and disease mechanisms.

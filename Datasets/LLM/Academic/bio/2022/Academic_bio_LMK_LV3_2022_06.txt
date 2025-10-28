@@ -1,1 +1,0 @@
-"In a 2022 study, researchers revealed that surface Fe sites and Sr vacancies in perovskite catalysts synergistically enhance the oxygen evolution reaction via lattice oxygen oxidation, underscoring the critical role of defect engineering in optimizing electrocatalytic performance for sustainable energy applications."

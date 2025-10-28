@@ -1,9 +1,0 @@
-## The Quiet Struggle for Focus (and a Little Help)
-
-It’s wild how much a simple pair of headphones can mean. I’m still relatively new to this software engineering gig – loving the work itself, really diving into the code – but finding my footing in the *environment* has been… a process. 
-
-See, I need noise-canceling headphones to really focus. It’s not a preference, it’s a necessity. Sensory overload is a real thing, and for me, an open-plan office buzzing with chatter and keyboard clicks can quickly derail my ability to concentrate and do my job effectively. 
-
-My company *says* they’re committed to workplace accommodations. That’s fantastic! But navigating the actual request for something as seemingly small as headphones has been surprisingly challenging. It feels like I’m constantly justifying a need that should be, frankly, a given. 
-
-It’s 2023, and we're building incredibly complex technologies, pushing boundaries in every field. Yet, sometimes the simplest tools to ensure everyone can *participate* fully feel like a battle. It's a reminder that accessibility isn’t just about ramps and elevators; it’s about creating spaces where everyone, regardless of their needs, can thrive. And sometimes, that just means letting someone wear a good pair of headphones.

@@ -1,4 +1,0 @@
-Title: Unveiling Facet-Dependent Oxygen Evolution Reaction Activity in IrO$_2$: A Quantum Mechanics-Guided Investigation
-
-Abstract:
-The oxygen evolution reaction (OER) is a crucial process in various energy conversion technologies. In 2024, a comprehensive study combining quantum mechanics simulations and experimental validation elucidated the facet-dependent OER activity of IrO$_2$. Our results demonstrate that distinct surface redox processes and rate-limiting mechanisms govern the catalytic activity of different IrO$_2$ facets. By identifying the underlying mechanisms, this research provides a fundamental understanding of the structure-activity relationship in IrO$_2$-catalyzed OER, paving the way for the design of more efficient electrocatalysts.

@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2022 publication:
-
-**Abstract**
-
-The identification of reliable biomarkers for early Alzheimer’s disease (AD) remains a critical challenge. This study investigates the utility of plasma-based phosphorylated tau (p-tau) isoforms, specifically p-tau231 and p-tau217, in reflecting early amyloid-β (Aβ) pathology. Utilizing data from a cohort of individuals with preclinical AD, we observed a statistically significant positive correlation between plasma levels of p-tau231 and p-tau217 and the presence of minimal Aβ deposition as determined by amyloid PET imaging. These findings suggest that measuring these p-tau biomarkers holds promise for refining clinical trial enrollment criteria and facilitating the identification of individuals at the very earliest stages of the disease. Further longitudinal studies are warranted to validate these correlations and assess the predictive value of p-tau231 and p-tau217 for disease progression.

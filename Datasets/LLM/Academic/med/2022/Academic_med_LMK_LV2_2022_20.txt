@@ -1,9 +1,0 @@
-Title: Optimizing Systemic Therapy for Metastatic Breast Cancer: An Update on Biomarker-Guided Treatment Strategies
-
-Abstract:
-
-The management of metastatic breast cancer (MBC) has undergone significant transformation with the advent of personalized medicine, driven by advances in genetic testing and biomarker identification. In 2022, the American Society of Clinical Oncology (ASCO) released an updated guideline for the use of biomarkers in MBC, underscoring the critical role of genetic testing in informing systemic therapy decisions. This review synthesizes the updated recommendations, focusing on the application of biomarkers to guide treatment selection.
-
-The ASCO guideline update emphasizes the utility of specific genetic tests, including those assessing estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2) status, in determining the most effective systemic therapy regimens for MBC patients. Furthermore, the guideline highlights the emerging importance of molecular profiling, including next-generation sequencing (NGS) and other advanced genomic analyses, in identifying actionable mutations and predicting treatment response.
-
-The integration of biomarker-driven strategies into clinical practice has the potential to significantly enhance patient outcomes by tailoring therapy to individual tumor biology. By providing a framework for the judicious use of genetic testing and biomarker assessment, the updated ASCO guideline supports the delivery of precision medicine in MBC, optimizing treatment efficacy and minimizing unnecessary toxicity. This review examines the implications of the updated guideline for clinical practice, discussing the role of biomarkers in guiding systemic therapy decisions and shaping the future of MBC management.

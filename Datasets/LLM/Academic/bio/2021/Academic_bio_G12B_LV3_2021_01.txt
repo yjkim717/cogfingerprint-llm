@@ -1,5 +1,0 @@
- Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a bio-related publication, and reflecting a 2021 timeframe:
-
-**Abstract**
-
-Intracellular transport of endosomes presents a complex dynamic system, often exhibiting anomalous diffusion behavior. This study, conducted in 2021, investigates the heterogeneity of endosomal movement within cells, employing single-particle tracking analysis to segregate trajectories into distinct subdiffusive and superdiffusive regimes. Our findings reveal significant variations in local anomalous exponents and generalized diffusion coefficients across these populations, suggesting that a fractional Brownian motion (fBm) model provides a robust framework for characterizing both slow and fast endosomal transport. These results contribute to a deeper understanding of the mechanisms governing intracellular cargo delivery and highlight the importance of accounting for transport heterogeneity in cellular processes.

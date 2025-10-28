@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract in the field of physics, written from the perspective of a 2022 research review.
-
-***
-
-**Abstract**
-
-The nature of space-like singularities, a hallmark prediction of classical general relativity, remains a central problem in theoretical physics. While their existence is implied by seminal theorems under generic conditions, their physical significance must be re-evaluated within modern quantum gravitational frameworks. This review synthesizes perspectives from classical relativity, quantum field theory in curved spacetime, and the non-perturbative quantisation scheme of loop quantum gravity (LQG). We argue that the classical portrayal of singularities as deterministic boundaries of spacetime is fundamentally altered upon incorporating quantum geometric effects. Specifically, LQG predicts a radical departure from the classical continuum at the Planck scale, replacing the big bang with a finite-density quantum bounce. Consequently, the perceived threat of space-like singularities is significantly mitigated; they are not ultimate endpoints but rather transitions to a preceding cosmological phase. This analysis underscores that a consistent quantum theory of gravity is essential to resolve the singularities that signal the breakdown of classical dynamics.
-
-**(178 words)**

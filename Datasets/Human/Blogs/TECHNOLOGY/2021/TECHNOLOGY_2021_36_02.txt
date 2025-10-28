@@ -1,5 +1,0 @@
-Year: 2021
-Author: theodiousolivetree
-URL: https://www.reddit.com/r/MoneroMining/comments/r3zh82/hashrate_is_not_stable_i_dont_know_how_what_is/
-
-Lately I built a computer only for monero. I noticed my hashrate is not stable. Someday it's 15kh/s the day after it's 13 kh/s the day after 9 kh/s and suddenly it goes 17kh/s and it goes back to 15kh/s. The computer doesn't do anything else than mining monero. No people use it. It has remote access because no screen, no keyboard no mouse. So why? I don't know how to find what is wrong with the computer.

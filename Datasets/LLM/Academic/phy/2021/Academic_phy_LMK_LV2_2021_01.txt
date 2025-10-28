@@ -1,4 +1,0 @@
-Title: On the Approximability of Quantum Mechanics by Deterministic Models
-
-Abstract (2021):
-We demonstrate that, contrary to the implications of Bell's theorem, any quantum mechanical system can be approximated by a local hidden variable model to an arbitrary degree of accuracy. By relaxing the requirement for exact replication, we show that deterministic models can effectively mimic quantum behavior up to any finite precision. This challenges the conventional understanding of the interplay between quantum mechanics and causality, suggesting a nuanced perspective on the role of local hidden variables in reproducing quantum phenomena.

@@ -1,5 +1,0 @@
-You know that moment when you’re so close to a breakthrough you can almost taste it? That was me in early 2021, determined to dual-boot Linux alongside my trusty Windows setup. I’d done the “scary” part—shrinking my C: drive, watching gigabytes of space get freed up. Victory felt imminent.
-
-But then came the plot twist. That beautiful, unallocated space I’d created? It was still stubbornly occupied. No matter how many times I refreshed Disk Management or nervously typed commands into fdisk, it just… sat there. Taunting me.
-
-It’s funny how a technical hiccup can feel so personal. One minute you’re a digital pioneer, the next you’re humbled by a partition table. But that’s the thing about tech—it keeps you learning. And honestly? The struggle made finally seeing that Linux boot screen all the sweeter. Sometimes the journey is the real upgrade.

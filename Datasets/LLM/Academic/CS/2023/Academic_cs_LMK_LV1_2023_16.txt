@@ -1,4 +1,0 @@
-Title: Enhancing Real-Time Multilingual Speech Transcription with Adaptive Whisper-Streaming
-
-Abstract:
-This paper presents Whisper-Streaming, a novel adaptation of the Whisper model for real-time multilingual speech recognition and transcription. By integrating self-adaptive latency mechanisms, Whisper-Streaming achieves high-quality transcription with minimized latency. Our approach leverages the strengths of the Whisper model in multilingual speech recognition, while optimizing it for streaming applications. Experimental results demonstrate significant improvements in transcription quality and latency, making Whisper-Streaming a viable solution for real-time speech transcription and translation tasks in diverse linguistic contexts, as of 2023.

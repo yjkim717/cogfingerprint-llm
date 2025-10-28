@@ -1,7 +1,0 @@
-## Reaching for the Stars (and Coding Along the Way)
-
-It's 2020, and the world feels… uncertain, right? I'm a Computer Engineering student, and like a lot of folks, I'm trying to figure out how to make my mark. Lately, my gaze has been drifting upwards – towards the space industry. It feels like a field brimming with possibility, a place where innovation isn't just encouraged, it's *essential*.
-
-But how do you break into something so seemingly vast? I've been wrestling with that question, realizing that practical experience is key. Forget just textbooks; I need projects. Specifically, projects that showcase skills relevant to the industry – things like data analysis, maybe dabbling in machine learning or even some good old-fashioned C++ low-level programming.
-
-It’s a little daunting, honestly. But the thought of contributing, even in a small way, to something bigger than myself – to pushing the boundaries of what’s possible – is incredibly motivating. Anyone else out there chasing a seemingly distant dream? Let's build something amazing together.

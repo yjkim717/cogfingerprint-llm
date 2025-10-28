@@ -1,5 +1,0 @@
-Year: 2024
-Author: Vanals
-URL: https://www.reddit.com/r/node/comments/1b5vvfz/socketio_handling_private_public_rooms_and_rooms/
-
-Hi! i am working with socket.io and is clear to me how to create new rooms and allow other sockets to join. I was wondering... What if I want users to be able to see existin rooms? as I can't see any flexibility in defining property for a room? That would help a lot! How can Integrate this concept of private and public in socket.io rooms? as I can't see any flexibility in definig property for a room? T Same thing, when I create a room I would like to define its type. Let's say I have a room about plants, or planets.. whatever.. would like to differentiate them by topic without having to create, as much as I can, a parallel state... Which would mean keep them both in sync and may be a pain. I would rather enhance the existing socket state. Thanks

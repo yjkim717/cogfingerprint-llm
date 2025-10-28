@@ -1,5 +1,0 @@
- Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a chemistry-related publication in 2024:
-
-**Abstract**
-
-Understanding the formation pathways of complex nitrogen-containing molecules within interstellar ices is crucial for refining astrochemical models. This work investigates the carbon atom condensation reaction onto ammonia-water ices, employing quantum chemical calculations to elucidate the product distribution. Our findings demonstrate a surprising preference for methylamine (CH3NH2) formation compared to simpler nitrile species such as HCN and HNC. This outcome challenges current kinetic models and suggests a previously underestimated role for methylamine in early chemical evolution. These results provide valuable data for improving the accuracy of astrochemical kinetic networks and predicting the composition of protoplanetary disks, ultimately enhancing our comprehension of prebiotic molecule synthesis in space.

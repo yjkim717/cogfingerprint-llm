@@ -1,9 +1,0 @@
-Title: Phylogenetic Analysis and Epidemiological Insights into the Emergence of Clade 2.3.4.4b H5Nx Viruses in European Avian Populations, 2020-2022
-
-Abstract:
-
-The ongoing circulation of highly pathogenic avian influenza (HPAI) A(H5Nx) viruses, specifically clade 2.3.4.4b, has posed significant threats to poultry industries and human health across Europe. To elucidate the evolutionary dynamics and epidemiological patterns of these viruses, we conducted a comprehensive phylogenetic analysis of H5Nx strains isolated in Europe between 2020 and 2022. Our study utilized a dataset comprising 250 H5Nx virus sequences obtained from various avian hosts, including domestic poultry and wild birds, and encompassing diverse geographical locations.
-
-Phylogenetic reconstructions revealed a complex pattern of virus evolution, characterized by the emergence of multiple distinct subclades within clade 2.3.4.4b. Notably, our analysis identified several reassortment events involving H5Nx viruses and other co-circulating avian influenza viruses, resulting in the generation of novel genotypes. These findings suggest that the European avian population has served as a hub for H5Nx virus diversification, driven by the interplay between viral evolution, host ecology, and anthropogenic factors.
-
-Our epidemiological analysis revealed a correlation between the phylogenetic clustering of H5Nx viruses and their geographical distribution, with certain subclades exhibiting a wider spatial distribution than others. Furthermore, we observed a significant association between the detection of H5Nx viruses in wild birds and subsequent outbreaks in domestic poultry, underscoring the role of wild birds in the transmission and dissemination of these viruses. The insights gained from this study will inform risk assessments and underpin the development of targeted surveillance and control strategies to mitigate the impact of HPAI H5Nx viruses in Europe.

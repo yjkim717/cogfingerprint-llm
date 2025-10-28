@@ -1,4 +1,0 @@
-Title: Characterizing Intracellular Transport Dynamics using Deep Learning Frameworks
-
-Abstract:
-The intricate mechanisms governing intracellular transport exhibit heterogeneous behavior, complicating the analysis of underlying dynamics. Leveraging advancements in deep learning, a feedforward neural network was developed in 2020 to accurately quantify the Hurst exponent, a crucial parameter indicative of fractional Brownian motion. Our model enables robust estimation from short time series data, overcoming traditional limitations. By applying this framework to empirical data, we demonstrate enhanced precision in characterizing intracellular transport dynamics, providing novel insights into the complex interactions governing cellular processes. This methodology offers a promising avenue for investigating heterogeneous biological systems.

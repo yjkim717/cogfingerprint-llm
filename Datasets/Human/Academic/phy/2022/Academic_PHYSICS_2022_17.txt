@@ -1,8 +1,0 @@
-Author: Yinghui Guo
-Title: Classical and generalized geometric phase in electromagnetic metasurfaces
-Paper ID: a33097f896c4051bffaf578d6bedec2e0f4613bd
-Year: 2022
-Author Index: 17
-
-Abstract:
-Abstract. The geometric phase concept has profound implications in many branches of physics, from condensed matter physics to quantum systems. Although geometric phase has a long research history, novel theories, devices, and applications are constantly emerging with developments going down to the subwavelength scale. Specifically, as one of the main approaches to implement gradient phase modulation along a thin interface, geometric phase metasurfaces composed of spatially rotated subwavelength artificial structures have been utilized to construct various thin and planar meta-devices. In this paper, we first give a simple overview of the development of geometric phase in optics. Then, we focus on recent advances in continuously shaped geometric phase metasurfaces, geometric–dynamic composite phase metasurfaces, and nonlinear and high-order linear Pancharatnam–Berry phase metasurfaces. Finally, conclusions and outlooks for future developments are presented.

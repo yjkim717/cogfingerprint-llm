@@ -1,5 +1,0 @@
- Here's a formal academic-style abstract, inspired by the provided summary and keywords, written in the style of a chem. research abstract, and contextualized to 2022:
-
-**Abstract**
-
-In 2022, the pursuit of enhanced lithium-ion battery performance continues to drive materials innovation. This work investigates a novel separator architecture utilizing a spray-deposited alumina (Al₂O₃) coating to improve electrochemical stability. The fabricated Al₂O₃ separator was integrated into a sequentially deposited full cell configuration of LiFePO₄/Al₂O₃/Li₄Ti₅O₁₂. Electrochemical characterization revealed rate performance comparable to conventional separators, while cyclic voltammetry and impedance spectroscopy highlighted improved ionic conductivity and reduced charge transfer resistance. Critically, the full cell demonstrated markedly superior cycling stability, retaining a high capacity after 400 cycles at a 2C discharge rate, suggesting the potential of alumina-based separators for next-generation lithium-ion batteries.

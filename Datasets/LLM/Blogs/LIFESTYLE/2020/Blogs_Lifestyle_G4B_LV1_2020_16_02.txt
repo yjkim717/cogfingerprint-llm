@@ -1,7 +1,0 @@
-Okay, here’s a blog post reflecting on the provided summary and incorporating the requested style and year context:
-
----
-
-**The Frustration of Building (and Trying to Break) Things**
-
-It’s funny, isn’t it? 2020 was all about wanting to *do* things – learn, create, build. I spent a frustrating afternoon last week wrestling with my new PC build, desperately trying to coax a little extra speed out of my i5-6500.  The Gigabyte Z170MD3H motherboard just wouldn’t cooperate, and those BIOS settings felt like a cryptic code. Sometimes, the biggest challenge isn't the tech, but just figuring out where to start.

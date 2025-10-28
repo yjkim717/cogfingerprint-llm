@@ -1,8 +1,0 @@
-Author: Soonho Kwon
-Title: Hybrid Combination of Quantum Mechanics with Quantum-Based Polarizable Reactive Force Field for Large Scale Full Solvent Simulations of Electrocatalysis
-Paper ID: 459b611923c760181a3a85673c33093db0a7f4db
-Year: 2020
-Author Index: 10
-
-Abstract:
-To develop new generations of electrocatalysts required for energy and environmental sustainability, we need the accuracy of full solvent quantum mechanics (QM) (free energy barriers to 0.05 eV, onset potentials to 0.05 V) but for practical sized nanoparticles and catalysts (1000’s to millions of atoms). We report here a solution to this problem. We start with the RexPoN reactive force field that provides higher accuracy than density functional theory (DFT) and combine it with QM to accurately include long-range interactions and polarization effects to enable reactive simulations with QM accuracy in the presence of solvent including 1000’s to millions of waters. Here we apply this RexPoN embedded QM (ReQM) to reactive simulations of electrocatalysis demonstrating that ReQM accurately replaces DFT water for computing the Raman frequencies of reaction intermediates during CO2 reduction to ethylene, with comparisons to operando electrocatalysis experiments and to full solvent QM calculations.

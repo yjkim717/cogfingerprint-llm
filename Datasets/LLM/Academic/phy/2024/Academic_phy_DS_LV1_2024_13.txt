@@ -1,9 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary.
-
-***
-
-**Title:** Non-Classical Work Statistics in Driven Many-Body Systems via Kirkwood-Dirac Quasiprobabilities
-
-**Abstract:**
-
-The precise characterization of thermodynamic processes in the quantum regime necessitates frameworks that transcend classical stochastic descriptions. A central challenge lies in defining and measuring work for quantum many-body systems undergoing non-equilibrium evolution, where the inherent incompatibility of energy measurements at different times leads to interference and contextuality. This work establishes a comprehensive framework for quantum work statistics grounded in the theory of Kirkwood-Dirac (KD) quasiprobability distributions. Unlike the two-point measurement (TPM) scheme, which enforces projective measurements and obscures uniquely quantum features, the KD quasiprobability approach provides a complete, operationally accessible description of multi-time quantum processes. We demonstrate that the quasiprobability distribution for work, defined via the characteristic function, can assume non-positive values, a direct signature of quantum coherence and non-classicality in the thermodynamic process. We further delineate the conditions under which these non-classical features emerge, linking them directly to the non-commutativity of the Hamiltonian at the protocol's start and end times. The experimental accessibility of these distributions is analyzed through protocols involving weak measurements or ancillary system correlations, bridging a critical gap between theoretical formulation and laboratory verification. Our results reveal that KD quasiprobabilities are not merely mathematical constructs but are essential for uncovering a generalized fluctuation theorem and for diagnosing quantum advantages in thermal machines and information processing tasks within complex, interacting many-body systems.

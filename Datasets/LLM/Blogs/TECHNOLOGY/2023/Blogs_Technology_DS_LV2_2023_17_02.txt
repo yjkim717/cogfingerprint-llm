@@ -1,3 +1,0 @@
-It all started with a simple question: does that famous ZFS memory rule—you know, the 1GB per terabyte one—apply to the total storage in my Proxmox homelab or just the usable space after my RAIDZ1 setup? I was knee-deep in planning my array, dreaming of deduplication magic, when it hit me.
-
-Staring at my whiteboard covered in calculations, I felt that familiar mix of excitement and uncertainty. It’s funny how these technical rabbit holes make you pause and reflect. In 2023, with tech evolving so fast, it’s easy to get lost in specs and forget the human side of tinkering. We’re not just building systems; we’re chasing curiosity, one question at a time. And sometimes, the real discovery isn’t the answer—it’s the journey that connects us all.

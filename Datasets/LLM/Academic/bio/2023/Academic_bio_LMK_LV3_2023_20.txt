@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Utilizing high-resolution temperature grids, this study (2023) presents novel microclimate datasets for European forests, deriving precise bioclimatic variables that enhance the accuracy of ecological models. The resulting dataset improves our understanding of forest microclimates, facilitating refined predictions of climate-driven ecological changes."

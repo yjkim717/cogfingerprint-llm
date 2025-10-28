@@ -1,9 +1,0 @@
-Okay, here's a blog post draft inspired by your summary, aiming for a conversational tone and around 120 words:
-
----
-
-**The LeetCode Rabbit Hole (and Why I Almost Lost My Mind)**
-
-Okay, confession time: 2024 has been… intense. I’ve been completely sucked into LeetCode, spending way too many evenings wrestling with algorithms. There’s this incredible satisfaction when you finally crack a tough problem – that ‘aha!’ moment is *amazing*. 
-
-But let’s be real, it’s also incredibly frustrating. Hours disappear, and I’d often feel like I was going backwards. I realized I was prioritizing solving problems over actually building things. It’s a classic productivity trap!  I’m taking a step back now, focusing on smaller, more practical coding projects.  Anyone else been there?

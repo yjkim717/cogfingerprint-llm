@@ -1,7 +1,0 @@
-## Layering Speed: My Digital Life Upgrade
-
-Okay, so I’ve been obsessing over storage lately. Not in a "I need more space" kind of way, but in a "how can I make what I have *faster*?" It started with realizing video editing on my existing setup felt… sluggish. I dove down a rabbit hole – NVMe SSDs, SATA SSDs, caching layers… it sounds intensely technical, and honestly, it is!
-
-I’m now experimenting with using a speedy NVMe as a cache for my slower SATA drive. Think of it like adding a turbocharger to an engine. It’s a bit of a DIY project, fiddling with tools like Intel RapidStorage, but the potential payoff is huge. 
-
-It’s a weird parallel to life, really. Sometimes, it’s not about acquiring *more*, but about strategically layering what you already have to boost performance. A little focused effort, a bit of tweaking, and suddenly things feel noticeably quicker. And that, in 2024, feels pretty good.

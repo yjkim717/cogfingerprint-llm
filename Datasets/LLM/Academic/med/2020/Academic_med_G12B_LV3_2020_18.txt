@@ -1,5 +1,0 @@
-Here's an abstract inspired by the provided summary and keywords, written in a formal, academic style suitable for a medical publication:
-
-**Abstract**
-
-The 2020 National Comprehensive Cancer Network (NCCN) guidelines provide updated recommendations for the management of recurrent and stage IV breast cancer. A central tenet of these guidelines is the crucial integration of detailed tumor characterization – specifically, hormone-receptor status and HER2 expression – with the selection of systemic therapies. This approach underscores a personalized medicine paradigm, wherein treatment decisions are directly informed by the underlying tumor biology. Adherence to these updated protocols, emphasizing targeted therapies and rational combination strategies, demonstrably contributes to improved overall survival outcomes for patients with advanced breast cancer.

@@ -1,7 +1,0 @@
-)Okay, here's a blog post inspired by the summary and keywords, aiming for a conversational, reflective tone and fitting the 2023 tech landscape:
-
-## Elixir's Pipes & When Order *Really* Matters
-
-Okay, Elixir devs, let's talk pipes. We all love them – that beautiful `|>` chaining makes code so readable. But I stumbled on something recently that made me pause. What happens when you need to juggle argument order with functions that *aren't* naturally commutative? 
-
-A Reddit thread popped up about using &-functions as a workaround. It’s clever, sure, but felt… a little clunky. It got me thinking: are we prioritizing brevity *too* much sometimes? Is there a more elegant, truly *idiomatic* Elixir way to handle these situations? Still searching for the perfect answer, but it’s a good reminder to keep questioning our approaches, right?

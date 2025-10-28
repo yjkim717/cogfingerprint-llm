@@ -1,4 +1,0 @@
-Title: Combinatorial Insights into Scattering Amplitudes in Kinematic Space
-
-Abstract:
-We present a novel framework for understanding scattering amplitudes of colored scalar particles, leveraging combinatorial ideas in kinematic space. By introducing a topological expansion, we elucidate the intricate structure of scattering amplitudes, revealing a deep connection between kinematic and combinatorial properties. Our results provide a new perspective on the long-standing problem of computing scattering amplitudes, with potential implications for the study of particle interactions in high-energy physics, as explored in recent 2023 studies.

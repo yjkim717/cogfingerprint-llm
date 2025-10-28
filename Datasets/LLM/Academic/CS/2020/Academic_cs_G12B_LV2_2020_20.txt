@@ -1,8 +1,0 @@
-)
-## Cellpose: A Generalist Deep Learning Algorithm for Robust Cellular Segmentation Across Diverse Microscopy Image Modalities
-
-**Abstract:** Accurate and automated cellular segmentation remains a critical challenge in biological image analysis, often requiring specialized algorithms tailored to specific imaging modalities and cell types. This paper introduces Cellpose, a novel deep learning framework designed for robust and generalizable cellular segmentation across a wide range of microscopy images without the need for dataset-specific retraining or manual parameter tuning. Cellpose leverages a U-Net architecture trained on a large, diverse dataset of manually segmented cells, emphasizing the learning of cell shape and size distributions through a vector field representation of cell boundaries. This approach allows the algorithm to generalize effectively to new image types, including phase contrast, fluorescence, and brightfield microscopy, exhibiting competitive or superior performance compared to existing methods.  Crucially, Cellpose’s design minimizes the reliance on image-specific preprocessing and parameter optimization, significantly reducing the barrier to adoption for researchers lacking deep learning expertise. We demonstrate Cellpose’s efficacy across various datasets, establishing its utility as a generalist segmentation tool applicable to a broad spectrum of biological imaging applications. The modular design and readily available implementation facilitate further customization and integration into existing image analysis pipelines.
-
-
-
-

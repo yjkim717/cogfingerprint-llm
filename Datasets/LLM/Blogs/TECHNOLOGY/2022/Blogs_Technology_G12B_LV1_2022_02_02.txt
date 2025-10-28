@@ -1,5 +1,0 @@
- Here's a reflective blog post inspired by the provided information:
-
-## The Quest for Zelda on My Phone (and Why It's Failing)
-
-Anyone else chasing retro gaming on the go? I've been trying to get *Majora's Mask 3D* running smoothly on Citra, my Android emulator, on my shiny new S22 Ultra. The idea was pure bliss: playing a classic anywhere! Sadly, it's been a crash-fest. Constant freezes, random shutdowns… it's frustrating. It really highlights how even with incredible phone power, emulation is a *tough* beast. Maybe someday, but for now, my 3DS is getting a workout!

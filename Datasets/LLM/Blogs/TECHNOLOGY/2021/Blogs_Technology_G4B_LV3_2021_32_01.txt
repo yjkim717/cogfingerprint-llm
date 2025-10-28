@@ -1,9 +1,0 @@
-Okay, here’s a blog post draft inspired by the summary and keywords, aiming for a reflective and conversational tone, circa 2021:
-
----
-
-**My Little Network Upgrade – And Why It Mattered**
-
-Okay, let’s be honest, I’ve spent a ridiculous amount of time tinkering with my home network. It started as a simple hobby, building out a little lab with a MikroTik CRS354. I was firmly in RouterOS territory, wrestling with the menus and feeling perpetually overwhelmed by the complexity. 
-
-Then, last year, I decided to give SwOS a shot. Honestly, it was like breathing fresh air. The interface is just *so* much smoother, especially when juggling multiple devices and VLANs. It didn’t replace RouterOS entirely – there’s still a place for that power – but SwOS made managing my little network feel less like a chore and more like… well, fun. It’s a reminder that sometimes, a small change can make a huge difference.

@@ -1,5 +1,0 @@
-Okay, here's a blog post inspired by the summary and keywords, aiming for a reflective and conversational tone, circa 2020:
-
----
-
-I stumbled across a fascinating corner of Reddit recently – a group obsessed with recreating voices using AI. They were deep-diving into Tacotron 2, a vocal synthesis tool, and sharing incredible audio clips. It made me think about how far tech has come in mimicking the human voice.  There’s something both unsettling and brilliant about it, isn’t there?  I’ve been exploring the GitHub repositories linked there, and it’s a rabbit hole of fascinating possibilities.

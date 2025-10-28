@@ -1,7 +1,0 @@
->## The Lingering Ghosts of C Macros and the Languages We Build
-
-It's 2020, and I've been diving deep into the fascinating, and sometimes frustrating, world of C programming. Specifically, I've been wrestling with macros – those little snippets of code that, let's be honest, can feel like ancient magic. 
-
-I'm currently sketching out ideas for a new language, and I keep circling back to how C handles variable declarations with macros. On one hand, they offer a kind of clever shorthand, a way to sidestep some boilerplate. But on the other… the readability! Oh, the readability suffers. It’s like trying to decipher a cryptic puzzle sometimes.
-
-I'm genuinely curious about this. Are C macros still considered valuable in modern development? Or have they become a legacy feature, a reminder of a time before more elegant solutions existed? I'd love to hear your thoughts. As I shape this new language, I want to learn from the successes *and* the pitfalls of languages that came before. Let's talk about code clarity, and how we can build tools that empower, not confuse, the programmers who use them.

@@ -1,1 +1,0 @@
-This study examines the application of risk ratios, odds ratios, and hazard ratios in clinical research, elucidating their distinct statistical interpretations. By clarifying their definitions and uses, we identify best practices for their correct implementation, enhancing the validity of research findings in the field as of 2020.

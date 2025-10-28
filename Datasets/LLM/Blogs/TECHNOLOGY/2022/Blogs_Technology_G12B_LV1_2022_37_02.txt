@@ -1,5 +1,0 @@
-## The Unexpected Dance of Buttons
-
-It’s wild how reliant we are on seamless tech, isn't it? I was wrestling with *Stranger of Paradise* the other day, trying to dodge a towering enemy, and instead, my character just… raised his shield. Turns out, my new Xbox controller (a bargain from AliExpress, I admit) had a bizarre button mapping. 
-
-Suddenly, I was acutely aware of the layers of abstraction between my intention and the game's response. A simple action, a flick of a thumb, and a cascade of code was supposed to translate into a dodge. Instead, it was a guard. It made me think about how we rarely question these digital translations until something goes wrong. A small glitch, a big reminder.

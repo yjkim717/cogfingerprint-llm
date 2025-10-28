@@ -1,8 +1,0 @@
->## The Strange Year I Learned to Love Vertical Video
-
-It's 2021, and my phone is practically glued to me. I've fully succumbed to the vertical video lifestyle – TikTok, Instagram Reels, you name it. But when I wanted to watch longer content, like a documentary, on my PC, I hit a wall. VLC, my go-to media player, just *wouldn't* cooperate with my newfound portrait preference. The video stretched, the edges chopped off… it was a mess. 
-
-Turns out, this is a surprisingly common frustration! It made me realize how much our viewing habits are shaped by devices. We're adapting to the screen, not the other way around, and sometimes even the best software struggles to keep up.
-
-
-

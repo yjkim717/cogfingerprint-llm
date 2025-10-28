@@ -1,1 +1,0 @@
-We demonstrate a compact magneto-optical trap for strontium atoms using polarization-multiplexed dielectric metasurfaces. This platform replaces conventional bulk optics with planar metagratings, generating the requisite six trapping beams from only two inputs, thereby significantly reducing system complexity and footprint for quantum technologies.

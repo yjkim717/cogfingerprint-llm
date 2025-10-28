@@ -1,8 +1,0 @@
-get_blog_post( 
-    keywords="dog training, dog socialization, canine behavior, dog parks, aggressive behavior", 
-    summary="A dog owner seeks advice on why their dog is aggressive at dog parks and how to make her more comfortable around other dogs.",
-    tone="conversational",
-    style="reflective and relatable",
-    year="2021",
-    length="~156 words"
-)

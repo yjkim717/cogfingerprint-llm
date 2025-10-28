@@ -1,5 +1,0 @@
-Year: 2024
-Author: factorialite
-URL: https://www.reddit.com/r/slaythespire/comments/1gr4nbb/conduct_challenge_noattack_defect/
-
-In NetHack (a very difficult old rogue like), some people weren't content with just beating the game. They would impose conditions on themselves - something as simple as being vegetarian (can't eat meat-based food for satiation) to being illiterate (can't read scrolls) or worse! I've always thought that was interesting, and Slay the Spire is a natural fit for conducts. I've been playing with some already, but I've started turning to what is one of the easier ones: No-attack Defect. It's simple: you can't play any attack for any reason (which means you fail if distilled chaos hits an attack as well). As proof of concept, I just streaked 3 A0 in a row, ending with an A0H kill. I'm going to see how high an ascension I can get. Has anyone else tried a conduct? Anybody want to try this one?

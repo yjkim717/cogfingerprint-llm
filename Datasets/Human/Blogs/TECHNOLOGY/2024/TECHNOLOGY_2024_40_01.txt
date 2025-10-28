@@ -1,5 +1,0 @@
-Year: 2024
-Author: gman1230321
-URL: https://www.reddit.com/r/embedded/comments/1bhrb92/any_boards_in_particular_that_are_very_good_for/
-
-I currently have an RPi pico that I’ve had sitting around for a while, but I haven’t gotten around to playing with it yet. Since I don’t have any particular projects in mind, I would like a board with a good amount of various little features. Also some built in GPIO headers would be really nice. I’ve accumulated quite a collection of breadboards and various hardware for it over the years from doing arduino. Also I would really like a debug port as well. The big thing I’m looking for though is good library support. So preferably something pretty popular with a good HAL and associated libraries. Not incredibly worried about cost though.

@@ -1,3 +1,0 @@
-It’s 2021, and I’m still wrestling with the classic tech dilemma: portability versus power. My ThinkPad X1 Carbon Gen 9 is a dream for coding on the go—light, reliable, and with battery life that just won’t quit. But when the workday ends and I crave some gaming, its integrated graphics leave me wanting.
-
-So, I’ve been eyeing the X1 Extreme Gen 3. It’s a beast, no doubt, with specs that promise to handle both my IDE and my Steam library. I’ve even looked into an eGPU setup to supercharge the Carbon, trying to have the best of both worlds. It’s a constant tug-of-war between the convenience of a featherlight laptop and the raw thrill of performance. In the end, maybe the right machine is less about the specs and more about the life you’re trying to build around it.

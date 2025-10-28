@@ -1,5 +1,0 @@
-Year: 2022
-Author: WaldoOU812
-URL: https://www.reddit.com/r/it/comments/s1kv04/advice_on_getting_into_the_industry/
-
-If you had a friend ask you for advice on entering into the IT field, what advice would you give them? Also, suppose a few other things: * You're a Windows systems engineer, with 20 years' experience with that and related technologies and would be more than happy to teach them, but you want the best for her, as opposed to just having them follow your path. * She doesn't have a lot of money, so classes are probably not an option, but books would be. * She has zero work experience, but has picked up a few things along the way (equivalent to a power user). She's also hella smart. * She's located in Ireland, so US-specific advice won't help. She'll also be living in a fairly remote/rural location. Just to clarify; this is my ex-wife, whom I was married to for eight years (while I was doing hotel IT in some really crappy situations), so she has some idea of what working in IT entails. She's not a wide-eyed noob; she just lacks specific IT knowledge.

@@ -1,4 +1,0 @@
-Title: Exploring 't Hooft Anomalies in 4D SU(N) Chiral Gauge Theories: Implications for Confinement and Symmetry Breaking
-
-Abstract (2021):
-This study investigates 4-dimensional SU(N) chiral gauge theories, uncovering novel 't Hooft anomalies that impose stringent constraints on their infrared phases. By analyzing the interplay between topological quantum field theory and gauge dynamics, we reveal new insights into the confinement mechanisms and symmetry breaking patterns in these theories. Our findings demonstrate that the presence of 't Hooft anomalies significantly influences the phase structure, shedding light on the non-perturbative properties of confining theories and their potential implications for beyond-the-Standard-Model physics.

@@ -1,8 +1,0 @@
-Author: Mark Bun
-Title: Not All Learnable Distribution Classes are Privately Learnable
-Paper ID: 5b325d5634c79da140f0f53707f0f2f9433c69cd
-Year: 2024
-Author Index: 7
-
-Abstract:
-We give an example of a class of distributions that is learnable up to constant error in total variation distance with a finite number of samples, but not learnable under $(\varepsilon, \delta)$-differential privacy with the same target error. This weakly refutes a conjecture of Ashtiani.

@@ -1,4 +1,0 @@
-Title: Emergence of Stable Facts from Relative Facts in Quantum Theory: A Decoherence-Based Resolution
-
-Abstract:
-In the context of quantum theory, the notion of relative facts has been proposed to address the measurement problem. However, the emergence of stable facts remains an open question. This paper argues that decoherence plays a crucial role in resolving this issue. By analyzing the interplay between relative facts and decoherence, we demonstrate that stable facts arise as a consequence of the loss of quantum coherence. Our analysis, grounded in the local friendliness framework, clarifies the relationship between relative and stable facts, providing a nuanced understanding of the quantum-to-classical transition. (2020)

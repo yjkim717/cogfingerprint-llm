@@ -1,5 +1,0 @@
->## The 5 AM Flight & the Algorithm That Got Me There
-
-It’s 2024, and even catching a 5 AM flight feels strangely mediated by technology. Last week, I was heading out of Ithaca, and the endless airport arrival time recommendations online had me stressed. Should I be there two hours early? Two and a half? I ended up consulting a few different travel apps, cross-referencing flight data, and factoring in potential Ithaca winter weather. 
-
-Then, remembering a tip from a Reddit thread, I booked Collegetown Cabs. The app gave me an estimated pickup time, adjusted for traffic, and pinged me with updates. It felt almost *too* smooth. A decade ago, I'd have been frantically calling for a cab, hoping someone was awake. Now, an algorithm basically ensured I wasn't late. It's a little unsettling, but undeniably convenient.

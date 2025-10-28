@@ -1,5 +1,0 @@
-Year: 2024
-Author: FIREATWlLL
-URL: https://www.reddit.com/r/ChatGPT/comments/1gh6mfz/are_there_any_llm_services_that_allow_you_to/
-
-The data is public so doesn't need to be private, but the queries should be private (not trained later). Assume there are like 1000 documents that we should be able to query. Does any service like this exist? Don't want to host locally.

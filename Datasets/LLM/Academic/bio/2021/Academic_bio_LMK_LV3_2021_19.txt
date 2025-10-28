@@ -1,3 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Enhanced Electrocatalytic Activity in Hybrid Layered Double Hydroxides/Metal-Organic Frameworks via Surface-Adsorbed Carboxylate Ligands for Oxygen Evolution Reaction (2021). This study demonstrates that the strategic integration of carboxylate ligands onto bi/trimetallic layered double hydroxides/metal-organic frameworks significantly enhances electrocatalytic performance for the oxygen evolution reaction. The surface-adsorbed ligands modulate the electronic structure, increasing the density of active sites and promoting charge transfer. Consequently, the hybrid materials exhibit improved electrocatalytic activity, underscoring their potential for sustainable energy applications."

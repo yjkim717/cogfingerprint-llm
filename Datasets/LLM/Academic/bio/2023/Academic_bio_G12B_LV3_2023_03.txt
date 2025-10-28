@@ -1,5 +1,0 @@
-Here's an academic abstract inspired by the provided summary and keywords, written in a formal style suitable for a bio-focused publication and contextualized for 2023:
-
-**Abstract**
-
-Lignin, a complex aromatic polymer, represents a significant recalcitrance barrier to biomass utilization. This study, conducted in 2023, investigates the enzymatic mechanisms underpinning lignin degradation by *Pleurotus ostreatus*, a prominent white-rot fungus. Employing CRISPR/Cas9 technology, we generated targeted mutants deficient in key lignin-modifying enzymes, specifically manganese peroxidases (MnP) and versatile peroxidases (VlP). Phenotypic analysis revealed a substantial reduction in natural lignin breakdown within plant cell walls in these mutant strains compared to wild-type controls. These findings provide compelling experimental validation of the essential and synergistic roles of MnP and VlP in fungal ligninolysis, highlighting their critical contribution to the depolymerization process and offering potential targets for metabolic engineering aimed at enhanced biofuel production.

@@ -1,1 +1,0 @@
-As a sysadmin, I once thought our domain’s 14-character password GPO was secure—until a fine-grained policy demanded 15. It felt like a simple tweak, but that overlap created confusion and delays. In 2024, even the best security intentions can clash, reminding us that specificity in tech often trumps broad rules, teaching me to embrace precision over assumption.

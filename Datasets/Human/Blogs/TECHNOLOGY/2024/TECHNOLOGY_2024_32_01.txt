@@ -1,5 +1,0 @@
-Year: 2024
-Author: tonyboy101
-URL: https://www.reddit.com/r/networking/comments/1axprtx/ospf_routing_1_problem_router/
-
-I am trying to get dynamic routing set up between my routers. It is very basic and it seems to work in the lab. I can see that OSPF neighbors are created and DR/BDR priorities have been set. I know I have a working config on all the routers. I have deployed the firewalls and all but 1 router (Rtr P) is able to talk to each other with OSPF. All the routers can ping each other and pass traffic between each other all day. The TCP dumps from Rtr P shows OSPF broadcast traffic coming from other routers to Rtr P and Rtr P is broadcasting OSPF broadcasts to other routers. When I look at the other routers, I see OSPF broadcast traffic from other routers, except Rtr P. The connections between all the routers is a Layer 2 WAN connection. Is this an issue with something on my end, or is the ISP blocking that traffic? I just want to make sure I did not overlook anything.

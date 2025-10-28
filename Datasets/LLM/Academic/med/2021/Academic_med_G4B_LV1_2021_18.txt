@@ -1,5 +1,0 @@
-Here’s an abstract based on your summary and incorporating the provided keywords, written in a formal academic style:
-
-**Abstract**
-
-The 2021 National Comprehensive Cancer Network (NCCN) guidelines represent a significant refinement in the management of early-stage breast cancer.  This document details updated recommendations for adjuvant systemic therapy, with particular emphasis on hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) tumors.  Following recent clinical trial data, the guidelines increasingly favor the incorporation of endocrine-based regimens, often in combination with cyclin-dependent kinase 4/6 (CDK4/6) inhibitors, for patients with residual disease risk.  The updated recommendations acknowledge the evolving landscape of targeted therapies and underscore the importance of individualized treatment strategies based on pathologic features and predicted recurrence risk.  Further research is warranted to optimize sequencing and duration of these adjuvant approaches.

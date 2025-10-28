@@ -1,5 +1,0 @@
-**Abstract**
-
-We investigate the interplay between the Swampland Cobordism Conjecture and the consistency of 8D $\mathcal{N}=1$ supergravity theories. By analyzing the worldvolume dynamics of 3-brane probes, we demonstrate that the requirement of a well-defined cobordism class for the compactification geometry imposes stringent constraints on the permissible gauge algebra. Specifically, we establish that any attempt to realize a $\mathfrak{g}_2$ gauge symmetry is obstructed. The inconsistency arises from an inability to simultaneously satisfy anomaly cancellation conditions and geometrically engineer the requisite global structure, forcing the theory into the Swampland. This result sharpens the classification of consistent 8D supergravities and provides a concrete, string-theoretic benchmark for the Cobordism Conjecture.
-
-*(Word Count: 118)*

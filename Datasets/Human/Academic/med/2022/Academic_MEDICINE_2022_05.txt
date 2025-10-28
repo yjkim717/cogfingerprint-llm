@@ -1,8 +1,0 @@
-Author: A. Venook
-Title: Rectal Cancer, Version 2.2022, NCCN Clinical Practice Guidelines in Oncology.
-Paper ID: 626b12c79632d80c2819b729191a71a40595beb7
-Year: 2022
-Author Index: 5
-
-Abstract:
-This selection from the NCCN Guidelines for Rectal Cancer focuses on management of malignant polyps and resectable nonmetastatic rectal cancer because important updates have been made to these guidelines. These recent updates include redrawing the algorithms for stage II and III disease to reflect new data supporting the increasingly prominent role of total neoadjuvant therapy, expanded recommendations for short-course radiation therapy techniques, and new recommendations for a "watch-and-wait" nonoperative management technique for patients with cancer that shows a complete response to neoadjuvant therapy. The complete version of the NCCN Guidelines for Rectal Cancer, available online at NCCN.org, covers additional topics including risk assessment, pathology and staging, management of metastatic disease, posttreatment surveillance, treatment of recurrent disease, and survivorship.

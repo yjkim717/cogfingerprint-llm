@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract**
-
-Recent astrochemical models posit that carbon incorporation into interstellar ices represents a critical pathway for carbon accretion within molecular clouds. This study utilizes quantum chemical calculations to examine the reactivity of carbon atoms with ammonia ices, specifically exploring the formation mechanisms of complex organic molecules. Results demonstrate that methylamine emerges as the primary product of this interaction, exhibiting a significantly lower activation energy compared to alternative pathways.  Furthermore, we propose a plausible cascade involving methylamine, leading to the formation of interstellar methanimine. These findings refine our understanding of the chemical complexity within cold interstellar environments and provide testable predictions for future observational studies, informing the broader investigation of prebiotic chemistry and the delivery of carbonaceous material to planetary systems.

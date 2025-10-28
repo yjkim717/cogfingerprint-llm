@@ -1,5 +1,0 @@
-Here's an academic abstract based on the provided summary and keywords, adhering to the specified style and length:
-
-**Abstract**
-
-The escalating prevalence of type 2 diabetes mellitus (T2DM) necessitates innovative therapeutic strategies. This study examines the impact of metabolic surgery – specifically, the Roux-en-Y gastric bypass (RYGB) protocol, designated ARMMS-T2D – on long-term glycemic outcomes. Utilizing data from the prospective ARMMS-T2D observational cohort (2022), we investigated the efficacy of bariatric surgery relative to conventional medical and lifestyle interventions. Results demonstrate a statistically significant elevation in diabetes remission rates – defined as HbA1c <6.5% – within the surgical group over a three-year follow-up period. Furthermore, surgical patients exhibited substantially improved glycemic control, as evidenced by a marked reduction in mean HbA1c levels compared to the control group. These findings underscore the potential of metabolic surgery as a transformative approach for achieving and sustaining diabetes remission, warranting further investigation into patient selection criteria and long-term durability.

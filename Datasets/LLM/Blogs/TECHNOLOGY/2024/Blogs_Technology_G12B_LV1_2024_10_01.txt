@@ -1,7 +1,0 @@
->## The Ghosts in the Algorithm
-
-It's funny, isn't it, how technology designed to connect us can sometimes feel like uncovering something… unsettling? I was wrestling with my smart home hub the other day, trying to get the lighting just right, when it hit me. This little device, gathering data on my habits, my preferences, my very presence in the house, felt a bit like finding a hidden patch behind the drywall.
-
-You know, that feeling of discovering something unexpected, maybe even a bit worrying, that previous owners conveniently didn't mention? I started wondering about all the data these systems collect. It’s all supposedly for convenience, for making our lives easier. But what about the echoes of our past selves, preserved in the cloud? 
-
-It’s not a foundation crack, exactly, but a digital one – a subtle awareness that our online lives are being meticulously cataloged, and the implications are something we're still, collectively, trying to understand. Maybe we need to start asking, what are the disclosures we *should* be demanding in this increasingly connected world?

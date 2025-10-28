@@ -1,7 +1,0 @@
-Here’s an academic abstract inspired by the provided summary, suitable for a medical journal publication in 2023:
-
-**Recent Updates to HER2 Testing Guidelines Reflect Expanding Therapeutic Landscape**
-
-The evolving landscape of targeted therapies for HER2-positive breast cancer necessitates continuous refinement of diagnostic strategies. This abstract summarizes key recommendations from the 2023 update to established guidelines, primarily focusing on the interpretation of immunohistochemistry (IHC) assays.  Historically, HER2 status was predominantly determined via amplified in situ hybridization (ISH) or dual ISH. However, the emergence of novel antibody-drug conjugate (ADC) agents, notably trastuzumab deruxtecan, has significantly altered the clinical significance of lower-intensity HER2 expression. 
-
-Specifically, the updated guidelines now underscore the increasing importance of considering IHC 0 and 1+ results.  These results, previously often deemed equivocal, are increasingly viewed as predictive of response to ADC therapies.  Furthermore, the ASCO-CAP guidelines were revisited to provide standardized interpretation criteria, emphasizing the need for robust validation and consideration of patient-specific factors.  Continued research and clinical validation are crucial to optimize patient stratification and ensure appropriate treatment selection within this dynamic therapeutic context.

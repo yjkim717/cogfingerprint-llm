@@ -1,5 +1,0 @@
-## The Currency Conundrum: When Your E-Commerce Platform Lets You Down
-
-It's 2020, and running an online store feels like a constant tech juggling act. Lately, I’ve been wrestling with something particularly frustrating: multicurrency. We’re showing prices in Euros, Pounds, even Aussie Dollars, but actually *processing* payments in those currencies through Shopify? Still a headache. 
-
-It’s bizarre, isn’t it? Displaying the right price is half the battle; the checkout needs to seamlessly handle the conversion. I’m seriously considering a return to WooCommerce. It felt clunky before, but at least it offered the flexibility we needed. It's a reminder that sometimes, the "shiny new thing" isn't always the best solution, and sometimes, going back to basics is worth exploring. Anyone else feeling the platform fatigue?

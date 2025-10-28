@@ -1,5 +1,0 @@
-## Taming the Transaction Jungle: Why I Finally Faced My Spending Data
-
-Okay, let's be honest, managing money can feel… overwhelming. For years, I just let transactions pile up in my bank accounts, a vague sense of dread accompanying each statement. Then, in 2022, I decided enough was enough. I’d been using a SQL database to store everything (a bit nerdy, I know!), but it was just a dumping ground. 
-
-So, I dove in. Data scraping the transaction history, then building a simple classification system - “Groceries,” “Entertainment,” “Travel” – felt surprisingly empowering. It's amazing how much clearer things become when you actually *see* where your money goes. It's not about restriction, but about understanding. And that, my friends, is a powerful feeling.

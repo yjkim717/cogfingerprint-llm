@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The 2021 revision of the National Comprehensive Cancer Network (NCCN) guidelines for metastatic colorectal cancer (mCRC) introduces pivotal updates that refine its therapeutic stratification. A cornerstone of this update is the expanded role of immune checkpoint inhibitors for patients with mismatch repair-deficient (dMMR) or high microsatellite instability (MSI-H) tumors, solidifying immunotherapy as a standard of care in this molecularly defined subset. Furthermore, the guidelines formally incorporate the use of biosimilars for reference biologic agents, such as bevacizumab and infliximab, addressing cost-effectiveness and accessibility without compromising efficacy. Emphasis is placed on comprehensive biomarker testing—including RAS, BRAF, and HER2 status—as an imperative for initial diagnostic workup to guide targeted therapy selection. These evidence-based refinements underscore a continued paradigm shift in mCRC management towards a more personalized and biomarker-driven treatment approach, optimizing outcomes through precise patient selection.
-
-(149 words)

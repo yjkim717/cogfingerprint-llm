@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: Defining Amyloid-β Cerebrospinal Fluid Biomarker Cutoff for Alzheimer's Disease Prognosis
-
-Abstract: 
-Utilizing a three-range method, this study establishes a cerebrospinal fluid (CSF) amyloid-β biomarker cutoff to predict Alzheimer's disease (AD) clinical progression. CSF amyloid-β measurements were categorized into low, intermediate, and high ranges. The proposed cutoff demonstrated significant predictive value for clinical progression, with intermediate-range values associated with an increased risk of AD. The findings support the use of this cutoff in clinical settings to inform prognosis and guide therapeutic decisions, thereby enhancing patient stratification for future AD trials. (2020)

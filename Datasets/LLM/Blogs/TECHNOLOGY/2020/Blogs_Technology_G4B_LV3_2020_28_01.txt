@@ -1,7 +1,0 @@
-Okay, here's a blog post draft based on the summary and your guidelines:
-
----
-
-**The Ghost in the Machine**
-
-It was late 2020, and I was wrestling with a particularly stubborn USACO problem. I’d optimized the algorithm, felt a surge of triumph – only to be met with that dreaded “timing out” message. It’s a frustrating feeling, like chasing a ghost in the machine. Sometimes, the biggest efficiency gains aren’t about the code itself, but where you’re looking.

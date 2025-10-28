@@ -1,9 +1,0 @@
->## Wrestling with the Backend: Why I'm Excited About FatCoach
-
-It's 2020, and the tech landscape feels like a constant churn. We're all chasing the holy grail of developer happiness – building things *quickly* and *well*, without getting bogged down in the nitty-gritty. GraphQL has been a big part of that conversation, promising flexibility and client-driven data fetching. And it's been great, truly.
-
-But lately, I’ve been feeling a little…overwhelmed. The schema management, the tooling, sometimes it feels like *more* complexity, not less. That's why I'm really intrigued by this experimental project called FatCoach.
-
-It’s a Kotlin-based BaaS framework, and the idea is clever: abstract away the SQL database entirely, but instead of relying on GraphQL's wide interoperability, offer a more focused, Kotlin-powered query DSL. Think fluent SQL-like syntax, but handled elegantly within the framework. 
-
-I'm fascinated by the potential to simplify backend development, especially for smaller teams. jOOQ has always been a favorite for type-safe SQL, and this feels like a natural evolution. It's early days, of course, but I'm keeping an eye on FatCoach – it represents a refreshing perspective on tackling the backend challenge. Anyone else feeling the backend blues and looking for something new?

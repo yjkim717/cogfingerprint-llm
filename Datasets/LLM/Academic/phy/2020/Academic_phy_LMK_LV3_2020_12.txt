@@ -1,7 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-"Accelerating Density Functional Theory Calculations with GPU-Enabled Exchange-Correlation Schemes"
-
-Abstract:
-
-This study presents a parallel implementation of density functional theory (DFT) calculations within the QUICK program, leveraging GPU acceleration to enhance computational efficiency. By integrating a GPU-enabled exchange-correlation scheme, we achieve significant speedup in DFT calculations, mitigating the computational bottleneck associated with traditional CPU-based architectures. Our results demonstrate a substantial reduction in computational time, facilitating the application of DFT to complex systems. This development marks a crucial step towards harnessing the potential of quantum computing and high-performance computing in materials science research, as of 2020.

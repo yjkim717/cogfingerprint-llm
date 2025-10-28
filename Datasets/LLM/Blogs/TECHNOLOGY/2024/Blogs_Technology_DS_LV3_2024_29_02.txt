@@ -1,3 +1,0 @@
-It’s 2024, and I’ve been watching the C3 language evolve with a mix of excitement and nostalgia. With version 0.5.4, the team is shifting to a monthly release schedule—a sign we’re nearing language completion. It feels like watching a friend grow up: the big features are in place, and now it’s all about refining the details.
-
-What’s beautiful is how much we’re leaning on you—the community. Every new user, with their unique projects and feedback, uncovers bugs or missing pieces we never anticipated. It’s a reminder that software isn’t built in isolation; it’s polished together, one discovery at a time.

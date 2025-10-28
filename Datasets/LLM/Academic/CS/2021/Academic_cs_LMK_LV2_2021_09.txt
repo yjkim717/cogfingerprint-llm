@@ -1,6 +1,0 @@
-Here is a potential abstract based on the provided summary:
-
-Title: A Layered Analysis of DoS/DDoS Attacks and Countermeasures in IoT Ecosystems
-
-Abstract:
-The proliferation of Internet of Things (IoT) devices has introduced significant security concerns, particularly with regards to Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks. As IoT devices become increasingly ubiquitous, their vulnerability to such attacks poses substantial threats to network integrity and availability. This paper presents a comprehensive review of DoS/DDoS attacks on IoT devices, examining the vulnerabilities and threats across different IoT layers. We analyze the attack vectors and mitigation strategies at each layer, including perception, network, and application layers. Our survey highlights the strengths and weaknesses of existing countermeasures and identifies areas for future research. By providing a structured analysis of DoS/DDoS attacks in IoT ecosystems, this work aims to inform the development of more effective security solutions for IoT environments. (2021)

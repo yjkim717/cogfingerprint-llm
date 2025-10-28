@@ -1,5 +1,0 @@
-Year: 2020
-Author: therealscooke
-URL: https://www.reddit.com/r/indesign/comments/go5ulp/how_to_leave_indesign/
-
-Hi there, I have a strange question but hear me out! I love InDesign but due to budgets I need to let it go. I have a bunch of files, many from templates, of newsletters, 5x7 cards, CVs, magazines from CM, etc. Before CC subscription expires in a few weeks, what do I need to do to be able to still use my files? I assume I'll have to just export them to some other format, like Scribus, but is there anything else I need to be aware of? Thanks!

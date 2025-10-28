@@ -1,1 +1,0 @@
-get_blog_post(keywords=["college football", "rivalries", "sports hate", "petty reasons", "team rivalry"], year=2022, tone="conversational", style="reflective")

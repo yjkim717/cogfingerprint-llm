@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, written in the style of a medical researcher:
-
-**Abstract**
-
-Recent advancements in Alzheimer's disease (AD) diagnostics have centered on the identification of robust and sensitive biomarkers. This 2022 study investigates the utility of plasma phosphorylated tau isoforms, specifically p-tau231 and p-tau217, as indicators of early AD-related pathology. Our findings demonstrate a strong correlation between elevated plasma concentrations of these p-tau isoforms and the presence of detectable amyloid-β deposition in the brain, even in individuals lacking clinical signs of dementia. Critically, these biomarkers exhibit heightened sensitivity compared to traditional amyloid-β measurements, enabling the identification of preclinical AD cases with greater accuracy. Consequently, p-tau231 and p-tau217 represent valuable tools for enriching preclinical cohorts in AD clinical trials, potentially accelerating the development of disease-modifying therapies by facilitating earlier intervention and improved trial outcomes.

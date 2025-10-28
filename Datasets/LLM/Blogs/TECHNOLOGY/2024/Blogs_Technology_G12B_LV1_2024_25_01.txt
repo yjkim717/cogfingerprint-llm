@@ -1,5 +1,0 @@
-## The Password Policy Puzzle Still Haunts Me
-
-Remember those late nights wrestling with Group Policy Objects (GPOs) back in the day? I was revisiting some old admin documentation this week, and it brought back a specific frustration: password policies. Specifically, the age-old question – does a fine-grained policy applied to a specific OU actually *override* the overarching domain-level GPO regarding minimum password length? 
-
-It’s 2024, and we're talking about multi-factor authentication, passkeys, and biometric logins. Yet, the legacy echoes of these GPO debates persist. It just highlights how even with leaps in security tech, sometimes you’re still untangling the threads of systems built years ago. A little reminder that even the newest tools stand on the shoulders of giants (and sometimes, slightly confusing giants at that!).

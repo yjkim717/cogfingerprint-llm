@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The construction of discrete heteroleptic metallo-supramolecular architectures, particularly those incorporating multiple low-symmetry ligands, presents a significant synthetic challenge due to the inherent propensity for statistical ligand scrambling. Herein, we report a robust strategy for the high-fidelity assembly of heteroleptic [Pd<sub>II</sub><sub>2</sub>L<sub>A</sub>L<sub>B</sub>L<sub>C</sub>L<sub>D</sub>] cages, where L<sub>A</sub>–L<sub>D</sub> represent four distinct, low-symmetry ditopic ligands. Our approach circumvents the formation of complex isomeric mixtures by employing a principle of steric and electronic complementarity within orthogonal ligand pairings. This methodology relies on the pre-organization of two complementary ligand sets, which are designed to exhibit a kinetic preference for coordination alongside a specific partner ligand rather than engaging in self-assembly. The judicious selection of these ancillary pairings—based on parameters such as backbone curvature, donor atom identity, and steric bulk at the coordination site—ensures the selective formation of a single, well-defined heteroleptic cage complex. The resulting assemblies were characterized by multi-nuclear NMR spectroscopy (<sup>1</sup>H, <sup>13</sup>C, <sup>31</sup>P), electrospray ionization mass spectrometry, and X-ray crystallography, confirming their structural integrity and composition. This work establishes a versatile design rule for accessing complex, multi-component functional materials with precise spatial arrangement of diverse chemical functionalities, opening new avenues in catalysis and molecular recognition.
-
-**(Word Count: 228)**

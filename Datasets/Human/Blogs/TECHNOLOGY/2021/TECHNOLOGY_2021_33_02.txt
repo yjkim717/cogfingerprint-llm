@@ -1,5 +1,0 @@
-Year: 2021
-Author: RetardedManOnTheWeb
-URL: https://www.reddit.com/r/GlobalOffensive/comments/nru5lf/unable_to_tab_back_into_csgo_after_tabbing_out/
-
-Sometimes when I tab out to check spotify or discord, I am unable to tab back in. When i tab back into CSGO, it would kick me back out to my desktop. I play in fullscreen 4:3 stretched. Is there a way i can solve this? I am sorry that i wasn't able to show a vid demonstrating this but i hope my explanation can help you understand the situation.

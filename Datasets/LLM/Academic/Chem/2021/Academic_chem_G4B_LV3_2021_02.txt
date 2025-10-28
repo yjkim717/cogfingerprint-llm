@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2021 publication:
-
-**Abstract**
-
-Recent investigations into the catalytic activity of amorphous solid water (ASW) have yielded compelling evidence for its role in carbon atom reactivity, specifically concerning formaldehyde formation. Utilizing a combination of density functional theory (DFT) calculations and experimental kinetic isotope effect (KIE) measurements, this study elucidates a concerted proton transfer mechanism driving the reaction. Notably, ASW facilitates the transformation of carbon atoms into formaldehyde under ambient conditions. Discrepancies observed in prior literature regarding this process are reconciled through the proposed mechanistic pathway. Furthermore, the observed KIE data provide strong support for the concerted nature of the reaction, demonstrating a significant influence of isotopic substitution on the reaction rate. These findings contribute to a deeper understanding of water’s catalytic potential and offer a novel perspective on fundamental chemical transformations involving carbon and hydrogen.

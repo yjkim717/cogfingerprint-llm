@@ -1,5 +1,0 @@
-Here is a generated abstract:
-
-Title: Accelerating Causal Inference with Parallelized LiNGAM on GPU Architectures
-
-Abstract: Causal discovery from large-scale datasets remains a computationally intensive task. This paper introduces AcceleratedLiNGAM, a novel parallelization of the Linear Non-Gaussian Acyclic Model (LiNGAM) method, leveraging GPU acceleration to optimize continuous optimization problems inherent in causal inference. By harnessing the massively parallel architecture of modern GPUs, AcceleratedLiNGAM achieves substantial speed-ups over traditional CPU-based LiNGAM implementations. Empirical evaluations on synthetic and real-world datasets demonstrate the efficacy of our approach, enabling scalable causal discovery in complex systems. Our results underscore the potential of GPU-accelerated causal inference to transform data-driven research in 2024 and beyond.

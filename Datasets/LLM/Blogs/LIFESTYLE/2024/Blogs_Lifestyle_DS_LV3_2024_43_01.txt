@@ -1,1 +1,0 @@
-Ever feel like you’re searching for the right tools to build something uniquely yours? I’ve been diving into MCP, hoping to craft custom clients in TypeScript or Python, but the official guides only cover servers. It’s a reminder that sometimes, the best resources come from the community, not the manuals.

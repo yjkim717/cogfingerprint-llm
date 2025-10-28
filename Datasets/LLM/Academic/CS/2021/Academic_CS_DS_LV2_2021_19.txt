@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract in the style of a 2021 computer science paper.
-
-***
-
-**Abstract**
-
-Data augmentation is a cornerstone of modern deep learning, yet its application in low-level vision tasks remains underexplored compared to high-level semantic tasks. This paper presents a systematic investigation of the copy-blend augmentation technique, which strategically pastes and blends patches within an image to generate novel training samples. We posit that this method effectively simulates complex, spatially varying degradations and textures inherent to real-world scenes, thereby acting as a powerful regularizer. Our empirical analysis, conducted across multiple benchmarks including image super-resolution and denoising, demonstrates that models trained with copy-blend augmentation achieve a statistically significant improvement in perceptual quality metrics, such as LPIPS, over conventional augmentation baselines. Crucially, we establish that this approach substantially mitigates data scarcity, enabling competitive performance with up to 40% less original training data. These findings underscore the efficacy of semantically coherent, intra-image augmentation for enhancing model robustness and data efficiency in pixel-level regression tasks, offering a practical pathway for resource-constrained research and deployment.

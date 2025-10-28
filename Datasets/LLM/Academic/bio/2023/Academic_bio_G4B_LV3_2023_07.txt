@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords:
-
-**Abstract**
-
-This research presents a novel suite of open-access bioclimatic variables facilitating the creation of detailed microclimate temperature grids specifically tailored for European forest ecosystems.  Recognizing the limitations of traditional climate data for ecological modeling, this study develops spatially explicit indicators reflecting key bioclimatic variables. The resultant microclimate data, characterized by enhanced spatial resolution, addresses a critical gap in current predictive capabilities.  These variables are intended to improve the accuracy of ecological models simulating forest responses to environmental change.  Further investigation will assess the utility of these grids across diverse European forest types, contributing to a more robust understanding of forest dynamics within a changing climate – 2023.

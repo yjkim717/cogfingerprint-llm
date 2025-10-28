@@ -1,5 +1,0 @@
-## The Frustrating Dance with Dynamic Content (and Manga!)
-
-Okay, so I've been trying to automate something lately – a little web scraping project to collect image links from a manga site. Sounds simple, right? Turns out, not so much. I ran into this incredibly frustrating "Access Denied Error 1020" from Cloudflare. It felt like the internet itself was laughing at me.
-
-The weird thing? When I manually scrolled through the site, the links *worked*. It dawned on me: this site loads content dynamically. It’s a common trick, but it threw a wrench in my Puppeteer script! It’s a good reminder that the digital world isn’t always straightforward. Sometimes, you just have to take a breath, step away, and come back with a fresh perspective – and maybe a little manual scrolling. Anyone else dealt with similar tech frustrations lately?

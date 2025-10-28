@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2023 publication:
-
-**Abstract**
-
-Recent investigations into the enzymatic mechanisms underlying lignin degradation by *Pleurotus ostreatus*, a prominent white-rot fungus, have identified critical roles for manganese peroxidases (MnPs) and versatile peroxidases (VPs). Utilizing CRISPR/Cas9 gene editing techniques, this study confirmed that inactivation of *VPS* genes significantly impaired the fungus’s ability to effectively depolymerize lignin within plant cell walls. Furthermore, MnP activity was found to be inextricably linked to VP function, suggesting a coordinated enzymatic cascade. These findings highlight the importance of these lignin-modifying enzymes in the fungal lifecycle and ecological role.  Specifically, targeted manipulation of *VPS* and *MNPS* genes reveals their indispensable contribution to the breakdown of complex biopolymers, potentially offering novel biotechnological strategies for sustainable biomass processing and biorefining.  Future research will explore the precise regulatory networks governing this enzymatic pathway.

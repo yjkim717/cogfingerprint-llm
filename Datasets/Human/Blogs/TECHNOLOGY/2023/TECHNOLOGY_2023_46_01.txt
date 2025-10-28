@@ -1,5 +1,0 @@
-Year: 2023
-Author: WaldoOU812
-URL: https://www.reddit.com/r/PowerShell/comments/113ynsb/export_all_users_from_groups_with_name_like/
-
-Been banging my head against the wall on this for a while, and I've found some scripts that show how to do something kinda similar (without the name -like "whatever" part), and I just cannot seem to get this to work. What I'm looking for is a way to find all groups containing a particular string in the name and exporting a list of every member (including a recursive lookup) of each of those groups. So, for example, "Every member of every group with a name like 'basecamp'," essentially. Here's what I have so far, and while it runs without an error, it also comes up completely empty. I'm also not sure how to throw the recursive switch in there (or if it's even needed. &#x200B; $Grps = Get-ADGroup -Filter * | Where {$_.name -like "basecamp"} $results=Foreach ($Grp in $Grps){ Get-ADPrincipalGroupMembership -Identity $Grp.SamAccountName | where {$_.name -like "basecamp"} | select @{N="PrincipalGroupName";e={$grp.name}}, @{N="MemberOfGroup";e={$_.name}},GroupCategory } $results | Export-csv 'c:\temp\secgrp.csv' -notypeinformation

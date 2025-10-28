@@ -1,5 +1,0 @@
-Year: 2024
-Author: drowningfish
-URL: https://www.reddit.com/r/rubrik/comments/1b8jvsv/reset_node_to_factory/
-
-I'm currently getting acquainted with Rubrik and would like to reset a node to factory to restart the cluster configuration. I haven't registered the cluster yet, I'm just getting started. I want to restart from the beginning again. Is there a way to RESET to restart the config? &#x200B;

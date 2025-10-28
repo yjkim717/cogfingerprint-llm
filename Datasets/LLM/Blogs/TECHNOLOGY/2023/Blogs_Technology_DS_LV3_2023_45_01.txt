@@ -1,3 +1,0 @@
-Looking back at my 2023 cryptographic proposal still gives me pause. I’d sketched out an idea—something to improve on FROST—where every participant could actively validate commitments, not just a select few. It used an interlaced signature scheme, weaving individual checks into a collective, trustworthy whole.
-
-At the time, I thought it was elegant but niche. Now, I see its real power: fostering collaboration without sacrificing security. It’s a reminder that sometimes the most meaningful innovations aren’t the flashiest—they’re the ones that quietly empower everyone involved. I wish I’d championed it more back then.

@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary, contextualized for the year 2021.
-
-***
-
-**Abstract**
-
-The black hole/string transition remains a critical frontier in quantum gravity, probing the nature of spacetime microstructure. This investigation contrasts the behavior of self-gravitating string states across heterotic and type II superstring theories. We demonstrate a fundamental dichotomy: in the heterotic case, a continuous interpolation between the small black hole phase and the perturbative string regime is strongly supported by an exact analysis of the free energy and its α′ corrections. This continuity provides compelling evidence for the fuzzball paradigm, where the black hole interior is replaced by a horizon-free, non-singular geometry of coherent string states. Conversely, in type II theories, the transition exhibits a first-order character, suggesting a topological obstruction to a smooth connection. These results, derived from a high-precision microcanonical analysis, substantiate the claim that the fuzzball resolution to the black hole information paradox is inherently realized in heterotic string theory, while highlighting distinct non-perturbative dynamics in the type II context.
-
-(Word count: 180)

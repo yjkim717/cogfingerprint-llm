@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords:
-
-**Abstract**
-
-The 2024 NCCN guidelines for colorectal cancer (CRC) address the increasingly complex management of metastatic disease.  Systemic therapy remains a cornerstone of treatment, yet optimal selection necessitates individualized assessment. This document details evolving strategies, factoring in patient’s prior treatment history, comprehensive tumor mutational profiles (TMPs), and rigorous monitoring of drug-related toxicities.  Specifically, the guidelines prioritize sequencing and combination regimens, reflecting advancements in targeted therapies and immunotherapy.  Further research is warranted to refine predictive biomarkers and optimize treatment algorithms to maximize clinical benefit and minimize adverse events within the context of disseminated CRC.

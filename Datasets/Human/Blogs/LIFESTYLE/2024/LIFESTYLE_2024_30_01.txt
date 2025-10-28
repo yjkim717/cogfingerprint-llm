@@ -1,5 +1,0 @@
-Year: 2024
-Author: talbotron22
-URL: https://www.reddit.com/r/Home/comments/1dm4chm/where_is_the_neutral_wire_for_my_switch/
-
-I'm trying to install a Lutron DVELV-300P dimmer switch to control a ceiling LED lamp (this switch). When I flipped off the breaker and took off the current single pole switch, I was able to identify ground, live and load wires, but the switch doesn't have a white neutral wire attached anywhere. My home was built in the past few years, so there should be neutral somewhere. In the rear of the switch box there are 2 wires shown in this picture attached with a yellow wire nut. Is that neutral? If so, can I safely install this switch by attaching the Lutron dimmer switch white neutral wire to these cables using the same yellow nut?

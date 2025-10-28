@@ -1,5 +1,0 @@
-Year: 2020
-Author: pnwstarlight
-URL: https://www.reddit.com/r/sysadmin/comments/ffu1ry/microsoft_stream_unable_to_create_a_new_live_event/
-
-Hi friends, I'm trying to create a new live event for my organization in office 365. I am an admin user and I made sure I have the permission for creating live events in the teams & stream admin centers, but I still don't see the button to create a live event in neither app. Does it take time for the permission to go through? Waited about half an hour so far? Or did they remove that feature?

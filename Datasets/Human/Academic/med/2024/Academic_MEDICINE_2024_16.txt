@@ -1,8 +1,0 @@
-Author: N. Ashton
-Title: Diagnostic Accuracy of a Plasma Phosphorylated Tau 217 Immunoassay for Alzheimer Disease Pathology
-Paper ID: b4bcdf665c0038cf07b0ea5703946b45dfbb4d36
-Year: 2024
-Author Index: 16
-
-Abstract:
-This cohort study examines data from 3 single-center observational cohorts to test the capabilities of a commercially available plasma phosphorylated tau 217 immunoassay to identify Alzheimer disease pathophysiology.

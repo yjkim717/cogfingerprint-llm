@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2024 medical publication:
-
-**Abstract**
-
-The increasing prevalence of breast cancer necessitates refined approaches to risk stratification and treatment planning. This study examines the evolving role of germline mutation testing, specifically focusing on *BRCA1* and *BRCA2*, within the context of current clinical guidelines.  Following the 2024 ASCO-SSO guideline, comprehensive germline testing is now routinely recommended for newly diagnosed breast cancer patients.  Beyond diagnostic confirmation, identifying *BRCA1/2* mutations facilitates personalized treatment strategies, including enhanced chemotherapeutic regimens and prophylactic surgery. Furthermore, genetic testing informs critical family counseling, allowing for cascade testing and proactive risk mitigation strategies across subsequent generations.  Despite growing acceptance, challenges remain regarding equitable access and the interpretation of complex variant data, areas requiring ongoing research and standardization within cancer genetics practice.

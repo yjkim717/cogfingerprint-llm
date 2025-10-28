@@ -1,1 +1,0 @@
-There I was, staring at the blinking cursor in PowerCLI, trying to gracefully handle those Horizon ParentVMs for host maintenance. It’s 2022, and orchestrating instant clones felt like herding digital cats—necessary yet tricky. But finding that script to power them down? Pure relief, ensuring smooth updates without disrupting the team’s workflow.

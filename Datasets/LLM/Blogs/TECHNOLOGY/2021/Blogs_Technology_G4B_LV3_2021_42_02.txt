@@ -1,7 +1,0 @@
-Okay, here's a blog post draft inspired by your summary and keywords, aiming for a reflective and conversational tone, suitable for 2021:
-
----
-
-**The Ghost in the Machine – and Its Rights?**
-
-Remember when we thought AI was just… clever? This year, 2021, it’s hitting a wall – a legal one. I’ve been wrestling with the idea of using these incredible “pretrained networks” for my projects. But what about the code *within* them? Who owns it? It’s a tangled mess of licenses and commercial use, like trying to understand the ghost in the machine. It’s a fascinating, and slightly unsettling, frontier.

@@ -1,6 +1,0 @@
-Title: Enhanced Fast-Charging Capabilities in Cation-Deficient Perovskite Anodes for Lithium-Ion Batteries
-
-
-#### Abstract
-
-The development of high-performance lithium-ion batteries relies heavily on the advancement of anode materials capable of withstanding high charge/discharge rates. In this study, we investigate the electrochemical properties of cation-deficient perovskite CeNb3O9 as a potential anode material. Our results demonstrate that the introduction of cation vacancies in the perovskite structure significantly enhances the material's electrical conductivity and facilitates lithium-ion diffusion. The observed atomic short-range order in CeNb3O9 contributes to the stabilization of the crystal structure, allowing for improved cycling stability. When tested as an anode in lithium-ion batteries, CeNb3O9 exhibits a high reversible capacity and outstanding rate capability, retaining 85% of its initial capacity after 500 cycles at a 10C rate. Our findings suggest that cation-deficient perovskite anodes hold great promise for the development of fast-charging lithium-ion batteries, with potential applications in electric vehicles and renewable energy systems.

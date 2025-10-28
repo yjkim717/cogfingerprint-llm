@@ -1,5 +1,0 @@
-Year: 2022
-Author: decebaldecebal
-URL: https://www.reddit.com/r/NFT/comments/x4t4yw/since_everyone_loves_memes_why_not_turn_them_into/
-
-I assume that everyone loves MEMEs since they are an integral part of the crypto community. That's why I am building a platform where users can turn their MEMEs into NFTs and earn off of them. The platform is called eNftMemes and is built on the Elrond Blockchain. It is live, MEMEs can be created and voted, and the Top 10 most voted memes each week will be part of an auction so others can buy them, and they will also be stakable to earn a share of the platform profits. Is this something that would interest you guys? Can't post links here, but let me know if you have any questions and will try my best to answer them. Thanks!

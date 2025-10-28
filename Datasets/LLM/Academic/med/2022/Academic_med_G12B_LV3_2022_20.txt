@@ -1,5 +1,0 @@
-Here's an academic-style abstract inspired by the provided summary and keywords, suitable for a medical research context:
-
-**Abstract**
-
-The 2022 update to the American Society of Clinical Oncology (ASCO) guideline addresses the evolving landscape of biomarker testing in metastatic breast cancer (MBC) and its impact on systemic therapy selection. This guidance emphasizes the critical role of molecular profiling to facilitate personalized medicine approaches. Specific biomarkers receiving strong recommendations include *PIK3CA*, *BRCA1/2*, *PALB2*, and PD-L1 expression, alongside assessment of mismatch repair/microsatellite instability-high status, tumor mutational burden, and *NTRK* fusions. The guideline acknowledges limitations in evidence supporting the clinical utility of numerous other biomarkers, advocating for cautious interpretation and further investigation. Ultimately, this updated framework aims to optimize therapeutic strategies for patients with MBC by integrating biomarker data into treatment decision-making, thereby improving patient outcomes and aligning with advancements in precision oncology.

@@ -1,8 +1,0 @@
-Author: Oscar Fuentealba
-Title: Bondi-Metzner-Sachs Group in Five Spacetime Dimensions.
-Paper ID: fdf4ac91ca56819485fe0913bcda5211d7a98562
-Year: 2021
-Author Index: 16
-
-Abstract:
-We study asymptotically flat spacetimes in five spacetime dimensions by Hamiltonian methods, focusing on spatial infinity and keeping all asymptotically relevant nonlinearities in the transformation laws and in the charge generators. Precise boundary conditions that lead to a consistent variational principle are given. We show that the algebra of asymptotic symmetries, which had not been uncovered before, is a nonlinear deformation of the semidirect product of the Lorentz algebra by an Abelian algebra involving four independent (and not just one) arbitrary functions of the angles on the three-sphere at infinity, with nontrivial central charges. The nonlinearities occur in the Poisson brackets of the boost generators with themselves and with the other generators. They would be invisible in a linearized treatment of infinity.

@@ -1,3 +1,0 @@
-Title: High-Resolution Bioclimatic Variables for European Forest Microclimates
-
-Abstract: This study presents novel, open-access bioclimatic variables at 25 m resolution, capturing microclimatic temperatures within European forests. Leveraging advanced spatial interpolation techniques, these data enhance the accuracy of ecological models, facilitating nuanced investigations into forest ecosystem dynamics and responses to climate change in 2023.

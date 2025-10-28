@@ -1,5 +1,0 @@
-## The Eternal Quest for Smooth Frames (and a Lag-Free Mouse)
-
-It's 2022, and I'm still battling the same demons in video games: inconsistent frame rates and that dreaded mouse lag. I dove deep into Fallout 4 recently, chasing that sweet spot of 60fps without the game deciding to crash spectacularly. 
-
-Turns out, the answer isn't always straightforward. I’ve been tinkering with Nvidia Control Panel settings, exploring things like iPresentInterval – a rabbit hole of technical jargon! – all in pursuit of a silky-smooth experience. It's a constant reminder that even with incredible hardware, optimizing for performance can be a surprisingly complex and ongoing process. Anyone else feel like they're perpetually tweaking settings just to get things *right*?

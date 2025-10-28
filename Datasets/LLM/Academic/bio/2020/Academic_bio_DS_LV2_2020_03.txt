@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary.
-
-***
-
-**Abstract**
-
-The white-rot fungus *Pleurotus ostreatus* is a model organism for studying the enzymatic machinery behind lignin depolymerization, a critical process in global carbon cycling. To elucidate the genetic regulation of this complex system, we conducted a comparative transcriptome analysis of wild-type *P. ostreatus* and a suite of delignification-defective mutants cultivated on a lignocellulosic substrate. Our investigation revealed significant transcriptional reprogramming in the mutants, characterized by the concerted downregulation of key lignocellulolytic gene families. These included genes encoding class II peroxidases, laccases, and auxiliary activity enzymes, directly linking their expression to the observed phenotypic impairment. This study provides a definitive transcript-level validation of the core enzymatic consortium responsible for native lignin degradation in *P. ostreatus*, offering new targets for biotechnological applications in biomass conversion.
-
-(Word count: 130)

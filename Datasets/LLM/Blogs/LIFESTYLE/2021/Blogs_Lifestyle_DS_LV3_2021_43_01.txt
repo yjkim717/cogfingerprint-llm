@@ -1,5 +1,0 @@
-It’s 2021, and like many developers, I’ve been chasing that perfect, distraction-free setup. Lately, I’ve been experimenting with using Google Colab as my ephemeral development environment—spinning up a fresh, clean workspace for each coding sprint and closing it when I’m done.
-
-There’s something freeing about starting from zero each time. No legacy clutter, no half-finished projects staring back at me. But then a nagging thought creeps in: is this an abuse of the system? Am I taking advantage of a resource meant for learning and experimentation?
-
-I’m torn between the efficiency of this transient workflow and the guilt of potentially overstepping. It feels like finding a secret shortcut that almost seems too good to be true. What do you think—where do we draw the line between smart use and misuse?

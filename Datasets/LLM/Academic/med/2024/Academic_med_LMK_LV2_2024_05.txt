@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract in the field of medicine:
-
-Title: Contemporary Systemic Therapy Paradigms for Metastatic Colorectal Cancer: A Review of Current Guidelines and Therapeutic Strategies
-
-Abstract: 
-The management of metastatic colorectal cancer (mCRC) has evolved significantly with advancements in systemic therapy. This review synthesizes current National Comprehensive Cancer Network (NCCN) guidelines and recent evidence to outline optimal treatment sequencing based on prior therapy, tumor mutational status, and toxicity profiles. A nuanced understanding of these factors enables clinicians to tailor therapy to individual patient needs, improving outcomes in this heterogeneous patient population. This review aims to provide a concise overview of contemporary systemic therapy options for mCRC.

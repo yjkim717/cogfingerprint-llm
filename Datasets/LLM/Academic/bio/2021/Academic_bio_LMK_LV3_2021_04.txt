@@ -1,9 +1,0 @@
-Title: Enhancing Psychiatric Education among Undergraduate Medical Students: An Exploratory Study on Attendance and Curriculum Integration
-
-Abstract:
-
-The integration of psychiatric training within the MBBS curriculum is crucial for fostering competent medical professionals. However, the attendance of undergraduate medical students in psychiatric training has been a persistent concern. A cross-sectional study conducted in 2021 among 100 MBBS students in central India revealed a concerning trend of low attendance in psychiatric training sessions. The primary factors contributing to this trend were identified as the absence of a separate examination for psychiatry and the flexibility to compensate for missed psychiatric training sessions by adjusting attendance in other major subjects.
-
-This study underscores the need for a more integrated and rigorous approach to psychiatric education within the MBBS curriculum. The findings suggest that the lack of a dedicated examination for psychiatry diminishes its perceived importance among students, thereby affecting their attendance. Furthermore, the flexibility to adjust attendance in other subjects inadvertently encourages absenteeism in psychiatric training.
-
-To address these issues, we propose a revised curriculum framework that incorporates a mandatory, separate examination for psychiatry, alongside a more structured attendance policy that does not allow for compensation across different subjects. Such a framework would not only enhance the attendance of undergraduate medical students in psychiatric training but also elevate the overall quality of psychiatric education. By integrating these recommendations into the MBBS curriculum, medical education can be made more effective, ensuring that future medical professionals are adequately equipped to address psychiatric needs in their practice.

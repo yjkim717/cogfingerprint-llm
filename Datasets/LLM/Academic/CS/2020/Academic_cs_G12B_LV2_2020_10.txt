@@ -1,7 +1,0 @@
-)
-## Abstract
-
-This paper explores the properties of the triangular ratio metric (TRM) restricted to the unit disk in the complex plane. We present novel bounds on the TRM, focusing on its behavior under the action of quasiconformal mappings. Specifically, we investigate the Hölder continuity of mappings that preserve the TRM, providing a detailed analysis of the relationship between the Hölder exponent and the distortion of the mapping. Our results contribute to a deeper understanding of geometric properties within the unit disk and provide valuable tools for studying the interplay between quasiconformal geometry and metric spaces. This work expands upon existing literature by establishing tighter bounds and offering new insights into the Hölder regularity of TRM-preserving mappings, with potential applications in areas such as image analysis and computer graphics.
-
-
-

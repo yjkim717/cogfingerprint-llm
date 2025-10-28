@@ -1,5 +1,0 @@
-It was late 2022, and I was staring at my screen, my latest AI model humming quietly on my laptop. The NeurIPS workshop deadline was approaching, and a familiar question echoed in my mind: *Is this it? Is this paper my final word, or just the first step?*
-
-I remembered a colleague who’d submitted a promising workshop paper to ICML, only to face scrutiny because their "preliminary" ideas were already public. The academic world can be a tricky landscape. A workshop can feel like a safe space to test the waters—to share raw, exciting concepts without the pressure of a full conference submission. But that early visibility is a double-edged sword. It’s a chance to get invaluable feedback, to connect with peers who are equally passionate, yet it also means your ideas are out there, potentially limiting where they can travel next.
-
-Navigating this isn't about right or wrong answers; it's about intention. Are you seeking collaboration and early critique, or are you guarding a concept for a grander debut? Understanding the unwritten rules of each venue is the real key to turning those initial drafts into something lasting.

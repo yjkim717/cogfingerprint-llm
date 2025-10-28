@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract:
-In 2021, a novel class of metal-organic frameworks (MOFs) was synthesized, integrating fluorescent functionality with pressure-amplifying properties. The resulting MOFs exhibited unique adsorption characteristics, including negative gas adsorption behavior. Upon guest molecule incorporation, the MOFs displayed tunable optical properties, demonstrating a direct correlation between adsorption and fluorescence responses. This study highlights the potential of these porous crystals for advanced sensing applications, leveraging the interplay between structural dynamics and optical functionality. The findings underscore the versatility of MOFs in addressing pressing challenges in gas storage and detection.

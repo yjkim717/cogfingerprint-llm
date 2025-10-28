@@ -1,5 +1,0 @@
-Here’s an abstract inspired by the provided summary, suitable for a 2024 physics research publication:
-
-**Abstract**
-
-Accurate distance measurements are fundamental to cosmological studies, reliant on reliable calibration of standard candles. This work presents a refined analysis of Cepheid variable and Tip of the Red Giant Branch (TRGB) luminosity calibrations, addressing previously identified numerical inconsistencies within a comparative study. We detail corrections implemented across both distance scales, utilizing photometric data obtained through the trgb filter.  Specifically, we examine the impact of metallicity on the observed relationship between Cepheid period-luminosity and the TRGB magnitude, leveraging updated spectral classifications.  The revised calibrations contribute to improved distance estimates for galaxies, furthering the precision of the Wesenheit Law and facilitating more robust distance scale determinations throughout the local universe.

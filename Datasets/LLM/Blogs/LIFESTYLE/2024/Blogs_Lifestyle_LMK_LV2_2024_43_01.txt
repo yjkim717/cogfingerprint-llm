@@ -1,1 +1,0 @@
-As I navigated the world of MCP servers in 2024, I stumbled upon a quest for the perfect custom client. Much like searching for a life hack, I yearned for an official SDK. Failing that, I turned to community-driven solutions, embracing the DIY spirit that defines our tech-savvy lifestyle.

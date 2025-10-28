@@ -1,5 +1,0 @@
-Year: 2024
-Author: statius9
-URL: https://www.reddit.com/r/computervision/comments/1darb4z/best_ipad_app_for_screen_recording_with_accurate/
-
-Hi everyone, I'm looking for recommendations on the best iPad app to record a subject writing on the screen. I need the app to provide accurate metadata, such as timestamps and video duration. Unfortunately, the iOS Control Center's screen recording feature doesn't offer detailed metadata, which is essential for my work. If anyone has experience with screen recording apps that provide this level of detail, I'd greatly appreciate your input. Thank you!

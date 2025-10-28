@@ -1,7 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Abstract**
-
-The mobility of reactive radicals on interstellar ice grain surfaces is a critical parameter governing the chemical complexity of the interstellar medium. However, quantitative experimental data on diffusion energy barriers for key species like the hydroxyl (OH) radical remain scarce. In this 2022 study, we present a laboratory investigation of the diffusion kinetics of OH radicals on a porous amorphous solid water (ASW) ice analogue under ultra-high vacuum conditions. Utilizing a combination of photostimulated desorption (PSD) and resonance-enhanced multiphoton ionization (REMPI) time-programmed methods, we monitored the surface hopping of OD radicals (used to avoid interference from background H₂O) as a function of temperature. Analysis of the diffusion rates via the Arrhenius equation yielded an activation energy for surface diffusion of \( E_{diff} = 0.14 \pm 0.01 \) eV. This low barrier suggests significant OH mobility even at cryogenic interstellar temperatures (~10-20 K), providing a crucial kinetic parameter for astrochemical models that seek to explain the formation of complex organic molecules, such as methanol, in dark molecular clouds.

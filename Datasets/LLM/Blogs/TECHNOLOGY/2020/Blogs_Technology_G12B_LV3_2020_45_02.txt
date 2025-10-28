@@ -1,7 +1,0 @@
-## The Allure of Digital Lego: Why I'm Dreaming of Modular Games
-
-Remember the joy of Lego as a kid? The endless possibilities, the feeling of building something truly *yours*? Lately, I've been thinking a lot about that feeling and how it translates to games. 
-
-I stumbled across a game design concept the other day – a browser game, of all things – that really resonated. It’s all about deep unit customization, like attaching modular components to build your perfect army. And even better, a blueprint system lets you essentially craft your own parts! 
-
-It got me thinking: wouldn't it be amazing to have a game where players could really tinker, create, and share their creations? A digital Lego box where everyone contributes to the building process. It feels like the perfect escape, especially in 2020, and a really interesting direction for game design.

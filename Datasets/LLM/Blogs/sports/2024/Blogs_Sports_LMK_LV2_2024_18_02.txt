@@ -1,9 +1,0 @@
-The Agony and the Ecstasy of Sports Audio: A Lesson Learned the Hard Way
-
-As I sat in my home studio in early 2024, gearing up to edit the audio for my friend's sports highlight reel, I was hit with a frustrating problem. The audio in Logic Studio was plagued by a persistent panning issue - the sound was unevenly distributed between the left and right channels, making it sound like the action on the field was happening in stereo. At first, I thought it was a problem with my settings or the software itself.
-
-But as I dug deeper, I discovered the culprit: my trusty AirPods. It turned out that they were causing the audio output to go haywire. I was using them to monitor my mix, but they were introducing a weird spatial audio effect that was exaggerating the panning issue.
-
-It got me thinking - isn't this a lot like the frustrations we face in sports? One minute you're on top of your game, the next, a small issue throws everything off. I've experienced it as a player, where a misstep or miscommunication can cost the team a game. And as a fan, I've felt the agony of watching my team struggle with a particular issue, like a pitching problem or a weak defense.
-
-But the key to success lies in identifying the problem and adjusting our approach. In my case, it meant tweaking my audio settings and switching to a different monitoring setup. And in sports, it means making adjustments on the fly - whether it's changing strategy or making a substitution. The thrill of competition is all about adapting and overcoming obstacles.

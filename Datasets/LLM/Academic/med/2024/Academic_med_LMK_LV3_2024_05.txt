@@ -1,4 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Abstract: 
-The optimal management of metastatic colorectal cancer (mCRC) remains a complex challenge in contemporary oncology. As of 2024, systemic therapy for mCRC is tailored to individual patient profiles, incorporating factors such as prior treatment history, tumor mutational status, and drug toxicity profiles, in accordance with the National Comprehensive Cancer Network (NCCN) guidelines, thereby underscoring the need for personalized cancer management strategies.

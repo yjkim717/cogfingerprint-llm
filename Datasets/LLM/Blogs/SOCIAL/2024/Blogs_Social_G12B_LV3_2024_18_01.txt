@@ -1,7 +1,0 @@
->## The Worry in the Waves: Liquid Staking and That Little Voice of Doubt
-
-Okay, so I've been diving deeper into the world of staking on Sui, and it’s fascinating, right? But a question popped up on Reddit the other day that really resonated with me. Someone was wondering about liquid staking – specifically with sSUI – and whether it *really* holds its value against the original SUI while it's staked. 
-
-It’s a valid concern! We’re in 2024, and crypto volatility is still a thing. The thought of locking up your SUI and then seeing the price dip significantly while it’s staked… well, it’s enough to give anyone pause. Platforms like Scallop are making things easier with liquid staking, but that little voice of doubt still whispers, doesn’t it? 
-
-I think it highlights a key point: understanding the mechanics and the potential risks is *essential,* even when new tools promise convenience. Anyone else feeling this same cautious curiosity? Let's chat about it!

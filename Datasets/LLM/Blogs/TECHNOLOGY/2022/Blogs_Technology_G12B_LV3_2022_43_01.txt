@@ -1,3 +1,0 @@
-## The Joy of Building Together: Go, Generics, and a Little Package Called Gutils
-
-It's 2022, and I’m still endlessly fascinated by the Go ecosystem. Recently, I stumbled upon something exciting: a new open-source Go package called goutils. What really caught my eye? It's built with Go's relatively new generics! It's tackling the everyday grind of slice and map wrangling – things we *all* do. More than just code, it’s a reminder of the power of community. Seeing folks collaborate and build tools together? That's what keeps me hooked on tech. Anyone interested in contributing? Check it out!

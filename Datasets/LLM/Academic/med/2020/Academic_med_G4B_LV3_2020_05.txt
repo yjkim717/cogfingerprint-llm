@@ -1,5 +1,0 @@
-Here’s an academic abstract based on the provided summary and keywords, suitable for a 2020 publication:
-
-**Abstract**
-
-Recent revisions to the 2020 National Comprehensive Cancer Network (NCCN) Guidelines for Rectal Cancer reflect a growing emphasis on personalized treatment approaches. The updated guidelines prioritize total neoadjuvant therapy regimens, acknowledging their enhanced efficacy in improving patient outcomes. Crucially, the document delineates specific patient populations benefiting from biomarker-targeted therapies, driven by advancements in genomic profiling.  Notably, the heightened focus centers on patients harboring the *BRAF* V600e mutation, a prevalent oncogenic driver in rectal adenocarcinoma.  Implementation of these targeted strategies, guided by NCCN recommendations, necessitates robust diagnostic workflows incorporating genetic testing.  Further research is warranted to fully elucidate the optimal sequencing and combination strategies for biomarker-targeted therapies within a neoadjuvant framework, ultimately optimizing treatment response and minimizing adverse effects in this challenging disease.

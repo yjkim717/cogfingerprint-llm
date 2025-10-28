@@ -1,5 +1,0 @@
-Year: 2024
-Author: forwardslashroot
-URL: https://www.reddit.com/r/networking/comments/1gc5x3j/are_these_normal_trunk_links_bounced_when_adding/
-
-I have C9300 switches. The links between switches are trunk links, so far no issues. However, whenever I add a VLAN to the trunk link, it seems like it brings down the trunk link and bring it back up. I have never experience this with older or non-9300 switches. Also, the template for the interface. I made a mistake about the name of the template and it has been bothering me. I created a new template with the correct name. The content is exactly the same as with the wrong name. The problem now is, I couldn't use the new name. The C9300 wouldn't take it. It is complaining about I cannot use portfast on a trunk link.

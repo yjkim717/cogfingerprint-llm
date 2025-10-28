@@ -1,5 +1,0 @@
->## The Unexpected Benefit of Automation
-
-It's funny how solutions sometimes reveal themselves in unexpected ways. We launched our Shopify store last year, and almost immediately, our inbox flooded with “Where’s my discount code?” emails. It was a surprisingly large chunk of our customer service time! 
-
-Then, a little digging led us to a clever automation: automatically applying a post-purchase discount for the next visit. The result? Not just fewer emails, but a noticeable uptick in repeat customers. It’s a reminder that technology isn’t always about flashy features; sometimes, the most impactful changes come from simply smoothing out the customer experience. Who knew a little automation could build loyalty?

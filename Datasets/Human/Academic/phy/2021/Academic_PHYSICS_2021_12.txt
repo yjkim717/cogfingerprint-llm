@@ -1,8 +1,0 @@
-Author: M. Manathunga
-Title: Harnessing the Power of Multi-GPU Acceleration into the Quantum Interaction Computational Kernel Program.
-Paper ID: 561d806490f78758eddda1bc06db078e593e0ea7
-Year: 2021
-Author Index: 12
-
-Abstract:
-We report a new multi-GPU capable ab initio Hartree-Fock/density functional theory implementation integrated into the open source QUantum Interaction Computational Kernel (QUICK) program. Details on the load balancing algorithms for electron repulsion integrals and exchange correlation quadrature across multiple GPUs are described. Benchmarking studies carried out on up to four GPU nodes, each containing four NVIDIA V100-SXM2 type GPUs demonstrate that our implementation is capable of achieving excellent load balancing and high parallel efficiency. For representative medium to large size protein/organic molecular systems, the observed parallel efficiencies remained above 82% for the Kohn-Sham matrix formation and above 90% for nuclear gradient calculations. The accelerations on NVIDIA A100, P100, and K80 platforms also have realized parallel efficiencies higher than 68% in all tested cases, paving the way for large-scale ab initio electronic structure calculations with QUICK.

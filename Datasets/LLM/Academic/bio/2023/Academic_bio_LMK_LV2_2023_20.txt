@@ -1,5 +1,0 @@
-Here is a formal academic-style abstract:
-
-Title: High-Resolution Bioclimatic Variables for European Forest Microclimates
-
-Abstract: This study presents novel, open-access bioclimatic variables at a 25 × 25 m² resolution, capturing microclimatic temperature variability within European forests. By enhancing the granularity of existing datasets, these variables facilitate advanced research into ecological processes governed by microclimatic conditions. The dataset provides a crucial tool for investigating the complex interactions between forest ecosystems and microclimate, thereby informing biodiversity conservation and forest management strategies in the face of climate change (2023).

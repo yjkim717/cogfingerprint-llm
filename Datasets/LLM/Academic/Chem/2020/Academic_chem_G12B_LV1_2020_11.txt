@@ -1,7 +1,0 @@
-## Abstract: Spatiotemporal Control of Structural Dynamics in Metal-Organic Frameworks: Towards Four-Dimensional Materials
-
-Metal-organic frameworks (MOFs), celebrated for their tunable porosity and vast structural diversity, are increasingly recognized as platforms for dynamic materials. While significant advances have been made in achieving static MOF architectures, the ability to precisely control structural transformations – exhibiting *structural dynamics* – over both time and space remains a formidable challenge. This work explores the nascent field of four-dimensional (4D) MOFs, materials possessing a structure that evolves with time. We critically examine existing strategies for inducing dynamic behavior, encompassing stimuli-responsive ligands, mechanically interlocked frameworks, and external energy inputs (e.g., light, heat, pressure). Current limitations in achieving predictable and spatially resolved spatiotemporal evolution of MOF structures are discussed, specifically focusing on issues related to reversibility, kinetic control, and scalability.  Future directions emphasize the development of hierarchical frameworks incorporating multiple dynamic elements and incorporating advanced characterization techniques capable of resolving structural changes at the nanoscale. The realization of truly 4D MOFs holds immense promise for applications in adaptive separation, controlled drug delivery, and responsive catalysis, marking a significant shift towards functional materials with unprecedented capabilities.
-
-
-
-**(Year: 2020)**

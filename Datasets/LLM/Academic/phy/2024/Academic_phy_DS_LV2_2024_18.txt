@@ -1,7 +1,0 @@
-Here is a formal academic abstract based on the provided summary:
-
-**Abstract**
-
-Dielectric metasurfaces have emerged as a transformative platform for controlling light at subwavelength scales, yet their performance in the ultraviolet (UV) and visible spectral regimes has been historically constrained by material limitations. Conventional high-refractive-index materials often exhibit significant optical losses at these shorter wavelengths. This work demonstrates that tantalum pentoxide (Ta₂O₅) serves as an exemplary material candidate to overcome this challenge. We present the design, fabrication, and characterization of Ta₂O₅-based metasurfaces that exploit its high refractive index and low intrinsic absorption across the UV-visible spectrum. Through rigorous electromagnetic simulations and experimental validation, we achieve meta-optical elements, including metalenses and beam deflectors, with experimental efficiencies reaching up to 80%. This performance is attributed to the efficient excitation and control of Mie-type resonances within the nanostructured Ta₂O₅ elements. Our findings establish Ta₂O₅ as a pivotal material for high-performance dielectric meta-optics, paving the way for advanced applications in miniaturized UV spectroscopy, high-resolution imaging, and compact photonic systems operating at these critical wavelengths.
-
-(Word Count: 159)

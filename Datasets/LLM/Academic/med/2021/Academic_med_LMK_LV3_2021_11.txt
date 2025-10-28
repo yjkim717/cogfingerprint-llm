@@ -1,6 +1,0 @@
-Here is a formal academic-style abstract inspired by the given summary and keywords:
-
-Title: Enhancing Adoptive T-Cell Therapy with CRISPR/Cas9 Gene Editing for Cancer Immunotherapy
-
-Abstract:
-The advent of CRISPR/Cas9 technology has transformed the landscape of cancer immunotherapy by enabling precise modifications to T-cells, thereby augmenting their therapeutic efficacy. By integrating CRISPR/Cas9 gene editing with adoptive T-cell therapy, researchers have successfully engineered T-cells with enhanced specificity and persistence, leading to improved clinical outcomes. The application of CRISPR/Cas9 to TCR/CAR T-cells has facilitated the disruption of genes that negatively regulate T-cell function, while also introducing beneficial mutations that promote anti-tumor activity. As a result, this innovative approach has shown significant promise in treating a range of hematological malignancies and solid tumors. This review will discuss the current state of CRISPR/Cas9-enhanced adoptive T-cell therapy, highlighting the key advances and challenges in this rapidly evolving field. (2021)

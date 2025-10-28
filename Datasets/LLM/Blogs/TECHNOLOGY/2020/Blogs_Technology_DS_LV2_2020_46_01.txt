@@ -1,3 +1,0 @@
-It was early 2020, and I remember staring at the network map, coffee long gone cold. Our APAC child domain felt like a distant island—connected, but with latency that made real-time monitoring a frustrating guessing game. I was the new SCOM admin, and the weight of this decision was heavy: do we build a whole new management group or try gateway servers?
-
-I thought back to simpler setups, but this was different. That digital distance wasn’t just about milliseconds; it was about context, about understanding local nuances. In the end, we chose gateways—not just for efficiency, but to bridge our teams, not just our networks. Sometimes in tech, the human connection behind the solution matters most. It’s not only about pings and packets, but about people.

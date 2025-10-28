@@ -1,3 +1,0 @@
-You know that moment when you’re juggling a dozen tasks, and the one thing you need is just out of reach? That was me, trying to get our Azure file share mapped seamlessly for my team back in 2021. I’d envisioned a smooth setup—no manual logins, just a clean GPO push with user credentials, respecting NTFS permissions like a well-oiled machine.
-
-But reality had other plans. Hours slipped by, wrestling with configurations, feeling the weight of every click. It’s funny how tech promises simplicity, yet demands such patience. In the end, it wasn’t just about mapping drives; it was about bridging gaps, making life easier for everyone. And that quiet victory? Worth every frustrating minute.

@@ -1,5 +1,0 @@
-Remember those early 2020 days, when we were all suddenly glued to our screens, trying to build things that actually worked? I was drowning in a sea of JavaScript files, each webpage a messy duplicate of the last. It felt chaotic.
-
-Then, I discovered the simple power of `import`. By pulling shared functions into dedicated modules, everything changed. My code became a collection of building blocks, not a tangled mess. It was like finally organizing a cluttered toolbox. Each page-specific file became cleaner, focused only on its unique role.
-
-This small shift in code organization didn't just streamline my web development; it brought a much-needed sense of calm and control to a digital world that felt anything but.

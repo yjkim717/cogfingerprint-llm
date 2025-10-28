@@ -1,5 +1,0 @@
-Okay, here's a blog post draft based on your prompt, aiming for a conversational, reflective, and relatable tone, set in 2023:
-
-## Letting Go of a Good One
-
-There's a bittersweet feeling selling tech, isn't there? My MSI MEG Ace X570 is moving on – it was a *fantastic* board, especially getting GPU passthrough working smoothly on Linux. It felt like unlocking a whole new level of desktop potential. Hope it finds a good home! Anyone else feel a little pang when parting with a reliable piece of kit? #tech #linux #x570

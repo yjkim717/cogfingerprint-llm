@@ -1,9 +1,0 @@
-Sometimes, the ideas that slip through our fingers are the ones that haunt us the most.
-
-Back in early 2023, while tinkering with threshold signature schemes, I sketched out a cryptographic protocol that felt elegant—a way to strengthen commitment shares in a setup like FROST. It was one of those late-night "aha!" moments, complete with improved validation checks that seemed so obvious in hindsight. I remember thinking, *This could actually make a difference.*
-
-But life got busy. I set the notes aside, promising to return later.
-
-Months passed. Then FROST gained traction, and I saw my idea mirrored in emerging discussions. That stung—a quiet reminder that hesitation has its cost.
-
-It’s a lesson in trusting your intuition, especially in tech. Next time, I’ll dare to share sooner. After all, progress loves courage.

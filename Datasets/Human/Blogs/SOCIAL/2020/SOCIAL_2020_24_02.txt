@@ -1,5 +1,0 @@
-Year: 2020
-Author: BrennanBetelgeuse
-URL: https://www.reddit.com/r/CrazyIdeas/comments/hl2pmb/create_a_wisdom_of_the_crowd_subreddit_with_a_bot/
-
-Research shows, that certain problems (like guessing the number of marbles in a jar) can be solved pretty accurately when asking a lot of people for their individual guess and averaging out the answers. A subreddit dedicated to this could draw from a large sample size and would most likely yield intersting results. There could be flares for different types of problems that this applies to (traveling salesman problems, ordering problems, number guessing, etc.) In a next step there could be a rule that the OP has to submit the correct answer as soon as it is revealed. Then one could run a machine learning algorithm over the subreddit and use it to improve the results even more. If everything works, at some point it should be possible to predict for example stock market movements ahead of time with a certain accuracy.

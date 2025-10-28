@@ -1,5 +1,0 @@
-Year: 2024
-Author: Nuoji
-URL: https://www.reddit.com/r/ProgrammingLanguages/comments/1asaj7p/c3_054_released/
-
-I'm easing into a monthly release schedule for C3 0.5.x, with 0.5.4 being released announcement. As the language is easing towards completion, the changes to the language are much fewer and mostly addresses minor inconveniences and improves existing features somewhat. Another interesting thing is how important new users are to notice bugs: because every new user brings their own set of tasks they work on, each end up implicitly testing different parts of the language. Bugs are not always "the bug has a problem", but can also mean there is some important functionality missing, or the semantics are unexpected. All in all, I very much appreciate the influx of new users.

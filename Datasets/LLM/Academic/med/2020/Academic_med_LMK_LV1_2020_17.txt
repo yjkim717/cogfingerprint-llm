@@ -1,4 +1,0 @@
-Title: Refining Alzheimer's Disease Diagnosis: Amyloid-β CSF Cutoffs and Clinical Progression
-
-Abstract:
-This study evaluates the predictive value of a three-range method for defining amyloid-β cerebrospinal fluid (CSF) cutoffs in Alzheimer's disease (AD) diagnosis. By categorizing CSF amyloid-β levels into low, intermediate, and high ranges, we assessed the risk of clinical progression in 200 patients. Results indicate that individuals within the intermediate range exhibited a significantly increased risk of progression to AD, validating the biological construct of this categorization. The proposed CSF cutoffs demonstrate enhanced diagnostic accuracy, underscoring their utility in refining AD diagnosis and informing clinical decision-making.

@@ -1,8 +1,0 @@
-Author: A. Venook
-Title: NCCN Guidelines Insights: Rectal Cancer, Version 6.2020.
-Paper ID: 7716033a2a8939c564894fffdaa593f6ccc10078
-Year: 2020
-Author Index: 5
-
-Abstract:
-The NCCN Guidelines for Rectal Cancer provide recommendations for the diagnosis, evaluation, treatment, and follow-up of patients with rectal cancer. These NCCN Guidelines Insights summarize the panel discussion behind recent important updates to the guidelines. These updates include clarifying the definition of rectum and differentiating the rectum from the sigmoid colon; the total neoadjuvant therapy approach for localized rectal cancer; and biomarker-targeted therapy for metastatic colorectal cancer, with a focus on new treatment options for patients with BRAF V600E- or HER2 amplification-positive disease.

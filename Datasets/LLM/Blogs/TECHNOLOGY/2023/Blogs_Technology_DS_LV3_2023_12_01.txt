@@ -1,1 +1,0 @@
-I still remember wrestling with that tangled Ecto changeset back in early 2023. It was a beast. But breaking it into smaller, modular components felt like tidying a cluttered room. Suddenly, validations were clearer, and the code became something future me could actually maintain. It’s funny how a little structure brings such peace of mind.

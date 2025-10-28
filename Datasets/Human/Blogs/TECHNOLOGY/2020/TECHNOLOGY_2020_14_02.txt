@@ -1,5 +1,0 @@
-Year: 2020
-Author: FrankieB86
-URL: https://www.reddit.com/r/pcmasterrace/comments/k0ys4x/ryzen_9_5900xmsi_mpg_x570_any_change_to_voltage/
-
-I have a MSI MPG x570 and Ryzen 9 5900x So I'm looking to try and tame the beast without sacrificing performance and am hitting a road block. Any change, and I do mean ANY change, in voltage prevents the CPU from boosting above 3.7GHz regardless of workload. I have tried adjusting the load line, offset, and even override with no avail. It fails to boost even when setting the CPU voltage control to AMD Overclocking. I'm beginning to wonder if this is due to my board using a beta BIOS for Ryzen 5000 compatibility, or if I'm missing something that's completely obtuse? Fortunately I can set Precision Boost to ECO as an alternative, since I don't do too many multithreaded tasks and it doesn't affect single core boost. But I'd definitely like to know what's going on and maybe lower my CPU temps (71c on a Noctua NH-D15 with 100% fan speed) while gaming as well.

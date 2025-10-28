@@ -1,9 +1,0 @@
-Of course. Here is a formal academic abstract based on the provided summary, contextualized for 2021.
-
-***
-
-**Abstract**
-
-Forest microclimates beneath the canopy are critical thermal refugia for many species, buffering them against macroclimatic extremes. However, the spatial variability of this buffering effect remains poorly quantified at continental scales, creating a key uncertainty in species distribution models under climate change. Here, we address this gap by developing and validating a high-resolution machine learning model to map sub-canopy temperature offsets across Europe’s forest ecosystems. Our model integrates continent-wide remote sensing data, topographical variables, and forest structure attributes to predict the differences between understory and open-air temperatures. We reveal substantial and spatially structured microclimatic offsets, demonstrating that forest interiors can be consistently cooler than the surrounding macroclimate during warm periods. The magnitude of this cooling effect is highly dependent on forest composition, canopy density, and topographic context. These fine-scale thermal gradients are not captured by standard macroclimate datasets, which are typically used to project future species distributions. Consequently, our findings suggest that the potential persistence of temperature-sensitive understory species may be significantly underestimated in conventional bioclimatic models. This research provides a critical methodological advancement and a foundational dataset for integrating microclimatic complexity into biodiversity conservation strategies, highlighting the urgent need to account for non-stationary buffering capacities in forest management and climate adaptation planning.
-
-**(Word Count: 199)**

@@ -1,5 +1,0 @@
-"The Gray Area of Workshop Papers: Are They Truly 'Publications'?"
-
-As I navigated the world of machine learning conferences in 2022, I found myself pondering a question that's been on the minds of many researchers: what's the status of workshop papers at top conferences like NeurIPS and ICML? Are they considered final publications or just a stepping stone? The lines are often blurred, and the answer isn't straightforward.
-
-Workshop papers are often seen as a way to test the waters, get feedback, and refine ideas before submitting to a full conference. But does that mean they're not 'real' publications? I've seen researchers count them towards their publication tally, while others dismiss them as mere abstracts. The truth is, the publishing norms are still evolving, and it's unclear what the future holds. As we move forward, it's essential to establish a clear understanding of what constitutes a 'publication' in the machine learning community.

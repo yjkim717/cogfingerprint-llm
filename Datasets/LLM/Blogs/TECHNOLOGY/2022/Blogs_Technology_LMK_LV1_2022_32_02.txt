@@ -1,5 +1,0 @@
-"Locked Out: The Perils of Dual Control in Active Directory"
-
-I'll never forget the frantic call from a small business client in 2022. Their two Active Directory administrators had somehow managed to lock themselves out of their own domain controller, bringing their operations to a grinding halt. The kicker? They had implemented a dual control policy for administrative privileges, which, while secure, made it impossible for anyone to regain access without both admins present.
-
-As I worked with them to find a solution, I realized that this was a classic case of "security vs. accessibility." While dual control is essential for protecting sensitive systems, it's equally crucial to have an emergency access plan in place. In this case, we had to get creative to restore access without compromising security. The experience was a valuable lesson in striking the right balance between security and usability. Has your organization considered its emergency access strategy?

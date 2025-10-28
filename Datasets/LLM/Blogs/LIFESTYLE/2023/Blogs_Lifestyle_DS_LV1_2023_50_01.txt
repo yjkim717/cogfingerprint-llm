@@ -1,5 +1,0 @@
-It’s funny how a single conversation can make you rethink everything. Last week, over coffee with a friend, I mentioned I was considering a career switch into programming. I’ve been in sales since I was 20, and at 24, the thrill has faded into routine. But his response caught me off guard: “Aren’t you worried about AI taking those jobs?”
-
-Suddenly, my excitement was shadowed by doubt. Headlines in 2023 scream about automation, and I wondered—am I chasing a future that might not need me? I’ve spent evenings researching, torn between diving into something like React, which everyone says is practical now, or starting with lower-level languages to build a deeper foundation. It feels like choosing between a fast track and a scenic route, unsure which path leads to stability.
-
-But then it hit me: maybe the goal isn’t to outsmart AI, but to adapt alongside it. Change is constant, and perhaps the real risk isn’t in trying something new, but in staying still while the world moves forward. Here’s to embracing the unknown, one line of code at a time.

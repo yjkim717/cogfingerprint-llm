@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a chemistry publication in 2021:
-
-**Abstract:**
-
-Metal–organic frameworks (MOFs) are increasingly recognized for their structural diversity and potential in gas adsorption applications. This study details the synthesis and characterization of a novel fluorescently modified MOF, designated DUT-140(M), engineered to exhibit negative gas adsorption coupled with pressure amplification. Utilizing a strategically incorporated fluorescent ligand, we observed a pronounced shift in the material’s spectroscopic properties under applied pressure, indicative of enhanced guest molecule exclusion. Computational modeling corroborated these findings, suggesting a mechanism involving conformational changes within the MOF lattice induced by guest interactions.  The resultant negative adsorption capacity, combined with the pressure amplification effect, presents a unique platform for selective gas separation and sensing.  Further investigations are warranted to explore the scalability and broader applicability of this approach within the field of advanced materials chemistry.

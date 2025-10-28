@@ -1,7 +1,0 @@
-raunchy
-
-Okay, here's a blog post draft inspired by the summary and keywords, aiming for a reflective, conversational tone and a 2021 context:
-
-## The Ghosts of Old Tech (and a Stubborn Macbook)
-
-Remember when macOS updates felt… simpler? I’m wrestling with an old Macbook still running Yosemite (10.10.5). Trying to nudge it to 10.11 El Capitan via the App Store is proving a headache. It’s a reminder that even our beloved tech eventually hits a wall, doesn’t it? A little digital archaeology project, really. Anyone else have a relic they're stubbornly clinging to?

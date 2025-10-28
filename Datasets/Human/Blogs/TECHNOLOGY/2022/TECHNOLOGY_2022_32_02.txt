@@ -1,5 +1,0 @@
-Year: 2022
-Author: tonyboy101
-URL: https://www.reddit.com/r/activedirectory/comments/uz2bfg/active_directory_dual_control/
-
-Scenario - small business with 2 AD administrators. Both managed to get locked out of their account with Administrative privilege. There the policy is to not unlock users after a set amount of time. What do you do? My business almost had this happen. Luckily we have 3 people with Admin privileges. I was wondering if there was a way to get an emergency user with dual control tied into either Active Directory, Azure, or software on a domain controller? Not 2-factor authentication. I thought about it, and the ghetto way to do this is set up n! (n factorial) emergency access accounts with one-half of each password known by one admin and the second-half known by the other admin. I don't like this because one admin knows one-half of the password at all times. Plus one admin could reset the password on one of the users. If you have suggestions, put them out there.

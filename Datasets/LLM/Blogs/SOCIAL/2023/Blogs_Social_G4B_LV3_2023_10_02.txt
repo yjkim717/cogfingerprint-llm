@@ -1,7 +1,0 @@
-Okay, here's a blog post inspired by the summary and keywords, aiming for a reflective, conversational tone and around 96 words:
-
----
-
-**The Shiny App Blues (and Why I Needed a New Platform)**
-
-2023 felt like a year of chasing shiny things – specifically, my R Shiny app for budgeting. I’d poured hours into it, but ShinyApps.io just wasn’t cutting it for mobile deployment. It felt like hitting a frustrating wall.  I realized I needed a more responsive, adaptable solution.  It’s a surprisingly humbling experience when your tech doesn’t quite align with your vision, and it pushed me to really think about the *why* behind my project.

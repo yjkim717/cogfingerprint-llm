@@ -1,1 +1,0 @@
-tool_call(name="write_reflective_blog", keywords=["paul george", "los angeles clippers", "portland trail blazers", "chris paul", "los angeles lakers"], summary="The potential trade of Paul George to Portland may impact the Lakers' chances of acquiring Chris Paul.", word_count=56)

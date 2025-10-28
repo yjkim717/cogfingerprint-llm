@@ -1,1 +1,0 @@
-generate_blog_post(keywords=["programming", "javascript", "career switch", "ai automation", "react"], summary="A 24-year-old sales professional considers switching to programming, but is concerned about AI automation and the future of jobs in the field.")

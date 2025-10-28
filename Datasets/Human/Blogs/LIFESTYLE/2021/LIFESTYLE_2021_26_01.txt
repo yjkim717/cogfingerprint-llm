@@ -1,5 +1,0 @@
-Year: 2021
-Author: Bayweather4129
-URL: https://www.reddit.com/r/explainlikeimfive/comments/mlovhv/eli5_tires_spinning_out_at_the_start_of_a_race/
-
-in a racing scene of a movie, as soon as the car starts there is a trail of smoke, that is caused by the wheels spinning out on the ground. In other words the forces on the wheels propelling the car forward overcomes the static friction on the ground, burning the rubber. However as the car gets faster there is less smoke even though the car is accelerating? Why does car overcome static friction at the start of the race but not a few seconds in? What changed about the forces acting on the car? Any input would be appreciated, thanks.

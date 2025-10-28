@@ -1,9 +1,0 @@
-## Ditching the Lab, Embracing Simplicity (and a Decent Router)
-
-It’s funny how your tech obsessions shift. For years, my home was a sprawling network experiment – VLANs, custom firewall rules, a dedicated server humming away… the whole nine yards. A proper prosumer router was the heart of it all, a badge of honor for a tech enthusiast.
-
-But things change. My kid's off to college, and suddenly, I'm trying to figure out a setup for a student apartment. The thought of hauling my usual arsenal of gear – the complex configuration, the constant tinkering – felt… absurd. Why would I inflict that on a shared living space? And honestly, why would *I* need it?
-
-The biggest realization? My ISP’s hardware is genuinely terrible. It’s slow, insecure, and feels like a deliberate roadblock. But a top-of-the-line router? Overkill. So, the hunt began for something reliable, affordable, and easy to manage. Something that just *works*, without requiring a degree in network engineering.
-
-It’s a humbling experience, scaling back. Less about pushing boundaries, more about providing consistent connectivity. It's a reminder that sometimes, the best tech is the tech you barely notice. Now, if you'll excuse me, I have a router to configure… and a student to teach the basics of Wi-Fi security.

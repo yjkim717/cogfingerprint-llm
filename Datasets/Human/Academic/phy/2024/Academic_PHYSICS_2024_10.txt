@@ -1,8 +1,0 @@
-Author: Soonho Kwon
-Title: Facet-Dependent Oxygen Evolution Reaction Activity of IrO2 from Quantum Mechanics and Experiments.
-Paper ID: 272b04453b7a3ebec5919ceeeec8be11aa005f11
-Year: 2024
-Author Index: 10
-
-Abstract:
-The diversity of chemical environments present on unique crystallographic facets can drive dramatic differences in catalytic activity and the reaction mechanism. By coupling experimental investigations of five different IrO2 facets and theory, we characterize the detailed elemental steps of the surface redox processes and the rate-limiting processes for the oxygen evolution reaction (OER). The predicted complex evolution of surface adsorbates and the associated charge transfer as a function of applied potential matches well with the distinct redox features observed experimentally for the five facets. Our microkinetic model from grand canonical quantum mechanics (GC-QM) calculations demonstrates mechanistic differences between nucleophilic attack and O-O coupling across facets, providing the rates as a function of applied potential. These GC-QM calculations explain the higher OER activity observed on the (100), (001), and (110) facets and the lower activity observed for the (101) and (111) facets. This combined study with theory and experiment brings new insights into the structural features that either promote or hinder the OER activity of IrO2, which are expected to provide parallels in structural effects on other oxide surfaces.

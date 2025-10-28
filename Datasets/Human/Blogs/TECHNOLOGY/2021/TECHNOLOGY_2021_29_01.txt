@@ -1,5 +1,0 @@
-Year: 2021
-Author: Nuoji
-URL: https://www.reddit.com/r/ProgrammingLanguages/comments/m9so16/defining_function_and_type_aliases_any_good/
-
-In my language, C3, I currently only have `typedef` to create type aliases. C3 is very close to C but does not have a preprocessor. I would like to be able to match the aliasing that can be implemented using `#define` in C, but I would like to move beyond simple symbol aliasing. Currently I am considering introducing a keyword `define` which would perhaps work like this: define Foo aliasof int; // type alias define newVar aliasof oldVar; // global define newFunc alias of oldFunc; // function define func void testOne(int x) aliasof test(1, x); // macro replacement define ArrInt aliasof Arr(Int); // type alias of generic type What are languages that does this the best and with the most clarity?

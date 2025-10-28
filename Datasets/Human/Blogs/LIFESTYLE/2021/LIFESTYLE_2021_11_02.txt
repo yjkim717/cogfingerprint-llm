@@ -1,5 +1,0 @@
-Year: 2021
-Author: forwardslashroot
-URL: https://www.reddit.com/r/AWSCertifications/comments/px2kzf/aws_journey_and_need_advise/
-
-I am a network engineer by trade and currently hold Cisco CCNP R&S/Enterprise and Juniper JNCIP-ENT. Trying to CCNP Service Provider or CCNA DevNet soon and WGU in January 2022. I am working onsite 100% and not liking it due to COVID. It seems like the majority of cloud engineers are working from home despite of COVID or pre-COVID. I want to work from home since I feel more productive and I can accomplish more task both work and personal stuff. I just passed my Cloud Practitioner the other day and want to continue with AWS. My goal is to get the Network Specialist, but it seems like I have to take the SAA-C02 since it is a recommended before taking the Network Specialist. I have a subscription with ACloudGuru and I used AGC to pass the Cloud Practitioner. I was wondering if ACG is enough material for SAA-C02? What is the day-to-day of a Solution Architect or Network Specialist? Is Network Specialist worth the effort?

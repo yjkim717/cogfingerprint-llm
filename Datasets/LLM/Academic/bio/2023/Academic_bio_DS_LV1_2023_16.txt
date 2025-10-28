@@ -1,9 +1,0 @@
-Of course. Here is an original, formal academic abstract inspired by the provided summary.
-
-***
-
-**Title:** Functional Validation of Lignin-Modifying Peroxidases in *Pleurotus ostreatus* Using CRISPR/Cas9-Mediated Gene Editing
-
-**Abstract:**
-
-The white-rot fungus *Pleurotus ostreatus* is a potent degrader of lignocellulosic biomass, a capability largely attributed to its secreted lignin-modifying enzymes (LMEs). While manganese peroxidases (MnPs) and versatile peroxidases (VPs) are hypothesized to be central to this process, direct genetic evidence for their indispensable roles *in vivo* has been limited. In this study, we employed a targeted CRISPR/Cas9 system to generate knockout mutants of *P. ostreatus* with disruptions in key genes encoding MnPs and VPs. Phenotypic and biochemical analyses revealed that these mutants exhibited a significant impairment in their ability to degrade native lignin in a natural wood substrate, as quantified by gravimetric analysis and spectroscopic techniques. The deletion of VP genes, in particular, resulted in a more pronounced defect compared to MnP-specific knockouts, suggesting a pivotal, non-redundant function for VPs in the oxidative cleavage of lignin's recalcitrant bonds. Our findings provide definitive functional validation that these peroxidases are not merely accessory but are essential components of the ligninolysis machinery in *P. ostreatus*. This work, conducted in 2023, establishes a robust genetic toolkit for fungal metabolic engineering and underscores the potential of manipulating specific LMEs to enhance biotechnological applications in biomass conversion and bioremediation.

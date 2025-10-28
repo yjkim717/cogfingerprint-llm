@@ -1,5 +1,0 @@
-"Revisiting OGame: A Quest for Modular Gameplay"
-
-As I browsed through browser-based games in 2020, I found myself nostalgic for OGame, a classic strategy game that hooked me with its addictive gameplay. One feature that stood out was its simplistic unit composition system. I began to wonder, what if units were more modular? Imagine being able to attach different components to create unique fighting machines.
-
-This got me thinking about the potential implementation of such a system. A node composer, a concept familiar in game development, could be the key. By representing units as nodes and components as attachable modules, the possibilities become endless. I'd love to see a game that takes this idea to the next level. The possibilities for strategy and creativity are vast, and I'm excited to see if any game developers will take on this challenge. It could be the future of browser-based gaming.

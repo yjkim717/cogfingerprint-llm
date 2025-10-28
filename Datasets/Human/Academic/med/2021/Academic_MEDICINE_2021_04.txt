@@ -1,8 +1,0 @@
-Author: W. Gradishar
-Title: NCCN Guidelines® Insights: Breast Cancer, Version 4.2021.
-Paper ID: 7827b0faf86a1f60a083d6c10d9773eb923c9dbd
-Year: 2021
-Author Index: 4
-
-Abstract:
-The NCCN Guidelines for Breast Cancer include up-to-date guidelines for clinical management of patients with carcinoma in situ, invasive breast cancer, Paget disease, phyllodes tumor, inflammatory breast cancer, male breast cancer, and breast cancer during pregnancy. These guidelines are developed by a multidisciplinary panel of representatives from NCCN Member Institutions with breast cancer-focused expertise in the fields of medical oncology, surgical oncology, radiation oncology, pathology, reconstructive surgery, and patient advocacy. These NCCN Guidelines Insights focus on the most recent updates to recommendations for adjuvant systemic therapy in patients with nonmetastatic, early-stage, hormone receptor-positive, HER2-negative breast cancer.

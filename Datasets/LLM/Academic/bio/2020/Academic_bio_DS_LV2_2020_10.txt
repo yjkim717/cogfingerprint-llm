@@ -1,7 +1,0 @@
-Of course. Here is a formal academic abstract in the field of bioinformatics/proteomics, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The comprehensive identification of post-translational modifications (PTMs) remains a central challenge in mass spectrometry-based proteomics. Traditional database search strategies, constrained by narrow mass tolerances, are inherently limited in their capacity to detect unanticipated or novel modifications. To address this, we developed a localization-aware open search algorithm, implemented within the MSFragger framework. This method conducts an initial unrestricted search for large mass shifts, enabling the discovery of both known and unknown modifications. A subsequent, rigorous re-analysis step then precisely localizes the modification sites using high-resolution fragment ion data. Benchmarking against established workflows demonstrates that our approach significantly enhances the sensitivity and accuracy of modified peptide identification, yielding a greater than 30% increase in unique PTM spectrum matches in complex lysates. By overcoming the primary limitations of narrow-window searches, this strategy provides a more holistic view of the proteome, paving the way for discoveries in cellular signaling and disease mechanisms that were previously obscured.

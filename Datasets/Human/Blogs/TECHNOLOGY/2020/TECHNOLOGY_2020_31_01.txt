@@ -1,5 +1,0 @@
-Year: 2020
-Author: FIREATWlLL
-URL: https://www.reddit.com/r/web_design/comments/fgt6n7/how_are_graphics_such_as_the_ones_on_some_404/
-
-I would like to make a graphic that isn't copy-able or select-able like images are and I know websites do it a lot on 404 page not found pages. One example is postman.com, with an image below. Thanks for any help :) &#x200B;

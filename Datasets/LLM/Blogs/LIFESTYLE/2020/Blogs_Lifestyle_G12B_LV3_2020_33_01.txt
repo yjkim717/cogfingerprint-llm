@@ -1,5 +1,0 @@
-## The Little Panic When You Hit "Upload"
-
-Remember that feeling in 2020, launching something new into the world? I definitely do. I was finally ready to upload my little PHP website – a passion project I’d been tinkering with – to my hosting provider. But a wave of panic hit. Would it *work*? All those hours wrestling with XAMPP on my laptop… would it translate to the live server? 
-
-It’s a surprisingly relatable fear, I think. We build these little worlds in our local environments, and then we’re sending them out, hoping they function as intended. It’s a tiny echo of launching *anything* new, isn't it?

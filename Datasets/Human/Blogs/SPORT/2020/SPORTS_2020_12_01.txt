@@ -1,5 +1,0 @@
-Year: 2020
-Author: watermelon82
-URL: https://www.reddit.com/r/ableton/comments/g2p94t/how_to_setup_meeblip_geode_in_ableton/
-
-Hi everyone, just bought the Meeblip Geode (my first ever hardware synth!) and am having trouble setting it up with Ableton. Their instruction manual is pretty useless on how to integrate with a DAW, so wondering if anyone here has set this synth up with Ableton and can provide guidance? &#x200B; Link to product:

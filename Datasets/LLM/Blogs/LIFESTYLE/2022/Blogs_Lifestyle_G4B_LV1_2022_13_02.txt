@@ -1,7 +1,0 @@
-Okay, here’s a reflective blog post inspired by the provided summary and aiming for a conversational tone with a ~107 word count, set in 2022:
-
----
-
-**Hunting for Windows Vibes**
-
-2022 felt like a year of wrestling with tech, didn’t it? I was diving deep into Rust, specifically trying to wrap my head around creating GUIs – mostly for MacOS using AppKit, but also poking at Qt and even considering GTK4. The biggest frustration? Windows.  Specifically, getting a consistent look and feel with Windows 11 was proving a surprisingly persistent challenge. It’s funny, isn’t it?  Spending so much time building digital interfaces, yet struggling with the simplest visual details.  It reminded me that sometimes, the biggest hurdles aren’t about code, but about finding that cohesive aesthetic – a feeling I realized I was craving in my own life too.

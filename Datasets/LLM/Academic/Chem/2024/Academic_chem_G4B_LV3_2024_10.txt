@@ -1,5 +1,0 @@
-Here’s an academic abstract inspired by the provided summary and keywords, suitable for a 2024 publication:
-
-**Abstract:**
-
-Recent astrochemical modeling efforts necessitate a refined understanding of carbon-nitrogen chemistry within interstellar ices. This study employs quantum chemical calculations to elucidate the reaction pathways between carbon atoms and ammonia ices, a prevalent constituent of molecular clouds. Our investigation reveals that methylamine (CH₃NH₂) emerges as the thermodynamically favored product, exhibiting significantly enhanced stability against hydrogen abstraction compared to alternative nitrogen-containing species. This preferential formation of methylamine represents a critical advancement in predicting the chemical composition of interstellar ices.  Furthermore, the observed reaction kinetics provide a robust foundation for improved astrochemical models, offering increased accuracy in simulating the formation and evolution of complex organic molecules within star-forming regions.  Future work will explore the influence of ice grain properties on this accretion process.

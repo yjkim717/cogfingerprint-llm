@@ -1,3 +1,0 @@
-You know that moment when you’re coding along, feeling like a wizard, and then—bam—the compiler slaps you with a cold dose of reality? Yeah, me too. Just last week, I was tinkering with Kotlin, crafting this elegant infix function with generic parameters, convinced I’d built a masterpiece of type safety.
-
-But Kotlin’s compiler stayed silent, letting a subtle type mismatch slip right through. It got me thinking: sometimes, the tools we trust most remind us that we’re only human. In a world racing toward AI and automation, moments like these humble us, grounding innovation in the messy, beautiful reality of human error. Maybe that’s where the real learning happens—not in perfection, but in the pause and reflection after a stumble.

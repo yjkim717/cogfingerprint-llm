@@ -1,7 +1,0 @@
-Of course. Here is an original academic abstract inspired by the provided summary, contextualized for the year 2020.
-
-***
-
-**Abstract**
-
-The persistent tension between quantum mechanics and general relativity is starkly evident in the process of black hole evaporation. While semi-classical approximations predict a Hawking radiation spectrum leading to information loss, a complete quantum gravitational resolution remains elusive. This paper re-examines the endpoint of evaporation by integrating principles from loop quantum gravity (LQG) with effective semi-classical models. We propose that the evaporation process does not culminate in a singular remnant but rather in a topological transition of the space-time boundary. The event horizon, dynamically defined, is shown to dissolve as the black hole's mass approaches the Planck scale, replaced by a transient, high-curvature region governed by LQG's quantum geometry. This model naturally avoids a naked singularity and suggests a unitary evolution for the quantum states, thereby offering a potential pathway to resolve the information paradox by fundamentally reinterpreting the nature of the final state.

@@ -1,4 +1,0 @@
-Title: Revisiting Black Hole Evaporation through Loop Quantum Gravity: A Semi-Classical Perspective
-
-Abstract:
-This study reexamines black hole evaporation within the framework of loop quantum gravity, integrating simplified models and semi-classical quantum general relativity. Challenging prevailing views on singularity persistence and event horizons, our analysis reveals a nuanced understanding of space-time singularities. By applying loop quantum gravity, we demonstrate the evaporation process's impact on black hole structure, suggesting a revised paradigm for understanding these cosmic phenomena. Our findings contribute to the ongoing discourse in quantum gravity research, advancing our comprehension of black hole dynamics in 2020's theoretical physics landscape.
