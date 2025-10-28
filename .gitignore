@@ -1,5 +1,6 @@
 # Ignore datasets and generated outputs
 Datasets/
+cleaned_datasets/
 characteristic Analysis/
 *.csv
 *.txt
