@@ -94,6 +94,17 @@ def process_news_files(levels=[1, 2, 3]):
     llm_dir = os.path.join(CLEANED_LLM_DIR, "News")
     os.makedirs(llm_dir, exist_ok=True)
     
+    # Check existing files for progress tracking
+    existing_files = set()
+    if os.path.isdir(llm_dir):
+        for f in os.listdir(llm_dir):
+            existing_files.add(f)
+    
+    print(f"📂 Output directory: {llm_dir}")
+    if existing_files:
+        print(f"✅ Found {len(existing_files)} existing files (will be skipped)")
+    print()
+    
     processed = 0
     skipped = 0
     failed = 0
@@ -119,11 +130,13 @@ def process_news_files(levels=[1, 2, 3]):
                 # Skip if already exists
                 if os.path.exists(llm_fp):
                     level_skipped += 1
-                    if idx % 50 == 0:  # Show progress every 50 files
-                        print(f"  [{idx}/{total_files}] Skipped (already exists)")
+                    if idx % 100 == 0:  # Show progress every 100 files
+                        progress = (idx / total_files) * 100
+                        print(f"  [{idx}/{total_files}] ({progress:.1f}%) Skipped (already exists)")
                     continue
                 
-                print(f"  [{idx}/{total_files}] Processing: {os.path.basename(human_fp)}")
+                progress = (idx / total_files) * 100
+                print(f"  [{idx}/{total_files}] ({progress:.1f}%) Processing: {os.path.basename(human_fp)}")
                 
                 # Step 1: Extract
                 extracted = extract_keywords_summary_count(
