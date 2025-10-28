@@ -46,10 +46,22 @@ def parse_metadata_from_path(human_path: str) -> Dict[str, str]:
     parts = os.path.normpath(human_path).split(os.sep)
 
     try:
-        idx = parts.index("Human")
+        # Support both "Human" and "cleaned_human" directories
+        if "Human" in parts:
+            idx = parts.index("Human")
+        elif "cleaned_human" in parts:
+            idx = parts.index("cleaned_human")
+        else:
+            raise ValueError(f"No Human/cleaned_human directory found in path: {human_path}")
+            
         genre = parts[idx + 1]           # e.g. Academic / Blogs / News
-        subfield = parts[idx + 2]        # e.g. bio / Lifestyle / 3_years
+        subfield = parts[idx + 2] if idx + 2 < len(parts) else None  # e.g. bio / Lifestyle / 3_years / filtered_years
         filename = parts[-1]             # Always the filename
+        
+        # For News in filtered_years directory, subfield might be filtered_years
+        if subfield == "filtered_years":
+            # Parse year from filename or use a default
+            subfield = "filtered_years"
     except (ValueError, IndexError):
         raise ValueError(f"Unexpected path structure: {human_path}")
 
