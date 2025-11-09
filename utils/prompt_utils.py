@@ -9,6 +9,7 @@ Supports 3 extraction and generation strategies:
   Level 3 → Genre-based Persona + Example (adds few-shot examples)
 """
 
+
 # -------------------------------------------------------------------------
 # PERSONA TEMPLATES
 # -------------------------------------------------------------------------
@@ -26,11 +27,11 @@ def get_persona_by_genre(genre: str) -> str:
         "News": (
             "You are a professional journalist trained to write concise, neutral, "
             "and factual articles that adhere to high editorial standards."
-        )
+        ),
     }
     return personas.get(
         genre,
-        "You are a clear and insightful writer who communicates ideas effectively."
+        "You are a clear and insightful writer who communicates ideas effectively.",
     )
 
 
@@ -43,48 +44,49 @@ def get_examples_by_genre(genre: str) -> str:
         "Academic": [
             (
                 "AI ethics focuses on fairness and transparency.",
-                "AI ethics emphasizes fairness, accountability, and transparency as core principles in responsible innovation."
+                "AI ethics emphasizes fairness, accountability, and transparency as core principles in responsible innovation.",
             ),
             (
                 "Renewable energy reduces carbon emissions.",
-                "The global transition to renewable energy has significantly reduced carbon emissions, reshaping industrial policies worldwide."
-            )
+                "The global transition to renewable energy has significantly reduced carbon emissions, reshaping industrial policies worldwide.",
+            ),
         ],
         "Blogs": [
             (
                 "Morning routines improve focus.",
-                "Starting the day with a structured morning routine helps boost clarity, motivation, and productivity."
+                "Starting the day with a structured morning routine helps boost clarity, motivation, and productivity.",
             ),
             (
                 "Traveling broadens perspectives.",
-                "Exploring new places expands one’s understanding of cultures and encourages personal growth through new experiences."
-            )
+                "Exploring new places expands one’s understanding of cultures and encourages personal growth through new experiences.",
+            ),
         ],
         "News": [
             (
                 "Global leaders discuss emission reduction strategies.",
-                "World leaders convened to negotiate new frameworks aimed at reducing global emissions and advancing renewable energy policy."
+                "World leaders convened to negotiate new frameworks aimed at reducing global emissions and advancing renewable energy policy.",
             ),
             (
                 "Stock markets show mixed trends amid inflation fears.",
-                "Global markets displayed mixed performance this week as investors weighed inflation data against central bank signals."
-            )
-        ]
+                "Global markets displayed mixed performance this week as investors weighed inflation data against central bank signals.",
+            ),
+        ],
     }
 
     genre_examples = examples.get(genre, [])
     if not genre_examples:
         return ""
-    return "\n\n".join([
-        f"Example:\nInput: {inp}\nOutput: {out}"
-        for inp, out in genre_examples
-    ])
+    return "\n\n".join(
+        [f"Example:\nInput: {inp}\nOutput: {out}" for inp, out in genre_examples]
+    )
 
 
 # -------------------------------------------------------------------------
 # EXTRACTION PROMPT GENERATION (for extract_utils)
 # -------------------------------------------------------------------------
-def generate_extraction_prompts(text: str, genre: str, subfield: str, year: int, level: int = 1):
+def generate_extraction_prompts(
+    text: str, genre: str, subfield: str, year: int, level: int = 1
+):
     """
     Build (system_prompt, user_prompt) pair for keyword + summary extraction.
 
@@ -157,7 +159,7 @@ def generate_prompt_from_summary(
     keywords: list,
     summary: str,
     word_count: int,
-    level: int = 1
+    level: int = 1,
 ):
     """
     Build a generation prompt to create new LLM text
@@ -199,9 +201,16 @@ Summary: {summary}
             f"Use a conversational tone and clear storytelling (~{word_count} words). Year context: {year}."
         )
     elif genre == "News":
+        # Calculate ±5% range for strict word count control
+        lower_bound = max(1, int(word_count * 0.95))
+        upper_bound = int(word_count * 1.05)
         style = (
             f"Write a news article about {subfield}. Maintain objectivity, "
-            f"factual balance, and professional tone (~{word_count} words). Year context: {year}."
+            f"factual balance, and professional tone. "
+            f"CRITICAL: The article must be between {lower_bound} and {upper_bound} words "
+            f"(target: {word_count} words, ±5% tolerance). "
+            f"Year context: {year}. "
+            f"Count your words carefully and ensure the final article is within this range."
         )
     else:
         raise ValueError(f"Unsupported genre: {genre}")
