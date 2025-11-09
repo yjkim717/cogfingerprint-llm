@@ -118,8 +118,10 @@ def chat(
         else llm_base_url
     )
 
-    print(f"\n[DEBUG] Sending to {llm_model} (max_tokens={max_tokens})")
-    print(f"[DEBUG] Provider: {provider_name}, Endpoint: {endpoint}")
+    # Reduced logging for performance (only log on first attempt or errors)
+    # Uncomment for debugging:
+    # print(f"\n[DEBUG] Sending to {llm_model} (max_tokens={max_tokens})")
+    # print(f"[DEBUG] Provider: {provider_name}, Endpoint: {endpoint}")
 
     # Retry logic with exponential backoff
     for attempt in range(1, 6):

@@ -7,6 +7,9 @@ Supports all providers: DEEPSEEK, GEMMA_4B, GEMMA_12B, LLAMA_MAVRICK
 import os
 import sys
 from glob import glob
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
+import time
 
 # CRITICAL: Save LLM_PROVIDER BEFORE loading .env file
 # Command line arguments should take precedence over .env file
@@ -123,15 +126,169 @@ def clean_text(text):
     return text
 
 
-def process_news_files(levels=[1, 2, 3]):
+# Global locks for thread-safe operations
+stats_lock = Lock()
+cache_lock = Lock()
+processing_lock = Lock()  # Lock for tracking files being processed
+
+
+def process_single_file(
+    human_fp,
+    level,
+    llm_dir,
+    total_files,
+    extracted_cache,
+    processing_files_set,
+    verbose=False,
+):
     """
-    Process all News files for specified levels.
+    Process a single news file with thread-safe duplicate prevention.
+
+    Args:
+        human_fp: Path to human news file
+        level: Processing level (1, 2, or 3)
+        llm_dir: Output directory for LLM files
+        total_files: Total number of files (for progress tracking)
+        extracted_cache: Dictionary to cache extraction results
+        processing_files_set: Set to track files being processed (thread-safe)
+        verbose: Whether to print detailed logs
+
+    Returns:
+        Tuple of (success: bool, stats: dict, error: str or None)
+    """
+    try:
+        meta = parse_metadata_from_path(human_fp)
+
+        # Build output filename
+        llm_filename = build_llm_filename(meta, level=level)
+        llm_fp = os.path.join(llm_dir, llm_filename)
+
+        # Thread-safe check: skip if file already exists or is being processed
+        with processing_lock:
+            # Check if file already exists (another thread might have just created it)
+            if os.path.exists(llm_fp):
+                return (True, {"skipped": True}, None)
+
+            # Check if another thread is already processing this file
+            if llm_fp in processing_files_set:
+                return (True, {"skipped": True, "reason": "already_processing"}, None)
+
+            # Mark this file as being processed
+            processing_files_set.add(llm_fp)
+
+        try:
+            # Read the text file
+            text = read_text(human_fp)
+
+            # Double-check after acquiring lock (file might have been created by another thread)
+            if os.path.exists(llm_fp):
+                return (
+                    True,
+                    {"skipped": True, "reason": "created_by_another_thread"},
+                    None,
+                )
+
+            # Step 1: Extract (with caching)
+            genre = meta["genre"].capitalize() if meta.get("genre") else "News"
+            cache_key = f"{human_fp}_level{level}"
+
+            # Thread-safe cache access (read is safe, write needs lock)
+            if cache_key in extracted_cache:
+                extracted = extracted_cache[cache_key]
+            else:
+                # Perform extraction (this is the expensive operation)
+                extracted = extract_keywords_summary_count(
+                    text, genre, meta["subfield"], meta["year"], level=level
+                )
+                # Thread-safe cache write
+                with cache_lock:
+                    # Double-check pattern: another thread might have added it
+                    if cache_key not in extracted_cache:
+                        extracted_cache[cache_key] = extracted
+                    else:
+                        # Use the cached version if another thread added it
+                        extracted = extracted_cache[cache_key]
+
+            # Step 2: Calculate actual human text word count
+            actual_human_word_count = len(text.split())
+
+            # Step 3: Build prompt
+            prompt = generate_prompt_from_summary(
+                genre,
+                meta["subfield"],
+                meta["year"],
+                extracted["keywords"],
+                extracted["summary"],
+                actual_human_word_count,
+                level=level,
+            )
+
+            # Step 4: Generate with max_tokens calculated for ±5% tolerance
+            target_word_count = actual_human_word_count
+            upper_bound_words = int(target_word_count * 1.05)
+            max_tokens = int(upper_bound_words * 1.33 * 1.1)
+            max_tokens = min(max_tokens, 15000)
+            max_tokens = max(max_tokens, 500)
+
+            llm_text = chat(SYSTEM_PROMPT, prompt, max_tokens=max_tokens)
+
+            # Clean the generated text
+            llm_text = clean_text(llm_text)
+
+            # Step 5: Verify length and save
+            llm_word_count = len(llm_text.split())
+            length_diff_pct = (
+                (
+                    (llm_word_count - actual_human_word_count)
+                    / actual_human_word_count
+                    * 100
+                )
+                if actual_human_word_count > 0
+                else 0
+            )
+            abs_diff_pct = abs(length_diff_pct)
+
+            # Final check before writing (atomic operation)
+            if not os.path.exists(llm_fp):
+                write_text(llm_fp, llm_text)
+            else:
+                # File was created by another thread, skip writing
+                return (
+                    True,
+                    {"skipped": True, "reason": "created_during_processing"},
+                    None,
+                )
+
+            stats = {
+                "skipped": False,
+                "word_count": actual_human_word_count,
+                "llm_word_count": llm_word_count,
+                "abs_diff_pct": abs_diff_pct,
+            }
+            return (True, stats, None)
+
+        finally:
+            # Always remove from processing set, even if an error occurred
+            with processing_lock:
+                processing_files_set.discard(llm_fp)
+
+    except Exception as e:
+        # Make sure to remove from processing set on error
+        with processing_lock:
+            processing_files_set.discard(llm_fp)
+        return (False, {}, str(e))
+
+
+def process_news_files(levels=[1, 2, 3], max_workers=5, verbose=False):
+    """
+    Process all News files for specified levels with concurrent processing.
 
     Args:
         levels: List of levels to process (default: [1, 2, 3])
+        max_workers: Maximum number of concurrent threads (default: 5)
+        verbose: Whether to print detailed logs (default: False)
     """
     # Force set LLM_PROVIDER to DEEPSEEK if not explicitly set
-    # This ensures we use DEEPSEEK by default
     if not os.getenv("LLM_PROVIDER"):
         os.environ["LLM_PROVIDER"] = "DEEPSEEK"
 
@@ -150,6 +307,7 @@ def process_news_files(levels=[1, 2, 3]):
     print(f"\n{'='*80}")
     print(f"News Generation with {llm_provider} ({provider_tag})")
     print(f"Levels: {levels}")
+    print(f"Max Workers (Concurrency): {max_workers}")
     print(f"Environment LLM_PROVIDER: {os.getenv('LLM_PROVIDER', 'NOT SET')}")
     print(f"{'='*80}\n")
 
@@ -165,7 +323,6 @@ def process_news_files(levels=[1, 2, 3]):
     print(f"📊 Found {total_files} News files to process\n")
 
     # Create output directory
-    # Set TEST_OUTPUT=True in environment to use test directory
     use_test_dir = os.getenv("TEST_OUTPUT", "false").lower() == "true"
     if use_test_dir:
         llm_dir = TEST_LLM_DIR
@@ -196,6 +353,9 @@ def process_news_files(levels=[1, 2, 3]):
         "length_diffs": [],
     }
 
+    # Cache for extraction results (shared across levels)
+    extracted_cache = {}
+
     for level in levels:
         print(f"\n{'='*80}")
         print(f"Level {level} Processing")
@@ -210,122 +370,112 @@ def process_news_files(levels=[1, 2, 3]):
             "total_with_length": 0,
         }
 
-        for idx, human_fp in enumerate(news_files, 1):
-            try:
-                meta = parse_metadata_from_path(human_fp)
-                text = read_text(human_fp)
+        # Filter out files that already exist
+        files_to_process = []
+        for human_fp in news_files:
+            meta = parse_metadata_from_path(human_fp)
+            llm_filename = build_llm_filename(meta, level=level)
+            llm_fp = os.path.join(llm_dir, llm_filename)
+            if not os.path.exists(llm_fp):
+                files_to_process.append(human_fp)
+            else:
+                level_skipped += 1
 
-                # Build output filename
-                llm_filename = build_llm_filename(meta, level=level)
-                llm_fp = os.path.join(llm_dir, llm_filename)
+        remaining_files = len(files_to_process)
+        print(f"📋 Files to process: {remaining_files} (skipped: {level_skipped})\n")
 
-                # Skip if already exists
-                if os.path.exists(llm_fp):
-                    level_skipped += 1
-                    if idx % 100 == 0:  # Show progress every 100 files
-                        progress = (idx / total_files) * 100
+        if remaining_files == 0:
+            print("⏭️  All files already processed for this level.\n")
+            processed += level_processed
+            skipped += level_skipped
+            failed += level_failed
+            continue
+
+        # Process files concurrently
+        start_time = time.time()
+        completed = 0
+
+        # Create a set to track files being processed (shared across threads)
+        level_processing_files = set()
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            # Submit all tasks
+            future_to_file = {
+                executor.submit(
+                    process_single_file,
+                    human_fp,
+                    level,
+                    llm_dir,
+                    total_files,
+                    extracted_cache,
+                    level_processing_files,  # Pass the processing set
+                    verbose,
+                ): human_fp
+                for human_fp in files_to_process
+            }
+
+            # Process completed tasks
+            for future in as_completed(future_to_file):
+                human_fp = future_to_file[future]
+                completed += 1
+
+                try:
+                    success, stats, error = future.result()
+
+                    with stats_lock:
+                        if success:
+                            if stats.get("skipped"):
+                                level_skipped += 1
+                            else:
+                                level_processed += 1
+                                abs_diff_pct = stats.get("abs_diff_pct", 0)
+
+                                level_length_stats["total_with_length"] += 1
+                                length_stats["total_with_length"] += 1
+                                if abs_diff_pct <= 5:
+                                    level_length_stats["within_5pct"] += 1
+                                    length_stats["within_5pct"] += 1
+                                if abs_diff_pct <= 10:
+                                    level_length_stats["within_10pct"] += 1
+                                    length_stats["within_10pct"] += 1
+                                length_stats["length_diffs"].append(abs_diff_pct)
+
+                                if verbose:
+                                    status_icon = (
+                                        "✅"
+                                        if abs_diff_pct <= 5
+                                        else "⚠️" if abs_diff_pct <= 10 else "❌"
+                                    )
+                                    print(
+                                        f"  [{completed}/{remaining_files}] {status_icon} {os.path.basename(human_fp)}"
+                                    )
+                        else:
+                            level_failed += 1
+                            if verbose:
+                                print(
+                                    f"  ❌ Error processing {os.path.basename(human_fp)}: {error}"
+                                )
+
+                    # Progress update every 10 files or at the end
+                    if completed % 10 == 0 or completed == remaining_files:
+                        elapsed = time.time() - start_time
+                        rate = completed / elapsed if elapsed > 0 else 0
+                        remaining = remaining_files - completed
+                        eta = remaining / rate if rate > 0 else 0
+                        progress_pct = (completed / remaining_files) * 100
                         print(
-                            f"  [{idx}/{total_files}] ({progress:.1f}%) Skipped (already exists)"
+                            f"  Progress: [{completed}/{remaining_files}] ({progress_pct:.1f}%) | "
+                            f"Rate: {rate:.2f} files/s | ETA: {eta/60:.1f} min"
                         )
-                    continue
 
-                progress = (idx / total_files) * 100
-                print(
-                    f"  [{idx}/{total_files}] ({progress:.1f}%) Processing: {os.path.basename(human_fp)}"
-                )
+                except Exception as e:
+                    with stats_lock:
+                        level_failed += 1
+                    if verbose:
+                        print(f"  ❌ Unexpected error: {e}")
 
-                # Step 1: Extract
-                # Normalize genre to ensure compatibility (parse returns lowercase, but prompts expect capitalized)
-                genre = meta["genre"].capitalize() if meta.get("genre") else "News"
-                extracted = extract_keywords_summary_count(
-                    text, genre, meta["subfield"], meta["year"], level=level
-                )
-
-                # Step 2: Calculate actual human text word count
-                actual_human_word_count = len(text.split())
-
-                # Step 3: Build prompt with target word count (use actual human length)
-                # Prompt will guide LLM to generate text of similar length
-                prompt = generate_prompt_from_summary(
-                    genre,
-                    meta["subfield"],
-                    meta["year"],
-                    extracted["keywords"],
-                    extracted["summary"],
-                    actual_human_word_count,  # Use actual human text length
-                    level=level,
-                )
-
-                # Step 4: Generate with max_tokens calculated for ±5% tolerance
-                # Target: actual_human_word_count ± 5%
-                # Convert words to tokens: approximately 1 word = 1.33 tokens for English
-                # Set max_tokens to accommodate upper bound (105% of target) with minimal buffer
-                target_word_count = actual_human_word_count
-                upper_bound_words = int(target_word_count * 1.05)  # +5% tolerance
-                # Convert to tokens: words * 1.33
-                # Use smaller buffer (10% instead of 20%) to enforce stricter length control
-                max_tokens = int(upper_bound_words * 1.33 * 1.1)
-                # Remove hard cap of 2000, but set reasonable maximum (e.g., 15000 tokens)
-                max_tokens = min(max_tokens, 15000)
-                # Ensure minimum tokens for very short texts
-                max_tokens = max(max_tokens, 500)
-
-                llm_text = chat(SYSTEM_PROMPT, prompt, max_tokens=max_tokens)
-
-                # Clean the generated text
-                llm_text = clean_text(llm_text)
-
-                # Step 5: Verify length and save
-                llm_word_count = len(llm_text.split())
-                length_diff_pct = (
-                    (
-                        (llm_word_count - actual_human_word_count)
-                        / actual_human_word_count
-                        * 100
-                    )
-                    if actual_human_word_count > 0
-                    else 0
-                )
-                abs_diff_pct = abs(length_diff_pct)
-
-                write_text(llm_fp, llm_text)
-                level_processed += 1
-
-                # Print detailed length information
-                status_icon = (
-                    "✅" if abs_diff_pct <= 5 else "⚠️" if abs_diff_pct <= 10 else "❌"
-                )
-                print(f"     {status_icon} Generated:")
-                print(f"        Input sample: {actual_human_word_count} words")
-                print(f"        Generated sample: {llm_word_count} words")
-                print(
-                    f"        Difference: {length_diff_pct:+.2f}% ({abs_diff_pct:.2f}% absolute)"
-                )
-                if abs_diff_pct > 5:
-                    print(f"        ⚠️  Warning: Difference exceeds ±5% tolerance")
-
-                # Update statistics
-                level_length_stats["total_with_length"] += 1
-                length_stats["total_with_length"] += 1
-                if abs_diff_pct <= 5:
-                    level_length_stats["within_5pct"] += 1
-                    length_stats["within_5pct"] += 1
-                if abs_diff_pct <= 10:
-                    level_length_stats["within_10pct"] += 1
-                    length_stats["within_10pct"] += 1
-                length_stats["length_diffs"].append(abs_diff_pct)
-
-            except KeyboardInterrupt:
-                print(f"\n⚠️  Interrupted by user")
-                print(
-                    f"   Processed: {level_processed}, Skipped: {level_skipped}, Failed: {level_failed}"
-                )
-                sys.exit(0)
-
-            except Exception as e:
-                level_failed += 1
-                print(f"     ❌ Error: {e}")
-                continue
+        elapsed_time = time.time() - start_time
+        print(f"\n⏱️  Level {level} completed in {elapsed_time/60:.1f} minutes")
 
         print(f"\n📊 Level {level} Summary:")
         print(f"   ✅ Processed: {level_processed}")
@@ -390,10 +540,23 @@ def main():
         default=[1, 2, 3],
         help="Levels to process (default: 1 2 3)",
     )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=5,
+        help="Number of concurrent workers (default: 5). Increase for faster processing, but be aware of API rate limits.",
+    )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Print detailed logs for each file",
+    )
 
     args = parser.parse_args()
 
-    process_news_files(levels=args.levels)
+    process_news_files(
+        levels=args.levels, max_workers=args.workers, verbose=args.verbose
+    )
 
 
 if __name__ == "__main__":
