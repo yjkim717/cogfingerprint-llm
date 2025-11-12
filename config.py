@@ -13,9 +13,9 @@ DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 
 # === PATH SETTINGS ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATASET_DIR = os.path.join(BASE_DIR, "Datasets")
-HUMAN_DIR = os.path.join(DATASET_DIR, "Human")
-LLM_DIR = os.path.join(DATASET_DIR, "LLM")
+DATASET_DIR = os.path.join(BASE_DIR, "dataset")
+HUMAN_DIR = os.path.join(DATASET_DIR, "human")
+LLM_DIR = os.path.join(DATASET_DIR, "llm")
 
 GENRE_STRUCTURE = {
     "Academic": {

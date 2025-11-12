@@ -35,13 +35,13 @@ def write_text(path: str, content: str):
 # -------------------------------------------------------------------------
 def parse_metadata_from_path(human_path: str) -> Dict[str, str]:
     """
-    Parse genre, subfield, year, and index from a Human dataset path.
-
-    Supports:
-      - Academic: Datasets/Human/Academic/bio/2020/Bio_DS_2020_01.txt
-      - Blogs:    Datasets/Human/Blogs/Lifestyle/2022/LIFESTYLE_2022_10_02.txt
-      - News:     Datasets/Human/News/politics/2023/NEWS_2023_01.txt
-      - Custom:   Datasets/Human/News/3_years/3_years_01_2015_01.txt
+    Parse genre, subfield, author_id (batch), year, and index from a Human dataset path.
+    
+    Unified format for all genres: {GENRE}_{SUBFIELD}_{AUTHOR_ID}_{YEAR}_{ITEM_INDEX}.txt
+    Examples:
+      - Blogs_LIFESTYLE_01_2020_01.txt
+      - News_10years_01_2012_01.txt
+      - Academic_CHEMISTRY_03_2022_01.txt
     """
     parts = os.path.normpath(human_path).split(os.sep)
 
@@ -54,127 +54,122 @@ def parse_metadata_from_path(human_path: str) -> Dict[str, str]:
         elif "human" in parts:
             idx = parts.index("human")
         else:
-            raise ValueError(
-                f"No Human/cleaned_human/human directory found in path: {human_path}"
-            )
-
-        genre = parts[idx + 1]  # e.g. Academic / Blogs / News
-        subfield = (
-            parts[idx + 2] if idx + 2 < len(parts) else None
-        )  # e.g. bio / Lifestyle / 3_years / filtered_years
-        filename = parts[-1]  # Always the filename
-
-        # For News in filtered_years directory or directly in news directory, subfield might be filtered_years or None
-        if subfield == "filtered_years" or (
-            genre.lower() == "news" and subfield is None
-        ):
-            # For files directly in news directory, parse from filename
-            # Format: News_10years_01_2012_01.txt
-            # We'll extract subfield from filename if needed
-            subfield = "filtered_years"  # Use as default for news files
+            raise ValueError(f"No Human/cleaned_human/human directory found in path: {human_path}")
+            
+        genre = parts[idx + 1]           # e.g. Academic / Blogs / News
+        filename = parts[-1]             # Always the filename
     except (ValueError, IndexError):
         raise ValueError(f"Unexpected path structure: {human_path}")
 
-    # --- Case 1: Custom News files (e.g., 3_years_01_2015_01.txt or News_10years_01_2012_01.txt)
-    m_custom = re.search(r"([A-Za-z0-9_]+)_(\d{2})_(\d{4})_(\d{2})\.txt$", filename)
-    if m_custom:
-        subfield_name = m_custom.group(1)  # e.g., 3_years or News_10years
-        batch = m_custom.group(2)  # e.g., 01
-        year = m_custom.group(3)  # e.g., 2015
-        index = m_custom.group(4)  # e.g., 01
-
-        # Remove "News_" prefix if present (for files like News_10years_01_2012_01.txt)
-        if subfield_name.lower().startswith("news_"):
-            subfield_name = subfield_name[5:]  # Remove "News_" prefix (5 characters)
-
+    # --- Unified format: {GENRE}_{SUBFIELD}_{AUTHOR_ID}_{YEAR}_{ITEM_INDEX}.txt
+    # This matches all three genres: Blogs, News, Academic
+    # Examples:
+    #   - Blogs_LIFESTYLE_01_2020_01.txt
+    #   - News_10years_01_2012_01.txt
+    #   - Academic_CHEMISTRY_03_2022_01.txt
+    unified_pattern = r"^([A-Za-z]+)_([A-Za-z0-9]+)_(\d+)_(\d{4})_(\d+)\.txt$"
+    m_unified = re.match(unified_pattern, filename)
+    
+    if m_unified:
+        genre_from_name = m_unified.group(1)  # e.g., Blogs, News, Academic
+        subfield_from_name = m_unified.group(2)  # e.g., LIFESTYLE, 10years, CHEMISTRY
+        author_id = m_unified.group(3)          # e.g., 01, 03, 14
+        year = m_unified.group(4)               # e.g., 2020, 2012, 2022
+        item_index = m_unified.group(5)         # e.g., 01, 02, 03
+        
+        # Use genre from filename if it matches the directory, otherwise use directory genre
+        # This handles cases where filename genre might differ from directory structure
+        if genre_from_name.lower() == genre.lower():
+            final_genre = genre_from_name
+        else:
+            final_genre = genre
+        
         return {
-            "genre": genre,
-            "subfield": subfield_name.lower(),
-            "batch": batch,
+            "genre": final_genre.lower(),  # Normalize to lowercase
+            "subfield": subfield_from_name.lower(),  # Normalize to lowercase
+            "batch": author_id,  # Author ID (also called batch)
             "year": str(year),
-            "index": str(index),
+            "index": str(item_index),
         }
-
-    # --- Case 2: Blogs (LIFESTYLE_2022_10_02.txt)
-    m_blog = re.search(r"([A-Za-z]+)_(\d{4})_(\d{2})_(\d{2})\.txt$", filename)
-    if m_blog:
-        subfield_from_name = m_blog.group(1)
-        year = m_blog.group(2)
-        month = m_blog.group(3)
-        index = m_blog.group(4)
-        return {
-            "genre": genre,
-            "subfield": subfield_from_name.lower(),
-            "year": str(year),
-            "index": f"{month}_{index}",
-        }
-
-    # --- Case 3: Academic (Bio_DS_2020_01.txt)
-    m_acad = re.search(r"_(\d{4})_(\d+)\.txt$", filename)
-    if m_acad:
-        year = m_acad.group(1)
-        index = m_acad.group(2)
-        return {
-            "genre": genre,
-            "subfield": subfield.lower(),
-            "year": str(year),
-            "index": str(index),
-        }
-
-    # --- Case 4: Standard News (NEWS_2023_01.txt)
-    m_news = re.search(r"([A-Za-z]+)_(\d{4})_(\d+)\.txt$", filename)
-    if m_news:
-        subfield_from_name = m_news.group(1)
-        year = m_news.group(2)
-        index = m_news.group(3)
-        return {
-            "genre": genre,
-            "subfield": subfield_from_name.lower(),
-            "year": str(year),
-            "index": str(index),
-        }
-
-    # --- Fallback (extract first 4-digit year from anywhere)
+    
+    # --- Fallback: Try to extract genre from directory if filename doesn't match unified format
+    # This handles legacy formats or files that haven't been renamed yet
     year_match = re.search(r"\d{4}", human_path)
     year = year_match.group(0) if year_match else "0000"
+    
+    # Try to extract subfield from directory structure (for Academic files in subdirectories)
+    subfield = None
+    try:
+        if idx + 2 < len(parts):
+            subfield = parts[idx + 2]  # e.g., bio, chemistry, cs
+    except (ValueError, IndexError):
+        pass
+    
     return {
-        "genre": genre,
-        "subfield": subfield.lower(),
+        "genre": genre.lower(),
+        "subfield": subfield.lower() if subfield else "unknown",
+        "batch": "01",  # Default batch/author_id
         "year": str(year),
-        "index": "01",
+        "index": "01",  # Default index
     }
 
 
 # -------------------------------------------------------------------------
 # OUTPUT FILENAME BUILDER
 # -------------------------------------------------------------------------
-def build_llm_filename(meta: Dict[str, str], level: int | None = None) -> str:
+def build_llm_filename(meta: Dict[str, str], level: int | None = None, provider: str | None = None) -> str:
     """
     Build output filename for generated LLM files.
+    Uses unified format for all genres: {GENRE}_{SUBFIELD}_{AUTHOR_ID}_{YEAR}_{ITEM_INDEX}_{MODEL}_{LEVEL}.txt
+    
     Includes:
       - Model tag (DS / G4B / G12B / LMK)
       - Level suffix (_LV1, _LV2, _LV3)
-
-    Format for News: {subfield}_{batch}_{year}_{index}_{model}_{level}.txt
-    Format for others: {genre}_{subfield}_{model}_{level}_{year}_{index}.txt
+    
+    Args:
+        meta: Metadata dictionary with genre, subfield, batch, year, index
+        level: Generation level (1, 2, or 3)
+        provider: LLM provider (DEEPSEEK, GEMMA_4B, GEMMA_12B, LLAMA_MAVRICK). 
+                 If None, reads from environment variable LLM_PROVIDER.
+    
+    Examples:
+      - Blogs_LIFESTYLE_01_2020_01_DS_LV1.txt
+      - News_10years_01_2012_01_DS_LV1.txt
+      - Academic_CHEMISTRY_03_2022_01_DS_LV1.txt
     """
-    provider = os.getenv("LLM_PROVIDER", "DEEPSEEK").upper()
+    # Use provided provider or fall back to environment variable
+    if provider is None:
+        provider = os.getenv("LLM_PROVIDER", "DEEPSEEK").upper()
+    else:
+        provider = provider.upper()
     tag = MODEL_TAGS.get(provider, "DS")
 
     genre = meta["genre"]
     tag_with_level = f"{tag}_LV{level}" if level else tag
 
-    # News files: News_subfield_batch_year_index_model_level.txt
-    if genre.lower() == "news" and "batch" in meta:
-        subfield = meta["subfield"]
-        batch = meta["batch"]
-        year = meta["year"]
-        index = meta["index"]
-        # Format: News_5years_01_2016_01_DS_LV1.txt (with News_ prefix)
-        return f"News_{subfield}_{batch}_{year}_{index}_{tag_with_level}.txt"
-
-    # Other files: genre_subfield_model_level_year_index.txt
-    subfield = (
-        meta["subfield"].capitalize() if genre.lower() == "blogs" else meta["subfield"]
-    )
-    return f"{genre}_{subfield}_{tag_with_level}_{meta['year']}_{meta['index']}.txt"
+    # Unified format: {GENRE}_{SUBFIELD}_{AUTHOR_ID}_{YEAR}_{ITEM_INDEX}_{MODEL}_{LEVEL}.txt
+    # Capitalize genre (first letter uppercase)
+    genre_capitalized = genre.capitalize()  # e.g., blogs -> Blogs, news -> News, academic -> Academic
+    
+    # Handle subfield capitalization based on genre
+    subfield = meta["subfield"]
+    if genre.lower() == "blogs":
+        # Blogs: SUBFIELD in uppercase (e.g., LIFESTYLE)
+        subfield_formatted = subfield.upper()
+    elif genre.lower() == "news":
+        # News: subfield in lowercase (e.g., 10years)
+        subfield_formatted = subfield.lower()
+    elif genre.lower() == "academic":
+        # Academic: SUBFIELD in uppercase (e.g., CHEMISTRY)
+        subfield_formatted = subfield.upper()
+    else:
+        # Default: capitalize first letter
+        subfield_formatted = subfield.capitalize()
+    
+    # Get author_id (batch)
+    author_id = meta.get("batch", "01")  # Default to "01" if batch not present
+    year = meta["year"]
+    item_index = meta["index"]
+    
+    # Build unified filename
+    return f"{genre_capitalized}_{subfield_formatted}_{author_id}_{year}_{item_index}_{tag_with_level}.txt"

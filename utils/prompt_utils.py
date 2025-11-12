@@ -58,7 +58,7 @@ def get_examples_by_genre(genre: str) -> str:
             ),
             (
                 "Traveling broadens perspectives.",
-                "Exploring new places expands one’s understanding of cultures and encourages personal growth through new experiences.",
+                "Exploring new places expands one's understanding of cultures and encourages personal growth through new experiences.",
             ),
         ],
         "News": [
@@ -76,17 +76,17 @@ def get_examples_by_genre(genre: str) -> str:
     genre_examples = examples.get(genre, [])
     if not genre_examples:
         return ""
-    return "\n\n".join(
-        [f"Example:\nInput: {inp}\nOutput: {out}" for inp, out in genre_examples]
-    )
+
+    return "\n\n".join([
+        f"Example:\nInput: {inp}\nOutput: {out}"
+        for inp, out in genre_examples
+    ])
 
 
 # -------------------------------------------------------------------------
 # EXTRACTION PROMPT GENERATION (for extract_utils)
 # -------------------------------------------------------------------------
-def generate_extraction_prompts(
-    text: str, genre: str, subfield: str, year: int, level: int = 1
-):
+def generate_extraction_prompts(text: str, genre: str, subfield: str, year: int, level: int = 1):
     """
     Build (system_prompt, user_prompt) pair for keyword + summary extraction.
 
@@ -159,7 +159,7 @@ def generate_prompt_from_summary(
     keywords: list,
     summary: str,
     word_count: int,
-    level: int = 1,
+    level: int = 1
 ):
     """
     Build a generation prompt to create new LLM text

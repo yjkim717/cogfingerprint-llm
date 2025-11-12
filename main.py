@@ -11,9 +11,9 @@ from utils.prompt_utils import generate_prompt_from_summary
 from utils.api_utils import chat
 from config import GENRE_STRUCTURE, get_llm_path
 
-# Updated paths for cleaned_datasets
-CLEANED_HUMAN_DIR = "cleaned_datasets/cleaned_human"
-CLEANED_LLM_DIR = "cleaned_datasets/cleaned_llm"
+# Updated paths for dataset
+CLEANED_HUMAN_DIR = "dataset/human"
+CLEANED_LLM_DIR = "dataset/llm"
 
 
 # =========================================================================
@@ -34,35 +34,32 @@ PROVIDER_TAG = {
 # HUMAN FILE ITERATOR
 # =========================================================================
 def iter_human_files():
-    """Iterate over all human text files from cleaned_datasets."""
-    for genre in ["Academic", "Blogs", "News"]:
-        genre_dir = os.path.join(CLEANED_HUMAN_DIR, genre)
+    """
+    Iterate over all human text files from dataset/human.
+    
+    All genres now use unified format: {GENRE}_{SUBFIELD}_{AUTHOR_ID}_{YEAR}_{ITEM_INDEX}.txt
+    Files can be in root directory or subdirectories - we recursively find all .txt files.
+    """
+    # Map genre names (used in code) to directory names (actual folder names)
+    genre_map = {
+        "Academic": "academic",
+        "Blogs": "blogs",
+        "News": "news"
+    }
+    
+    for genre, genre_dir_name in genre_map.items():
+        genre_dir = os.path.join(CLEANED_HUMAN_DIR, genre_dir_name)
         if not os.path.isdir(genre_dir):
             continue
         
-        # Case 1: News - files are in filtered_years subdirectory
-        if genre.lower() == "news":
-            news_dir = os.path.join(genre_dir, "filtered_years")
-            if os.path.isdir(news_dir):
-                for file in glob(os.path.join(news_dir, "*.txt")):
-                    yield file
-            continue
-        
-        # Case 2: Academic / Blogs - have subfield folders with year subfolders
-        for subfield in os.listdir(genre_dir):
-            subfield_path = os.path.join(genre_dir, subfield)
-            if not os.path.isdir(subfield_path):
-                continue
-            
-            # Check for year subdirectories
-            for year_folder in os.listdir(subfield_path):
-                year_path = os.path.join(subfield_path, year_folder)
-                if not os.path.isdir(year_path):
-                    continue
-                
-                # Get all .txt files from this year
-                for file in glob(os.path.join(year_path, "*.txt")):
-                    yield file
+        # Unified approach: recursively find all .txt files in the genre directory
+        # Since all files now use unified format, we don't need to worry about directory structure
+        # Files can be in root directory (Blogs, News) or subdirectories (Academic)
+        for root, dirs, files in os.walk(genre_dir):
+            for file in files:
+                if file.endswith('.txt'):
+                    file_path = os.path.join(root, file)
+                    yield file_path
 
 
 
@@ -87,18 +84,17 @@ def run():
             meta = parse_metadata_from_path(human_fp)
             text = read_text(human_fp)
 
-            # Build output directory structure in cleaned_llm
+            # Build output directory structure in dataset/llm
+            # Unified format: all files go to genre root directory
+            # Since all files use unified format with all metadata in filename,
+            # we don't need subdirectory structure for output
             genre = meta["genre"]
+            genre_dir_name = genre.lower()  # All genres use lowercase directory names
+            llm_dir = os.path.join(CLEANED_LLM_DIR, genre_dir_name)
+            
+            # Extract metadata for extraction and prompt generation
             subfield = meta["subfield"]
             year = meta["year"]
-            
-            # Create the corresponding directory structure
-            if genre.lower() == "news":
-                # News: put directly in cleaned_llm/News (no subfield/year structure)
-                llm_dir = os.path.join(CLEANED_LLM_DIR, "News")
-            else:
-                # Academic/Blogs: maintain subfield and year structure
-                llm_dir = os.path.join(CLEANED_LLM_DIR, genre, subfield, str(year))
             
             os.makedirs(llm_dir, exist_ok=True)
 
