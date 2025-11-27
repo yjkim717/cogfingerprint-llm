@@ -1,0 +1,271 @@
+{
+  "settings": {
+    "level": "LV3",
+    "train_years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "test_years": [
+      2024
+    ],
+    "feature_columns": [
+      "Openness",
+      "Conscientiousness",
+      "Extraversion",
+      "Agreeableness",
+      "Neuroticism",
+      "polarity",
+      "subjectivity",
+      "vader_compound",
+      "vader_pos",
+      "vader_neu",
+      "vader_neg",
+      "word_diversity",
+      "flesch_reading_ease",
+      "gunning_fog",
+      "average_word_length",
+      "num_words",
+      "avg_sentence_length",
+      "verb_ratio",
+      "function_word_ratio",
+      "content_word_ratio"
+    ]
+  },
+  "dataset_overview": {
+    "sample_counts": [
+      {
+        "label": "human",
+        "model_target": "HUMAN",
+        "domain": "academic",
+        "count": 5000
+      },
+      {
+        "label": "human",
+        "model_target": "HUMAN",
+        "domain": "blogs",
+        "count": 5000
+      },
+      {
+        "label": "human",
+        "model_target": "HUMAN",
+        "domain": "news",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "DS",
+        "domain": "academic",
+        "count": 4999
+      },
+      {
+        "label": "llm",
+        "model_target": "DS",
+        "domain": "blogs",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "DS",
+        "domain": "news",
+        "count": 4997
+      },
+      {
+        "label": "llm",
+        "model_target": "G12B",
+        "domain": "academic",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "G12B",
+        "domain": "blogs",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "G12B",
+        "domain": "news",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "G4B",
+        "domain": "academic",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "G4B",
+        "domain": "blogs",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "G4B",
+        "domain": "news",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "LMK",
+        "domain": "academic",
+        "count": 5000
+      },
+      {
+        "label": "llm",
+        "model_target": "LMK",
+        "domain": "blogs",
+        "count": 4999
+      },
+      {
+        "label": "llm",
+        "model_target": "LMK",
+        "domain": "news",
+        "count": 5000
+      }
+    ],
+    "total_rows": 74995
+  },
+  "binary_results": {
+    "train_samples": 59996,
+    "test_samples": 14999,
+    "test_accuracy": 0.8883925595039669,
+    "classification_report": {
+      "human": {
+        "precision": 0.7933628318584071,
+        "recall": 0.5976666666666667,
+        "f1-score": 0.6817490494296577,
+        "support": 3000.0
+      },
+      "llm": {
+        "precision": 0.9052515896067195,
+        "recall": 0.9610800900075006,
+        "f1-score": 0.9323308270676691,
+        "support": 11999.0
+      },
+      "accuracy": 0.8883925595039669,
+      "macro avg": {
+        "precision": 0.8493072107325632,
+        "recall": 0.7793733783370836,
+        "f1-score": 0.8070399382486635,
+        "support": 14999.0
+      },
+      "weighted avg": {
+        "precision": 0.8828723461074903,
+        "recall": 0.8883925595039669,
+        "f1-score": 0.8822111302269442,
+        "support": 14999.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1793,
+        1207
+      ],
+      [
+        467,
+        11532
+      ]
+    ],
+    "cv_mean_accuracy": 0.8974764660943968,
+    "cv_std_accuracy": 0.0024204505321761987
+  },
+  "multiclass_results": {
+    "classes": [
+      "DS",
+      "G12B",
+      "G4B",
+      "HUMAN",
+      "LMK"
+    ],
+    "train_samples": 59996,
+    "test_samples": 14999,
+    "test_accuracy": 0.5269684645643042,
+    "classification_report": {
+      "DS": {
+        "precision": 0.4995121951219512,
+        "recall": 0.5121707235745249,
+        "f1-score": 0.5057622653934805,
+        "support": 2999.0
+      },
+      "G12B": {
+        "precision": 0.4494462307967131,
+        "recall": 0.41933333333333334,
+        "f1-score": 0.43386790826004484,
+        "support": 3000.0
+      },
+      "G4B": {
+        "precision": 0.48231173380035025,
+        "recall": 0.459,
+        "f1-score": 0.4703672075149445,
+        "support": 3000.0
+      },
+      "HUMAN": {
+        "precision": 0.6480273376825101,
+        "recall": 0.6953333333333334,
+        "f1-score": 0.6708474031194726,
+        "support": 3000.0
+      },
+      "LMK": {
+        "precision": 0.5398230088495575,
+        "recall": 0.549,
+        "f1-score": 0.5443728309370351,
+        "support": 3000.0
+      },
+      "accuracy": 0.5269684645643042,
+      "macro avg": {
+        "precision": 0.5238241012502165,
+        "recall": 0.5269674780482383,
+        "f1-score": 0.5250435230449956,
+        "support": 14999.0
+      },
+      "weighted avg": {
+        "precision": 0.5238257221520184,
+        "recall": 0.5269684645643042,
+        "f1-score": 0.5250448085478725,
+        "support": 14999.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1536,
+        446,
+        306,
+        435,
+        276
+      ],
+      [
+        496,
+        1258,
+        614,
+        211,
+        421
+      ],
+      [
+        370,
+        672,
+        1377,
+        131,
+        450
+      ],
+      [
+        273,
+        242,
+        142,
+        2086,
+        257
+      ],
+      [
+        400,
+        181,
+        416,
+        356,
+        1647
+      ]
+    ],
+    "cv_mean_accuracy": 0.5387857363113592,
+    "cv_std_accuracy": 0.0077983621152652805
+  }
+}

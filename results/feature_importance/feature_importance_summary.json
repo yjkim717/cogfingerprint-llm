@@ -1,0 +1,116 @@
+{
+  "best_models": {
+    "cv": "Random Forest",
+    "rmssd": "Gradient Boosting",
+    "masd": "Gradient Boosting",
+    "variance": "Random Forest"
+  },
+  "layer_totals": {
+    "Cognitive": 18.576993284523333,
+    "Emotional": 38.31450992195256,
+    "Stylistic": 43.1084967935241,
+    "Unknown": 0
+  },
+  "top_features": [
+    {
+      "feature": "vader_compound",
+      "layer": "Emotional",
+      "avg_importance": 23.717621721114813
+    },
+    {
+      "feature": "avg_sentence_length",
+      "layer": "Stylistic",
+      "avg_importance": 18.34093649914822
+    },
+    {
+      "feature": "Neuroticism",
+      "layer": "Cognitive",
+      "avg_importance": 7.449185123838223
+    },
+    {
+      "feature": "Agreeableness",
+      "layer": "Cognitive",
+      "avg_importance": 5.404486315465754
+    },
+    {
+      "feature": "flesch_reading_ease",
+      "layer": "Stylistic",
+      "avg_importance": 4.852300770571491
+    },
+    {
+      "feature": "num_words",
+      "layer": "Stylistic",
+      "avg_importance": 4.820664199917287
+    },
+    {
+      "feature": "polarity",
+      "layer": "Emotional",
+      "avg_importance": 4.539916820751199
+    },
+    {
+      "feature": "gunning_fog",
+      "layer": "Stylistic",
+      "avg_importance": 3.833058921124672
+    },
+    {
+      "feature": "subjectivity",
+      "layer": "Emotional",
+      "avg_importance": 3.221708502659249
+    },
+    {
+      "feature": "word_diversity",
+      "layer": "Stylistic",
+      "avg_importance": 2.9999724908438137
+    },
+    {
+      "feature": "vader_pos",
+      "layer": "Emotional",
+      "avg_importance": 2.644003911681689
+    },
+    {
+      "feature": "average_word_length",
+      "layer": "Stylistic",
+      "avg_importance": 2.40815514296935
+    },
+    {
+      "feature": "vader_neu",
+      "layer": "Emotional",
+      "avg_importance": 2.253659154916625
+    },
+    {
+      "feature": "verb_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 2.1905716578466916
+    },
+    {
+      "feature": "Conscientiousness",
+      "layer": "Cognitive",
+      "avg_importance": 2.1328253988702217
+    },
+    {
+      "feature": "Openness",
+      "layer": "Cognitive",
+      "avg_importance": 2.0176445664691047
+    },
+    {
+      "feature": "content_word_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 2.013792624185907
+    },
+    {
+      "feature": "vader_neg",
+      "layer": "Emotional",
+      "avg_importance": 1.9375998108289938
+    },
+    {
+      "feature": "function_word_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 1.6490444869166683
+    },
+    {
+      "feature": "Extraversion",
+      "layer": "Cognitive",
+      "avg_importance": 1.5728518798800288
+    }
+  ]
+}

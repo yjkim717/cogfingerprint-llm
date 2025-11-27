@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-CLI script for generating Academic texts using AcademicGenerator.
+CLI script for generating macro-level Blogs texts using MacroBlogsGenerator.
 
 This is a standalone script that can be run directly from the project root.
 Usage:
-    python generate_academic_cli.py --model GEMMA_12B --levels 1
-    python generate_academic_cli.py --model DEEPSEEK --levels 1 2 3
+    python generate_macro_blogs_cli.py --model GEMMA_12B --levels 1
+    python generate_macro_blogs_cli.py --model DEEPSEEK --levels 1 2 3
 """
 
 import os
@@ -44,30 +44,30 @@ if saved_llm_provider:
     os.environ["LLM_PROVIDER"] = saved_llm_provider
 
 # Now import the generator
-from generators import AcademicGenerator
+from generators import MacroBlogsGenerator
 
 
 def main():
-    """Main entry point for Academic generator CLI."""
+    """Main entry point for macro Blogs generator CLI."""
     parser = argparse.ArgumentParser(
-        description="Generate LLM texts for Academic dataset",
+        description="Generate LLM texts for macro Blogs dataset",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
   # Generate Level 1 with DEEPSEEK
-  python generate_academic_cli.py --model DEEPSEEK --levels 1
+  python generate_macro_blogs_cli.py --model DEEPSEEK --levels 1
   
   # Generate all levels with GEMMA_12B
-  python generate_academic_cli.py --model GEMMA_12B --levels 1 2 3
+  python generate_macro_blogs_cli.py --model GEMMA_12B --levels 1 2 3
   
   # Generate Level 2 with GEMMA_4B
-  python generate_academic_cli.py --model GEMMA_4B --levels 2
+  python generate_macro_blogs_cli.py --model GEMMA_4B --levels 2
   
   # Generate with LLAMA_MAVRICK
-  python generate_academic_cli.py --model LLAMA_MAVRICK --levels 1
+  python generate_macro_blogs_cli.py --model LLAMA_MAVRICK --levels 1
   
   # Generate with 10 workers for faster processing
-  python generate_academic_cli.py --model GEMMA_12B --levels 1 --workers 10
+  python generate_macro_blogs_cli.py --model GEMMA_12B --levels 1 --workers 10
         """
     )
     
@@ -90,15 +90,15 @@ Examples:
     parser.add_argument(
         "--human-dir",
         type=str,
-        default="dataset/human",
-        help="Directory containing human-written texts (default: dataset/human)"
+        default="macro_dataset/human",
+        help="Directory containing macro human-written texts (default: macro_dataset/human)"
     )
     
     parser.add_argument(
         "--llm-dir",
         type=str,
-        default="dataset/llm",
-        help="Directory for output LLM-generated texts (default: dataset/llm)"
+        default="macro_dataset/llm",
+        help="Directory for output macro LLM-generated texts (default: macro_dataset/llm)"
     )
     
     parser.add_argument(
@@ -142,25 +142,25 @@ Examples:
         print(f"❌ Error: Human directory not found: {human_dir}")
         sys.exit(1)
     
-    academic_input_dir = human_dir / "academic"
-    if not academic_input_dir.exists():
-        print(f"❌ Error: Academic input directory not found: {academic_input_dir}")
+    blogs_input_dir = human_dir / "blogs"
+    if not blogs_input_dir.exists():
+        print(f"❌ Error: Blogs input directory not found: {blogs_input_dir}")
         sys.exit(1)
     
-    academic_files = list(academic_input_dir.glob("*.txt"))
-    if not academic_files:
-        print(f"⚠️  Warning: No .txt files found in {academic_input_dir}")
+    blogs_files = list(blogs_input_dir.glob("*.txt"))
+    if not blogs_files:
+        print(f"⚠️  Warning: No .txt files found in {blogs_input_dir}")
     else:
-        print(f"✅ Found {len(academic_files)} input files")
+        print(f"✅ Found {len(blogs_files)} input files")
     
     print()
     print("=" * 70)
-    print("Starting generation...")
+    print("Starting macro Blogs generation...")
     print("=" * 70)
     print()
     
     # Create generator
-    generator = AcademicGenerator(
+    generator = MacroBlogsGenerator(
         human_dir=str(human_dir),
         llm_dir=args.llm_dir,
         provider=provider
@@ -183,4 +183,5 @@ Examples:
 
 if __name__ == "__main__":
     main()
+
 

@@ -234,12 +234,23 @@ Generate ONLY the raw plain text content as specified."""
         # Convert genre to capitalized form (e.g., "blogs" -> "Blogs")
         # prompt_utils expects capitalized genre names
         genre = meta["genre"].capitalize()
+        identifier_parts = [
+            genre,
+            meta.get("subfield", "unknown"),
+            str(meta.get("year", "")).strip(),
+        ]
+        index = str(meta.get("index", "")).strip()
+        if index:
+            identifier_parts.append(index)
+        identifier = "_".join([part for part in identifier_parts if part])
+
         return extract_keywords_summary_count(
             text,
             genre,
             meta["subfield"],
             int(meta["year"]),
-            level=level
+            level=level,
+            identifier=identifier,
         )
     
     def generate_prompt(self, meta: Dict[str, str], extracted: Dict, level: int) -> str:
@@ -609,7 +620,7 @@ Generate ONLY the raw plain text content as specified."""
                             or completed == remaining_files
                             or (current_time - last_progress_time) >= 30
                         )
-                        
+
                         if should_update:
                             last_progress_time = current_time
                             elapsed = time.time() - start_time
@@ -625,6 +636,7 @@ Generate ONLY the raw plain text content as specified."""
                             )
                             
                             progress_bar = _format_progress_bar(completed, remaining_files, width=20)
+                            current_file_label = os.path.basename(human_fp) if human_fp else "unknown"
                             
                             print(
                                 f"\n  [{_get_timestamp()}] 📊 Level {level} Progress: "
@@ -634,6 +646,9 @@ Generate ONLY the raw plain text content as specified."""
                                 f"      ⚡ Rate: {rate:.2f} files/s | "
                                 f"⏱️  Elapsed: {_format_duration(elapsed)} | "
                                 f"⏳ ETA: {_format_duration(eta)}"
+                            )
+                            print(
+                                f"      📄 Current file: {current_file_label}"
                             )
                             print(
                                 f"      📈 Overall Progress: {overall_progress:.1f}% | "

@@ -1,0 +1,115 @@
+{
+  "best_models": {
+    "cv": "SVM",
+    "rmssd": "XGBoost",
+    "masd": "SVM",
+    "variance": "Gradient Boosting"
+  },
+  "layer_totals": {
+    "Cognitive": 32.61437635943659,
+    "Stylistic": 44.24037120353667,
+    "Emotional": 23.14525243702676
+  },
+  "top_features": [
+    {
+      "feature": "Agreeableness",
+      "layer": "Cognitive",
+      "avg_importance": 25.734907109294554
+    },
+    {
+      "feature": "avg_sentence_length",
+      "layer": "Stylistic",
+      "avg_importance": 18.459306982808318
+    },
+    {
+      "feature": "num_words",
+      "layer": "Stylistic",
+      "avg_importance": 13.695819708222725
+    },
+    {
+      "feature": "vader_compound",
+      "layer": "Emotional",
+      "avg_importance": 9.859139343702267
+    },
+    {
+      "feature": "polarity",
+      "layer": "Emotional",
+      "avg_importance": 4.519003643935806
+    },
+    {
+      "feature": "Neuroticism",
+      "layer": "Cognitive",
+      "avg_importance": 4.471209489804393
+    },
+    {
+      "feature": "vader_pos",
+      "layer": "Emotional",
+      "avg_importance": 3.0668354615535685
+    },
+    {
+      "feature": "verb_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 2.7049496369344435
+    },
+    {
+      "feature": "vader_neg",
+      "layer": "Emotional",
+      "avg_importance": 2.3202539845762398
+    },
+    {
+      "feature": "content_word_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 2.290828306497129
+    },
+    {
+      "feature": "average_word_length",
+      "layer": "Stylistic",
+      "avg_importance": 1.934081438482761
+    },
+    {
+      "feature": "word_diversity",
+      "layer": "Stylistic",
+      "avg_importance": 1.875312047576277
+    },
+    {
+      "feature": "subjectivity",
+      "layer": "Emotional",
+      "avg_importance": 1.8376207332005352
+    },
+    {
+      "feature": "gunning_fog",
+      "layer": "Stylistic",
+      "avg_importance": 1.6054584855018303
+    },
+    {
+      "feature": "vader_neu",
+      "layer": "Emotional",
+      "avg_importance": 1.542399270058343
+    },
+    {
+      "feature": "function_word_ratio",
+      "layer": "Stylistic",
+      "avg_importance": 1.3851098843846041
+    },
+    {
+      "feature": "Extraversion",
+      "layer": "Cognitive",
+      "avg_importance": 1.0729488016599924
+    },
+    {
+      "feature": "Conscientiousness",
+      "layer": "Cognitive",
+      "avg_importance": 0.9138585238166155
+    },
+    {
+      "feature": "Openness",
+      "layer": "Cognitive",
+      "avg_importance": 0.42145243486103
+    },
+    {
+      "feature": "flesch_reading_ease",
+      "layer": "Stylistic",
+      "avg_importance": 0.2895047131285769
+    }
+  ]
+}
