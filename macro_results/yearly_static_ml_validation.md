@@ -19,22 +19,27 @@ same controlled classification task for every year (2020–2024) and domain.
      (exactly 1,000 docs per domain per year).  
    - LLM samples: `macro_dataset/process/LLM/<model>/LV3/<domain>/combined_outliers_removed.csv`
      (1,000 docs per domain per model per year; four models total = 4,000 LLM docs).  
-   - 每个年份的训练集约 5,000 样本（1k human + 4k LLM），保持 LV3 设定不变。
+   - Each year therefore yields roughly 5,000 training samples (1k human + 4k LLM) while
+     keeping the LV3 prompting configuration fixed.
 
 2. **Feature set**  
    - Same 20 static features used across RQ2 (Big Five + NELA + length metrics).
 
-3. **Per-year dataset构建**  
-   - each`(domain, year)`：取对应的人类行与所有四个 LLM 模型的行合并。  
-   - 若某行存在缺失特征，使用该年/领域的 **median** 进行插值，避免丢样本。  
-   - 保留 `domain`, `source`, `label` 作为分析字段，但训练时只用 20 个静态特征。
+3. **Per-year dataset construction**  
+   - For each `(domain, year)` pair, take the corresponding human rows and append rows
+     from all four LLM models.  
+   - If any row has missing features, impute with that year/domain **median** so that no
+     documents are discarded.  
+   - Keep `domain`, `source`, `label` columns for analysis, but feed only the 20 static
+     features to the classifier.
 
 4. **Model / pipeline**  
    - `StandardScaler → LogisticRegression(class_weight='balanced', max_iter=2000)`  
-   - 每个年份/领域独立做 70/30 stratified split（random_state=42），保证训练与测试互不污染。  
-   - 选用 LR 是因为：  
-     1. 系数可解释，可直接与 RQ2 的特征差异对齐；  
-     2. statsmodels 可提供 p-value，方便判断显著性。
+   - For every year/domain we run an independent 70/30 stratified split (`random_state=42`)
+     so train/test slices never leak.  
+   - Logistic Regression is chosen because:  
+     1. coefficients are interpretable and align directly with the RQ2 feature analysis;  
+     2. statsmodels gives p-values for significance testing.
 
 5. **Outputs**  
    - Accuracy & ROC AUC (`yearly_static_ml_validation_<domain>.csv`).  
@@ -87,7 +92,7 @@ For each domain we record LR coefficients per year:
 Columns: `year`, `feature`, `coefficient`, `abs_coefficient`. The features
 with largest absolute coefficients are the strongest signals for that year.
 
-### News — 前 5 个 |coef| 最大的特征
+### News — Top 5 features by |coef|
 
 | Year | Top coefficients |
 |------|------------------|
@@ -97,7 +102,7 @@ with largest absolute coefficients are the strongest signals for that year.
 | 2023 | `avg_sentence_length (3.742)`<br>`flesch_reading_ease (2.477)`<br>`gunning_fog (-2.421)`<br>`vader_compound (-2.220)`<br>`Agreeableness (1.461)` |
 | 2024 | `flesch_reading_ease (3.518)`<br>`avg_sentence_length (2.061)`<br>`gunning_fog (-1.813)`<br>`vader_compound (-1.682)`<br>`num_words (1.112)` |
 
-### Blogs — 前 5 个 |coef| 最大的特征
+### Blogs — Top 5 features by |coef|
 
 | Year | Top coefficients |
 |------|------------------|
@@ -107,7 +112,7 @@ with largest absolute coefficients are the strongest signals for that year.
 | 2023 | `flesch_reading_ease (2.687)`<br>`Openness (1.890)`<br>`Agreeableness (1.698)`<br>`avg_sentence_length (1.477)`<br>`word_diversity (-1.209)` |
 | 2024 | `Openness (1.874)`<br>`flesch_reading_ease (1.797)`<br>`Agreeableness (1.690)`<br>`vader_neu (1.237)`<br>`Neuroticism (1.128)` |
 
-### Academic — 前 5 个 |coef| 最大的特征
+### Academic — Top 5 features by |coef|
 
 | Year | Top coefficients |
 |------|------------------|
@@ -143,17 +148,20 @@ with largest absolute coefficients are the strongest signals for that year.
 | Blogs (p ≤ 0.01 features) | 14 | 10 | 13 | 14 | 13 |
 | Academic (p ≤ 0.01 features) | 9 | 9 | 6 | 9 | 10 |
 
-- **News:** 双位数特征每年都显著，依旧以长度/可读性指标 (`avg_sentence_length`,
-  `gunning_fog`, `flesch_reading_ease`, `num_words`) 为主，另有 subjectivity、
-  VADER 线索在 2023–2024 年复现。
-- **Blogs:** 每年至少 10 个特征显著，`flesch_reading_ease`、`word_diversity`、
-  `avg_sentence_length`、`num_words`、`verb_ratio` 长期维持 p ≪ 0.001，显示 Blog
-  写作的 stylistic 差异最难被抹平。
-- **Academic:** 2022 短暂降到 6 个，但 2024 回升到 10 个。`avg_sentence_length`,
-  `flesch_reading_ease`, `gunning_fog`, `subjectivity`, `num_words` 仍是主力，
-  说明 Accuracy 的下降主要来自边缘特征而非核心差异消失。
+- **News:** Each year still has double-digit significant features, dominated by
+  length/readability metrics (`avg_sentence_length`, `gunning_fog`,
+  `flesch_reading_ease`, `num_words`) with subjectivity and VADER cues reappearing
+  in 2023–2024.
+- **Blogs:** At least 10 features stay significant every year. Metrics such as
+  `flesch_reading_ease`, `word_diversity`, `avg_sentence_length`, `num_words`, and
+  `verb_ratio` remain at p ≪ 0.001, showing that stylistic differences in blogs are
+  the hardest to flatten.
+- **Academic:** The count briefly dipped to 6 in 2022 but bounced back to 10 in 2024.
+  `avg_sentence_length`, `flesch_reading_ease`, `gunning_fog`, `subjectivity`, and
+  `num_words` remain the main separators, so the small accuracy drop is driven by
+  fringe features rather than core dimensions disappearing.
 
-#### News — 前 5 个显著特征（按 p-value 排序）
+#### News — Top 5 significant features (by p-value)
 
 | Year | Top features (coef, p-value) |
 |------|------------------------------|
@@ -163,7 +171,7 @@ with largest absolute coefficients are the strongest signals for that year.
 | 2023 | `avg_sentence_length (5.166, 2.6e-20)`<br>`num_words (2.062, 1.8e-17)`<br>`gunning_fog (-3.525, 2.1e-7)`<br>`word_diversity (1.626, 2.1e-7)`<br>`Agreeableness (1.485, 1.0e-6)` |
 | 2024 | `avg_sentence_length (2.357, 2.1e-24)`<br>`num_words (1.432, 5.0e-13)`<br>`flesch_reading_ease (4.396, 7.3e-10)`<br>`vader_compound (-2.105, 1.3e-7)`<br>`gunning_fog (-2.062, 9.1e-5)` |
 
-#### Blogs — 前 5 个显著特征
+#### Blogs — Top 5 significant features
 
 | Year | Top features (coef, p-value) |
 |------|------------------------------|
@@ -173,7 +181,7 @@ with largest absolute coefficients are the strongest signals for that year.
 | 2023 | `flesch_reading_ease (2.865, 1.3e-31)`<br>`word_diversity (-1.186, 1.4e-24)`<br>`Openness (1.908, 1.1e-15)`<br>`avg_sentence_length (1.649, 4.8e-14)`<br>`num_words (-0.737, 4.8e-11)` |
 | 2024 | `flesch_reading_ease (2.055, 2.0e-16)`<br>`Openness (1.847, 2.1e-15)`<br>`word_diversity (-0.844, 4.5e-14)`<br>`vader_compound (-0.760, 5.3e-12)`<br>`Extraversion (1.112, 5.6e-11)` |
 
-#### Academic — 前 5 个显著特征
+#### Academic — Top 5 significant features
 
 | Year | Top features (coef, p-value) |
 |------|------------------------------|
@@ -187,15 +195,17 @@ with largest absolute coefficients are the strongest signals for that year.
 
 ## 4. Takeaways
 
-- 即便每个年份/领域都独立重训一次，Accuracy 依旧维持在 0.88–0.97、ROC AUC
-  在 0.95 左右 → 宏观人机差异并未被稀释。  
-- LR 系数 + p-value 让我们定位“哪些静态特征仍显著区分人机”，并追踪其随年
-  份的显著性变化，可直接绑定到 RQ2 的特征级分析。  
-- Stylistic 指标（篇幅、可读性、词汇多样度）贯穿所有年份都是主力，其次是少
-  数 Big Five（例如 Conscientiousness/Agreeableness），说明 drift 主要由
-  风格/结构维度驱动。  
-- 写作时可直接引用：“2024 Academic 中 `flesch_reading_ease` 的 p-value 仍
-  小于 1e-12，表明即便 Accuracy 略降，该维度依旧显著区分人机。”
+- Even when every year/domain is retrained independently, accuracy still stays between
+  0.88–0.97 and ROC AUC around 0.95, so macro-level human vs LLM separation is not eroding.  
+- Combining LR coefficients with p-values lets us pinpoint which static features remain
+  significant and track how their importance changes over time, tying directly to the
+  feature-level RQ2 analysis.  
+- Stylistic metrics (length, readability, lexical variety) remain the dominant signals,
+  followed by a handful of Big Five traits (e.g., Conscientiousness / Agreeableness),
+  indicating that drift is primarily driven by style/structure dimensions.  
+- Example citation: “In 2024 Academic, `flesch_reading_ease` still has p < 1e-12, which
+  shows that even though accuracy dipped slightly, that dimension continues to clearly
+  separate humans and LLMs.”
 ---
 
 ## 5. Top 10 Features by Layer
