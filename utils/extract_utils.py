@@ -38,7 +38,8 @@ def extract_keywords_summary_count(
     genre: str,
     subfield: str,
     year: int,
-    level: int = 1
+    level: int = 1,
+    identifier: str = "",
 ) -> Dict[str, Any]:
     """
     Extract 5 keywords, a one-sentence summary, and approximate word count
@@ -56,6 +57,7 @@ def extract_keywords_summary_count(
         subfield=subfield,
         year=year,
         level=level,
+        identifier=identifier,
     )
 
     # 2. Call LLM and expect JSON response

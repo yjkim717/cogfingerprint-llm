@@ -18,33 +18,36 @@ Each file produces:
 
 ```
 cogfingerprint-llm/
- ├── Datasets/
- │   ├── Human/
- │   │   ├── Academic/
- │   │   │   ├── Chem/
- │   │   │   │   └── 2021/
- │   │   │   │       └── Academic_CHEMISTRY_2021_01.txt
- │   │   ├── Blogs/
- │   │   └── News/
- │   │
- │   └── LLM/
- │       ├── Academic/
- │       │   ├── Chem/
- │       │   │   └── 2021/
- │       │   │       └── Academic_Chem_DS_2021_01.txt
- │       ├── Blogs/
- │       └── News/
+ ├── dataset/                     # Micro dataset (human + generated LLM txt)
+ │   ├── human/<genre>/<field>/...
+ │   └── llm/<model>/<level>/<genre>/...
  │
- ├── utils/
- │   ├── api_utils.py
- │   ├── extract_utils.py
- │   ├── prompt_utils.py
- │   ├── file_utils.py
- │   └── __init__.py
+ ├── dataset/process/             # Micro features & stats
+ │   ├── human/<domain>/big5.csv
+ │   ├── human/<domain>/nela_merged.csv
+ │   ├── human/<domain>/combined_merged.csv
+ │   └── LLM/<MODEL>/<LV>/<domain>/...
  │
+ ├── macro_dataset/               # Macro dataset mirrors the same structure
+ │   ├── human/<domain>/...
+ │   └── LLM/<MODEL>/<LV>/<domain>/...
+ │
+ ├── scripts/
+ │   ├── micro/                   # Micro pipelines (feature extraction, ML, binomial, etc.)
+ │   ├── macro/                   # Macro pipelines (static classification, RQ2, etc.)
+ │   ├── generation/
+ │   │   ├── micro/               # CLI entry points per genre (Academic / Blogs / News)
+ │   │   └── macro/               # Macro-level generation CLIs
+ │   ├── visualization/           # Plotting helpers
+ │   └── tools/                   # Misc utilities (e.g., quick tests)
+ │
+ ├── docs/                        # Methodology + cleanup notes
+ ├── utils/                       # Shared helpers (API, prompts, metadata parsing, etc.)
+ ├── macro_results/               # Aggregated macro experiment outputs
+ ├── micro_results/               # Aggregated micro ML/Binomial outputs
  ├── config.py
- ├── main.py
- └── test_pipeline.py
+ ├── main.py (legacy aggregator)
+ └── main_refactored.py (legacy aggregator)
 ```
 
 ---
@@ -54,7 +57,11 @@ cogfingerprint-llm/
 ```
 cogfingerprint-llm/
 │
-├── main.py                     # Entry point for multi-level extraction & generation
+├── scripts/
+│   ├── generation/micro/        # Genre-specific CLI (generate_*_cli.py)
+│   ├── generation/macro/        # Macro-level CLI (generate_macro_*_cli.py)
+│   ├── micro/                   # batch_analyze_metrics, remove_outliers, ML/Binomial, etc.
+│   └── macro/                   # analyze_macro_metrics, ml_classify_macro_static, etc.
 │
 ├── utils/
 │   ├── api_utils.py            # Unified LLM API handler (DeepSeek / Gemma / Llama / OpenRouter)
@@ -125,23 +132,85 @@ export LLM_PROVIDER="GEMMA_4B"
 
 ##  Run Pipeline
 
+1. **Generate LLM texts per genre** (micro dataset):
+   ```bash
+   # Academic / Blogs / News share the same flags (model, levels, workers, etc.)
+   python scripts/generation/micro/generate_academic_cli.py --model GEMMA_12B --levels 1 2 3
+   python scripts/generation/micro/generate_blogs_cli.py --model DEEPSEEK --levels 1
+   python scripts/generation/micro/generate_news_cli.py --model LLAMA_MAVRICK --levels 1 2 3
+   ```
+
+2. **Generate macro-level LLM texts** (macro dataset):
+   ```bash
+   python scripts/generation/macro/generate_macro_news_cli.py --model GEMMA_12B --levels 1 2 3
+   # ... similarly for Blogs / Academic
+   ```
+
+3. **Batch feature extraction (Big5 + merged NELA)**
+   ```bash
+   python scripts/micro/batch_analyze_metrics.py                 # runs across all micro domains/models/levels
+   python scripts/macro/analyze_macro_metrics.py --target llm ... # macro dataset per-domain
+   ```
+
+4. **Outlier removal → time series stats**
+   ```bash
+   python scripts/micro/remove_outliers_from_combined_merged.py --input dataset/process/LLM/G12B/LV1/news/combined_merged.csv
+   python scripts/micro/generate_timeseries_stats_from_outliers_removed.py --target llm --models G12B GEMMA_12B
+   ```
+
+5. **ML validation + Binomial tests**
+   ```bash
+   python scripts/micro/ml_classify_author_by_timeseries.py --level 1 --outliers-removed
+   python scripts/micro/binomial_test_human_vs_llm.py --level 1 --stat cv
+   ```
+
+> `main.py` / `main_refactored.py` are legacy wrappers that batch all genres/levels. Use the CLI scripts above for new runs.
+
+---
+
+## Generator CLI Usage
+
+### Micro dataset
+
+| Flag | Meaning | Default |
+|------|---------|---------|
+| `--model {DEEPSEEK,GEMMA_4B,GEMMA_12B,LLAMA_MAVRICK}` | LLM provider/model tag | value from `.env` or `DEEPSEEK` |
+| `--levels ...` | List of levels to run (space separated) | `1 2 3` |
+| `--human-dir` | Source directory (`dataset/human`) | `dataset/human` |
+| `--llm-dir` | Output directory (`dataset/llm`) | `dataset/llm` |
+| `--workers` | Concurrent worker threads | `5` |
+| `--verbose` | Show per-file progress | off |
+
+Examples:
+
 ```bash
-python main.py
+# Academic LV1-3 using Gemma 12B
+python scripts/generation/micro/generate_academic_cli.py --model GEMMA_12B --levels 1 2 3
+
+# Blogs LV1 only, verbose logging
+python scripts/generation/micro/generate_blogs_cli.py --model DEEPSEEK --levels 1 --verbose
+
+# News LV2 with more workers
+python scripts/generation/micro/generate_news_cli.py --model LLAMA_MAVRICK --levels 2 --workers 10
 ```
 
-The script:
-1. Iterates through all **Human** files  
-2. Runs extraction (keywords / summary / count) via `chat_json`  
-3. Saves JSON-parsed output  
-4. Automatically builds corresponding LLM filenames  
-5. Generates Level 1–3 texts under `/Datasets/LLM/...`
+### Macro dataset
 
-Example output:
+Macro CLIs mirror the same flags but default to `macro_dataset/human` / `macro_dataset/llm`:
+
+```bash
+python scripts/generation/macro/generate_macro_news_cli.py --model GEMMA_12B --levels 1 2 3 --workers 8
 ```
-✅ Saved Level 1 file → Academic_bio_LMK_LV1_2024_05.txt
-✅ Saved Level 2 file → Academic_bio_LMK_LV2_2024_05.txt
-✅ Saved Level 3 file → Academic_bio_LMK_LV3_2024_05.txt
+
+### Handling moderated files
+
+If Meta moderation replaced a News sample with the placeholder phrase, rerun:
+
+```bash
+python scripts/generation/micro/rerun_meta_flagged.py
 ```
+
+It reads `logs/fallback_samples.txt`, maps back to the human source, and regenerates the affected LLM outputs.
 
 ---
 
@@ -183,16 +252,33 @@ All prompt templates live in `utils/prompt_utils.py`.
 
 ## Output Naming
 
-Automatically generated filenames include:
+### Micro dataset
+
 ```
-<Genre>_<Subfield>_<ModelTag>_LV<Level>_<Year>_<Index>.txt
+<Genre>_<SUBFIELD>_<AuthorID>_<Year>_<ItemIndex>_<ModelTag>_LV<Level>.txt
 ```
 
-Example:
+- `AuthorID` is the batch portion of the human filename.
+- SUBFIELD casing: Blogs & Academic → uppercase, News → lowercase.
+- Model tags: `DS`, `G4B`, `G12B`, `LMK`.
+
+Examples:
 ```
-Academic_Bio_LMK_LV3_2021_07.txt
+Blogs_LIFESTYLE_03_2021_05_DS_LV2.txt
+News_world_01_2014_09_LMK_LV1.txt
 ```
 
+### Macro dataset
+
+```
+<Genre>_<Subfield>_<Year>_<Index>_<ModelTag>_LV<Level>.txt
+```
+
+Examples:
+```
+Academic_BIOLOGY_2023_068_G12B_LV1.txt
+News_world_2024_200_DS_LV2.txt
+```
 
 ---
 
@@ -204,9 +290,14 @@ Academic_Bio_LMK_LV3_2021_07.txt
 
 ---
 
-##  Author
+##  Authors
 
 **YeoJin Jenny Kim**  
 Graduate Researcher, Northeastern University  
- Seattle, WA  
- yejinjenny717@gmail.com  
+Seattle, WA  
+yejinjenny717@gmail.com  
+
+**Zhanwei Cao**  
+Graduate Researcher, Northeastern University  
+Seattle, WA  
+chanweicao@gmail.com  

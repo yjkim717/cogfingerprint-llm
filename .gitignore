@@ -2,6 +2,7 @@
 Datasets/
 cleaned_datasets/
 characteristic Analysis/
+macro_dataset/
 *.csv
 *.txt
 

@@ -9,6 +9,8 @@ Supports 3 extraction and generation strategies:
   Level 3 → Genre-based Persona + Example (adds few-shot examples)
 """
 
+import os
+
 
 # -------------------------------------------------------------------------
 # PERSONA TEMPLATES
@@ -86,7 +88,14 @@ def get_examples_by_genre(genre: str) -> str:
 # -------------------------------------------------------------------------
 # EXTRACTION PROMPT GENERATION (for extract_utils)
 # -------------------------------------------------------------------------
-def generate_extraction_prompts(text: str, genre: str, subfield: str, year: int, level: int = 1):
+def generate_extraction_prompts(
+    text: str,
+    genre: str,
+    subfield: str,
+    year: int,
+    level: int = 1,
+    identifier: str = "",
+):
     """
     Build (system_prompt, user_prompt) pair for keyword + summary extraction.
 
@@ -129,11 +138,18 @@ def generate_extraction_prompts(text: str, genre: str, subfield: str, year: int,
         raise ValueError(f"Unsupported level: {level}")
 
     # Shared user prompt template
+    identifier_line = f"- identifier: {identifier}\n" if identifier else ""
+    level_label = f"LV{level}"
+    model_label = os.getenv("LLM_PROVIDER", "DEEPSEEK").upper()
+
     user_prompt = f"""
 HUMAN METADATA
 - genre: {genre}
 - subfield: {subfield}
 - year: {year}
+- level: {level_label}
+- model: {model_label}
+{identifier_line}
 
 HUMAN TEXT
 \"\"\"{text.strip()}\"\"\"
