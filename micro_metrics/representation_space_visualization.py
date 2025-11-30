@@ -2,18 +2,18 @@
 """
 representation_difference_visualization.py
 ------------------------------------------------------
-Generates Human vs Provider difference-distribution plots
-for each domain × provider × method.
+Generates difference-distribution plots comparing Human vs Provider
+for each domain, provider, and method combination.
 
-- Domains: academic, blogs, news
-- Providers: DS, G12B, G4B, LMK
-- Methods: embedding, tfidf
+Domains: academic, blogs, news
+Providers: DS, G12B, G4B, LMK
+Methods: embedding, tfidf
 
-Creates TWO versions:
+Generates two versions:
   1) All levels (provider LV1–LV5)
   2) LV3 only (provider level == 3)
 
-Each plot:
+Each plot shows:
   - Human – LLM Difference Distribution
   - Red vertical line at 0 (no difference)
   - Black vertical line showing mean difference
@@ -27,7 +27,7 @@ import seaborn as sns
 
 
 # ------------------------------------------------------
-# Configurations
+# Configuration
 # ------------------------------------------------------
 DOMAINS = ["academic", "blogs", "news"]
 PROVIDERS = ["DS", "G12B", "G4B", "LMK"]
@@ -38,7 +38,7 @@ OUTPUT_ROOT = "dataset/process/representation_visualization_diff"
 
 
 # ------------------------------------------------------
-# Create diff-distribution plot
+# Difference distribution plot
 # ------------------------------------------------------
 def plot_difference_distribution(df, provider, domain, method, lv3=False):
     # Human data
@@ -54,13 +54,13 @@ def plot_difference_distribution(df, provider, domain, method, lv3=False):
                     (df["provider"] == provider)]
 
     if human_df.empty or llm_df.empty:
-        print(f"⚠️ Skipping: No data for {domain}/{provider}/{method} (lv3={lv3})")
+        print(f"Skipping: No data for {domain}/{provider}/{method} (lv3={lv3})")
         return
 
     # Compute all pairwise differences (Human – Provider)
     diffs = []
-    for h in human_df["mean_distance"]:
-        for l in llm_df["mean_distance"]:
+    for h in human_df["mean_yearly_distance"]:
+        for l in llm_df["mean_yearly_distance"]:
             diffs.append(h - l)
 
     diffs = pd.Series(diffs)
@@ -99,7 +99,7 @@ def plot_difference_distribution(df, provider, domain, method, lv3=False):
     plt.savefig(out_path, dpi=300, bbox_inches="tight")
     plt.close()
 
-    print(f"✅ Saved: {out_path}")
+    print(f"Saved: {out_path}")
 
 
 # ------------------------------------------------------
@@ -108,13 +108,13 @@ def plot_difference_distribution(df, provider, domain, method, lv3=False):
 def load_distance_csv(domain, method):
     path = os.path.join(INPUT_ROOT, f"{domain}_{method}_euclid.csv")
     if not os.path.exists(path):
-        print(f"⚠ Missing file: {path}")
+        print(f"Missing file: {path}")
         return None
     return pd.read_csv(path)
 
 
 # ------------------------------------------------------
-# Main runner
+# Main
 # ------------------------------------------------------
 def main():
     for domain in DOMAINS:
@@ -123,24 +123,24 @@ def main():
             if df is None:
                 continue
 
-            # Needed columns check
-            needed = {"label", "provider", "level", "mean_distance"}
+            # Check required columns
+            needed = {"label", "provider", "level", "mean_yearly_distance"}
             if not needed.issubset(df.columns):
-                print(f"⚠ Missing required columns in {domain}/{method}")
+                print(f"Missing required columns in {domain}/{method}")
                 continue
 
             for provider in PROVIDERS:
-                # 1) All Levels
+                # All levels
                 plot_difference_distribution(
                     df, provider, domain, method, lv3=False
                 )
 
-                # 2) LV3 Only
+                # LV3 only
                 plot_difference_distribution(
                     df, provider, domain, method, lv3=True
                 )
 
-    print("\n🎉 All difference-distribution plots generated successfully!")
+    print("\nAll difference-distribution plots generated.")
 
 
 if __name__ == "__main__":
