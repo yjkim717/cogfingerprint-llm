@@ -1,0 +1,404 @@
+{
+  "settings": {
+    "feature_set": "all_features",
+    "domain": "all",
+    "level": "LV3",
+    "feature_count": 414
+  },
+  "yearly_results": [
+    {
+      "year": 2020,
+      "domain": "academic",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9706666666666667,
+      "test_roc_auc": 0.9947472222222222,
+      "cv_mean_accuracy": 0.9708571428571429,
+      "cv_std_accuracy": 0.006916410535377261,
+      "confusion_matrix": [
+        [
+          287,
+          13
+        ],
+        [
+          31,
+          1169
+        ]
+      ]
+    },
+    {
+      "year": 2021,
+      "domain": "academic",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.96,
+      "test_roc_auc": 0.9909583333333334,
+      "cv_mean_accuracy": 0.9694285714285714,
+      "cv_std_accuracy": 0.0066761836831702405,
+      "confusion_matrix": [
+        [
+          266,
+          34
+        ],
+        [
+          26,
+          1174
+        ]
+      ]
+    },
+    {
+      "year": 2022,
+      "domain": "academic",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.97,
+      "test_roc_auc": 0.9912083333333332,
+      "cv_mean_accuracy": 0.9662857142857144,
+      "cv_std_accuracy": 0.006797358430497298,
+      "confusion_matrix": [
+        [
+          278,
+          22
+        ],
+        [
+          23,
+          1177
+        ]
+      ]
+    },
+    {
+      "year": 2023,
+      "domain": "academic",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9753333333333334,
+      "test_roc_auc": 0.9904944444444446,
+      "cv_mean_accuracy": 0.9702857142857143,
+      "cv_std_accuracy": 0.00472941295921336,
+      "confusion_matrix": [
+        [
+          278,
+          22
+        ],
+        [
+          15,
+          1185
+        ]
+      ]
+    },
+    {
+      "year": 2024,
+      "domain": "academic",
+      "train_samples": 3499,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 3999,
+      "test_accuracy": 0.958,
+      "test_roc_auc": 0.9868777777777777,
+      "cv_mean_accuracy": 0.9637003883098304,
+      "cv_std_accuracy": 0.009562650911155936,
+      "confusion_matrix": [
+        [
+          273,
+          27
+        ],
+        [
+          36,
+          1164
+        ]
+      ]
+    },
+    {
+      "year": 2020,
+      "domain": "blogs",
+      "train_samples": 3499,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 3999,
+      "test_accuracy": 0.9873333333333333,
+      "test_roc_auc": 0.9982777777777778,
+      "cv_mean_accuracy": 0.9879975475168609,
+      "cv_std_accuracy": 0.002317533631577956,
+      "confusion_matrix": [
+        [
+          290,
+          10
+        ],
+        [
+          9,
+          1191
+        ]
+      ]
+    },
+    {
+      "year": 2021,
+      "domain": "blogs",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9866666666666667,
+      "test_roc_auc": 0.9978833333333333,
+      "cv_mean_accuracy": 0.9811428571428571,
+      "cv_std_accuracy": 0.00481494272752934,
+      "confusion_matrix": [
+        [
+          290,
+          10
+        ],
+        [
+          10,
+          1190
+        ]
+      ]
+    },
+    {
+      "year": 2022,
+      "domain": "blogs",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.992,
+      "test_roc_auc": 0.9991944444444445,
+      "cv_mean_accuracy": 0.9865714285714287,
+      "cv_std_accuracy": 0.003452298849598446,
+      "confusion_matrix": [
+        [
+          295,
+          5
+        ],
+        [
+          7,
+          1193
+        ]
+      ]
+    },
+    {
+      "year": 2023,
+      "domain": "blogs",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9873333333333333,
+      "test_roc_auc": 0.9990777777777777,
+      "cv_mean_accuracy": 0.9854285714285714,
+      "cv_std_accuracy": 0.0038756171332144317,
+      "confusion_matrix": [
+        [
+          292,
+          8
+        ],
+        [
+          11,
+          1189
+        ]
+      ]
+    },
+    {
+      "year": 2024,
+      "domain": "blogs",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9846666666666667,
+      "test_roc_auc": 0.9979416666666666,
+      "cv_mean_accuracy": 0.9882857142857142,
+      "cv_std_accuracy": 0.0013997084244475471,
+      "confusion_matrix": [
+        [
+          288,
+          12
+        ],
+        [
+          11,
+          1189
+        ]
+      ]
+    },
+    {
+      "year": 2020,
+      "domain": "news",
+      "train_samples": 3499,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 3999,
+      "test_accuracy": 0.9946666666666667,
+      "test_roc_auc": 0.9997083333333333,
+      "cv_mean_accuracy": 0.9891420396484774,
+      "cv_std_accuracy": 0.004914284085117069,
+      "confusion_matrix": [
+        [
+          297,
+          3
+        ],
+        [
+          5,
+          1195
+        ]
+      ]
+    },
+    {
+      "year": 2021,
+      "domain": "news",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9953333333333333,
+      "test_roc_auc": 0.99975,
+      "cv_mean_accuracy": 0.9928571428571427,
+      "cv_std_accuracy": 0.0038332593899996193,
+      "confusion_matrix": [
+        [
+          296,
+          4
+        ],
+        [
+          3,
+          1197
+        ]
+      ]
+    },
+    {
+      "year": 2022,
+      "domain": "news",
+      "train_samples": 3499,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 3999,
+      "test_accuracy": 0.9926666666666667,
+      "test_roc_auc": 0.99965,
+      "cv_mean_accuracy": 0.9894257101982424,
+      "cv_std_accuracy": 0.0019369731050929253,
+      "confusion_matrix": [
+        [
+          295,
+          5
+        ],
+        [
+          6,
+          1194
+        ]
+      ]
+    },
+    {
+      "year": 2023,
+      "domain": "news",
+      "train_samples": 3499,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 3999,
+      "test_accuracy": 0.9893333333333333,
+      "test_roc_auc": 0.9989027777777778,
+      "cv_mean_accuracy": 0.9882828530553853,
+      "cv_std_accuracy": 0.0027683374436210375,
+      "confusion_matrix": [
+        [
+          291,
+          9
+        ],
+        [
+          7,
+          1193
+        ]
+      ]
+    },
+    {
+      "year": 2024,
+      "domain": "news",
+      "train_samples": 3500,
+      "test_samples": 1500,
+      "human_samples": 1000,
+      "llm_samples": 4000,
+      "test_accuracy": 0.9873333333333333,
+      "test_roc_auc": 0.9967888888888888,
+      "cv_mean_accuracy": 0.9800000000000001,
+      "cv_std_accuracy": 0.003725258517258667,
+      "confusion_matrix": [
+        [
+          291,
+          9
+        ],
+        [
+          10,
+          1190
+        ]
+      ]
+    }
+  ],
+  "trend_analysis": {
+    "overall": {
+      "trend": "decreasing",
+      "slope": -0.0011777777777778,
+      "intercept": 3.3635555555556,
+      "correlation": -0.5405912208698628,
+      "p_value": 0.3468719042188232,
+      "std_err": 0.0010582227511004108,
+      "yearly_accuracies": {
+        "2020": 0.9842222222222222,
+        "2021": 0.9806666666666667,
+        "2022": 0.9848888888888889,
+        "2023": 0.984,
+        "2024": 0.9766666666666666
+      }
+    },
+    "by_domain": {
+      "academic": {
+        "trend": "decreasing",
+        "slope": -0.0010000000000000009,
+        "intercept": 2.988800000000002,
+        "correlation": -0.2123870519207239,
+        "p_value": 0.7316274154567399,
+        "std_err": 0.0026563690060487383,
+        "yearly_accuracies": {
+          "2020": 0.9706666666666667,
+          "2021": 0.96,
+          "2022": 0.97,
+          "2023": 0.9753333333333334,
+          "2024": 0.958
+        }
+      },
+      "blogs": {
+        "trend": "decreasing",
+        "slope": -0.0004666666666666597,
+        "intercept": 1.9311999999999863,
+        "correlation": -0.2741411574957819,
+        "p_value": 0.6553753110599354,
+        "std_err": 0.0009451631252505194,
+        "yearly_accuracies": {
+          "2020": 0.9873333333333333,
+          "2021": 0.9866666666666667,
+          "2022": 0.992,
+          "2023": 0.9873333333333333,
+          "2024": 0.9846666666666667
+        }
+      },
+      "news": {
+        "trend": "decreasing",
+        "slope": -0.0020666666666666832,
+        "intercept": 5.1706666666667,
+        "correlation": -0.9485845951112634,
+        "p_value": 0.01388659271809528,
+        "std_err": 0.0003981438414926403,
+        "yearly_accuracies": {
+          "2020": 0.9946666666666667,
+          "2021": 0.9953333333333333,
+          "2022": 0.9926666666666667,
+          "2023": 0.9893333333333333,
+          "2024": 0.9873333333333333
+        }
+      }
+    }
+  }
+}

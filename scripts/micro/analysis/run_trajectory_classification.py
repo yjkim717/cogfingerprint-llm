@@ -40,6 +40,13 @@ METADATA_COLS = {
     "model",
 }
 
+# ---------------------------------------------------------------------------
+# Feature groups
+# ---------------------------------------------------------------------------
+# CE-VAR: ONLY normalized variability metrics for CE features
+#         - coefficient of variation (_cv)
+#         - normalized RMSSD (_rmssd_norm)
+#         - normalized MASD (_masd_norm)
 VAR_SUFFIXES = ("_cv", "_rmssd_norm", "_masd_norm")
 GEOMETRY_PREFIXES = ("ce_", "tfidf_", "sbert_")
 GEOMETRY_METRICS = (
@@ -48,7 +55,7 @@ GEOMETRY_METRICS = (
     "net_displacement",
     "path_length",
     "tortuosity",
-    "direction_consistency",
+    # "direction_consistency",  # Excluded for this experiment
 )
 
 
@@ -102,18 +109,26 @@ def geometry_columns(df: pd.DataFrame, spaces: List[str]) -> Dict[str, List[str]
 
 
 def select_feature_sets(df: pd.DataFrame, geometry_spaces: List[str]) -> Dict[str, pd.DataFrame]:
-    # CE variability: only CV / RMSSD_norm / MASD_norm columns (matching older baseline)
+    """
+    Build feature sets for:
+      1) CE-VAR       : normalized CE variability metrics (CV, RMSSD_norm, MASD_norm)
+      2) geometry_all : CE/TFIDF/SBERT geometry metrics (5 per space, no direction_consistency)
+      3) unified      : CE-VAR + all geometry metrics (no n_years columns)
+      4) ce_geometry  : CE geometry only
+      5) tfidf_geometry / sbert_geometry : per-space geometry
+    """
+    # CE variability: ONLY CV / RMSSD_norm / MASD_norm columns
     variability_cols = [
         col
         for col in df.columns
         if col not in METADATA_COLS and any(col.endswith(suffix) for suffix in VAR_SUFFIXES)
     ]
 
-    # Geometry: CE/TF-IDF/SBERT mean/std + D/L/τ/C (excludes n_years)
+    # Geometry: CE/TF-IDF/SBERT mean/std + D/L/τ (excludes n_years & direction_consistency)
     geom_cols = geometry_columns(df, geometry_spaces + ["all"])
 
-    numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
-    unified_cols = [c for c in numeric_cols if c not in {"author_id", "sample_count"}]
+    # Unified = CE-VAR + all geometry metrics (no n_years, no direction_consistency)
+    unified_cols = sorted(set(variability_cols + geom_cols["all"]))
 
     feature_sets: Dict[str, pd.DataFrame] = {
         "variability": df[variability_cols].fillna(0.0),

@@ -6,6 +6,12 @@ macro_dataset/
 *.csv
 *.txt
 
+# Allow essential ML CSV artifacts
+!dataset/process/**/trajectory_features_combined.csv
+!plots/trajectory/combined/
+!plots/trajectory/combined/classification_results_academic_blogs_news_LV3.csv
+!plots/trajectory/combined/feature_set_comparison_academic_blogs_news_LV3.csv
+
 # Ignore virtual environment
 .venv/
 venv/
