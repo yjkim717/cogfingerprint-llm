@@ -14,6 +14,16 @@ Each file produces:
 
 ---
 
+## Research Questions
+
+This project addresses two main research questions:
+
+- **RQ1 (Micro-level)**: How do human authors and LLMs differ in their cognitive trajectories at the individual author level? We analyze trajectory features (variability + geometry) across multiple representation spaces (CE, TF-IDF, SBERT) to identify systematic differences.
+
+- **RQ2 (Macro-level)**: How do human and LLM trajectories differ at the domain level over time? We examine temporal drift patterns, between-source distances, and convergence/divergence trends from 2020-2024.
+
+---
+
 ## Dataset Structure
 
 ```
@@ -49,6 +59,21 @@ cogfingerprint-llm/
  ├── main.py (legacy aggregator)
  └── main_refactored.py (legacy aggregator)
 ```
+
+---
+
+## Dataset Scale
+
+- **Micro Dataset**: ~6,000 samples total
+  - Academic: ~500 samples
+  - Blogs: ~1,900 samples  
+  - News: ~3,700 samples
+  - Each sample has corresponding LLM-generated texts (4 models × 3 levels = 12 variants per human text)
+
+- **Macro Dataset**: Domain-level aggregation
+  - Each domain treated as a "big author"
+  - ~1,000 samples per year per domain
+  - Temporal analysis across 2020-2024
 
 ---
 
@@ -109,6 +134,34 @@ export LLM_PROVIDER="GEMMA_4B"
 
 ---
 
+## Feature Extraction
+
+The pipeline extracts three types of features:
+
+### 1. Static Features (414 total)
+- **CE Features (20)**: Big5 personality traits, sentiment (VADER), readability (Flesch, Gunning Fog), lexical statistics
+- **TF-IDF Features (10)**: SVD-reduced TF-IDF vectors (max_features=20,000 → 10 dims)
+- **SBERT Features (384)**: Semantic embeddings using `all-MiniLM-L6-v2`
+
+### 2. Trajectory Features (75 unified features)
+Trajectory features capture temporal patterns in author writing:
+
+- **CE Variability (60 features)**: For each of 20 CE features, compute 3 variability metrics:
+  - `_cv`: Coefficient of Variation
+  - `_rmssd_norm`: Normalized Root Mean Square of Successive Differences
+  - `_masd_norm`: Normalized Mean Absolute Successive Difference
+
+- **Geometry Features (15 features)**: For CE, TF-IDF, and SBERT spaces (5 each):
+  - `mean_distance`: Average yearly step distance
+  - `std_distance`: Standard deviation of distances
+  - `net_displacement`: Total displacement from first to last year
+  - `path_length`: Cumulative path length
+  - `tortuosity`: Path length / net displacement
+
+These 75 unified trajectory features form the basis for RQ1 analysis.
+
+---
+
 ##  Extraction Levels
 
 | Level | Description | Prompt Style |
@@ -146,25 +199,122 @@ export LLM_PROVIDER="GEMMA_4B"
    # ... similarly for Blogs / Academic
    ```
 
-3. **Batch feature extraction (Big5 + merged NELA)**
+3. **Batch feature extraction (CE features: Big5 + NELA)**
    ```bash
    python scripts/micro/batch_analyze_metrics.py                 # runs across all micro domains/models/levels
    python scripts/macro/analyze_macro_metrics.py --target llm ... # macro dataset per-domain
    ```
 
-4. **Outlier removal → time series stats**
+4. **Extract TF-IDF and SBERT embeddings**
+   ```bash
+   python scripts/micro/tfidf/extract_tfidf_vectors.py            # per-sample TF-IDF vectors
+   python scripts/micro/sbert/extract_sbert_vectors.py           # per-sample SBERT vectors
+   python scripts/micro/tfidf/aggregate_tfidf_yearly.py          # aggregate to author-year level
+   python scripts/micro/sbert/aggregate_sbert_yearly.py          # aggregate to author-year level
+   ```
+
+5. **Outlier removal → time series stats**
    ```bash
    python scripts/micro/remove_outliers_from_combined_merged.py --input dataset/process/LLM/G12B/LV1/news/combined_merged.csv
    python scripts/micro/generate_timeseries_stats_from_outliers_removed.py --target llm --models G12B GEMMA_12B
    ```
 
-5. **ML validation + Binomial tests**
+6. **Compute trajectory features (RQ1)**
    ```bash
-   python scripts/micro/ml_classify_author_by_timeseries.py --level 1 --outliers-removed
-   python scripts/micro/binomial_test_human_vs_llm.py --level 1 --stat cv
+   # Micro-level trajectory features
+   python scripts/micro/trajectory/compute_ce_trajectory_features.py
+   python scripts/micro/trajectory/compute_embedding_trajectory_features.py
+   python scripts/micro/trajectory/build_combined_trajectory_features.py
+   
+   # Macro-level trajectory features (RQ2)
+   python scripts/macro/trajectory/compute_macro_trajectory_features.py --level LV3
+   ```
+
+7. **ML validation + Statistical tests**
+   ```bash
+   # Static feature classification
+   python scripts/micro/ml_classify_micro_static_by_level.py --levels LV1 LV2 LV3
+   
+   # Trajectory feature classification
+   python scripts/micro/analysis/run_trajectory_classification.py
+   
+   # Binomial tests
+   python scripts/micro/binomial_test_trajectory_features.py --level LV3
+   python scripts/micro/binomial_test_representation_pipeline.py --level LV3
+   ```
+
+8. **RQ2 Macro analysis**
+   ```bash
+   # Yearly ML validation
+   python scripts/macro/ml_classify_macro_yearly_rq2.py
+   
+   # Trajectory drift analysis
+   python scripts/macro/analyze_rq2_macro_trajectory.py
+   
+   # Feature convergence analysis
+   python scripts/macro/analyze_ce_feature_convergence.py
    ```
 
 > `main.py` / `main_refactored.py` are legacy wrappers that batch all genres/levels. Use the CLI scripts above for new runs.
+
+---
+
+## Analysis Methods
+
+### Static Feature Analysis
+- **ML Classification**: Binary Human vs LLM classification using 414 static features (CE + TF-IDF + SBERT)
+- **Feature Importance**: Identify most discriminative features across levels (LV1-LV3)
+- **Per-Level Comparison**: Evaluate classification performance separately for each level
+
+### Trajectory Feature Analysis (RQ1)
+- **Trajectory Completeness**: Analyze whether multiple representation spaces (CE/TF-IDF/SBERT) are necessary
+- **Binomial Tests**: Systematic comparison of Human vs LLM trajectory features
+  - Tests whether Human values are significantly higher than LLM values
+  - Per-feature and per-feature-group analysis
+- **Trajectory Classification**: ML classification using 75 unified trajectory features
+- **Visualization**: PCA, feature importance plots, per-feature binomial test results
+
+### Macro-Level Analysis (RQ2)
+- **Within-Source Drift**: Measure temporal stability of Human and LLM trajectories
+- **Between-Source Distance**: Track Human-LLM separation over time (2020-2024)
+- **Yearly ML Validation**: Evaluate classification performance per year
+- **Feature Convergence**: Analyze whether Human and LLM features converge over time
+- **Trajectory Visualization**: Drift comparison plots, distance trends, convergence analysis
+
+---
+
+## Results & Outputs
+
+### Micro Results (`micro_results/`)
+- **`binomial/`**: Binomial test results for trajectory features and representation pipeline features
+  - Per-level results (LV1, LV2, LV3)
+  - Detailed comparisons and summary statistics
+- **`ml/`**: ML classification results
+  - Feature importance rankings
+  - Classification performance metrics (accuracy, ROC-AUC, F1)
+  - Logistic regression p-values
+- **`micro_static_ml_by_level/`**: Static feature ML validation by level
+  - Results summary with per-level and per-domain breakdowns
+
+### Macro Results (`macro_results/`)
+- **`rq2_macro_trajectory/`**: Macro trajectory analysis results
+  - `within_source_drift.csv`: Human and LLM drift over time
+  - `between_source_distance.csv`: Human-LLM separation trends
+- **`rq2_yearly_ml_validation/`**: Yearly classification performance
+  - Results for all features and CE-only features
+- **`rq2_ce_feature_convergence/`**: Feature convergence analysis
+  - Convergence metrics per domain and overall
+- **`yearly_static_ml_validation*.csv`**: Yearly static feature classification results
+- **`feature_importance_*.csv`**: Feature importance rankings by level
+
+### Visualization Outputs (`plots/`)
+- **`trajectory/`**: Trajectory feature visualizations
+  - PCA plots, feature importance, binomial test results
+- **`macro/`**: Macro-level analysis plots
+  - Trajectory features by model, drift comparisons
+- **`rq2_macro_trajectory/`**: RQ2 trajectory analysis plots
+  - Within-source drift, between-source distance, combined summaries
+- **`rq2_yearly_ml_validation/`**: Yearly validation plots
 
 ---
 
