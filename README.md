@@ -2,6 +2,19 @@
 **Cognitive Fingerprinting Dataset Generator — Multi-Level Human→LLM Parallel Text Pipeline**
 
 ## Overview
+
+### Project Overview Video
+
+[![Project Overview Video](https://img.youtube.com/vi/WxAqoJS3dLU/0.jpg)](https://www.youtube.com/watch?v=WxAqoJS3dLU)
+
+*Click the image above to watch the project overview video on YouTube.*
+
+### Research Poster
+
+![Research Poster](poster_board.png)
+
+*Research poster: "Beyond LLMs: Cognitive-Emotional Trajectories of Human vs. Machine Authorship"*
+
 This repository builds a **3-Level LLM dataset pipeline** that mirrors human cognitive trajectories in text writing.  
 For each *Human* text (Academic / Blogs / News), the pipeline generates **Level 1–3 LLM counterparts** using  
 incremental prompt guidance (zero-shot → persona → persona + few-shot examples).
