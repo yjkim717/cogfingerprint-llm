@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 import seaborn as sns
 
@@ -77,6 +78,95 @@ def plot_yearly_trends(ce_df: pd.DataFrame, all_df: pd.DataFrame, output_dir: Pa
     output_path.parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
     print(f"✅ Saved plot to {output_path}")
+    plt.close()
+
+
+def plot_yearly_trends_combined(ce_df: pd.DataFrame, all_df: pd.DataFrame, output_dir: Path) -> None:
+    """Plot accuracy trends over years for all domains in a single figure (414 features only) with line and bar charts."""
+    sns.set_style("whitegrid")
+    # Create figure with two subplots: line chart and bar chart
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(20, 14))
+    domains = ["academic", "blogs", "news"]
+    
+    # Color scheme for domains
+    domain_colors = {
+        "academic": "#3498db",  # Blue
+        "blogs": "#e74c3c",     # Red
+        "news": "#2ecc71",       # Green
+    }
+    
+    # Get all years
+    all_years = sorted(all_df["year"].unique())
+    
+    # ===== Top subplot: Line chart =====
+    for domain in domains:
+        all_domain = all_df[all_df["domain"] == domain].sort_values("year")
+        if len(all_domain) > 0:
+            ax1.plot(all_domain["year"], all_domain["test_accuracy"], 
+                    marker="s", linestyle="-", linewidth=4, markersize=14,
+                    label=f"{domain.upper()}",
+                    color=domain_colors[domain], alpha=0.9)
+    
+    ax1.set_xlabel("Year", fontsize=18, fontweight="bold")
+    ax1.set_ylabel("Test Accuracy", fontsize=18, fontweight="bold")
+    ax1.set_title("RQ2 Yearly ML Validation: Accuracy Trends by Domain (414 Static Features) - Line Chart", 
+                fontsize=20, fontweight="bold", pad=20)
+    ax1.legend(fontsize=16, loc="best", framealpha=0.9)
+    ax1.grid(True, alpha=0.3, linestyle="--", linewidth=1.5)
+    ax1.set_ylim([0.85, 1.0])
+    ax1.tick_params(axis='both', which='major', labelsize=14)
+    
+    # ===== Bottom subplot: Bar chart grouped by domain =====
+    x = np.arange(len(domains))
+    width = 0.15  # Width of bars (smaller since we have more bars per group)
+    
+    # Prepare data: for each domain, get all years' accuracies
+    domain_data = {}
+    for domain in domains:
+        all_domain = all_df[all_df["domain"] == domain].sort_values("year")
+        if len(all_domain) > 0:
+            values = []
+            for year in all_years:
+                year_data = all_domain[all_domain["year"] == year]
+                if len(year_data) > 0:
+                    values.append(year_data["test_accuracy"].values[0])
+                else:
+                    values.append(0)
+            domain_data[domain] = values
+    
+    # Plot bars: each domain is a group, each year is a bar within the group
+    for i, year in enumerate(all_years):
+        year_int = int(year)
+        offset = (i - len(all_years) / 2 + 0.5) * width
+        
+        for j, domain in enumerate(domains):
+            if domain in domain_data and domain_data[domain][i] > 0:
+                val = domain_data[domain][i]
+                bars = ax2.bar(x[j] + offset, val, width,
+                              label=f"{year_int}" if j == 0 else "",
+                              color=domain_colors[domain], alpha=0.7 - i * 0.1,
+                              edgecolor="black", linewidth=1.5)
+                
+                # Add value labels on bars
+                ax2.text(x[j] + offset, val + 0.005, f"{val:.3f}",
+                       ha="center", va="bottom", fontsize=10, fontweight="bold")
+    
+    ax2.set_xlabel("Domain", fontsize=18, fontweight="bold")
+    ax2.set_ylabel("Test Accuracy", fontsize=18, fontweight="bold")
+    ax2.set_title("RQ2 Yearly ML Validation: Accuracy by Domain (414 Static Features) - Bar Chart", 
+                fontsize=20, fontweight="bold", pad=20)
+    ax2.set_xticks(x)
+    ax2.set_xticklabels([d.upper() for d in domains], fontsize=14)
+    ax2.legend(fontsize=14, loc="best", framealpha=0.9, title="Year", title_fontsize=14)
+    ax2.grid(True, alpha=0.3, linestyle="--", linewidth=1.5, axis="y")
+    ax2.set_ylim([0.85, 1.0])
+    ax2.tick_params(axis='both', which='major', labelsize=14)
+    
+    plt.tight_layout()
+    output_path = output_dir / "yearly_accuracy_trends_combined.png"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    plt.savefig(output_path, dpi=300, bbox_inches="tight")
+    print(f"✅ Saved combined plot to {output_path}")
     plt.close()
 
 
@@ -152,6 +242,7 @@ def main() -> None:
     # Create visualizations
     print("\nCreating visualizations...")
     plot_yearly_trends(ce_df, all_df, OUTPUT_DIR)
+    plot_yearly_trends_combined(ce_df, all_df, OUTPUT_DIR)
     plot_comparison_table(ce_df, all_df, OUTPUT_DIR)
     
     print("\n✅ All visualizations created!")

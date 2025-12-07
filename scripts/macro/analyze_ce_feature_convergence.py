@@ -62,25 +62,49 @@ def parse_year_from_filename(filename: str) -> Optional[int]:
     return None
 
 
-def load_data(domain: str) -> pd.DataFrame:
-    """Load all data for a domain."""
+def load_data(domain: str, model_filter: Optional[str] = None) -> pd.DataFrame:
+    """Load all data for a domain, optionally filtered by model."""
     frames = []
     
-    # Load human
-    human_path = HUMAN_BASE / domain / "combined_with_embeddings.csv"
+    # Load human - try combined.csv first, then combined_with_embeddings.csv
+    human_path = HUMAN_BASE / domain / "combined.csv"
+    if not human_path.exists():
+        human_path = HUMAN_BASE / domain / "combined_with_embeddings.csv"
+    
     if human_path.exists():
         df_human = pd.read_csv(human_path)
-        df_human["year"] = df_human["filename"].apply(parse_year_from_filename)
+        # Parse year from filename if column exists, otherwise try year column
+        if "filename" in df_human.columns:
+            df_human["year"] = df_human["filename"].apply(parse_year_from_filename)
+        elif "year" not in df_human.columns:
+            # Try to extract from path or other columns
+            print(f"⚠️  Warning: No 'filename' or 'year' column in {human_path}")
+            df_human["year"] = None
+        
         df_human["label"] = "human"
+        df_human["model"] = "HUMAN"
         frames.append(df_human)
     
-    # Load LLM
-    for model in LLM_MODELS:
-        llm_path = LLM_BASE / model / LEVEL / domain / "combined_with_embeddings.csv"
+    # Load LLM - try combined.csv first, then combined_outliers_removed.csv, then combined_with_embeddings.csv
+    models_to_load = [model_filter] if model_filter else LLM_MODELS
+    for model in models_to_load:
+        llm_path = LLM_BASE / model / LEVEL / domain / "combined.csv"
+        if not llm_path.exists():
+            llm_path = LLM_BASE / model / LEVEL / domain / "combined_outliers_removed.csv"
+        if not llm_path.exists():
+            llm_path = LLM_BASE / model / LEVEL / domain / "combined_with_embeddings.csv"
+        
         if llm_path.exists():
             df_llm = pd.read_csv(llm_path)
-            df_llm["year"] = df_llm["filename"].apply(parse_year_from_filename)
+            # Parse year from filename if column exists
+            if "filename" in df_llm.columns:
+                df_llm["year"] = df_llm["filename"].apply(parse_year_from_filename)
+            elif "year" not in df_llm.columns:
+                print(f"⚠️  Warning: No 'filename' or 'year' column in {llm_path}")
+                df_llm["year"] = None
+            
             df_llm["label"] = "llm"
+            df_llm["model"] = model
             frames.append(df_llm)
     
     if not frames:
@@ -104,7 +128,7 @@ def cohens_d(group1: np.ndarray, group2: np.ndarray) -> float:
     return (mean1 - mean2) / pooled_std
 
 
-def analyze_feature_convergence(df: pd.DataFrame, feature: str, domain: str) -> dict:
+def analyze_feature_convergence(df: pd.DataFrame, feature: str, domain: str, model: Optional[str] = None) -> dict:
     """Analyze convergence trend for a single feature."""
     if feature not in df.columns:
         return None
@@ -116,7 +140,12 @@ def analyze_feature_convergence(df: pd.DataFrame, feature: str, domain: str) -> 
         year_df = df[df["year"] == year].copy()
         
         human_vals = year_df[year_df["label"] == "human"][feature].dropna().values
-        llm_vals = year_df[year_df["label"] == "llm"][feature].dropna().values
+        
+        # Filter LLM by model if specified
+        llm_df_filtered = year_df[year_df["label"] == "llm"]
+        if model and "model" in llm_df_filtered.columns:
+            llm_df_filtered = llm_df_filtered[llm_df_filtered["model"] == model]
+        llm_vals = llm_df_filtered[feature].dropna().values
         
         if len(human_vals) == 0 or len(llm_vals) == 0:
             continue
@@ -175,6 +204,7 @@ def analyze_feature_convergence(df: pd.DataFrame, feature: str, domain: str) -> 
     return {
         "feature": feature,
         "domain": domain,
+        "model": model or "all",
         "yearly_stats": yearly_stats,
         "trend_analysis": {
             "mean_difference": {
@@ -206,6 +236,12 @@ def main() -> None:
         help="Domain to analyze (default: all).",
     )
     parser.add_argument(
+        "--model",
+        choices=LLM_MODELS + ["all"],
+        default="all",
+        help="LLM model to analyze (default: all).",
+    )
+    parser.add_argument(
         "--output",
         type=Path,
         help="Output JSON file path (default: auto-generated).",
@@ -215,39 +251,42 @@ def main() -> None:
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
     domains_to_process = DOMAINS if args.domain == "all" else [args.domain]
+    models_to_process = LLM_MODELS if args.model == "all" else [args.model]
     all_results = []
 
     for domain in domains_to_process:
-        print(f"\n{'='*70}")
-        print(f"Analyzing {domain.upper()}")
-        print(f"{'='*70}")
-        
-        df = load_data(domain)
-        if df.empty:
-            print(f"⚠️  No data loaded for {domain}")
-            continue
-        
-        print(f"Loaded {len(df)} samples")
-        print(f"Years: {sorted(df['year'].unique())}")
-        
-        for feature in CE_FEATURES:
-            result = analyze_feature_convergence(df, feature, domain)
-            if result:
-                all_results.append(result)
-                
-                trend_info = result["trend_analysis"]["mean_difference"]
-                trend_d = result["trend_analysis"]["cohens_d"]
-                
-                sig_marker = "***" if trend_info["significant"] else "**" if trend_info["p_value"] < 0.1 else ""
-                print(f"{feature:25s} | {trend_info['trend']:12s} | "
-                      f"slope={trend_info['slope']:8.6f} | "
-                      f"r={trend_info['correlation']:6.3f} | "
-                      f"p={trend_info['p_value']:.4f} {sig_marker}")
+        for model in models_to_process:
+            print(f"\n{'='*70}")
+            print(f"Analyzing {domain.upper()} - Model: {model if model != 'all' else 'ALL'}")
+            print(f"{'='*70}")
+            
+            df = load_data(domain, model_filter=model if model != "all" else None)
+            if df.empty:
+                print(f"⚠️  No data loaded for {domain} - {model}")
+                continue
+            
+            print(f"Loaded {len(df)} samples")
+            print(f"Years: {sorted(df['year'].unique())}")
+            
+            for feature in CE_FEATURES:
+                result = analyze_feature_convergence(df, feature, domain, model=model if model != "all" else None)
+                if result:
+                    all_results.append(result)
+                    
+                    trend_info = result["trend_analysis"]["mean_difference"]
+                    trend_d = result["trend_analysis"]["cohens_d"]
+                    
+                    sig_marker = "***" if trend_info["significant"] else "**" if trend_info["p_value"] < 0.1 else ""
+                    print(f"{feature:25s} | {trend_info['trend']:12s} | "
+                          f"slope={trend_info['slope']:8.6f} | "
+                          f"r={trend_info['correlation']:6.3f} | "
+                          f"p={trend_info['p_value']:.4f} {sig_marker}")
 
     # Save results
     if all_results:
+        model_suffix = f"_{args.model}" if args.model != "all" else ""
         output_path = args.output or (
-            RESULTS_DIR / f"ce_feature_convergence_{args.domain}.json"
+            RESULTS_DIR / f"ce_feature_convergence_{args.domain}{model_suffix}.json"
         )
         
         with output_path.open("w", encoding="utf-8") as f:
@@ -262,6 +301,7 @@ def main() -> None:
             summary_data.append({
                 "feature": result["feature"],
                 "domain": result["domain"],
+                "model": result["model"],
                 "trend": trend_info["trend"],
                 "slope": trend_info["slope"],
                 "correlation": trend_info["correlation"],
@@ -280,26 +320,35 @@ def main() -> None:
         print(f"{'='*70}")
         
         for domain in domains_to_process:
-            domain_df = summary_df[summary_df["domain"] == domain]
-            converging = domain_df[domain_df["trend"] == "converging"]
-            stable = domain_df[domain_df["trend"] == "stable"]
-            diverging = domain_df[domain_df["trend"] == "diverging"]
-            
-            print(f"\n{domain.upper()}:")
-            print(f"  Converging: {len(converging)} features")
-            if len(converging) > 0:
-                sig_converging = converging[converging["significant"]]
-                print(f"    - Significant: {len(sig_converging)}")
-                if len(sig_converging) > 0:
-                    print(f"      {', '.join(sig_converging['feature'].tolist())}")
-            
-            print(f"  Stable: {len(stable)} features")
-            print(f"  Diverging: {len(diverging)} features")
-            if len(diverging) > 0:
-                sig_diverging = diverging[diverging["significant"]]
-                if len(sig_diverging) > 0:
-                    print(f"    - Significant: {len(sig_diverging)}")
-                    print(f"      {', '.join(sig_diverging['feature'].tolist())}")
+            for model in models_to_process:
+                model_label = model if model != "all" else "ALL"
+                domain_model_df = summary_df[
+                    (summary_df["domain"] == domain) & 
+                    (summary_df["model"] == (model if model != "all" else "all"))
+                ]
+                
+                if len(domain_model_df) == 0:
+                    continue
+                
+                converging = domain_model_df[domain_model_df["trend"] == "converging"]
+                stable = domain_model_df[domain_model_df["trend"] == "stable"]
+                diverging = domain_model_df[domain_model_df["trend"] == "diverging"]
+                
+                print(f"\n{domain.upper()} - {model_label}:")
+                print(f"  Converging: {len(converging)} features")
+                if len(converging) > 0:
+                    sig_converging = converging[converging["significant"]]
+                    print(f"    - Significant: {len(sig_converging)}")
+                    if len(sig_converging) > 0:
+                        print(f"      {', '.join(sig_converging['feature'].tolist())}")
+                
+                print(f"  Stable: {len(stable)} features")
+                print(f"  Diverging: {len(diverging)} features")
+                if len(diverging) > 0:
+                    sig_diverging = diverging[diverging["significant"]]
+                    if len(sig_diverging) > 0:
+                        print(f"    - Significant: {len(sig_diverging)}")
+                        print(f"      {', '.join(sig_diverging['feature'].tolist())}")
 
 
 if __name__ == "__main__":

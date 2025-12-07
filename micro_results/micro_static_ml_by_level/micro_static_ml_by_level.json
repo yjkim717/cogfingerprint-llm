@@ -1,0 +1,302 @@
+[
+  {
+    "level": "LV1",
+    "domain": "academic",
+    "human_samples": 500,
+    "llm_samples": 2000,
+    "total_samples": 2500,
+    "train_samples": 1750,
+    "test_samples": 750,
+    "n_features": 414,
+    "test_accuracy": 0.948,
+    "test_roc_auc": 0.9829888888888889,
+    "test_f1": 0.9672544080604534,
+    "cv_mean_accuracy": 0.9325714285714286,
+    "cv_std_accuracy": 0.009319717960171487,
+    "confusion_matrix": [
+      [
+        135,
+        15
+      ],
+      [
+        24,
+        576
+      ]
+    ]
+  },
+  {
+    "level": "LV1",
+    "domain": "blogs",
+    "human_samples": 1901,
+    "llm_samples": 7604,
+    "total_samples": 9505,
+    "train_samples": 6653,
+    "test_samples": 2852,
+    "n_features": 414,
+    "test_accuracy": 0.9737026647966339,
+    "test_roc_auc": 0.9957062902655411,
+    "test_f1": 0.9835273446079508,
+    "cv_mean_accuracy": 0.9651279212305746,
+    "cv_std_accuracy": 0.007029191445489424,
+    "confusion_matrix": [
+      [
+        538,
+        32
+      ],
+      [
+        43,
+        2239
+      ]
+    ]
+  },
+  {
+    "level": "LV1",
+    "domain": "news",
+    "human_samples": 3685,
+    "llm_samples": 14739,
+    "total_samples": 18424,
+    "train_samples": 12896,
+    "test_samples": 5528,
+    "n_features": 414,
+    "test_accuracy": 0.9956584659913169,
+    "test_roc_auc": 0.9998196588976865,
+    "test_f1": 0.9972862957937585,
+    "cv_mean_accuracy": 0.9947271492165403,
+    "cv_std_accuracy": 0.0015427780783021721,
+    "confusion_matrix": [
+      [
+        1094,
+        12
+      ],
+      [
+        12,
+        4410
+      ]
+    ]
+  },
+  {
+    "level": "LV1",
+    "domain": "all",
+    "human_samples": 6086,
+    "llm_samples": 24343,
+    "total_samples": 30429,
+    "train_samples": 21300,
+    "test_samples": 9129,
+    "n_features": 414,
+    "test_accuracy": 0.9653850366962428,
+    "test_roc_auc": 0.9931424001809336,
+    "test_f1": 0.9781284606866002,
+    "cv_mean_accuracy": 0.9646009389671362,
+    "cv_std_accuracy": 0.002101692890666611,
+    "confusion_matrix": [
+      [
+        1747,
+        79
+      ],
+      [
+        237,
+        7066
+      ]
+    ]
+  },
+  {
+    "level": "LV2",
+    "domain": "academic",
+    "human_samples": 500,
+    "llm_samples": 2000,
+    "total_samples": 2500,
+    "train_samples": 1750,
+    "test_samples": 750,
+    "n_features": 414,
+    "test_accuracy": 0.964,
+    "test_roc_auc": 0.9890888888888889,
+    "test_f1": 0.9774058577405857,
+    "cv_mean_accuracy": 0.9428571428571428,
+    "cv_std_accuracy": 0.00989743318610786,
+    "confusion_matrix": [
+      [
+        139,
+        11
+      ],
+      [
+        16,
+        584
+      ]
+    ]
+  },
+  {
+    "level": "LV2",
+    "domain": "blogs",
+    "human_samples": 1901,
+    "llm_samples": 7604,
+    "total_samples": 9505,
+    "train_samples": 6653,
+    "test_samples": 2852,
+    "n_features": 414,
+    "test_accuracy": 0.9730014025245441,
+    "test_roc_auc": 0.9961283577040762,
+    "test_f1": 0.9830657576424016,
+    "cv_mean_accuracy": 0.9765514085740271,
+    "cv_std_accuracy": 0.0021524679992071263,
+    "confusion_matrix": [
+      [
+        540,
+        30
+      ],
+      [
+        47,
+        2235
+      ]
+    ]
+  },
+  {
+    "level": "LV2",
+    "domain": "news",
+    "human_samples": 3685,
+    "llm_samples": 14739,
+    "total_samples": 18424,
+    "train_samples": 12896,
+    "test_samples": 5528,
+    "n_features": 414,
+    "test_accuracy": 0.9952966714905933,
+    "test_roc_auc": 0.9998339716835845,
+    "test_f1": 0.9970574920778633,
+    "cv_mean_accuracy": 0.9953473343132216,
+    "cv_std_accuracy": 0.0011240056801179244,
+    "confusion_matrix": [
+      [
+        1097,
+        9
+      ],
+      [
+        17,
+        4405
+      ]
+    ]
+  },
+  {
+    "level": "LV2",
+    "domain": "all",
+    "human_samples": 6086,
+    "llm_samples": 24343,
+    "total_samples": 30429,
+    "train_samples": 21300,
+    "test_samples": 9129,
+    "n_features": 414,
+    "test_accuracy": 0.9698762186438822,
+    "test_roc_auc": 0.9943621722771734,
+    "test_f1": 0.9810122212248843,
+    "cv_mean_accuracy": 0.9666666666666668,
+    "cv_std_accuracy": 0.0019639906726151945,
+    "confusion_matrix": [
+      [
+        1750,
+        76
+      ],
+      [
+        199,
+        7104
+      ]
+    ]
+  },
+  {
+    "level": "LV3",
+    "domain": "academic",
+    "human_samples": 500,
+    "llm_samples": 2000,
+    "total_samples": 2500,
+    "train_samples": 1750,
+    "test_samples": 750,
+    "n_features": 414,
+    "test_accuracy": 0.9746666666666667,
+    "test_roc_auc": 0.9936222222222223,
+    "test_f1": 0.984179850124896,
+    "cv_mean_accuracy": 0.96,
+    "cv_std_accuracy": 0.013401187885209812,
+    "confusion_matrix": [
+      [
+        140,
+        10
+      ],
+      [
+        9,
+        591
+      ]
+    ]
+  },
+  {
+    "level": "LV3",
+    "domain": "blogs",
+    "human_samples": 1901,
+    "llm_samples": 7604,
+    "total_samples": 9505,
+    "train_samples": 6653,
+    "test_samples": 2852,
+    "n_features": 414,
+    "test_accuracy": 0.9831697054698457,
+    "test_roc_auc": 0.9967180220489875,
+    "test_f1": 0.9894782989916703,
+    "cv_mean_accuracy": 0.9801597532524022,
+    "cv_std_accuracy": 0.002153988563070401,
+    "confusion_matrix": [
+      [
+        547,
+        23
+      ],
+      [
+        25,
+        2257
+      ]
+    ]
+  },
+  {
+    "level": "LV3",
+    "domain": "news",
+    "human_samples": 3685,
+    "llm_samples": 14740,
+    "total_samples": 18425,
+    "train_samples": 12897,
+    "test_samples": 5528,
+    "n_features": 414,
+    "test_accuracy": 0.997286541244573,
+    "test_roc_auc": 0.9999554258953466,
+    "test_f1": 0.9983048932082721,
+    "cv_mean_accuracy": 0.9973638000426822,
+    "cv_std_accuracy": 0.00045169228450335876,
+    "confusion_matrix": [
+      [
+        1096,
+        10
+      ],
+      [
+        5,
+        4417
+      ]
+    ]
+  },
+  {
+    "level": "LV3",
+    "domain": "all",
+    "human_samples": 6086,
+    "llm_samples": 24344,
+    "total_samples": 30430,
+    "train_samples": 21301,
+    "test_samples": 9129,
+    "n_features": 414,
+    "test_accuracy": 0.9754628108226531,
+    "test_roc_auc": 0.9961815569199234,
+    "test_f1": 0.9845644983461963,
+    "cv_mean_accuracy": 0.9725832834761837,
+    "cv_std_accuracy": 0.003358545504454054,
+    "confusion_matrix": [
+      [
+        1761,
+        65
+      ],
+      [
+        159,
+        7144
+      ]
+    ]
+  }
+]
